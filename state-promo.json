@@ -69,7 +69,8 @@
    "SAS|id:478311",
    "SAS|id:902716",
    "SAS|id:585534",
-   "SAS|id:39352"
+   "SAS|id:39352",
+   "SAS|id:541560"
   ],
   "Yerevan City": [
    "Yerevan City|33% мебель для сада комплект стул+4стол+зонт 80см 185|89990|59987|",
@@ -156,17 +157,6 @@
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Image 387: Լվացքի կոնդիցիոներ «Vernel Sensitive» 960մլ",
-    "old": 2250,
-    "new": 2135,
-    "pct": 5,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/334/957/95728950006808.webp",
-    "url": "https://www.sas.am/catalog/opolaskivatel_konditsioner_kontsentrat/541560/",
-    "key": "SAS|id:541560"
-   },
    {
     "store": "SAS",
     "title": "Image 390: Թեյ սև «Curtis Very Berry» 20*1.7գ",
@@ -3688,12 +3678,56 @@
     "img": "",
     "url": "https://yerevan-city.am/shop/product-details/181118",
     "key": "Yerevan City|id:181118"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մարտկոց «Դյուրասելլ» Լիթիում ՑՌ2 3Վ 2հտ",
+    "old": 7460,
+    "new": 6520,
+    "pct": 13,
+    "until": "",
+    "img": "",
+    "url": "https://yerevan-city.am/shop/product-details/6269",
+    "key": "Yerevan City|id:6269"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մարտկոց «Դյուրասելլ» Օպտիմում ԱԱ 1.5Վ 6հտ",
+    "old": 3450,
+    "new": 3030,
+    "pct": 12,
+    "until": "",
+    "img": "",
+    "url": "https://yerevan-city.am/shop/product-details/131372",
+    "key": "Yerevan City|id:131372"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մարտկոց «Դյուրասելլ» Օպտիմում ԱԱԱ 1.5Վ 6հտ",
+    "old": 3450,
+    "new": 3020,
+    "pct": 12,
+    "until": "",
+    "img": "",
+    "url": "https://yerevan-city.am/shop/product-details/131373",
+    "key": "Yerevan City|id:131373"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մարտկոց «Դյուրասելլ» Դ 1.5Վ 2հտ",
+    "old": 3190,
+    "new": 2789,
+    "pct": 13,
+    "until": "",
+    "img": "",
+    "url": "https://yerevan-city.am/shop/product-details/8796",
+    "key": "Yerevan City|id:8796"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-17T20:31:48.835944+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-17T20:46:13.336257+04:00",
  "version": 3,
  "cursor": {
   "SAS": 15,
