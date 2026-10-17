@@ -245,7 +245,10 @@ def card_until(it):
     if not page:
         return ""
     try:
-        html = requests.get(page, timeout=45, headers=HDRS).text
+        if "yerevan-city.am" in page:
+            html = fetch(page)      # сайт рендерит дату через JS — читаем через jina
+        else:
+            html = requests.get(page, timeout=45, headers=HDRS).text
     except Exception as e:
         print("дата: %s" % e)
         return ""
