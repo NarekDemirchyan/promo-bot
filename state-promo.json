@@ -39,7 +39,29 @@
    "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|47000|41000",
    "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|45000|39000",
    "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|44000|37500",
-   "SAS|ցույց տալ ավելին|14250|11000"
+   "SAS|ցույց տալ ավելին|14250|11000",
+   "SAS|t:դիտել ամբողջ բաժինը",
+   "SAS|t:դր. զամբյուղում",
+   "SAS|t:դր. զամբյուղում",
+   "SAS|t:դր. զամբյուղում",
+   "SAS|t:դր. զամբյուղում",
+   "SAS|t:դր. զամբյուղում",
+   "SAS|t:դր. զամբյուղում",
+   "SAS|t:դր. զամբյուղում",
+   "SAS|t:դր. զամբյուղում",
+   "SAS|t:դր. զամբյուղում",
+   "SAS|t:դր. զամբյուղում",
+   "SAS|t:դր. զամբյուղում",
+   "SAS|t:դր. զամբյուղում",
+   "SAS|t:դր. զամբյուղում",
+   "SAS|t:դր. զամբյուղում",
+   "SAS|t:դր. զամբյուղում",
+   "SAS|t:դր. զամբյուղում",
+   "SAS|t:դր. զամբյուղում",
+   "SAS|t:դր. զամբյուղում",
+   "SAS|t:դր. զամբյուղում",
+   "SAS|t:դր. զամբյուղում",
+   "SAS|t:դր. զամբյուղում"
   ],
   "Yerevan City": [
    "Yerevan City|33% мебель для сада комплект стул+4стол+зонт 80см 185|89990|59987|",
@@ -122,16 +144,6 @@
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Էքսկլյուզիվ կոմպոզիցիա «SAS Flowers by Villani»",
-    "old": 15250,
-    "new": 11000,
-    "pct": 28,
-    "until": "05.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/401/786/7860422014645357.webp",
-    "page": "https://www.sas.am/catalog/sasexclusiveflowers/583361/"
-   },
    {
     "store": "SAS",
     "title": "Էքսկլյուզիվ կոմպոզիցիա «SAS Flowers by Villani»",
@@ -261,6 +273,248 @@
     "until": "05.11.2026",
     "img": "https://www.sas.am/upload/Sh/imageCache/899/120/1205362692467433.webp",
     "page": "https://www.sas.am/catalog/antiperspirantt/39352/"
+   },
+   {
+    "store": "SAS",
+    "title": "Դիտել ամբողջ բաժինը",
+    "old": 15500,
+    "new": 11000,
+    "pct": 29,
+    "until": "05.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/410/465/465773193496900.webp",
+    "url": "https://www.sas.am/catalog/elektrotovary/",
+    "key": "SAS|t:դիտել ամբողջ բաժինը"
+   },
+   {
+    "store": "SAS",
+    "title": "դր. Զամբյուղում",
+    "old": 23500,
+    "new": 19000,
+    "pct": 19,
+    "until": "05.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/order/",
+    "key": "SAS|t:դր. զամբյուղում"
+   },
+   {
+    "store": "SAS",
+    "title": "դր. Զամբյուղում",
+    "old": 15250,
+    "new": 11000,
+    "pct": 28,
+    "until": "05.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/order/",
+    "key": "SAS|t:դր. զամբյուղում"
+   },
+   {
+    "store": "SAS",
+    "title": "դր. Զամբյուղում",
+    "old": 25750,
+    "new": 19500,
+    "pct": 24,
+    "until": "05.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/order/",
+    "key": "SAS|t:դր. զամբյուղում"
+   },
+   {
+    "store": "SAS",
+    "title": "դր. Զամբյուղում",
+    "old": 41500,
+    "new": 28000,
+    "pct": 33,
+    "until": "05.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/order/",
+    "key": "SAS|t:դր. զամբյուղում"
+   },
+   {
+    "store": "SAS",
+    "title": "դր. Զամբյուղում",
+    "old": 39000,
+    "new": 34500,
+    "pct": 12,
+    "until": "05.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/order/",
+    "key": "SAS|t:դր. զամբյուղում"
+   },
+   {
+    "store": "SAS",
+    "title": "դր. Զամբյուղում",
+    "old": 42000,
+    "new": 35500,
+    "pct": 15,
+    "until": "05.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/order/",
+    "key": "SAS|t:դր. զամբյուղում"
+   },
+   {
+    "store": "SAS",
+    "title": "դր. Զամբյուղում",
+    "old": 45500,
+    "new": 38000,
+    "pct": 16,
+    "until": "05.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/order/",
+    "key": "SAS|t:դր. զամբյուղում"
+   },
+   {
+    "store": "SAS",
+    "title": "դր. Զամբյուղում",
+    "old": 44000,
+    "new": 38000,
+    "pct": 14,
+    "until": "05.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/order/",
+    "key": "SAS|t:դր. զամբյուղում"
+   },
+   {
+    "store": "SAS",
+    "title": "դր. Զամբյուղում",
+    "old": 5250,
+    "new": 2127,
+    "pct": 59,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/order/",
+    "key": "SAS|t:դր. զամբյուղում"
+   },
+   {
+    "store": "SAS",
+    "title": "դր. Զամբյուղում",
+    "old": 24000,
+    "new": 19000,
+    "pct": 21,
+    "until": "05.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/order/",
+    "key": "SAS|t:դր. զամբյուղում"
+   },
+   {
+    "store": "SAS",
+    "title": "դր. Զամբյուղում",
+    "old": 24000,
+    "new": 19000,
+    "pct": 21,
+    "until": "05.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/order/",
+    "key": "SAS|t:դր. զամբյուղում"
+   },
+   {
+    "store": "SAS",
+    "title": "դր. Զամբյուղում",
+    "old": 23500,
+    "new": 19000,
+    "pct": 19,
+    "until": "05.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/order/",
+    "key": "SAS|t:դր. զամբյուղում"
+   },
+   {
+    "store": "SAS",
+    "title": "դր. Զամբյուղում",
+    "old": 24000,
+    "new": 19000,
+    "pct": 21,
+    "until": "05.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/order/",
+    "key": "SAS|t:դր. զամբյուղում"
+   },
+   {
+    "store": "SAS",
+    "title": "դր. Զամբյուղում",
+    "old": 5850,
+    "new": 292,
+    "pct": 95,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/order/",
+    "key": "SAS|t:դր. զամբյուղում"
+   },
+   {
+    "store": "SAS",
+    "title": "դր. Զամբյուղում",
+    "old": 72450,
+    "new": 55000,
+    "pct": 24,
+    "until": "05.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/order/",
+    "key": "SAS|t:դր. զամբյուղում"
+   },
+   {
+    "store": "SAS",
+    "title": "դր. Զամբյուղում",
+    "old": 50000,
+    "new": 42000,
+    "pct": 16,
+    "until": "05.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/order/",
+    "key": "SAS|t:դր. զամբյուղում"
+   },
+   {
+    "store": "SAS",
+    "title": "դր. Զամբյուղում",
+    "old": 102450,
+    "new": 79900,
+    "pct": 22,
+    "until": "05.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/order/",
+    "key": "SAS|t:դր. զամբյուղում"
+   },
+   {
+    "store": "SAS",
+    "title": "դր. Զամբյուղում",
+    "old": 47000,
+    "new": 41000,
+    "pct": 13,
+    "until": "05.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/order/",
+    "key": "SAS|t:դր. զամբյուղում"
+   },
+   {
+    "store": "SAS",
+    "title": "դր. Զամբյուղում",
+    "old": 45000,
+    "new": 39000,
+    "pct": 13,
+    "until": "05.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/order/",
+    "key": "SAS|t:դր. զամբյուղում"
+   },
+   {
+    "store": "SAS",
+    "title": "դր. Զամբյուղում",
+    "old": 44000,
+    "new": 37500,
+    "pct": 15,
+    "until": "05.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/order/",
+    "key": "SAS|t:դր. զամբյուղում"
+   },
+   {
+    "store": "SAS",
+    "title": "դր. Զամբյուղում",
+    "old": 14250,
+    "new": 11000,
+    "pct": 23,
+    "until": "05.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/order/",
+    "key": "SAS|t:դր. զամբյուղում"
    }
   ],
   "Yerevan City": [
@@ -707,8 +961,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-17T15:30:34.097896+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-17T16:00:41.661667+04:00",
  "version": 3,
  "cursor": {
   "SAS": 15,
