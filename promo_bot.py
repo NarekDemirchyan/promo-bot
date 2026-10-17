@@ -3,14 +3,17 @@
 
 Այս տարբերակում ուղղված է.
  1. SAS-ի նավիգացիոն հղումները («0 դր. Զամբյուղում», «Դիտել ամբողջ բաժինը»)
-    այլևս չեն ընկնում որպես ապրանք. դիրքն անցնում է միայն եթե ունի
-    id-ով վերջացող հղում կամ «Ակցիան գործում է» տող.
+    այլևս չեն ընկնում որպես ապրանք. դիրքն անցնում է միայն եթե ունի id-ով
+    վերջացող հղում կամ «Ակցիան գործում է» տողը պատուհանում.
  2. Քարտի պատուհանը կտրվում է «Զամբյուղում» կոճակի վրա, ուստի գինը և
     «Մինչև՝»-ը միշտ նույն ապրանքից են, ոչ հարևան քարտից.
- 3. SEND_AS_FILE=True — լուսանկարը գնում է ֆայլով, լրիվ չափով.
- 4. Քարտի գլխավոր լուսանկարը (og:image) առաջինն է, Yerevan City-ի մոտ
-    փորձվում է նաև առանց «Resize» հատվածի լրիվ տարբերակը.
- 5. Մեկանգամյա մաքրում՝ հերթից հանվում է միայն այն SAS դիրքը, որը ապրանքի
+ 3. SEND_AS_FILE=True — լուսանկարը գնում է ֆայլով, լրիվ չափով, Telegram-ը
+    չի սեղմում 1280px-ի.
+ 4. Լուսանկարի թեկնածուներից ընտրվում է ամենածանրը, ոչ առաջինը. Yerevan
+    City-ի «Resize» հղման կողքին փորձվում է նաև առանց «Resize»-ի տարբերակը.
+ 5. Կրկնակի փորձ բոլոր խանութների համար + էջի երկարության տպում, որ
+    հակաբոտ պատը տարբերվի զտիչի սխալից.
+ 6. Մեկանգամյա մաքրում՝ հերթից հանվում է միայն այն SAS դիրքը, որը ապրանքի
     քարտ չէ. մնացածի կարգը չի փոխվում.
 """
 import json
@@ -248,16 +251,17 @@ def photo_candidates(it):
     # Քարտի գլխավոր լուսանկարը (og:image) ցանկի առաջին պիտանին է։
     # Չափով ամենամեծը վերցնել չի կարելի. քարտի էջում ուրիշ նկարներ էլ կան։
     cands = card_images(it)[:6]
-    # Yerevan City-ն ցուցակում տալիս է «Resize» տարբերակը. առաջ ենք դնում
-    # առանց այդ հատվածի հղումը (լրիվ չափ), 404-ի դեպքում կոդն ինքն է
-    # վերադառնում հաջորդ պիտանինին։
-    extra = []
+    # Yerevan City-ն ցուցակում տալիս է «Resize» տարբերակը. կողքին դնում ենք
+    # առանց այդ հատվածի հղումը (լրիվ չափ). եթե չկա՝ 404, ու հաջորդն է գնում։
+    out = []
     for u in cands:
         if "/Image/Resize/" in u:
             alt = u.replace("/Image/Resize/", "/Image/")
-            if alt not in extra:
-                extra.append(alt)
-    return extra + cands
+            if alt not in out:
+                out.append(alt)
+        if u not in out:
+            out.append(u)
+    return out
 
 def card_until(it):
     """Ակցիայի ժամկետը ապրանքի քարտից (Yerevan City-ն ցուցակում ամսաթիվ չի տալիս)։"""
@@ -280,17 +284,29 @@ def card_until(it):
             return "%02d.%02d.%s" % (int(day), m, year)
     return ""
 
-def best_photo(it):
-    """Ապրանքի իսկական լուսանկարը՝ ցանկի առաջին պիտանին (og:image)։"""
-    for u in photo_candidates(it):
-        try:
-            r = requests.get(u, timeout=60, headers=HDRS)
-        except Exception as e:
-            print("նկար: %s — %s" % (u, e))
-            continue
-        if r.ok and len(r.content) > 5000:
-            return r.content, u.split("?")[0].rsplit("/", 1)[-1] or "photo.jpg"
-    return b"", "photo.jpg"
+def best_photo(it, cands=None):
+    """Ապրանքի լուսանկարը՝ առաջնահերթ թեկնածուներից ամենածանրը (ամենամեծ),
+    ոչ թե առաջինը. ցածր թույլտվությամբ տարբերակը այսպես դեն է ընկնում։
+    Քարտի էջի մյուս <img>-երը (կարող են ուրիշ ապրանքների լինել) պահուստ են
+    ու մեծությամբ ընտրելիս հաշվի չեն առնվում։"""
+    cands = cands if cands is not None else photo_candidates(it)
+    best, best_url = b"", ""
+    for group in (cands[:3], cands[3:]):
+        for u in group:
+            try:
+                r = requests.get(u, timeout=60, headers=HDRS)
+            except Exception as e:
+                print("նկար: %s — %s" % (u, e))
+                continue
+            if r.ok and len(r.content) > 5000 and len(r.content) > len(best):
+                best, best_url = r.content, u
+        if best:
+            break
+    if not best:
+        return b"", "photo.jpg"
+    name = best_url.split("?")[0].rsplit("/", 1)[-1] or "photo.jpg"
+    print("նկար՝ %s (%d ԿԲ)" % (best_url, len(best) // 1024))
+    return best, name
 
 def send(it):
     it["title"] = clean_title(it["title"])
@@ -300,12 +316,14 @@ def send(it):
         it["store"], it["title"], money(it["old"]), money(it["new"]), it["pct"])
     if it["until"]:
         text += "\nՄինչև՝ %s" % it["until"]
+    cands = photo_candidates(it)
     if DRY:
-        cand = card_images(it)
-        print("[DRY] " + text.replace("\n", " | ") + " | նկար: " + (cand[0] if cand else "չկա"))
+        data, name = best_photo(it, cands)
+        print("[DRY] " + text.replace("\n", " | ") +
+              " | նկար՝ %s (%d ԿԲ)" % (name, len(data) // 1024))
         return True
     try:
-        data, name = best_photo(it)
+        data, name = best_photo(it, cands)
     except Exception as e:
         print("լուսանկարի սխալ: %s" % e)
         data, name = b"", "photo.jpg"
@@ -318,7 +336,7 @@ def send(it):
         if r.ok and r.json().get("ok"):
             return True
         print("Ֆայլը չգնաց: %s" % r.text[:200])
-    for u in photo_candidates(it)[:4]:
+    for u in cands[:4]:
         r = requests.post(API + "sendPhoto",
                           data={"chat_id": CHANNEL, "photo": u, "caption": text,
                                 "reply_markup": BUTTON}, timeout=60)
@@ -398,16 +416,22 @@ def main():
             print("%s: բեռնելու սխալ: %s" % (store, e))
             continue
         items = PARSERS[store](md)
-        if not items and store == "Yerevan City":
-            md = fetch(url + "?r=%d" % int(time.time()))
-            items = PARSERS[store](md)
+        if not items:
+            # Էջը կարող է դատարկ գալ (հակաբոտ պատ), կամ էլ զտիչն է դեն
+            # նետել իրական քարտերը։ Այս տողերը տարբերում են երկու դեպքը։
+            print("%s: առաջին փորձով 0 դիրք, էջը %d նշան" % (store, len(md)))
+            try:
+                md = fetch(url + "?r=%d" % int(time.time()))
+                items = PARSERS[store](md)
+            except Exception as e:
+                print("%s: կրկնակի բեռնելու սխալ: %s" % (store, e))
+            print("%s: կրկնակի փորձից հետո էջը %d նշան, դիրք %d"
+                  % (store, len(md), len(items)))
         print("%s: գտնվեց %d զեղչով դիրք" % (store, len(items)))
         if DRY:
             for it in items[:5]:
-                cand = card_images(it)
-                print("    - %s | %s->%s ֏ (-%s%%) %s | նկար: %s"
-                      % (it["title"][:70], it["old"], it["new"], it["pct"], it["until"],
-                         cand[0] if cand else "չկա"))
+                print("    - %s | %s->%s ֏ (-%s%%) %s"
+                      % (it["title"][:70], it["old"], it["new"], it["pct"], it["until"]))
         seen_set = set(st["seen"].setdefault(store, []))
         in_queue = set(x.get("key") for x in st["queues"].get(store, []))
         fresh = []
