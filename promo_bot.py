@@ -13,31 +13,21 @@ CHANNEL = os.environ.get("CHANNEL", "")
 DRY = os.environ.get("DRY_RUN", "0") == "1"
 
 STATE = "state-promo.json"
-STATE_VERSION = 6
 YE = timezone(timedelta(hours=4))
-PUB_FROM, PUB_TO = 0, 24     # публикация круглосуточно
-STEP_MIN = 15                # шаг публикации
-QUEUE_CAP = 200              # потолок очереди для каждого магазина
-SEEN_CAP = 1000              # сколько «виденных» ключей помним
-SAS_PER_RUN = 5              # страниц SAS за прогон (по 24 позиции)
+PUB_FROM, PUB_TO = 8, 24
+STEP_MIN = 15
+QUEUE_CAP = 200
+SEED_PER_STORE = 8
+CITY_SEEN_KEEP = 20
 API = "https://api.telegram.org/bot%s/" % TOKEN
 JINA = "https://r.jina.ai/"
 
 # Фото уходит файлом — без пережатия Telegram. Нужен обычный пост-«фото»:
 # поставьте False.
-SEND_AS_FILE = False
+SEND_AS_FILE = True
 
-SKIP_IMG = ("logo", "18-plus", "flags/", "icon", "banner", "bannier", "svg",
+SKIP_IMG = ("logo", "18-plus", "flags/", "icon", "banner", "banniere", "svg",
             "sprite", "placeholder", "no-photo", "nophoto")
-
-# Служебные строки списка: это не товары, а кнопки и подписи.
-JUNK = ("հայտարարություն", "տես ավելին", "ցույց տալ ավելին",
-        "դիտել ամբողջ բաժինը", "դր. զամբյուղում", "առաջ", "վերադառնալ",
-        "купить", "в корзину", "подробнее", "все акции", "շուտով")
-
-# Цветы SAS не публикуем: ни композиции, ни букеты, ни отдельные цветы.
-NO_FLOWERS = ("flowers by villani", "milani", "bouquet", "flowers",
-              "ծաղկեփունջ", "փունջ", "ծաղիկ")
 
 HDRS = {
     "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -52,33 +42,20 @@ BUTTON = json.dumps(
     ensure_ascii=False,
 )
 
-SAS_URL = "https://www.sas.am/catalog/discount/"
-SAS_PAGE = 24
-SAS_OFFSETS = list(range(0, 828, SAS_PAGE))   # 35 страниц, 827 позиций
-CITY_OFFERS = "https://yerevan-city.am/shop/best-offers"
-
-STORES = {"SAS": SAS_URL, "Yerevan City": CITY_OFFERS}
-
-# SAS пишет цены как «19 000 դր.», а не «֏». Цену за единицу («292 դր./1հատ»,
-# «2 127 դր./1լ») отбрасываем: иначе она попадает в конец списка и уходит
-# в пост как цена акции.
-PRICE = re.compile(r"([\d][\d\s,\.]{1,12}?)\s*(?:֏|դր\.?|\bnull\b)(?!\s*/)")
+STORES = {
+    "SAS": "https://www.sas.am/catalog/discount/",
+    "Yerevan City": "https://yerevan-city.am/shop/best-offers",
+}
+PRICE = re.compile(r"([\d][\d\s,\.]{1,12}?)\s*(?:֏|\bnull\b)")
 DATE = re.compile(r"\b(\d{2}\.\d{2}\.\d{4})\b")
-# Процент, который показывает сама карточка: «-14% Ակցիան գործում է …».
-PCT_SHOWN = re.compile(r"-\s*(\d{1,3})\s*%")
-# Карточка SAS в списке: пустая ссылка [](товар) либо [![Image: Название](фото)](товар).
-# Название берём из текста после ссылки — на части страниц фото в разметку не попадает.
-SAS_CARD = re.compile(
-    r"\[(?:!\[[^\]]{4,300}\]\([^)]*\)(?:!\[[^\]]*\]\([^)]*\))*|)\]"
-    r"\((https://www\.sas\.am/(?!upload/)[^)\s]+)\)")
+SAS_LINK = re.compile(r"\[([^\]\n]{4,160})\]\((https://www\.sas\.am/[^)\s]+)\)")
 CITY_LINK = re.compile(
-    r"\[([^\]\n]{10,400}?)\]\((https://yerevan-city\.am/shop/product-details/(\d+))\)", re.S)
+    r"\[([^\]]{10,400}?)\]\((https://yerevan-city\.am/shop/product-details/(\d+))\)", re.S)
 CITY_PRICE = re.compile(
     r"~~\s*([\d][\d\s,\.]{0,14}?)\s*(?:֏|\bnull\b)?\s*~~\s*([\d][\d\s,\.]{0,14})", re.S)
 CYR = re.compile(r"[А-Яа-яёЁ]")
 RU_LABEL = re.compile(r"^\s*(Скидка|Эксклюзив|Акция|Суперцена|Sale)\s*[:.\-]?\s*", re.I)
 PCT_HEAD = re.compile(r"^\s*[-–—+%]*\s*\d{1,3}\s*%?\s*")
-IMG_LABEL = re.compile(r"^Image\s+\d+\s*:\s*")
 ARTIC = re.compile(r"\s+\d{4,}$")
 OG = re.compile(
     r"""<meta[^>]+(?:property|name)=['"]og:image['"][^>]+content=['"]([^'"]+)""", re.I)
@@ -86,35 +63,11 @@ OG2 = re.compile(
     r"""<meta[^>]+content=['"]([^'"]+)['"][^>]+(?:property|name)=['"]og:image['"]""", re.I)
 IMG_SRC = re.compile(r"""<img[^>]+src=['"]([^'"]+\.(?:webp|jpe?g|png)[^'"]*)['"]""", re.I)
 IMG_MD = re.compile(r"!\[[^\]]*\]\((https?://[^)\s]+)\)")
-# Срок акции Yerevan City — только на карточке: «Մինչև 08 հունվար 2026 — 31 հունվար 2026».
-MONTHS = {"հունվար": 1, "փետրվար": 2, "մարտ": 3, "ապրիլ": 4, "մայիս": 5,
-          "հունիս": 6, "հուլիս": 7, "օգոստոս": 8, "սեպտեմբեր": 9,
-          "հոկտեմբեր": 10, "նոյեմբեր": 11, "դեկտեմբեր": 12}
-CARD_DATE = re.compile(r"(\d{1,2})\s+([Ա-Ֆա-ֆ]{3,12})\s+(\d{4})")
 
 def fetch(url):
     r = requests.get(JINA + url, timeout=120, headers={"User-Agent": HDRS["User-Agent"]})
     r.raise_for_status()
     return r.text
-
-def tick():
-    """Номер 15-минутного слота — по нему читаем очередь страниц."""
-    return int(time.time()) // (STEP_MIN * 60)
-
-def sas_pages():
-    n = len(SAS_OFFSETS)
-    start = (tick() * SAS_PER_RUN) % n
-    out = []
-    for i in range(SAS_PER_RUN):
-        off = SAS_OFFSETS[(start + i) % n]
-        out.append(SAS_URL if off == 0 else "%s?offset=%d" % (SAS_URL, off))
-    return out
-
-def city_pages():
-    # Категории сайта скидочных цен не отдают — только страница скидок.
-    return [CITY_OFFERS]
-
-PAGES = {"SAS": sas_pages, "Yerevan City": city_pages}
 
 def num(s):
     s = (s or "").replace(" ", "").replace(",", "")
@@ -137,59 +90,15 @@ def has_cyr(s):
 def clean_title(t):
     t = re.sub(r"~~.*$", "", t or "", flags=re.S)
     t = re.sub(r"\s+", " ", t.replace("\\", " ")).strip(" -|")
-    t = IMG_LABEL.sub("", t)
     t = PCT_HEAD.sub("", t).strip(" -|%")
     t = RU_LABEL.sub("", t).strip(" -|")
     return ARTIC.sub("", t).strip(" -|")
-
-def is_junk(title):
-    low = (title or "").lower()
-    return any(s in low for s in JUNK)
-
-def is_flower(it):
-    s = ((it.get("title") or "") + " " + (it.get("url") or "")).lower()
-    return any(w in s for w in NO_FLOWERS)
-
-def card_title(chunk):
-    """Название товара — первая содержательная строка после ссылки."""
-    for raw in chunk.split("\n"):
-        line = raw.strip()
-        if not line or line[0] in "[!":
-            continue
-        if "դր." in line or "֏" in line or "Ակցիան" in line:
-            continue
-        if len(line) < 6 or is_junk(line):
-            continue
-        return line
-    return ""
-
-def pick_prices(chunk, prices):
-    """Старая и новая цена: сверяем с процентом, который показывает карточка.
-
-    В карточке три числа: старая цена, цена по акции и цена за единицу
-    («2 127 դր./1լ»). Берём ту пару, которая даёт объявленный в карточке процент.
-    """
-    if len(prices) >= 2:
-        m = PCT_SHOWN.search(chunk)
-        if m:
-            want = int(m.group(1))
-            best = None
-            for i, old in enumerate(prices):
-                for new in prices[i + 1:]:
-                    if old <= new:
-                        continue
-                    if abs(round((old - new) * 100 / old) - want) <= 1:
-                        if best is None or old > best[0]:
-                            best = (old, new)
-            if best:
-                return best
-    return prices[0], prices[-1]
 
 def make(store, title, old, new, until, img, url=""):
     title = clean_title(title)
     if len(title) < 4 or new <= 0 or old <= new:
         return None
-    if has_cyr(title) or is_junk(title):
+    if has_cyr(title):
         return None
     pct = round((old - new) * 100 / old)
     if pct < 5:
@@ -198,20 +107,19 @@ def make(store, title, old, new, until, img, url=""):
             "pct": pct, "until": until or "", "img": img or "", "url": url or ""}
 
 def parse_sas(md):
-    out, links = [], list(SAS_CARD.finditer(md))
+    out, links = [], list(SAS_LINK.finditer(md))
+    skip = ("купить", "в корзину", "подробнее", "все акции", "հավելին", "ցույց տալ", "շուտով")
     for i, m in enumerate(links):
+        if m.group(1).strip().lower() in skip:
+            continue
         end = links[i + 1].start() if i + 1 < len(links) else min(len(md), m.end() + 900)
         chunk = md[m.end():end]
         prices = [p for p in (num(x) for x in PRICE.findall(chunk)) if p > 0]
         if len(prices) < 2:
             continue
-        title = card_title(chunk)
-        if not title:
-            continue
-        old, new = pick_prices(chunk, prices)
         dates = DATE.findall(chunk)
-        out.append(make("SAS", title, old, new,
-                        dates[-1] if dates else "", img_in(chunk), m.group(1)))
+        out.append(make("SAS", m.group(1), prices[0], prices[-1],
+                        dates[-1] if dates else "", img_in(chunk), m.group(2)))
     return [x for x in out if x]
 
 def parse_city(md):
@@ -239,49 +147,13 @@ def save_state(st):
         json.dump(st, f, ensure_ascii=False, indent=1)
 
 def key(it):
-    m = re.search(r"/(\d{4,})/?$", it.get("url") or it.get("page") or "")
+    m = re.search(r"/(\d{4,})/?$", it.get("url") or "")
     if m:
         return "%s|id:%s" % (it["store"], m.group(1))
-    return "%s|t:%s" % (it["store"], (it.get("title") or "").lower())
+    return "%s|t:%s" % (it["store"], it["title"].lower())
 
 def legacy_key(it):
-    return "%s|%s|%s|%s|%s" % (it.get("store"), (it.get("title") or "").lower(),
-                               it.get("old", 0), it.get("new", 0),
-                               it.get("until") or "")
-
-def seen_keys(seen):
-    """«Виденное» приводим к строкам: в старых файлах встречаются списки."""
-    keys = set()
-    for x in seen:
-        if isinstance(x, (list, tuple)):
-            x = "|".join(str(p) for p in x)
-        elif not isinstance(x, str):
-            x = str(x)
-        keys.add(x)
-    return keys
-
-def known_before(it, keys):
-    return it.get("key") in keys or legacy_key(it) in keys
-
-def store_items(store, pages):
-    """Читает очередь страниц, порядок позиций — как на сайте."""
-    items, keys = [], set()
-    for page in pages:
-        try:
-            md = fetch(page)
-        except Exception as e:
-            print("%s %s: ошибка загрузки: %s" % (store, page, e))
-            continue
-        fresh = []
-        for x in PARSERS[store](md):
-            k = key(x)
-            if k in keys:
-                continue
-            keys.add(k)
-            fresh.append(x)
-        items.extend(fresh)
-        print("%s %s: новых позиций %d" % (store, page, len(fresh)))
-    return items
+    return "%s|%s|%s|%s|%s" % (it["store"], it["title"].lower(), it["old"], it["new"], it["until"])
 
 def card_images(it):
     urls = []
@@ -311,36 +183,10 @@ def card_images(it):
             out.append(u)
     return out
 
-def card_until(it):
-    """Срок акции с карточки товара (Yerevan City в списке дату не отдаёт)."""
-    page = it.get("url") or it.get("page") or ""
-    if not page:
-        return ""
-    try:
-        if "yerevan-city.am" in page:
-            html = fetch(page)      # сайт рендерит дату через JS — читаем через jina
-        else:
-            html = requests.get(page, timeout=45, headers=HDRS).text
-    except Exception as e:
-        print("дата: %s" % e)
-        return ""
-    i = html.find("Մինչև")
-    if i == -1:
-        i = html.find("մինչև")
-    if i == -1:
-        return ""
-    d = CARD_DATE.findall(html[i:i + 600])
-    if len(d) >= 2:
-        day, mon, year = d[1]
-        m = MONTHS.get(mon.lower())
-        if m:
-            return "%02d.%02d.%s" % (int(day), m, year)
-    return ""
-
-def best_photo(it, urls=None):
+def best_photo(it):
     best = b""
-    looking = "photo.jpg"
-    for u in (urls if urls is not None else card_images(it))[:6]:
+    name = "photo.jpg"
+    for u in card_images(it)[:6]:
         try:
             r = requests.get(u, timeout=60, headers=HDRS)
         except Exception as e:
@@ -348,21 +194,19 @@ def best_photo(it, urls=None):
             continue
         if r.ok and len(r.content) > len(best) and len(r.content) > 5000:
             best = r.content
-            looking = u.split("?")[0].rsplit("/", 1)[-1] or "photo.jpg"
-    return best, looking
+            name = u.split("?")[0].rsplit("/", 1)[-1] or "photo.jpg"
+    return best, name
 
 def send(it):
-    if not it.get("until"):
-        it["until"] = card_until(it)
     text = "%s\n%s\n%s ֏ → %s ֏ (-%s%%)" % (
         it["store"], it["title"], money(it["old"]), money(it["new"]), it["pct"])
     if it["until"]:
         text += "\nՄինչև՝ %s" % it["until"]
-    cand = card_images(it)
     if DRY:
+        cand = card_images(it)
         print("[DRY] " + text.replace("\n", " | ") + " | фото: " + (cand[0] if cand else "нет"))
         return True
-    data, name = best_photo(it, cand)
+    data, name = best_photo(it)
     if data:
         field = "document" if SEND_AS_FILE else "photo"
         r = requests.post(API + ("sendDocument" if SEND_AS_FILE else "sendPhoto"),
@@ -372,7 +216,7 @@ def send(it):
         if r.ok and r.json().get("ok"):
             return True
         print("Файл не ушёл: %s" % r.text[:200])
-    for u in cand[:4]:
+    for u in card_images(it)[:4]:
         r = requests.post(API + "sendPhoto",
                           data={"chat_id": CHANNEL, "photo": u, "caption": text,
                                 "reply_markup": BUTTON}, timeout=60)
@@ -387,23 +231,18 @@ def send(it):
         return False
     return True
 
-def slot(t):
-    """Начало 15-минутного слота, в который попадает время t."""
-    return t.replace(second=0, microsecond=0, minute=t.minute - t.minute % STEP_MIN)
-
 def publish(st):
     now = datetime.now(YE)
     last = st.get("last_publish") or ""
     if last:
         try:
             last = datetime.fromisoformat(last)
-        except (ValueError, TypeError):
+        except ValueError:
             last = None
     if not (PUB_FROM <= now.hour < PUB_TO):
         print("Вне окна публикации (%s)" % now.strftime("%H:%M"))
         return
-    # сравниваем слоты, а не минуты: запуск Actions приходит на 30-60 с позже
-    if last and slot(now) <= slot(last):
+    if last and now - last < timedelta(minutes=STEP_MIN):
         print("Слот ещё не наступил")
         return
     names = list(STORES)
@@ -416,13 +255,6 @@ def publish(st):
         it = q.pop(0)
         st["queues"][name] = q
         if send(it):
-            # «виденным» помечаем только опубликованное — повтор невозможен
-            k = it.get("key") or key(it)
-            seen = st["seen"].setdefault(name, [])
-            if k not in seen:
-                seen.append(k)
-            if len(seen) > SEEN_CAP:
-                del seen[:len(seen) - SEEN_CAP]
             st["rr"] = (idx + 1) % len(names)
             st["last_publish"] = now.isoformat()
         else:
@@ -433,48 +265,44 @@ def publish(st):
 
 def main():
     st = load_state()
-    if st.get("version") != STATE_VERSION:
-        # цены в очередях собраны старым парсером (цена за единицу вместо
-        # цены акции) — очередь пересобирается заново в этом же прогоне
-        for name in STORES:
-            st["queues"][name] = []
-        st["version"] = STATE_VERSION
-    for store in STORES:
-        st["seen"].setdefault(store, [])
-        st["queues"].setdefault(store, [])
-        seen = seen_keys(st["seen"][store])
-        # приводим очередь в порядок: старые записи могли быть без key,
-        # с повторами, цветами и уже опубликованными позициями
-        q, known, clean = st["queues"][store], set(), []
-        for it in q:
-            if is_junk(it.get("title")) or (store == "SAS" and is_flower(it)):
-                continue
-            it["key"] = key(it)
-            if known_before(it, seen):
-                continue
-            if it["key"] in known:
-                continue
-            known.add(it["key"])
-            clean.append(it)
-        st["queues"][store] = q = clean
-        if len(q) >= QUEUE_CAP:
-            print("%s: очередь полна (%d), список не читаю" % (store, len(q)))
+    for store, url in STORES.items():
+        try:
+            md = fetch(url)
+        except Exception as e:
+            print("%s: ошибка загрузки: %s" % (store, e))
             continue
-        items = store_items(store, PAGES[store]())
-        if store == "SAS":
-            items = [x for x in items if not is_flower(x)]
-        print("%s: позиций со скидкой %d" % (store, len(items)))
+        items = PARSERS[store](md)
+        if not items and store == "Yerevan City":
+            md = fetch(url + "?r=%d" % int(time.time()))
+            items = PARSERS[store](md)
+        print("%s: найдено %d позиций со скидкой" % (store, len(items)))
+        if DRY:
+            for it in items[:5]:
+                cand = card_images(it)
+                print("    - %s | %s->%s ֏ (-%s%%) %s | фото: %s"
+                      % (it["title"][:70], it["old"], it["new"], it["pct"], it["until"],
+                         cand[0] if cand else "нет"))
+        seen_set = set(st["seen"].setdefault(store, []))
+        in_queue = set(x.get("key") for x in st["queues"].get(store, []))
         fresh = []
         for it in items:
-            it["key"] = key(it)
-            if it["key"] in known or known_before(it, seen):
+            k = key(it)
+            it["key"] = k
+            if k in seen_set or legacy_key(it) in seen_set or k in in_queue:
                 continue
-            known.add(it["key"])
             fresh.append(it)
-        room = QUEUE_CAP - len(q)
-        if len(fresh) > room:
-            fresh = fresh[:room]      # остальное не помечаем — вернётся позже
+        if store == "Yerevan City" and len(st["seen"][store]) > CITY_SEEN_KEEP:
+            del st["seen"][store][:-CITY_SEEN_KEEP]
+        if not st.get("seeded"):
+            fresh = fresh[:SEED_PER_STORE]
+        for it in fresh:
+            seen_set.add(it["key"])
+            st["seen"][store].append(it["key"])
+        q = st["queues"].setdefault(store, [])
         q.extend(fresh)
+        if len(q) > QUEUE_CAP:
+            q.sort(key=lambda x: -x["pct"])
+            del q[QUEUE_CAP:]
         print("%s: новых %d, в очереди %d" % (store, len(fresh), len(q)))
     st["seeded"] = True
     publish(st)
