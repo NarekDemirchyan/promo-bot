@@ -122,7 +122,19 @@
    "Yerevan City|id:4985",
    "Yerevan City|id:1002",
    "Yerevan City|id:54791",
-   "Yerevan City|id:132889"
+   "Yerevan City|id:132889",
+   "Yerevan City|id:167052",
+   "Yerevan City|id:179400",
+   "Yerevan City|id:12583",
+   "Yerevan City|id:174904",
+   "Yerevan City|id:160335",
+   "Yerevan City|id:192773",
+   "Yerevan City|id:167451",
+   "Yerevan City|id:10239",
+   "Yerevan City|id:19336",
+   "Yerevan City|id:55750",
+   "Yerevan City|id:167480",
+   "Yerevan City|id:73233"
   ]
  },
  "queues": {
@@ -2438,6 +2450,138 @@
     "img": "",
     "url": "https://yerevan-city.am/shop/product-details/132889",
     "key": "Yerevan City|id:132889"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Արդուկի սեղան «Դ.Հոմ» 138x36սմ ԱյԲ-03",
+    "old": 19990,
+    "new": 12989,
+    "pct": 35,
+    "until": "",
+    "img": "",
+    "url": "https://yerevan-city.am/shop/product-details/167052",
+    "key": "Yerevan City|id:167052"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Փափուկ խաղալիք «Արջուկ» վերնազգեստով 70սմ",
+    "old": 19990,
+    "new": 9995,
+    "pct": 50,
+    "until": "",
+    "img": "",
+    "url": "https://yerevan-city.am/shop/product-details/179400",
+    "key": "Yerevan City|id:179400"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հագուստի չորանոց «Վիլեդա» ունիվերսալ 18մ",
+    "old": 19750,
+    "new": 16990,
+    "pct": 14,
+    "until": "",
+    "img": "",
+    "url": "https://yerevan-city.am/shop/product-details/12583",
+    "key": "Yerevan City|id:12583"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կարտոֆիլ կտրելու սարք «Բրաբանտիա»",
+    "old": 19150,
+    "new": 10149,
+    "pct": 47,
+    "until": "",
+    "img": "",
+    "url": "https://yerevan-city.am/shop/product-details/174904",
+    "key": "Yerevan City|id:174904"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Օդային տապակիչ «Ռաֆ» 4.5լ 1500Վտ",
+    "old": 18990,
+    "new": 9495,
+    "pct": 50,
+    "until": "",
+    "img": "",
+    "url": "https://yerevan-city.am/shop/product-details/160335",
+    "key": "Yerevan City|id:160335"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ֆուա-գրա «Ռուժի» սագի լյարդից տրյուֆելով 75գր",
+    "old": 18990,
+    "new": 15989,
+    "pct": 16,
+    "until": "",
+    "img": "",
+    "url": "https://yerevan-city.am/shop/product-details/192773",
+    "key": "Yerevan City|id:192773"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Օղի «Մամոնտ» Այվորի, օրգանիկ 0.7լ",
+    "old": 18650,
+    "new": 14739,
+    "pct": 21,
+    "until": "",
+    "img": "",
+    "url": "https://yerevan-city.am/shop/product-details/167451",
+    "key": "Yerevan City|id:167451"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սուրճ հատ․ «ԼավԱզզա» Էսպրեսսո, կրեմա արոմա 1000գ",
+    "old": 18640,
+    "new": 16190,
+    "pct": 13,
+    "until": "",
+    "img": "",
+    "url": "https://yerevan-city.am/shop/product-details/10239",
+    "key": "Yerevan City|id:10239"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Լիկյոր «Բեյլիս» իռլանդական կրեմ 1լ",
+    "old": 17900,
+    "new": 15290,
+    "pct": 15,
+    "until": "",
+    "img": "",
+    "url": "https://yerevan-city.am/shop/product-details/19336",
+    "key": "Yerevan City|id:19336"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Պիստակ մաքրած կգ",
+    "old": 16990,
+    "new": 13590,
+    "pct": 20,
+    "until": "",
+    "img": "",
+    "url": "https://yerevan-city.am/shop/product-details/55750",
+    "key": "Yerevan City|id:55750"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Անկ․հավ․երկտ․ «ՑինԹայ» 100%բամ․ 250x250",
+    "old": 16990,
+    "new": 10990,
+    "pct": 35,
+    "until": "",
+    "img": "",
+    "url": "https://yerevan-city.am/shop/product-details/167480",
+    "key": "Yerevan City|id:167480"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գինի «Կարաս» Արենի Ռեզերվ, կարմիր անապակ 0.75լ",
+    "old": 15990,
+    "new": 13490,
+    "pct": 16,
+    "until": "",
+    "img": "",
+    "url": "https://yerevan-city.am/shop/product-details/73233",
+    "key": "Yerevan City|id:73233"
    }
   ]
  },
