@@ -287,7 +287,6 @@ def main():
             except Exception as e:
                 print("%s: ошибка загрузки: %s" % (store, e))
                 continue
-        items.sort(key=lambda x: -x["pct"])
         print("%s: найдено %d позиций со скидкой" % (store, len(items)))
         seen = st["seen"].setdefault(store, [])
         seen_set = set(seen)
