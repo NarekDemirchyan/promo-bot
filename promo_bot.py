@@ -16,20 +16,31 @@ STATE = "state-promo.json"
 YE = timezone(timedelta(hours=4))
 PUB_FROM, PUB_TO = 8, 24
 STEP_MIN = 15
-QUEUE_CAP = 16
+QUEUE_CAP = 200
 SEED_PER_STORE = 8
 API = "https://api.telegram.org/bot%s/" % TOKEN
 JINA = "https://r.jina.ai/"
-SKIP_IMG = ("logo", "18-plus", "flags/", "icon", "banner", "banniere", "svg")
 
-# кнопка под каждым постом
+# Фото уходит файлом — без пережатия Telegram. Нужен обычный пост-«фото»:
+# поставьте False.
+SEND_AS_FILE = True
+
+SKIP_IMG = ("logo", "18-plus", "flags/", "icon", "banner", "banniere", "svg",
+            "sprite", "placeholder", "no-photo", "nophoto")
+
+HDRS = {
+    "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                   "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"),
+    "Accept": "image/avif,image/webp,image/apng,image/*,*/*;q=0.8",
+    "Accept-Language": "hy,ru;q=0.9,en;q=0.8",
+}
+
 BOOST = "https://t.me/boost/supermarket_promos"
 BUTTON = json.dumps(
     {"inline_keyboard": [[{"text": "😊 Աջակցել ալիքին", "url": BOOST}]]},
     ensure_ascii=False,
 )
 
-# армянские витрины (у SAS армянская версия — без префикса)
 STORES = {
     "SAS": "https://www.sas.am/catalog/discount/",
     "Yerevan City": "https://yerevan-city.am/shop/best-offers",
@@ -38,24 +49,22 @@ PRICE = re.compile(r"([\d][\d\s,\.]{1,12}?)\s*(?:֏|\bnull\b)")
 DATE = re.compile(r"\b(\d{2}\.\d{2}\.\d{4})\b")
 SAS_LINK = re.compile(r"\[([^\]\n]{4,160})\]\((https://www\.sas\.am/[^)\s]+)\)")
 CITY_LINK = re.compile(
-    r"\[([^\]]{10,400}?)\]\((https://yerevan-city\.am/shop/product-details/(\d+))\)", re.S
-)
+    r"\[([^\]]{10,400}?)\]\((https://yerevan-city\.am/shop/product-details/(\d+))\)", re.S)
 CITY_PRICE = re.compile(
-    r"~~\s*([\d][\d\s,\.]{0,14}?)\s*(?:֏|\bnull\b)?\s*~~\s*([\d][\d\s,\.]{0,14})", re.S
-)
-CYR = re.compile(r"[А-Яа-яЁё]")
+    r"~~\s*([\d][\d\s,\.]{0,14}?)\s*(?:֏|\bnull\b)?\s*~~\s*([\d][\d\s,\.]{0,14})", re.S)
+CYR = re.compile(r"[А-Яа-яёЁ]")
 RU_LABEL = re.compile(r"^\s*(Скидка|Эксклюзив|Акция|Суперцена|Sale)\s*[:.\-]?\s*", re.I)
 PCT_HEAD = re.compile(r"^\s*[-–—+%]*\s*\d{1,3}\s*%?\s*")
-ARTICLE = re.compile(r"\s+\d{4,}$")
+ARTIC = re.compile(r"\s+\d{4,}$")
 OG = re.compile(
-    r"""<meta[^>]+(?:property|name)=["']og:image["'][^>]+content=["']([^"']+)""", re.I
-)
+    r"""<meta[^>]+(?:property|name)=['"]og:image['"][^>]+content=['"]([^'"]+)""", re.I)
 OG2 = re.compile(
-    r"""<meta[^>]+content=["']([^"']+)["'][^>]+(?:property|name)=["']og:image["']""", re.I
-)
+    r"""<meta[^>]+content=['"]([^'"]+)['"][^>]+(?:property|name)=['"]og:image['"]""", re.I)
+IMG_SRC = re.compile(r"""<img[^>]+src=['"]([^'"]+\.(?:webp|jpe?g|png)[^'"]*)['"]""", re.I)
+IMG_MD = re.compile(r"!\[[^\]]*\]\((https?://[^)\s]+)\)")
 
 def fetch(url):
-    r = requests.get(JINA + url, timeout=120, headers={"User-Agent": "Mozilla/5.0"})
+    r = requests.get(JINA + url, timeout=120, headers={"User-Agent": HDRS["User-Agent"]})
     r.raise_for_status()
     return r.text
 
@@ -69,7 +78,7 @@ def money(n):
     return "{:,}".format(n).replace(",", " ")
 
 def img_in(chunk):
-    for u in re.findall(r"!\[[^\]]*\]\((https?://[^)\s]+)\)", chunk):
+    for u in IMG_MD.findall(chunk):
         if not any(s in u.lower() for s in SKIP_IMG):
             return u
     return ""
@@ -78,17 +87,17 @@ def has_cyr(s):
     return bool(CYR.search(s or ""))
 
 def clean_title(t):
-    t = re.sub(r"~~.*$", "", t or "", flags=re.S)      # если приехали цены — отрезаем
+    t = re.sub(r"~~.*$", "", t or "", flags=re.S)
     t = re.sub(r"\s+", " ", t.replace("\\", " ")).strip(" -|")
-    t = PCT_HEAD.sub("", t).strip(" -|%")              # «-47%» в начале
+    t = PCT_HEAD.sub("", t).strip(" -|%")
     t = RU_LABEL.sub("", t).strip(" -|")
-    return ARTICLE.sub("", t).strip(" -|")             # код товара в хвосте
+    return ARTIC.sub("", t).strip(" -|")
 
 def make(store, title, old, new, until, img, url=""):
     title = clean_title(title)
     if len(title) < 4 or new <= 0 or old <= new:
         return None
-    if has_cyr(title):          # публикуем только армянские названия
+    if has_cyr(title):
         return None
     pct = round((old - new) * 100 / old)
     if pct < 5:
@@ -98,7 +107,7 @@ def make(store, title, old, new, until, img, url=""):
 
 def parse_sas(md):
     out, links = [], list(SAS_LINK.finditer(md))
-    skip = ("купить", "в корзину", "подробнее", "все акции", "գնել", "զամբյուղ", "ավելին")
+    skip = ("купить", "в корзину", "подробнее", "все акции", "հավելին", "ցույց տալ", "շուտով")
     for i, m in enumerate(links):
         if m.group(1).strip().lower() in skip:
             continue
@@ -137,36 +146,55 @@ def save_state(st):
         json.dump(st, f, ensure_ascii=False, indent=1)
 
 def key(it):
+    m = re.search(r"/(\d{4,})/?$", it.get("url") or "")
+    if m:
+        return "%s|id:%s" % (it["store"], m.group(1))
+    return "%s|t:%s" % (it["store"], it["title"].lower())
+
+def legacy_key(it):
     return "%s|%s|%s|%s|%s" % (it["store"], it["title"].lower(), it["old"], it["new"], it["until"])
 
-def og_image(url):
-    """Большое фото карточки товара (og:image), а не превью из списка."""
-    if not url:
-        return ""
-    try:
-        r = requests.get(url, timeout=45, headers={"User-Agent": "Mozilla/5.0"})
-        if r.ok:
-            m = OG.search(r.text) or OG2.search(r.text)
-            if m:
-                return m.group(1)
-    except Exception as e:
-        print("og:image: %s" % e)
-    try:
-        r = requests.get("https://api.microlink.io/", params={"url": url}, timeout=60)
-        if r.ok:
-            return ((r.json().get("data") or {}).get("image") or {}).get("url") or ""
-    except Exception as e:
-        print("microlink: %s" % e)
-    return ""
-
-def photos(it):
+def card_images(it):
+    urls = []
+    page = it.get("url") or it.get("page") or ""
+    if page:
+        html = ""
+        try:
+            r = requests.get(page, timeout=45, headers=HDRS)
+            if r.ok:
+                html = r.text
+        except Exception as e:
+            print("карточка: %s" % e)
+        m = OG.search(html) or OG2.search(html)
+        if m:
+            urls.append(m.group(1))
+        urls.extend(IMG_SRC.findall(html))
+    if it.get("img"):
+        urls.append(it["img"])
     out = []
-    big = og_image(it.get("url", ""))
-    if big:
-        out.append(big)
-    if it["img"] and it["img"] not in out:
-        out.append(it["img"])
+    for u in urls:
+        u = (u or "").replace("&amp;", "&").strip()
+        if u.startswith("/"):
+            u = "https://www.sas.am" + u
+        if not u.startswith("http") or any(s in u.lower() for s in SKIP_IMG):
+            continue
+        if u not in out:
+            out.append(u)
     return out
+
+def best_photo(it):
+    best = b""
+    name = "photo.jpg"
+    for u in card_images(it)[:6]:
+        try:
+            r = requests.get(u, timeout=60, headers=HDRS)
+        except Exception as e:
+            print("фото: %s — %s" % (u, e))
+            continue
+        if r.ok and len(r.content) > len(best) and len(r.content) > 5000:
+            best = r.content
+            name = u.split("?")[0].rsplit("/", 1)[-1] or "photo.jpg"
+    return best, name
 
 def send(it):
     text = "%s\n%s\n%s ֏ → %s ֏ (-%s%%)" % (
@@ -174,15 +202,26 @@ def send(it):
     if it["until"]:
         text += "\nՄինչև՝ %s" % it["until"]
     if DRY:
-        print("[DRY] " + text.replace("\n", " | ") + " | фото: " + ((photos(it) or ["нет"])[0]))
+        cand = card_images(it)
+        print("[DRY] " + text.replace("\n", " | ") + " | фото: " + (cand[0] if cand else "нет"))
         return True
-    for u in photos(it):
+    data, name = best_photo(it)
+    if data:
+        field = "document" if SEND_AS_FILE else "photo"
+        r = requests.post(API + ("sendDocument" if SEND_AS_FILE else "sendPhoto"),
+                          data={"chat_id": CHANNEL, "caption": text,
+                                "reply_markup": BUTTON},
+                          files={field: (name, data)}, timeout=120)
+        if r.ok and r.json().get("ok"):
+            return True
+        print("Файл не ушёл: %s" % r.text[:200])
+    for u in card_images(it)[:4]:
         r = requests.post(API + "sendPhoto",
                           data={"chat_id": CHANNEL, "photo": u, "caption": text,
                                 "reply_markup": BUTTON}, timeout=60)
         if r.ok and r.json().get("ok"):
             return True
-        print("Фото не ушло (%s): %s" % (u, r.text[:200]))
+        print("Фото по ссылке не ушло (%s): %s" % (u, r.text[:200]))
     r = requests.post(API + "sendMessage",
                       data={"chat_id": CHANNEL, "text": text, "reply_markup": BUTTON},
                       timeout=60)
@@ -212,11 +251,14 @@ def publish(st):
         q = st["queues"].get(name) or []
         if not q:
             continue
-        it = q.pop(0)            # публикация всегда с головы
+        it = q.pop(0)
         st["queues"][name] = q
         if send(it):
             st["rr"] = (idx + 1) % len(names)
             st["last_publish"] = now.isoformat()
+        else:
+            q.insert(0, it)
+            st["queues"][name] = q
         return
     print("Все очереди пусты")
 
@@ -230,34 +272,34 @@ def main():
             continue
         items = PARSERS[store](md)
         if not items and store == "Yerevan City":
-            md = fetch(url + "?r=%d" % int(time.time()))   # список иногда приходит на русском
+            md = fetch(url + "?r=%d" % int(time.time()))
             items = PARSERS[store](md)
         print("%s: найдено %d позиций со скидкой" % (store, len(items)))
         if DRY:
             for it in items[:5]:
+                cand = card_images(it)
                 print("    - %s | %s->%s ֏ (-%s%%) %s | фото: %s"
                       % (it["title"][:70], it["old"], it["new"], it["pct"], it["until"],
-                         (photos(it) or ["нет"])[0]))
-        seen = st["seen"].setdefault(store, [])
-        seen_set = set(seen)
+                         cand[0] if cand else "нет"))
+        seen_set = set(st["seen"].setdefault(store, []))
+        in_queue = set(x.get("key") for x in st["queues"].get(store, []))
         fresh = []
         for it in items:
             k = key(it)
             it["key"] = k
-            if k in seen_set:
+            if k in seen_set or legacy_key(it) in seen_set or k in in_queue:
                 continue
-            seen_set.add(k)
-            seen.append(k)
             fresh.append(it)
         if not st.get("seeded"):
-            fresh = items[:SEED_PER_STORE]
+            fresh = fresh[:SEED_PER_STORE]
+        for it in fresh:
+            seen_set.add(it["key"])
+            st["seen"][store].append(it["key"])
         q = st["queues"].setdefault(store, [])
-        q.extend(fresh)                                    # новое всегда в хвост
+        q.extend(fresh)
         if len(q) > QUEUE_CAP:
-            for x in q[QUEUE_CAP:]:
-                seen_set.discard(x["key"])                 # отброшенное вернём в очередь позже
+            q.sort(key=lambda x: -x["pct"])
             del q[QUEUE_CAP:]
-            st["seen"][store] = [k for k in st["seen"][store] if k in seen_set]
         print("%s: новых %d, в очереди %d" % (store, len(fresh), len(q)))
     st["seeded"] = True
     publish(st)
