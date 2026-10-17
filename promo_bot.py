@@ -14,8 +14,8 @@ DRY = os.environ.get("DRY_RUN", "0") == "1"
 
 STATE = "state-promo.json"
 YE = timezone(timedelta(hours=4))
-# Шаг 14, а не 15: раннеры GitHub приходят через 15 минут и с секундами,
-# поэтому при шаге ровно 15 каждый второй слот выпадал.
+# Քայլ 14, ոչ 15. GitHub-ի ռանները գալիս են 15 րոպեով ու վայրկյաններով,
+# ուղիղ 15-ի դեպքում ամեն երկրորդ սլոտը դուրս էր ընկնում։
 STEP_MIN = 14
 PUB_FROM, PUB_TO = 0, 24
 QUEUE_CAP = 200
@@ -24,8 +24,7 @@ CITY_SEEN_KEEP = 20
 API = "https://api.telegram.org/bot%s/" % TOKEN
 JINA = "https://r.jina.ai/"
 
-# Фото уходит файлом — без пережатия Telegram. Нужен обычный пост-«фото»:
-# поставьте False.
+# Ֆայլով ուղարկելիս Telegram-ը չի սեղմում։ Սովորական «լուսանկար» պոստի համար՝ False։
 SEND_AS_FILE = False
 
 SKIP_IMG = ("logo", "18-plus", "flags/", "icon", "banner", "banniere", "svg",
@@ -48,11 +47,11 @@ STORES = {
     "SAS": "https://www.sas.am/catalog/discount/",
     "Yerevan City": "https://yerevan-city.am/shop/best-offers",
 }
-# SAS пишет цены как «19 000 դր.», а не «֏»; цены за единицу («292 դր./1հատ»)
-# отбрасываем lookahead-ом.
+# SAS-ը գները գրում է «19 000 դր.», ոչ «֏»; մեկ հատի գները («292 դր./1հատ»)
+# դեն ենք նետում lookahead-ով։
 PRICE = re.compile(r"([\d][\d\s,\.]{1,12}?)\s*(?:֏|դր\.?|\bnull\b)(?!\s*/)")
 DATE = re.compile(r"\b(\d{2}\.\d{2}\.\d{4})\b")
-# Карточка SAS в списке — вложенная ссылка [![название](фото)](страница товара).
+# SAS-ի քարտը ցուցակում ներդրված հղում է՝ [![անվանում](նկար)](ապրանքի էջ)։
 SAS_LINK = re.compile(
     r"\[(?:!\[([^\]]{4,160})\]\(([^)]*)\)|([^\]\n]{4,160}))\]"
     r"\((https://www\.sas\.am/(?!upload/)[^)\s]+)\)")
@@ -60,22 +59,21 @@ CITY_LINK = re.compile(
     r"\[([^\]]{10,400}?)\]\((https://yerevan-city\.am/shop/product-details/(\d+))\)", re.S)
 CITY_PRICE = re.compile(
     r"~~\s*([\d][\d\s,\.]{0,14}?)\s*(?:֏|\bnull\b)?\s*~~\s*([\d][\d\s,\.]{0,14})", re.S)
-# Название должно быть армянским: так отсекаются английские и русские строки,
-# которые магазин иногда отдаёт вместо товара.
+# Անվանումը պետք է հայերեն լինի. այսպես դեն են նետվում անգլերեն/ռուսերեն տողերը։
 ARM = re.compile(r"[Ա-Ֆա-ֆև]")
 RU_LABEL = re.compile(r"^\s*(Скидка|Эксклюзив|Акция|Суперцена|Sale)\s*[:.\-]?\s*", re.I)
 PCT_HEAD = re.compile(r"^\s*[-–—+%]*\s*\d{1,3}\s*%?\s*")
 ARTIC = re.compile(r"\s+\d{4,}$")
-# Мусорные префиксы из разметки списка: «![Image 403: » / «Image 403: ».
+# Աղբյուրի մաքուր մնացորդները՝ «![Image 403: » / «Image 403: »։
 IMG_PREFIX = re.compile(r"^!?\[?\s*(?:Image\s+\d+\s*:\s*)?", re.I)
 OG = re.compile(
-    r"""<meta[^>]+(?:property|name)=['"]og:image['"][^>]+content=['"]([^'"]+)""", re.I)
+    r"""<meta[^>]+(?:property|name)=['"]og:image['"][^>]+content=['"]([^'"]+)['"]""", re.I)
 OG2 = re.compile(
     r"""<meta[^>]+content=['"]([^'"]+)['"][^>]+(?:property|name)=['"]og:image['"]""", re.I)
 IMG_SRC = re.compile(r"""<img[^>]+src=['"]([^'"]+\.(?:webp|jpe?g|png)[^'"]*)['"]""", re.I)
 IMG_MD = re.compile(r"!\[[^\]]*\]\((https?://[^)\s]+)\)")
-# Срок акции Yerevan City — только на карточке: «Գինը գործում է 08 Հոկտեմբեր 2026 -ից
-# 31 Հոկտեմբեր 2026». Берём вторую дату.
+# Yerevan City-ի ակցիայի ժամկետը միայն քարտի վրա է. «Գինը գործում է 08 Հոկտեմբեր 2026 -ից
+# 31 Հոկտեմբեր 2026»։ Վերցնում ենք երկրորդ ամսաթիվը։
 MONTHS = {"հունվար": 1, "փետրվար": 2, "մարտ": 3, "ապրիլ": 4, "մայիս": 5,
           "հունիս": 6, "հուլիս": 7, "օգոստոս": 8, "սեպտեմբեր": 9,
           "հոկտեմբեր": 10, "նոյեմբեր": 11, "դեկտեմբեր": 12}
@@ -185,7 +183,7 @@ def legacy_key(it):
 def card_images(it):
     urls = []
     page = it.get("url") or it.get("page") or ""
-    # Старые записи в очереди: в url лежит ссылка на картинку, а не на карточку.
+    # Հին գրառումներ հերթում. url-ում նկարի հղումն է, ոչ քարտի։
     if "/upload/" in page:
         urls.append(page)
         page = ""
@@ -196,7 +194,7 @@ def card_images(it):
             if r.ok:
                 html = r.text
         except Exception as e:
-            print("карточка: %s" % e)
+            print("քարտ: %s" % e)
         m = OG.search(html) or OG2.search(html)
         if m:
             urls.append(m.group(1))
@@ -216,19 +214,19 @@ def card_images(it):
 
 def photo_candidates(it):
     cands = card_images(it)[:6]
-    # Если есть jpg/png — webp не трогаем: Telegram охотнее принимает их как фото.
+    # Եթե jpg/png կա՝ webp-ը չենք դիպչում. Telegram-ն ավելի հաճույքով ընդունում է դրանք։
     good = [u for u in cands if not u.lower().split("?")[0].endswith(".webp")]
     return good or cands
 
 def card_until(it):
-    """Срок акции с карточки товара (Yerevan City в списке дату не отдаёт)."""
+    """Ակցիայի ժամկետը ապրանքի քարտից (Yerevan City-ն ցուցակում ամսաթիվ չի տալիս)։"""
     page = it.get("url") or it.get("page") or ""
     if not page or "product-details" not in page:
         return ""
     try:
         html = requests.get(page, timeout=45, headers=HDRS).text
     except Exception as e:
-        print("дата: %s" % e)
+        print("ամսաթիվ: %s" % e)
         return ""
     i = html.find("գործում է")
     if i == -1:
@@ -242,18 +240,17 @@ def card_until(it):
     return ""
 
 def best_photo(it):
-    best = b""
-    name = "photo.jpg"
+    """Ապրանքի իսկական լուսանկարը՝ ցանկի առաջին պիտանին (og:image)։
+    Չափով ամենամեծը վերցնել չի կարելի. քարտի էջում ուրիշ նկարներ էլ կան։"""
     for u in photo_candidates(it):
         try:
             r = requests.get(u, timeout=60, headers=HDRS)
         except Exception as e:
-            print("фото: %s — %s" % (u, e))
+            print("նկար: %s — %s" % (u, e))
             continue
-        if r.ok and len(r.content) > len(best) and len(r.content) > 5000:
-            best = r.content
-            name = u.split("?")[0].rsplit("/", 1)[-1] or "photo.jpg"
-    return best, name
+        if r.ok and len(r.content) > 5000:
+            return r.content, u.split("?")[0].rsplit("/", 1)[-1] or "photo.jpg"
+    return b"", "photo.jpg"
 
 def send(it):
     it["title"] = clean_title(it["title"])
@@ -265,7 +262,7 @@ def send(it):
         text += "\nՄինչև՝ %s" % it["until"]
     if DRY:
         cand = card_images(it)
-        print("[DRY] " + text.replace("\n", " | ") + " | фото: " + (cand[0] if cand else "нет"))
+        print("[DRY] " + text.replace("\n", " | ") + " | նկար: " + (cand[0] if cand else "չկա"))
         return True
     data, name = best_photo(it)
     if data:
@@ -276,19 +273,19 @@ def send(it):
                           files={field: (name, data)}, timeout=120)
         if r.ok and r.json().get("ok"):
             return True
-        print("Файл не ушёл: %s" % r.text[:200])
+        print("Ֆայլը չգնաց: %s" % r.text[:200])
     for u in photo_candidates(it)[:4]:
         r = requests.post(API + "sendPhoto",
                           data={"chat_id": CHANNEL, "photo": u, "caption": text,
                                 "reply_markup": BUTTON}, timeout=60)
         if r.ok and r.json().get("ok"):
             return True
-        print("Фото по ссылке не ушло (%s): %s" % (u, r.text[:200]))
+        print("Հղումով նկարը չգնաց (%s): %s" % (u, r.text[:200]))
     r = requests.post(API + "sendMessage",
                       data={"chat_id": CHANNEL, "text": text, "reply_markup": BUTTON},
                       timeout=60)
     if not (r.ok and r.json().get("ok")):
-        print("Ошибка отправки: %s" % r.text[:300])
+        print("Ուղարկելու սխալ: %s" % r.text[:300])
         return False
     return True
 
@@ -301,10 +298,10 @@ def publish(st):
         except ValueError:
             last = None
     if not (PUB_FROM <= now.hour < PUB_TO):
-        print("Вне окна публикации (%s)" % now.strftime("%H:%M"))
+        print("Հրապարակման պատուհանից դուրս (%s)" % now.strftime("%H:%M"))
         return
     if last and now - last < timedelta(minutes=STEP_MIN):
-        print("Слот ещё не наступил")
+        print("Սլոտը դեռ չի հասել")
         return
     names = list(STORES)
     for i in range(len(names)):
@@ -322,34 +319,35 @@ def publish(st):
             q.insert(0, it)
             st["queues"][name] = q
         return
-    print("Все очереди пусты")
+    print("Բոլոր հերթերը դատարկ են")
 
 def main():
     st = load_state()
-    # Чистим очередь от записей без армянского названия (английские строки и мусор).
-    for name in list(st.get("queues", {})):
-        kept = [x for x in st["queues"][name] if has_arm(x.get("title") or "")]
-        if len(kept) != len(st["queues"][name]):
-            print("%s: убрано из очереди %d позиций без армянского названия"
-                  % (name, len(st["queues"][name]) - len(kept)))
-        st["queues"][name] = kept
+    # ՄԻԱՆՎԱԳ վերակայում. հերթը և «տեսածը» զրոյանում են մեկ անգամ,
+    # հետո հերթը նորից լցվում է կայքից՝ կայքի հերթականությամբ։
+    if not st.get("reset_done"):
+        st["queues"] = {s: [] for s in STORES}
+        st["seen"] = {s: [] for s in STORES}
+        st["rr"] = 0
+        st["reset_done"] = True
+        print("Վերակայում. հերթը և տեսածը զրոյացան, նորը կգա կայքից")
     for store, url in STORES.items():
         try:
             md = fetch(url)
         except Exception as e:
-            print("%s: ошибка загрузки: %s" % (store, e))
+            print("%s: բեռնելու սխալ: %s" % (store, e))
             continue
         items = PARSERS[store](md)
         if not items and store == "Yerevan City":
             md = fetch(url + "?r=%d" % int(time.time()))
             items = PARSERS[store](md)
-        print("%s: найдено %d позиций со скидкой" % (store, len(items)))
+        print("%s: գտնվեց %d զեղչով դիրք" % (store, len(items)))
         if DRY:
             for it in items[:5]:
                 cand = card_images(it)
-                print("    - %s | %s->%s ֏ (-%s%%) %s | фото: %s"
+                print("    - %s | %s->%s ֏ (-%s%%) %s | նկար: %s"
                       % (it["title"][:70], it["old"], it["new"], it["pct"], it["until"],
-                         cand[0] if cand else "нет"))
+                         cand[0] if cand else "չկա"))
         seen_set = set(st["seen"].setdefault(store, []))
         in_queue = set(x.get("key") for x in st["queues"].get(store, []))
         fresh = []
@@ -368,14 +366,15 @@ def main():
             st["seen"][store].append(it["key"])
         q = st["queues"].setdefault(store, [])
         q.extend(fresh)
+        # Առաստաղը լրանալիս գլխից են դուրս գալիս ամենահները, նորը մնում է պոչում,
+        # կարգը կայքի կարգն է։ Ըստ զեղչի ոչ մի դասավորում չկա։
         if len(q) > QUEUE_CAP:
-            q.sort(key=lambda x: -x["pct"])
-            del q[QUEUE_CAP:]
-        print("%s: новых %d, в очереди %d" % (store, len(fresh), len(q)))
+            del q[:len(q) - QUEUE_CAP]
+        print("%s: նոր %d, հերթում %d" % (store, len(fresh), len(q)))
     st["seeded"] = True
     publish(st)
     if DRY:
-        print("DRY RUN: состояние не сохранено")
+        print("DRY RUN. վիճակը չպահվեց")
         return
     save_state(st)
 
