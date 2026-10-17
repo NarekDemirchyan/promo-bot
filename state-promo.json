@@ -155,16 +155,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Էքսկլյուզիվ կոմպոզիցիա «SAS Flowers by Villani»",
-    "old": 42000,
-    "new": 35500,
-    "pct": 15,
-    "until": "05.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/138/961/9618702446192401.webp",
-    "page": "https://www.sas.am/catalog/sasexclusiveflowers/478288/"
-   },
-   {
-    "store": "SAS",
     "title": "Լվացքի հեղուկ մանկական «Frosch Baby» 1.5լ",
     "old": 5250,
     "new": 3190,
@@ -707,8 +697,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-17T17:30:33.934745+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-17T17:45:24.991762+04:00",
  "version": 3,
  "cursor": {
   "SAS": 15,
