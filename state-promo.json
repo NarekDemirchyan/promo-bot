@@ -68,17 +68,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Վարտիք - տակդիրներ «Libero Up&Go №6» 13-20կգ, 18 հատ",
-    "old": 5850,
-    "new": 292,
-    "pct": 95,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/199/916/916363584147231.webp",
-    "url": "https://www.sas.am/catalog/podguzniki/190989/",
-    "key": "SAS|id:190989"
-   },
-   {
-    "store": "SAS",
     "title": "Հակաքրտինքային աէրոզոլային միջոց «Nivea Men» 150մլ",
     "old": 1940,
     "new": 1590,
@@ -434,8 +423,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-18T02:30:41.041196+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-18T02:45:34.800924+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
