@@ -42,7 +42,13 @@ CITY_LINK = re.compile(
 )
 CYR = re.compile(r"[А-Яа-яЁё]")
 RU_LABEL = re.compile(r"^\s*(Скидка|Эксклюзив|Акция|Суперцена|Sale)\s*[:.\-]?\s*", re.I)
-CITY_PHOTO = "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/%s.png"
+ARTICLE = re.compile(r"\s+\d{5,}$")
+OG = re.compile(
+    r"""<meta[^>]+(?:property|name)=["']og:image["'][^>]+content=["']([^"']+)""", re.I
+)
+OG2 = re.compile(
+    r"""<meta[^>]+content=["']([^"']+)["'][^>]+(?:property|name)=["']og:image["']""", re.I
+)
 
 def fetch(url):
     r = requests.get(JINA + url, timeout=120, headers={"User-Agent": "Mozilla/5.0"})
@@ -67,7 +73,8 @@ def has_cyr(s):
 
 def clean_title(t):
     t = re.sub(r"\s+", " ", (t or "").replace("\\", " ")).strip(" -|")
-    return RU_LABEL.sub("", t).strip(" -|")
+    t = RU_LABEL.sub("", t).strip(" -|")
+    return ARTICLE.sub("", t).strip(" -|")        # убираем код товара в хвосте
 
 def make(store, title, old, new, until, img, url=""):
     title = clean_title(title)
@@ -108,7 +115,7 @@ def parse_city(md):
         parts = [p for p in parts if len(p) > 3 and "֏" not in p and not p.startswith("-")]
         title = parts[-1] if parts else ""
         out.append(make("Yerevan City", title, num(pr.group(1)), num(pr.group(2)), "",
-                        CITY_PHOTO % m.group(3), m.group(2)))
+                        "", m.group(2)))
     return [x for x in out if x]
 
 PARSERS = {"SAS": parse_sas, "Yerevan City": parse_city}
@@ -133,20 +140,24 @@ def og_image(url):
     try:
         r = requests.get(url, timeout=45, headers={"User-Agent": "Mozilla/5.0"})
         if r.ok:
-            m = (re.search(r"""<meta[^>]+(?:property|name)=["']og:image["'][^>]+content=["']([^"']+)""", r.text, re.I)
-                 or re.search(r"""<meta[^>]+content=["']([^"']+)["'][^>]+(?:property|name)=["']og:image["']""", r.text, re.I))
+            m = OG.search(r.text) or OG2.search(r.text)
             if m:
                 return m.group(1)
     except Exception as e:
         print("og:image: %s" % e)
+    try:
+        r = requests.get("https://api.microlink.io/", params={"url": url}, timeout=60)
+        if r.ok:
+            return ((r.json().get("data") or {}).get("image") or {}).get("url") or ""
+    except Exception as e:
+        print("microlink: %s" % e)
     return ""
 
 def photos(it):
     out = []
-    if it["store"] == "SAS":
-        big = og_image(it.get("url", ""))
-        if big:
-            out.append(big)
+    big = og_image(it.get("url", ""))
+    if big:
+        out.append(big)
     if it["img"] and it["img"] not in out:
         out.append(it["img"])
     return out
