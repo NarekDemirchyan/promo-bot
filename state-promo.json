@@ -155,16 +155,6 @@
    {
     "store": "SAS",
     "title": "Էքսկլյուզիվ կոմպոզիցիա «SAS Flowers by Villani»",
-    "old": 25750,
-    "new": 19500,
-    "pct": 24,
-    "until": "05.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/426/260/260190744982653.webp",
-    "page": "https://www.sas.am/catalog/sasexclusiveflowers/583338/"
-   },
-   {
-    "store": "SAS",
-    "title": "Էքսկլյուզիվ կոմպոզիցիա «SAS Flowers by Villani»",
     "old": 39000,
     "new": 34500,
     "pct": 12,
@@ -735,8 +725,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-17T16:30:33.826442+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-17T16:45:28.070808+04:00",
  "version": 3,
  "cursor": {
   "SAS": 15,
