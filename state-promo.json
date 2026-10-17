@@ -36,7 +36,9 @@
    "SAS|id:478302",
    "SAS|id:478301",
    "SAS|id:478295",
-   "SAS|id:365352"
+   "SAS|id:365352",
+   "SAS|id:39954",
+   "SAS|id:39352"
   ],
   "Yerevan City": [
    "Yerevan City|id:174904",
@@ -65,39 +67,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Էքսկլյուզիվ կոմպոզիցիա «SAS Flowers by Villani»",
-    "old": 15500,
-    "new": 11000,
-    "pct": 29,
-    "until": "05.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/312/965/9652981635574267.webp",
-    "url": "https://www.sas.am/catalog/sasexclusiveflowers/478311/",
-    "key": "SAS|id:478311"
-   },
-   {
-    "store": "SAS",
-    "title": "Ծաղկեփունջ «Milani» 25 հատ",
-    "old": 41500,
-    "new": 28000,
-    "pct": 33,
-    "until": "05.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/311/057/0574513336262888.webp",
-    "url": "https://www.sas.am/catalog/milaniroses/365337/",
-    "key": "SAS|id:365337"
-   },
-   {
-    "store": "SAS",
-    "title": "Էքսկլյուզիվ կոմպոզիցիա «SAS Flowers by Villani»",
-    "old": 39000,
-    "new": 34500,
-    "pct": 12,
-    "until": "05.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/189/716/7161593025122537.webp",
-    "url": "https://www.sas.am/catalog/sasexclusiveflowers/585534/",
-    "key": "SAS|id:585534"
-   },
-   {
-    "store": "SAS",
     "title": "Լվացքի հեղուկ մանկական «Frosch Baby» 1.5լ",
     "old": 5250,
     "new": 2127,
@@ -106,50 +75,6 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/153/283/283153566225964.webp",
     "url": "https://www.sas.am/catalog/forlaundryy/34961/",
     "key": "SAS|id:34961"
-   },
-   {
-    "store": "SAS",
-    "title": "Էքսկլյուզիվ կոմպոզիցիա «SAS Flowers by Villani»",
-    "old": 24000,
-    "new": 19000,
-    "pct": 21,
-    "until": "05.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/281/719/7190504250972199.webp",
-    "url": "https://www.sas.am/catalog/sasexclusiveflowers/450084/",
-    "key": "SAS|id:450084"
-   },
-   {
-    "store": "SAS",
-    "title": "Էքսկլյուզիվ կոմպոզիցիա «SAS Flowers by Villani»",
-    "old": 24000,
-    "new": 19000,
-    "pct": 21,
-    "until": "05.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/345/507/5079381329622071.webp",
-    "url": "https://www.sas.am/catalog/sasexclusiveflowers/450083/",
-    "key": "SAS|id:450083"
-   },
-   {
-    "store": "SAS",
-    "title": "Էքսկլյուզիվ կոմպոզիցիա «SAS Flowers by Villani»",
-    "old": 23500,
-    "new": 19000,
-    "pct": 19,
-    "until": "05.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/328/743/7430281914717575.webp",
-    "url": "https://www.sas.am/catalog/sasexclusiveflowers/450078/",
-    "key": "SAS|id:450078"
-   },
-   {
-    "store": "SAS",
-    "title": "Էքսկլյուզիվ կոմպոզիցիա «SAS Flowers by Villani»",
-    "old": 24000,
-    "new": 19000,
-    "pct": 21,
-    "until": "05.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/113/902/902028897597271.webp",
-    "url": "https://www.sas.am/catalog/sasexclusiveflowers/450077/",
-    "key": "SAS|id:450077"
    },
    {
     "store": "SAS",
@@ -164,61 +89,28 @@
    },
    {
     "store": "SAS",
-    "title": "Էքսկլյուզիվ կոմպոզիցիա «SAS Flowers by Villani»",
-    "old": 47000,
-    "new": 41000,
-    "pct": 13,
-    "until": "05.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/426/440/440157864658474.webp",
-    "url": "https://www.sas.am/catalog/sasexclusiveflowers/478302/",
-    "key": "SAS|id:478302"
+    "title": "Հակաքրտինքային աէրոզոլային միջոց «Nivea Men» 150մլ",
+    "old": 1940,
+    "new": 1590,
+    "pct": 18,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/300/531/5318151099623886.webp",
+    "url": "https://www.sas.am/catalog/antiperspirantt/39954/",
+    "key": "SAS|id:39954"
    },
    {
     "store": "SAS",
-    "title": "Էքսկլյուզիվ կոմպոզիցիա «SAS Flowers by Villani»",
-    "old": 45000,
-    "new": 39000,
-    "pct": 13,
-    "until": "05.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/168/082/0827502471966236.webp",
-    "url": "https://www.sas.am/catalog/sasexclusiveflowers/478301/",
-    "key": "SAS|id:478301"
-   },
-   {
-    "store": "SAS",
-    "title": "Էքսկլյուզիվ կոմպոզիցիա «SAS Flowers by Villani»",
-    "old": 44000,
-    "new": 37500,
-    "pct": 15,
-    "until": "05.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/288/093/0937221547797947.webp",
-    "url": "https://www.sas.am/catalog/sasexclusiveflowers/478295/",
-    "key": "SAS|id:478295"
-   },
-   {
-    "store": "SAS",
-    "title": "Ծաղկեփունջ «Milani» 9 հատ",
-    "old": 14250,
-    "new": 11000,
-    "pct": 23,
-    "until": "05.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/885/316/3163221249958652.webp",
-    "url": "https://www.sas.am/catalog/milaniroses/365352/",
-    "key": "SAS|id:365352"
+    "title": "Հակաքրտինքային աէրոզոլային միջոց «Nivea Men Ultra» 150մլ",
+    "old": 1940,
+    "new": 1590,
+    "pct": 18,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/899/120/1205362692467433.webp",
+    "url": "https://www.sas.am/catalog/antiperspirantt/39352/",
+    "key": "SAS|id:39352"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Տիկնիկ 8803Ա-47",
-    "old": 24990,
-    "new": 14989,
-    "pct": 40,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/177026",
-    "key": "Yerevan City|id:177026"
-   },
    {
     "store": "Yerevan City",
     "title": "Սուրճ հատիկավոր«Տ.Լամբորգինի»Էսպրեսսո,պլատինե 1կգ",
@@ -552,13 +444,14 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-18T01:45:25.988883+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-18T02:00:41.779130+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
   "Yerevan City": 10
  },
  "reset_done": true,
- "junk_cleaned": true
+ "junk_cleaned": true,
+ "flowers_cleaned": true
 }
