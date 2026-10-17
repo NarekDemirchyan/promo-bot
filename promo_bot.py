@@ -13,10 +13,12 @@ CHANNEL = os.environ.get("CHANNEL", "")
 DRY = os.environ.get("DRY_RUN", "0") == "1"
 
 STATE = "state-promo.json"
+STATE_VERSION = 4
 YE = timezone(timedelta(hours=4))
 PUB_FROM, PUB_TO = 0, 24     # публикация круглосуточно
 STEP_MIN = 15                # шаг публикации
 QUEUE_CAP = 200              # потолок очереди для каждого магазина
+SEEN_CAP = 1000              # сколько «виденных» ключей помним
 SAS_PER_RUN = 5              # страниц SAS за прогон (по 24 позиции)
 API = "https://api.telegram.org/bot%s/" % TOKEN
 JINA = "https://r.jina.ai/"
@@ -57,8 +59,9 @@ CITY_OFFERS = "https://yerevan-city.am/shop/best-offers"
 
 STORES = {"SAS": SAS_URL, "Yerevan City": CITY_OFFERS}
 
-# SAS пишет цены как «19 000 դր.», а не «֏»; цены за единицу («292 դր./1հատ»)
-# отбрасываем lookahead-ом.
+# SAS пишет цены как «19 000 դր.», а не «֏». Цену за единицу («292 դր./1հատ»,
+# «2 127 դր./1լ») отбрасываем: иначе она попадает в конец списка и уходит
+# в пост как цена акции.
 PRICE = re.compile(r"([\d][\d\s,\.]{1,12}?)\s*(?:֏|դր\.?|\bnull\b)(?!\s*/)")
 DATE = re.compile(r"\b(\d{2}\.\d{2}\.\d{4})\b")
 # Карточка SAS: [![Image 3: Товар](фото)](товар) — картинок может быть несколько.
@@ -204,8 +207,39 @@ def key(it):
     return "%s|t:%s" % (it["store"], (it.get("title") or "").lower())
 
 def legacy_key(it):
-    return "%s|%s|%s|%s|%s" % (it["store"], (it.get("title") or "").lower(),
-                               it["old"], it["new"], it.get("until") or "")
+    return "%s|%s|%s|%s|%s" % (it.get("store"), (it.get("title") or "").lower(),
+                               it.get("old", 0), it.get("new", 0),
+                               it.get("until") or "")
+
+def norm_title(t):
+    return IMG_LABEL.sub("", t or "").strip().lower()
+
+def seen_index(seen):
+    """Ключи «виденного» + названия из старых записей (магазин|название|цена|цена|дата)."""
+    keys, titles = set(), []
+    for x in seen:
+        if isinstance(x, (list, tuple)):
+            x = "|".join(str(p) for p in x)
+        elif not isinstance(x, str):
+            x = str(x)
+        keys.add(x)
+        parts = x.split("|")
+        if len(parts) >= 5 and not parts[1].startswith("id:"):
+            titles.append(norm_title(parts[1]))
+    return keys, titles
+
+def known_before(it, keys, titles):
+    if it.get("key") in keys or legacy_key(it) in keys:
+        return True
+    # старые записи опознаются по названию: цены в них могли быть посчитаны
+    # неверно (цена за единицу), поэтому сравниваем только имена товаров
+    t = norm_title(it.get("title"))
+    if len(t) < 12:
+        return False
+    for s in titles:
+        if len(s) >= 12 and (t.startswith(s) or s.startswith(t)):
+            return True
+    return False
 
 def store_items(store, pages):
     """Читает очередь страниц, порядок позиций — как на сайте."""
@@ -224,7 +258,7 @@ def store_items(store, pages):
             keys.add(k)
             fresh.append(x)
         items.extend(fresh)
-        print("%s %s: найдено %d, новых %d" % (store, page, len(fresh), len(fresh)))
+        print("%s %s: новых позиций %d" % (store, page, len(fresh)))
     return items
 
 def card_images(it):
@@ -281,10 +315,10 @@ def card_until(it):
             return "%02d.%02d.%s" % (int(day), m, year)
     return ""
 
-def best_photo(it):
+def best_photo(it, urls=None):
     best = b""
     looking = "photo.jpg"
-    for u in card_images(it)[:6]:
+    for u in (urls if urls is not None else card_images(it))[:6]:
         try:
             r = requests.get(u, timeout=60, headers=HDRS)
         except Exception as e:
@@ -302,11 +336,11 @@ def send(it):
         it["store"], it["title"], money(it["old"]), money(it["new"]), it["pct"])
     if it["until"]:
         text += "\nՄինչև՝ %s" % it["until"]
+    cand = card_images(it)
     if DRY:
-        cand = card_images(it)
         print("[DRY] " + text.replace("\n", " | ") + " | фото: " + (cand[0] if cand else "нет"))
         return True
-    data, name = best_photo(it)
+    data, name = best_photo(it, cand)
     if data:
         field = "document" if SEND_AS_FILE else "photo"
         r = requests.post(API + ("sendDocument" if SEND_AS_FILE else "sendPhoto"),
@@ -316,7 +350,7 @@ def send(it):
         if r.ok and r.json().get("ok"):
             return True
         print("Файл не ушёл: %s" % r.text[:200])
-    for u in card_images(it)[:4]:
+    for u in cand[:4]:
         r = requests.post(API + "sendPhoto",
                           data={"chat_id": CHANNEL, "photo": u, "caption": text,
                                 "reply_markup": BUTTON}, timeout=60)
@@ -341,7 +375,7 @@ def publish(st):
     if last:
         try:
             last = datetime.fromisoformat(last)
-        except ValueError:
+        except (ValueError, TypeError):
             last = None
     if not (PUB_FROM <= now.hour < PUB_TO):
         print("Вне окна публикации (%s)" % now.strftime("%H:%M"))
@@ -365,6 +399,8 @@ def publish(st):
             seen = st["seen"].setdefault(name, [])
             if k not in seen:
                 seen.append(k)
+            if len(seen) > SEEN_CAP:
+                del seen[:len(seen) - SEEN_CAP]
             st["rr"] = (idx + 1) % len(names)
             st["last_publish"] = now.isoformat()
         else:
@@ -375,18 +411,24 @@ def publish(st):
 
 def main():
     st = load_state()
+    if st.get("version") != STATE_VERSION:
+        # цены в очередях собраны старым парсером (цена за единицу вместо
+        # цены акции) — очередь пересобирается заново в этом же прогоне
+        for name in STORES:
+            st["queues"][name] = []
+        st["version"] = STATE_VERSION
     for store in STORES:
         st["seen"].setdefault(store, [])
         st["queues"].setdefault(store, [])
+        seen_keys, seen_titles = seen_index(st["seen"][store])
         # приводим очередь в порядок: старые записи могли быть без key,
         # с повторами, цветами и уже опубликованными позициями
         q, known, clean = st["queues"][store], set(), []
-        seen_now = set(st["seen"][store])
         for it in q:
             if is_junk(it.get("title")) or (store == "SAS" and is_flower(it)):
                 continue
             it["key"] = key(it)
-            if it["key"] in seen_now or legacy_key(it) in seen_now:
+            if known_before(it, seen_keys, seen_titles):
                 continue
             if it["key"] in known:
                 continue
@@ -402,11 +444,10 @@ def main():
         print("%s: позиций со скидкой %d" % (store, len(items)))
         fresh = []
         for it in items:
-            k = key(it)
-            it["key"] = k
-            if k in seen_now or k in known or legacy_key(it) in seen_now:
+            it["key"] = key(it)
+            if it["key"] in known or known_before(it, seen_keys, seen_titles):
                 continue
-            known.add(k)
+            known.add(it["key"])
             fresh.append(it)
         room = QUEUE_CAP - len(q)
         if len(fresh) > room:
