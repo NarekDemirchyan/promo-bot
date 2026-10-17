@@ -1,24 +1,10 @@
 {
  "seen": {
   "SAS": [
-   "SAS|композиция эксклюзив \"sas flowers by villani\"|23500|19000|05.11.2026",
-   "SAS|композиция эксклюзив \"sas flowers by villani\"|15500|11000|05.11.2026",
-   "SAS|букет \"milani\" 25 шт|41500|28000|05.11.2026",
-   "SAS|композиция эксклюзив \"sas flowers by villani\"|39000|34500|05.11.2026",
-   "SAS|жидкость для стирки детская \"frosch baby\" 1.5л|5250|3190|30.10.2026",
-   "SAS|композиция эксклюзив \"sas flowers by villani\"|24000|19000|05.11.2026",
-   "SAS|подгузники - трусики \"libero up&go n6\" 13-20кг, 18шт|5850|5250|30.10.2026",
-   "SAS|антиперспирант-дезодорант \"nivea men\" 150мл|1940|1590|30.10.2026",
-   "SAS|антиперспирант - дезодорант \"nivea men ultra\" 150мл|1940|1590|30.10.2026",
-   "SAS|композиция эксклюзив \"sas flowers by villani\"|47000|41000|05.11.2026",
-   "SAS|композиция эксклюзив \"sas flowers by villani\"|45000|39000|05.11.2026",
-   "SAS|композиция эксклюзив \"sas flowers by villani\"|44000|37500|05.11.2026",
-   "SAS|букет \"milani\" 9 шт|14250|11000|05.11.2026",
    "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|15500|11000|05.11.2026",
    "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|23500|19000|05.11.2026",
    "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|15250|11000|05.11.2026",
    "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|25750|19500|05.11.2026",
-   "SAS|ծաղկեփունջ «milani» 25 հատ|41500|28000|05.11.2026",
    "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|39000|34500|05.11.2026",
    "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|42000|35500|05.11.2026",
    "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|45500|38000|05.11.2026",
@@ -26,7 +12,6 @@
    "SAS|լվացքի հեղուկ մանկական «frosch baby» 1.5լ|5250|3190|05.11.2026",
    "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|24000|19000|05.11.2026",
    "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|24000|19000|30.10.2026",
-   "SAS|վարտիք - տակդիրներ «libero up&go №6» 13-20կգ, 18 հատ|5850|5250|30.10.2026",
    "SAS|հակաքրտինքային աէրոզոլային միջոց «nivea men» 150մլ|1940|1590|30.10.2026",
    "SAS|հակաքրտինքային աէրոզոլային միջոց «nivea men ultra» 150մլ|1940|1590|05.11.2026",
    "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|72450|55000|05.11.2026",
@@ -35,95 +20,43 @@
    "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|47000|41000|05.11.2026",
    "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|45000|39000|05.11.2026",
    "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|44000|37500|05.11.2026",
-   "SAS|ծաղկեփունջ «milani» 9 հատ|14250|11000|05.11.2026"
+   "SAS|ցույց տալ ավելին|14250|11000|05.11.2026"
   ],
   "Yerevan City": [
-   "Yerevan City|мебель для сада комплект стул+4стол+зонт 80см|89990|59987|",
-   "Yerevan City|кухонная утварь набор ножей с под. brabantia 6шт|69990|36990|",
-   "Yerevan City|коньяк, бренди импортные коньяк hennessy v.s.o.p l.ed.(кор.) 0.7л|39590|35591|",
-   "Yerevan City|кухонная утварь набор ножей с под. brabantia 6шт|37990|21149|",
-   "Yerevan City|товары для сушки сушилка д/б vileda king 20м|27690|23719|",
-   "Yerevan City|ведра и баки ведро+швабра vileda ultramax 2в|25940|13891|",
-   "Yerevan City|куклы кукла 8803a|24990|14989|",
-   "Yerevan City|мебель для сада тенд 3x|24990|19690|",
-   "Yerevan City|кофе натуральный кофе зерн.t.lamborghini esp.platinum 1кг|24940|18381|",
-   "Yerevan City|игрушки мягкие комиксы игр.мягкая stitch с кокосом 95см|22990|11495|",
-   "Yerevan City|постельное белье кoмп.пост.сем qingtai хл. 250x|21990|10995|",
-   "Yerevan City|вино вино berdashen khndoghni выд.кр.сух0.75л|21990|9091|",
-   "Yerevan City|виски купажированный виски johnnie walker black 12л 0.7л|21990|19791|",
-   "Yerevan City|кофе натуральный кофе зерн. t.lamborghini esp.red 1кг|21380|15759|",
-   "Yerevan City|виски купажированный виски johnnie walker red 1л|20500|18450|",
-   "Yerevan City|игрушки мягкие мишки игр.мягкая мишка в свитере 70см|19990|9995|",
-   "Yerevan City|товары для глажки гладильная доска d.home 138x36 ib|19990|12990|",
-   "Yerevan City|сушилка д/б vileda universal 18м|19750|16991|",
-   "Yerevan City|կարտոֆիլ կտրելու սարք «բրաբանտիա»|19150|10149|",
-   "Yerevan City|ֆուա-գրա «ռուժի» սագի լյարդից տրյուֆելով 75գր|18990|15989|",
-   "Yerevan City|օդային տապակիչ «ռաֆ» 4.5լ 1500վտ|18990|9495|",
-   "Yerevan City|օղի «մամոնտ» այվորի, օրգանիկ 0.7լ|18650|14739|",
-   "Yerevan City|սուրճ հատ․ «լավազզա» էսպրեսսո, կրեմա արոմա 1000գ|18640|16190|",
-   "Yerevan City|լիկյոր «բեյլիս» իռլանդական կրեմ 1լ|17900|15290|",
-   "Yerevan City|անկ․հավ․երկտ․ «ցինթայ» 1 բամ․ 250x|16990|10990|",
-   "Yerevan City|պիստակ մաքրած կգ|16990|13590|",
-   "Yerevan City|կոնստրուկտոր մագնիսական 159կտոր|16550|13240|",
-   "Yerevan City|քերիչ տարայով «բրաբանտիա» պահուստով|16190|9989|",
-   "Yerevan City|ֆուա-գրա «ռուժի» սագի լյարդից ա/տ 180գր|15990|13989|",
-   "Yerevan City|փափուկ խաղալիք «շուն» սնուպի 80սմ|15990|7995|"
+   "Yerevan City|33% мебель для сада комплект стул+4стол+зонт 80см 185|89990|59987|",
+   "Yerevan City|47% кухонная утварь набор ножей с под. brabantia 6шт 924067|69990|36990|",
+   "Yerevan City|10% коньяк, бренди импортные коньяк hennessy v.s.o.p l.ed.(кор.) 0.7л|39590|35591|",
+   "Yerevan City|44% кухонная утварь набор ножей с под. brabantia 6шт 829724|37990|21149|",
+   "Yerevan City|14% товары для сушки сушилка д/б vileda king 20м|27690|23719|",
+   "Yerevan City|46% ведра и баки ведро+швабра vileda ultramax 2в1|25940|13891|",
+   "Yerevan City|40% куклы кукла 8803a-47|24990|14989|",
+   "Yerevan City|21% мебель для сада тенд 3x3 6107|24990|19690|",
+   "Yerevan City|26% кофе натуральный кофе зерн.t.lamborghini esp.platinum 1кг|24940|18381|",
+   "Yerevan City|50% игрушки мягкие комиксы игр.мягкая stitch с кокосом 95см|22990|11495|",
+   "Yerevan City|50% постельное белье кoмп.пост.сем qingtai хл. 250x250|21990|10995|",
+   "Yerevan City|59% вино вино berdashen khndoghni выд.кр.сух0.75л|21990|9091|",
+   "Yerevan City|10% виски купажированный виски johnnie walker black 12л 0.7л|21990|19791|",
+   "Yerevan City|26% кофе натуральный кофе зерн. t.lamborghini esp.red 1кг|21380|15759|",
+   "Yerevan City|10% виски купажированный виски johnnie walker red 1л|20500|18450|",
+   "Yerevan City|50% игрушки мягкие мишки игр.мягкая мишка в свитере 70см|19990|9995|",
+   "Yerevan City|35% товары для глажки гладильная доска d.home 138x36 ib-03|19990|12990|",
+   "Yerevan City|14% сушилка д/б vileda universal 18м 05535|19750|16991|",
+   "Yerevan City|47% կարտոֆիլ կտրելու սարք «բրաբանտիա» 145421|19150|10149|",
+   "Yerevan City|16% ֆուա-գրա «ռուժի» սագի լյարդից տրյուֆելով 75գր|18990|15989|",
+   "Yerevan City|50% օդային տապակիչ «ռաֆ» 4.5լ 1500վտ 5232|18990|9495|",
+   "Yerevan City|21% օղի «մամոնտ» այվորի, օրգանիկ 0.7լ|18650|14739|",
+   "Yerevan City|13% սուրճ հատ․ «լավազզա» էսպրեսսո, կրեմա արոմա 1000գ|18640|16190|",
+   "Yerevan City|15% լիկյոր «բեյլիս» իռլանդական կրեմ 1լ|17900|15290|",
+   "Yerevan City|35% անկ․հավ․երկտ․ «ցինթայ» 100%բամ․ 250x250|16990|10990|",
+   "Yerevan City|20% պիստակ մաքրած կգ|16990|13590|",
+   "Yerevan City|20% կոնստրուկտոր մագնիսական 159կտոր 1338|16550|13240|",
+   "Yerevan City|38% քերիչ տարայով «բրաբանտիա» պահուստով 145469|16190|9989|",
+   "Yerevan City|13% ֆուա-գրա «ռուժի» սագի լյարդից ա/տ 180գր|15990|13989|",
+   "Yerevan City|50% փափուկ խաղալիք «շուն» սնուպի 80սմ|15990|7995|"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Жидкость для стирки детская \"Frosch Baby\" 1.5л",
-    "old": 5250,
-    "new": 3190,
-    "pct": 39,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/153/283/283153566225964.webp",
-    "key": "SAS|жидкость для стирки детская \"frosch baby\" 1.5л|5250|3190|30.10.2026"
-   },
-   {
-    "store": "SAS",
-    "title": "Լվացքի հեղուկ մանկական «Frosch Baby» 1.5լ",
-    "old": 5250,
-    "new": 3190,
-    "pct": 39,
-    "until": "05.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/153/283/283153566225964.webp",
-    "page": "https://www.sas.am/catalog/forlaundryy/34961/",
-    "key": "SAS|լվացքի հեղուկ մանկական «frosch baby» 1.5լ|5250|3190|05.11.2026"
-   },
-   {
-    "store": "SAS",
-    "title": "Букет \"Milani\" 25 шт",
-    "old": 41500,
-    "new": 28000,
-    "pct": 33,
-    "until": "05.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/311/057/0574513336262888.webp",
-    "key": "SAS|букет \"milani\" 25 шт|41500|28000|05.11.2026"
-   },
-   {
-    "store": "SAS",
-    "title": "Ծաղկեփունջ «Milani» 25 հատ",
-    "old": 41500,
-    "new": 28000,
-    "pct": 33,
-    "until": "05.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/311/057/0574513336262888.webp",
-    "page": "https://www.sas.am/catalog/milaniroses/365337/",
-    "key": "SAS|ծաղկեփունջ «milani» 25 հատ|41500|28000|05.11.2026"
-   },
-   {
-    "store": "SAS",
-    "title": "Композиция Эксклюзив \"SAS Flowers by Villani\"",
-    "old": 15500,
-    "new": 11000,
-    "pct": 29,
-    "until": "05.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/312/965/9652981635574267.webp",
-    "key": "SAS|композиция эксклюзив \"sas flowers by villani\"|15500|11000|05.11.2026"
-   },
    {
     "store": "SAS",
     "title": "Էքսկլյուզիվ կոմպոզիցիա «SAS Flowers by Villani»",
@@ -132,8 +65,17 @@
     "pct": 29,
     "until": "05.11.2026",
     "img": "https://www.sas.am/upload/Sh/imageCache/312/965/9652981635574267.webp",
-    "page": "https://www.sas.am/catalog/sasexclusiveflowers/478311/",
-    "key": "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|15500|11000|05.11.2026"
+    "page": "https://www.sas.am/catalog/sasexclusiveflowers/478311/"
+   },
+   {
+    "store": "SAS",
+    "title": "Էքսկլյուզիվ կոմպոզիցիա «SAS Flowers by Villani»",
+    "old": 23500,
+    "new": 19000,
+    "pct": 19,
+    "until": "05.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/719/388/3886513957233626.webp",
+    "page": "https://www.sas.am/catalog/sasexclusiveflowers/902716/"
    },
    {
     "store": "SAS",
@@ -143,8 +85,7 @@
     "pct": 28,
     "until": "05.11.2026",
     "img": "https://www.sas.am/upload/Sh/imageCache/401/786/7860422014645357.webp",
-    "page": "https://www.sas.am/catalog/sasexclusiveflowers/583361/",
-    "key": "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|15250|11000|05.11.2026"
+    "page": "https://www.sas.am/catalog/sasexclusiveflowers/583361/"
    },
    {
     "store": "SAS",
@@ -154,169 +95,134 @@
     "pct": 24,
     "until": "05.11.2026",
     "img": "https://www.sas.am/upload/Sh/imageCache/426/260/260190744982653.webp",
-    "page": "https://www.sas.am/catalog/sasexclusiveflowers/583338/",
-    "key": "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|25750|19500|05.11.2026"
+    "page": "https://www.sas.am/catalog/sasexclusiveflowers/583338/"
    },
    {
     "store": "SAS",
     "title": "Էքսկլյուզիվ կոմպոզիցիա «SAS Flowers by Villani»",
-    "old": 72450,
-    "new": 55000,
-    "pct": 24,
+    "old": 39000,
+    "new": 34500,
+    "pct": 12,
     "until": "05.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/324/436/4367241358789930.webp",
-    "page": "https://www.sas.am/catalog/sasexclusiveflowers/636650/",
-    "key": "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|72450|55000|05.11.2026"
-   },
-   {
-    "store": "SAS",
-    "title": "Ծաղկեփունջ «Milani» 9 հատ",
-    "old": 14250,
-    "new": 11000,
-    "pct": 23,
-    "until": "05.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/885/316/3163221249958652.webp",
-    "page": "https://www.sas.am/catalog/milaniroses/365352/",
-    "key": "SAS|ծաղկեփունջ «milani» 9 հատ|14250|11000|05.11.2026"
+    "img": "https://www.sas.am/upload/Sh/imageCache/189/716/7161593025122537.webp",
+    "page": "https://www.sas.am/catalog/sasexclusiveflowers/585534/"
    },
    {
     "store": "SAS",
     "title": "Էքսկլյուզիվ կոմպոզիցիա «SAS Flowers by Villani»",
-    "old": 102450,
-    "new": 79900,
-    "pct": 22,
+    "old": 42000,
+    "new": 35500,
+    "pct": 15,
     "until": "05.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/364/842/8424433834054413.webp",
-    "page": "https://www.sas.am/catalog/sasexclusiveflowers/583334/",
-    "key": "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|102450|79900|05.11.2026"
-   },
-   {
-    "store": "SAS",
-    "title": "Композиция Эксклюзив \"SAS Flowers by Villani\"",
-    "old": 24000,
-    "new": 19000,
-    "pct": 21,
-    "until": "05.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/281/719/7190504250972199.webp",
-    "key": "SAS|композиция эксклюзив \"sas flowers by villani\"|24000|19000|05.11.2026"
-   },
-   {
-    "store": "SAS",
-    "title": "Композиция Эксклюзив \"SAS Flowers by Villani\"",
-    "old": 24000,
-    "new": 19000,
-    "pct": 21,
-    "until": "05.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/345/507/5079381329622071.webp",
-    "key": "SAS|композиция эксклюзив \"sas flowers by villani\"|24000|19000|05.11.2026"
+    "img": "https://www.sas.am/upload/Sh/imageCache/138/961/9618702446192401.webp",
+    "page": "https://www.sas.am/catalog/sasexclusiveflowers/478288/"
    },
    {
     "store": "SAS",
     "title": "Էքսկլյուզիվ կոմպոզիցիա «SAS Flowers by Villani»",
-    "old": 24000,
-    "new": 19000,
-    "pct": 21,
+    "old": 45500,
+    "new": 38000,
+    "pct": 16,
     "until": "05.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/281/719/7190504250972199.webp",
-    "page": "https://www.sas.am/catalog/sasexclusiveflowers/450084/",
-    "key": "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|24000|19000|05.11.2026"
+    "img": "https://www.sas.am/upload/Sh/imageCache/114/797/7970723579933514.webp",
+    "page": "https://www.sas.am/catalog/sasexclusiveflowers/469132/"
    },
    {
     "store": "SAS",
     "title": "Էքսկլյուզիվ կոմպոզիցիա «SAS Flowers by Villani»",
-    "old": 24000,
-    "new": 19000,
-    "pct": 21,
+    "old": 44000,
+    "new": 38000,
+    "pct": 14,
     "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/113/902/902028897597271.webp",
-    "page": "https://www.sas.am/catalog/sasexclusiveflowers/450077/",
-    "key": "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|24000|19000|30.10.2026"
-   },
-   {
-    "store": "SAS",
-    "title": "Композиция Эксклюзив \"SAS Flowers by Villani\"",
-    "old": 23500,
-    "new": 19000,
-    "pct": 19,
-    "until": "05.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/328/743/7430281914717575.webp",
-    "key": "SAS|композиция эксклюзив \"sas flowers by villani\"|23500|19000|05.11.2026"
+    "img": "https://www.sas.am/upload/Sh/imageCache/360/451/4512263133197047.webp",
+    "page": "https://www.sas.am/catalog/sasexclusiveflowers/404902/"
    }
   ],
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Кухонная утварь Набор ножей с под. Brabantia 6шт",
+    "title": "33% Мебель для сада Комплект стул+4стол+зонт 80см 185",
+    "old": 89990,
+    "new": 59987,
+    "pct": 33,
+    "until": "",
+    "img": "",
+    "page": "https://yerevan-city.am/shop/product-details/52485"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "47% Кухонная утварь Набор ножей с под. Brabantia 6шт 924067",
     "old": 69990,
     "new": 36990,
     "pct": 47,
     "until": "",
     "img": "",
-    "key": "Yerevan City|кухонная утварь набор ножей с под. brabantia 6шт|69990|36990|"
+    "page": "https://yerevan-city.am/shop/product-details/111649"
    },
    {
     "store": "Yerevan City",
-    "title": "Коньяк, Бренди импортные Коньяк Hennessy V.S.O.P L.Ed.(кор.) 0.7л",
+    "title": "10% Коньяк, Бренди импортные Коньяк Hennessy V.S.O.P L.Ed.(кор.) 0.7л",
     "old": 39590,
     "new": 35591,
     "pct": 10,
     "until": "",
     "img": "",
-    "key": "Yerevan City|коньяк, бренди импортные коньяк hennessy v.s.o.p l.ed.(кор.) 0.7л|39590|35591|"
+    "page": "https://yerevan-city.am/shop/product-details/55735"
    },
    {
     "store": "Yerevan City",
-    "title": "Кухонная утварь Набор ножей с под. Brabantia 6шт",
+    "title": "44% Кухонная утварь Набор ножей с под. Brabantia 6шт 829724",
     "old": 37990,
     "new": 21149,
     "pct": 44,
     "until": "",
     "img": "",
-    "key": "Yerevan City|кухонная утварь набор ножей с под. brabantia 6шт|37990|21149|"
+    "page": "https://yerevan-city.am/shop/product-details/111647"
    },
    {
     "store": "Yerevan City",
-    "title": "Товары для сушки Сушилка д/б Vileda King 20м",
+    "title": "14% Товары для сушки Сушилка д/б Vileda King 20м",
     "old": 27690,
     "new": 23719,
     "pct": 14,
     "until": "",
     "img": "",
-    "key": "Yerevan City|товары для сушки сушилка д/б vileda king 20м|27690|23719|"
+    "page": "https://yerevan-city.am/shop/product-details/53138"
    },
    {
     "store": "Yerevan City",
-    "title": "Ведра и баки Ведро+швабра Vileda Ultramax 2в",
+    "title": "46% Ведра и баки Ведро+швабра Vileda Ultramax 2в1",
     "old": 25940,
     "new": 13891,
     "pct": 46,
     "until": "",
     "img": "",
-    "key": "Yerevan City|ведра и баки ведро+швабра vileda ultramax 2в|25940|13891|"
+    "page": "https://yerevan-city.am/shop/product-details/93426"
    },
    {
     "store": "Yerevan City",
-    "title": "Куклы Кукла 8803A",
+    "title": "40% Куклы Кукла 8803A-47",
     "old": 24990,
     "new": 14989,
     "pct": 40,
     "until": "",
     "img": "",
-    "key": "Yerevan City|куклы кукла 8803a|24990|14989|"
+    "page": "https://yerevan-city.am/shop/product-details/177026"
    },
    {
     "store": "Yerevan City",
-    "title": "Мебель для сада Тенд 3x",
+    "title": "21% Мебель для сада Тенд 3x3 6107",
     "old": 24990,
     "new": 19690,
     "pct": 21,
     "until": "",
     "img": "",
-    "key": "Yerevan City|мебель для сада тенд 3x|24990|19690|"
+    "page": "https://yerevan-city.am/shop/product-details/53822"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-17T13:44:02.460000+04:00"
+ "last_publish": "2026-10-17T13:44:02.460000+04:00",
+ "version": 2
 }
