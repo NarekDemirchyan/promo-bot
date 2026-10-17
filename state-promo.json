@@ -246,16 +246,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Պիստակ մաքրած կգ",
-    "old": 16990,
-    "new": 13590,
-    "pct": 20,
-    "until": "",
-    "img": "",
-    "page": "https://yerevan-city.am/shop/product-details/55750"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Օդային տապակիչ «Ռաֆ» 4.5լ 1500Վտ",
     "old": 18990,
     "new": 9495,
@@ -681,8 +671,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-17T18:45:27.419211+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-17T19:00:42.826415+04:00",
  "version": 3,
  "cursor": {
   "SAS": 15,
