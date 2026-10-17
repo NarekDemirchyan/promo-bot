@@ -65,7 +65,8 @@
    "SAS|id:365337",
    "SAS|id:34961",
    "SAS|id:190989",
-   "SAS|id:365352"
+   "SAS|id:365352",
+   "SAS|id:478311"
   ],
   "Yerevan City": [
    "Yerevan City|33% мебель для сада комплект стул+4стол+зонт 80см 185|89990|59987|",
@@ -245,6 +246,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/885/316/3163221249958652.webp",
     "url": "https://www.sas.am/catalog/milaniroses/365352/",
     "key": "SAS|id:365352"
+   },
+   {
+    "store": "SAS",
+    "title": "Image 383: Էքսկլյուզիվ կոմպոզիցիա «SAS Flowers by Villani»",
+    "old": 15500,
+    "new": 11000,
+    "pct": 29,
+    "until": "05.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/312/965/9652981635574267.webp",
+    "url": "https://www.sas.am/catalog/sasexclusiveflowers/478311/",
+    "key": "SAS|id:478311"
    }
   ],
   "Yerevan City": [
