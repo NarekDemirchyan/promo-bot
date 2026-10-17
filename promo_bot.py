@@ -1,5 +1,18 @@
 # -*- coding: utf-8 -*-
-"""Supermarket promo bot: SAS, Yerevan City -> Telegram channel."""
+"""Supermarket promo bot: SAS, Yerevan City -> Telegram channel.
+
+Այս տարբերակում ուղղված է.
+ 1. SAS-ի նավիգացիոն հղումները («0 դր. Զամբյուղում», «Դիտել ամբողջ բաժինը»)
+    այլևս չեն ընկնում որպես ապրանք. դիրքն անցնում է միայն եթե ունի
+    id-ով վերջացող հղում կամ «Ակցիան գործում է» տող.
+ 2. Քարտի պատուհանը կտրվում է «Զամբյուղում» կոճակի վրա, ուստի գինը և
+    «Մինչև՝»-ը միշտ նույն ապրանքից են, ոչ հարևան քարտից.
+ 3. SEND_AS_FILE=True — լուսանկարը գնում է ֆայլով, լրիվ չափով.
+ 4. Քարտի գլխավոր լուսանկարը (og:image) առաջինն է, Yerevan City-ի մոտ
+    փորձվում է նաև առանց «Resize» հատվածի լրիվ տարբերակը.
+ 5. Մեկանգամյա մաքրում՝ հերթից հանվում է միայն այն SAS դիրքը, որը ապրանքի
+    քարտ չէ. մնացածի կարգը չի փոխվում.
+"""
 import json
 import os
 import re
@@ -53,12 +66,12 @@ STORES = {
 # դեն ենք նետում lookahead-ով։
 PRICE = re.compile(r"([\d][\d\s,\.]{1,12}?)\s*(?:֏|դր\.?|\bnull\b)(?!\s*/)")
 DATE = re.compile(r"\b(\d{2}\.\d{2}\.\d{4})\b")
-# SAS-ի ապրանքի քարտի հղումը ՄԻՇՏ վերջանում է id-ով՝ /catalog/<բաժին>/<թիվ>/։
-# Նավիգացիոն հղումները («Դիտել ամբողջ բաժինը» → /catalog/xxx/,
-# «0 դր. Զամբյուղում» → /order/) id չունեն, ուստի այլևս չեն անցնում։
+# SAS-ի քարտը ցուցակում ներդրված հղում է՝ [![անվանում](նկար)](ապրանքի էջ)։
+# Այստեղ դիտավորյալ ընդհանուր տեսքն է. զտումը կատարվում է parse_sas-ում՝
+# հղումը ապրանքի քարտ է համարվում միայն id-ով կամ ակցիայի տողով։
 SAS_LINK = re.compile(
     r"\[(?:!\[([^\]]{4,160})\]\(([^)]*)\)|([^\]\n]{4,160}))\]"
-    r"\((https://www\.sas\.am/(?!upload/)[^)\s]*/\d{3,}/?)\)")
+    r"\((https://www\.sas\.am/(?!upload/)[^)\s]+)\)")
 CITY_LINK = re.compile(
     r"\[([^\]]{10,400}?)\]\((https://yerevan-city\.am/shop/product-details/(\d+))\)", re.S)
 CITY_PRICE = re.compile(
@@ -139,8 +152,10 @@ def parse_sas(md):
     skip = ("հավելին", "ցույց", "ցուցադրել", "ֆիլտր", "փակել", "շուտով",
             "купить", "в корзину", "подробнее", "все акции",
             "ամբողջ բաժինը", "զամբյուղ", "զամբյուղում", "ներբեռնել")
+    print("SAS: ցանկի մեջ %d հղում" % len(links))
     for i, m in enumerate(links):
         text = (m.group(1) or m.group(3) or "").strip()
+        url = m.group(4)
         if not text or any(s in text.lower() for s in skip):
             continue
         end = links[i + 1].start() if i + 1 < len(links) else min(len(md), m.end() + 900)
@@ -151,13 +166,17 @@ def parse_sas(md):
         cut = chunk.find("Զամբյուղում")
         if cut != -1:
             chunk = chunk[:cut]
+        # Ապրանքի քարտն ունի երկու անկախ նշան, նավիգացիոն հղումը՝ ոչ մեկը։
+        # Բավական է մեկը, որ էջի տարբեր տարբերակների դեպքում քարտը չկորչի։
+        if not re.search(r"/\d{3,}/?$", url) and "գործում է" not in chunk:
+            continue
         prices = [p for p in (num(x) for x in PRICE.findall(chunk)) if p > 0]
         if len(prices) < 2:
             continue
         dates = DATE.findall(chunk)
         out.append(make("SAS", text, prices[0], prices[-1],
                         dates[-1] if dates else "",
-                        m.group(2) or img_in(chunk), m.group(4)))
+                        m.group(2) or img_in(chunk), url))
     return [x for x in out if x]
 
 def parse_city(md):
@@ -226,10 +245,19 @@ def card_images(it):
     return out
 
 def photo_candidates(it):
-    # Քարտի գլխավոր լուսանկարը (og:image) ցանկի առաջին պիտանին է։ Չափով
-    # ամենամեծը վերցնել չի կարելի. քարտի էջում ուրիշ նկարներ էլ կան։
-    # webp-ը չենք հրում վերջը. og:image-ն է իսկական լուսանկարը։
-    return card_images(it)[:6]
+    # Քարտի գլխավոր լուսանկարը (og:image) ցանկի առաջին պիտանին է։
+    # Չափով ամենամեծը վերցնել չի կարելի. քարտի էջում ուրիշ նկարներ էլ կան։
+    cands = card_images(it)[:6]
+    # Yerevan City-ն ցուցակում տալիս է «Resize» տարբերակը. առաջ ենք դնում
+    # առանց այդ հատվածի հղումը (լրիվ չափ), 404-ի դեպքում կոդն ինքն է
+    # վերադառնում հաջորդ պիտանինին։
+    extra = []
+    for u in cands:
+        if "/Image/Resize/" in u:
+            alt = u.replace("/Image/Resize/", "/Image/")
+            if alt not in extra:
+                extra.append(alt)
+    return extra + cands
 
 def card_until(it):
     """Ակցիայի ժամկետը ապրանքի քարտից (Yerevan City-ն ցուցակում ամսաթիվ չի տալիս)։"""
@@ -354,8 +382,8 @@ def main():
         print("Վերակայում. հերթը և տեսածը զրոյացան, նորը կգա կայքից")
     # ՄԻԱՆՎԱԳ մաքրում. մինչ այս տարբերակը SAS-ի նավիգացիոն հղումները
     # («0 դր. Զամբյուղում», «Դիտել ամբողջ բաժինը») մտել էին հերթ որպես
-    # ապրանք։ Այստեղ հանվում են միայն դրանք, մնացածի կարգը չի փոխվում։
-    # Եթե այս բլոկը պետք չէ՝ ջնջիր ամբողջությամբ, մինչև «for store, url...»։
+    # ապրանք։ Հանվում են միայն դրանք, մնացածի կարգը չի փոխվում։
+    # Եթե այս բլոկը պետք չէ՝ ջնջիր մինչև «for store, url in STORES.items()»։
     if not st.get("junk_cleaned"):
         q = st["queues"].get("SAS") or []
         good = [x for x in q if re.search(r"/(\d{3,})/?$", x.get("url") or "")]
