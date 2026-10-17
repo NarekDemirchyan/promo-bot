@@ -1,0 +1,208 @@
+# -*- coding: utf-8 -*-
+"""Supermarket promo bot: SAS, Yerevan City, Carrefour -> Telegram channel."""
+import json
+import os
+import re
+from datetime import datetime, timedelta, timezone
+
+import requests
+
+TOKEN = os.environ.get("BOT_TOKEN", "")
+CHANNEL = os.environ.get("CHANNEL", "")
+DRY = os.environ.get("DRY_RUN", "0") == "1"
+
+STATE = "state-promo.json"
+YE = timezone(timedelta(hours=4))
+PUB_FROM, PUB_TO = 8, 24
+STEP_MIN = 15
+QUEUE_CAP = 16
+SEED_PER_STORE = 8
+API = "https://api.telegram.org/bot%s/" % TOKEN
+JINA = "https://r.jina.ai/"
+SKIP_IMG = ("logo", "18-plus", "flags/", "icon", "banner", "banniere", "svg")
+
+STORES = {
+    "SAS": "https://www.sas.am/ru/catalog/discount/",
+    "Yerevan City": "https://yerevan-city.am/shop/best-offers",
+    "Carrefour": "https://carrefour.am/ru/everyday-products/promotions/",
+}
+PRICE = re.compile(r"([\d][\d\s]{1,9})\s*֏")
+DATE = re.compile(r"\b(\d{2}\.\d{2}\.\d{4})\b")
+SAS_LINK = re.compile(r"\[([^\]\n]{4,160})\]\((https://www\.sas\.am/[^)\s]+)\)")
+CITY_LINK = re.compile(r"\[([^\]]{10,400}?)\]\((https://yerevan-city\.am/shop/product-details/\d+)\)", re.S)
+CAR_LINK = re.compile(r"\*\*\[([^\]]{4,160})\]\((https://carrefour\.am/[^)\s]+)\)\*\*")
+
+def fetch(url):
+    r = requests.get(JINA + url, timeout=120, headers={"User-Agent": "Mozilla/5.0"})
+    r.raise_for_status()
+    return r.text
+
+def num(s):
+    s = re.sub(r"\D", "", s or "")
+    return int(s) if s else 0
+
+def money(n):
+    return "{:,}".format(n).replace(",", " ")
+
+def img_in(chunk):
+    for u in re.findall(r"!\[[^\]]*\]\((https?://[^)\s]+)\)", chunk):
+        if not any(s in u.lower() for s in SKIP_IMG):
+            return u
+    return ""
+
+def make(store, title, old, new, until, img):
+    title = re.sub(r"\s+", " ", (title or "").replace("\\", " ")).strip(" -|")
+    if len(title) < 4 or new <= 0 or old <= new:
+        return None
+    pct = round((old - new) * 100 / old)
+    if pct < 5:
+        return None
+    return {"store": store, "title": title, "old": old, "new": new,
+            "pct": pct, "until": until or "", "img": img or ""}
+
+def parse_sas(md):
+    out, links = [], list(SAS_LINK.finditer(md))
+    skip = ("купить", "в корзину", "подробнее", "все акции")
+    for i, m in enumerate(links):
+        if m.group(1).strip().lower() in skip:
+            continue
+        end = links[i + 1].start() if i + 1 < len(links) else min(len(md), m.end() + 900)
+        chunk = md[m.end():end]
+        prices = [p for p in (num(x) for x in PRICE.findall(chunk)) if p > 0]
+        if len(prices) < 2:
+            continue
+        dates = DATE.findall(chunk)
+        out.append(make("SAS", m.group(1), prices[0], prices[-1], dates[-1] if dates else "", img_in(chunk)))
+    return [x for x in out if x]
+
+def parse_city(md):
+    out = []
+    for m in CITY_LINK.finditer(md):
+        inner = m.group(1)
+        pr = re.search(r"~~\s*([\d\s,]+)\s*֏\s*~~\s*([\d\s,]+)\s*֏", inner)
+        if not pr:
+            continue
+        parts = [p.strip(" \\\n-|") for p in re.split(r"\n|\\", inner)]
+        parts = [p for p in parts if len(p) > 3 and "֏" not in p and not p.startswith("-")]
+        title = parts[-1] if parts else ""
+        out.append(make("Yerevan City", title, num(pr.group(1)), num(pr.group(2)), "", img_in(md[max(0, m.start() - 600):m.end()])))
+    return [x for x in out if x]
+
+def parse_carrefour(md):
+    out, links = [], list(CAR_LINK.finditer(md))
+    for i, m in enumerate(links):
+        end = links[i + 1].start() if i + 1 < len(links) else min(len(md), m.end() + 1200)
+        chunk = md[m.end():end]
+        sp = re.search(r"Special Price\s*([\d\s]{1,9})\s*֏\s*Regular Price\s*([\d\s]{1,9})\s*֏", chunk, re.I)
+        if sp:
+            old, new = num(sp.group(2)), num(sp.group(1))
+        else:
+            prices = [p for p in (num(x) for x in PRICE.findall(chunk)) if p > 0]
+            if len(prices) < 2:
+                continue
+            old, new = prices[0], prices[-1]
+        out.append(make("Carrefour", m.group(1), old, new, "", img_in(chunk)))
+    return [x for x in out if x]
+
+PARSERS = {"SAS": parse_sas, "Yerevan City": parse_city, "Carrefour": parse_carrefour}
+
+def load_state():
+    if os.path.exists(STATE):
+        with open(STATE, encoding="utf-8") as f:
+            return json.load(f)
+    return {"seen": {}, "queues": {}, "seeded": False, "rr": 0, "last_publish": ""}
+
+def save_state(st):
+    with open(STATE, "w", encoding="utf-8") as f:
+        json.dump(st, f, ensure_ascii=False, indent=1)
+
+def key(it):
+    return "%s|%s|%s|%s|%s" % (it["store"], it["title"].lower(), it["old"], it["new"], it["until"])
+
+def send(it):
+    text = "%s\n%s\n%s ֏ → %s ֏ (-%s%%)" % (it["store"], it["title"], money(it["old"]), money(it["new"]), it["pct"])
+    if it["until"]:
+        text += "\nՄինչև՝ %s" % it["until"]
+    if DRY:
+        print("[DRY] " + text.replace("\n", " | "))
+        return True
+    if it["img"]:
+        r = requests.post(API + "sendPhoto", data={"chat_id": CHANNEL, "photo": it["img"], "caption": text}, timeout=60)
+        if r.ok and r.json().get("ok"):
+            return True
+    r = requests.post(API + "sendMessage", data={"chat_id": CHANNEL, "text": text}, timeout=60)
+    if not (r.ok and r.json().get("ok")):
+        print("Ошибка отправки: %s" % r.text[:300])
+        return False
+    return True
+
+def publish(st):
+    now = datetime.now(YE)
+    last = st.get("last_publish") or ""
+    if last:
+        try:
+            last = datetime.fromisoformat(last)
+        except ValueError:
+            last = None
+    if not (PUB_FROM <= now.hour < PUB_TO):
+        print("Вне окна публикации (%s)" % now.strftime("%H:%M"))
+        return
+    if last and now - last < timedelta(minutes=STEP_MIN):
+        print("Слот ещё не наступил")
+        return
+    names = list(STORES)
+    for i in range(len(names)):
+        idx = (st.get("rr", 0) + i) % len(names)
+        name = names[idx]
+        q = st["queues"].get(name) or []
+        if not q:
+            continue
+        it = q.pop(0)
+        st["queues"][name] = q
+        if send(it):
+            st["rr"] = (idx + 1) % len(names)
+            st["last_publish"] = now.isoformat()
+        return
+    print("Все очереди пусты")
+
+def main():
+    st = load_state()
+    for store, url in STORES.items():
+        try:
+            md = fetch(url)
+        except Exception as e:
+            print("%s: ошибка загрузки: %s" % (store, e))
+            continue
+        items = PARSERS[store](md)
+        print("%s: найдено %d позиций со скидкой" % (store, len(items)))
+        if DRY:
+            for it in items[:5]:
+                print("    - %s | %s->%s ֏ (-%s%%) %s" % (it["title"][:70], it["old"], it["new"], it["pct"], it["until"]))
+        seen = st["seen"].setdefault(store, [])
+        seen_set = set(seen)
+        fresh = []
+        for it in items:
+            k = key(it)
+            it["key"] = k
+            if k in seen_set:
+                continue
+            seen_set.add(k)
+            seen.append(k)
+            fresh.append(it)
+        if not st.get("seeded"):
+            fresh = items[:SEED_PER_STORE]
+        q = st["queues"].setdefault(store, [])
+        q.extend(fresh)
+        if len(q) > QUEUE_CAP:
+            q.sort(key=lambda x: -x["pct"])
+            del q[QUEUE_CAP:]
+        print("%s: новых %d, в очереди %d" % (store, len(fresh), len(q)))
+    st["seeded"] = True
+    publish(st)
+    if DRY:
+        print("DRY RUN: состояние не сохранено")
+        return
+    save_state(st)
+
+if __name__ == "__main__":
+    main()
