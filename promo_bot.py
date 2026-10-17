@@ -18,7 +18,7 @@ PUB_FROM, PUB_TO = 8, 24
 STEP_MIN = 15
 QUEUE_CAP = 200
 SEED_PER_STORE = 8
-SAS_PAGES = 4        # сколько страниц листать у SAS (?PAGEN_1=2..N)
+SAS_PAGES = 1        # у SAS вторая страница отдаёт ту же выдачу
 FLOWER_CAP = 3       # сколько «Flowers by Villani» держать в очереди
 API = "https://api.telegram.org/bot%s/" % TOKEN
 JINA = "https://r.jina.ai/"
@@ -32,7 +32,8 @@ SKIP_IMG = ("logo", "18-plus", "flags/", "icon", "banner", "banniere", "svg",
 
 # Служебные строки списка: это не товары, а кнопки и подписи.
 JUNK = ("ցույց", "հավելին", "ցուցադրել", "ֆիլտր", "փակել",
-        "купить", "в корзину", "подробнее", "все акции", "շուտով")
+        "купить", "в корзину", "подробнее", "все акции", "շուտով",
+        "զամբյուղում", "դիտել", "ամբողջ")
 FLOWER = "flowers by villani"
 
 HDRS = {
@@ -68,6 +69,7 @@ CYR = re.compile(r"[А-Яа-яёЁ]")
 RU_LABEL = re.compile(r"^\s*(Скидка|Эксклюзив|Акция|Суперцена|Sale)\s*[:.\-]?\s*", re.I)
 PCT_HEAD = re.compile(r"^\s*[-–—+%]*\s*\d{1,3}\s*%?\s*")
 ARTIC = re.compile(r"\s+\d{4,}$")
+SAS_ID = re.compile(r"/\d+/?$")
 OG = re.compile(
     r"""<meta[^>]+(?:property|name)=['"]og:image['"][^>]+content=['"]([^'"]+)""", re.I)
 OG2 = re.compile(
@@ -135,7 +137,8 @@ def parse_sas(md):
     out, links = [], list(SAS_LINK.finditer(md))
     for i, m in enumerate(links):
         text = (m.group(1) or m.group(3) or "").strip()
-        if is_junk(text):
+        # настоящая карточка товара заканчивается числом: /583338/
+        if is_junk(text) or not SAS_ID.search(m.group(4)):
             continue
         end = links[i + 1].start() if i + 1 < len(links) else min(len(md), m.end() + 900)
         chunk = md[m.end():end]
