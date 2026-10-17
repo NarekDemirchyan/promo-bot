@@ -23,7 +23,7 @@ JINA = "https://r.jina.ai/"
 
 # Фото уходит файлом — без пережатия Telegram. Нужен обычный пост-«фото»:
 # поставьте False.
-SEND_AS_FILE = True
+SEND_AS_FILE = False
 
 SKIP_IMG = ("logo", "18-plus", "flags/", "icon", "banner", "banniere", "svg",
             "sprite", "placeholder", "no-photo", "nophoto")
