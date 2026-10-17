@@ -252,16 +252,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Սուրճ հատ․ «ԼավԱզզա» Էսպրեսսո, կրեմա արոմա 1000գ",
-    "old": 18640,
-    "new": 16191,
-    "pct": 13,
-    "until": "",
-    "img": "",
-    "page": "https://yerevan-city.am/shop/product-details/10239"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Լիկյոր «Բեյլիս» իռլանդական կրեմ 1լ",
     "old": 17900,
     "new": 15290,
@@ -717,8 +707,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-17T17:15:43.875999+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-17T17:30:33.934745+04:00",
  "version": 3,
  "cursor": {
   "SAS": 15,
