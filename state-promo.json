@@ -77,7 +77,8 @@
    "SAS|id:672238",
    "SAS|id:672237",
    "SAS|id:672229",
-   "SAS|id:672218"
+   "SAS|id:672218",
+   "SAS|id:672217"
   ],
   "Yerevan City": [
    "Yerevan City|33% мебель для сада комплект стул+4стол+зонт 80см 185|89990|59987|",
@@ -165,17 +166,6 @@
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Լոգանքի գել «Nivea» 250մլ",
-    "old": 1790,
-    "new": 1450,
-    "pct": 19,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/showergell/672217/",
-    "key": "SAS|id:672217"
-   },
    {
     "store": "SAS",
     "title": "Հակաքրտինքային միջոց-սթիք «Nivea Men» 50մլ",
@@ -2353,13 +2343,24 @@
     "img": "",
     "url": "https://www.sas.am/catalog/kokteyl_energeticheskiy_napitok/950286/",
     "key": "SAS|id:950286"
+   },
+   {
+    "store": "SAS",
+    "title": "Գարեջուր «Վիմպել Լագեր» 0.33լ",
+    "old": 610,
+    "new": 550,
+    "pct": 10,
+    "until": "28.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/armyanskoe/799512/",
+    "key": "SAS|id:799512"
    }
   ],
   "Yerevan City": []
  },
  "seeded": true,
  "rr": 1,
- "last_publish": "2026-10-17T23:01:25.210831+04:00",
+ "last_publish": "2026-10-17T23:15:56.686146+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
