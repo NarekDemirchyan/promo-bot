@@ -27,7 +27,6 @@ SKIP_IMG = ("logo", "18-plus", "flags/", "icon", "banner", "banniere", "svg", "a
 STORES = {
     "SAS": "https://www.sas.am/ru/catalog/discount/",
     "Yerevan City": "https://yerevan-city.am/shop/best-offers",
-    "Carrefour": "https://carrefour.am/ru/everyday-products/promotions/",
 }
 PRICE_DR = re.compile(r"([\d][\d\s]{2,10})\s*др")
 PRICE_AM = re.compile(r"([\d][\d\s]{1,10})\s*֏")
@@ -123,6 +122,7 @@ def parse_city(md):
         if not pr:
             continue
         text = re.sub(r"~~.*?~~", " ", inner, flags=re.S)
+        text = re.sub(r"[\d][\d\s,\.]{2,}\s*(?:֏|null)", " ", text)
         text = text.replace("null", " ")
         text = re.sub(r"-?\d{1,2}%", " ", text)
         it = make("Yerevan City", text, num(pr.group(1)), num(pr.group(2)), "",
