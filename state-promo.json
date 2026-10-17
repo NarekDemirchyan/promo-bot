@@ -68,17 +68,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Հակաքրտինքային աէրոզոլային միջոց «Nivea Men» 150մլ",
-    "old": 1940,
-    "new": 1590,
-    "pct": 18,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/300/531/5318151099623886.webp",
-    "url": "https://www.sas.am/catalog/antiperspirantt/39954/",
-    "key": "SAS|id:39954"
-   },
-   {
-    "store": "SAS",
     "title": "Հակաքրտինքային աէրոզոլային միջոց «Nivea Men Ultra» 150մլ",
     "old": 1940,
     "new": 1590,
@@ -412,8 +401,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-18T03:00:44.930801+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-18T03:15:34.874900+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
