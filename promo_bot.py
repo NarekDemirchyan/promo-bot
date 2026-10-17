@@ -310,6 +310,10 @@ def send(it):
         return False
     return True
 
+def slot(t):
+    """Начало 15-минутного слота, в который попадает время t."""
+    return t.replace(second=0, microsecond=0, minute=t.minute - t.minute % STEP_MIN)
+
 def publish(st):
     now = datetime.now(YE)
     last = st.get("last_publish") or ""
@@ -321,7 +325,8 @@ def publish(st):
     if not (PUB_FROM <= now.hour < PUB_TO):
         print("Вне окна публикации (%s)" % now.strftime("%H:%M"))
         return
-    if last and now - last < timedelta(minutes=STEP_MIN):
+    # сравниваем слоты, а не минуты: запуск Actions приходит на 30-60 с позже
+    if last and slot(now) <= slot(last):
         print("Слот ещё не наступил")
         return
     names = list(STORES)
