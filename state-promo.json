@@ -61,23 +61,14 @@
    "Yerevan City|id:93426",
    "Yerevan City|id:179780",
    "Yerevan City|id:53822",
-   "Yerevan City|id:177026"
+   "Yerevan City|id:177026",
+   "Yerevan City|id:74091",
+   "Yerevan City|id:179782",
+   "Yerevan City|id:1002"
   ]
  },
  "queues": {
-  "SAS": [
-   {
-    "store": "SAS",
-    "title": "Հակաքրտինքային աէրոզոլային միջոց «Nivea Men Ultra» 150մլ",
-    "old": 1940,
-    "new": 1590,
-    "pct": 18,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/899/120/1205362692467433.webp",
-    "url": "https://www.sas.am/catalog/antiperspirantt/39352/",
-    "key": "SAS|id:39352"
-   }
-  ],
+  "SAS": [],
   "Yerevan City": [
    {
     "store": "Yerevan City",
@@ -386,12 +377,45 @@
     "img": "",
     "url": "https://yerevan-city.am/shop/product-details/177026",
     "key": "Yerevan City|id:177026"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սուրճ հատիկավոր«Տ.Լամբորգինի»Էսպրեսսո,պլատինե 1կգ",
+    "old": 24940,
+    "new": 18380,
+    "pct": 26,
+    "until": "",
+    "img": "",
+    "url": "https://yerevan-city.am/shop/product-details/74091",
+    "key": "Yerevan City|id:74091"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Փափուկ խաղալիք «Սթիթչ» կոկոսով 95սմ",
+    "old": 22990,
+    "new": 11495,
+    "pct": 50,
+    "until": "",
+    "img": "",
+    "url": "https://yerevan-city.am/shop/product-details/179782",
+    "key": "Yerevan City|id:179782"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Վիսկի «Ջոննի Վոլքեր» Բլեք Լեյբլ 12տ 0.7լ",
+    "old": 21990,
+    "new": 19791,
+    "pct": 10,
+    "until": "",
+    "img": "",
+    "url": "https://yerevan-city.am/shop/product-details/1002",
+    "key": "Yerevan City|id:1002"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-18T03:30:40.765543+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-18T03:45:41.976998+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
