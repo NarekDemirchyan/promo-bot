@@ -42,9 +42,8 @@ OG_A = re.compile(r'<meta[^>]+(?:property|name)=["\']og:image["\'][^>]*content=[
 OG_B = re.compile(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]*(?:property|name)=["\']og:image["\']', re.I)
 ARM = re.compile(r"[Ա-Ֆա-ֆև]")
 ART = re.compile(r"(?:Արտիկուլ|Артикул|Article)\s*:?\s*([0-9A-Za-z\-]{4,})")
-BAD_IMG = ("logo", "/local/", "favicon", "markup-images", "svg", "icon", "menu",
-           "minus", "plus", "banner", "flags/", "no_res")
-SKIP_IMG = BAD_IMG
+SKIP_IMG = ("logo", "/local/", "favicon", "markup-images", "svg", "icon", "menu",
+            "minus", "plus", "banner", "flags/", "no_res")
 BAD_LINE = ("հատ", "զամբյուղ", "Մանրամասներ", "Կարդալ", "Ակցիան")
 
 def fetch(url):
@@ -143,7 +142,7 @@ def parse_city(md):
         pr = re.search(r"~~\s*([\d\s,\.]+)\s*\S*\s*~~\s*([\d\s,\.]+)", t)
         if not pr:
             continue
-        name = re.split(r"~~", t)[0]
+        name = re.split(r"~~", t)[0].strip()
         name = re.sub(r"^[-\s]*\d+\s*%\s*", "", name)
         name = re.sub(r"\s+\d{3,}$", "", name).strip()
         if not ARM.search(name):
@@ -154,7 +153,7 @@ def parse_city(md):
     return out
 
 def city_items():
-    """City-ի ցանկը. եթե հայատառ չեկավ՝ նոր փորձ նոր URL-ով (jina-ն նորից render անի)։"""
+    """City-ի ցանկը. եթե հայատառ չեկավ՝ նոր փորձ նոր URL-ով։"""
     for attempt in (0, 1):
         url = STORES["Yerevan City"] + ("?r=%d" % int(time.time()) if attempt else "")
         try:
@@ -169,8 +168,7 @@ def city_items():
     return []
 
 def enrich(it):
-    """Մեծ ֆոտո. City՝ արտիկուլի հղում (Cloudflare-ից անկախ) → og:image.",
-                      SAS՝ og:image → քարտի պատկեր (alt=անուն)։"""
+    """Մեծ ֆոտո. City՝ արտիկուլի հղում → og:image. SAS՝ og:image → քարտի պատկեր։"""
     page = it.get("page") or ""
     if not page:
         return it
@@ -210,7 +208,7 @@ def load_state():
         with open(STATE, encoding="utf-8") as f:
             return json.load(f)
     return {"seen": {}, "queues": {}, "seeded": False, "rr": 0,
-            "last_publish": "", "version": VERSION}
+            "last_publish": "", "version": VERSION, "cursor": {}}
 
 def save_state(st):
     st["version"] = VERSION
@@ -289,6 +287,7 @@ def main():
             except Exception as e:
                 print("%s: ошибка загрузки: %s" % (store, e))
                 continue
+        items.sort(key=lambda x: -x["pct"])
         print("%s: найдено %d позиций со скидкой" % (store, len(items)))
         seen = st["seen"].setdefault(store, [])
         seen_set = set(seen)
@@ -304,8 +303,20 @@ def main():
             fresh = (fresh or items)[:SEED_PER_STORE]
         q = st["queues"].setdefault(store, [])
         q.extend(fresh)
+        have = {key(x) for x in q}
+        need = QUEUE_CAP - len(q)
+        if need > 0 and items:
+            cur = st.setdefault("cursor", {})
+            c = int(cur.get(store, 0)) % len(items)
+            for _ in range(min(need, len(items))):
+                it = items[c]
+                c = (c + 1) % len(items)
+                if key(it) in have:
+                    continue
+                have.add(key(it))
+                q.append(it)
+            cur[store] = c % len(items)
         if len(q) > QUEUE_CAP:
-            q.sort(key=lambda x: -x["pct"])
             del q[QUEUE_CAP:]
         print("%s: новых %d, в очереди %d" % (store, len(fresh), len(q)))
         if DRY:
