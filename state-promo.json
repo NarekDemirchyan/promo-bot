@@ -87,7 +87,11 @@
    "Yerevan City|օդային տապակիչ «ռաֆ» 4.5լ 1500վտ|18990|9495",
    "Yerevan City|կարտոֆիլ կտրելու սարք «բրաբանտիա»|19150|10150",
    "Yerevan City|քերիչ տարայով «բրաբանտիա» պահուստով|16190|9989",
-   "Yerevan City|կոնստրուկտոր մագնիսական 159կտոր|16550|13240"
+   "Yerevan City|կոնստրուկտոր մագնիսական 159կտոր|16550|13240",
+   "Yerevan City|furniture for garden set of 4chair+table+umbrella 80cm|89990|59987|",
+   "Yerevan City|kitchenwares knife set with stand \"brabantia\" 6pcs|69990|36990|",
+   "Yerevan City|imported cognac and brandy cognac \"hennessy\" v.s.o.p limited edition (box) 0.7l|39590|35591|",
+   "Yerevan City|kitchenwares knife set with stand \"brabantia\" 6pcs|37990|21149|"
   ]
  },
  "queues": {
@@ -363,6 +367,50 @@
     "until": "",
     "img": "",
     "page": "https://yerevan-city.am/shop/product-details/179780"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Furniture for garden Set of 4chair+table+umbrella 80cm",
+    "old": 89990,
+    "new": 59987,
+    "pct": 33,
+    "until": "",
+    "img": "",
+    "url": "https://yerevan-city.am/shop/product-details/52485",
+    "key": "Yerevan City|furniture for garden set of 4chair+table+umbrella 80cm|89990|59987|"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Kitchenwares Knife set with stand \"Brabantia\" 6pcs",
+    "old": 69990,
+    "new": 36990,
+    "pct": 47,
+    "until": "",
+    "img": "",
+    "url": "https://yerevan-city.am/shop/product-details/111649",
+    "key": "Yerevan City|kitchenwares knife set with stand \"brabantia\" 6pcs|69990|36990|"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Imported Cognac and Brandy Cognac \"Hennessy\" V.S.O.P Limited Edition (box) 0.7l",
+    "old": 39590,
+    "new": 35591,
+    "pct": 10,
+    "until": "",
+    "img": "",
+    "url": "https://yerevan-city.am/shop/product-details/55735",
+    "key": "Yerevan City|imported cognac and brandy cognac \"hennessy\" v.s.o.p limited edition (box) 0.7l|39590|35591|"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Kitchenwares Knife set with stand \"Brabantia\" 6pcs",
+    "old": 37990,
+    "new": 21149,
+    "pct": 44,
+    "until": "",
+    "img": "",
+    "url": "https://yerevan-city.am/shop/product-details/111647",
+    "key": "Yerevan City|kitchenwares knife set with stand \"brabantia\" 6pcs|37990|21149|"
    }
   ]
  },
