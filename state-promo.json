@@ -100,7 +100,8 @@
    "SAS|t:![image 412: էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»",
    "SAS|t:![image 413: էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»",
    "SAS|t:![image 414: էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»",
-   "SAS|t:![image 415: ծաղկեփունջ «milani» 31 հատ"
+   "SAS|t:![image 415: ծաղկեփունջ «milani» 31 հատ",
+   "SAS|id:365332"
   ],
   "Yerevan City": [
    "Yerevan City|id:177026",
@@ -122,7 +123,15 @@
    "Yerevan City|id:19336",
    "Yerevan City|id:55750",
    "Yerevan City|id:167480",
-   "Yerevan City|id:73233"
+   "Yerevan City|id:73233",
+   "Yerevan City|id:52485",
+   "Yerevan City|id:111649",
+   "Yerevan City|id:55735",
+   "Yerevan City|id:111647",
+   "Yerevan City|id:53138",
+   "Yerevan City|id:195123",
+   "Yerevan City|id:174903",
+   "Yerevan City|id:73224"
   ]
  },
  "queues": {
@@ -2315,6 +2324,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/armyanskoe_vino/607570/",
     "key": "SAS|id:607570"
+   },
+   {
+    "store": "SAS",
+    "title": "Ծաղկեփունջ «Milani» 31 հատ",
+    "old": 41500,
+    "new": 28000,
+    "pct": 33,
+    "until": "05.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/170/879/8794623264452294.webp",
+    "url": "https://www.sas.am/catalog/milaniroses/365332/",
+    "key": "SAS|id:365332"
    }
   ],
   "Yerevan City": [
@@ -2559,6 +2579,94 @@
     "img": "",
     "url": "https://yerevan-city.am/shop/product-details/73233",
     "key": "Yerevan City|id:73233"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Furniture for garden Set of 4chair+table+umbrella 80cm",
+    "old": 89990,
+    "new": 59987,
+    "pct": 33,
+    "until": "",
+    "img": "",
+    "url": "https://yerevan-city.am/shop/product-details/52485",
+    "key": "Yerevan City|id:52485"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Kitchenwares Knife set with stand \"Brabantia\" 6pcs",
+    "old": 69990,
+    "new": 36990,
+    "pct": 47,
+    "until": "",
+    "img": "",
+    "url": "https://yerevan-city.am/shop/product-details/111649",
+    "key": "Yerevan City|id:111649"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Imported Cognac and Brandy Cognac \"Hennessy\" V.S.O.P Limited Edition (box) 0.7l",
+    "old": 39590,
+    "new": 35591,
+    "pct": 10,
+    "until": "",
+    "img": "",
+    "url": "https://yerevan-city.am/shop/product-details/55735",
+    "key": "Yerevan City|id:55735"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Kitchenwares Knife set with stand \"Brabantia\" 6pcs",
+    "old": 37990,
+    "new": 21149,
+    "pct": 44,
+    "until": "",
+    "img": "",
+    "url": "https://yerevan-city.am/shop/product-details/111647",
+    "key": "Yerevan City|id:111647"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Drying goods Clothes dryer \"Vileda\" King 20m",
+    "old": 27690,
+    "new": 23719,
+    "pct": 14,
+    "until": "",
+    "img": "",
+    "url": "https://yerevan-city.am/shop/product-details/53138",
+    "key": "Yerevan City|id:53138"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կոնստրուկտոր մագնիսական 159կտոր",
+    "old": 16550,
+    "new": 13240,
+    "pct": 20,
+    "until": "",
+    "img": "",
+    "url": "https://yerevan-city.am/shop/product-details/195123",
+    "key": "Yerevan City|id:195123"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Քերիչ տարայով «Բրաբանտիա» պահուստով",
+    "old": 16190,
+    "new": 9989,
+    "pct": 38,
+    "until": "",
+    "img": "",
+    "url": "https://yerevan-city.am/shop/product-details/174903",
+    "key": "Yerevan City|id:174903"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գինի «Կարաս» Սիրա Ռեզերվ, կարմիր անապակ 0.75լ",
+    "old": 15990,
+    "new": 13490,
+    "pct": 16,
+    "until": "",
+    "img": "",
+    "url": "https://yerevan-city.am/shop/product-details/73224",
+    "key": "Yerevan City|id:73224"
    }
   ]
  },
