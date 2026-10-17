@@ -242,16 +242,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Լիկյոր «Բեյլիս» իռլանդական կրեմ 1լ",
-    "old": 17900,
-    "new": 15290,
-    "pct": 15,
-    "until": "",
-    "img": "",
-    "page": "https://yerevan-city.am/shop/product-details/19336"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Անկ․հավ․երկտ․ «ՑինԹայ» 100%բամ․ 250x250",
     "old": 16990,
     "new": 10991,
@@ -697,8 +687,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-17T17:45:24.991762+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-17T18:00:42.317248+04:00",
  "version": 3,
  "cursor": {
   "SAS": 15,
