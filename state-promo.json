@@ -73,7 +73,8 @@
    "SAS|id:541560",
    "SAS|id:938673",
    "SAS|id:676462",
-   "SAS|id:673978"
+   "SAS|id:673978",
+   "SAS|id:672238"
   ],
   "Yerevan City": [
    "Yerevan City|33% мебель для сада комплект стул+4стол+зонт 80см 185|89990|59987|",
@@ -161,17 +162,6 @@
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Հակաքրտինքային աէրոզոլային միջոց «Nivea Men Ultra» 150մլ",
-    "old": 1940,
-    "new": 1590,
-    "pct": 18,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/antiperspirantt/672238/",
-    "key": "SAS|id:672238"
-   },
    {
     "store": "SAS",
     "title": "Հակաքրտինքային աէրոզոլային միջոց «Nivea Men Ultra» 150մլ",
@@ -2294,13 +2284,79 @@
     "img": "",
     "url": "https://www.sas.am/catalog/vse_dlya_litsa/86210/",
     "key": "SAS|id:86210"
+   },
+   {
+    "store": "SAS",
+    "title": "Ձողիկներ ծովախեցգետնի \"Vici\" 500գ",
+    "old": 1490,
+    "new": 1370,
+    "pct": 8,
+    "until": "23.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/moreprodukt/83913/",
+    "key": "SAS|id:83913"
+   },
+   {
+    "store": "SAS",
+    "title": "Սուրճ լուծվող «Egoiste X.O Extra Original» 100գ",
+    "old": 8650,
+    "new": 7690,
+    "pct": 11,
+    "until": "28.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/rastvorimyy_kofe/83571/",
+    "key": "SAS|id:83571"
+   },
+   {
+    "store": "SAS",
+    "title": "Սուրճ լուծվող «Nescafe Gold» 47.5գ",
+    "old": 2320,
+    "new": 1550,
+    "pct": 33,
+    "until": "20.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/rastvorimyy_kofe/83284/",
+    "key": "SAS|id:83284"
+   },
+   {
+    "store": "SAS",
+    "title": "Սուրճ էսպրեսսո աղացած «Lavazza Qualità Rossa» 250գ",
+    "old": 5750,
+    "new": 4950,
+    "pct": 14,
+    "until": "13.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/molotyy/83087/",
+    "key": "SAS|id:83087"
+   },
+   {
+    "store": "SAS",
+    "title": "Սուրճ հատիկավոր «Lavazza Qualita Oro» 500գ",
+    "old": 11950,
+    "new": 10450,
+    "pct": 13,
+    "until": "13.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/molotyy/83085/",
+    "key": "SAS|id:83085"
+   },
+   {
+    "store": "SAS",
+    "title": "Սուրճ Էսպրեսսո աղացած «Lavazza Espresso» 250գ",
+    "old": 5990,
+    "new": 5150,
+    "pct": 14,
+    "until": "13.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/molotyy/83082/",
+    "key": "SAS|id:83082"
    }
   ],
   "Yerevan City": []
  },
  "seeded": true,
  "rr": 1,
- "last_publish": "2026-10-17T22:00:51.588321+04:00",
+ "last_publish": "2026-10-17T22:15:38.684870+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
