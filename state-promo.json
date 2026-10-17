@@ -75,7 +75,8 @@
    "SAS|id:676462",
    "SAS|id:673978",
    "SAS|id:672238",
-   "SAS|id:672237"
+   "SAS|id:672237",
+   "SAS|id:672229"
   ],
   "Yerevan City": [
    "Yerevan City|33% мебель для сада комплект стул+4стол+зонт 80см 185|89990|59987|",
@@ -163,17 +164,6 @@
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Հակաքրտինքային միջոց-սթիք «Nivea Fresh Flower» 50մլ",
-    "old": 2090,
-    "new": 1550,
-    "pct": 26,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/antiperspirantt/672229/",
-    "key": "SAS|id:672229"
-   },
    {
     "store": "SAS",
     "title": "Լոգանքի գել «Nivea» 250մլ",
@@ -2351,13 +2341,24 @@
     "img": "",
     "url": "https://www.sas.am/catalog/plitka/207269/",
     "key": "SAS|id:207269"
+   },
+   {
+    "store": "SAS",
+    "title": "Ձեթ ձիթապտղի «Luglio Pomace» 0.5լ",
+    "old": 3350,
+    "new": 2350,
+    "pct": 30,
+    "until": "10.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/rastitelnoe/98291/",
+    "key": "SAS|id:98291"
    }
   ],
   "Yerevan City": []
  },
  "seeded": true,
  "rr": 1,
- "last_publish": "2026-10-17T22:30:46.081700+04:00",
+ "last_publish": "2026-10-17T22:46:08.449540+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
