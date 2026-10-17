@@ -25,17 +25,6 @@
    "SAS|t:դր. զամբյուղում"
   ],
   "Yerevan City": [
-   "Yerevan City|id:53822",
-   "Yerevan City|id:177026",
-   "Yerevan City|id:74091",
-   "Yerevan City|id:179782",
-   "Yerevan City|id:1002",
-   "Yerevan City|id:4985",
-   "Yerevan City|id:167481",
-   "Yerevan City|id:54791",
-   "Yerevan City|id:132889",
-   "Yerevan City|id:167052",
-   "Yerevan City|id:179400",
    "Yerevan City|id:12583",
    "Yerevan City|id:174904",
    "Yerevan City|id:160335",
@@ -48,243 +37,18 @@
    "Yerevan City|id:195123",
    "Yerevan City|id:174903",
    "Yerevan City|id:73224",
-   "Yerevan City|id:73233"
+   "Yerevan City|id:73233",
+   "Yerevan City|id:52485",
+   "Yerevan City|id:111649",
+   "Yerevan City|id:55735",
+   "Yerevan City|id:111647",
+   "Yerevan City|id:53138",
+   "Yerevan City|id:93426",
+   "Yerevan City|id:179780"
   ]
  },
  "queues": {
-  "SAS": [
-   {
-    "store": "SAS",
-    "title": "դր. Զամբյուղում",
-    "old": 15250,
-    "new": 11000,
-    "pct": 28,
-    "until": "05.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/order/",
-    "key": "SAS|t:դր. զամբյուղում"
-   },
-   {
-    "store": "SAS",
-    "title": "դր. Զամբյուղում",
-    "old": 25750,
-    "new": 19500,
-    "pct": 24,
-    "until": "05.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/order/",
-    "key": "SAS|t:դր. զամբյուղում"
-   },
-   {
-    "store": "SAS",
-    "title": "դր. Զամբյուղում",
-    "old": 15500,
-    "new": 11000,
-    "pct": 29,
-    "until": "05.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/order/",
-    "key": "SAS|t:դր. զամբյուղում"
-   },
-   {
-    "store": "SAS",
-    "title": "դր. Զամբյուղում",
-    "old": 41500,
-    "new": 28000,
-    "pct": 33,
-    "until": "05.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/order/",
-    "key": "SAS|t:դր. զամբյուղում"
-   },
-   {
-    "store": "SAS",
-    "title": "դր. Զամբյուղում",
-    "old": 39000,
-    "new": 34500,
-    "pct": 12,
-    "until": "05.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/order/",
-    "key": "SAS|t:դր. զամբյուղում"
-   },
-   {
-    "store": "SAS",
-    "title": "դր. Զամբյուղում",
-    "old": 42000,
-    "new": 35500,
-    "pct": 15,
-    "until": "05.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/order/",
-    "key": "SAS|t:դր. զամբյուղում"
-   },
-   {
-    "store": "SAS",
-    "title": "դր. Զամբյուղում",
-    "old": 45500,
-    "new": 38000,
-    "pct": 16,
-    "until": "05.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/order/",
-    "key": "SAS|t:դր. զամբյուղում"
-   },
-   {
-    "store": "SAS",
-    "title": "դր. Զամբյուղում",
-    "old": 44000,
-    "new": 38000,
-    "pct": 14,
-    "until": "05.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/order/",
-    "key": "SAS|t:դր. զամբյուղում"
-   },
-   {
-    "store": "SAS",
-    "title": "դր. Զամբյուղում",
-    "old": 5250,
-    "new": 2127,
-    "pct": 59,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/order/",
-    "key": "SAS|t:դր. զամբյուղում"
-   },
-   {
-    "store": "SAS",
-    "title": "դր. Զամբյուղում",
-    "old": 24000,
-    "new": 19000,
-    "pct": 21,
-    "until": "05.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/order/",
-    "key": "SAS|t:դր. զամբյուղում"
-   },
-   {
-    "store": "SAS",
-    "title": "դր. Զամբյուղում",
-    "old": 24000,
-    "new": 19000,
-    "pct": 21,
-    "until": "05.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/order/",
-    "key": "SAS|t:դր. զամբյուղում"
-   },
-   {
-    "store": "SAS",
-    "title": "դր. Զամբյուղում",
-    "old": 23500,
-    "new": 19000,
-    "pct": 19,
-    "until": "05.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/order/",
-    "key": "SAS|t:դր. զամբյուղում"
-   },
-   {
-    "store": "SAS",
-    "title": "դր. Զամբյուղում",
-    "old": 24000,
-    "new": 19000,
-    "pct": 21,
-    "until": "05.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/order/",
-    "key": "SAS|t:դր. զամբյուղում"
-   },
-   {
-    "store": "SAS",
-    "title": "դր. Զամբյուղում",
-    "old": 5850,
-    "new": 292,
-    "pct": 95,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/order/",
-    "key": "SAS|t:դր. զամբյուղում"
-   },
-   {
-    "store": "SAS",
-    "title": "դր. Զամբյուղում",
-    "old": 72450,
-    "new": 55000,
-    "pct": 24,
-    "until": "05.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/order/",
-    "key": "SAS|t:դր. զամբյուղում"
-   },
-   {
-    "store": "SAS",
-    "title": "դր. Զամբյուղում",
-    "old": 50000,
-    "new": 42000,
-    "pct": 16,
-    "until": "05.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/order/",
-    "key": "SAS|t:դր. զամբյուղում"
-   },
-   {
-    "store": "SAS",
-    "title": "դր. Զամբյուղում",
-    "old": 102450,
-    "new": 79900,
-    "pct": 22,
-    "until": "05.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/order/",
-    "key": "SAS|t:դր. զամբյուղում"
-   },
-   {
-    "store": "SAS",
-    "title": "դր. Զամբյուղում",
-    "old": 47000,
-    "new": 41000,
-    "pct": 13,
-    "until": "05.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/order/",
-    "key": "SAS|t:դր. զամբյուղում"
-   },
-   {
-    "store": "SAS",
-    "title": "դր. Զամբյուղում",
-    "old": 45000,
-    "new": 39000,
-    "pct": 13,
-    "until": "05.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/order/",
-    "key": "SAS|t:դր. զամբյուղում"
-   },
-   {
-    "store": "SAS",
-    "title": "դր. Զամբյուղում",
-    "old": 44000,
-    "new": 37500,
-    "pct": 15,
-    "until": "05.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/order/",
-    "key": "SAS|t:դր. զամբյուղում"
-   },
-   {
-    "store": "SAS",
-    "title": "դր. Զամբյուղում",
-    "old": 14250,
-    "new": 11000,
-    "pct": 23,
-    "until": "05.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/order/",
-    "key": "SAS|t:դր. զամբյուղում"
-   }
-  ],
+  "SAS": [],
   "Yerevan City": [
    {
     "store": "Yerevan City",
@@ -549,6 +313,83 @@
     "img": "",
     "url": "https://yerevan-city.am/shop/product-details/73233",
     "key": "Yerevan City|id:73233"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հավաքածու 4աթոռ+սեղան+անձրևանոց 80սմ",
+    "old": 89990,
+    "new": 59987,
+    "pct": 33,
+    "until": "",
+    "img": "",
+    "url": "https://yerevan-city.am/shop/product-details/52485",
+    "key": "Yerevan City|id:52485"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Դանակների հավաքածու տակդիրով «Բրաբանտիա» 6հտ",
+    "old": 69990,
+    "new": 36989,
+    "pct": 47,
+    "until": "",
+    "img": "",
+    "url": "https://yerevan-city.am/shop/product-details/111649",
+    "key": "Yerevan City|id:111649"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կոնյակ «Հեննեսսի» Վ.Ս.Օ.Պ Լիմ. Էդիշն ,տուփ 0.7լ",
+    "old": 39590,
+    "new": 35591,
+    "pct": 10,
+    "until": "",
+    "img": "",
+    "url": "https://yerevan-city.am/shop/product-details/55735",
+    "key": "Yerevan City|id:55735"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Դանակների հավաքածու տակդիրով «Բրաբանտիա» 6հտ",
+    "old": 37990,
+    "new": 21149,
+    "pct": 44,
+    "until": "",
+    "img": "",
+    "url": "https://yerevan-city.am/shop/product-details/111647",
+    "key": "Yerevan City|id:111647"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հագուստի չորանոց «Վիլեդա» Քինգ 20մ",
+    "old": 27690,
+    "new": 23719,
+    "pct": 14,
+    "until": "",
+    "img": "",
+    "url": "https://yerevan-city.am/shop/product-details/53138",
+    "key": "Yerevan City|id:53138"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Դույլ+հատակմաքրիչ «Վիլեդա» Ուլտրամաքս 2-ը 1-ում",
+    "old": 25940,
+    "new": 13890,
+    "pct": 46,
+    "until": "",
+    "img": "",
+    "url": "https://yerevan-city.am/shop/product-details/93426",
+    "key": "Yerevan City|id:93426"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Փափուկ խաղալիք «Շուն» Սնուպի 80սմ",
+    "old": 15990,
+    "new": 7995,
+    "pct": 50,
+    "until": "",
+    "img": "",
+    "url": "https://yerevan-city.am/shop/product-details/179780",
+    "key": "Yerevan City|id:179780"
    }
   ]
  },
@@ -560,5 +401,6 @@
   "SAS": 15,
   "Yerevan City": 10
  },
- "reset_done": true
+ "reset_done": true,
+ "junk_cleaned": true
 }
