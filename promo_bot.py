@@ -18,6 +18,8 @@ PUB_FROM, PUB_TO = 8, 24
 STEP_MIN = 15
 QUEUE_CAP = 200
 SEED_PER_STORE = 8
+SAS_PAGES = 4        # сколько страниц листать у SAS (?PAGEN_1=2..N)
+FLOWER_CAP = 3       # сколько «Flowers by Villani» держать в очереди
 API = "https://api.telegram.org/bot%s/" % TOKEN
 JINA = "https://r.jina.ai/"
 
@@ -27,6 +29,11 @@ SEND_AS_FILE = False
 
 SKIP_IMG = ("logo", "18-plus", "flags/", "icon", "banner", "banniere", "svg",
             "sprite", "placeholder", "no-photo", "nophoto")
+
+# Служебные строки списка: это не товары, а кнопки/подписи.
+JUNK = ("ցույց", "հավելին", "ցուցադրել", "ֆիլտր", "փակել",
+        "купить", "в корзину", "подробнее", "все акции", "շուտով")
+FLOWER = "flowers by villani"
 
 HDRS = {
     "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -104,11 +111,19 @@ def clean_title(t):
     t = RU_LABEL.sub("", t).strip(" -|")
     return ARTIC.sub("", t).strip(" -|")
 
+def is_junk(title):
+    low = (title or "").lower()
+    return any(s in low for s in JUNK)
+
+def tidy(q):
+    """Убирает из очереди служебные строки (кнопки, «показать ещё»)."""
+    return [x for x in (q or []) if not is_junk(x.get("title"))]
+
 def make(store, title, old, new, until, img, url=""):
     title = clean_title(title)
     if len(title) < 4 or new <= 0 or old <= new:
         return None
-    if has_cyr(title):
+    if has_cyr(title) or is_junk(title):
         return None
     pct = round((old - new) * 100 / old)
     if pct < 5:
@@ -118,11 +133,9 @@ def make(store, title, old, new, until, img, url=""):
 
 def parse_sas(md):
     out, links = [], list(SAS_LINK.finditer(md))
-    skip = ("հավելին", "ցույց", "ցուցադրել", "ֆիլտր", "փակել",
-            "купить", "в корзину", "подробнее", "все акции", "շուտով")
     for i, m in enumerate(links):
         text = (m.group(1) or m.group(3) or "").strip()
-        if any(s in text.lower() for s in skip):
+        if is_junk(text):
             continue
         end = links[i + 1].start() if i + 1 < len(links) else min(len(md), m.end() + 900)
         chunk = md[m.end():end]
@@ -167,6 +180,33 @@ def key(it):
 
 def legacy_key(it):
     return "%s|%s|%s|%s|%s" % (it["store"], it["title"].lower(), it["old"], it["new"], it["until"])
+
+def store_items(store, url):
+    """Читает список: SAS листает страницы, пока не кончатся или не начнут повторяться."""
+    items, keys, pages = [], set(), SAS_PAGES if store == "SAS" else 1
+    for p in range(1, pages + 1):
+        page_url = url if p == 1 else "%s?PAGEN_1=%d" % (url, p)
+        try:
+            md = fetch(page_url)
+        except Exception as e:
+            print("%s стр.%d: ошибка загрузки: %s" % (store, p, e))
+            break
+        got = PARSERS[store](md)
+        fresh = [x for x in got if key(x) not in keys]
+        for x in fresh:
+            keys.add(key(x))
+        items.extend(fresh)
+        print("%s стр.%d: найдено %d, новых %d" % (store, p, len(got), len(fresh)))
+        if not fresh:
+            break
+    if not items and store == "Yerevan City":
+        try:
+            md = fetch(url + "?r=%d" % int(time.time()))
+            items = PARSERS[store](md)
+            print("%s: повторная загрузка — найдено %d" % (store, len(items)))
+        except Exception as e:
+            print("%s: повторная загрузка не удалась: %s" % (store, e))
+    return items
 
 def card_images(it):
     urls = []
@@ -302,16 +342,10 @@ def publish(st):
 def main():
     st = load_state()
     for store, url in STORES.items():
-        try:
-            md = fetch(url)
-        except Exception as e:
-            print("%s: ошибка загрузки: %s" % (store, e))
-            continue
-        items = PARSERS[store](md)
-        if not items and store == "Yerevan City":
-            md = fetch(url + "?r=%d" % int(time.time()))
-            items = PARSERS[store](md)
-        print("%s: найдено %d позиций со скидкой" % (store, len(items)))
+        if store == "SAS":
+            st["queues"]["SAS"] = tidy(st["queues"].get("SAS", []))
+        items = store_items(store, url)
+        print("%s: всего позиций со скидкой %d" % (store, len(items)))
         if DRY:
             for it in items[:5]:
                 cand = card_images(it)
@@ -329,6 +363,17 @@ def main():
             fresh.append(it)
         if not st.get("seeded"):
             fresh = fresh[:SEED_PER_STORE]
+        if store == "SAS":
+            # Цветам — квота, иначе поток превращается в один и тот же букет.
+            fl = sum(1 for x in st["queues"]["SAS"] if FLOWER in x["title"].lower())
+            keep = []
+            for it in fresh:
+                if FLOWER in it["title"].lower():
+                    fl += 1
+                    if fl > FLOWER_CAP:
+                        continue
+                keep.append(it)
+            fresh = keep
         for it in fresh:
             seen_set.add(it["key"])
             st["seen"][store].append(it["key"])
