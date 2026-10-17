@@ -29,20 +29,24 @@ BUTTON = json.dumps(
     ensure_ascii=False,
 )
 
-# только армянские версии сайтов
+# армянские витрины (у SAS армянская версия — без префикса)
 STORES = {
-    "SAS": "https://www.sas.am/hy/catalog/discount/",
+    "SAS": "https://www.sas.am/catalog/discount/",
     "Yerevan City": "https://yerevan-city.am/shop/best-offers",
 }
-PRICE = re.compile(r"([\d][\d\s]{1,9})\s*֏")
+PRICE = re.compile(r"([\d][\d\s,\.]{1,12}?)\s*(?:֏|\bnull\b)")
 DATE = re.compile(r"\b(\d{2}\.\d{2}\.\d{4})\b")
 SAS_LINK = re.compile(r"\[([^\]\n]{4,160})\]\((https://www\.sas\.am/[^)\s]+)\)")
 CITY_LINK = re.compile(
     r"\[([^\]]{10,400}?)\]\((https://yerevan-city\.am/shop/product-details/(\d+))\)", re.S
 )
+CITY_PRICE = re.compile(
+    r"~~\s*([\d][\d\s,\.]{0,14}?)\s*(?:֏|\bnull\b)?\s*~~\s*([\d][\d\s,\.]{0,14})", re.S
+)
 CYR = re.compile(r"[А-Яа-яЁё]")
 RU_LABEL = re.compile(r"^\s*(Скидка|Эксклюзив|Акция|Суперцена|Sale)\s*[:.\-]?\s*", re.I)
-ARTICLE = re.compile(r"\s+\d{5,}$")
+PCT_HEAD = re.compile(r"^\s*[-–—+%]*\s*\d{1,3}\s*%?\s*")
+ARTICLE = re.compile(r"\s+\d{4,}$")
 OG = re.compile(
     r"""<meta[^>]+(?:property|name)=["']og:image["'][^>]+content=["']([^"']+)""", re.I
 )
@@ -56,7 +60,9 @@ def fetch(url):
     return r.text
 
 def num(s):
-    s = re.sub(r"\D", "", s or "")
+    s = (s or "").replace(" ", "").replace(",", "")
+    s = s.split(".")[0]
+    s = re.sub(r"\D", "", s)
     return int(s) if s else 0
 
 def money(n):
@@ -72,9 +78,11 @@ def has_cyr(s):
     return bool(CYR.search(s or ""))
 
 def clean_title(t):
-    t = re.sub(r"\s+", " ", (t or "").replace("\\", " ")).strip(" -|")
+    t = re.sub(r"~~.*$", "", t or "", flags=re.S)      # если приехали цены — отрезаем
+    t = re.sub(r"\s+", " ", t.replace("\\", " ")).strip(" -|")
+    t = PCT_HEAD.sub("", t).strip(" -|%")              # «-47%» в начале
     t = RU_LABEL.sub("", t).strip(" -|")
-    return ARTICLE.sub("", t).strip(" -|")        # убираем код товара в хвосте
+    return ARTICLE.sub("", t).strip(" -|")             # код товара в хвосте
 
 def make(store, title, old, new, until, img, url=""):
     title = clean_title(title)
@@ -108,14 +116,12 @@ def parse_city(md):
     out = []
     for m in CITY_LINK.finditer(md):
         inner = m.group(1)
-        pr = re.search(r"~~\s*([\d\s,]+)\s*֏\s*~~\s*([\d\s,]+)\s*֏", inner)
+        pr = CITY_PRICE.search(inner)
         if not pr:
             continue
-        parts = [p.strip(" \\\n-|") for p in re.split(r"\n|\\", inner)]
-        parts = [p for p in parts if len(p) > 3 and "֏" not in p and not p.startswith("-")]
-        title = parts[-1] if parts else ""
-        out.append(make("Yerevan City", title, num(pr.group(1)), num(pr.group(2)), "",
-                        "", m.group(2)))
+        title = re.sub(r"~~.*$", "", inner, flags=re.S)
+        out.append(make("Yerevan City", title, num(pr.group(1)), num(pr.group(2)),
+                        "", "", m.group(2)))
     return [x for x in out if x]
 
 PARSERS = {"SAS": parse_sas, "Yerevan City": parse_city}
