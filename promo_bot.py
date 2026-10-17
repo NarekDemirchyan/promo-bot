@@ -11,12 +11,14 @@ TOKEN = os.environ.get("BOT_TOKEN", "")
 CHANNEL = os.environ.get("CHANNEL", "")
 DRY = os.environ.get("DRY_RUN", "0") == "1"
 
+VERSION = 2
 STATE = "state-promo.json"
 YE = timezone(timedelta(hours=4))
 PUB_FROM, PUB_TO, STEP_MIN = 8, 24, 15
 QUEUE_CAP, SEED_PER_STORE = 16, 8
 API = "https://api.telegram.org/bot%s/" % TOKEN
 JINA = "https://r.jina.ai/"
+UA = {"User-Agent": "Mozilla/5.0", "Accept-Language": "hy-AM,hy;q=0.9,en;q=0.7"}
 BOOST = "https://t.me/boost/supermarket_promos"
 BTN = json.dumps({"inline_keyboard": [[{"text": "😊 Աջակցել ալիքին", "url": BOOST}]]})
 
@@ -25,21 +27,25 @@ STORES = {
     "Yerevan City": "https://yerevan-city.am/shop/best-offers",
 }
 
-SKIP_IMG = ("logo", "18-plus", "flags/", "icon", "banner", "banniere", "svg", "no_res")
+SKIP_IMG = ("logo", "18-plus", "flags/", "icon", "banner", "banniere", "svg",
+            "no_res", "menu", "plus.svg", "minus.svg", "ic_menu")
 CUR = r"(?:֏|դր\.)"
 PRICE = re.compile(r"([\d][\d\s]{1,9})\s*" + CUR)
 DATE = re.compile(r"\b(\d{2}\.\d{2}\.\d{4})\b")
 IMG_MD = re.compile(r"!\[(?:Image \d+: )?([^\]]*)\]\((https?://[^)\s]+)\)")
 SAS_CARD = re.compile(r"\[(?:(?:!\[[^\]]*\]\([^)\s]+\))+)\]\((https://www\.sas\.am/catalog/[^)\s]+/\d+/)\)")
 CITY_LINK = re.compile(r"\[([^\]]{10,400}?)\]\((https://yerevan-city\.am/shop/product-details/\d+)\)", re.S)
+TITLE_LINE = re.compile(r"^\s*Title:\s*(.+)$", re.M)
+ARM = re.compile(r"[Ա-Ֆա-ֆև]")
+BAD_LINE = ("հատ", "զամբյուղ", "Մանրամասներ", "Կարդալ")
 
 def fetch(url):
-    r = requests.get(JINA + url, timeout=120, headers={"User-Agent": "Mozilla/5.0"})
+    r = requests.get(JINA + url, timeout=120, headers=UA)
     r.raise_for_status()
     return r.text
 
-def num(s):
-    s = re.sub(r"\D", "", s or "")
+def money_int(s):
+    s = re.sub(r"[^\d]", "", (s or "").split(".")[0])
     return int(s) if s else 0
 
 def money(n):
@@ -57,6 +63,19 @@ def img_in(text):
             return u
     return ""
 
+def name_in(chunk):
+    """Անունը՝ երևացող տեքստից (alt-ը անվստահելի է)։"""
+    for line in chunk.split("\n"):
+        t = clean(line)
+        if not (5 <= len(t) <= 140):
+            continue
+        if "%" in t or re.search(CUR, t) or DATE.search(t) or t.startswith("["):
+            continue
+        if any(b in t for b in BAD_LINE):
+            continue
+        return t
+    return ""
+
 def make(store, title, old, new, until, img):
     title = clean(title)
     if len(title) < 4 or new <= 0 or old <= new:
@@ -72,12 +91,11 @@ def parse_sas(md):
     for i, m in enumerate(cards):
         end = cards[i + 1].start() if i + 1 < len(cards) else len(md)
         chunk = md[m.end():end]
-        prices = [p for p in (num(x) for x in PRICE.findall(chunk)) if p > 0]
+        prices = [p for p in (money_int(x) for x in PRICE.findall(chunk)) if p > 0]
         if len(prices) < 2:
             continue
         dates = DATE.findall(chunk)
-        alt = re.search(r"!\[(?:Image \d+: )?([^\]]*)\]", m.group(0))
-        it = make("SAS", alt.group(1) if alt else "", prices[0], prices[1],
+        it = make("SAS", name_in(chunk), prices[0], prices[1],
                   dates[-1] if dates else "", img_in(m.group(0)))
         if it:
             it["page"] = m.group(1)
@@ -87,38 +105,72 @@ def parse_sas(md):
 def parse_city(md):
     out = []
     for m in CITY_LINK.finditer(md):
-        inner = m.group(1)
-        pr = re.search(r"~~\s*([\d\s,]+)\s*" + CUR + r"\s*~~\s*([\d\s,]+)\s*" + CUR, inner)
+        t = clean(m.group(1))
+        pr = re.search(r"~~\s*([\d\s,\.]+)\s*\S*\s*~~\s*([\d\s,\.]+)", t)
         if not pr:
             continue
-        parts = [p.strip(" \\\n-|") for p in re.split(r"\n|\\", inner)]
-        parts = [p for p in parts if len(p) > 3 and not re.search(CUR, p) and not p.startswith("-")]
-        out.append(make("Yerevan City", parts[-1] if parts else "",
-                        num(pr.group(1)), num(pr.group(2)), "",
-                        img_in(md[max(0, m.start() - 600):m.end()])))
-    return [x for x in out if x]
+        name = re.split(r"~~", t)[0]
+        name = re.sub(r"^-\s*\d+\s*%\s*", "", name)
+        name = re.sub(r"\s+\d{3,}$", "", name)
+        it = make("Yerevan City", name, money_int(pr.group(1)), money_int(pr.group(2)), "", "")
+        if it:
+            it["page"] = m.group(2)
+            out.append(it)
+    return out
 
 PARSERS = {"SAS": parse_sas, "Yerevan City": parse_city}
 
-def product_img(page, title):
-    """Մեծ ֆոտոն ապրանքի քարտից (ցանկում միայն thumbnail կա)."""
+def big_img(md, title):
+    imgs = [(clean(a), u) for a, u in IMG_MD.findall(md) if ok_img(u)]
+    for a, u in imgs:
+        if a == title:
+            return u
+    i = md.find("# " + title)
+    if i < 0:
+        return ""
+    seg = md[max(0, i - 2500):i + 400]
+    for a, u in imgs:
+        if u in seg:
+            return u
+    return ""
+
+def og_img(url):
+    try:
+        h = requests.get(url, timeout=60, headers=UA).text
+    except Exception:
+        return ""
+    m = re.search(r'<meta[^>]+property=["\']og:image["\'][^>]*content=["\']([^"\']+)', h)
+    if not m:
+        m = re.search(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]*property=["\']og:image', h)
+    return m.group(1) if m else ""
+
+def enrich(it):
+    """Ուղարկելուց առաջ՝ ճշգրիտ անուն և մեծ ֆոտո քարտի էջից։"""
+    page = it.get("page") or ""
+    if not page:
+        return it
     try:
         md = fetch(page)
     except Exception:
-        return ""
-    for alt, u in IMG_MD.findall(md):
-        if ok_img(u) and clean(alt) == title:
-            return u
-    i = md.find("# " + title)
-    return img_in(md[i:i + 1500]) if i >= 0 else ""
+        return it
+    m = TITLE_LINE.search(md)
+    if m:
+        t = clean(m.group(1)).split(" | ")[0]
+        if 5 <= len(t) <= 140 and ARM.search(t):
+            it["title"] = t
+    img = big_img(md, it["title"]) or og_img(page)
+    if img:
+        it["img"] = img
+    return it
 
 def load_state():
     if os.path.exists(STATE):
         with open(STATE, encoding="utf-8") as f:
             return json.load(f)
-    return {"seen": {}, "queues": {}, "seeded": False, "rr": 0, "last_publish": ""}
+    return {"seen": {}, "queues": {}, "seeded": False, "rr": 0, "last_publish": "", "version": VERSION}
 
 def save_state(st):
+    st["version"] = VERSION
     with open(STATE, "w", encoding="utf-8") as f:
         json.dump(st, f, ensure_ascii=False, indent=1)
 
@@ -134,7 +186,7 @@ def send(it):
         return True
     if it["img"]:
         try:
-            b = requests.get(it["img"], timeout=60, headers={"User-Agent": "Mozilla/5.0"}).content
+            b = requests.get(it["img"], timeout=60, headers=UA).content
         except Exception:
             b = b""
         if len(b) > 3000:
@@ -172,12 +224,8 @@ def publish(st):
         q = st["queues"].get(name) or []
         if not q:
             continue
-        it = q.pop(0)
+        it = enrich(q.pop(0))
         st["queues"][name] = q
-        if it.get("page"):
-            big = product_img(it["page"], it["title"])
-            if big:
-                it["img"] = big
         if send(it):
             st["rr"] = (idx + 1) % len(names)
             st["last_publish"] = now.isoformat()
@@ -186,6 +234,10 @@ def publish(st):
 
 def main():
     st = load_state()
+    if st.get("version") != VERSION:
+        st["version"] = VERSION
+        st["queues"], st["seen"], st["seeded"] = {}, {}, False
+        print("Новая версия %s: очереди сброшены, будет новый сид" % VERSION)
     for store, url in STORES.items():
         try:
             md = fetch(url)
@@ -196,14 +248,13 @@ def main():
         print("%s: найдено %d позиций со скидкой" % (store, len(items)))
         if DRY:
             for it in items[:5]:
-                print("    - %s | %s->%s ֏ (-%s%%) %s | %s" % (
+                print("    - %s | %s->%s (-%s%%) %s | %s" % (
                     it["title"][:60], it["old"], it["new"], it["pct"], it["until"], it["img"][:60]))
         seen = st["seen"].setdefault(store, [])
         seen_set = set(seen)
         fresh = []
         for it in items:
             k = key(it)
-            it["key"] = k
             if k in seen_set:
                 continue
             seen_set.add(k)
