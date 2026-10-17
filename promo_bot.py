@@ -46,9 +46,14 @@ STORES = {
     "SAS": "https://www.sas.am/catalog/discount/",
     "Yerevan City": "https://yerevan-city.am/shop/best-offers",
 }
-PRICE = re.compile(r"([\d][\d\s,\.]{1,12}?)\s*(?:֏|\bnull\b|դր\.?)(?!\s*/)")
+# SAS пишет цены как «19 000 դր.», а не «֏»; цены за единицу («292 դր./1հատ»)
+# отбрасываем lookahead-ом.
+PRICE = re.compile(r"([\d][\d\s,\.]{1,12}?)\s*(?:֏|դր\.?|\bnull\b)(?!\s*/)")
 DATE = re.compile(r"\b(\d{2}\.\d{2}\.\d{4})\b")
-SAS_LINK = re.compile(r"\[([^\]\n]{4,160})\]\((https://www\.sas\.am/[^)\s]+)\)")
+# Карточка SAS в списке — вложенная ссылка [![название](фото)](страница товара).
+SAS_LINK = re.compile(
+    r"\[(?:!\[([^\]]{4,160})\]\(([^)]*)\)|([^\]\n]{4,160}))\]"
+    r"\((https://www\.sas\.am/(?!upload/)[^)\s]+)\)")
 CITY_LINK = re.compile(
     r"\[([^\]]{10,400}?)\]\((https://yerevan-city\.am/shop/product-details/(\d+))\)", re.S)
 CITY_PRICE = re.compile(
@@ -57,12 +62,20 @@ CYR = re.compile(r"[А-Яа-яёЁ]")
 RU_LABEL = re.compile(r"^\s*(Скидка|Эксклюзив|Акция|Суперцена|Sale)\s*[:.\-]?\s*", re.I)
 PCT_HEAD = re.compile(r"^\s*[-–—+%]*\s*\d{1,3}\s*%?\s*")
 ARTIC = re.compile(r"\s+\d{4,}$")
+# Мусорные префиксы из разметки списка: «![Image 403: » / «Image 403: ».
+IMG_PREFIX = re.compile(r"^!?\[?\s*(?:Image\s+\d+\s*:\s*)?", re.I)
 OG = re.compile(
     r"""<meta[^>]+(?:property|name)=['"]og:image['"][^>]+content=['"]([^'"]+)""", re.I)
 OG2 = re.compile(
     r"""<meta[^>]+content=['"]([^'"]+)['"][^>]+(?:property|name)=['"]og:image['"]""", re.I)
 IMG_SRC = re.compile(r"""<img[^>]+src=['"]([^'"]+\.(?:webp|jpe?g|png)[^'"]*)['"]""", re.I)
 IMG_MD = re.compile(r"!\[[^\]]*\]\((https?://[^)\s]+)\)")
+# Срок акции Yerevan City — только на карточке: «Գինը գործում է 08 Հոկտեմբեր 2026 -ից
+# 31 Հոկտեմբեր 2026». Берём вторую дату.
+MONTHS = {"հունվար": 1, "փետրվար": 2, "մարտ": 3, "ապրիլ": 4, "մայիս": 5,
+          "հունիս": 6, "հուլիս": 7, "օգոստոս": 8, "սեպտեմբեր": 9,
+          "հոկտեմբեր": 10, "նոյեմբեր": 11, "դեկտեմբեր": 12}
+CARD_DATE = re.compile(r"(\d{1,2})\s+([Ա-Ֆա-ֆև]{3,12})\s+(\d{4})")
 
 def fetch(url):
     r = requests.get(JINA + url, timeout=120, headers={"User-Agent": HDRS["User-Agent"]})
@@ -90,8 +103,13 @@ def has_cyr(s):
 def clean_title(t):
     t = re.sub(r"~~.*$", "", t or "", flags=re.S)
     t = re.sub(r"\s+", " ", t.replace("\\", " ")).strip(" -|")
-    t = PCT_HEAD.sub("", t).strip(" -|%")
-    t = RU_LABEL.sub("", t).strip(" -|")
+    for _ in range(3):
+        before = t
+        t = IMG_PREFIX.sub("", t).strip(" -|")
+        t = PCT_HEAD.sub("", t).strip(" -|%")
+        t = RU_LABEL.sub("", t).strip(" -|")
+        if t == before:
+            break
     return ARTIC.sub("", t).strip(" -|")
 
 def make(store, title, old, new, until, img, url=""):
@@ -108,9 +126,11 @@ def make(store, title, old, new, until, img, url=""):
 
 def parse_sas(md):
     out, links = [], list(SAS_LINK.finditer(md))
-    skip = ("купить", "в корзину", "подробнее", "все акции", "հավելին", "ցույց տալ", "շուտով")
+    skip = ("հավելին", "ցույց", "ցուցադրել", "ֆիլտր", "փակել",
+            "купить", "в корзину", "подробнее", "все акции", "շուտով")
     for i, m in enumerate(links):
-        if m.group(1).strip().lower() in skip:
+        text = (m.group(1) or m.group(3) or "").strip()
+        if any(s in text.lower() for s in skip):
             continue
         end = links[i + 1].start() if i + 1 < len(links) else min(len(md), m.end() + 900)
         chunk = md[m.end():end]
@@ -118,8 +138,9 @@ def parse_sas(md):
         if len(prices) < 2:
             continue
         dates = DATE.findall(chunk)
-        out.append(make("SAS", m.group(1), prices[0], prices[-1],
-                        dates[-1] if dates else "", img_in(chunk), m.group(2)))
+        out.append(make("SAS", text, prices[0], prices[-1],
+                        dates[-1] if dates else "",
+                        m.group(2) or img_in(chunk), m.group(4)))
     return [x for x in out if x]
 
 def parse_city(md):
@@ -183,6 +204,27 @@ def card_images(it):
             out.append(u)
     return out
 
+def card_until(it):
+    """Срок акции с карточки товара (Yerevan City в списке дату не отдаёт)."""
+    page = it.get("url") or it.get("page") or ""
+    if not page:
+        return ""
+    try:
+        html = requests.get(page, timeout=45, headers=HDRS).text
+    except Exception as e:
+        print("дата: %s" % e)
+        return ""
+    i = html.find("գործում է")
+    if i == -1:
+        return ""
+    d = CARD_DATE.findall(html[i:i + 600])
+    if len(d) >= 2:
+        day, mon, year = d[1]
+        m = MONTHS.get(mon.lower())
+        if m:
+            return "%02d.%02d.%s" % (int(day), m, year)
+    return ""
+
 def best_photo(it):
     best = b""
     name = "photo.jpg"
@@ -198,6 +240,9 @@ def best_photo(it):
     return best, name
 
 def send(it):
+    it["title"] = clean_title(it["title"])
+    if not it.get("until"):
+        it["until"] = card_until(it)
     text = "%s\n%s\n%s ֏ → %s ֏ (-%s%%)" % (
         it["store"], it["title"], money(it["old"]), money(it["new"]), it["pct"])
     if it["until"]:
