@@ -74,7 +74,8 @@
    "SAS|id:938673",
    "SAS|id:676462",
    "SAS|id:673978",
-   "SAS|id:672238"
+   "SAS|id:672238",
+   "SAS|id:672237"
   ],
   "Yerevan City": [
    "Yerevan City|33% мебель для сада комплект стул+4стол+зонт 80см 185|89990|59987|",
@@ -162,17 +163,6 @@
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Հակաքրտինքային աէրոզոլային միջոց «Nivea Men Ultra» 150մլ",
-    "old": 1940,
-    "new": 1590,
-    "pct": 18,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/antiperspirantt/672237/",
-    "key": "SAS|id:672237"
-   },
    {
     "store": "SAS",
     "title": "Հակաքրտինքային միջոց-սթիք «Nivea Fresh Flower» 50մլ",
@@ -2350,13 +2340,24 @@
     "img": "",
     "url": "https://www.sas.am/catalog/molotyy/83082/",
     "key": "SAS|id:83082"
+   },
+   {
+    "store": "SAS",
+    "title": "Շոկոլադե կոնֆետների հավաքածու «Merci» 100գ",
+    "old": 1520,
+    "new": 1160,
+    "pct": 24,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/plitka/207269/",
+    "key": "SAS|id:207269"
    }
   ],
   "Yerevan City": []
  },
  "seeded": true,
  "rr": 1,
- "last_publish": "2026-10-17T22:15:38.684870+04:00",
+ "last_publish": "2026-10-17T22:30:46.081700+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
