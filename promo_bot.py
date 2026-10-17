@@ -18,7 +18,6 @@ PUB_FROM, PUB_TO = 0, 24     # публикация круглосуточно
 STEP_MIN = 15                # шаг публикации
 QUEUE_CAP = 200              # потолок очереди для каждого магазина
 SAS_PER_RUN = 5              # страниц SAS за прогон (по 24 позиции)
-CAT_PER_RUN = 4              # категорий Yerevan City за прогон
 API = "https://api.telegram.org/bot%s/" % TOKEN
 JINA = "https://r.jina.ai/"
 
@@ -26,17 +25,17 @@ JINA = "https://r.jina.ai/"
 # поставьте False.
 SEND_AS_FILE = False
 
-SKIP_IMG = ("logo", "18-plus", "flags/", "icon", "banner", "banniere", "svg",
+SKIP_IMG = ("logo", "18-plus", "flags/", "icon", "banner", "bannier", "svg",
             "sprite", "placeholder", "no-photo", "nophoto")
 
 # Служебные строки списка: это не товары, а кнопки и подписи.
-JUNK = ("ցույց", "հավելին", "ցուցադրել", "ֆիլտր", "փակել",
-        "купить", "в корзину", "подробнее", "все акции", "շուտով",
-        "զամբյուղում", "դիտել", "ամբողջ")
+JUNK = ("հայտարարություն", "տես ավելին", "ցույց տալ ավելին",
+        "դիտել ամբողջ բաժինը", "դր. զամբյուղում", "առաջ",
+        "купить", "в корзину", "подробнее", "все акции", "շուտով")
 
 # Цветы SAS не публикуем: ни композиции, ни букеты, ни отдельные цветы.
-NO_FLOWERS = ("flowers by villani", "milani", "ծաղկեփունջ", "ծաղիկ", "փունջ",
-              "bouquet", "flowers")
+NO_FLOWERS = ("flowers by villani", "milani", "bouquet", "flowers",
+              "ծաղկեփունջ", "փունջ", "ծաղիկ")
 
 HDRS = {
     "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -55,10 +54,6 @@ SAS_URL = "https://www.sas.am/catalog/discount/"
 SAS_PAGE = 24
 SAS_OFFSETS = list(range(0, 828, SAS_PAGE))   # 35 страниц, 827 позиций
 CITY_OFFERS = "https://yerevan-city.am/shop/best-offers"
-# Категории Yerevan City (id из меню сайта): берём всё, что под скидкой.
-CATS = [4, 1923, 2, 22, 6, 1927, 1924, 7, 29, 27, 1928, 1926, 25, 26, 38, 33,
-        39, 40, 1563, 15, 8, 13, 24, 11, 12, 31, 23, 16, 41, 10, 28, 30, 17, 5,
-        20, 1, 1610]
 
 STORES = {"SAS": SAS_URL, "Yerevan City": CITY_OFFERS}
 
@@ -66,31 +61,30 @@ STORES = {"SAS": SAS_URL, "Yerevan City": CITY_OFFERS}
 # отбрасываем lookahead-ом.
 PRICE = re.compile(r"([\d][\d\s,\.]{1,12}?)\s*(?:֏|դր\.?|\bnull\b)(?!\s*/)")
 DATE = re.compile(r"\b(\d{2}\.\d{2}\.\d{4})\b")
-# Карточка SAS в списке — вложенная ссылка [![название](фото)](страница товара).
+# Карточка SAS: [![Image 3: Товар](фото)](товар) — картинок может быть несколько.
 SAS_LINK = re.compile(
-    r"\[(?:!\[([^\]]{4,160})\]\(([^)]*)\)|([^\]\n]{4,160}))\]"
+    r"\[(?:!\[([^\]]{4,300})\]\(([^)]*)\)(?:!\[[^\]]*\]\([^)]*\))*\]|([^\]\n]{4,300})\])"
     r"\((https://www\.sas\.am/(?!upload/)[^)\s]+)\)")
 CITY_LINK = re.compile(
-    r"\[([^\]]{10,400}?)\]\((https://yerevan-city\.am/shop/product-details/(\d+))\)", re.S)
+    r"\[([^\]\n]{10,400}?)\]\((https://yerevan-city\.am/shop/product-details/(\d+))\)", re.S)
 CITY_PRICE = re.compile(
     r"~~\s*([\d][\d\s,\.]{0,14}?)\s*(?:֏|\bnull\b)?\s*~~\s*([\d][\d\s,\.]{0,14})", re.S)
 CYR = re.compile(r"[А-Яа-яёЁ]")
 RU_LABEL = re.compile(r"^\s*(Скидка|Эксклюзив|Акция|Суперцена|Sale)\s*[:.\-]?\s*", re.I)
 PCT_HEAD = re.compile(r"^\s*[-–—+%]*\s*\d{1,3}\s*%?\s*")
+IMG_LABEL = re.compile(r"^Image\s+\d+\s*:\s*")
 ARTIC = re.compile(r"\s+\d{4,}$")
-SAS_ID = re.compile(r"/\d+/?$")
 OG = re.compile(
     r"""<meta[^>]+(?:property|name)=['"]og:image['"][^>]+content=['"]([^'"]+)""", re.I)
 OG2 = re.compile(
     r"""<meta[^>]+content=['"]([^'"]+)['"][^>]+(?:property|name)=['"]og:image['"]""", re.I)
 IMG_SRC = re.compile(r"""<img[^>]+src=['"]([^'"]+\.(?:webp|jpe?g|png)[^'"]*)['"]""", re.I)
-IMG_MD = re.compile(r"!\[[^\]]*\]\((https?://[^)\s]+)\)")
-# Срок акции Yerevan City — только на карточке: «Գինը գործում է 08 Հոկտեմբեր 2026 -ից
-# 31 Հոկտեմբեր 2026». Берём вторую дату.
+IMG_MD = re.compile(r"!\[[^\]]*\]\(((https?://[^)\s]+)\)")
+# Срок акции Yerevan City — только на карточке: «Մինչև 08 հունվար 2026 — 31 հունվար 2026».
 MONTHS = {"հունվար": 1, "փետրվար": 2, "մարտ": 3, "ապրիլ": 4, "մայիս": 5,
           "հունիս": 6, "հուլիս": 7, "օգոստոս": 8, "սեպտեմբեր": 9,
           "հոկտեմբեր": 10, "նոյեմբեր": 11, "դեկտեմբեր": 12}
-CARD_DATE = re.compile(r"(\d{1,2})\s+([Ա-Ֆա-ֆև]{3,12})\s+(\d{4})")
+CARD_DATE = re.compile(r"(\d{1,2})\s+([Ա-Ֆա-ֆ]{3,12})\s+(\d{4})")
 
 def fetch(url):
     r = requests.get(JINA + url, timeout=120, headers={"User-Agent": HDRS["User-Agent"]})
@@ -98,7 +92,7 @@ def fetch(url):
     return r.text
 
 def tick():
-    """Номер 15-минутного слота — по нему читаем очередную порцию страниц."""
+    """Номер 15-минутного слота — по нему читаем очередь страниц."""
     return int(time.time()) // (STEP_MIN * 60)
 
 def sas_pages():
@@ -111,12 +105,8 @@ def sas_pages():
     return out
 
 def city_pages():
-    n = len(CATS)
-    start = (tick() * CAT_PER_RUN) % n
-    out = [CITY_OFFERS]
-    for i in range(CAT_PER_RUN):
-        out.append("https://yerevan-city.am/shop/products/%d" % CATS[(start + i) % n])
-    return out
+    # Категории сайта скидочных цен не отдают — только страница скидок.
+    return [CITY_OFFERS]
 
 PAGES = {"SAS": sas_pages, "Yerevan City": city_pages}
 
@@ -141,6 +131,7 @@ def has_cyr(s):
 def clean_title(t):
     t = re.sub(r"~~.*$", "", t or "", flags=re.S)
     t = re.sub(r"\s+", " ", t.replace("\\", " ")).strip(" -|")
+    t = IMG_LABEL.sub("", t)
     t = PCT_HEAD.sub("", t).strip(" -|%")
     t = RU_LABEL.sub("", t).strip(" -|")
     return ARTIC.sub("", t).strip(" -|")
@@ -210,13 +201,14 @@ def key(it):
     m = re.search(r"/(\d{4,})/?$", it.get("url") or it.get("page") or "")
     if m:
         return "%s|id:%s" % (it["store"], m.group(1))
-    return "%s|t:%s" % (it["store"], it["title"].lower())
+    return "%s|t:%s" % (it["store"], (it.get("title") or "").lower())
 
 def legacy_key(it):
-    return "%s|%s|%s|%s|%s" % (it["store"], it["title"].lower(), it["old"], it["new"], it["until"])
+    return "%s|%s|%s|%s|%s" % (it["store"], (it.get("title") or "").lower(),
+                               it["old"], it["new"], it.get("until") or "")
 
 def store_items(store, pages):
-    """Читает очередную порцию страниц, порядок позиций — как на сайте."""
+    """Читает очередь страниц, порядок позиций — как на сайте."""
     items, keys = [], set()
     for page in pages:
         try:
@@ -276,7 +268,9 @@ def card_until(it):
     except Exception as e:
         print("дата: %s" % e)
         return ""
-    i = html.find("գործում է")
+    i = html.find("Մինչև")
+    if i == -1:
+        i = html.find("մինչև")
     if i == -1:
         return ""
     d = CARD_DATE.findall(html[i:i + 600])
@@ -289,7 +283,7 @@ def card_until(it):
 
 def best_photo(it):
     best = b""
-    name = "photo.jpg"
+    looking = "photo.jpg"
     for u in card_images(it)[:6]:
         try:
             r = requests.get(u, timeout=60, headers=HDRS)
@@ -298,8 +292,8 @@ def best_photo(it):
             continue
         if r.ok and len(r.content) > len(best) and len(r.content) > 5000:
             best = r.content
-            name = u.split("?")[0].rsplit("/", 1)[-1] or "photo.jpg"
-    return best, name
+            looking = u.split("?")[0].rsplit("/", 1)[-1] or "photo.jpg"
+    return best, looking
 
 def send(it):
     if not it.get("until"):
@@ -384,13 +378,16 @@ def main():
     for store in STORES:
         st["seen"].setdefault(store, [])
         st["queues"].setdefault(store, [])
-        # приводим очередь в порядок: старые записи могли быть без key
-        # и с повторами — повтор выбрасываем, порядок сайта сохраняем
+        # приводим очередь в порядок: старые записи могли быть без key,
+        # с повторами, цветами и уже опубликованными позициями
         q, known, clean = st["queues"][store], set(), []
+        seen_now = set(st["seen"][store])
         for it in q:
-            if is_junk(it.get("title")) or is_flower(it) if store == "SAS" else is_junk(it.get("title")):
+            if is_junk(it.get("title")) or (store == "SAS" and is_flower(it)):
                 continue
             it["key"] = key(it)
+            if it["key"] in seen_now or legacy_key(it) in seen_now:
+                continue
             if it["key"] in known:
                 continue
             known.add(it["key"])
@@ -403,18 +400,17 @@ def main():
         if store == "SAS":
             items = [x for x in items if not is_flower(x)]
         print("%s: позиций со скидкой %d" % (store, len(items)))
-        seen_set = set(st["seen"][store])
         fresh = []
         for it in items:
             k = key(it)
             it["key"] = k
-            if k in seen_set or k in known or legacy_key(it) in seen_set:
+            if k in seen_now or k in known or legacy_key(it) in seen_now:
                 continue
             known.add(k)
             fresh.append(it)
         room = QUEUE_CAP - len(q)
         if len(fresh) > room:
-            fresh = fresh[:room]     # остальное не помечаем — вернётся позже
+            fresh = fresh[:room]      # остальное не помечаем — вернётся позже
         q.extend(fresh)
         print("%s: новых %d, в очереди %d" % (store, len(fresh), len(q)))
     st["seeded"] = True
