@@ -13,7 +13,7 @@ CHANNEL = os.environ.get("CHANNEL", "")
 DRY = os.environ.get("DRY_RUN", "0") == "1"
 
 STATE = "state-promo.json"
-STATE_VERSION = 4
+STATE_VERSION = 5
 YE = timezone(timedelta(hours=4))
 PUB_FROM, PUB_TO = 0, 24     # публикация круглосуточно
 STEP_MIN = 15                # шаг публикации
@@ -32,7 +32,7 @@ SKIP_IMG = ("logo", "18-plus", "flags/", "icon", "banner", "bannier", "svg",
 
 # Служебные строки списка: это не товары, а кнопки и подписи.
 JUNK = ("հայտարարություն", "տես ավելին", "ցույց տալ ավելին",
-        "դիտել ամբողջ բաժինը", "դր. զամբյուղում", "առաջ",
+        "դիտել ամբողջ բաժինը", "դր. զամբյուղում", "առաջ", "վերադառնալ",
         "купить", "в корзину", "подробнее", "все акции", "շուտով")
 
 # Цветы SAS не публикуем: ни композиции, ни букеты, ни отдельные цветы.
@@ -60,13 +60,14 @@ CITY_OFFERS = "https://yerevan-city.am/shop/best-offers"
 STORES = {"SAS": SAS_URL, "Yerevan City": CITY_OFFERS}
 
 # SAS пишет цены как «19 000 դր.», а не «֏». Цену за единицу («292 դր./1հատ»,
-# «2 127 դր./1լ») отбрасываем: иначе она попадает в конец списка и уходит
+# «1 225 դր./1լ») отбрасываем: иначе она попадает в конец списка и уходит
 # в пост как цена акции.
 PRICE = re.compile(r"([\d][\d\s,\.]{1,12}?)\s*(?:֏|դր\.?|\bnull\b)(?!\s*/)")
 DATE = re.compile(r"\b(\d{2}\.\d{2}\.\d{4})\b")
-# Карточка SAS: [![Image 3: Товар](фото)](товар) — картинок может быть несколько.
-SAS_LINK = re.compile(
-    r"\[(?:!\[([^\]]{4,300})\]\(([^)]*)\)(?:!\[[^\]]*\]\([^)]*\))*\]|([^\]\n]{4,300})\])"
+# Карточка SAS в списке: пустая ссылка [](товар) либо [![Image: Название](фото)](товар).
+# Название берём из текста после ссылки — на части страниц фото в разметку не попадает.
+SAS_CARD = re.compile(
+    r"\[(?:!\[[^\]]{4,300}\]\([^)]*\)(?:!\[[^\]]*\]\([^)]*\))*|)\]"
     r"\((https://www\.sas\.am/(?!upload/)[^)\s]+)\)")
 CITY_LINK = re.compile(
     r"\[([^\]\n]{10,400}?)\]\((https://yerevan-city\.am/shop/product-details/(\d+))\)", re.S)
@@ -147,6 +148,19 @@ def is_flower(it):
     s = ((it.get("title") or "") + " " + (it.get("url") or "")).lower()
     return any(w in s for w in NO_FLOWERS)
 
+def card_title(chunk):
+    """Название товара — первая содержательная строка после ссылки."""
+    for raw in chunk.split("\n"):
+        line = raw.strip()
+        if not line or line[0] in "[!":
+            continue
+        if "դր." in line or "֏" in line or "Ակցիան" in line:
+            continue
+        if len(line) < 6 or is_junk(line):
+            continue
+        return line
+    return ""
+
 def make(store, title, old, new, until, img, url=""):
     title = clean_title(title)
     if len(title) < 4 or new <= 0 or old <= new:
@@ -160,20 +174,19 @@ def make(store, title, old, new, until, img, url=""):
             "pct": pct, "until": until or "", "img": img or "", "url": url or ""}
 
 def parse_sas(md):
-    out, links = [], list(SAS_LINK.finditer(md))
+    out, links = [], list(SAS_CARD.finditer(md))
     for i, m in enumerate(links):
-        text = (m.group(1) or m.group(3) or "").strip()
-        if is_junk(text):
-            continue
         end = links[i + 1].start() if i + 1 < len(links) else min(len(md), m.end() + 900)
         chunk = md[m.end():end]
         prices = [p for p in (num(x) for x in PRICE.findall(chunk)) if p > 0]
         if len(prices) < 2:
             continue
+        title = card_title(chunk)
+        if not title:
+            continue
         dates = DATE.findall(chunk)
-        out.append(make("SAS", text, prices[0], prices[-1],
-                        dates[-1] if dates else "",
-                        m.group(2) or img_in(chunk), m.group(4)))
+        out.append(make("SAS", title, prices[0], prices[-1],
+                        dates[-1] if dates else "", img_in(chunk), m.group(1)))
     return [x for x in out if x]
 
 def parse_city(md):
@@ -211,35 +224,19 @@ def legacy_key(it):
                                it.get("old", 0), it.get("new", 0),
                                it.get("until") or "")
 
-def norm_title(t):
-    return IMG_LABEL.sub("", t or "").strip().lower()
-
-def seen_index(seen):
-    """Ключи «виденного» + названия из старых записей (магазин|название|цена|цена|дата)."""
-    keys, titles = set(), []
+def seen_keys(seen):
+    """«Виденное» приводим к строкам: в старых файлах встречаются списки."""
+    keys = set()
     for x in seen:
         if isinstance(x, (list, tuple)):
             x = "|".join(str(p) for p in x)
         elif not isinstance(x, str):
             x = str(x)
         keys.add(x)
-        parts = x.split("|")
-        if len(parts) >= 5 and not parts[1].startswith("id:"):
-            titles.append(norm_title(parts[1]))
-    return keys, titles
+    return keys
 
-def known_before(it, keys, titles):
-    if it.get("key") in keys or legacy_key(it) in keys:
-        return True
-    # старые записи опознаются по названию: цены в них могли быть посчитаны
-    # неверно (цена за единицу), поэтому сравниваем только имена товаров
-    t = norm_title(it.get("title"))
-    if len(t) < 12:
-        return False
-    for s in titles:
-        if len(s) >= 12 and (t.startswith(s) or s.startswith(t)):
-            return True
-    return False
+def known_before(it, keys):
+    return it.get("key") in keys or legacy_key(it) in keys
 
 def store_items(store, pages):
     """Читает очередь страниц, порядок позиций — как на сайте."""
@@ -420,7 +417,7 @@ def main():
     for store in STORES:
         st["seen"].setdefault(store, [])
         st["queues"].setdefault(store, [])
-        seen_keys, seen_titles = seen_index(st["seen"][store])
+        seen = seen_keys(st["seen"][store])
         # приводим очередь в порядок: старые записи могли быть без key,
         # с повторами, цветами и уже опубликованными позициями
         q, known, clean = st["queues"][store], set(), []
@@ -428,7 +425,7 @@ def main():
             if is_junk(it.get("title")) or (store == "SAS" and is_flower(it)):
                 continue
             it["key"] = key(it)
-            if known_before(it, seen_keys, seen_titles):
+            if known_before(it, seen):
                 continue
             if it["key"] in known:
                 continue
@@ -445,7 +442,7 @@ def main():
         fresh = []
         for it in items:
             it["key"] = key(it)
-            if it["key"] in known or known_before(it, seen_keys, seen_titles):
+            if it["key"] in known or known_before(it, seen):
                 continue
             known.add(it["key"])
             fresh.append(it)
