@@ -262,16 +262,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Օղի «Մամոնտ» Այվորի, օրգանիկ 0.7լ",
-    "old": 18650,
-    "new": 14739,
-    "pct": 21,
-    "until": "",
-    "img": "",
-    "page": "https://yerevan-city.am/shop/product-details/167451"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Սուրճ հատ․ «ԼավԱզզա» Էսպրեսսո, կրեմա արոմա 1000գ",
     "old": 18640,
     "new": 16191,
@@ -737,8 +727,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-17T16:45:28.070808+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-17T17:00:43.271587+04:00",
  "version": 3,
  "cursor": {
   "SAS": 15,
