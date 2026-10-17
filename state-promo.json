@@ -221,6 +221,26 @@
     "until": "05.11.2026",
     "img": "https://www.sas.am/upload/Sh/imageCache/281/719/7190504250972199.webp",
     "page": "https://www.sas.am/catalog/sasexclusiveflowers/450084/"
+   },
+   {
+    "store": "SAS",
+    "title": "Հակաքրտինքային աէրոզոլային միջոց «Nivea Men» 150մլ",
+    "old": 1940,
+    "new": 1590,
+    "pct": 18,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/300/531/5318151099623886.webp",
+    "page": "https://www.sas.am/catalog/antiperspirantt/39954/"
+   },
+   {
+    "store": "SAS",
+    "title": "Հակաքրտինքային աէրոզոլային միջոց «Nivea Men Ultra» 150մլ",
+    "old": 1940,
+    "new": 1590,
+    "pct": 18,
+    "until": "05.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/899/120/1205362692467433.webp",
+    "page": "https://www.sas.am/catalog/antiperspirantt/39352/"
    }
   ],
   "Yerevan City": [
@@ -361,7 +381,7 @@
  "last_publish": "2026-10-17T14:02:39.326193+04:00",
  "version": 3,
  "cursor": {
-  "SAS": 12,
-  "Yerevan City": 7
+  "SAS": 15,
+  "Yerevan City": 10
  }
 }
