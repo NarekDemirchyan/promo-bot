@@ -13,7 +13,29 @@
    "SAS|композиция эксклюзив \"sas flowers by villani\"|47000|41000|05.11.2026",
    "SAS|композиция эксклюзив \"sas flowers by villani\"|45000|39000|05.11.2026",
    "SAS|композиция эксклюзив \"sas flowers by villani\"|44000|37500|05.11.2026",
-   "SAS|букет \"milani\" 9 шт|14250|11000|05.11.2026"
+   "SAS|букет \"milani\" 9 шт|14250|11000|05.11.2026",
+   "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|15500|11000|05.11.2026",
+   "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|23500|19000|05.11.2026",
+   "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|15250|11000|05.11.2026",
+   "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|25750|19500|05.11.2026",
+   "SAS|ծաղկեփունջ «milani» 25 հատ|41500|28000|05.11.2026",
+   "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|39000|34500|05.11.2026",
+   "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|42000|35500|05.11.2026",
+   "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|45500|38000|05.11.2026",
+   "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|44000|38000|30.10.2026",
+   "SAS|լվացքի հեղուկ մանկական «frosch baby» 1.5լ|5250|3190|05.11.2026",
+   "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|24000|19000|05.11.2026",
+   "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|24000|19000|30.10.2026",
+   "SAS|վարտիք - տակդիրներ «libero up&go №6» 13-20կգ, 18 հատ|5850|5250|30.10.2026",
+   "SAS|հակաքրտինքային աէրոզոլային միջոց «nivea men» 150մլ|1940|1590|30.10.2026",
+   "SAS|հակաքրտինքային աէրոզոլային միջոց «nivea men ultra» 150մլ|1940|1590|05.11.2026",
+   "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|72450|55000|05.11.2026",
+   "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|50000|42000|05.11.2026",
+   "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|102450|79900|05.11.2026",
+   "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|47000|41000|05.11.2026",
+   "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|45000|39000|05.11.2026",
+   "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|44000|37500|05.11.2026",
+   "SAS|ծաղկեփունջ «milani» 9 հատ|14250|11000|05.11.2026"
   ],
   "Yerevan City": [
    "Yerevan City|мебель для сада комплект стул+4стол+зонт 80см|89990|59987|",
@@ -52,13 +74,24 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Композиция Эксклюзив \"SAS Flowers by Villani\"",
-    "old": 15500,
-    "new": 11000,
-    "pct": 29,
+    "title": "Жидкость для стирки детская \"Frosch Baby\" 1.5л",
+    "old": 5250,
+    "new": 3190,
+    "pct": 39,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/153/283/283153566225964.webp",
+    "key": "SAS|жидкость для стирки детская \"frosch baby\" 1.5л|5250|3190|30.10.2026"
+   },
+   {
+    "store": "SAS",
+    "title": "Լվացքի հեղուկ մանկական «Frosch Baby» 1.5լ",
+    "old": 5250,
+    "new": 3190,
+    "pct": 39,
     "until": "05.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/312/965/9652981635574267.webp",
-    "key": "SAS|композиция эксклюзив \"sas flowers by villani\"|15500|11000|05.11.2026"
+    "img": "https://www.sas.am/upload/Sh/imageCache/153/283/283153566225964.webp",
+    "page": "https://www.sas.am/catalog/forlaundryy/34961/",
+    "key": "SAS|լվացքի հեղուկ մանկական «frosch baby» 1.5լ|5250|3190|05.11.2026"
    },
    {
     "store": "SAS",
@@ -72,23 +105,90 @@
    },
    {
     "store": "SAS",
-    "title": "Композиция Эксклюзив \"SAS Flowers by Villani\"",
-    "old": 39000,
-    "new": 34500,
-    "pct": 12,
+    "title": "Ծաղկեփունջ «Milani» 25 հատ",
+    "old": 41500,
+    "new": 28000,
+    "pct": 33,
     "until": "05.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/189/716/7161593025122537.webp",
-    "key": "SAS|композиция эксклюзив \"sas flowers by villani\"|39000|34500|05.11.2026"
+    "img": "https://www.sas.am/upload/Sh/imageCache/311/057/0574513336262888.webp",
+    "page": "https://www.sas.am/catalog/milaniroses/365337/",
+    "key": "SAS|ծաղկեփունջ «milani» 25 հատ|41500|28000|05.11.2026"
    },
    {
     "store": "SAS",
-    "title": "Жидкость для стирки детская \"Frosch Baby\" 1.5л",
-    "old": 5250,
-    "new": 3190,
-    "pct": 39,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/153/283/283153566225964.webp",
-    "key": "SAS|жидкость для стирки детская \"frosch baby\" 1.5л|5250|3190|30.10.2026"
+    "title": "Композиция Эксклюзив \"SAS Flowers by Villani\"",
+    "old": 15500,
+    "new": 11000,
+    "pct": 29,
+    "until": "05.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/312/965/9652981635574267.webp",
+    "key": "SAS|композиция эксклюзив \"sas flowers by villani\"|15500|11000|05.11.2026"
+   },
+   {
+    "store": "SAS",
+    "title": "Էքսկլյուզիվ կոմպոզիցիա «SAS Flowers by Villani»",
+    "old": 15500,
+    "new": 11000,
+    "pct": 29,
+    "until": "05.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/312/965/9652981635574267.webp",
+    "page": "https://www.sas.am/catalog/sasexclusiveflowers/478311/",
+    "key": "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|15500|11000|05.11.2026"
+   },
+   {
+    "store": "SAS",
+    "title": "Էքսկլյուզիվ կոմպոզիցիա «SAS Flowers by Villani»",
+    "old": 15250,
+    "new": 11000,
+    "pct": 28,
+    "until": "05.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/401/786/7860422014645357.webp",
+    "page": "https://www.sas.am/catalog/sasexclusiveflowers/583361/",
+    "key": "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|15250|11000|05.11.2026"
+   },
+   {
+    "store": "SAS",
+    "title": "Էքսկլյուզիվ կոմպոզիցիա «SAS Flowers by Villani»",
+    "old": 25750,
+    "new": 19500,
+    "pct": 24,
+    "until": "05.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/426/260/260190744982653.webp",
+    "page": "https://www.sas.am/catalog/sasexclusiveflowers/583338/",
+    "key": "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|25750|19500|05.11.2026"
+   },
+   {
+    "store": "SAS",
+    "title": "Էքսկլյուզիվ կոմպոզիցիա «SAS Flowers by Villani»",
+    "old": 72450,
+    "new": 55000,
+    "pct": 24,
+    "until": "05.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/324/436/4367241358789930.webp",
+    "page": "https://www.sas.am/catalog/sasexclusiveflowers/636650/",
+    "key": "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|72450|55000|05.11.2026"
+   },
+   {
+    "store": "SAS",
+    "title": "Ծաղկեփունջ «Milani» 9 հատ",
+    "old": 14250,
+    "new": 11000,
+    "pct": 23,
+    "until": "05.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/885/316/3163221249958652.webp",
+    "page": "https://www.sas.am/catalog/milaniroses/365352/",
+    "key": "SAS|ծաղկեփունջ «milani» 9 հատ|14250|11000|05.11.2026"
+   },
+   {
+    "store": "SAS",
+    "title": "Էքսկլյուզիվ կոմպոզիցիա «SAS Flowers by Villani»",
+    "old": 102450,
+    "new": 79900,
+    "pct": 22,
+    "until": "05.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/364/842/8424433834054413.webp",
+    "page": "https://www.sas.am/catalog/sasexclusiveflowers/583334/",
+    "key": "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|102450|79900|05.11.2026"
    },
    {
     "store": "SAS",
@@ -112,6 +212,28 @@
    },
    {
     "store": "SAS",
+    "title": "Էքսկլյուզիվ կոմպոզիցիա «SAS Flowers by Villani»",
+    "old": 24000,
+    "new": 19000,
+    "pct": 21,
+    "until": "05.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/281/719/7190504250972199.webp",
+    "page": "https://www.sas.am/catalog/sasexclusiveflowers/450084/",
+    "key": "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|24000|19000|05.11.2026"
+   },
+   {
+    "store": "SAS",
+    "title": "Էքսկլյուզիվ կոմպոզիցիա «SAS Flowers by Villani»",
+    "old": 24000,
+    "new": 19000,
+    "pct": 21,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/113/902/902028897597271.webp",
+    "page": "https://www.sas.am/catalog/sasexclusiveflowers/450077/",
+    "key": "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|24000|19000|30.10.2026"
+   },
+   {
+    "store": "SAS",
     "title": "Композиция Эксклюзив \"SAS Flowers by Villani\"",
     "old": 23500,
     "new": 19000,
@@ -122,16 +244,6 @@
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Мебель для сада Комплект стул+4стол+зонт 80см",
-    "old": 89990,
-    "new": 59987,
-    "pct": 33,
-    "until": "",
-    "img": "",
-    "key": "Yerevan City|мебель для сада комплект стул+4стол+зонт 80см|89990|59987|"
-   },
    {
     "store": "Yerevan City",
     "title": "Кухонная утварь Набор ножей с под. Brabantia 6шт",
@@ -205,6 +317,6 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-17T13:23:22.585897+04:00"
+ "rr": 0,
+ "last_publish": "2026-10-17T13:44:02.460000+04:00"
 }
