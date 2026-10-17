@@ -14,7 +14,7 @@ DRY = os.environ.get("DRY_RUN", "0") == "1"
 
 STATE = "state-promo.json"
 YE = timezone(timedelta(hours=4))
-PUB_FROM, PUB_TO = 8, 24
+PUB_FROM, PUB_TO = 0, 24
 STEP_MIN = 15
 QUEUE_CAP = 200
 SEED_PER_STORE = 8
