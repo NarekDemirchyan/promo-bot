@@ -20,7 +20,26 @@
    "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|47000|41000|05.11.2026",
    "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|45000|39000|05.11.2026",
    "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|44000|37500|05.11.2026",
-   "SAS|ցույց տալ ավելին|14250|11000|05.11.2026"
+   "SAS|ցույց տալ ավելին|14250|11000|05.11.2026",
+   "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|15500|11000",
+   "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|23500|19000",
+   "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|15250|11000",
+   "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|25750|19500",
+   "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|39000|34500",
+   "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|42000|35500",
+   "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|45500|38000",
+   "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|44000|38000",
+   "SAS|լվացքի հեղուկ մանկական «frosch baby» 1.5լ|5250|3190",
+   "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|24000|19000",
+   "SAS|հակաքրտինքային աէրոզոլային միջոց «nivea men» 150մլ|1940|1590",
+   "SAS|հակաքրտինքային աէրոզոլային միջոց «nivea men ultra» 150մլ|1940|1590",
+   "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|72450|55000",
+   "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|50000|42000",
+   "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|102450|79900",
+   "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|47000|41000",
+   "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|45000|39000",
+   "SAS|էքսկլյուզիվ կոմպոզիցիա «sas flowers by villani»|44000|37500",
+   "SAS|ցույց տալ ավելին|14250|11000"
   ],
   "Yerevan City": [
    "Yerevan City|33% мебель для сада комплект стул+4стол+зонт 80см 185|89990|59987|",
@@ -52,21 +71,23 @@
    "Yerevan City|20% կոնստրուկտոր մագնիսական 159կտոր 1338|16550|13240|",
    "Yerevan City|38% քերիչ տարայով «բրաբանտիա» պահուստով 145469|16190|9989|",
    "Yerevan City|13% ֆուա-գրա «ռուժի» սագի լյարդից ա/տ 180գր|15990|13989|",
-   "Yerevan City|50% փափուկ խաղալիք «շուն» սնուպի 80սմ|15990|7995|"
+   "Yerevan City|50% փափուկ խաղալիք «շուն» սնուպի 80սմ|15990|7995|",
+   "Yerevan City|կարտոֆիլ կտրելու սարք «բրաբանտիա» 145421|19150|10150",
+   "Yerevan City|ֆուա-գրա «ռուժի» սագի լյարդից տրյուֆելով 75գր|18990|15990",
+   "Yerevan City|օդային տապակիչ «ռաֆ» 4.5լ 1500վտ 5232|18990|9495",
+   "Yerevan City|օղի «մամոնտ» այվորի, օրգանիկ 0.7լ|18650|14739",
+   "Yerevan City|սուրճ հատ․ «լավազզա» էսպրեսսո, կրեմա արոմա 1000գ|18640|16191",
+   "Yerevan City|լիկյոր «բեյլիս» իռլանդական կրեմ 1լ|17900|15290",
+   "Yerevan City|անկ․հավ․երկտ․ «ցինթայ» 100%բամ․ 250x250|16990|10991",
+   "Yerevan City|պիստակ մաքրած կգ|16990|13590",
+   "Yerevan City|կոնստրուկտոր մագնիսական 159կտոր 1338|16550|13240",
+   "Yerevan City|քերիչ տարայով «բրաբանտիա» պահուստով 145469|16190|9989",
+   "Yerevan City|ֆուա-գրա «ռուժի» սագի լյարդից ա/տ 180գր|15990|13990",
+   "Yerevan City|փափուկ խաղալիք «շուն» սնուպի 80սմ|15990|7995"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Էքսկլյուզիվ կոմպոզիցիա «SAS Flowers by Villani»",
-    "old": 15500,
-    "new": 11000,
-    "pct": 29,
-    "until": "05.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/312/965/9652981635574267.webp",
-    "page": "https://www.sas.am/catalog/sasexclusiveflowers/478311/"
-   },
    {
     "store": "SAS",
     "title": "Էքսկլյուզիվ կոմպոզիցիա «SAS Flowers by Villani»",
@@ -141,88 +162,88 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "33% Мебель для сада Комплект стул+4стол+зонт 80см 185",
-    "old": 89990,
-    "new": 59987,
-    "pct": 33,
-    "until": "",
-    "img": "",
-    "page": "https://yerevan-city.am/shop/product-details/52485"
-   },
-   {
-    "store": "Yerevan City",
-    "title": "47% Кухонная утварь Набор ножей с под. Brabantia 6шт 924067",
-    "old": 69990,
-    "new": 36990,
+    "title": "Կարտոֆիլ կտրելու սարք «Բրաբանտիա» 145421",
+    "old": 19150,
+    "new": 10150,
     "pct": 47,
     "until": "",
     "img": "",
-    "page": "https://yerevan-city.am/shop/product-details/111649"
+    "page": "https://yerevan-city.am/shop/product-details/174904"
    },
    {
     "store": "Yerevan City",
-    "title": "10% Коньяк, Бренди импортные Коньяк Hennessy V.S.O.P L.Ed.(кор.) 0.7л",
-    "old": 39590,
-    "new": 35591,
-    "pct": 10,
+    "title": "Ֆուա-գրա «Ռուժի» սագի լյարդից տրյուֆելով 75գր",
+    "old": 18990,
+    "new": 15990,
+    "pct": 16,
     "until": "",
     "img": "",
-    "page": "https://yerevan-city.am/shop/product-details/55735"
+    "page": "https://yerevan-city.am/shop/product-details/192773"
    },
    {
     "store": "Yerevan City",
-    "title": "44% Кухонная утварь Набор ножей с под. Brabantia 6шт 829724",
-    "old": 37990,
-    "new": 21149,
-    "pct": 44,
+    "title": "Օդային տապակիչ «Ռաֆ» 4.5լ 1500Վտ 5232",
+    "old": 18990,
+    "new": 9495,
+    "pct": 50,
     "until": "",
     "img": "",
-    "page": "https://yerevan-city.am/shop/product-details/111647"
+    "page": "https://yerevan-city.am/shop/product-details/160335"
    },
    {
     "store": "Yerevan City",
-    "title": "14% Товары для сушки Сушилка д/б Vileda King 20м",
-    "old": 27690,
-    "new": 23719,
-    "pct": 14,
-    "until": "",
-    "img": "",
-    "page": "https://yerevan-city.am/shop/product-details/53138"
-   },
-   {
-    "store": "Yerevan City",
-    "title": "46% Ведра и баки Ведро+швабра Vileda Ultramax 2в1",
-    "old": 25940,
-    "new": 13891,
-    "pct": 46,
-    "until": "",
-    "img": "",
-    "page": "https://yerevan-city.am/shop/product-details/93426"
-   },
-   {
-    "store": "Yerevan City",
-    "title": "40% Куклы Кукла 8803A-47",
-    "old": 24990,
-    "new": 14989,
-    "pct": 40,
-    "until": "",
-    "img": "",
-    "page": "https://yerevan-city.am/shop/product-details/177026"
-   },
-   {
-    "store": "Yerevan City",
-    "title": "21% Мебель для сада Тенд 3x3 6107",
-    "old": 24990,
-    "new": 19690,
+    "title": "Օղի «Մամոնտ» Այվորի, օրգանիկ 0.7լ",
+    "old": 18650,
+    "new": 14739,
     "pct": 21,
     "until": "",
     "img": "",
-    "page": "https://yerevan-city.am/shop/product-details/53822"
+    "page": "https://yerevan-city.am/shop/product-details/167451"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սուրճ հատ․ «ԼավԱզզա» Էսպրեսսո, կրեմա արոմա 1000գ",
+    "old": 18640,
+    "new": 16191,
+    "pct": 13,
+    "until": "",
+    "img": "",
+    "page": "https://yerevan-city.am/shop/product-details/10239"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Լիկյոր «Բեյլիս» իռլանդական կրեմ 1լ",
+    "old": 17900,
+    "new": 15290,
+    "pct": 15,
+    "until": "",
+    "img": "",
+    "page": "https://yerevan-city.am/shop/product-details/19336"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Անկ․հավ․երկտ․ «ՑինԹայ» 100%բամ․ 250x250",
+    "old": 16990,
+    "new": 10991,
+    "pct": 35,
+    "until": "",
+    "img": "",
+    "page": "https://yerevan-city.am/shop/product-details/167480"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Պիստակ մաքրած կգ",
+    "old": 16990,
+    "new": 13590,
+    "pct": 20,
+    "until": "",
+    "img": "",
+    "page": "https://yerevan-city.am/shop/product-details/55750"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-17T13:44:02.460000+04:00",
- "version": 2
+ "rr": 1,
+ "last_publish": "2026-10-17T14:02:39.326193+04:00",
+ "version": 3
 }
