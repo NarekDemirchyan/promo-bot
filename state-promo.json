@@ -104,14 +104,6 @@
    "SAS|id:365332"
   ],
   "Yerevan City": [
-   "Yerevan City|id:177026",
-   "Yerevan City|id:74091",
-   "Yerevan City|id:179782",
-   "Yerevan City|id:167481",
-   "Yerevan City|id:4985",
-   "Yerevan City|id:1002",
-   "Yerevan City|id:54791",
-   "Yerevan City|id:132889",
    "Yerevan City|id:167052",
    "Yerevan City|id:179400",
    "Yerevan City|id:12583",
@@ -2579,61 +2571,6 @@
     "img": "",
     "url": "https://yerevan-city.am/shop/product-details/73233",
     "key": "Yerevan City|id:73233"
-   },
-   {
-    "store": "Yerevan City",
-    "title": "Furniture for garden Set of 4chair+table+umbrella 80cm",
-    "old": 89990,
-    "new": 59987,
-    "pct": 33,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/52485",
-    "key": "Yerevan City|id:52485"
-   },
-   {
-    "store": "Yerevan City",
-    "title": "Kitchenwares Knife set with stand \"Brabantia\" 6pcs",
-    "old": 69990,
-    "new": 36990,
-    "pct": 47,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/111649",
-    "key": "Yerevan City|id:111649"
-   },
-   {
-    "store": "Yerevan City",
-    "title": "Imported Cognac and Brandy Cognac \"Hennessy\" V.S.O.P Limited Edition (box) 0.7l",
-    "old": 39590,
-    "new": 35591,
-    "pct": 10,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/55735",
-    "key": "Yerevan City|id:55735"
-   },
-   {
-    "store": "Yerevan City",
-    "title": "Kitchenwares Knife set with stand \"Brabantia\" 6pcs",
-    "old": 37990,
-    "new": 21149,
-    "pct": 44,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/111647",
-    "key": "Yerevan City|id:111647"
-   },
-   {
-    "store": "Yerevan City",
-    "title": "Drying goods Clothes dryer \"Vileda\" King 20m",
-    "old": 27690,
-    "new": 23719,
-    "pct": 14,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/53138",
-    "key": "Yerevan City|id:53138"
    },
    {
     "store": "Yerevan City",
