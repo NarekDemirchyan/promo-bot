@@ -2,19 +2,20 @@
 """Supermarket promo bot: SAS, Yerevan City -> Telegram channel.
 
 Այս տարբերակում ուղղված է.
- 1. SAS-ի նավիգացիոն հղումները («0 դր. Զամբյուղում», «Դիտել ամբողջ բաժինը»)
-    այլևս չեն ընկնում որպես ապրանք. դիրքն անցնում է միայն եթե ունի id-ով
-    վերջացող հղում կամ «Ակցիան գործում է» տողը պատուհանում.
- 2. Քարտի պատուհանը կտրվում է «Զամբյուղում» կոճակի վրա, ուստի գինը և
-    «Մինչև՝»-ը միշտ նույն ապրանքից են, ոչ հարևան քարտից.
- 3. SEND_AS_FILE=True — լուսանկարը գնում է ֆայլով, լրիվ չափով, Telegram-ը
-    չի սեղմում 1280px-ի.
- 4. Լուսանկարի թեկնածուներից ընտրվում է ամենածանրը, ոչ առաջինը. Yerevan
-    City-ի «Resize» հղման կողքին փորձվում է նաև առանց «Resize»-ի տարբերակը.
- 5. Կրկնակի փորձ բոլոր խանութների համար + էջի երկարության տպում, որ
-    հակաբոտ պատը տարբերվի զտիչի սխալից.
- 6. Մեկանգամյա մաքրում՝ հերթից հանվում է միայն այն SAS դիրքը, որը ապրանքի
-    քարտ չէ. մնացածի կարգը չի փոխվում.
+ 1. SAS-ի ծաղիկների բաժինը (SAS Flowers by Villani) ընդհանրապես չի
+    հրապարակվում. դիրքը դեն է նետվում թե՛ ցուցակը կարդալիս, թե՛ հերթից՝
+    մեկանգամյա մաքրումով.
+ 2. SAS-ի քարտը ճանաչվում է ցուցակի մարկերով՝ [](/catalog/<բաժին>/<id>/),
+    ուստի երկու լուսանկարով քարտերը նույնպես չեն կորչում (էջում 24 քարտ,
+    նախկինում վերցվում էր 14).
+ 3. Մեկ հատի գինը («2 127 դր./1լ») այլևս չի մտնում որպես նոր գին։
+ 4. SAS-ի նավիգացիոն հղումները («0 դր. Զամբյուղում», «Դիտել ամբողջ բաժինը»)
+    ապրանք չեն համարվում։
+ 5. Լուսանկարը ընտրվում է ՉԱՓՍՈՎ՝ ամենամեծ լայնություն×բարձրությունը,
+    ոչ ֆայլի ծանրությամբ. չափը կարդացվում է հենց բայթերից։
+ 6. SEND_AS_FILE=True — լուսանկարը գնում է ֆայլով, լրիվ չափով։
+ 7. Կրկնակի փորձ բոլոր խանութների համար + էջի երկարության տպում։
+ 8. Մեկանգամյա մաքրում՝ հերթից հանվում է միայն ոչ-քարտ SAS դիրքը։
 """
 import json
 import os
@@ -48,6 +49,12 @@ SEND_AS_FILE = True
 SKIP_IMG = ("logo", "18-plus", "flags/", "icon", "banner", "banniere", "svg",
             "sprite", "placeholder", "no-photo", "nophoto")
 
+# Ծաղիկների բաժինը չի հրապարակվում։ Դա բաժնի հասցեով է որոշվում, ոչ
+# ապրանքի անունով. անվան մեջ «ծաղկ» բառը կա նաև մեղրի ու սերմերի մեջ։
+FLOWER_URL = re.compile(r"/catalog/(?:sasexclusiveflowers|flowers)", re.I)
+# Երկրորդ ստուգումը հին գրառումների համար է, որտեղ բաժնի հասցեն չկա։
+FLOWER_TITLE = re.compile(r"Flowers by Villani|Ծաղկեփունջ", re.I)
+
 HDRS = {
     "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
                    "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"),
@@ -65,13 +72,18 @@ STORES = {
     "SAS": "https://www.sas.am/catalog/discount/",
     "Yerevan City": "https://yerevan-city.am/shop/best-offers",
 }
-# SAS-ը գները գրում է «19 000 դր.», ոչ «֏»; մեկ հատի գները («292 դր./1հատ»)
-# դեն ենք նետում lookahead-ով։
-PRICE = re.compile(r"([\d][\d\s,\.]{1,12}?)\s*(?:֏|դր\.?|\bnull\b)(?!\s*/)")
+# SAS-ը գները գրում է «19 000 դր.»; մեկ հատի/մեկ լիտրի գները
+# («2 127 դր./1լ», «292 դր./1հատ») դեն ենք նետում lookahead-ով։ Կետը
+# պարտադիր է lookahead-ի մեջ, այլապես «դր»-ի վրա այն չի տեսնում «/»-ը։
+PRICE = re.compile(r"([\d][\d\s,\.]{1,12}?)\s*(?:֏|դր\.?|\bnull\b)(?!\.?\s*/)")
 DATE = re.compile(r"\b(\d{2}\.\d{2}\.\d{4})\b")
-# SAS-ի քարտը ցուցակում ներդրված հղում է՝ [![անվանում](նկար)](ապրանքի էջ)։
-# Այստեղ դիտավորյալ ընդհանուր տեսքն է. զտումը կատարվում է parse_sas-ում՝
-# հղումը ապրանքի քարտ է համարվում միայն id-ով կամ ակցիայի տողով։
+# Ամեն ապրանքի քարտ սկսվում է դատարկ տեքստով հղումով՝ [](/catalog/<բաժին>/<id>/)։
+# Սա է քարտի իսկական նշանը. նկարով չենք կողմնորոշվում, որովհետև մեկ քարտում
+# կարող է երկու լուսանկար լինել (`![…](w1)![…](w2)`), ու հին կանոնը դրանք գցում էր։
+SAS_CARD = re.compile(r"\[\]\((https://www\.sas\.am/(?!upload/)[^)\s]*/\d{3,}/?)\)")
+# Քարտի լուսանկարի alt-տողը՝ «Image 383: Ապրանքի անունը»։
+SAS_ALT = re.compile(r"!\[(?:Image\s+\d+\s*:\s*)?([^\]]{4,160})\]\(([^)]*)\)")
+# Պահուստային կանոն, եթե կայքը փոխի ցուցակի կառուցվածքը։
 SAS_LINK = re.compile(
     r"\[(?:!\[([^\]]{4,160})\]\(([^)]*)\)|([^\]\n]{4,160}))\]"
     r"\((https://www\.sas\.am/(?!upload/)[^)\s]+)\)")
@@ -116,14 +128,62 @@ def num(s):
 def money(n):
     return "{:,}".format(n).replace(",", " ")
 
+def is_flower(url, title):
+    """Ծաղիկների բաժնի դիրք է, թե ոչ։"""
+    return bool(FLOWER_URL.search(url or "") or FLOWER_TITLE.search(title or ""))
+
+def is_flower_item(it):
+    return is_flower(it.get("url") or "", it.get("title") or "")
+
+def img_dims(data):
+    """Նկարի լայնությունն ու բարձրությունը՝ հենց բայթերից (PNG, JPEG, WebP)։
+    Եթե բայթերը նկար չեն (օրինակ՝ HTML կամ այլ ֆայլ), վերադարձնում է (0, 0)։"""
+    if len(data) > 24 and data[:8] == b"\x89PNG\r\n\x1a\n" and data[12:16] == b"IHDR":
+        return (int.from_bytes(data[16:20], "big"), int.from_bytes(data[20:24], "big"))
+    if len(data) > 4 and data[:2] == b"\xff\xd8":  # JPEG
+        i = 2
+        while i + 9 < len(data):
+            if data[i] != 0xFF:
+                i += 1
+                continue
+            marker = data[i + 1]
+            if marker == 0xD8 or marker == 0x01 or 0xD0 <= marker <= 0xD7:
+                i += 2
+                continue
+            seg = int.from_bytes(data[i + 2:i + 4], "big")
+            if seg < 2:
+                break
+            if marker in (0xC0, 0xC1, 0xC2, 0xC3, 0xC5, 0xC6, 0xC7,
+                          0xC9, 0xCA, 0xCB, 0xCD, 0xCE, 0xCF):
+                h = int.from_bytes(data[i + 5:i + 7], "big")
+                w = int.from_bytes(data[i + 7:i + 9], "big")
+                return (w, h)
+            i += 2 + seg
+        return (0, 0)
+    if len(data) > 30 and data[:4] == b"RIFF" and data[8:12] == b"WEBP":
+        four = data[12:16]
+        if four == b"VP8X":                       # ընդլայնված
+            w = int.from_bytes(data[24:27], "little") + 1
+            h = int.from_bytes(data[27:30], "little") + 1
+            return (w, h)
+        if four == b"VP8L":                       # անկորուստ
+            n = int.from_bytes(data[21:25], "little")
+            return ((n & 0x3FFF) + 1, ((n >> 14) & 0x3FFF) + 1)
+        if four == b"VP8 " and data[23:26] == b"\x9d\x01\x2a":
+            w = int.from_bytes(data[26:28], "little") & 0x3FFF
+            h = int.from_bytes(data[28:30], "little") & 0x3FFF
+            return (w, h)
+        return (0, 0)
+    return (0, 0)
+
+def has_name(s):
+    return bool(NAME.search(s or ""))
+
 def img_in(chunk):
     for u in IMG_MD.findall(chunk):
         if not any(s in u.lower() for s in SKIP_IMG):
             return u
     return ""
-
-def has_name(s):
-    return bool(NAME.search(s or ""))
 
 def clean_title(t):
     t = re.sub(r"~~.*$", "", t or "", flags=re.S)
@@ -150,18 +210,17 @@ def make(store, title, old, new, until, img, url=""):
             "pct": pct, "until": until or "", "img": img or "", "url": url or ""}
 
 def parse_sas(md):
-    out, links = [], list(SAS_LINK.finditer(md))
-    # Երկրորդ պաշտպանություն՝ եթե կայքը փոխի URL-ի ձևը։
-    skip = ("հավելին", "ցույց", "ցուցադրել", "ֆիլտր", "փակել", "շուտով",
-            "купить", "в корзину", "подробнее", "все акции",
-            "ամբողջ բաժինը", "զամբյուղ", "զամբյուղում", "ներբեռնել")
-    print("SAS: ցանկի մեջ %d հղում" % len(links))
-    for i, m in enumerate(links):
-        text = (m.group(1) or m.group(3) or "").strip()
-        url = m.group(4)
-        if not text or any(s in text.lower() for s in skip):
-            continue
-        end = links[i + 1].start() if i + 1 < len(links) else min(len(md), m.end() + 900)
+    """Քարտերը վերցնում ենք ցուցակի մարկերով՝ [](/catalog/<բաժին>/<id>/):
+    այդպես երկու լուսանկարով քարտերը նույնպես չեն կորչում։ Ծաղիկների բաժինը
+    դեն է նետվում հենց այստեղ, որ հերթ ընդհանրապես չհասնի։"""
+    cards = list(SAS_CARD.finditer(md))
+    print("SAS: քարտերի մարկեր %d, հղում %d" % (len(cards), len(SAS_LINK.findall(md))))
+    if not cards:
+        return parse_sas_links(md)
+    out, flowers = [], 0
+    for i, m in enumerate(cards):
+        url = m.group(1)
+        end = cards[i + 1].start() if i + 1 < len(cards) else min(len(md), m.end() + 1200)
         chunk = md[m.end():end]
         # Քարտը վերջանում է «Զամբյուղում» կոճակով, որից հետո գալիս է հաջորդ
         # ապրանքը։ Պատուհանը կտրում ենք այդ կոճակի վրա, որ ուրիշ ապրանքի գինն
@@ -169,8 +228,41 @@ def parse_sas(md):
         cut = chunk.find("Զամբյուղում")
         if cut != -1:
             chunk = chunk[:cut]
-        # Ապրանքի քարտն ունի երկու անկախ նշան, նավիգացիոն հղումը՝ ոչ մեկը։
-        # Բավական է մեկը, որ էջի տարբեր տարբերակների դեպքում քարտը չկորչի։
+        alt = SAS_ALT.search(chunk)
+        if not alt:
+            continue
+        if is_flower(url, alt.group(1)):
+            flowers += 1
+            continue
+        prices = [p for p in (num(x) for x in PRICE.findall(chunk)) if p > 0]
+        if len(prices) < 2:
+            continue
+        dates = DATE.findall(chunk)
+        out.append(make("SAS", alt.group(1), prices[0], prices[-1],
+                        dates[-1] if dates else "", alt.group(2), url))
+    if flowers:
+        print("SAS: ծաղիկների բաժինը դուրս մնաց՝ %d դիրք" % flowers)
+    return [x for x in out if x]
+
+def parse_sas_links(md):
+    """Պահուստ՝ եթե ցուցակի մարկերը փոխվի։ Քարտ է համարվում միայն այն
+    հղումը, որն ունի id-ով ավարտվող հասցե կամ պատուհանում «գործում է» տողը։"""
+    out, links = [], list(SAS_LINK.finditer(md))
+    skip = ("հավելին", "ցույց", "ցուցադրել", "ֆիլտր", "փակել", "շուտով",
+            "купить", "в корзину", "подробнее", "все акции",
+            "ամբողջ բաժինը", "զամբյուղ", "զամբյուղում", "ներբեռնել")
+    for i, m in enumerate(links):
+        text = (m.group(1) or m.group(3) or "").strip()
+        url = m.group(4)
+        if not text or any(s in text.lower() for s in skip):
+            continue
+        if is_flower(url, text):
+            continue
+        end = links[i + 1].start() if i + 1 < len(links) else min(len(md), m.end() + 900)
+        chunk = md[m.end():end]
+        cut = chunk.find("Զամբյուղում")
+        if cut != -1:
+            chunk = chunk[:cut]
         if not re.search(r"/\d{3,}/?$", url) and "գործում է" not in chunk:
             continue
         prices = [p for p in (num(x) for x in PRICE.findall(chunk)) if p > 0]
@@ -249,7 +341,6 @@ def card_images(it):
 
 def photo_candidates(it):
     # Քարտի գլխավոր լուսանկարը (og:image) ցանկի առաջին պիտանին է։
-    # Չափով ամենամեծը վերցնել չի կարելի. քարտի էջում ուրիշ նկարներ էլ կան։
     cands = card_images(it)[:6]
     # Yerevan City-ն ցուցակում տալիս է «Resize» տարբերակը. կողքին դնում ենք
     # առանց այդ հատվածի հղումը (լրիվ չափ). եթե չկա՝ 404, ու հաջորդն է գնում։
@@ -285,12 +376,12 @@ def card_until(it):
     return ""
 
 def best_photo(it, cands=None):
-    """Ապրանքի լուսանկարը՝ առաջնահերթ թեկնածուներից ամենածանրը (ամենամեծ),
-    ոչ թե առաջինը. ցածր թույլտվությամբ տարբերակը այսպես դեն է ընկնում։
-    Քարտի էջի մյուս <img>-երը (կարող են ուրիշ ապրանքների լինել) պահուստ են
-    ու մեծությամբ ընտրելիս հաշվի չեն առնվում։"""
+    """Ապրանքի լուսանկարը՝ ըստ ՉԱՓՍԻ. վերցվում է ամենամեծ լայնություն×բարձրությունը։
+    Ծանրությունը չափանիշ չէ. ծանրը կարող է նկար չլինել, իսկ թեթևը՝ մեծ չափի։
+    Չափը կարդացվում է հենց բայթերից, ու նկար չհանդիսացող թեկնածուները դեն են ընկնում։
+    Քարտի էջի մյուս <img>-երը պահուստ են ու մեծությամբ ընտրելիս հաշվի չեն առնվում։"""
     cands = cands if cands is not None else photo_candidates(it)
-    best, best_url = b"", ""
+    best, best_url, best_d = b"", "", (0, 0)
     for group in (cands[:3], cands[3:]):
         for u in group:
             try:
@@ -298,14 +389,22 @@ def best_photo(it, cands=None):
             except Exception as e:
                 print("նկար: %s — %s" % (u, e))
                 continue
-            if r.ok and len(r.content) > 5000 and len(r.content) > len(best):
-                best, best_url = r.content, u
+            if not r.ok or len(r.content) < 3000:
+                continue
+            d = img_dims(r.content)
+            if d == (0, 0):
+                print("նկար չէ՝ %s (%d ԿԲ)" % (u, len(r.content) // 1024))
+                continue
+            if d[0] * d[1] > best_d[0] * best_d[1]:
+                best, best_url, best_d = r.content, u, d
         if best:
             break
     if not best:
+        print("հարմար լուսանկար չգտնվեց, կուղարկվի հղումով")
         return b"", "photo.jpg"
     name = best_url.split("?")[0].rsplit("/", 1)[-1] or "photo.jpg"
-    print("նկար՝ %s (%d ԿԲ)" % (best_url, len(best) // 1024))
+    print("նկար՝ %s (%dx%d, %d ԿԲ)" % (best_url, best_d[0], best_d[1],
+                                       len(best) // 1024))
     return best, name
 
 def send(it):
@@ -320,7 +419,7 @@ def send(it):
     if DRY:
         data, name = best_photo(it, cands)
         print("[DRY] " + text.replace("\n", " | ") +
-              " | նկար՝ %s (%d ԿԲ)" % (name, len(data) // 1024))
+              " | ֆայլ՝ %s (%d ԿԲ)" % (name, len(data) // 1024))
         return True
     try:
         data, name = best_photo(it, cands)
@@ -398,6 +497,17 @@ def main():
         st["rr"] = 0
         st["reset_done"] = True
         print("Վերակայում. հերթը և տեսածը զրոյացան, նորը կգա կայքից")
+    # ՄԻԱՆՎԱԳ մաքրում. հերթից դուրս են գալիս ծաղիկների բաժնի դիրքերը։
+    if not st.get("flowers_cleaned"):
+        dropped = 0
+        for name in STORES:
+            q = st["queues"].get(name) or []
+            keep = [x for x in q if not is_flower_item(x)]
+            dropped += len(q) - len(keep)
+            st["queues"][name] = keep
+        if dropped:
+            print("Մաքրում. ծաղիկների բաժնից հանվեց %d դիրք" % dropped)
+        st["flowers_cleaned"] = True
     # ՄԻԱՆՎԱԳ մաքրում. մինչ այս տարբերակը SAS-ի նավիգացիոն հղումները
     # («0 դր. Զամբյուղում», «Դիտել ամբողջ բաժինը») մտել էին հերթ որպես
     # ապրանք։ Հանվում են միայն դրանք, մնացածի կարգը չի փոխվում։
