@@ -30,7 +30,7 @@ SEND_AS_FILE = False
 SKIP_IMG = ("logo", "18-plus", "flags/", "icon", "banner", "banniere", "svg",
             "sprite", "placeholder", "no-photo", "nophoto")
 
-# Служебные строки списка: это не товары, а кнопки/подписи.
+# Служебные строки списка: это не товары, а кнопки и подписи.
 JUNK = ("ցույց", "հավելին", "ցուցադրել", "ֆիլտր", "փակել",
         "купить", "в корзину", "подробнее", "все акции", "շուտով")
 FLOWER = "flowers by villani"
@@ -182,7 +182,7 @@ def legacy_key(it):
     return "%s|%s|%s|%s|%s" % (it["store"], it["title"].lower(), it["old"], it["new"], it["until"])
 
 def store_items(store, url):
-    """Читает список: SAS листает страницы, пока не кончатся или не начнут повторяться."""
+    """Читает список: SAS листает страницы, пока они не кончатся или не начнут повторяться."""
     items, keys, pages = [], set(), SAS_PAGES if store == "SAS" else 1
     for p in range(1, pages + 1):
         page_url = url if p == 1 else "%s?PAGEN_1=%d" % (url, p)
@@ -343,7 +343,12 @@ def main():
     st = load_state()
     for store, url in STORES.items():
         if store == "SAS":
+            # 1) выкидываем служебные строки из очереди
             st["queues"]["SAS"] = tidy(st["queues"].get("SAS", []))
+            # 2) оставляем в очереди не больше FLOWER_CAP цветов
+            flq = [x for x in st["queues"]["SAS"] if FLOWER in x["title"].lower()]
+            for x in flq[FLOWER_CAP:]:
+                st["queues"]["SAS"].remove(x)
         items = store_items(store, url)
         print("%s: всего позиций со скидкой %d" % (store, len(items)))
         if DRY:
@@ -364,7 +369,7 @@ def main():
         if not st.get("seeded"):
             fresh = fresh[:SEED_PER_STORE]
         if store == "SAS":
-            # Цветам — квота, иначе поток превращается в один и тот же букет.
+            # 3) и новым цветам — та же квота, иначе поток вырождается в один букет
             fl = sum(1 for x in st["queues"]["SAS"] if FLOWER in x["title"].lower())
             keep = []
             for it in fresh:
