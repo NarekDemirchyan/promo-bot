@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Supermarket promo bot: SAS, Yerevan City, Carrefour -> Telegram channel."""
-import html as html_lib
+"""Supermarket promo bot (հայերեն): SAS + Yerevan City -> Telegram channel."""
 import json
 import os
 import re
@@ -14,103 +13,74 @@ DRY = os.environ.get("DRY_RUN", "0") == "1"
 
 STATE = "state-promo.json"
 YE = timezone(timedelta(hours=4))
-PUB_FROM, PUB_TO = 8, 24
-STEP_MIN = 15
-QUEUE_CAP = 16
-SEED_PER_STORE = 8
+PUB_FROM, PUB_TO, STEP_MIN = 8, 24, 15
+QUEUE_CAP, SEED_PER_STORE = 16, 8
 API = "https://api.telegram.org/bot%s/" % TOKEN
 JINA = "https://r.jina.ai/"
-HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-                         "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"}
-SKIP_IMG = ("logo", "18-plus", "flags/", "icon", "banner", "banniere", "svg", "avatar")
+BOOST = "https://t.me/boost/supermarket_promos"
+BTN = json.dumps({"inline_keyboard": [[{"text": "😊 Աջակցել ալիքին", "url": BOOST}]]})
 
 STORES = {
-    "SAS": "https://www.sas.am/ru/catalog/discount/",
+    "SAS": "https://www.sas.am/catalog/discount/",
     "Yerevan City": "https://yerevan-city.am/shop/best-offers",
 }
-PRICE_DR = re.compile(r"([\d][\d\s]{2,10})\s*др")
-PRICE_AM = re.compile(r"([\d][\d\s]{1,10})\s*֏")
+
+SKIP_IMG = ("logo", "18-plus", "flags/", "icon", "banner", "banniere", "svg", "no_res")
+CUR = r"(?:֏|դր\.)"
+PRICE = re.compile(r"([\d][\d\s]{1,9})\s*" + CUR)
 DATE = re.compile(r"\b(\d{2}\.\d{2}\.\d{4})\b")
-IMG_LINK = re.compile(r"\[!\[[^\]]*\]\((https?://[^)\s]+)\)\]\((https?://[^)\s]+)\)")
-CITY_LINK = re.compile(r"\[([^\]]{8,400}?)\]\((https://yerevan-city\.am/shop/product-details/\d+)\)", re.S)
-CAR_LINK = re.compile(r"\[([^\]\n]{4,160})\]\((https?://carrefour\.am/[^)\s]+)\)")
+IMG_MD = re.compile(r"!\[(?:Image \d+: )?([^\]]*)\]\((https?://[^)\s]+)\)")
+SAS_CARD = re.compile(r"\[(?:(?:!\[[^\]]*\]\([^)\s]+\))+)\]\((https://www\.sas\.am/catalog/[^)\s]+/\d+/)\)")
+CITY_LINK = re.compile(r"\[([^\]]{10,400}?)\]\((https://yerevan-city\.am/shop/product-details/\d+)\)", re.S)
 
-def html_to_text(html):
-    h = re.sub(r"(?is)<(script|style|noscript)[^>]*>.*?</\1>", " ", html)
-    h = re.sub(r"(?is)<img[^>]+src=[\"']([^\"']+)[\"'][^>]*>", r"![](\1)", h)
-    h = re.sub(r"(?is)</?(del|s|strike)[^>]*>", "~~", h)
-    h = re.sub(r"(?s)<[^>]+>", "\n", h)
-    h = html_lib.unescape(h)
-    h = re.sub(r"[ \t\u00a0]+", " ", h)
-    return re.sub(r"\n\s*\n+", "\n\n", h)
-
-def fetch(store, url):
-    for u in (JINA + url, url):
-        try:
-            r = requests.get(u, timeout=90, headers=HEADERS)
-            if r.status_code != 200:
-                print("  ! %s -> HTTP %s" % (u[:70], r.status_code))
-                continue
-            text = r.text if u.startswith(JINA) else html_to_text(r.text)
-            if len(text) > 5000:
-                print("  источник: %s" % ("jina" if u.startswith(JINA) else "сайт напрямую"))
-                return text
-            print("  ! %s -> слишком короткий ответ (%d симв.)" % (u[:70], len(text)))
-        except Exception as e:
-            print("  ! %s -> %s" % (u[:70], e))
-    return ""
+def fetch(url):
+    r = requests.get(JINA + url, timeout=120, headers={"User-Agent": "Mozilla/5.0"})
+    r.raise_for_status()
+    return r.text
 
 def num(s):
-    s = re.sub(r"[\s\u00a0]", "", s or "")
-    if "." in s:
-        s = s.split(".")[0]
-    s = re.sub(r"\D", "", s)
+    s = re.sub(r"\D", "", s or "")
     return int(s) if s else 0
 
 def money(n):
     return "{:,}".format(n).replace(",", " ")
 
-def img_in(chunk):
-    for u in re.findall(r"!\[[^\]]*\]\((https?://[^)\s]+)\)", chunk):
-        if not any(s in u.lower() for s in SKIP_IMG):
+def clean(t):
+    return re.sub(r"\s+", " ", (t or "").replace("\\", " ")).strip(" -|")
+
+def ok_img(u):
+    return u and not any(s in u.lower() for s in SKIP_IMG)
+
+def img_in(text):
+    for alt, u in IMG_MD.findall(text):
+        if ok_img(u):
             return u
     return ""
 
 def make(store, title, old, new, until, img):
-    title = re.sub(r"\s+", " ", (title or "").replace("\\", " ")).strip(" -|")
+    title = clean(title)
     if len(title) < 4 or new <= 0 or old <= new:
         return None
-    pct = round((old - new) * 100.0 / old)
+    pct = round((old - new) * 100 / old)
     if pct < 5:
         return None
     return {"store": store, "title": title, "old": old, "new": new,
-            "pct": pct, "until": until or "", "img": img or ""}
+            "pct": pct, "until": until or "", "img": img or "", "page": ""}
 
 def parse_sas(md):
-    out = []
-    anchors = list(IMG_LINK.finditer(md))
-    for i, m in enumerate(anchors):
-        if "sas.am" not in m.group(2):
-            continue
-        end = anchors[i + 1].start() if i + 1 < len(anchors) else min(len(md), m.end() + 700)
+    out, cards = [], list(SAS_CARD.finditer(md))
+    for i, m in enumerate(cards):
+        end = cards[i + 1].start() if i + 1 < len(cards) else len(md)
         chunk = md[m.end():end]
-        prices = [p for p in (num(x) for x in PRICE_DR.findall(chunk)) if p > 0]
+        prices = [p for p in (num(x) for x in PRICE.findall(chunk)) if p > 0]
         if len(prices) < 2:
             continue
         dates = DATE.findall(chunk)
-        until = dates[1] if len(dates) > 1 else (dates[0] if dates else "")
-        title = ""
-        for line in chunk.split("\n"):
-            line = line.strip()
-            if (len(line) > 4 and "др" not in line and not line.startswith("-")
-                    and not line.startswith("Акция") and not line.startswith("[")):
-                title = line
-                break
-        it = make("SAS", title, prices[0], prices[1], until, m.group(1))
+        alt = re.search(r"!\[(?:Image \d+: )?([^\]]*)\]", m.group(0))
+        it = make("SAS", alt.group(1) if alt else "", prices[0], prices[1],
+                  dates[-1] if dates else "", img_in(m.group(0)))
         if it:
-            pct = re.search(r"-(\d{1,2})\s*%", chunk)
-            if pct:
-                it["pct"] = int(pct.group(1))
+            it["page"] = m.group(1)
             out.append(it)
     return out
 
@@ -118,40 +88,29 @@ def parse_city(md):
     out = []
     for m in CITY_LINK.finditer(md):
         inner = m.group(1)
-        pr = re.search(r"~~\s*([\d\s,\.]+?)\s*(?:֏|null)?\s*~~\s*([\d\s,\.]+)", inner)
+        pr = re.search(r"~~\s*([\d\s,]+)\s*" + CUR + r"\s*~~\s*([\d\s,]+)\s*" + CUR, inner)
         if not pr:
             continue
-        text = re.sub(r"~~.*?~~", " ", inner, flags=re.S)
-        text = re.sub(r"[\d][\d\s,\.]{2,}\s*(?:֏|null)", " ", text)
-        text = text.replace("null", " ")
-        text = re.sub(r"-?\d{1,2}%", " ", text)
-        it = make("Yerevan City", text, num(pr.group(1)), num(pr.group(2)), "",
-                  img_in(md[max(0, m.start() - 700):m.end()]))
-        if it:
-            pct = re.search(r"-(\d{1,2})\s*%", inner)
-            if pct:
-                it["pct"] = int(pct.group(1))
-            out.append(it)
-    return out
-
-def parse_carrefour(md):
-    out = []
-    anchors = list(CAR_LINK.finditer(md))
-    for i, m in enumerate(anchors):
-        end = anchors[i + 1].start() if i + 1 < len(anchors) else min(len(md), m.end() + 1500)
-        chunk = md[m.end():end]
-        sp = re.search(r"Special\s*Price\s*([\d\s,\.]{1,10})\s*֏\s*Regular\s*Price\s*([\d\s,\.]{1,10})\s*֏", chunk, re.I)
-        if sp:
-            old, new = num(sp.group(2)), num(sp.group(1))
-        else:
-            prices = [p for p in (num(x) for x in PRICE_AM.findall(chunk)) if p > 0]
-            if len(prices) < 2:
-                continue
-            old, new = prices[0], prices[1]
-        out.append(make("Carrefour", m.group(1), old, new, "", img_in(chunk)))
+        parts = [p.strip(" \\\n-|") for p in re.split(r"\n|\\", inner)]
+        parts = [p for p in parts if len(p) > 3 and not re.search(CUR, p) and not p.startswith("-")]
+        out.append(make("Yerevan City", parts[-1] if parts else "",
+                        num(pr.group(1)), num(pr.group(2)), "",
+                        img_in(md[max(0, m.start() - 600):m.end()])))
     return [x for x in out if x]
 
-PARSERS = {"SAS": parse_sas, "Yerevan City": parse_city, "Carrefour": parse_carrefour}
+PARSERS = {"SAS": parse_sas, "Yerevan City": parse_city}
+
+def product_img(page, title):
+    """Մեծ ֆոտոն ապրանքի քարտից (ցանկում միայն thumbnail կա)."""
+    try:
+        md = fetch(page)
+    except Exception:
+        return ""
+    for alt, u in IMG_MD.findall(md):
+        if ok_img(u) and clean(alt) == title:
+            return u
+    i = md.find("# " + title)
+    return img_in(md[i:i + 1500]) if i >= 0 else ""
 
 def load_state():
     if os.path.exists(STATE):
@@ -171,13 +130,22 @@ def send(it):
     if it["until"]:
         text += "\nՄինչև՝ %s" % it["until"]
     if DRY:
-        print("[DRY] " + text.replace("\n", " | "))
+        print("[DRY] %s | img=%s" % (text.replace("\n", " | "), it["img"][:70]))
         return True
     if it["img"]:
-        r = requests.post(API + "sendPhoto", data={"chat_id": CHANNEL, "photo": it["img"], "caption": text}, timeout=60)
-        if r.ok and r.json().get("ok"):
-            return True
-    r = requests.post(API + "sendMessage", data={"chat_id": CHANNEL, "text": text}, timeout=60)
+        try:
+            b = requests.get(it["img"], timeout=60, headers={"User-Agent": "Mozilla/5.0"}).content
+        except Exception:
+            b = b""
+        if len(b) > 3000:
+            name = "photo" + (os.path.splitext(it["img"])[1] or ".jpg")
+            r = requests.post(API + "sendPhoto",
+                              data={"chat_id": CHANNEL, "caption": text, "reply_markup": BTN},
+                              files={"photo": (name, b)}, timeout=120)
+            if r.ok and r.json().get("ok"):
+                return True
+    r = requests.post(API + "sendMessage",
+                      data={"chat_id": CHANNEL, "text": text, "reply_markup": BTN}, timeout=60)
     if not (r.ok and r.json().get("ok")):
         print("Ошибка отправки: %s" % r.text[:300])
         return False
@@ -206,6 +174,10 @@ def publish(st):
             continue
         it = q.pop(0)
         st["queues"][name] = q
+        if it.get("page"):
+            big = product_img(it["page"], it["title"])
+            if big:
+                it["img"] = big
         if send(it):
             st["rr"] = (idx + 1) % len(names)
             st["last_publish"] = now.isoformat()
@@ -215,20 +187,17 @@ def publish(st):
 def main():
     st = load_state()
     for store, url in STORES.items():
-        print("== %s" % store)
-        md = fetch(store, url)
-        if not md:
-            print("   не удалось получить страницу")
+        try:
+            md = fetch(url)
+        except Exception as e:
+            print("%s: ошибка загрузки: %s" % (store, e))
             continue
         items = PARSERS[store](md)
-        print("   найдено %d позиций со скидкой" % len(items))
+        print("%s: найдено %d позиций со скидкой" % (store, len(items)))
         if DRY:
             for it in items[:5]:
-                print("    - %s | %s->%s ֏ (-%s%%) %s | фото: %s"
-                      % (it["title"][:60], it["old"], it["new"], it["pct"], it["until"], "да" if it["img"] else "нет"))
-            if not items:
-                probe = re.search(r"[^\n]*(֏|др)[^\n]*", md)
-                print("    проба: %s" % (probe.group(0)[:200] if probe else md[:200].replace("\n", " ")))
+                print("    - %s | %s->%s ֏ (-%s%%) %s | %s" % (
+                    it["title"][:60], it["old"], it["new"], it["pct"], it["until"], it["img"][:60]))
         seen = st["seen"].setdefault(store, [])
         seen_set = set(seen)
         fresh = []
@@ -247,7 +216,7 @@ def main():
         if len(q) > QUEUE_CAP:
             q.sort(key=lambda x: -x["pct"])
             del q[QUEUE_CAP:]
-        print("   новых %d, в очереди %d" % (len(fresh), len(q)))
+        print("%s: новых %d, в очереди %d" % (store, len(fresh), len(q)))
     st["seeded"] = True
     publish(st)
     if DRY:
