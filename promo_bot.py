@@ -46,7 +46,7 @@ STORES = {
     "SAS": "https://www.sas.am/catalog/discount/",
     "Yerevan City": "https://yerevan-city.am/shop/best-offers",
 }
-PRICE = re.compile(r"([\d][\d\s,\.]{1,12}?)\s*(?:֏|\bnull\b)")
+PRICE = re.compile(r"([\d][\d\s,\.]{1,12}?)\s*(?:֏|\bnull\b|դր\.?)(?!\s*/)")
 DATE = re.compile(r"\b(\d{2}\.\d{2}\.\d{4})\b")
 SAS_LINK = re.compile(r"\[([^\]\n]{4,160})\]\((https://www\.sas\.am/[^)\s]+)\)")
 CITY_LINK = re.compile(
