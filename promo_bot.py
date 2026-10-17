@@ -14,8 +14,10 @@ DRY = os.environ.get("DRY_RUN", "0") == "1"
 
 STATE = "state-promo.json"
 YE = timezone(timedelta(hours=4))
+# Шаг 14, а не 15: раннеры GitHub приходят через 15 минут и с секундами,
+# поэтому при шаге ровно 15 каждый второй слот выпадал.
+STEP_MIN = 14
 PUB_FROM, PUB_TO = 0, 24
-STEP_MIN = 15
 QUEUE_CAP = 200
 SEED_PER_STORE = 8
 CITY_SEEN_KEEP = 20
@@ -58,7 +60,9 @@ CITY_LINK = re.compile(
     r"\[([^\]]{10,400}?)\]\((https://yerevan-city\.am/shop/product-details/(\d+))\)", re.S)
 CITY_PRICE = re.compile(
     r"~~\s*([\d][\d\s,\.]{0,14}?)\s*(?:֏|\bnull\b)?\s*~~\s*([\d][\d\s,\.]{0,14})", re.S)
-CYR = re.compile(r"[А-Яа-яёЁ]")
+# Название должно быть армянским: так отсекаются английские и русские строки,
+# которые магазин иногда отдаёт вместо товара.
+ARM = re.compile(r"[Ա-Ֆա-ֆև]")
 RU_LABEL = re.compile(r"^\s*(Скидка|Эксклюзив|Акция|Суперцена|Sale)\s*[:.\-]?\s*", re.I)
 PCT_HEAD = re.compile(r"^\s*[-–—+%]*\s*\d{1,3}\s*%?\s*")
 ARTIC = re.compile(r"\s+\d{4,}$")
@@ -78,7 +82,9 @@ MONTHS = {"հունվար": 1, "փետրվար": 2, "մարտ": 3, "ապրիլ":
 CARD_DATE = re.compile(r"(\d{1,2})\s+([Ա-Ֆա-ֆև]{3,12})\s+(\d{4})")
 
 def fetch(url):
-    r = requests.get(JINA + url, timeout=120, headers={"User-Agent": HDRS["User-Agent"]})
+    r = requests.get(JINA + url, timeout=120,
+                     headers={"User-Agent": HDRS["User-Agent"],
+                              "Accept-Language": HDRS["Accept-Language"]})
     r.raise_for_status()
     return r.text
 
@@ -97,8 +103,8 @@ def img_in(chunk):
             return u
     return ""
 
-def has_cyr(s):
-    return bool(CYR.search(s or ""))
+def has_arm(s):
+    return bool(ARM.search(s or ""))
 
 def clean_title(t):
     t = re.sub(r"~~.*$", "", t or "", flags=re.S)
@@ -116,7 +122,7 @@ def make(store, title, old, new, until, img, url=""):
     title = clean_title(title)
     if len(title) < 4 or new <= 0 or old <= new:
         return None
-    if has_cyr(title):
+    if not has_arm(title):
         return None
     pct = round((old - new) * 100 / old)
     if pct < 5:
@@ -179,6 +185,10 @@ def legacy_key(it):
 def card_images(it):
     urls = []
     page = it.get("url") or it.get("page") or ""
+    # Старые записи в очереди: в url лежит ссылка на картинку, а не на карточку.
+    if "/upload/" in page:
+        urls.append(page)
+        page = ""
     if page:
         html = ""
         try:
@@ -204,10 +214,16 @@ def card_images(it):
             out.append(u)
     return out
 
+def photo_candidates(it):
+    cands = card_images(it)[:6]
+    # Если есть jpg/png — webp не трогаем: Telegram охотнее принимает их как фото.
+    good = [u for u in cands if not u.lower().split("?")[0].endswith(".webp")]
+    return good or cands
+
 def card_until(it):
     """Срок акции с карточки товара (Yerevan City в списке дату не отдаёт)."""
     page = it.get("url") or it.get("page") or ""
-    if not page:
+    if not page or "product-details" not in page:
         return ""
     try:
         html = requests.get(page, timeout=45, headers=HDRS).text
@@ -228,7 +244,7 @@ def card_until(it):
 def best_photo(it):
     best = b""
     name = "photo.jpg"
-    for u in card_images(it)[:6]:
+    for u in photo_candidates(it):
         try:
             r = requests.get(u, timeout=60, headers=HDRS)
         except Exception as e:
@@ -261,7 +277,7 @@ def send(it):
         if r.ok and r.json().get("ok"):
             return True
         print("Файл не ушёл: %s" % r.text[:200])
-    for u in card_images(it)[:4]:
+    for u in photo_candidates(it)[:4]:
         r = requests.post(API + "sendPhoto",
                           data={"chat_id": CHANNEL, "photo": u, "caption": text,
                                 "reply_markup": BUTTON}, timeout=60)
@@ -310,6 +326,13 @@ def publish(st):
 
 def main():
     st = load_state()
+    # Чистим очередь от записей без армянского названия (английские строки и мусор).
+    for name in list(st.get("queues", {})):
+        kept = [x for x in st["queues"][name] if has_arm(x.get("title") or "")]
+        if len(kept) != len(st["queues"][name]):
+            print("%s: убрано из очереди %d позиций без армянского названия"
+                  % (name, len(st["queues"][name]) - len(kept)))
+        st["queues"][name] = kept
     for store, url in STORES.items():
         try:
             md = fetch(url)
