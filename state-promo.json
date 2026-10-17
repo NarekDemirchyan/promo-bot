@@ -155,16 +155,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Լվացքի հեղուկ մանկական «Frosch Baby» 1.5լ",
-    "old": 5250,
-    "new": 3190,
-    "pct": 39,
-    "until": "05.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/153/283/283153566225964.webp",
-    "page": "https://www.sas.am/catalog/forlaundryy/34961/"
-   },
-   {
-    "store": "SAS",
     "title": "Հակաքրտինքային աէրոզոլային միջոց «Nivea Men» 150մլ",
     "old": 1940,
     "new": 1590,
@@ -687,8 +677,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-17T18:00:42.317248+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-17T18:15:26.754495+04:00",
  "version": 3,
  "cursor": {
   "SAS": 15,
