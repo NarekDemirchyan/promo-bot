@@ -13,7 +13,7 @@ CHANNEL = os.environ.get("CHANNEL", "")
 DRY = os.environ.get("DRY_RUN", "0") == "1"
 
 STATE = "state-promo.json"
-STATE_VERSION = 5
+STATE_VERSION = 6
 YE = timezone(timedelta(hours=4))
 PUB_FROM, PUB_TO = 0, 24     # публикация круглосуточно
 STEP_MIN = 15                # шаг публикации
@@ -60,10 +60,12 @@ CITY_OFFERS = "https://yerevan-city.am/shop/best-offers"
 STORES = {"SAS": SAS_URL, "Yerevan City": CITY_OFFERS}
 
 # SAS пишет цены как «19 000 դր.», а не «֏». Цену за единицу («292 դր./1հատ»,
-# «1 225 դր./1լ») отбрасываем: иначе она попадает в конец списка и уходит
+# «2 127 դր./1լ») отбрасываем: иначе она попадает в конец списка и уходит
 # в пост как цена акции.
 PRICE = re.compile(r"([\d][\d\s,\.]{1,12}?)\s*(?:֏|դր\.?|\bnull\b)(?!\s*/)")
 DATE = re.compile(r"\b(\d{2}\.\d{2}\.\d{4})\b")
+# Процент, который показывает сама карточка: «-14% Ակցիան գործում է …».
+PCT_SHOWN = re.compile(r"-\s*(\d{1,3})\s*%")
 # Карточка SAS в списке: пустая ссылка [](товар) либо [![Image: Название](фото)](товар).
 # Название берём из текста после ссылки — на части страниц фото в разметку не попадает.
 SAS_CARD = re.compile(
@@ -161,6 +163,28 @@ def card_title(chunk):
         return line
     return ""
 
+def pick_prices(chunk, prices):
+    """Старая и новая цена: сверяем с процентом, который показывает карточка.
+
+    В карточке три числа: старая цена, цена по акции и цена за единицу
+    («2 127 դր./1լ»). Берём ту пару, которая даёт объявленный в карточке процент.
+    """
+    if len(prices) >= 2:
+        m = PCT_SHOWN.search(chunk)
+        if m:
+            want = int(m.group(1))
+            best = None
+            for i, old in enumerate(prices):
+                for new in prices[i + 1:]:
+                    if old <= new:
+                        continue
+                    if abs(round((old - new) * 100 / old) - want) <= 1:
+                        if best is None or old > best[0]:
+                            best = (old, new)
+            if best:
+                return best
+    return prices[0], prices[-1]
+
 def make(store, title, old, new, until, img, url=""):
     title = clean_title(title)
     if len(title) < 4 or new <= 0 or old <= new:
@@ -184,8 +208,9 @@ def parse_sas(md):
         title = card_title(chunk)
         if not title:
             continue
+        old, new = pick_prices(chunk, prices)
         dates = DATE.findall(chunk)
-        out.append(make("SAS", title, prices[0], prices[-1],
+        out.append(make("SAS", title, old, new,
                         dates[-1] if dates else "", img_in(chunk), m.group(1)))
     return [x for x in out if x]
 
