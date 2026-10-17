@@ -66,7 +66,9 @@
    "SAS|id:34961",
    "SAS|id:190989",
    "SAS|id:365352",
-   "SAS|id:478311"
+   "SAS|id:478311",
+   "SAS|id:902716",
+   "SAS|id:585534"
   ],
   "Yerevan City": [
    "Yerevan City|33% мебель для сада комплект стул+4стол+зонт 80см 185|89990|59987|",
@@ -227,19 +229,31 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/312/965/9652981635574267.webp",
     "url": "https://www.sas.am/catalog/sasexclusiveflowers/478311/",
     "key": "SAS|id:478311"
+   },
+   {
+    "store": "SAS",
+    "title": "Image 384: Էքսկլյուզիվ կոմպոզիցիա «SAS Flowers by Villani»",
+    "old": 23500,
+    "new": 19000,
+    "pct": 19,
+    "until": "05.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/719/388/3886513957233626.webp",
+    "url": "https://www.sas.am/catalog/sasexclusiveflowers/902716/",
+    "key": "SAS|id:902716"
+   },
+   {
+    "store": "SAS",
+    "title": "Image 390: Էքսկլյուզիվ կոմպոզիցիա «SAS Flowers by Villani»",
+    "old": 39000,
+    "new": 34500,
+    "pct": 12,
+    "until": "05.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/189/716/7161593025122537.webp",
+    "url": "https://www.sas.am/catalog/sasexclusiveflowers/585534/",
+    "key": "SAS|id:585534"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Անկ․հավ․երկտ․ «ՑինԹայ» 100%բամ․ 250x250",
-    "old": 16990,
-    "new": 10991,
-    "pct": 35,
-    "until": "",
-    "img": "",
-    "page": "https://yerevan-city.am/shop/product-details/167480"
-   },
    {
     "store": "Yerevan City",
     "title": "Պիստակ մաքրած կգ",
@@ -677,8 +691,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-17T18:15:26.754495+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-17T18:30:53.544139+04:00",
  "version": 3,
  "cursor": {
   "SAS": 15,
