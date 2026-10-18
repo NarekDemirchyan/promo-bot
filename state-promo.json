@@ -71,23 +71,13 @@
    "Yerevan City|id:132889",
    "Yerevan City|id:192763",
    "Yerevan City|id:167052",
-   "Yerevan City|id:179400"
+   "Yerevan City|id:179400",
+   "Yerevan City|id:12583"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Կարտոֆիլ կտրելու սարք «Բրաբանտիա»",
-    "old": 19150,
-    "new": 10149,
-    "pct": 47,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/174904",
-    "key": "Yerevan City|id:174904"
-   },
    {
     "store": "Yerevan City",
     "title": "Օդային տապակիչ «Ռաֆ» 4.5լ 1500Վտ",
@@ -417,12 +407,23 @@
     "img": "",
     "url": "https://yerevan-city.am/shop/product-details/179400",
     "key": "Yerevan City|id:179400"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հագուստի չորանոց «Վիլեդա» ունիվերսալ 18մ",
+    "old": 19750,
+    "new": 16990,
+    "pct": 14,
+    "until": "",
+    "img": "",
+    "url": "https://yerevan-city.am/shop/product-details/12583",
+    "key": "Yerevan City|id:12583"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-18T05:30:42.225311+04:00",
+ "last_publish": "2026-10-18T05:45:34.397477+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
