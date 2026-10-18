@@ -627,8 +627,8 @@ def main():
             print("Մաքրում. SAS-ի հերթից հանվեց %d աղբ դիրք" % (len(q) - len(good)))
         st["queues"]["SAS"] = good
         st["junk_cleaned"] = True
-    for store, url in STORES.items():
-items = fetch_all(store, url)
+        for store, url in STORES.items():
+        items = fetch_all(store, url)
         if DRY:
             for it in items[:5]:
                 print("    - %s | %s->%s ֏ (-%s%%) %s"
