@@ -704,11 +704,17 @@ def main():
         st["junk_cleaned"] = True
     for store, url, label, parser in SOURCES:
         tag = ("%s / %s" % (store, label)) if label else store
-        items = fetch_all(store, url, parser, tag)
-        if DRY:
+        items = fetch_all(store, url, parser, tag)        
+     if DRY:
             for it in items[:5]:
-                print("    - %s | %s->%s ֏ (-%s%%) %s"
-                      % (it["title"][:70], it["old"], it["new"], it["pct"], it["until"]))
+                if it["old"] > it["new"]:
+                    print("    - %s | %s->%s ֏ (-%s%%) %s"
+                          % (it["title"][:70], it["old"], it["new"],
+                             it["pct"], it["until"]))
+                else:
+                    print("    - %s | %s ֏ %s"
+                          % (it["title"][:70], it["new"], it["until"]))
+
         seen_set = set(st["seen"].setdefault(store, []))
         in_queue = set(x.get("key") for x in st["queues"].get(store, []))
         fresh = []
