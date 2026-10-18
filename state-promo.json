@@ -192,17 +192,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Զուգարանի թուղթ «Zewa Exclusive Ultra Soft» 4 հատ",
-    "old": 1520,
-    "new": 1320,
-    "pct": 13,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/303/020/02075734441844.webp",
-    "url": "https://www.sas.am/catalog/tualetnaya_bumaga/421105/",
-    "key": "SAS|id:421105"
-   },
-   {
-    "store": "SAS",
     "title": "Կարագ սերուցքային «Elle & Vire» 500գ, յուղայնությունը` 82",
     "old": 5990,
     "new": 3990,
@@ -879,8 +868,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-19T03:01:18.410263+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-19T03:15:42.328405+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
