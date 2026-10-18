@@ -69,7 +69,8 @@
    "Yerevan City|id:167481",
    "Yerevan City|id:54791",
    "Yerevan City|id:132889",
-   "Yerevan City|id:192763"
+   "Yerevan City|id:192763",
+   "Yerevan City|id:167052"
   ]
  },
  "queues": {
@@ -415,6 +416,17 @@
     "img": "",
     "url": "https://yerevan-city.am/shop/product-details/192763",
     "key": "Yerevan City|id:192763"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Արդուկի սեղան «Դ.Հոմ» 138x36սմ ԱյԲ-03",
+    "old": 19990,
+    "new": 12989,
+    "pct": 35,
+    "until": "",
+    "img": "",
+    "url": "https://yerevan-city.am/shop/product-details/167052",
+    "key": "Yerevan City|id:167052"
    }
   ]
  },
