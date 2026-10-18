@@ -192,17 +192,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Յոգուրտ հունական «Epica» 130գ, յուղայնությունը՝ 2.5",
-    "old": 500,
-    "new": 450,
-    "pct": 10,
-    "until": "28.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/203/933/933979245966503.webp",
-    "url": "https://www.sas.am/catalog/yogurt_puding/883328/",
-    "key": "SAS|id:883328"
-   },
-   {
-    "store": "SAS",
     "title": "Զովացուցիչ գազավորված ըմպելիք «Pepsi Black» 1.5լ",
     "old": 780,
     "new": 630,
@@ -971,8 +960,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-19T01:00:51.752821+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-19T01:15:35.792387+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
