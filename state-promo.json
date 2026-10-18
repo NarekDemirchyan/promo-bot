@@ -192,17 +192,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Հաց տոստի «Harry's American Sandwich» 470գ",
-    "old": 990,
-    "new": 830,
-    "pct": 16,
-    "until": "12.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/103/183/1831324134098348.webp",
-    "url": "https://www.sas.am/catalog/khlebtsy/4657/",
-    "key": "SAS|id:4657"
-   },
-   {
-    "store": "SAS",
     "title": "Զուգարանի թուղթ «Պապիրուս Սոֆթ» 4 հատ",
     "old": 990,
     "new": 850,
@@ -1040,8 +1029,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-18T23:30:39.724214+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-18T23:45:42.768188+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
