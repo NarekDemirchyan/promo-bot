@@ -563,7 +563,7 @@ def to_jpeg(data):
     except Exception as e:
         print("JPEG չդարձավ՝ %s" % e)
         return data
-if im.mode not in ("RGB", "L"):
+    if im.mode not in ("RGB", "L"):
         im = im.convert("RGB")
     w, h = im.size
     if w + h > PHOTO_MAX_SIDE:
