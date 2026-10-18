@@ -163,17 +163,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Խավիար սմբուկի «Արտֆուդ» 360գ",
-    "old": 890,
-    "new": 790,
-    "pct": 11,
-    "until": "28.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/754/312/3128723067198603.webp",
-    "url": "https://www.sas.am/catalog/baklazhan/58336/",
-    "key": "SAS|id:58336"
-   },
-   {
-    "store": "SAS",
     "title": "Միջադիրներ «Libresse Natural Care Ultra Super» 9հատ",
     "old": 920,
     "new": 780,
@@ -892,7 +881,7 @@
  },
  "seeded": true,
  "rr": 1,
- "last_publish": "2026-10-18T18:15:32.948464+04:00",
+ "last_publish": "2026-10-18T18:30:35.627195+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
