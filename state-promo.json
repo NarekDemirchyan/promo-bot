@@ -192,17 +192,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Վերմիշել «Divella Filini № 79» 500գ",
-    "old": 740,
-    "new": 680,
-    "pct": 8,
-    "until": "20.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/152/352/3527823234910390.webp",
-    "url": "https://www.sas.am/catalog/vermishel_lapsha/96131/",
-    "key": "SAS|id:96131"
-   },
-   {
-    "store": "SAS",
     "title": "Գինի վարդագույն «Կարաս Սիրահ» 0.75լ",
     "old": 6260,
     "new": 5790,
@@ -1132,8 +1121,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-18T21:30:40.302337+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-18T21:46:08.184736+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
