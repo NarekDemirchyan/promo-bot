@@ -64,23 +64,13 @@
    "Yerevan City|id:177026",
    "Yerevan City|id:74091",
    "Yerevan City|id:179782",
-   "Yerevan City|id:1002"
+   "Yerevan City|id:1002",
+   "Yerevan City|id:4985"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Անկ․հավ․ընտ․ «ՑինԹայ» 100%բամ․ 250x250",
-    "old": 21990,
-    "new": 10995,
-    "pct": 50,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/167481",
-    "key": "Yerevan City|id:167481"
-   },
    {
     "store": "Yerevan City",
     "title": "Սուրճ հատիկավոր«Տ.Լամբորգինի»Էսպրեսսո,կարմիր 1կգ",
@@ -399,12 +389,23 @@
     "img": "",
     "url": "https://yerevan-city.am/shop/product-details/1002",
     "key": "Yerevan City|id:1002"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գինի «Բերդաշեն» Խնդողնի հնեցված, կարմիր անապակ 0.75լ",
+    "old": 21990,
+    "new": 9090,
+    "pct": 59,
+    "until": "",
+    "img": "",
+    "url": "https://yerevan-city.am/shop/product-details/4985",
+    "key": "Yerevan City|id:4985"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-18T04:00:48.114547+04:00",
+ "last_publish": "2026-10-18T04:15:28.119848+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
