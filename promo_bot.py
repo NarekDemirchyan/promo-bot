@@ -19,8 +19,10 @@
  6. Մեկ հատի գինը («2 127 դր./1լ») չի մտնում որպես նոր գին։
  7. SAS-ի քարտը ճանաչվում է ցուցակի մարկերով՝ [](/catalog/<բաժին>/<id>/),
     իսկ նավիգացիոն հղումները ապրանք չեն համարվում։
- 8. JPEG դարձնելու համար պետք է Pillow-ը (pip install Pillow)։
- 9. Միանվագ մաքրումներ՝ ծաղիկների դիրքերը հերթից ու հին ոչ-քարտ աղբը։
+ 8. Ամեն էջի համար 3 փորձ՝ աճող դադարով, ու էջերի միջև կարճ դադար, որ
+    կայքի ու միջնորդի սահմանաչափերից էջը դատարկ չվերադառնա։
+ 9. JPEG դարձնելու համար պետք է Pillow-ը (pip install Pillow)։
+10. Միանվագ մաքրումներ՝ ծաղիկների դիրքերը հերթից ու հին ոչ-քարտ աղբը։
 """
 import io
 import json
@@ -51,11 +53,13 @@ PUB_FROM, PUB_TO = 0, 24
 QUEUE_CAP = 900
 # «Տեսածը» պահվում է լիքը, որ հրապարակված դիրքը չվերադառնա որպես նոր։
 SEEN_KEEP = 3000
-# Մեկ վազքում կարդացվող էջերի ու դիրքերի սահմանը, ու ժամանակի բյուջեն,
-# որ աշխատանքը չկախվի 40 էջը մեկ վազքով կարդալիս։
+# Մեկ վազքում կարդացվող էջերի ու դիրքերի սահմանը, ժամանակի բյուջեն, ու
+# էջերի միջև դադարը՝ որ ամբողջ բաժինը կարդացվի առանց սահմանաչափի մեջ ընկնելու։
 PAGE_LIMIT = 900
 PAGE_PAGES = 40
 PAGE_BUDGET = 600
+PAGE_PAUSE = 1.5
+PAGE_TRIES = 3
 SAS_STEP = 24
 API = "https://api.telegram.org/bot%s/" % TOKEN
 JINA = "https://r.jina.ai/"
@@ -74,7 +78,7 @@ SKIP_IMG = ("logo", "18-plus", "flags/", "icon", "banner", "banniere", "svg",
 # ապրանքի անունով. անվան մեջ «ծաղկ» բառը կա նաև մեղրի ու սերմերի մեջ։
 FLOWER_URL = re.compile(r"/catalog/(?:sasexclusiveflowers|flowers|milaniroses|"
                         r"milani|milancomp|milanbalon|mona|monaflowers|myrose|"
-                        r"my_rose|my_rose_fl|balloon|balloons|tsvety|flowersas|"
+                        r"my_rose|balloon|balloons|tsvety|flowersas|"
                         r"cataleya|cataleyabuyser|villaniflowers|milancompos|"
                         r"milanpuchik|cataleyaflowers|milanirose7)", re.I)
 # Երկրորդ ստուգումը հին գրառումների համար է, որտեղ բաժնի հասցեն չկա։
@@ -144,6 +148,21 @@ def fetch(url):
                               "Accept-Language": HDRS["Accept-Language"]})
     r.raise_for_status()
     return r.text
+
+def fetch_page(store, page_url):
+    """Էջը բերում է 3 փորձով՝ աճող դադարով։ Դատարկ կամ չափից կարճ պատասխանը
+    (հակաբոտ պատ կամ միջնորդի սահմանաչափ) համարվում է չստացած, ոչ թե վերջ։"""
+    for t in range(PAGE_TRIES):
+        try:
+            md = fetch(page_url)
+            if md and len(md) > 2000:
+                return md
+            print("%s: էջը կարճ եկավ (%d նշան), փորձ %d/%d"
+                  % (store, len(md or ""), t + 1, PAGE_TRIES))
+        except Exception as e:
+            print("%s: բեռնելու սխալ (%d/%d): %s" % (store, t + 1, PAGE_TRIES, e))
+        time.sleep(4 * (t + 1))
+    return ""
 
 def num(s):
     s = (s or "").replace(" ", "").replace(",", "")
@@ -238,8 +257,388 @@ def make(store, title, old, new, until, img, url=""):
 def parse_sas(md):
     """Քարտերը վերցնում ենք ցուցակի մարկերով՝ [](/catalog/<բաժին>/<id>/):
     այդպես երկու լուսանկարով քարտերը նույնպես չեն կորչում։ Ծաղիկների բաժինը
-    դեն է նետվում հենց այստեղ, որ հերթ ընդհանրապես…
-it["key"] = k
+    դեն է նետվում հենց այստեղ, որ հերթ ընդհանրապես չհասնի։"""
+    cards = list(SAS_CARD.finditer(md))
+    if not cards:
+        return parse_sas_links(md)
+    out, flowers = [], 0
+    for i, m in enumerate(cards):
+        url = m.group(1)
+        end = cards[i + 1].start() if i + 1 < len(cards) else min(len(md), m.end() + 1200)
+        chunk = md[m.end():end]
+        # Քարտը վերջանում է «Զամբյուղում» կոճակով, որից հետո գալիս է հաջորդ
+        # ապրանքը։ Պատուհանը կտրում ենք այդ կոճակի վրա, որ ուրիշ ապրանքի գինն
+        # ու ամսաթիվը չխառնվեն։
+        cut = chunk.find("Զամբյուղում")
+        if cut != -1:
+            chunk = chunk[:cut]
+        alt = SAS_ALT.search(chunk)
+        if not alt:
+            continue
+        if is_flower(url, alt.group(1)):
+            flowers += 1
+            continue
+        prices = [p for p in (num(x) for x in PRICE.findall(chunk)) if p > 0]
+        if len(prices) < 2:
+            continue
+        dates = DATE.findall(chunk)
+        out.append(make("SAS", alt.group(1), prices[0], prices[-1],
+                        dates[-1] if dates else "", alt.group(2), url))
+    if flowers:
+        print("SAS: ծաղիկների բաժինը դուրս մնաց՝ %d դիրք" % flowers)
+    return [x for x in out if x]
+
+def parse_sas_links(md):
+    """Պահուստ՝ եթե ցուցակի մարկերը փոխվի։ Քարտ է համարվում միայն այն
+    հղումը, որն ունի id-ով ավարտվող հասցե կամ պատուհանում «գործում է» տողը։"""
+    out, links = [], list(SAS_LINK.finditer(md))
+    skip = ("հավելին", "ցույց", "ցուցադրել", "ֆիլտր", "փակել", "շուտով",
+            "купить", "в корзину", "подробнее", "все акции",
+            "ամբողջ բաժինը", "զամբյուղ", "զամբյուղում", "ներբեռնել")
+    for i, m in enumerate(links):
+        text = (m.group(1) or m.group(3) or "").strip()
+        url = m.group(4)
+        if not text or any(s in text.lower() for s in skip):
+            continue
+        if is_flower(url, text):
+            continue
+        end = links[i + 1].start() if i + 1 < len(links) else min(len(md), m.end() + 900)
+        chunk = md[m.end():end]
+        cut = chunk.find("Զամբյուղում")
+        if cut != -1:
+            chunk = chunk[:cut]
+        if not re.search(r"/\d{3,}/?$", url) and "գործում է" not in chunk:
+            continue
+        prices = [p for p in (num(x) for x in PRICE.findall(chunk)) if p > 0]
+        if len(prices) < 2:
+            continue
+        dates = DATE.findall(chunk)
+        out.append(make("SAS", text, prices[0], prices[-1],
+                        dates[-1] if dates else "",
+                        m.group(2) or img_in(chunk), url))
+    return [x for x in out if x]
+
+def parse_city(md):
+    out = []
+    for m in CITY_LINK.finditer(md):
+        inner = m.group(1)
+        pr = CITY_PRICE.search(inner)
+        if not pr:
+            continue
+        title = re.sub(r"~~.*$", "", inner, flags=re.S)
+        out.append(make("Yerevan City", title, num(pr.group(1)), num(pr.group(2)),
+                        "", "", m.group(2)))
+    return [x for x in out if x]
+
+PARSERS = {"SAS": parse_sas, "Yerevan City": parse_city}
+
+def load_state():
+    if os.path.exists(STATE):
+        with open(STATE, encoding="utf-8") as f:
+            return json.load(f)
+    return {"seen": {}, "queues": {}, "seeded": False, "rr": 0, "last_publish": ""}
+
+def save_state(st):
+    with open(STATE, "w", encoding="utf-8") as f:
+        json.dump(st, f, ensure_ascii=False, indent=1)
+
+def key(it):
+    m = re.search(r"/(\d{3,})/?$", it.get("url") or "")
+    if m:
+        return "%s|id:%s" % (it["store"], m.group(1))
+    return "%s|t:%s" % (it["store"], it["title"].lower())
+
+def legacy_key(it):
+    return "%s|%s|%s|%s|%s" % (it["store"], it["title"].lower(), it["old"], it["new"], it["until"])
+
+def fetch_all(store, url):
+    """Կարդում է ցուցակի ԲՈԼՈՐ էջերը՝ մինչև PAGE_LIMIT դիրք կամ էջերի վերջ։
+    Առաջին էջը գալիս է ուղիղ հղումով, մյուսները՝ offset-ով (SAS-ը՝ 24-ական).
+    այդպես բոտը տեսնում է ամբողջ բաժինը, ոչ միայն առաջին էջը։"""
+    items, seen_ids, t0 = [], set(), time.time()
+    for p in range(PAGE_PAGES):
+        if time.time() - t0 > PAGE_BUDGET:
+            print("%s: ժամանակի բյուջեն լրացավ էջ %d-ի վրա" % (store, p + 1))
+            break
+        page_url = url if p == 0 else "%s?offset=%d" % (url, p * SAS_STEP)
+        md = fetch_page(store, page_url)
+        if not md:
+            print("%s: էջ %d չբեռնվեց, կանգ" % (store, p + 1))
+            break
+        got = PARSERS[store](md)
+        fresh = 0
+        for it in got:
+            k = key(it)
+            if k in seen_ids:
+                continue
+            seen_ids.add(k)
+            items.append(it)
+            fresh += 1
+        print("%s: էջ %d՝ %d դիրք, այս վազքում նոր՝ %d"
+              % (store, p + 1, len(got), fresh))
+        if fresh == 0:
+            # Էջերն սպառվեցին. նույն դիրքերն էին կամ էջը դատարկ էր։
+            break
+        if len(items) >= PAGE_LIMIT:
+            break
+        time.sleep(PAGE_PAUSE)
+    print("%s: ցուցակը կարդացվեց՝ %d դիրք" % (store, len(items)))
+    return items[:PAGE_LIMIT]
+
+def card_images(it):
+    urls = []
+    page = it.get("url") or it.get("page") or ""
+    # Հին գրառումներ հերթում. url-ում նկարի հղումն է, ոչ քարտի։
+    if "/upload/" in page:
+        urls.append(page)
+        page = ""
+    if page:
+        html = ""
+        try:
+            r = requests.get(page, timeout=45, headers=HDRS)
+            if r.ok:
+                html = r.text
+        except Exception as e:
+            print("քարտ: %s" % e)
+        m = OG.search(html) or OG2.search(html)
+        if m:
+            urls.append(m.group(1))
+        urls.extend(IMG_SRC.findall(html))
+    if it.get("img"):
+        urls.append(it["img"])
+    out = []
+    for u in urls:
+        u = (u or "").replace("&amp;", "&").strip()
+        if u.startswith("/"):
+            u = "https://www.sas.am" + u
+        if not u.startswith("http") or any(s in u.lower() for s in SKIP_IMG):
+            continue
+        if u not in out:
+            out.append(u)
+    return out
+
+def photo_candidates(it):
+    # Քարտի գլխավոր լուսանկարը (og:image) ցանկի առաջին պիտանին է։
+    cands = card_images(it)[:6]
+    # Yerevan City-ն ցուցակում տալիս է «Resize» տարբերակը. կողքին դնում ենք
+    # առանց այդ հատվածի հղումը (լրիվ չափ). եթե չկա՝ 404, ու հաջորդն է գնում։
+    out = []
+    for u in cands:
+        if "/Image/Resize/" in u:
+            alt = u.replace("/Image/Resize/", "/Image/")
+            if alt not in out:
+                out.append(alt)
+        if u not in out:
+            out.append(u)
+    return out
+
+def card_until(it):
+    """Ակցիայի ժամկետը ապրանքի քարտից (Yerevan City-ն ցուցակում ամսաթիվ չի տալիս)։"""
+    page = it.get("url") or it.get("page") or ""
+    if not page or "product-details" not in page:
+        return ""
+    try:
+        html = requests.get(page, timeout=45, headers=HDRS).text
+    except Exception as e:
+        print("ամսաթիվ: %s" % e)
+        return ""
+    i = html.find("գործում է")
+    if i == -1:
+        return ""
+    d = CARD_DATE.findall(html[i:i + 600])
+    if len(d) >= 2:
+        day, mon, year = d[1]
+        m = MONTHS.get(mon.lower())
+        if m:
+            return "%02d.%02d.%s" % (int(day), m, year)
+    return ""
+
+def best_photo(it, cands=None):
+    """Ապրանքի լուսանկարը՝ ըստ ՉԱՓՍԻ. վերցվում է ամենամեծ լայնություն×բարձրությունը։
+    Ծանրությունը չափանիշ չէ. ծանրը կարող է նկար չլինել, իսկ թեթևը՝ մեծ չափի։
+    Չափը կարդացվում է հենց բայթերից, ու նկար չհանդիսացող թեկնածուները դեն են ընկնում։
+    Քարտի էջի մյուս <img>-երը պահուստ են ու մեծությամբ ընտրելիս հաշվի չեն առնվում։"""
+    cands = cands if cands is not None else photo_candidates(it)
+    best, best_url, best_d = b"", "", (0, 0)
+    for group in (cands[:3], cands[3:]):
+        for u in group:
+            try:
+                r = requests.get(u, timeout=60, headers=HDRS)
+            except Exception as e:
+                print("նկար: %s — %s" % (u, e))
+                continue
+            if not r.ok or len(r.content) < 3000:
+                continue
+            d = img_dims(r.content)
+            if d == (0, 0):
+                print("նկար չէ՝ %s (%d ԿԲ)" % (u, len(r.content) // 1024))
+                continue
+            if d[0] * d[1] > best_d[0] * best_d[1]:
+                best, best_url, best_d = r.content, u, d
+        if best:
+            break
+    if not best:
+        print("հարմար լուսանկար չգտնվեց")
+        return b"", "photo.jpg"
+    name = best_url.split("?")[0].rsplit("/", 1)[-1] or "photo.jpg"
+    print("նկար՝ %s (%dx%d, %d ԿԲ)" % (best_url, best_d[0], best_d[1],
+                                       len(best) // 1024))
+    return best, name
+
+def to_jpeg(data):
+    """Լուսանկարը դարձնում է JPEG՝ լրիվ լայնքն ու բարձրությունը պահելով։
+    Ծանրությունը իջնում է, չափսը՝ ոչ. 27 ՄԲ PNG-ի փոխարեն գնում է նույն
+    չափսի JPEG՝ մի քանի հարյուր կիլոբայթով։ Ալֆա-շերտը (PNG RGBA) հանվում է,
+    քանի որ JPEG-ը թափանցիկություն չի պահում։"""
+    if Image is None or not data:
+        return data
+    try:
+        im = Image.open(io.BytesIO(data))
+        im.load()
+    except Exception as e:
+        print("JPEG չդարձավ՝ %s" % e)
+        return data
+    if im.mode not in ("RGB", "L"):
+        im = im.convert("RGB")
+    w, h = im.size
+    if w + h > PHOTO_MAX_SIDE:
+        k = PHOTO_MAX_SIDE / float(w + h)
+        im = im.resize((max(1, int(w * k)), max(1, int(h * k))), Image.LANCZOS)
+    q = JPEG_QUALITY
+    while True:
+        buf = io.BytesIO()
+        im.save(buf, "JPEG", quality=q, optimize=True)
+        out = buf.getvalue()
+        if len(out) <= PHOTO_MAX_BYTES or q <= 60:
+            break
+        q -= 8
+    print("JPEG՝ %dx%d, %d ԿԲ (որակ %d)" % (im.size[0], im.size[1],
+                                            len(out) // 1024, q))
+    return out
+
+def send(it):
+    it["title"] = clean_title(it["title"])
+    if not it.get("until"):
+        it["until"] = card_until(it)
+    text = "%s\n%s\n%s ֏ → %s ֏ (-%s%%)" % (
+        it["store"], it["title"], money(it["old"]), money(it["new"]), it["pct"])
+    if it["until"]:
+        text += "\nՄինչև՝ %s" % it["until"]
+    cands = photo_candidates(it)
+    if DRY:
+        data, name = best_photo(it, cands)
+        print("[DRY] " + text.replace("\n", " | ") +
+              " | նկար՝ %s (%d ԿԲ)" % (name, len(data) // 1024))
+        return True
+    try:
+        data, _ = best_photo(it, cands)
+    except Exception as e:
+        print("լուսանկարի սխալ: %s" % e)
+        data = b""
+    if data:
+        r = requests.post(API + "sendPhoto",
+                          data={"chat_id": CHANNEL, "caption": text,
+                                "reply_markup": BUTTON},
+                          files={"photo": ("photo.jpg", to_jpeg(data))},
+                          timeout=120)
+        if r.ok and r.json().get("ok"):
+            return True
+        print("Նկարը չգնաց: %s" % r.text[:200])
+    for u in cands[:4]:
+        r = requests.post(API + "sendPhoto",
+                          data={"chat_id": CHANNEL, "photo": u, "caption": text,
+                                "reply_markup": BUTTON}, timeout=60)
+        if r.ok and r.json().get("ok"):
+            return True
+        print("Հղումով նկարը չգնաց (%s): %s" % (u, r.text[:200]))
+    r = requests.post(API + "sendMessage",
+                      data={"chat_id": CHANNEL, "text": text, "reply_markup": BUTTON},
+                      timeout=60)
+    if not (r.ok and r.json().get("ok")):
+        print("Ուղարկելու սխալ: %s" % r.text[:300])
+        return False
+    return True
+
+def publish(st):
+    now = datetime.now(YE)
+    last = st.get("last_publish") or ""
+    if last:
+        try:
+            last = datetime.fromisoformat(last)
+        except ValueError:
+            last = None
+    if not (PUB_FROM <= now.hour < PUB_TO):
+        print("Հրապարակման պատուհանից դուրս (%s)" % now.strftime("%H:%M"))
+        return
+    if last and now - last < timedelta(minutes=STEP_MIN):
+        print("Սլոտը դեռ չի հասել")
+        return
+    names = list(STORES)
+    for i in range(len(names)):
+        idx = (st.get("rr", 0) + i) % len(names)
+        name = names[idx]
+        q = st["queues"].get(name) or []
+        if not q:
+            continue
+        it = q.pop(0)
+        st["queues"][name] = q
+        try:
+            ok = send(it)
+        except Exception as e:
+            print("ուղարկելու բացառություն: %s" % e)
+            ok = False
+        if ok:
+            st["rr"] = (idx + 1) % len(names)
+            st["last_publish"] = now.isoformat()
+        else:
+            q.insert(0, it)
+            st["queues"][name] = q
+        return
+    print("Կայքերում նոր բան չկա. բոլոր հերթերը դատարկ են")
+
+def main():
+    st = load_state()
+    # ՄԻԱՆՎԱԳ վերակայում. հերթը և «տեսածը» զրոյանում են մեկ անգամ,
+    # հետո հերթը նորից լցվում է կայքից՝ կայքի հերթականությամբ։
+    if not st.get("reset_done"):
+        st["queues"] = {s: [] for s in STORES}
+        st["seen"] = {s: [] for s in STORES}
+        st["rr"] = 0
+        st["reset_done"] = True
+        print("Վերակայում. հերթը և տեսածը զրոյացան, նորը կգա կայքից")
+# ՄԻԱՆՎԱԳ մաքրում. հերթից դուրս են գալիս ծաղիկների բաժնի դիրքերը։
+    if not st.get("flowers_cleaned"):
+        dropped = 0
+        for name in STORES:
+            q = st["queues"].get(name) or []
+            keep = [x for x in q if not is_flower_item(x)]
+            dropped += len(q) - len(keep)
+            st["queues"][name] = keep
+        if dropped:
+            print("Մաքրում. ծաղիկների բաժնից հանվեց %d դիրք" % dropped)
+        st["flowers_cleaned"] = True
+    # ՄԻԱՆՎԱԳ մաքրում. մինչ այս տարբերակը SAS-ի նավիգացիոն հղումները
+    # («0 դր. Զամբյուղում», «Դիտել ամբողջ բաժինը») մտել էին հերթ որպես
+    # ապրանք։ Հանվում են միայն դրանք, մնացածի կարգը չի փոխվում։
+    if not st.get("junk_cleaned"):
+        q = st["queues"].get("SAS") or []
+        good = [x for x in q if re.search(r"/(\d{3,})/?$", x.get("url") or "")]
+        if len(good) != len(q):
+            print("Մաքրում. SAS-ի հերթից հանվեց %d աղբ դիրք" % (len(q) - len(good)))
+        st["queues"]["SAS"] = good
+        st["junk_cleaned"] = True
+    for store, url in STORES.items():
+        items = fetch_all(store, url)
+        if DRY:
+            for it in items[:5]:
+                print("    - %s | %s->%s ֏ (-%s%%) %s"
+                      % (it["title"][:70], it["old"], it["new"], it["pct"], it["until"]))
+        seen_set = set(st["seen"].setdefault(store, []))
+        in_queue = set(x.get("key") for x in st["queues"].get(store, []))
+        fresh = []
+        for it in items:
+            k = key(it)
+            it["key"] = k
             if k in seen_set or legacy_key(it) in seen_set or k in in_queue:
                 continue
             fresh.append(it)
