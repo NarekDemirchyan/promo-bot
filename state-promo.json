@@ -192,17 +192,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Կարագ սերուցքային «Elle & Vire» 500գ, յուղայնությունը` 82",
-    "old": 5990,
-    "new": 3990,
-    "pct": 33,
-    "until": "28.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/311/321/3211414177666624.webp",
-    "url": "https://www.sas.am/catalog/slivochnoe_maslo/97773/",
-    "key": "SAS|id:97773"
-   },
-   {
-    "store": "SAS",
     "title": "Լվացքի կոնդիցիոներ «Vernel Sensitive» 960մլ",
     "old": 2250,
     "new": 2050,
@@ -856,8 +845,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-19T03:30:41.775833+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-19T03:45:34.745166+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
