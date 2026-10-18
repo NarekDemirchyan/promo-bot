@@ -192,17 +192,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Զովացուցիչ գազավորված ըմպելիք «Pepsi Black» 1.5լ",
-    "old": 780,
-    "new": 630,
-    "pct": 19,
-    "until": "13.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/800/922/9228592865699738.webp",
-    "url": "https://www.sas.am/catalog/osvezhayushchiy_napitok/113652/",
-    "key": "SAS|id:113652"
-   },
-   {
-    "store": "SAS",
     "title": "Զուգարանի թուղթ «Zewa Deluxe Pure White» 4 հատ",
     "old": 1350,
     "new": 1170,
@@ -948,8 +937,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-19T01:30:43.837254+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-19T01:45:31.903300+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
