@@ -70,23 +70,13 @@
    "Yerevan City|id:54791",
    "Yerevan City|id:132889",
    "Yerevan City|id:192763",
-   "Yerevan City|id:167052"
+   "Yerevan City|id:167052",
+   "Yerevan City|id:179400"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Հագուստի չորանոց «Վիլեդա» ունիվերսալ 18մ",
-    "old": 19750,
-    "new": 16990,
-    "pct": 14,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/12583",
-    "key": "Yerevan City|id:12583"
-   },
    {
     "store": "Yerevan City",
     "title": "Կարտոֆիլ կտրելու սարք «Բրաբանտիա»",
@@ -416,12 +406,23 @@
     "img": "",
     "url": "https://yerevan-city.am/shop/product-details/167052",
     "key": "Yerevan City|id:167052"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Փափուկ խաղալիք «Արջուկ» վերնազգեստով 70սմ",
+    "old": 19990,
+    "new": 9995,
+    "pct": 50,
+    "until": "",
+    "img": "",
+    "url": "https://yerevan-city.am/shop/product-details/179400",
+    "key": "Yerevan City|id:179400"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-18T05:15:31.299360+04:00",
+ "last_publish": "2026-10-18T05:30:42.225311+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
