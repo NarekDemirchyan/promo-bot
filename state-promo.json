@@ -163,17 +163,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Փրփրուն գինի «Երևան» 0.75լ",
-    "old": 2990,
-    "new": 2690,
-    "pct": 10,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/453/493/4939063197967452.webp",
-    "url": "https://www.sas.am/catalog/shampanskoe_igristoe_vino/202667/",
-    "key": "SAS|id:202667"
-   },
-   {
-    "store": "SAS",
     "title": "Սուրճ աղացած «Jacobs Monarch» 200գ",
     "old": 2990,
     "new": 1990,
@@ -925,7 +914,7 @@
  },
  "seeded": true,
  "rr": 1,
- "last_publish": "2026-10-18T17:30:48.424485+04:00",
+ "last_publish": "2026-10-18T17:45:33.327545+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
