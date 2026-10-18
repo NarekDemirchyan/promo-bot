@@ -628,7 +628,7 @@ def main():
         st["queues"]["SAS"] = good
         st["junk_cleaned"] = True
         for store, url in STORES.items():
-        items = fetch_all(store, url)
+            items = fetch_all(store, url)
         if DRY:
             for it in items[:5]:
                 print("    - %s | %s->%s ֏ (-%s%%) %s"
