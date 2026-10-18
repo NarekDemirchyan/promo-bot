@@ -192,17 +192,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Թունաձուկ ձեթի մեջ «Calvo»160գ",
-    "old": 1740,
-    "new": 1450,
-    "pct": 17,
-    "until": "13.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/169/851/8518111738674910.webp",
-    "url": "https://www.sas.am/catalog/v_masle/76365/",
-    "key": "SAS|id:76365"
-   },
-   {
-    "store": "SAS",
     "title": "Վերմիշել «Divella Filini № 79» 500գ",
     "old": 740,
     "new": 680,
@@ -1155,8 +1144,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-18T21:00:47.679985+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-18T21:15:39.672960+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
