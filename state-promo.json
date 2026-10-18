@@ -168,17 +168,6 @@
     "new": 1160,
     "pct": 24,
     "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/224/357/3575842644418750.webp",
-    "url": "https://www.sas.am/catalog/plitka/207271/",
-    "key": "SAS|id:207271"
-   },
-   {
-    "store": "SAS",
-    "title": "Շոկոլադե կոնֆետների հավաքածու «Merci» 100գ",
-    "old": 1520,
-    "new": 1160,
-    "pct": 24,
-    "until": "30.10.2026",
     "img": "https://www.sas.am/upload/Sh/imageCache/271/588/588159460754812.webp",
     "url": "https://www.sas.am/catalog/plitka/207269/",
     "key": "SAS|id:207269"
@@ -1101,8 +1090,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-18T13:30:36.522671+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-18T13:45:30.242249+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
