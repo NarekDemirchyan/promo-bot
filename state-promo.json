@@ -192,17 +192,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Թխվածքաբլիթ շոկոլադապատ «Orion Choco Pie» 360գ",
-    "old": 1090,
-    "new": 980,
-    "pct": 10,
-    "until": "29.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/406/969/96973760449971.webp",
-    "url": "https://www.sas.am/catalog/pechene_pryaniki/134098/",
-    "key": "SAS|id:134098"
-   },
-   {
-    "store": "SAS",
     "title": "Զուգարանի թուղթ «Zewa Exclusive Ultra Soft» 4 հատ",
     "old": 1520,
     "new": 1320,
@@ -902,8 +891,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-19T02:30:39.612084+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-19T02:46:00.148025+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
