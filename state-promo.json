@@ -66,23 +66,13 @@
    "Yerevan City|id:179782",
    "Yerevan City|id:1002",
    "Yerevan City|id:4985",
-   "Yerevan City|id:167481"
+   "Yerevan City|id:167481",
+   "Yerevan City|id:54791"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Վիսկի «Ջոննի Վոլքեր» Ռեդ Լեյբլ 1լ",
-    "old": 20500,
-    "new": 18450,
-    "pct": 10,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/132889",
-    "key": "Yerevan City|id:132889"
-   },
    {
     "store": "Yerevan City",
     "title": "Արդուկի սեղան «Դ.Հոմ» 138x36սմ ԱյԲ-03",
@@ -401,12 +391,23 @@
     "img": "",
     "url": "https://yerevan-city.am/shop/product-details/167481",
     "key": "Yerevan City|id:167481"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սուրճ հատիկավոր«Տ.Լամբորգինի»Էսպրեսսո,կարմիր 1կգ",
+    "old": 21380,
+    "new": 15759,
+    "pct": 26,
+    "until": "",
+    "img": "",
+    "url": "https://yerevan-city.am/shop/product-details/54791",
+    "key": "Yerevan City|id:54791"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-18T04:30:34.448106+04:00",
+ "last_publish": "2026-10-18T04:45:34.887161+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
