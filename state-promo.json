@@ -80,17 +80,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Օդային տապակիչ «Ռաֆ» 4.5լ 1500Վտ",
-    "old": 18990,
-    "new": 9495,
-    "pct": 50,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/160335",
-    "key": "Yerevan City|id:160335"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Ֆուա-գրա «Ռուժի» սագի լյարդից տրյուֆելով 75գր",
     "old": 18990,
     "new": 15989,
@@ -423,7 +412,7 @@
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-18T05:45:34.397477+04:00",
+ "last_publish": "2026-10-18T06:00:56.814020+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
