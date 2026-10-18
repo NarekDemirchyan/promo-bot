@@ -163,17 +163,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Կոնյակ «Hennessy VS» 0.7լ",
-    "old": 25830,
-    "new": 23500,
-    "pct": 9,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/259/181/1818512698471114.webp",
-    "url": "https://www.sas.am/catalog/importnyy_konyak_brendi/81115/",
-    "key": "SAS|id:81115"
-   },
-   {
-    "store": "SAS",
     "title": "Վիսկի «Johnnie Walker 12 Black Label» 1լ",
     "old": 35500,
     "new": 32500,
@@ -1024,7 +1013,7 @@
  },
  "seeded": true,
  "rr": 1,
- "last_publish": "2026-10-18T15:15:33.999867+04:00",
+ "last_publish": "2026-10-18T15:30:48.037318+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
