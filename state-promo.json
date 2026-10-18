@@ -163,17 +163,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Դրաժե շոկոլադե «M&M's» 45գ",
-    "old": 440,
-    "new": 410,
-    "pct": 7,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/451/718/718394169246237.webp",
-    "url": "https://www.sas.am/catalog/drajee/78945/",
-    "key": "SAS|id:78945"
-   },
-   {
-    "store": "SAS",
     "title": "Գինի կարմիր «Երևան» 0.75լ",
     "old": 3770,
     "new": 3390,
@@ -947,7 +936,7 @@
  },
  "seeded": true,
  "rr": 1,
- "last_publish": "2026-10-18T17:00:44.970478+04:00",
+ "last_publish": "2026-10-18T17:15:53.878418+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
