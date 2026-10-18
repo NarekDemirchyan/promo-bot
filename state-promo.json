@@ -67,23 +67,14 @@
    "Yerevan City|id:1002",
    "Yerevan City|id:4985",
    "Yerevan City|id:167481",
-   "Yerevan City|id:54791"
+   "Yerevan City|id:54791",
+   "Yerevan City|id:132889",
+   "Yerevan City|id:192763"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Արդուկի սեղան «Դ.Հոմ» 138x36սմ ԱյԲ-03",
-    "old": 19990,
-    "new": 12989,
-    "pct": 35,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/167052",
-    "key": "Yerevan City|id:167052"
-   },
    {
     "store": "Yerevan City",
     "title": "Փափուկ խաղալիք «Արջուկ» վերնազգեստով 70սմ",
@@ -402,12 +393,34 @@
     "img": "",
     "url": "https://yerevan-city.am/shop/product-details/54791",
     "key": "Yerevan City|id:54791"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Վիսկի «Ջոննի Վոլքեր» Ռեդ Լեյբլ 1լ",
+    "old": 20500,
+    "new": 18450,
+    "pct": 10,
+    "until": "",
+    "img": "",
+    "url": "https://yerevan-city.am/shop/product-details/132889",
+    "key": "Yerevan City|id:132889"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ֆուա-գրա «Ռուժի» սագի լյարդից ա/տ 180գր",
+    "old": 15990,
+    "new": 13989,
+    "pct": 13,
+    "until": "",
+    "img": "",
+    "url": "https://yerevan-city.am/shop/product-details/192763",
+    "key": "Yerevan City|id:192763"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-18T04:45:34.887161+04:00",
+ "last_publish": "2026-10-18T05:00:52.818518+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
