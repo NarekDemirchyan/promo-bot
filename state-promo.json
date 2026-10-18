@@ -72,17 +72,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Գինի «Բերդաշեն» Խնդողնի հնեցված, կարմիր անապակ 0.75լ",
-    "old": 21990,
-    "new": 9090,
-    "pct": 59,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/4985",
-    "key": "Yerevan City|id:4985"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Անկ․հավ․ընտ․ «ՑինԹայ» 100%բամ․ 250x250",
     "old": 21990,
     "new": 10995,
@@ -414,8 +403,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-18T03:45:41.976998+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-18T04:00:48.114547+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
