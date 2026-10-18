@@ -192,17 +192,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Գինի վարդագույն «Կարաս Սիրահ» 0.75լ",
-    "old": 6260,
-    "new": 5790,
-    "pct": 8,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/405/413/413867503452321.webp",
-    "url": "https://www.sas.am/catalog/armyanskoe_vino/29885/",
-    "key": "SAS|id:29885"
-   },
-   {
-    "store": "SAS",
     "title": "Մակարոն «Divella Penne Ziti Rigate № 27» 500գ",
     "old": 740,
     "new": 680,
@@ -1109,8 +1098,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-18T22:00:52.459448+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-18T22:15:35.377826+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
