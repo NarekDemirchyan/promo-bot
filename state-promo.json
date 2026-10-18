@@ -192,17 +192,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Գարեջուր «Stella Artois» 0.5լ",
-    "old": 750,
-    "new": 680,
-    "pct": 9,
-    "until": "28.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/240/924/924857278477512.webp",
-    "url": "https://www.sas.am/catalog/importnoe_pivo/135714/",
-    "key": "SAS|id:135714"
-   },
-   {
-    "store": "SAS",
     "title": "Յոգուրտ հունական «Epica» 130գ, յուղայնությունը՝ 2.5",
     "old": 500,
     "new": 450,
@@ -994,8 +983,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-19T00:30:42.936663+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-19T00:46:20.214056+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
