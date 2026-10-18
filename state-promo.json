@@ -163,17 +163,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Միջադիրներ «Libresse Natural Care Ultra Super» 9հատ",
-    "old": 920,
-    "new": 780,
-    "pct": 15,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/330/435/4352163149233213.webp",
-    "url": "https://www.sas.am/catalog/dlya_intimnoy_gigieny2/145237/",
-    "key": "SAS|id:145237"
-   },
-   {
-    "store": "SAS",
     "title": "Միջադիրներ «Libresse Natural Care Ultra Normal» 10հատ",
     "old": 920,
     "new": 780,
@@ -881,7 +870,7 @@
  },
  "seeded": true,
  "rr": 1,
- "last_publish": "2026-10-18T18:30:35.627195+04:00",
+ "last_publish": "2026-10-18T18:45:28.506183+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
