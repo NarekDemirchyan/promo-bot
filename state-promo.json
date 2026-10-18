@@ -163,17 +163,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Գինի կարմիր «Երևան Արենի Կարմրահյութ» 0.75լ",
-    "old": 3770,
-    "new": 3390,
-    "pct": 10,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/390/222/2221882573976164.webp",
-    "url": "https://www.sas.am/catalog/armyanskoe_vino/29245/",
-    "key": "SAS|id:29245"
-   },
-   {
-    "store": "SAS",
     "title": "Գինի սպիտակ «Երևան Կանգուն» 0.75լ",
     "old": 3770,
     "new": 3390,
@@ -991,7 +980,7 @@
  },
  "seeded": true,
  "rr": 1,
- "last_publish": "2026-10-18T16:00:47.594597+04:00",
+ "last_publish": "2026-10-18T16:15:34.693052+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
