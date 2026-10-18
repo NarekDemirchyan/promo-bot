@@ -192,17 +192,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Զուգարանի թուղթ «Պապիրուս Սոֆթ» 4 հատ",
-    "old": 990,
-    "new": 850,
-    "pct": 14,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/603/476/4766221942551583.webp",
-    "url": "https://www.sas.am/catalog/tualetnaya_bumaga/6583/",
-    "key": "SAS|id:6583"
-   },
-   {
-    "store": "SAS",
     "title": "Գարեջուր «Stella Artois» 0.5լ",
     "old": 750,
     "new": 680,
@@ -1017,8 +1006,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-19T00:00:45.022487+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-19T00:16:01.101856+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
