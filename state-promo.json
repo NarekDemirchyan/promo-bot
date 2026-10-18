@@ -163,17 +163,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Գինի սպիտակ «Երևան Կանգուն» 0.75լ",
-    "old": 3770,
-    "new": 3390,
-    "pct": 10,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/287/840/8404011497116501.webp",
-    "url": "https://www.sas.am/catalog/armyanskoe_vino/29247/",
-    "key": "SAS|id:29247"
-   },
-   {
-    "store": "SAS",
     "title": "Դրաժե շոկոլադե «M&M's» 45գ",
     "old": 440,
     "new": 410,
@@ -958,7 +947,7 @@
  },
  "seeded": true,
  "rr": 1,
- "last_publish": "2026-10-18T16:45:51.562625+04:00",
+ "last_publish": "2026-10-18T17:00:44.970478+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
