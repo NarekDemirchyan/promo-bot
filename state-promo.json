@@ -192,17 +192,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Մակարոն «Divella Penne Ziti Rigate № 27» 500գ",
-    "old": 740,
-    "new": 680,
-    "pct": 8,
-    "until": "20.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/166/225/2252722684653760.webp",
-    "url": "https://www.sas.am/catalog/makaronyy/96157/",
-    "key": "SAS|id:96157"
-   },
-   {
-    "store": "SAS",
     "title": "Սպագետտի «Divella Ristorante №8» 500գ",
     "old": 760,
     "new": 680,
@@ -1086,8 +1075,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-18T22:31:10.752071+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-18T22:45:44.691289+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
