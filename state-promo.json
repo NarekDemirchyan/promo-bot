@@ -80,17 +80,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Տիկնիկ 8803Ա-47",
-    "old": 24990,
-    "new": 14989,
-    "pct": 40,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/177026",
-    "key": "Yerevan City|id:177026"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Սուրճ հատիկավոր«Տ.Լամբորգինի»Էսպրեսսո,պլատինե 1կգ",
     "old": 24940,
     "new": 18380,
@@ -214,7 +203,7 @@
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-18T10:30:33.403143+04:00",
+ "last_publish": "2026-10-18T10:45:26.381801+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
