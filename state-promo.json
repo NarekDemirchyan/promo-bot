@@ -80,17 +80,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Վիսկի «Ջոննի Վոլքեր» Ռեդ Լեյբլ 1լ",
-    "old": 20500,
-    "new": 18450,
-    "pct": 10,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/132889",
-    "key": "Yerevan City|id:132889"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Ֆուա-գրա «Ռուժի» սագի լյարդից ա/տ 180գր",
     "old": 15990,
     "new": 13989,
@@ -137,7 +126,7 @@
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-18T12:15:40.988635+04:00",
+ "last_publish": "2026-10-18T12:30:30.517142+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
