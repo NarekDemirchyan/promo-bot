@@ -78,17 +78,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Փափուկ խաղալիք «Արջուկ» վերնազգեստով 70սմ",
-    "old": 19990,
-    "new": 9995,
-    "pct": 50,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/179400",
-    "key": "Yerevan City|id:179400"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Հագուստի չորանոց «Վիլեդա» ունիվերսալ 18մ",
     "old": 19750,
     "new": 16990,
@@ -432,7 +421,7 @@
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-18T05:00:52.818518+04:00",
+ "last_publish": "2026-10-18T05:15:31.299360+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
