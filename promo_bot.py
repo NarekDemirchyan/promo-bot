@@ -593,7 +593,7 @@ def send(it):
         data, _ = best_photo(it, cands)
     except Exception as e:
         print("լուսանկարի սխալ: %s" % e)
-data = b""
+        data = b""
     if data:
         r = requests.post(API + "sendPhoto",
                           data={"chat_id": CHANNEL, "caption": text,
