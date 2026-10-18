@@ -163,17 +163,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Փրփրուն գինի «Երևան» 0.75լ",
-    "old": 2990,
-    "new": 2690,
-    "pct": 10,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/163/609/6091452922303167.webp",
-    "url": "https://www.sas.am/catalog/shampanskoe_igristoe_vino/202668/",
-    "key": "SAS|id:202668"
-   },
-   {
-    "store": "SAS",
     "title": "Խավիար սմբուկի «Արտֆուդ» 360գ",
     "old": 890,
     "new": 790,
@@ -903,7 +892,7 @@
  },
  "seeded": true,
  "rr": 1,
- "last_publish": "2026-10-18T18:00:58.956424+04:00",
+ "last_publish": "2026-10-18T18:15:32.948464+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
