@@ -132,12 +132,21 @@ CITY_PRICE = re.compile(
 # Սիթիի «Նորույթ» էջը սկիադկա չունեցող դիրքերի գինը տալիս է առանց
 # հազարավորների բաժանիչի՝ «225990.00 null», ու տողի վերջում։ Ամսաթիվ չկա։
 NEW_PRICE = re.compile(r"(\d[\d,]*)(?:\.\d+)?\s*(?:֏|\bnull\b)?\s*$", re.S)
+# Քարտի վերջում կարող է լինել մեկ հատի/լիտրի գինը՝ «1 կգ / 2222.00 null»։
+# Դա շուկայի գինը չէ. կտրում ենք «/»-ից հետո եկող այդ պոչը, որ մեկ հատի
+# գինը չընկնի որպես ապրանքի գին։ Տողի ներսում եղած «/»-երը մնում են անփոփոխ։
+UNIT_TAIL = re.compile(r"\s*\d*\s*[^\d\s/]*\s*/\s*[\d\s,\.]*\s*(?:֏|\bnull\b)?\s*$")
 # Անվանումը պետք է հայերեն կամ ռուսերեն լինի. այսպես դեն են նետվում
 # անգլերեն/ծառայողական տողերը («Image 52» և նմանները)։
 NAME = re.compile(r"[Ա-Ֆա-ֆև]|[А-Яа-яЁё]")
 RU_LABEL = re.compile(r"^\s*(Скидка|Эксклюзив|Акция|Суперцена|Sale)\s*[:.\-]?\s*", re.I)
 PCT_HEAD = re.compile(r"^\s*[-–—+%]*\s*\d{1,3}\s*%?\s*")
 ARTIC = re.compile(r"\s+\d{4,}$")
+# Սիթիի վերնագրերում չակերտները կպած են հարևան բառերին՝
+# «Տեկիլա«Դոն Խուլիո»Ուլտիմա Ռեզերվա», «Հավաքածու«Կուրապրոքս»Բի յու»։
+# Բացատ դնում ենք միայն չակերտի ու բառի միջև. բառերի ներսը ձեռք չի տրվում։
+OPEN_QUOTE = re.compile(r"(?<=[^\s(«])«")
+CLOSE_QUOTE = re.compile(r"»(?=[^\s»).,;:!?–-])")
 # Աղբյուրի մաքուր մնացորդները՝ «![Image 403: » / «Image 403: »։
 IMG_PREFIX = re.compile(r"^!?\[?\s*(?:Image\s+\d+\s*:?\s*)?", re.I)
 OG = re.compile(
@@ -251,7 +260,11 @@ def clean_title(t):
         t = RU_LABEL.sub("", t).strip(" -|")
         if t == before:
             break
-    return ARTIC.sub("", t).strip(" -|")
+    t = ARTIC.sub("", t).strip(" -|")
+    # Չակերտների շուրջ բացակայող բացատները։
+    t = OPEN_QUOTE.sub(" «", t)
+    t = CLOSE_QUOTE.sub("» ", t)
+    return re.sub(r"\s+", " ", t).strip()
 
 def make(store, title, old, new, until, img, url="", label=""):
     title = clean_title(title)
@@ -359,11 +372,14 @@ def parse_new(md):
             old, new = num(pr.group(1)), num(pr.group(2))
             title = re.sub(r"~~.*$", "", inner, flags=re.S)
         else:
-            p = NEW_PRICE.search(inner)
+            # Մեկ հատի/լիտրի գնի պոչը («1 կգ / 2222.00 null») կտրում ենք,
+            # որ NEW_PRICE-ը վերջին թիվը մեկ հատի գնից չվերցնի։
+            head = UNIT_TAIL.sub("", inner)
+            p = NEW_PRICE.search(head)
             if not p:
                 continue
             old, new = 0, num(p.group(1))
-            title = NEW_PRICE.sub("", inner)
+            title = NEW_PRICE.sub("", head)
         out.append(make("Yerevan City", title, old, new, "", "",
                         m.group(2), "Նորույթ"))
     return [x for x in out if x]
@@ -547,7 +563,7 @@ def to_jpeg(data):
     except Exception as e:
         print("JPEG չդարձավ՝ %s" % e)
         return data
-    if im.mode not in ("RGB", "L"):
+if im.mode not in ("RGB", "L"):
         im = im.convert("RGB")
     w, h = im.size
     if w + h > PHOTO_MAX_SIDE:
