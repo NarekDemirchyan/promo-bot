@@ -163,17 +163,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Գինի կարմիր «Երևան» 0.75լ",
-    "old": 3770,
-    "new": 3390,
-    "pct": 10,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/140/591/5911902094495451.webp",
-    "url": "https://www.sas.am/catalog/armyanskoe_vino/29248/",
-    "key": "SAS|id:29248"
-   },
-   {
-    "store": "SAS",
     "title": "Փրփրուն գինի «Երևան» 0.75լ",
     "old": 2990,
     "new": 2690,
@@ -936,7 +925,7 @@
  },
  "seeded": true,
  "rr": 1,
- "last_publish": "2026-10-18T17:15:53.878418+04:00",
+ "last_publish": "2026-10-18T17:30:48.424485+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
