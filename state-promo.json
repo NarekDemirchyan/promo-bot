@@ -192,17 +192,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Միջադիրներ «Libresse Invisible Ultra Normal» 10հատ",
-    "old": 990,
-    "new": 880,
-    "pct": 11,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/417/162/1629152630198748.webp",
-    "url": "https://www.sas.am/catalog/dlya_intimnoy_gigieny2/145218/",
-    "key": "SAS|id:145218"
-   },
-   {
-    "store": "SAS",
     "title": "Միջադիրներ «Libresse Invisible Goodnight» 10 հատ",
     "old": 990,
     "new": 880,
@@ -1201,8 +1190,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-18T20:00:53.857166+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-18T20:15:44.182412+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
