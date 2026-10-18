@@ -705,7 +705,7 @@ def main():
     for store, url, label, parser in SOURCES:
         tag = ("%s / %s" % (store, label)) if label else store
         items = fetch_all(store, url, parser, tag)        
-     if DRY:
+        if DRY:
             for it in items[:5]:
                 if it["old"] > it["new"]:
                     print("    - %s | %s->%s ֏ (-%s%%) %s"
