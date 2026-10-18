@@ -192,17 +192,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Սպագետտի «Divella Ristorante №8» 500գ",
-    "old": 760,
-    "new": 680,
-    "pct": 11,
-    "until": "20.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/134/697/697510151537538.webp",
-    "url": "https://www.sas.am/catalog/spagetti_kapelini/96168/",
-    "key": "SAS|id:96168"
-   },
-   {
-    "store": "SAS",
     "title": "Հաց տոստի «Harry's American Sandwich» 470գ",
     "old": 990,
     "new": 830,
@@ -1063,8 +1052,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-18T23:00:52.430969+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-18T23:15:32.546787+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
