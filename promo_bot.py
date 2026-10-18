@@ -23,6 +23,14 @@
     կայքի ու միջնորդի սահմանաչափերից էջը դատարկ չվերադառնա։
  9. JPEG դարձնելու համար պետք է Pillow-ը (pip install Pillow)։
 10. Միանվագ մաքրումներ՝ ծաղիկների դիրքերը հերթից ու հին ոչ-քարտ աղբը։
+11. Սիթիի «Նորույթ» էջը (/shop/new-in) նույնպես կարդացվում է՝ որպես Սիթիի
+    երկրորդ աղբյուր։ Հերթը, «տեսածը» և բանալին նույնն են (Yerevan City|id:<id>),
+    ուստի միևնույն ապրանքը «Զեղչերում» ու «Նորույթում» մի անգամ է հրապարակվում։
+    Այդ էջի դիրքերը գնում են «Նորույթ» երկրորդ տողով, իսկ առանց սկիադկայի
+    դեպքում՝ առանց հին գնի ու տոկոսի։ Սիթիի «Զեղչեր» ու SAS-ի էջերը մնում են
+    ինչպես եղել են՝ նույն տեքստով։ Այդ էջում էջաբաժանում չկա (ստուգված է.
+    ?offset=24-ը վերադարձնում է նույն 30 դիրքը), ուստի կարդացվում է 1 էջ։
+    Ուղղվեց նաև «Մինչև՝»-ը՝ դարձավ «Մինչև», որ գրառման տողը ճիշտ հայերեն լինի։
 """
 import io
 import json
@@ -121,6 +129,9 @@ CITY_LINK = re.compile(
     r"\[([^\]]{10,400}?)\]\((https://yerevan-city\.am/shop/product-details/(\d+))\)", re.S)
 CITY_PRICE = re.compile(
     r"~~\s*([\d][\d\s,\.]{0,14}?)\s*(?:֏|\bnull\b)?\s*~~\s*([\d][\d\s,\.]{0,14})", re.S)
+# Սիթիի «Նորույթ» էջը սկիադկա չունեցող դիրքերի գինը տալիս է առանց
+# հազարավորների բաժանիչի՝ «225990.00 null», ու տողի վերջում։ Ամսաթիվ չկա։
+NEW_PRICE = re.compile(r"(\d[\d,]*)(?:\.\d+)?\s*(?:֏|\bnull\b)?\s*$", re.S)
 # Անվանումը պետք է հայերեն կամ ռուսերեն լինի. այսպես դեն են նետվում
 # անգլերեն/ծառայողական տողերը («Image 52» և նմանները)։
 NAME = re.compile(r"[Ա-Ֆա-ֆև]|[А-Яа-яЁё]")
@@ -149,7 +160,7 @@ def fetch(url):
     r.raise_for_status()
     return r.text
 
-def fetch_page(store, page_url):
+def fetch_page(tag, page_url):
     """Էջը բերում է 3 փորձով՝ աճող դադարով։ Դատարկ կամ չափից կարճ պատասխանը
     (հակաբոտ պատ կամ միջնորդի սահմանաչափ) համարվում է չստացած, ոչ թե վերջ։"""
     for t in range(PAGE_TRIES):
@@ -158,9 +169,9 @@ def fetch_page(store, page_url):
             if md and len(md) > 2000:
                 return md
             print("%s: էջը կարճ եկավ (%d նշան), փորձ %d/%d"
-                  % (store, len(md or ""), t + 1, PAGE_TRIES))
+                  % (tag, len(md or ""), t + 1, PAGE_TRIES))
         except Exception as e:
-            print("%s: բեռնելու սխալ (%d/%d): %s" % (store, t + 1, PAGE_TRIES, e))
+            print("%s: բեռնելու սխալ (%d/%d): %s" % (tag, t + 1, PAGE_TRIES, e))
         time.sleep(4 * (t + 1))
     return ""
 
@@ -242,17 +253,20 @@ def clean_title(t):
             break
     return ARTIC.sub("", t).strip(" -|")
 
-def make(store, title, old, new, until, img, url=""):
+def make(store, title, old, new, until, img, url="", label=""):
     title = clean_title(title)
-    if len(title) < 4 or new <= 0 or old <= new:
+    if len(title) < 4 or new <= 0 or not has_name(title):
         return None
-    if not has_name(title):
-        return None
-    pct = round((old - new) * 100 / old)
-    if pct < 5:
-        return None
-    return {"store": store, "title": title, "old": old, "new": new,
-            "pct": pct, "until": until or "", "img": img or "", "url": url or ""}
+    pct = round((old - new) * 100 / old) if old > new else 0
+    if old <= new or pct < 5:
+        # Առանց սկիադկայի (կամ 5%-ից պակաս) դիրքը հրապարակվում է միայն
+        # «Նորույթ» աղբյուրից՝ որպես նոր ապրանք՝ առանց հին գնի ու տոկոսի։
+        if not label:
+            return None
+        old, pct = 0, 0
+    return {"store": store, "title": title, "old": old, "new": new, "pct": pct,
+            "until": until or "", "img": img or "", "url": url or "",
+            "label": label or ""}
 
 def parse_sas(md):
     """Քարտերը վերցնում ենք ցուցակի մարկերով՝ [](/catalog/<բաժին>/<id>/):
@@ -330,7 +344,40 @@ def parse_city(md):
                         "", "", m.group(2)))
     return [x for x in out if x]
 
-PARSERS = {"SAS": parse_sas, "Yerevan City": parse_city}
+def parse_new(md):
+    """Սիթիի «Նորույթ» էջը։ Վերցնում ենք ՄԻԱՅՆ «### Նորույթ» բաժինը, որ վերևի
+    «Best Offer» բլոկի ու կարուսելի ապրանքները հերթ չմտնեն։ Այստեղ սկիադկա
+    չունեցող դիրքն էլ է ընդունվում. այն գնում է մեկ գնով՝ առանց հին գնի ու տոկոսի։"""
+    i = md.find("### Նորույթ")
+    if i == -1:
+        return []
+    out = []
+    for m in CITY_LINK.finditer(md[i:]):
+        inner = m.group(1)
+        pr = CITY_PRICE.search(inner)
+        if pr:
+            old, new = num(pr.group(1)), num(pr.group(2))
+            title = re.sub(r"~~.*$", "", inner, flags=re.S)
+        else:
+            p = NEW_PRICE.search(inner)
+            if not p:
+                continue
+            old, new = 0, num(p.group(1))
+            title = NEW_PRICE.sub("", inner)
+        out.append(make("Yerevan City", title, old, new, "", "",
+                        m.group(2), "Նորույթ"))
+    return [x for x in out if x]
+
+# Աղբյուրները՝ այս հերթականությամբ։ Սիթիի երկու էջերը գնում են ՄԻևՆՈՒՅՆ
+# «Yerevan City» հերթը, «տեսած» ցուցակը ու 200-ի առաստաղը, ուստի միևնույն
+# ապրանքը երկու անգամ չի հրապարակվի, իսկ «Նորույթ» պիտակը դրվում է միայն
+# վերջին աղբյուրի դիրքերի վրա։ Կարգը՝ կայքի կարգը՝ էջի ներսում, էջերն էլ
+# կարդացվում են հենց այս հերթականությամբ։
+SOURCES = [
+    ("SAS", "https://www.sas.am/catalog/discount/", "", parse_sas),
+    ("Yerevan City", "https://yerevan-city.am/shop/best-offers", "", parse_city),
+    ("Yerevan City", "https://yerevan-city.am/shop/new-in", "Նորույթ", parse_new),
+]
 
 def load_state():
     if os.path.exists(STATE):
@@ -351,21 +398,23 @@ def key(it):
 def legacy_key(it):
     return "%s|%s|%s|%s|%s" % (it["store"], it["title"].lower(), it["old"], it["new"], it["until"])
 
-def fetch_all(store, url):
+def fetch_all(store, url, parser, tag=""):
     """Կարդում է ցուցակի ԲՈԼՈՐ էջերը՝ մինչև PAGE_LIMIT դիրք կամ էջերի վերջ։
     Առաջին էջը գալիս է ուղիղ հղումով, մյուսները՝ offset-ով (SAS-ը՝ 24-ական).
-    այդպես բոտը տեսնում է ամբողջ բաժինը, ոչ միայն առաջին էջը։"""
+    այդպես բոտը տեսնում է ամբողջ բաժինը, ոչ միայն առաջին էջը։ Էջը, որ նոր բան
+    չտվեց, նշանակում է ցուցակը սպառվել է, ու կարդալը կանգ է առնում։"""
+    tag = tag or store
     items, seen_ids, t0 = [], set(), time.time()
     for p in range(PAGE_PAGES):
         if time.time() - t0 > PAGE_BUDGET:
-            print("%s: ժամանակի բյուջեն լրացավ էջ %d-ի վրա" % (store, p + 1))
+            print("%s: ժամանակի բյուջեն լրացավ էջ %d-ի վրա" % (tag, p + 1))
             break
         page_url = url if p == 0 else "%s?offset=%d" % (url, p * SAS_STEP)
-        md = fetch_page(store, page_url)
+        md = fetch_page(tag, page_url)
         if not md:
-            print("%s: էջ %d չբեռնվեց, կանգ" % (store, p + 1))
+            print("%s: էջ %d չբեռնվեց, կանգ" % (tag, p + 1))
             break
-        got = PARSERS[store](md)
+        got = parser(md)
         fresh = 0
         for it in got:
             k = key(it)
@@ -375,14 +424,14 @@ def fetch_all(store, url):
             items.append(it)
             fresh += 1
         print("%s: էջ %d՝ %d դիրք, այս վազքում նոր՝ %d"
-              % (store, p + 1, len(got), fresh))
+              % (tag, p + 1, len(got), fresh))
         if fresh == 0:
             # Էջերն սպառվեցին. նույն դիրքերն էին կամ էջը դատարկ էր։
             break
         if len(items) >= PAGE_LIMIT:
             break
         time.sleep(PAGE_PAUSE)
-    print("%s: ցուցակը կարդացվեց՝ %d դիրք" % (store, len(items)))
+    print("%s: ցուցակը կարդացվեց՝ %d դիրք" % (tag, len(items)))
     return items[:PAGE_LIMIT]
 
 def card_images(it):
@@ -454,7 +503,7 @@ def card_until(it):
     return ""
 
 def best_photo(it, cands=None):
-    """Ապրանքի լուսանկարը՝ ըստ ՉԱՓՍԻ. վերցվում է ամենամեծ լայնություն×բարձրությունը։
+    """Ապրանքի լուսանկարը՝ ըստ ՉԱՓՍԻ. վերցվում է ամենամեծ լայնություն×բարձրությունը.
     Ծանրությունը չափանիշ չէ. ծանրը կարող է նկար չլինել, իսկ թեթևը՝ մեծ չափի։
     Չափը կարդացվում է հենց բայթերից, ու նկար չհանդիսացող թեկնածուները դեն են ընկնում։
     Քարտի էջի մյուս <img>-երը պահուստ են ու մեծությամբ ընտրելիս հաշվի չեն առնվում։"""
@@ -520,10 +569,20 @@ def send(it):
     it["title"] = clean_title(it["title"])
     if not it.get("until"):
         it["until"] = card_until(it)
-    text = "%s\n%s\n%s ֏ → %s ֏ (-%s%%)" % (
-        it["store"], it["title"], money(it["old"]), money(it["new"]), it["pct"])
+    lines = [it["store"]]
+    # «Նորույթ» տողը դրվում է միայն Սիթիի «Նորույթ» էջի դիրքերի վրա։
+    if it.get("label"):
+        lines.append(it["label"])
+    lines.append(it["title"])
+    if it["old"] > it["new"]:
+        lines.append("%s ֏ → %s ֏ (-%s%%)"
+                     % (money(it["old"]), money(it["new"]), it["pct"]))
+    else:
+        # Նոր ապրանք՝ առանց սկիադկայի. գնում է միայն նոր գինը։
+        lines.append("%s ֏" % money(it["new"]))
+    text = "\n".join(lines)
     if it["until"]:
-        text += "\nՄինչև՝ %s" % it["until"]
+        text += "\nՄինչև %s" % it["until"]
     cands = photo_candidates(it)
     if DRY:
         data, name = best_photo(it, cands)
@@ -534,7 +593,7 @@ def send(it):
         data, _ = best_photo(it, cands)
     except Exception as e:
         print("լուսանկարի սխալ: %s" % e)
-        data = b""
+data = b""
     if data:
         r = requests.post(API + "sendPhoto",
                           data={"chat_id": CHANNEL, "caption": text,
@@ -627,8 +686,9 @@ def main():
             print("Մաքրում. SAS-ի հերթից հանվեց %d աղբ դիրք" % (len(q) - len(good)))
         st["queues"]["SAS"] = good
         st["junk_cleaned"] = True
-    for store, url in STORES.items():
-        items = fetch_all(store, url)
+    for store, url, label, parser in SOURCES:
+        tag = ("%s / %s" % (store, label)) if label else store
+        items = fetch_all(store, url, parser, tag)
         if DRY:
             for it in items[:5]:
                 print("    - %s | %s->%s ֏ (-%s%%) %s"
@@ -643,7 +703,7 @@ def main():
                 continue
             fresh.append(it)
         q = st["queues"].setdefault(store, [])
-                # Նորը միշտ մտնում է հերթ։ Երբ 200-ից անցնի, գլխից դուրս են գալիս
+        # Նորը միշտ մտնում է հերթ։ Երբ 200-ից անցնի, գլխից դուրս են գալիս
         # ամենահները՝ առանց հրապարակվելու։
         take = list(fresh)
         for it in take:
@@ -657,7 +717,7 @@ def main():
         if len(st["seen"][store]) > SEEN_KEEP:
             del st["seen"][store][:-SEEN_KEEP]
         print("%s: ցուցակում %d, հերթ ընդունվեց %d, հերթում %d, ազատ տեղ %d"
-              % (store, len(items), len(take), len(q), QUEUE_CAP - len(q)))
+              % (tag, len(items), len(take), len(q), QUEUE_CAP - len(q)))
     st["seeded"] = True
     publish(st)
     if DRY:
