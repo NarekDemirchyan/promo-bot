@@ -446,23 +446,12 @@
    "Yerevan City|id:172553|6390|6050",
    "Yerevan City|id:179206|6370|5610",
    "Yerevan City|id:131803|6350|5990",
-   "Yerevan City|id:173425|6390|5850"
+   "Yerevan City|id:173425|6390|5850",
+   "Yerevan City|id:11679|6330|5610"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Թղթե սրբիչ «Selpak» 4հատ",
-    "old": 2580,
-    "new": 2330,
-    "pct": 10,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/345/899/899630762884231.webp",
-    "url": "https://www.sas.am/catalog/bum_polotentsa/140535/",
-    "label": "",
-    "key": "SAS|id:140535"
-   },
    {
     "store": "SAS",
     "title": "Զովացուցիչ գազավորված ըմպելիք «Pepsi» 1.5լ",
@@ -3848,12 +3837,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1167022.png",
     "url": "https://yerevan-city.am/shop/product-details/173425",
     "key": "Yerevan City|id:173425|6390|5850"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շոկոլադե կոնֆետներ «Ալյոնկա» կգ",
+    "old": 6330,
+    "new": 5610,
+    "pct": 11,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1041919.png",
+    "url": "https://yerevan-city.am/shop/product-details/11679",
+    "key": "Yerevan City|id:11679|6330|5610"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-20T00:00:47.552168+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-20T00:15:30.638831+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
