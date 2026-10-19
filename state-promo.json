@@ -1673,17 +1673,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Սուրճ հատիկավոր«Տ.Լամբորգինի»Էսպրեսսո,կարմիր 1կգ",
-    "old": 21380,
-    "new": 15759,
-    "pct": 26,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/54791",
-    "key": "Yerevan City|id:54791|21380|15759"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Վիսկի «Ջոննի Վոլքեր» Ռեդ Լեյբլ 1լ",
     "old": 20500,
     "new": 18450,
@@ -3874,8 +3863,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-19T23:15:28.359106+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-19T23:30:37.952313+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
