@@ -478,23 +478,12 @@
    "Yerevan City|id:56913|6290|3220",
    "Yerevan City|id:33905|6290|3220",
    "Yerevan City|id:192619|6290|4390",
-   "Yerevan City|id:175840|6290|4390"
+   "Yerevan City|id:175840|6290|4390",
+   "Yerevan City|id:8822|6250|4790"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Բալզամ «Elseve Ультра Прочность» 300մլ",
-    "old": 2650,
-    "new": 2370,
-    "pct": 11,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/321/017/0179673401910905.webp",
-    "url": "https://www.sas.am/catalog/balzam_dlya_volos/952949/",
-    "label": "",
-    "key": "SAS|id:952949"
-   },
    {
     "store": "SAS",
     "title": "Բալզամ «Elseve Длина Мечты» 300մլ",
@@ -4094,12 +4083,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169470.png",
     "url": "https://yerevan-city.am/shop/product-details/175840",
     "key": "Yerevan City|id:175840|6290|4390"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ձիթապտղի ձեթ «Լուգլիո» Էքստրա Վիրջին ա/տ 1լ",
+    "old": 6250,
+    "new": 4790,
+    "pct": 23,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1038923.png",
+    "url": "https://yerevan-city.am/shop/product-details/8822",
+    "key": "Yerevan City|id:8822|6250|4790"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-20T03:00:47.852567+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-20T03:15:29.562978+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
