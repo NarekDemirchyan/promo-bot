@@ -259,17 +259,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Սափրող սարք «Wilkinson Xtreme 3» 1 հատ",
-    "old": 790,
-    "new": 550,
-    "pct": 30,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/200/964/964099543768191.webp",
-    "url": "https://www.sas.am/catalog/stanok_dlya_britya/173923/",
-    "key": "SAS|id:173923"
-   },
-   {
-    "store": "SAS",
     "title": "Անձեռոցիկ «Zewa Soft & Delicate» 100 հատ",
     "old": 690,
     "new": 590,
@@ -1286,7 +1275,7 @@
  },
  "seeded": true,
  "rr": 1,
- "last_publish": "2026-10-19T13:30:40.026000+04:00",
+ "last_publish": "2026-10-19T13:45:54.547122+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
