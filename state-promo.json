@@ -443,23 +443,12 @@
    "Yerevan City|id:177191|6490|3890",
    "Yerevan City|id:177190|6490|3890",
    "Yerevan City|id:170541|6490|3990",
-   "Yerevan City|id:172553|6390|6050"
+   "Yerevan City|id:172553|6390|6050",
+   "Yerevan City|id:179206|6370|5610"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Անձեռոցիկ սպունգանման «Vileda» 3հատ",
-    "old": 1880,
-    "new": 1370,
-    "pct": 27,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/755/085/0858653895985312.webp",
-    "url": "https://www.sas.am/catalog/rezinovye_izdeliya/154905/",
-    "label": "",
-    "key": "SAS|id:154905"
-   },
    {
     "store": "SAS",
     "title": "Ամենօրյա միջադիրներ «Libresse Natural Care Normal» 20հատ",
@@ -3881,12 +3870,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1165841.png",
     "url": "https://yerevan-city.am/shop/product-details/172553",
     "key": "Yerevan City|id:172553|6390|6050"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Լվացքի գել «Արիել» ունիվերսալ 2.5լ",
+    "old": 6370,
+    "new": 5610,
+    "pct": 12,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172914.png",
+    "url": "https://yerevan-city.am/shop/product-details/179206",
+    "key": "Yerevan City|id:179206|6370|5610"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-19T22:30:42.132902+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-19T22:45:26.957990+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
