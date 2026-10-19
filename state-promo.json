@@ -259,17 +259,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Զուգարանի թուղթ խոնավ «Smile» 44 հատ",
-    "old": 890,
-    "new": 770,
-    "pct": 13,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/194/029/0299501169027236.webp",
-    "url": "https://www.sas.am/catalog/tualetnaya_bumaga/421106/",
-    "key": "SAS|id:421106"
-   },
-   {
-    "store": "SAS",
     "title": "Գինի կարմիր «Le Grand Noir Cabernet Sauvignon» 0.75լ",
     "old": 5240,
     "new": 4950,
@@ -1363,7 +1352,7 @@
  },
  "seeded": true,
  "rr": 1,
- "last_publish": "2026-10-19T11:46:01.239336+04:00",
+ "last_publish": "2026-10-19T12:00:51.656812+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
