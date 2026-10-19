@@ -259,17 +259,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Ձեթ ձիթապտղի «Luglio Pomace» 0.5լ",
-    "old": 3350,
-    "new": 2350,
-    "pct": 30,
-    "until": "10.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/370/242/2420184179192395.webp",
-    "url": "https://www.sas.am/catalog/rastitelnoe/98291/",
-    "key": "SAS|id:98291"
-   },
-   {
-    "store": "SAS",
     "title": "Ձեթ ձիթապտղի «Luglio Extra Virgin» 0.25լ",
     "old": 2470,
     "new": 2150,
@@ -1209,7 +1198,7 @@
  },
  "seeded": true,
  "rr": 1,
- "last_publish": "2026-10-19T15:15:50.140816+04:00",
+ "last_publish": "2026-10-19T15:30:41.417187+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
