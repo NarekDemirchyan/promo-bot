@@ -5,32 +5,27 @@
  1. Բոտը կարդում է ցուցակի ԲՈԼՈՐ էջերը, ոչ միայն առաջինը. SAS-ի զեղչերի
     բաժինը 825+ դիրք ունի՝ 24-ական էջերով (?offset=24, 48, 72...), ու առաջին
     էջի 16 ապրանքից բացի մնացածը բոտի համար ընդհանրապես գոյություն չուներ։
- 2. Հերթը մնում է 200 դիրք, ինչպես առաջ։ ԱՄԵՆ դիրք անցնում է բոտի միջով.
-    «տեսած» է համարվում ՄԻԱՅՆ այն, ինչ արդեն հերթ մտել է կամ հրապարակվել։
-    Երբ հերթը լրացած է ու կայքում նորը հայտնվում է, գլխից դուրս են գալիս
-    ամենահները՝ առանց հրապարակվելու, իսկ նորը մնում է պոչում։
- 3. Առաստաղը լրանալիս գլխից դուրս են գալիս ամենահները, նորը մնում է պոչում,
-    կարգը կայքի կարգն է։
- 4. Ծաղիկների բաժինը (SAS Flowers by Villani, Milani) ընդհանրապես չի
+ 2. Հերթը 200 դիրք է ու գործում է «մեկը գնաց, մեկը եկավ» կանոնով. ամեն
+    հրապարակումից ազատված տեղի չափով նոր դիրք է մտնում հերթ, ուստի ոչինչ
+    առանց հրապարակվելու դուրս չի ընկնում։ Կարգը կայքի կարգն է։
+ 3. «Տեսած» է համարվում ՄԻԱՅՆ այն, ինչ մտել է հերթ։ Բանալին ապրանքի համարն է
+    + գնային զույգը, ուստի նույն ակցիան երկու անգամ չի հրապարակվում, իսկ նույն
+    ապրանքը նոր գնով նորից է գալիս։
+ 4. Yerevan City-ն կարդացվում է բաց API-ից (GetDiscounted)՝ 94 էջ 30-ական,
+    ոչ թե HTML-ի առաջին էջից։ Էջերի միջև անցնում է ցուցիչը, ու մեկ էջից
+    վերցվում է այնքան, որքան տեղ կա հերթում։
+ 5. Ծաղիկների բաժինը (SAS Flowers by Villani, Milani) ընդհանրապես չի
     հրապարակվում՝ ոչ ցուցակից, ոչ հերթից։
- 5. Լուսանկարը գնում է ՈՐՊԵՍ ՆԿԱՐ (JPEG), ոչ ֆայլով. ընտրվում է ՉԱՓՍՈՎ՝
+ 6. Լուսանկարը գնում է ՈՐՊԵՍ ՆԿԱՐ (JPEG), ոչ ֆայլով. ընտրվում է ՉԱՓՍՈՎ՝
     ամենամեծ լայնություն×բարձրությունը, ոչ ֆայլի ծանրությամբ, ու նախապես
     դարձվում է JPEG լրիվ չափսը պահելով (27 ՄԲ PNG → մի քանի հարյուր ԿԲ JPEG)։
- 6. Մեկ հատի գինը («2 127 դր./1լ») չի մտնում որպես նոր գին։
- 7. SAS-ի քարտը ճանաչվում է ցուցակի մարկերով՝ [](/catalog/<բաժին>/<id>/),
+ 7. Մեկ հատի գինը («2 127 դր./1լ») չի մտնում որպես նոր գին։
+ 8. SAS-ի քարտը ճանաչվում է ցուցակի մարկերով՝ [](/catalog/<բաժին>/<id>/),
     իսկ նավիգացիոն հղումները ապրանք չեն համարվում։
- 8. Ամեն էջի համար 3 փորձ՝ աճող դադարով, ու էջերի միջև կարճ դադար, որ
+ 9. Ամեն էջի համար 3 փորձ՝ աճող դադարով, ու էջերի միջև կարճ դադար, որ
     կայքի ու միջնորդի սահմանաչափերից էջը դատարկ չվերադառնա։
- 9. JPEG դարձնելու համար պետք է Pillow-ը (pip install Pillow)։
-10. Միանվագ մաքրումներ՝ ծաղիկների դիրքերը հերթից ու հին ոչ-քարտ աղբը։
-11. Սիթիի «Նորույթ» էջը (/shop/new-in) նույնպես կարդացվում է՝ որպես Սիթիի
-    երկրորդ աղբյուր։ Հերթը, «տեսածը» և բանալին նույնն են (Yerevan City|id:<id>),
-    ուստի միևնույն ապրանքը «Զեղչերում» ու «Նորույթում» մի անգամ է հրապարակվում։
-    Այդ էջի դիրքերը գնում են «Նորույթ» երկրորդ տողով, իսկ առանց սկիադկայի
-    դեպքում՝ առանց հին գնի ու տոկոսի։ Սիթիի «Զեղչեր» ու SAS-ի էջերը մնում են
-    ինչպես եղել են՝ նույն տեքստով։ Այդ էջում էջաբաժանում չկա (ստուգված է.
-    ?offset=24-ը վերադարձնում է նույն 30 դիրքը), ուստի կարդացվում է 1 էջ։
-    Ուղղվեց նաև «Մինչև՝»-ը՝ դարձավ «Մինչև», որ գրառման տողը ճիշտ հայերեն լինի։
+10. JPEG դարձնելու համար պետք է Pillow-ը (pip install Pillow)։
+11. Միանվագ մաքրումներ՝ ծաղիկների դիրքերը հերթից ու հին ոչ-քարտ աղբը։
 """
 import io
 import json
@@ -56,13 +51,9 @@ YE = timezone(timedelta(hours=4))
 # ուղիղ 15-ի դեպքում ամեն երկրորդ սլոտը դուրս էր ընկնում։
 STEP_MIN = 14
 PUB_FROM, PUB_TO = 0, 24
-# Հերթի չափը մեկ խանութի համար՝ ինչպես առաջ էր։ Նորը գալիս է պոչը, գլխից
-# դուրս են գալիս ամենահները։ Կարգը կայքի կարգն է։
 QUEUE_CAP = 200
 # «Տեսածը» պահվում է լիքը, որ հրապարակված դիրքը չվերադառնա որպես նոր։
-SEEN_KEEP = 3000
-# Մեկ վազքում կարդացվող էջերի ու դիրքերի սահմանը, ժամանակի բյուջեն, ու
-# էջերի միջև դադարը՝ որ ամբողջ բաժինը կարդացվի առանց սահմանաչափի մեջ ընկնելու։
+SEEN_KEEP = 6000
 PAGE_LIMIT = 900
 PAGE_PAGES = 40
 PAGE_BUDGET = 600
@@ -71,25 +62,18 @@ PAGE_TRIES = 3
 SAS_STEP = 24
 API = "https://api.telegram.org/bot%s/" % TOKEN
 JINA = "https://r.jina.ai/"
-
-# Նկարը գնում է որպես նկար՝ JPEG։ Լրիվ լայնքն ու բարձրությունը պահվում են,
-# ծանրությունը՝ ոչ. նույն 3000x4000 չափսով JPEG-ը PNG-ից մի քանի անգամ թեթև է։
 JPEG_QUALITY = 92
 PHOTO_MAX_BYTES = 9 * 1024 * 1024
-# Telegram-ի սահմանը. լայնություն + բարձրություն ≤ 10000։
 PHOTO_MAX_SIDE = 10000
 
 SKIP_IMG = ("logo", "18-plus", "flags/", "icon", "banner", "banniere", "svg",
             "sprite", "placeholder", "no-photo", "nophoto")
 
-# Ծաղիկների բաժինը չի հրապարակվում։ Դա բաժնի հասցեով է որոշվում, ոչ
-# ապրանքի անունով. անվան մեջ «ծաղկ» բառը կա նաև մեղրի ու սերմերի մեջ։
 FLOWER_URL = re.compile(r"/catalog/(?:sasexclusiveflowers|flowers|milaniroses|"
                         r"milani|milancomp|milanbalon|mona|monaflowers|myrose|"
                         r"my_rose|balloon|balloons|tsvety|flowersas|"
                         r"cataleya|cataleyabuyser|villaniflowers|milancompos|"
                         r"milanpuchik|cataleyaflowers|milanirose7)", re.I)
-# Երկրորդ ստուգումը հին գրառումների համար է, որտեղ բաժնի հասցեն չկա։
 FLOWER_TITLE = re.compile(r"Flowers by Villani|Milani|Ծաղկեփունջ|ծաղկային "
                           r"կոմպոզիցիա|փուչիկ", re.I)
 
@@ -110,18 +94,10 @@ STORES = {
     "SAS": "https://www.sas.am/catalog/discount/",
     "Yerevan City": "https://yerevan-city.am/shop/best-offers",
 }
-# SAS-ը գները գրում է «19 000 դր.»; մեկ հատի/մեկ լիտրի գները
-# («2 127 դր./1լ», «292 դր./1հատ») դեն ենք նետում lookahead-ով։ Կետը
-# պարտադիր է lookahead-ի մեջ, այլապես «դր»-ի վրա այն չի տեսնում «/»-ը։
 PRICE = re.compile(r"([\d][\d\s,\.]{1,12}?)\s*(?:֏|դր\.?|\bnull\b)(?!\.?\s*/)")
 DATE = re.compile(r"\b(\d{2}\.\d{2}\.\d{4})\b")
-# Ամեն ապրանքի քարտ սկսվում է դատարկ տեքստով հղումով՝ [](/catalog/<բաժին>/<id>/)։
-# Սա է քարտի իսկական նշանը. նկարով չենք կողմնորոշվում, որովհետև մեկ քարտում
-# կարող է երկու լուսանկար լինել (`![…](w1)![…](w2)`), ու հին կանոնը դրանք գցում էր։
 SAS_CARD = re.compile(r"\[\]\((https://www\.sas\.am/(?!upload/)[^)\s]*/\d{3,}/?)\)")
-# Քարտի լուսանկարի alt-տողը՝ «Image 383: Ապրանքի անունը»։
 SAS_ALT = re.compile(r"!\[(?:Image\s+\d+\s*:\s*)?([^\]]{4,160})\]\(([^)]*)\)")
-# Պահուստային կանոն, եթե կայքը փոխի ցուցակի կառուցվածքը։
 SAS_LINK = re.compile(
     r"\[(?:!\[([^\]]{4,160})\]\(([^)]*)\)|([^\]\n]{4,160}))\]"
     r"\((https://www\.sas\.am/(?!upload/)[^)\s]+)\)")
@@ -129,25 +105,10 @@ CITY_LINK = re.compile(
     r"\[([^\]]{10,400}?)\]\((https://yerevan-city\.am/shop/product-details/(\d+))\)", re.S)
 CITY_PRICE = re.compile(
     r"~~\s*([\d][\d\s,\.]{0,14}?)\s*(?:֏|\bnull\b)?\s*~~\s*([\d][\d\s,\.]{0,14})", re.S)
-# Սիթիի «Նորույթ» էջը սկիադկա չունեցող դիրքերի գինը տալիս է առանց
-# հազարավորների բաժանիչի՝ «225990.00 null», ու տողի վերջում։ Ամսաթիվ չկա։
-NEW_PRICE = re.compile(r"(\d[\d,]*)(?:\.\d+)?\s*(?:֏|\bnull\b)?\s*$", re.S)
-# Քարտի վերջում կարող է լինել մեկ հատի/լիտրի գինը՝ «1 կգ / 2222.00 null»։
-# Դա շուկայի գինը չէ. կտրում ենք «/»-ից հետո եկող այդ պոչը, որ մեկ հատի
-# գինը չընկնի որպես ապրանքի գին։ Տողի ներսում եղած «/»-երը մնում են անփոփոխ։
-UNIT_TAIL = re.compile(r"\s*\d*\s*[^\d\s/]*\s*/\s*[\d\s,\.]*\s*(?:֏|\bnull\b)?\s*$")
-# Անվանումը պետք է հայերեն կամ ռուսերեն լինի. այսպես դեն են նետվում
-# անգլերեն/ծառայողական տողերը («Image 52» և նմանները)։
 NAME = re.compile(r"[Ա-Ֆա-ֆև]|[А-Яа-яЁё]")
 RU_LABEL = re.compile(r"^\s*(Скидка|Эксклюзив|Акция|Суперцена|Sale)\s*[:.\-]?\s*", re.I)
 PCT_HEAD = re.compile(r"^\s*[-–—+%]*\s*\d{1,3}\s*%?\s*")
 ARTIC = re.compile(r"\s+\d{4,}$")
-# Սիթիի վերնագրերում չակերտները կպած են հարևան բառերին՝
-# «Տեկիլա«Դոն Խուլիո»Ուլտիմա Ռեզերվա», «Հավաքածու«Կուրապրոքս»Բի յու»։
-# Բացատ դնում ենք միայն չակերտի ու բառի միջև. բառերի ներսը ձեռք չի տրվում։
-OPEN_QUOTE = re.compile(r"(?<=[^\s(«])«")
-CLOSE_QUOTE = re.compile(r"»(?=[^\s»).,;:!?–-])")
-# Աղբյուրի մաքուր մնացորդները՝ «![Image 403: » / «Image 403: »։
 IMG_PREFIX = re.compile(r"^!?\[?\s*(?:Image\s+\d+\s*:?\s*)?", re.I)
 OG = re.compile(
     r"""<meta[^>]+(?:property|name)=['"]og:image['"][^>]+content=['"]([^'"]+)['"]""", re.I)
@@ -155,8 +116,6 @@ OG2 = re.compile(
     r"""<meta[^>]+content=['"]([^'"]+)['"][^>]+(?:property|name)=['"]og:image['"]""", re.I)
 IMG_SRC = re.compile(r"""<img[^>]+src=['"]([^'"]+\.(?:webp|jpe?g|png)[^'"]*)['"]""", re.I)
 IMG_MD = re.compile(r"!\[[^\]]*\]\((https?://[^)\s]+)\)")
-# Yerevan City-ի ակցիայի ժամկետը միայն քարտի վրա է. «Գինը գործում է 08 Հոկտեմբեր 2026 -ից
-# 31 Հոկտեմբեր 2026»։ Վերցնում ենք երկրորդ ամսաթիվը։
 MONTHS = {"հունվար": 1, "փետրվար": 2, "մարտ": 3, "ապրիլ": 4, "մայիս": 5,
           "հունիս": 6, "հուլիս": 7, "օգոստոս": 8, "սեպտեմբեր": 9,
           "հոկտեմբեր": 10, "նոյեմբեր": 11, "դեկտեմբեր": 12}
@@ -169,21 +128,18 @@ def fetch(url):
     r.raise_for_status()
     return r.text
 
-def fetch_page(tag, page_url):
-    """Էջը բերում է 3 փորձով՝ աճող դադարով։ Դատարկ կամ չափից կարճ պատասխանը
-    (հակաբոտ պատ կամ միջնորդի սահմանաչափ) համարվում է չստացած, ոչ թե վերջ։"""
+def fetch_page(store, page_url):
     for t in range(PAGE_TRIES):
         try:
             md = fetch(page_url)
             if md and len(md) > 2000:
                 return md
             print("%s: էջը կարճ եկավ (%d նշան), փորձ %d/%d"
-                  % (tag, len(md or ""), t + 1, PAGE_TRIES))
+                  % (store, len(md or ""), t + 1, PAGE_TRIES))
         except Exception as e:
-            print("%s: բեռնելու սխալ (%d/%d): %s" % (tag, t + 1, PAGE_TRIES, e))
+            print("%s: բեռնելու սխալ (%d/%d): %s" % (store, t + 1, PAGE_TRIES, e))
         time.sleep(4 * (t + 1))
     return ""
-
 def num(s):
     s = (s or "").replace(" ", "").replace(",", "")
     s = s.split(".")[0]
@@ -194,18 +150,15 @@ def money(n):
     return "{:,}".format(n).replace(",", " ")
 
 def is_flower(url, title):
-    """Ծաղիկների բաժնի դիրք է, թե ոչ։"""
     return bool(FLOWER_URL.search(url or "") or FLOWER_TITLE.search(title or ""))
 
 def is_flower_item(it):
     return is_flower(it.get("url") or "", it.get("title") or "")
 
 def img_dims(data):
-    """Նկարի լայնությունն ու բարձրությունը՝ հենց բայթերից (PNG, JPEG, WebP)։
-    Եթե բայթերը նկար չեն (օրինակ՝ HTML կամ այլ ֆայլ), վերադարձնում է (0, 0)։"""
     if len(data) > 24 and data[:8] == b"\x89PNG\r\n\x1a\n" and data[12:16] == b"IHDR":
         return (int.from_bytes(data[16:20], "big"), int.from_bytes(data[20:24], "big"))
-    if len(data) > 4 and data[:2] == b"\xff\xd8":  # JPEG
+    if len(data) > 4 and data[:2] == b"\xff\xd8":
         i = 2
         while i + 9 < len(data):
             if data[i] != 0xFF:
@@ -227,11 +180,11 @@ def img_dims(data):
         return (0, 0)
     if len(data) > 30 and data[:4] == b"RIFF" and data[8:12] == b"WEBP":
         four = data[12:16]
-        if four == b"VP8X":                       # ընդլայնված
+        if four == b"VP8X":
             w = int.from_bytes(data[24:27], "little") + 1
             h = int.from_bytes(data[27:30], "little") + 1
             return (w, h)
-        if four == b"VP8L":                       # անկորուստ
+        if four == b"VP8L":
             n = int.from_bytes(data[21:25], "little")
             return ((n & 0x3FFF) + 1, ((n >> 14) & 0x3FFF) + 1)
         if four == b"VP8 " and data[23:26] == b"\x9d\x01\x2a":
@@ -260,31 +213,20 @@ def clean_title(t):
         t = RU_LABEL.sub("", t).strip(" -|")
         if t == before:
             break
-    t = ARTIC.sub("", t).strip(" -|")
-    # Չակերտների շուրջ բացակայող բացատները։
-    t = OPEN_QUOTE.sub(" «", t)
-    t = CLOSE_QUOTE.sub("» ", t)
-    return re.sub(r"\s+", " ", t).strip()
+    return ARTIC.sub("", t).strip(" -|")
 
-def make(store, title, old, new, until, img, url="", label=""):
+def make(store, title, old, new, until, img, url=""):
     title = clean_title(title)
-    if len(title) < 4 or new <= 0 or not has_name(title):
+    if len(title) < 4 or new <= 0 or old <= new:
         return None
-    pct = round((old - new) * 100 / old) if old > new else 0
-    if old <= new or pct < 5:
-        # Առանց սկիադկայի (կամ 5%-ից պակաս) դիրքը հրապարակվում է միայն
-        # «Նորույթ» աղբյուրից՝ որպես նոր ապրանք՝ առանց հին գնի ու տոկոսի։
-        if not label:
-            return None
-        old, pct = 0, 0
-    return {"store": store, "title": title, "old": old, "new": new, "pct": pct,
-            "until": until or "", "img": img or "", "url": url or "",
-            "label": label or ""}
-
+    if not has_name(title):
+        return None
+    pct = round((old - new) * 100 / old)
+    if pct < 5:
+        return None
+    return {"store": store, "title": title, "old": old, "new": new,
+            "pct": pct, "until": until or "", "img": img or "", "url": url or ""}
 def parse_sas(md):
-    """Քարտերը վերցնում ենք ցուցակի մարկերով՝ [](/catalog/<բաժին>/<id>/):
-    այդպես երկու լուսանկարով քարտերը նույնպես չեն կորչում։ Ծաղիկների բաժինը
-    դեն է նետվում հենց այստեղ, որ հերթ ընդհանրապես չհասնի։"""
     cards = list(SAS_CARD.finditer(md))
     if not cards:
         return parse_sas_links(md)
@@ -293,9 +235,6 @@ def parse_sas(md):
         url = m.group(1)
         end = cards[i + 1].start() if i + 1 < len(cards) else min(len(md), m.end() + 1200)
         chunk = md[m.end():end]
-        # Քարտը վերջանում է «Զամբյուղում» կոճակով, որից հետո գալիս է հաջորդ
-        # ապրանքը։ Պատուհանը կտրում ենք այդ կոճակի վրա, որ ուրիշ ապրանքի գինն
-        # ու ամսաթիվը չխառնվեն։
         cut = chunk.find("Զամբյուղում")
         if cut != -1:
             chunk = chunk[:cut]
@@ -316,8 +255,6 @@ def parse_sas(md):
     return [x for x in out if x]
 
 def parse_sas_links(md):
-    """Պահուստ՝ եթե ցուցակի մարկերը փոխվի։ Քարտ է համարվում միայն այն
-    հղումը, որն ունի id-ով ավարտվող հասցե կամ պատուհանում «գործում է» տողը։"""
     out, links = [], list(SAS_LINK.finditer(md))
     skip = ("հավելին", "ցույց", "ցուցադրել", "ֆիլտր", "փակել", "շուտով",
             "купить", "в корзину", "подробнее", "все акции",
@@ -357,44 +294,76 @@ def parse_city(md):
                         "", "", m.group(2)))
     return [x for x in out if x]
 
-def parse_new(md):
-    """Սիթիի «Նորույթ» էջը։ Վերցնում ենք ՄԻԱՅՆ «### Նորույթ» բաժինը, որ վերևի
-    «Best Offer» բլոկի ու կարուսելի ապրանքները հերթ չմտնեն։ Այստեղ սկիադկա
-    չունեցող դիրքն էլ է ընդունվում. այն գնում է մեկ գնով՝ առանց հին գնի ու տոկոսի։"""
-    i = md.find("### Նորույթ")
-    if i == -1:
-        return []
+# ==== Yerevan City. բաց API՝ ակցիաների ամբողջ ցուցակը (2026-10-19) ====
+CITY_API = "https://apishopv2.yerevan-city.am/api/Product/GetDiscounted"
+CITY_HDRS = dict(HDRS, **{
+    "Content-Type": "application/json",
+    "Accept": "application/json, text/plain, */*",
+    "Origin": "https://yerevan-city.am",
+    "Referer": "https://yerevan-city.am/",
+})
+CITY_BODY = {"count": 30, "page": 1, "brands": [], "categories": [],
+             "countries": [], "tags": [], "isDiscounted": False,
+             "priceFrom": None, "priceTo": None, "search": None,
+             "sortBy": 0, "type": 1}
+
+def city_page(page):
+    for t in range(PAGE_TRIES):
+        try:
+            r = requests.post(CITY_API, json=dict(CITY_BODY, page=page),
+                              headers=CITY_HDRS, timeout=60)
+            r.raise_for_status()
+            d = (r.json() or {}).get("data") or {}
+            if d.get("list"):
+                return d
+            print("City: էջ %d դատարկ եկավ" % page)
+        except Exception as e:
+            print("City: էջ %d սխալ (%d/%d): %s" % (page, t + 1, PAGE_TRIES, e))
+        time.sleep(3 * (t + 1))
+    return {}
+
+BAD_PRICE = ("unit", "per", "kg", "gram", "percent", "discount", "quantity",
+             "count", "code", "articul", "barcode", "weight")
+
+def city_prices(it):
+    vals = []
+    for k, v in (it or {}).items():
+        if isinstance(v, bool) or not isinstance(v, (int, float)):
+            continue
+        kl = str(k).lower()
+        if any(b in kl for b in BAD_PRICE):
+            continue
+        if any(w in kl for w in ("price", "cost", "sum", "amount")) and int(v) > 0:
+            vals.append(int(v))
+    if len(set(vals)) < 2:
+        return 0, 0
+    return max(vals), min(vals)
+
+def iso_day(s):
+    m = re.match(r"(\d{4})-(\d{2})-(\d{2})", str(s or ""))
+    return "%s.%s.%s" % (m.group(3), m.group(2), m.group(1)) if m else ""
+
+def parse_city_api(d):
     out = []
-    for m in CITY_LINK.finditer(md[i:]):
-        inner = m.group(1)
-        pr = CITY_PRICE.search(inner)
-        if pr:
-            old, new = num(pr.group(1)), num(pr.group(2))
-            title = re.sub(r"~~.*$", "", inner, flags=re.S)
-        else:
-            # Մեկ հատի/լիտրի գնի պոչը («1 կգ / 2222.00 null») կտրում ենք,
-            # որ NEW_PRICE-ը վերջին թիվը մեկ հատի գնից չվերցնի։
-            head = UNIT_TAIL.sub("", inner)
-            p = NEW_PRICE.search(head)
-            if not p:
-                continue
-            old, new = 0, num(p.group(1))
-            title = NEW_PRICE.sub("", head)
-        out.append(make("Yerevan City", title, old, new, "", "",
-                        m.group(2), "Նորույթ"))
-    return [x for x in out if x]
+    for it in (d.get("list") or []):
+        old, new = city_prices(it)
+        if not old or not new or old <= new:
+            continue
+        pct = round((old - new) * 100.0 / old)
+        if pct < 5:
+            continue
+        name = clean_title(str(it.get("name") or it.get("title") or ""))
+        if len(name) < 4:
+            continue
+        pid = it.get("id") or it.get("productId") or ""
+        out.append({"store": "Yerevan City", "title": name, "old": old,
+                    "new": new, "pct": pct,
+                    "until": iso_day(it.get("dateTo") or it.get("endDate")),
+                    "img": str(it.get("image") or it.get("imageUrl") or ""),
+                    "url": "https://yerevan-city.am/shop/product-details/%s" % pid})
+    return out
 
-# Աղբյուրները՝ այս հերթականությամբ։ Սիթիի երկու էջերը գնում են ՄԻևՆՈՒՅՆ
-# «Yerevan City» հերթը, «տեսած» ցուցակը ու 200-ի առաստաղը, ուստի միևնույն
-# ապրանքը երկու անգամ չի հրապարակվի, իսկ «Նորույթ» պիտակը դրվում է միայն
-# վերջին աղբյուրի դիրքերի վրա։ Կարգը՝ կայքի կարգը՝ էջի ներսում, էջերն էլ
-# կարդացվում են հենց այս հերթականությամբ։
-SOURCES = [
-    ("SAS", "https://www.sas.am/catalog/discount/", "", parse_sas),
-    ("Yerevan City", "https://yerevan-city.am/shop/best-offers", "", parse_city),
-    ("Yerevan City", "https://yerevan-city.am/shop/new-in", "Նորույթ", parse_new),
-]
-
+PARSERS = {"SAS": parse_sas, "Yerevan City": parse_city}
 def load_state():
     if os.path.exists(STATE):
         with open(STATE, encoding="utf-8") as f:
@@ -406,31 +375,28 @@ def save_state(st):
         json.dump(st, f, ensure_ascii=False, indent=1)
 
 def key(it):
+    """Ապրանքի համարը + գնային զույգը. նույն ակցիան երկու անգամ չի գա,
+    իսկ նույն ապրանքը նոր գնով նորից կգա։"""
     m = re.search(r"/(\d{3,})/?$", it.get("url") or "")
-    if m:
-        return "%s|id:%s" % (it["store"], m.group(1))
-    return "%s|t:%s" % (it["store"], it["title"].lower())
+    base = ("%s|id:%s" % (it["store"], m.group(1)) if m
+            else "%s|t:%s" % (it["store"], it["title"].lower()))
+    return "%s|%s|%s" % (base, it["old"], it["new"])
 
 def legacy_key(it):
     return "%s|%s|%s|%s|%s" % (it["store"], it["title"].lower(), it["old"], it["new"], it["until"])
 
-def fetch_all(store, url, parser, tag=""):
-    """Կարդում է ցուցակի ԲՈԼՈՐ էջերը՝ մինչև PAGE_LIMIT դիրք կամ էջերի վերջ։
-    Առաջին էջը գալիս է ուղիղ հղումով, մյուսները՝ offset-ով (SAS-ը՝ 24-ական).
-    այդպես բոտը տեսնում է ամբողջ բաժինը, ոչ միայն առաջին էջը։ Էջը, որ նոր բան
-    չտվեց, նշանակում է ցուցակը սպառվել է, ու կարդալը կանգ է առնում։"""
-    tag = tag or store
+def fetch_all(store, url):
     items, seen_ids, t0 = [], set(), time.time()
     for p in range(PAGE_PAGES):
         if time.time() - t0 > PAGE_BUDGET:
-            print("%s: ժամանակի բյուջեն լրացավ էջ %d-ի վրա" % (tag, p + 1))
+            print("%s: ժամանակի բյուջեն լրացավ էջ %d-ի վրա" % (store, p + 1))
             break
         page_url = url if p == 0 else "%s?offset=%d" % (url, p * SAS_STEP)
-        md = fetch_page(tag, page_url)
+        md = fetch_page(store, page_url)
         if not md:
-            print("%s: էջ %d չբեռնվեց, կանգ" % (tag, p + 1))
+            print("%s: էջ %d չբեռնվեց, կանգ" % (store, p + 1))
             break
-        got = parser(md)
+        got = PARSERS[store](md)
         fresh = 0
         for it in got:
             k = key(it)
@@ -440,20 +406,18 @@ def fetch_all(store, url, parser, tag=""):
             items.append(it)
             fresh += 1
         print("%s: էջ %d՝ %d դիրք, այս վազքում նոր՝ %d"
-              % (tag, p + 1, len(got), fresh))
+              % (store, p + 1, len(got), fresh))
         if fresh == 0:
-            # Էջերն սպառվեցին. նույն դիրքերն էին կամ էջը դատարկ էր։
             break
         if len(items) >= PAGE_LIMIT:
             break
         time.sleep(PAGE_PAUSE)
-    print("%s: ցուցակը կարդացվեց՝ %d դիրք" % (tag, len(items)))
+    print("%s: ցուցակը կարդացվեց՝ %d դիրք" % (store, len(items)))
     return items[:PAGE_LIMIT]
 
 def card_images(it):
     urls = []
     page = it.get("url") or it.get("page") or ""
-    # Հին գրառումներ հերթում. url-ում նկարի հղումն է, ոչ քարտի։
     if "/upload/" in page:
         urls.append(page)
         page = ""
@@ -483,10 +447,7 @@ def card_images(it):
     return out
 
 def photo_candidates(it):
-    # Քարտի գլխավոր լուսանկարը (og:image) ցանկի առաջին պիտանին է։
     cands = card_images(it)[:6]
-    # Yerevan City-ն ցուցակում տալիս է «Resize» տարբերակը. կողքին դնում ենք
-    # առանց այդ հատվածի հղումը (լրիվ չափ). եթե չկա՝ 404, ու հաջորդն է գնում։
     out = []
     for u in cands:
         if "/Image/Resize/" in u:
@@ -498,7 +459,6 @@ def photo_candidates(it):
     return out
 
 def card_until(it):
-    """Ակցիայի ժամկետը ապրանքի քարտից (Yerevan City-ն ցուցակում ամսաթիվ չի տալիս)։"""
     page = it.get("url") or it.get("page") or ""
     if not page or "product-details" not in page:
         return ""
@@ -519,10 +479,6 @@ def card_until(it):
     return ""
 
 def best_photo(it, cands=None):
-    """Ապրանքի լուսանկարը՝ ըստ ՉԱՓՍԻ. վերցվում է ամենամեծ լայնություն×բարձրությունը.
-    Ծանրությունը չափանիշ չէ. ծանրը կարող է նկար չլինել, իսկ թեթևը՝ մեծ չափի։
-    Չափը կարդացվում է հենց բայթերից, ու նկար չհանդիսացող թեկնածուները դեն են ընկնում։
-    Քարտի էջի մյուս <img>-երը պահուստ են ու մեծությամբ ընտրելիս հաշվի չեն առնվում։"""
     cands = cands if cands is not None else photo_candidates(it)
     best, best_url, best_d = b"", "", (0, 0)
     for group in (cands[:3], cands[3:]):
@@ -551,10 +507,6 @@ def best_photo(it, cands=None):
     return best, name
 
 def to_jpeg(data):
-    """Լուսանկարը դարձնում է JPEG՝ լրիվ լայնքն ու բարձրությունը պահելով։
-    Ծանրությունը իջնում է, չափսը՝ ոչ. 27 ՄԲ PNG-ի փոխարեն գնում է նույն
-    չափսի JPEG՝ մի քանի հարյուր կիլոբայթով։ Ալֆա-շերտը (PNG RGBA) հանվում է,
-    քանի որ JPEG-ը թափանցիկություն չի պահում։"""
     if Image is None or not data:
         return data
     try:
@@ -580,172 +532,3 @@ def to_jpeg(data):
     print("JPEG՝ %dx%d, %d ԿԲ (որակ %d)" % (im.size[0], im.size[1],
                                             len(out) // 1024, q))
     return out
-
-def send(it):
-    it["title"] = clean_title(it["title"])
-    if not it.get("until"):
-        it["until"] = card_until(it)
-    lines = [it["store"]]
-    # «Նորույթ» տողը դրվում է միայն Սիթիի «Նորույթ» էջի դիրքերի վրա։
-    if it.get("label"):
-        lines.append(it["label"])
-    lines.append(it["title"])
-    if it["old"] > it["new"]:
-        lines.append("%s ֏ → %s ֏ (-%s%%)"
-                     % (money(it["old"]), money(it["new"]), it["pct"]))
-    else:
-        # Նոր ապրանք՝ առանց սկիադկայի. գնում է միայն նոր գինը։
-        lines.append("%s ֏" % money(it["new"]))
-    text = "\n".join(lines)
-    if it["until"]:
-        text += "\nՄինչև %s" % it["until"]
-    cands = photo_candidates(it)
-    if DRY:
-        data, name = best_photo(it, cands)
-        print("[DRY] " + text.replace("\n", " | ") +
-              " | նկար՝ %s (%d ԿԲ)" % (name, len(data) // 1024))
-        return True
-    try:
-        data, _ = best_photo(it, cands)
-    except Exception as e:
-        print("լուսանկարի սխալ: %s" % e)
-        data = b""
-    if data:
-        r = requests.post(API + "sendPhoto",
-                          data={"chat_id": CHANNEL, "caption": text,
-                                "reply_markup": BUTTON},
-                          files={"photo": ("photo.jpg", to_jpeg(data))},
-                          timeout=120)
-        if r.ok and r.json().get("ok"):
-            return True
-        print("Նկարը չգնաց: %s" % r.text[:200])
-    for u in cands[:4]:
-        r = requests.post(API + "sendPhoto",
-                          data={"chat_id": CHANNEL, "photo": u, "caption": text,
-                                "reply_markup": BUTTON}, timeout=60)
-        if r.ok and r.json().get("ok"):
-            return True
-        print("Հղումով նկարը չգնաց (%s): %s" % (u, r.text[:200]))
-    r = requests.post(API + "sendMessage",
-                      data={"chat_id": CHANNEL, "text": text, "reply_markup": BUTTON},
-                      timeout=60)
-    if not (r.ok and r.json().get("ok")):
-        print("Ուղարկելու սխալ: %s" % r.text[:300])
-        return False
-    return True
-
-def publish(st):
-    now = datetime.now(YE)
-    last = st.get("last_publish") or ""
-    if last:
-        try:
-            last = datetime.fromisoformat(last)
-        except ValueError:
-            last = None
-    if not (PUB_FROM <= now.hour < PUB_TO):
-        print("Հրապարակման պատուհանից դուրս (%s)" % now.strftime("%H:%M"))
-        return
-    if last and now - last < timedelta(minutes=STEP_MIN):
-        print("Սլոտը դեռ չի հասել")
-        return
-    names = list(STORES)
-    for i in range(len(names)):
-        idx = (st.get("rr", 0) + i) % len(names)
-        name = names[idx]
-        q = st["queues"].get(name) or []
-        if not q:
-            continue
-        it = q.pop(0)
-        st["queues"][name] = q
-        try:
-            ok = send(it)
-        except Exception as e:
-            print("ուղարկելու բացառություն: %s" % e)
-            ok = False
-        if ok:
-            st["rr"] = (idx + 1) % len(names)
-            st["last_publish"] = now.isoformat()
-        else:
-            q.insert(0, it)
-            st["queues"][name] = q
-        return
-    print("Կայքերում նոր բան չկա. բոլոր հերթերը դատարկ են")
-
-def main():
-    st = load_state()
-    # ՄԻԱՆՎԱԳ վերակայում. հերթը և «տեսածը» զրոյանում են մեկ անգամ,
-    # հետո հերթը նորից լցվում է կայքից՝ կայքի հերթականությամբ։
-    if not st.get("reset_done"):
-        st["queues"] = {s: [] for s in STORES}
-        st["seen"] = {s: [] for s in STORES}
-        st["rr"] = 0
-        st["reset_done"] = True
-        print("Վերակայում. հերթը և տեսածը զրոյացան, նորը կգա կայքից")
-    # ՄԻԱՆՎԱԳ մաքրում. հերթից դուրս են գալիս ծաղիկների բաժնի դիրքերը։
-    if not st.get("flowers_cleaned"):
-        dropped = 0
-        for name in STORES:
-            q = st["queues"].get(name) or []
-            keep = [x for x in q if not is_flower_item(x)]
-            dropped += len(q) - len(keep)
-            st["queues"][name] = keep
-        if dropped:
-            print("Մաքրում. ծաղիկների բաժնից հանվեց %d դիրք" % dropped)
-        st["flowers_cleaned"] = True
-    # ՄԻԱՆՎԱԳ մաքրում. մինչ այս տարբերակը SAS-ի նավիգացիոն հղումները
-    # («0 դր. Զամբյուղում», «Դիտել ամբողջ բաժինը») մտել էին հերթ որպես
-    # ապրանք։ Հանվում են միայն դրանք, մնացածի կարգը չի փոխվում։
-    if not st.get("junk_cleaned"):
-        q = st["queues"].get("SAS") or []
-        good = [x for x in q if re.search(r"/(\d{3,})/?$", x.get("url") or "")]
-        if len(good) != len(q):
-            print("Մաքրում. SAS-ի հերթից հանվեց %d աղբ դիրք" % (len(q) - len(good)))
-        st["queues"]["SAS"] = good
-        st["junk_cleaned"] = True
-    for store, url, label, parser in SOURCES:
-        tag = ("%s / %s" % (store, label)) if label else store
-        items = fetch_all(store, url, parser, tag)        
-        if DRY:
-            for it in items[:5]:
-                if it["old"] > it["new"]:
-                    print("    - %s | %s->%s ֏ (-%s%%) %s"
-                          % (it["title"][:70], it["old"], it["new"],
-                             it["pct"], it["until"]))
-                else:
-                    print("    - %s | %s ֏ %s"
-                          % (it["title"][:70], it["new"], it["until"]))
-
-        seen_set = set(st["seen"].setdefault(store, []))
-        in_queue = set(x.get("key") for x in st["queues"].get(store, []))
-        fresh = []
-        for it in items:
-            k = key(it)
-            it["key"] = k
-            if k in seen_set or legacy_key(it) in seen_set or k in in_queue:
-                continue
-            fresh.append(it)
-        q = st["queues"].setdefault(store, [])
-        # Նորը միշտ մտնում է հերթ։ Երբ 200-ից անցնի, գլխից դուրս են գալիս
-        # ամենահները՝ առանց հրապարակվելու։
-        take = list(fresh)
-        for it in take:
-            # «Տեսած» է դառնում միայն այն, ինչ իրականում մտավ հերթ։
-            seen_set.add(it["key"])
-            st["seen"][store].append(it["key"])
-        q.extend(take)
-        # Առաստաղը լրանալիս գլխից են դուրս գալիս ամենահները, նորը մնում է պոչում։
-        if len(q) > QUEUE_CAP:
-            del q[:len(q) - QUEUE_CAP]
-        if len(st["seen"][store]) > SEEN_KEEP:
-            del st["seen"][store][:-SEEN_KEEP]
-        print("%s: ցուցակում %d, հերթ ընդունվեց %d, հերթում %d, ազատ տեղ %d"
-              % (tag, len(items), len(take), len(q), QUEUE_CAP - len(q)))
-    st["seeded"] = True
-    publish(st)
-    if DRY:
-        print("DRY RUN. վիճակը չպահվեց")
-        return
-    save_state(st)
-
-if __name__ == "__main__":
-    main()
