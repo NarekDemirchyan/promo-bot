@@ -1640,17 +1640,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Արդուկի սեղան «Դ.Հոմ» 138x36սմ ԱյԲ-03",
-    "old": 19990,
-    "new": 12990,
-    "pct": 35,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/167052",
-    "key": "Yerevan City|id:167052|19990|12990"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Հագուստի չորանոց «Վիլեդա» ունիվերսալ 18մ",
     "old": 19750,
     "new": 16991,
@@ -3841,8 +3830,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-20T00:45:32.695762+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-20T01:00:47.000196+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
