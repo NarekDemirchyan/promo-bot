@@ -322,22 +322,14 @@ def city_page(page):
         time.sleep(3 * (t + 1))
     return {}
 
-BAD_PRICE = ("unit", "per", "kg", "gram", "percent", "discount", "quantity",
-             "count", "code", "articul", "barcode", "weight")
-
 def city_prices(it):
-    vals = []
-    for k, v in (it or {}).items():
+    def val(k):
+        v = it.get(k)
         if isinstance(v, bool) or not isinstance(v, (int, float)):
-            continue
-        kl = str(k).lower()
-        if any(b in kl for b in BAD_PRICE):
-            continue
-        if any(w in kl for w in ("price", "cost", "sum", "amount")) and int(v) > 0:
-            vals.append(int(v))
-    if len(set(vals)) < 2:
-        return 0, 0
-    return max(vals), min(vals)
+            return 0
+        return int(round(v))
+    old, new = val("price"), val("discountedPrice")
+    return (old, new) if new > 0 and old > new else (0, 0)
 
 def iso_day(s):
     m = re.match(r"(\d{4})-(\d{2})-(\d{2})", str(s or ""))
