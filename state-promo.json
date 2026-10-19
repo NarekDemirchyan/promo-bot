@@ -1930,17 +1930,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Կարտոֆիլ կտրելու սարք «Բրաբանտիա»",
-    "old": 19150,
-    "new": 10150,
-    "pct": 47,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/174904",
-    "key": "Yerevan City|id:174904|19150|10150"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Ֆուա-գրա «Ռուժի» սագի լյարդից տրյուֆելով 75գր",
     "old": 18990,
     "new": 15990,
@@ -4131,8 +4120,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-20T01:46:10.293352+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-20T02:00:55.323630+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
