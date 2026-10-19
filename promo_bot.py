@@ -532,3 +532,181 @@ def to_jpeg(data):
     print("JPEG՝ %dx%d, %d ԿԲ (որակ %d)" % (im.size[0], im.size[1],
                                             len(out) // 1024, q))
     return out
+def send(it):
+    it["title"] = clean_title(it["title"])
+    if not it.get("until"):
+        it["until"] = card_until(it)
+    text = "%s\n%s\n%s ֏ → %s ֏ (-%s%%)" % (
+        it["store"], it["title"], money(it["old"]), money(it["new"]), it["pct"])
+    if it["until"]:
+        text += "\nՄինչև՝ %s" % it["until"]
+    cands = photo_candidates(it)
+    if DRY:
+        data, name = best_photo(it, cands)
+        print("[DRY] " + text.replace("\n", " | ") +
+              " | նկար՝ %s (%d ԿԲ)" % (name, len(data) // 1024))
+        return True
+    try:
+        data, _ = best_photo(it, cands)
+    except Exception as e:
+        print("լուսանկարի սխալ: %s" % e)
+        data = b""
+    if data:
+        r = requests.post(API + "sendPhoto",
+                          data={"chat_id": CHANNEL, "caption": text,
+                                "reply_markup": BUTTON},
+                          files={"photo": ("photo.jpg", to_jpeg(data))},
+                          timeout=120)
+        if r.ok and r.json().get("ok"):
+            return True
+        print("Նկարը չգնաց: %s" % r.text[:200])
+    for u in cands[:4]:
+        r = requests.post(API + "sendPhoto",
+                          data={"chat_id": CHANNEL, "photo": u, "caption": text,
+                                "reply_markup": BUTTON}, timeout=60)
+        if r.ok and r.json().get("ok"):
+            return True
+        print("Հղումով նկարը չգնաց (%s): %s" % (u, r.text[:200]))
+    r = requests.post(API + "sendMessage",
+                      data={"chat_id": CHANNEL, "text": text, "reply_markup": BUTTON},
+                      timeout=60)
+    if not (r.ok and r.json().get("ok")):
+        print("Ուղարկելու սխալ: %s" % r.text[:300])
+        return False
+    return True
+
+def publish(st):
+    now = datetime.now(YE)
+    last = st.get("last_publish") or ""
+    if last:
+        try:
+            last = datetime.fromisoformat(last)
+        except ValueError:
+            last = None
+    if not (PUB_FROM <= now.hour < PUB_TO):
+        print("Հրապարակման պատուհանից դուրս (%s)" % now.strftime("%H:%M"))
+        return
+    if last and now - last < timedelta(minutes=STEP_MIN):
+        print("Սլոտը դեռ չի հասել")
+        return
+    names = list(STORES)
+    for i in range(len(names)):
+        idx = (st.get("rr", 0) + i) % len(names)
+        name = names[idx]
+        q = st["queues"].get(name) or []
+        if not q:
+            continue
+        it = q.pop(0)
+        st["queues"][name] = q
+        # Ժամկետանց ակցիան չի հրապարակվում. դիրքը հերթից դուրս է գալիս։
+        if it.get("until"):
+            try:
+                dd, mm, yy = [int(x) for x in it["until"].split(".")]
+                if datetime(yy, mm, dd, tzinfo=YE) < now:
+                    print("Ակցիան վերջացել է՝ %s" % it["title"][:40])
+                    continue
+            except Exception:
+                pass
+        try:
+            ok = send(it)
+        except Exception as e:
+            print("ուղարկելու բացառություն: %s" % e)
+            ok = False
+        if ok:
+            st["rr"] = (idx + 1) % len(names)
+            st["last_publish"] = now.isoformat()
+        else:
+            q.insert(0, it)
+            st["queues"][name] = q
+        return
+    print("Կայքերում նոր բան չկա. բոլոր հերթերը դատարկ են")
+def main():
+    st = load_state()
+    # ՄԻԱՆՎԱԳ վերակայում. հերթը և «տեսածը» զրոյանում են մեկ անգամ,
+    # հետո հերթը նորից լցվում է կայքից՝ կայքի հերթականությամբ։
+    if not st.get("reset_done"):
+        st["queues"] = {s: [] for s in STORES}
+        st["seen"] = {s: [] for s in STORES}
+        st["rr"] = 0
+        st["reset_done"] = True
+        print("Վերակայում. հերթը և տեսածը զրոյացան, նորը կգա կայքից")
+    # ՄԻԱՆՎԱԳ մաքրում. հերթից դուրս են գալիս ծաղիկների բաժնի դիրքերը։
+    if not st.get("flowers_cleaned"):
+        dropped = 0
+        for name in STORES:
+            q = st["queues"].get(name) or []
+            keep = [x for x in q if not is_flower_item(x)]
+            dropped += len(q) - len(keep)
+            st["queues"][name] = keep
+        if dropped:
+            print("Մաքրում. ծաղիկների բաժնից հանվեց %d դիրք" % dropped)
+        st["flowers_cleaned"] = True
+    # ՄԻԱՆՎԱԳ մաքրում. մինչ այս տարբերակը SAS-ի նավիգացիոն հղումները
+    # («0 դր. Զամբյուղում», «Դիտել ամբողջ բաժինը») մտել էին հերթ որպես
+    # ապրանք։ Հանվում են միայն դրանք, մնացածի կարգը չի փոխվում։
+    if not st.get("junk_cleaned"):
+        q = st["queues"].get("SAS") or []
+        good = [x for x in q if re.search(r"/(\d{3,})/?$", x.get("url") or "")]
+        if len(good) != len(q):
+            print("Մաքրում. SAS-ի հերթից հանվեց %d աղբ դիրք" % (len(q) - len(good)))
+        st["queues"]["SAS"] = good
+        st["junk_cleaned"] = True
+    # ՄԻԱՆՎԱԳ մաքրում. City-ի բանալին փոխվեց (id + գնային զույգ), ուստի
+    # հին բանալիներով «տեսածը» նորերի հետ չի համընկնի. City-ն սկսում է մաքուր։
+    if not st.get("city_key_migrated"):
+        st["queues"]["Yerevan City"] = []
+        st["seen"]["Yerevan City"] = []
+        st["city_page"] = 1
+        st["city_key_migrated"] = True
+        print("City: հերթն ու տեսածը զրոյացան՝ նոր բանալու անցնելու համար")
+    for store, url in STORES.items():
+        pc = 0
+        if store == "Yerevan City":
+            p = int(st.get("city_page") or 1)
+            d = city_page(p)
+            items = parse_city_api(d)
+            pc = int(d.get("pageCount") or 0)
+            print("Yerevan City: API էջ %d/%s՝ %d դիրք" % (p, pc or "?", len(items)))
+            if DRY and (d.get("list") or []):
+                print("    [debug] դաշտերը՝ %s" % sorted(d["list"][0].keys()))
+                print("    [debug] առաջինը՝ %s"
+                      % json.dumps(d["list"][0], ensure_ascii=False)[:600])
+        else:
+            items = fetch_all(store, url)
+        if DRY:
+            for it in items[:5]:
+                print("    - %s | %s->%s ֏ (-%s%%) %s"
+                      % (it["title"][:70], it["old"], it["new"], it["pct"], it["until"]))
+        seen_set = set(st["seen"].setdefault(store, []))
+        in_queue = set(x.get("key") for x in st["queues"].get(store, []))
+        fresh = []
+        for it in items:
+            k = key(it)
+            it["key"] = k
+            if k in seen_set or legacy_key(it) in seen_set or k in in_queue:
+                continue
+            fresh.append(it)
+        q = st["queues"].setdefault(store, [])
+        # «Մեկը գնաց, մեկը եկավ». նորը վերցվում է ազատ տեղի չափով, ուստի
+        # ոչինչ առանց հրապարակվելու դուրս չի ընկնում։
+        room = QUEUE_CAP - len(q)
+        take = fresh[:room] if room > 0 else []
+        for it in take:
+            seen_set.add(it["key"])
+            st["seen"][store].append(it["key"])
+        q.extend(take)
+        if store == "Yerevan City" and pc and len(take) == len(fresh):
+            st["city_page"] = p % pc + 1
+        if len(st["seen"][store]) > SEEN_KEEP:
+            del st["seen"][store][:-SEEN_KEEP]
+        print("%s: ցուցակում %d, հերթ ընդունվեց %d, հերթում %d, ազատ տեղ %d"
+              % (store, len(items), len(take), len(q), QUEUE_CAP - len(q)))
+    st["seeded"] = True
+    publish(st)
+    if DRY:
+        print("DRY RUN. վիճակը չպահվեց")
+        return
+    save_state(st)
+
+if __name__ == "__main__":
+    main()
