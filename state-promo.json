@@ -1756,17 +1756,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Դույլ+հատակմաքրիչ «Վիլեդա» Ուլտրամաքս 2-ը 1-ում",
-    "old": 25940,
-    "new": 13891,
-    "pct": 46,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/93426",
-    "key": "Yerevan City|id:93426|25940|13891"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Տիկնիկ 8803Ա-47",
     "old": 24990,
     "new": 14989,
@@ -3957,8 +3946,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-19T19:15:32.635851+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-19T19:30:42.736254+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
