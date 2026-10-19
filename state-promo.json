@@ -259,17 +259,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Թեյ սև «Tess Blueberry Tart» 20*1.8գ",
-    "old": 890,
-    "new": 590,
-    "pct": 34,
-    "until": "28.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/273/266/266659123331446.webp",
-    "url": "https://www.sas.am/catalog/v_paketakh/944372/",
-    "key": "SAS|id:944372"
-   },
-   {
-    "store": "SAS",
     "title": "Կաթնային միջուկով թխվածքաբլիթ դեղձի և մարակույայի «Kinder Персик Маракуйя» 28գ",
     "old": 390,
     "new": 350,
@@ -1497,8 +1486,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-19T08:45:51.845386+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-19T09:00:45.794696+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
