@@ -259,17 +259,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Մակարոն «Barilla Fusilli № 98» 500գ",
-    "old": 880,
-    "new": 730,
-    "pct": 17,
-    "until": "10.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/278/694/694501719430795.webp",
-    "url": "https://www.sas.am/catalog/makaronyy/3273/",
-    "key": "SAS|id:3273"
-   },
-   {
-    "store": "SAS",
     "title": "Թեյ կանաչ «Tess Pina Colada» 20*1.8գ",
     "old": 890,
     "new": 590,
@@ -1543,8 +1532,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-19T07:45:33.734915+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-19T08:01:08.277027+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
