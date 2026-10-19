@@ -647,11 +647,11 @@ def main():
         st["junk_cleaned"] = True
     # ՄԻԱՆՎԱԳ մաքրում. City-ի բանալին փոխվեց (id + գնային զույգ), ուստի
     # հին բանալիներով «տեսածը» նորերի հետ չի համընկնի. City-ն սկսում է մաքուր։
-    if not st.get("city_key_migrated"):
+    if not st.get("city_price_migrated"):
         st["queues"]["Yerevan City"] = []
         st["seen"]["Yerevan City"] = []
         st["city_page"] = 1
-        st["city_key_migrated"] = True
+        st["city_price_migrated"] = True
 
         print("City: հերթն ու տեսածը զրոյացան՝ նոր բանալու անցնելու համար")
     for store, url in STORES.items():
