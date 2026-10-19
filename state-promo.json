@@ -448,7 +448,8 @@
    "Yerevan City|id:131803|6350|5990",
    "Yerevan City|id:173425|6390|5850",
    "Yerevan City|id:11679|6330|5610",
-   "Yerevan City|id:179207|6300|5540"
+   "Yerevan City|id:179207|6300|5540",
+   "Yerevan City|id:56913|6290|3220"
   ]
  },
  "queues": {
@@ -3826,6 +3827,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172915.png",
     "url": "https://yerevan-city.am/shop/product-details/179207",
     "key": "Yerevan City|id:179207|6300|5540"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շոկոլադե սալիկ «Լինդ» կաթնային շոկոլադ 300գր",
+    "old": 6290,
+    "new": 3220,
+    "pct": 49,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1058924.png",
+    "url": "https://yerevan-city.am/shop/product-details/56913",
+    "key": "Yerevan City|id:56913|6290|3220"
    }
   ]
  },
