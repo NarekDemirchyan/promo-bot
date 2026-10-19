@@ -259,17 +259,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Գինի կարմիր «Le Grand Noir Cabernet Sauvignon» 0.75լ",
-    "old": 5240,
-    "new": 4950,
-    "pct": 6,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/379/186/1864792179698145.webp",
-    "url": "https://www.sas.am/catalog/import_vino/385898/",
-    "key": "SAS|id:385898"
-   },
-   {
-    "store": "SAS",
     "title": "Անձեռոցիկ խոնավ հակաբակտերիալ «Compact Golf» 100 հատ",
     "old": 990,
     "new": 760,
@@ -1352,7 +1341,7 @@
  },
  "seeded": true,
  "rr": 1,
- "last_publish": "2026-10-19T12:00:51.656812+04:00",
+ "last_publish": "2026-10-19T12:15:36.374005+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
