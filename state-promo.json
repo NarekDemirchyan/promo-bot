@@ -259,17 +259,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Ըմպելիք խնձորի և հապալասի «Zuegg Mirtillo Mix Zero» 1000մլ",
-    "old": 1520,
-    "new": 1350,
-    "pct": 11,
-    "until": "10.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/205/099/0999242830984361.webp",
-    "url": "https://www.sas.am/catalog/sok/874216/",
-    "key": "SAS|id:874216"
-   },
-   {
-    "store": "SAS",
     "title": "Ռետինե ձեռնոցներ «Фрекен Бок» L",
     "old": 650,
     "new": 550,
@@ -1440,7 +1429,7 @@
  },
  "seeded": true,
  "rr": 1,
- "last_publish": "2026-10-19T10:00:57.107062+04:00",
+ "last_publish": "2026-10-19T10:15:30.240876+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
