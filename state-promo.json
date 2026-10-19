@@ -456,18 +456,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Լոգանքի կրեմ-գել «Nivea Free Time» 250մլ",
-    "old": 1560,
-    "new": 1320,
-    "pct": 15,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/231/621/621324529998726.webp",
-    "url": "https://www.sas.am/catalog/showergell/88265/",
-    "label": "",
-    "key": "SAS|id:88265"
-   },
-   {
-    "store": "SAS",
     "title": "Խավիար սմբուկի կծու «Արտֆուդ» 360գ",
     "old": 890,
     "new": 790,
@@ -3842,8 +3830,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-20T01:00:47.000196+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-20T01:15:27.909924+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
