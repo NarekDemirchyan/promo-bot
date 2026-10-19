@@ -479,23 +479,12 @@
    "Yerevan City|id:33905|6290|3220",
    "Yerevan City|id:192619|6290|4390",
    "Yerevan City|id:175840|6290|4390",
-   "Yerevan City|id:8822|6250|4790"
+   "Yerevan City|id:8822|6250|4790",
+   "Yerevan City|id:174587|6250|5390"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Բալզամ «Elseve Длина Мечты» 300մլ",
-    "old": 2650,
-    "new": 2370,
-    "pct": 11,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/322/406/4062172869080420.webp",
-    "url": "https://www.sas.am/catalog/balzam_dlya_volos/952948/",
-    "label": "",
-    "key": "SAS|id:952948"
-   },
    {
     "store": "SAS",
     "title": "Մազերի դիմակ «Elseve Роскошь 6 Mасел» 300մլ",
@@ -4083,12 +4072,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1038923.png",
     "url": "https://yerevan-city.am/shop/product-details/8822",
     "key": "Yerevan City|id:8822|6250|4790"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գինի «Ակում» Մալբեկ, կարմիր չոր 0.75լ",
+    "old": 6250,
+    "new": 5390,
+    "pct": 14,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168189.png",
+    "url": "https://yerevan-city.am/shop/product-details/174587",
+    "key": "Yerevan City|id:174587|6250|5390"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-20T03:30:34.593541+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-20T03:45:32.178467+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
