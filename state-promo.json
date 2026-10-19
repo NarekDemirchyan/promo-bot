@@ -259,17 +259,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Շոկոլադե սալիկ նուշով «Lindt» 300գ",
-    "old": 5590,
-    "new": 3790,
-    "pct": 32,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/207/386/386674517188567.webp",
-    "url": "https://www.sas.am/catalog/plitka/206202/",
-    "key": "SAS|id:206202"
-   },
-   {
-    "store": "SAS",
     "title": "Չորահաց-բրուսկետտա պանրի «Maretti» 70գ",
     "old": 550,
     "new": 440,
@@ -1308,7 +1297,7 @@
  },
  "seeded": true,
  "rr": 1,
- "last_publish": "2026-10-19T13:01:14.111209+04:00",
+ "last_publish": "2026-10-19T13:15:32.061286+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
