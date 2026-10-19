@@ -259,17 +259,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Չորահաց-բրուսկետտա պանրի «Maretti» 70գ",
-    "old": 550,
-    "new": 440,
-    "pct": 20,
-    "until": "29.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/353/164/1645362265809889.webp",
-    "url": "https://www.sas.am/catalog/chipsy/177832/",
-    "key": "SAS|id:177832"
-   },
-   {
-    "store": "SAS",
     "title": "Սափրող սարք «Wilkinson Xtreme 3» 1 հատ",
     "old": 790,
     "new": 550,
@@ -1297,7 +1286,7 @@
  },
  "seeded": true,
  "rr": 1,
- "last_publish": "2026-10-19T13:15:32.061286+04:00",
+ "last_publish": "2026-10-19T13:30:40.026000+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
