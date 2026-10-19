@@ -439,22 +439,12 @@
    "Yerevan City|id:93611|6990|3990",
    "Yerevan City|id:28784|6990|1490",
    "Yerevan City|id:177192|6490|3890",
-   "Yerevan City|id:105349|6490|3990"
+   "Yerevan City|id:105349|6490|3990",
+   "Yerevan City|id:177191|6490|3890"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Յոգուրտ ելակով «Epica» 130գ, յուղայնությունը` 4.8",
-    "old": 500,
-    "new": 450,
-    "pct": 10,
-    "until": "28.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/222/630/6302194124066389.webp",
-    "url": "https://www.sas.am/catalog/yogurt_puding/59284/",
-    "key": "SAS|id:59284"
-   },
    {
     "store": "SAS",
     "title": "Յոգուրտ արքայախնձորի «Epica» 130գ, յուղայնությունը` 4.8",
@@ -3922,12 +3912,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1138706.png",
     "url": "https://yerevan-city.am/shop/product-details/105349",
     "key": "Yerevan City|id:105349|6490|3990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տիկնիկ աքսեսուարներով Բեյբի սու լովելը 262-3",
+    "old": 6490,
+    "new": 3890,
+    "pct": 40,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170834.png",
+    "url": "https://yerevan-city.am/shop/product-details/177191",
+    "key": "Yerevan City|id:177191|6490|3890"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-19T20:30:36.896093+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-19T20:45:31.062701+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
