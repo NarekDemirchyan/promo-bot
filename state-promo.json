@@ -192,17 +192,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Թղթե սրբիչ «Selpak» 3հատ",
-    "old": 1670,
-    "new": 1460,
-    "pct": 13,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/230/215/2151361898915276.webp",
-    "url": "https://www.sas.am/catalog/bum_polotentsa/140534/",
-    "key": "SAS|id:140534"
-   },
-   {
-    "store": "SAS",
     "title": "Սուրճ հատիկավոր «Lavazza Qualita Oro» 500գ",
     "old": 11950,
     "new": 10450,
@@ -764,8 +753,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-19T05:31:06.291184+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-19T05:45:30.810044+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
