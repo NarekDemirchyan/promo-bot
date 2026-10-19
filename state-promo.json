@@ -442,23 +442,12 @@
    "Yerevan City|id:105349|6490|3990",
    "Yerevan City|id:177191|6490|3890",
    "Yerevan City|id:177190|6490|3890",
-   "Yerevan City|id:170541|6490|3990"
+   "Yerevan City|id:170541|6490|3990",
+   "Yerevan City|id:172553|6390|6050"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Եգիպտացորենի ձողիկներ շոկոլադի համով «Դարոյնք» 300գ",
-    "old": 760,
-    "new": 590,
-    "pct": 22,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/350/558/558677467773192.webp",
-    "url": "https://www.sas.am/catalog/popkorn2/915128/",
-    "label": "",
-    "key": "SAS|id:915128"
-   },
    {
     "store": "SAS",
     "title": "Անձեռոցիկ սպունգանման «Vileda» 3հատ",
@@ -3892,12 +3881,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1164257.png",
     "url": "https://yerevan-city.am/shop/product-details/170541",
     "key": "Yerevan City|id:170541|6490|3990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կոնյակ «Օրրան» 7տ (տուփով) 0.5լ",
+    "old": 6390,
+    "new": 6050,
+    "pct": 5,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1165841.png",
+    "url": "https://yerevan-city.am/shop/product-details/172553",
+    "key": "Yerevan City|id:172553|6390|6050"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-19T22:00:48.609654+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-19T22:15:44.269341+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
@@ -3906,7 +3906,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 7,
+ "city_page": 8,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
