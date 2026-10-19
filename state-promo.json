@@ -1651,17 +1651,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Փափուկ խաղալիք «Արջուկ» վերնազգեստով 70սմ",
-    "old": 19990,
-    "new": 9995,
-    "pct": 50,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/179400",
-    "key": "Yerevan City|id:179400|19990|9995"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Արդուկի սեղան «Դ.Հոմ» 138x36սմ ԱյԲ-03",
     "old": 19990,
     "new": 12990,
@@ -3852,8 +3841,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-20T00:15:30.638831+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-20T00:30:36.915404+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
