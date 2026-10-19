@@ -259,17 +259,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Գինի կարմիր «Կարաս Արենի» 0.75լ",
-    "old": 6330,
-    "new": 5790,
-    "pct": 9,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/626/680/680793933827008.webp",
-    "url": "https://www.sas.am/catalog/armyanskoe_vino/304204/",
-    "key": "SAS|id:304204"
-   },
-   {
-    "store": "SAS",
     "title": "Հյութ բալի «Rauch Bravo» 1լ",
     "old": 1100,
     "new": 890,
@@ -1330,7 +1319,7 @@
  },
  "seeded": true,
  "rr": 1,
- "last_publish": "2026-10-19T12:30:48.353919+04:00",
+ "last_publish": "2026-10-19T12:45:36.330643+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
