@@ -652,6 +652,7 @@ def main():
         st["seen"]["Yerevan City"] = []
         st["city_page"] = 1
         st["city_key_migrated"] = True
+
         print("City: հերթն ու տեսածը զրոյացան՝ նոր բանալու անցնելու համար")
     for store, url in STORES.items():
         pc = 0
