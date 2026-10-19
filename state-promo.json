@@ -259,17 +259,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Գարեջուր «Балтика №9» 0.45լ",
-    "old": 750,
-    "new": 540,
-    "pct": 28,
-    "until": "28.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/305/828/8283643520596342.webp",
-    "url": "https://www.sas.am/catalog/importnoe_pivo/135777/",
-    "key": "SAS|id:135777"
-   },
-   {
-    "store": "SAS",
     "title": "Գարեջուր «Lowenbrau Original» 0.5լ",
     "old": 690,
     "new": 630,
@@ -1253,7 +1242,7 @@
  },
  "seeded": true,
  "rr": 1,
- "last_publish": "2026-10-19T14:15:41.548762+04:00",
+ "last_publish": "2026-10-19T14:30:45.520500+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
