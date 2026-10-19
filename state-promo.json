@@ -259,17 +259,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Շոկոլադե-ընկուզային մածուկ «Nutella» 630գ",
-    "old": 4970,
-    "new": 4360,
-    "pct": 12,
-    "until": "02.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/389/649/649565267731514.webp",
-    "url": "https://www.sas.am/catalog/krem/130574/",
-    "key": "SAS|id:130574"
-   },
-   {
-    "store": "SAS",
     "title": "Ձեթ ձիթապտղի «Luglio Pomace» 0.5լ",
     "old": 3350,
     "new": 2350,
@@ -1220,7 +1209,7 @@
  },
  "seeded": true,
  "rr": 1,
- "last_publish": "2026-10-19T15:01:05.721091+04:00",
+ "last_publish": "2026-10-19T15:15:50.140816+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
