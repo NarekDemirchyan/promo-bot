@@ -259,17 +259,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Անձեռոցիկ խոնավ հակաբակտերիալ «Compact Golf» 100 հատ",
-    "old": 990,
-    "new": 760,
-    "pct": 23,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/411/353/3533811907556836.webp",
-    "url": "https://www.sas.am/catalog/vetwip_es/322149/",
-    "key": "SAS|id:322149"
-   },
-   {
-    "store": "SAS",
     "title": "Գինի կարմիր «Կարաս Արենի» 0.75լ",
     "old": 6330,
     "new": 5790,
@@ -1341,7 +1330,7 @@
  },
  "seeded": true,
  "rr": 1,
- "last_publish": "2026-10-19T12:15:36.374005+04:00",
+ "last_publish": "2026-10-19T12:30:48.353919+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
