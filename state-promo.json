@@ -444,23 +444,12 @@
    "Yerevan City|id:177190|6490|3890",
    "Yerevan City|id:170541|6490|3990",
    "Yerevan City|id:172553|6390|6050",
-   "Yerevan City|id:179206|6370|5610"
+   "Yerevan City|id:179206|6370|5610",
+   "Yerevan City|id:131803|6350|5990"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ամենօրյա միջադիրներ «Libresse Natural Care Normal» 20հատ",
-    "old": 790,
-    "new": 540,
-    "pct": 32,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/328/745/7451233775936085.webp",
-    "url": "https://www.sas.am/catalog/dlya_intimnoy_gigieny2/145233/",
-    "label": "",
-    "key": "SAS|id:145233"
-   },
    {
     "store": "SAS",
     "title": "Թղթե սրբիչ «Zewa Premium decor» 2 հատ",
@@ -3870,12 +3859,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172914.png",
     "url": "https://yerevan-city.am/shop/product-details/179206",
     "key": "Yerevan City|id:179206|6370|5610"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կոնյակ «Վի Ընդ Էմ» 5տ (տուփով) 0.5լ",
+    "old": 6350,
+    "new": 5990,
+    "pct": 6,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1151337.png",
+    "url": "https://yerevan-city.am/shop/product-details/131803",
+    "key": "Yerevan City|id:131803|6350|5990"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-19T23:00:46.984837+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-19T23:15:28.359106+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
