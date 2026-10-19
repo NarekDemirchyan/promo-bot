@@ -259,17 +259,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Գինի սպիտակ «Կարաս» 0.75լ",
-    "old": 6330,
-    "new": 5790,
-    "pct": 9,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/313/537/5374472220681522.webp",
-    "url": "https://www.sas.am/catalog/armyanskoe_vino/607570/",
-    "key": "SAS|id:607570"
-   },
-   {
-    "store": "SAS",
     "title": "Լվացքի կոնդիցիոներ «Vernel Max Свежесть Лаванды» 960մլ",
     "old": 2250,
     "new": 2050,
@@ -1396,7 +1385,7 @@
  },
  "seeded": true,
  "rr": 1,
- "last_publish": "2026-10-19T11:00:50.020454+04:00",
+ "last_publish": "2026-10-19T11:16:03.029288+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
