@@ -1,3 +1,12 @@
+Երկուսն էլ ուղղվում են։
+
+Սև ֆոնը. City-ի նկարները թափանցիկ ֆոնով PNG են, իսկ Telegram-ը (ու JPEG-ը) թափանցիկությունը դատարկ է թողնում, որ մութ թեմայում սև երևա։ Հիմա նկարը սեղմելուց առաջ դրվում է սպիտակ ֆոնի վրա, ու բոլոր City-ի նկարները կերևան սպիտակ ֆոնով։
+
+Բացատների բացակայությունը. անունը գալիս է սոսնձված կետադրությամբ («…հատիկավոր«Տ.Լամբորգինի»Էսպրեսո,կարմիր 1կգ»), ու ցուցադրման ժամանակ բացատ չի մնում։ Հիմա անունը մաքրելու քայլը միջակայք է դնում «…» չակերտների շուրջ ու ստորակետից հետո, երբ դրանից հետո տառ է գալիս՝ «Տ.Լամբորգինի» ու «0.5լ» ինչպիսիք ձեռք չեն տրվում։
+
+Ամբողջ ֆայլը՝
+
+
 # -*- coding: utf-8 -*-
 """Supermarket promo bot: SAS, Yerevan City -> Telegram channel.
 
@@ -11,10 +20,11 @@
  7. Մեկ հատի գինը չի մտնում որպես նոր գին։
  8. SAS-ի քարտը ճանաչվում է ցուցակի մարկերով։
  9. Ամեն էջի համար 3 փորձ՝ աճող դադարով։
-10. Ակցիայի ժամկետը՝ City-ի ապրանքի էջից ընթերցիչով (էջը JS-ով է հավաքվում,
-    ուղիղ հարցումը տողը չի բերում), SAS-ինը՝ ցուցակից։
+10. Ակցիայի ժամկետը՝ City-ի ապրանքի էջից, SAS-ինը՝ ցուցակից։
 11. Ժամկետը լրացած ակցիան չի հրապարակվում՝ դեն է նետվում հերթից։
 12. Մակագրությունը HTML է՝ հին գինը ջնջված, նորը՝ իր կողքին։
+13. Թափանցիկ PNG-ն սպիտակ ֆոնի վրա է դրվում, որ սև չերևա։
+14. Սոսնձված կետադրությունը բացատով բաժանվում է։
 """
 import io
 import json
@@ -97,6 +107,7 @@ CITY_LINK = re.compile(
 CITY_PRICE = re.compile(
     r"~~\s*([\d][\d\s,\.]{0,14}?)\s*(?:֏|\bnull\b)?\s*~~\s*([\d][\d\s,\.]{0,14})", re.S)
 NAME = re.compile(r"[Ա-Ֆա-ֆև]|[А-Яа-яЁё]")
+LETTER = "[Ա-Ֆա-ֆևA-Za-zА-Яа-яЁё]"
 RU_LABEL = re.compile(r"^\s*(Скидка|Эксклюзив|Акция|Суперцена|Sale)\s*[:.\-]?\s*", re.I)
 PCT_HEAD = re.compile(r"^\s*[-–—+%]*\s*\d{1,3}\s*%?\s*")
 ARTIC = re.compile(r"\s+\d{4,}$")
@@ -197,9 +208,20 @@ def img_in(chunk):
             return u
     return ""
 
+def space_punct(t):
+    """Սոսնձված կետադրությունը բացատով բաժանում է.
+    «հատիկավոր«Տ.Լամբորգինի»Էսպրեսո,կարմիր 1կգ» -> «հատիկավոր «Տ.Լամբորգինի» Էսպրեսո, կարմիր 1կգ»։
+    «Տ.Լամբորգինի» ու «0.5լ» ձեռք չեն տրվում. կետերի շուրջ բացատ չի դրվում։
+    """
+    t = re.sub(r"\s*«", " «", t)
+    t = re.sub(r"»\s*", "» ", t)
+    t = re.sub(r",(?=" + LETTER + ")", ", ", t)
+    t = SPACES.sub(" ", t)
+    return t.strip(" -|,")
+
 def clean_title(t):
     t = re.sub(r"~~.*$", "", t or "", flags=re.S)
-    t = re.sub(r"\s+", " ", t.replace("\\", " ")).strip(" -|")
+    t = SPACES.sub(" ", t.replace("\\", " ")).strip(" -|")
     for _ in range(3):
         before = t
         t = IMG_PREFIX.sub("", t).strip(" -|")
@@ -207,7 +229,7 @@ def clean_title(t):
         t = RU_LABEL.sub("", t).strip(" -|")
         if t == before:
             break
-    return ARTIC.sub("", t).strip(" -|")
+    return space_punct(ARTIC.sub("", t).strip(" -|"))
 
 def make(store, title, old, new, until, img, url=""):
     title = clean_title(title)
@@ -453,8 +475,7 @@ def card_until(it):
 
     Էջում տողը՝ «Գինը գործում է 05 Հոկտեմբեր 2026 -ից 30 Նոյեմբեր 2026»,
     վերցվում է ԵՐԿՐՈՐԴ ամսաթիվը։ Ամսաթվի մասերը էջում առանձին բլոկներով են
-    (05 | Հոկտեմբեր | 2026), այդ պատճառով նախ պատիչները հանվում են, որ թվի ու
-    ամսվա անվան միջև այլ բան չընկնի։
+    (05 | Հոկտեմբեր | 2026), այդ պատճառով նախ պատիչները հանվում են։
     """
     page = it.get("url") or it.get("page") or ""
     if not page or "product-details" not in page:
@@ -542,7 +563,14 @@ def to_jpeg(data):
     except Exception as e:
         print("JPEG չդարձավ՝ %s" % e)
         return data
-    if im.mode not in ("RGB", "L"):
+    # Թափանցիկ ֆոնը (City-ի նկարները PNG են) նախ դրվում է սպիտակի վրա,
+    # այլապես Telegram-ի մութ թեմայում այն սև կերևա։
+    if im.mode in ("RGBA", "LA") or (im.mode == "P" and "transparency" in im.info):
+        im = im.convert("RGBA")
+        bg = Image.new("RGB", im.size, (255, 255, 255))
+        bg.paste(im, mask=im.split()[-1])
+        im = bg
+    elif im.mode != "RGB":
         im = im.convert("RGB")
     w, h = im.size
     if w + h > PHOTO_MAX_SIDE:
@@ -705,7 +733,7 @@ def main():
             if DRY and (d.get("list") or []):
                 print("    [debug] դաշտերը՝ %s" % sorted(d["list"][0].keys()))
                 print("    [debug] առաջինը՝ %s"
-                      % json.dumps(d["list"][0], ensure_ascii=False)[:600])
+% json.dumps(d["list"][0], ensure_ascii=False)[:600])
         else:
             items = fetch_all(store, url)
         if DRY:
