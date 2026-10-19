@@ -259,17 +259,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Չիպս լավաշից կծու \"Fitness Cook\" 130գ±4գ",
-    "old": 570,
-    "new": 430,
-    "pct": 25,
-    "until": "22.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/411/509/5095242672860433.webp",
-    "url": "https://www.sas.am/catalog/khlebtsy/920992/",
-    "key": "SAS|id:920992"
-   },
-   {
-    "store": "SAS",
     "title": "Ըմպելիք խնձորի և հապալասի «Zuegg Mirtillo Mix Zero» 1000մլ",
     "old": 1520,
     "new": 1350,
@@ -1450,8 +1439,8 @@
   "Yerevan City": []
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-19T09:45:31.648680+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-19T10:00:57.107062+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
