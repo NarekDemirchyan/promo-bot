@@ -436,22 +436,12 @@
    "Yerevan City|id:169762|6690|3850",
    "Yerevan City|id:3145|6590|2450",
    "Yerevan City|id:12090|6490|1990",
-   "Yerevan City|id:93611|6990|3990"
+   "Yerevan City|id:93611|6990|3990",
+   "Yerevan City|id:28784|6990|1490"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Զուգագուլպա մարմնագույն «Conte Elegant Solo 15 Den N4»",
-    "old": 1320,
-    "new": 1150,
-    "pct": 13,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/304/824/8248423699933240.webp",
-    "url": "https://www.sas.am/catalog/kolgotki_noski_golfy/68872/",
-    "key": "SAS|id:68872"
-   },
    {
     "store": "SAS",
     "title": "Յոգուրտ նռով և ազնվամորիով «Epica» 130գ, յուղայնությունը՝ 4.8",
@@ -3952,12 +3942,23 @@
     "img": "",
     "url": "https://yerevan-city.am/shop/product-details/93611",
     "key": "Yerevan City|id:93611|6990|3990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սև պղպեղ խոշոր աղացած կգ",
+    "old": 6990,
+    "new": 1490,
+    "pct": 79,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1080809.png",
+    "url": "https://yerevan-city.am/shop/product-details/28784",
+    "key": "Yerevan City|id:28784|6990|1490"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-19T19:00:48.721282+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-19T19:15:32.635851+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
