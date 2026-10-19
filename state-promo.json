@@ -259,17 +259,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Լվացքի փոշի գունավոր «Persil Deep Clean» 1.5կգ",
-    "old": 2250,
-    "new": 2050,
-    "pct": 9,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/236/262/2629041616595396.webp",
-    "url": "https://www.sas.am/catalog/stiralnyy_poroshok/143035/",
-    "key": "SAS|id:143035"
-   },
-   {
-    "store": "SAS",
     "title": "Գարեջուր «Балтика №9» 0.45լ",
     "old": 750,
     "new": 540,
@@ -1264,7 +1253,7 @@
  },
  "seeded": true,
  "rr": 1,
- "last_publish": "2026-10-19T14:00:50.561062+04:00",
+ "last_publish": "2026-10-19T14:15:41.548762+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
