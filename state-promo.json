@@ -192,17 +192,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Անձեռոցիկ «Պապիրուս» 200 հատ",
-    "old": 610,
-    "new": 520,
-    "pct": 15,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/507/446/4463933508427409.webp",
-    "url": "https://www.sas.am/catalog/salfetki/153415/",
-    "key": "SAS|id:153415"
-   },
-   {
-    "store": "SAS",
     "title": "Թղթե սրբիչ «Selpak» 3հատ",
     "old": 1670,
     "new": 1460,
@@ -787,8 +776,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-19T05:01:19.126453+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-19T05:15:34.965175+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
