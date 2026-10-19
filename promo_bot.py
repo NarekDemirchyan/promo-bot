@@ -228,6 +228,8 @@ def make(store, title, old, new, until, img, url=""):
             "pct": pct, "until": until or "", "img": img or "", "url": url or ""}
 def parse_sas(md):
     cards = list(SAS_CARD.finditer(md))
+    if not cards and DRY:
+        print("SAS debug: %s" % md[:300].replace("\n", " | "))
     if not cards:
         return parse_sas_links(md)
     out, flowers = [], 0
