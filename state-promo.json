@@ -441,22 +441,12 @@
    "Yerevan City|id:177192|6490|3890",
    "Yerevan City|id:105349|6490|3990",
    "Yerevan City|id:177191|6490|3890",
-   "Yerevan City|id:177190|6490|3890"
+   "Yerevan City|id:177190|6490|3890",
+   "Yerevan City|id:170541|6490|3990"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Յոգուրտ դասական «Epica» 130գ, յուղայնությունը՝ 6",
-    "old": 500,
-    "new": 450,
-    "pct": 10,
-    "until": "28.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/422/518/5181593091505687.webp",
-    "url": "https://www.sas.am/catalog/yogurt_puding/59281/",
-    "key": "SAS|id:59281"
-   },
    {
     "store": "SAS",
     "title": "Եգիպտացորենի ձողիկներ շոկոլադի համով «Դարոյնք» 300գ",
@@ -3902,12 +3892,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170833.png",
     "url": "https://yerevan-city.am/shop/product-details/177190",
     "key": "Yerevan City|id:177190|6490|3890"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Պայուսակ ձկնորսության համար 40սմ",
+    "old": 6490,
+    "new": 3990,
+    "pct": 39,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1164257.png",
+    "url": "https://yerevan-city.am/shop/product-details/170541",
+    "key": "Yerevan City|id:170541|6490|3990"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-19T21:30:43.935619+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-19T21:45:33.585055+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
