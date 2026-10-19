@@ -230,7 +230,33 @@
    "SAS|id:883328|500|450",
    "SAS|id:134098|1090|980",
    "SAS|id:25341|1350|1170",
-   "SAS|id:59284|500|450"
+   "SAS|id:59284|500|450",
+   "SAS|id:3381|2190|1850",
+   "SAS|id:114494|990|870",
+   "SAS|id:940121|2250|2050",
+   "SAS|id:31577|990|890",
+   "SAS|id:786694|690|430",
+   "SAS|id:676462|1350|1160",
+   "SAS|id:442429|1390|1140",
+   "SAS|id:355226|990|560",
+   "SAS|id:322149|990|760",
+   "SAS|id:59281|500|450",
+   "SAS|id:3067|8550|6990",
+   "SAS|id:952949|2650|2370",
+   "SAS|id:952948|2650|2370",
+   "SAS|id:952947|3950|3560",
+   "SAS|id:952939|2650|2370",
+   "SAS|id:952676|2150|1450",
+   "SAS|id:952675|2150|1450",
+   "SAS|id:952674|2150|1450",
+   "SAS|id:951780|3150|2490",
+   "SAS|id:950887|2390|2130",
+   "SAS|id:950886|2390|2130",
+   "SAS|id:950885|2390|2130",
+   "SAS|id:950881|2390|2130",
+   "SAS|id:950880|2390|2130",
+   "SAS|id:950879|2390|2130",
+   "SAS|id:950878|2390|2130"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -449,23 +475,12 @@
    "Yerevan City|id:173425|6390|5850",
    "Yerevan City|id:11679|6330|5610",
    "Yerevan City|id:179207|6300|5540",
-   "Yerevan City|id:56913|6290|3220"
+   "Yerevan City|id:56913|6290|3220",
+   "Yerevan City|id:33905|6290|3220"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Խավիար սմբուկի կծու «Արտֆուդ» 360գ",
-    "old": 890,
-    "new": 790,
-    "pct": 11,
-    "until": "28.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/177/846/8467183274436155.webp",
-    "url": "https://www.sas.am/catalog/baklazhan/58340/",
-    "label": "",
-    "key": "SAS|id:58340"
-   },
    {
     "store": "SAS",
     "title": "Էլեկտրական մարտկոց «Eveready Super Heavy Duty AA» 4հատ",
@@ -1624,6 +1639,292 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/222/630/6302194124066389.webp",
     "url": "https://www.sas.am/catalog/yogurt_puding/59284/",
     "key": "SAS|id:59284|500|450"
+   },
+   {
+    "store": "SAS",
+    "title": "Կարագ սերուցքային «President» 200գ, յուղայնությունը` 82",
+    "old": 2190,
+    "new": 1850,
+    "pct": 16,
+    "until": "28.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/777/313/3139903097890638.webp",
+    "url": "https://www.sas.am/catalog/slivochnoe_maslo/3381/",
+    "key": "SAS|id:3381|2190|1850"
+   },
+   {
+    "store": "SAS",
+    "title": "Փափկամիս խոզի կտրատված «Բեկոն» 120գ",
+    "old": 990,
+    "new": 870,
+    "pct": 12,
+    "until": "28.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/958/151/1514073082474753.webp",
+    "url": "https://www.sas.am/catalog/myasnaya_narezka/114494/",
+    "key": "SAS|id:114494|990|870"
+   },
+   {
+    "store": "SAS",
+    "title": "Լվացքի կոնդիցիոներ «Vernel Max Свежий Бриз» 960մլ",
+    "old": 2250,
+    "new": 2050,
+    "pct": 9,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/182/896/896422586660741.webp",
+    "url": "https://www.sas.am/catalog/opolaskivatel_konditsioner_kontsentrat/940121/",
+    "key": "SAS|id:940121|2250|2050"
+   },
+   {
+    "store": "SAS",
+    "title": "Զուգարանի թուղթ խոնավ «Zewa Pure» 42 հատ",
+    "old": 990,
+    "new": 890,
+    "pct": 10,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/299/153/1538411982207406.webp",
+    "url": "https://www.sas.am/catalog/tualetnaya_bumaga/31577/",
+    "key": "SAS|id:31577|990|890"
+   },
+   {
+    "store": "SAS",
+    "title": "Գարեջուր «Mythos 0%» 0.33լ",
+    "old": 690,
+    "new": 430,
+    "pct": 38,
+    "until": "30.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/416/459/4596992715158192.webp",
+    "url": "https://www.sas.am/catalog/importnoe_pivo/786694/",
+    "key": "SAS|id:786694|690|430"
+   },
+   {
+    "store": "SAS",
+    "title": "Կարամելային կոնֆետներ պնդուկով «Toffifee» 125գ",
+    "old": 1350,
+    "new": 1160,
+    "pct": 14,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/125/305/305437908313946.webp",
+    "url": "https://www.sas.am/catalog/konfety_v_upakovke/676462/",
+    "key": "SAS|id:676462|1350|1160"
+   },
+   {
+    "store": "SAS",
+    "title": "Պատրաստի նախաճաշ «Nestle Nesquik Mix» 225գ",
+    "old": 1390,
+    "new": 1140,
+    "pct": 18,
+    "until": "23.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/311/385/3853193343567542.webp",
+    "url": "https://www.sas.am/catalog/gotovyy_zavtrak/442429/",
+    "key": "SAS|id:442429|1390|1140"
+   },
+   {
+    "store": "SAS",
+    "title": "Թեյ սև «Teida Spicy Sunset» 22*2գ",
+    "old": 990,
+    "new": 560,
+    "pct": 43,
+    "until": "28.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/402/350/3503702233250150.webp",
+    "url": "https://www.sas.am/catalog/v_paketakh/355226/",
+    "key": "SAS|id:355226|990|560"
+   },
+   {
+    "store": "SAS",
+    "title": "Անձեռոցիկ խոնավ հակաբակտերիալ «Compact Golf» 100 հատ",
+    "old": 990,
+    "new": 760,
+    "pct": 23,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/411/353/3533811907556836.webp",
+    "url": "https://www.sas.am/catalog/vetwip_es/322149/",
+    "key": "SAS|id:322149|990|760"
+   },
+   {
+    "store": "SAS",
+    "title": "Յոգուրտ դասական «Epica» 130գ, յուղայնությունը՝ 6",
+    "old": 500,
+    "new": 450,
+    "pct": 10,
+    "until": "28.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/422/518/5181593091505687.webp",
+    "url": "https://www.sas.am/catalog/yogurt_puding/59281/",
+    "key": "SAS|id:59281|500|450"
+   },
+   {
+    "store": "SAS",
+    "title": "Սուրճ լուծվող «Jacobs Monarch» 300գ",
+    "old": 8550,
+    "new": 6990,
+    "pct": 18,
+    "until": "28.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/892/576/5760871689059991.webp",
+    "url": "https://www.sas.am/catalog/rastvorimyy_kofe/3067/",
+    "key": "SAS|id:3067|8550|6990"
+   },
+   {
+    "store": "SAS",
+    "title": "Բալզամ «Elseve Ультра Прочность» 300մլ",
+    "old": 2650,
+    "new": 2370,
+    "pct": 11,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/321/017/0179673401910905.webp",
+    "url": "https://www.sas.am/catalog/balzam_dlya_volos/952949/",
+    "key": "SAS|id:952949|2650|2370"
+   },
+   {
+    "store": "SAS",
+    "title": "Բալզամ «Elseve Длина Мечты» 300մլ",
+    "old": 2650,
+    "new": 2370,
+    "pct": 11,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/322/406/4062172869080420.webp",
+    "url": "https://www.sas.am/catalog/balzam_dlya_volos/952948/",
+    "key": "SAS|id:952948|2650|2370"
+   },
+   {
+    "store": "SAS",
+    "title": "Մազերի դիմակ «Elseve Роскошь 6 Mасел» 300մլ",
+    "old": 3950,
+    "new": 3560,
+    "pct": 10,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/241/131/1319661657458303.webp",
+    "url": "https://www.sas.am/catalog/maska_konditsioner_dlya_volos/952947/",
+    "key": "SAS|id:952947|3950|3560"
+   },
+   {
+    "store": "SAS",
+    "title": "Բալզամ «Elseve Роскошь 6 Mасел» 300մլ",
+    "old": 2650,
+    "new": 2370,
+    "pct": 11,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/834/918/9185823625101721.webp",
+    "url": "https://www.sas.am/catalog/balzam_dlya_volos/952939/",
+    "key": "SAS|id:952939|2650|2370"
+   },
+   {
+    "store": "SAS",
+    "title": "Հակաքրտինքային աէրոզոլային միջոց «Dove Men+ Care Sensitive Shield» 250մլ",
+    "old": 2150,
+    "new": 1450,
+    "pct": 33,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/209/116/1164944102957112.webp",
+    "url": "https://www.sas.am/catalog/antiperspirantt/952676/",
+    "key": "SAS|id:952676|2150|1450"
+   },
+   {
+    "store": "SAS",
+    "title": "Հակաքրտինքային աէրոզոլային միջոց «Dove Men+Care Elements Mineral Powder Sandalwood» 250մլ",
+    "old": 2150,
+    "new": 1450,
+    "pct": 33,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/128/137/1374173568487603.webp",
+    "url": "https://www.sas.am/catalog/antiperspirantt/952675/",
+    "key": "SAS|id:952675|2150|1450"
+   },
+   {
+    "store": "SAS",
+    "title": "Հակաքրտինքային աէրոզոլային միջոց «Dove Men+ Care Elements Minerals+ Sage» 250մլ",
+    "old": 2150,
+    "new": 1450,
+    "pct": 33,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/172/152/1525791520913633.webp",
+    "url": "https://www.sas.am/catalog/antiperspirantt/952674/",
+    "key": "SAS|id:952674|2150|1450"
+   },
+   {
+    "store": "SAS",
+    "title": "Պատիճ սուրճի «Kimbo Antica Miscela 1963» 10 հատ, 55գ",
+    "old": 3150,
+    "new": 2490,
+    "pct": 21,
+    "until": "28.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/349/730/7301412562509737.webp",
+    "url": "https://www.sas.am/catalog/drugoy/951780/",
+    "key": "SAS|id:951780|3150|2490"
+   },
+   {
+    "store": "SAS",
+    "title": "Մազերի կոնդիցիոներ «Dove Coconut Oil Damage Expert» 350մլ",
+    "old": 2390,
+    "new": 2130,
+    "pct": 11,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/205/086/0861621907382643.webp",
+    "url": "https://www.sas.am/catalog/balzam_dlya_volos/950887/",
+    "key": "SAS|id:950887|2390|2130"
+   },
+   {
+    "store": "SAS",
+    "title": "Մազերի կոնդիցիոներ «Dove Avocado Damage Expert» 350մլ",
+    "old": 2390,
+    "new": 2130,
+    "pct": 11,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/377/702/7027993921812955.webp",
+    "url": "https://www.sas.am/catalog/balzam_dlya_volos/950886/",
+    "key": "SAS|id:950886|2390|2130"
+   },
+   {
+    "store": "SAS",
+    "title": "Մազերի կոնդիցիոներ «Dove Amino Serum Damage Expert» 350մլ",
+    "old": 2390,
+    "new": 2130,
+    "pct": 11,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/399/760/7606421540000208.webp",
+    "url": "https://www.sas.am/catalog/balzam_dlya_volos/950885/",
+    "key": "SAS|id:950885|2390|2130"
+   },
+   {
+    "store": "SAS",
+    "title": "Շամպուն «Dove Coconut Oil Damage Expert» 375մլ",
+    "old": 2390,
+    "new": 2130,
+    "pct": 11,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/260/589/589217633745795.webp",
+    "url": "https://www.sas.am/catalog/dlya_volos2/950881/",
+    "key": "SAS|id:950881|2390|2130"
+   },
+   {
+    "store": "SAS",
+    "title": "Շամպուն «Dove Avocado Damage Expert» 375մլ",
+    "old": 2390,
+    "new": 2130,
+    "pct": 11,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/378/701/7018392191958351.webp",
+    "url": "https://www.sas.am/catalog/dlya_volos2/950880/",
+    "key": "SAS|id:950880|2390|2130"
+   },
+   {
+    "store": "SAS",
+    "title": "Շամպուն «Dove Amino Serum Damage Expert» 375մլ",
+    "old": 2390,
+    "new": 2130,
+    "pct": 11,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/396/800/8009173419329241.webp",
+    "url": "https://www.sas.am/catalog/dlya_volos2/950879/",
+    "key": "SAS|id:950879|2390|2130"
+   },
+   {
+    "store": "SAS",
+    "title": "Մազերի կոնդիցիոներ «Dove Keratin Damage Expert» 350մլ",
+    "old": 2390,
+    "new": 2130,
+    "pct": 11,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/233/298/2984393267310312.webp",
+    "url": "https://www.sas.am/catalog/balzam_dlya_volos/950878/",
+    "key": "SAS|id:950878|2390|2130"
    }
   ],
   "Yerevan City": [
@@ -3815,12 +4116,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1058924.png",
     "url": "https://yerevan-city.am/shop/product-details/56913",
     "key": "Yerevan City|id:56913|6290|3220"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շոկ.սալիկ «Լինդ» մուգ շոկ-նարինջ-նուշ 300գր",
+    "old": 6290,
+    "new": 3220,
+    "pct": 49,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1105067.png",
+    "url": "https://yerevan-city.am/shop/product-details/33905",
+    "key": "Yerevan City|id:33905|6290|3220"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-20T01:30:36.182609+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-20T01:46:10.293352+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
