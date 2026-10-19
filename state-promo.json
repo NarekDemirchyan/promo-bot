@@ -435,22 +435,12 @@
    "Yerevan City|id:169757|6690|3650",
    "Yerevan City|id:169762|6690|3850",
    "Yerevan City|id:3145|6590|2450",
-   "Yerevan City|id:12090|6490|1990"
+   "Yerevan City|id:12090|6490|1990",
+   "Yerevan City|id:93611|6990|3990"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կարամելային կոնֆետներ պնդուկով «Toffifee» 125գ",
-    "old": 1360,
-    "new": 1160,
-    "pct": 15,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/400/979/9790802442072768.webp",
-    "url": "https://www.sas.am/catalog/konfety_v_upakovke/79493/",
-    "key": "SAS|id:79493"
-   },
    {
     "store": "SAS",
     "title": "Զուգագուլպա մարմնագույն «Conte Elegant Solo 15 Den N4»",
@@ -3962,12 +3952,23 @@
     "img": "",
     "url": "https://yerevan-city.am/shop/product-details/12090",
     "key": "Yerevan City|id:12090|6490|1990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Դրաժե «Տիկ-Տակ» Թրեվլս, 60 մինի տուփ, խառնուրդ 228գր",
+    "old": 6990,
+    "new": 3990,
+    "pct": 43,
+    "until": "",
+    "img": "",
+    "url": "https://yerevan-city.am/shop/product-details/93611",
+    "key": "Yerevan City|id:93611|6990|3990"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-19T18:15:26.617421+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-19T18:45:30.286014+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
