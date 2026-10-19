@@ -447,23 +447,12 @@
    "Yerevan City|id:179206|6370|5610",
    "Yerevan City|id:131803|6350|5990",
    "Yerevan City|id:173425|6390|5850",
-   "Yerevan City|id:11679|6330|5610"
+   "Yerevan City|id:11679|6330|5610",
+   "Yerevan City|id:179207|6300|5540"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Զովացուցիչ գազավորված ըմպելիք «Pepsi» 1.5լ",
-    "old": 780,
-    "new": 630,
-    "pct": 19,
-    "until": "13.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/197/787/7877963425263091.webp",
-    "url": "https://www.sas.am/catalog/osvezhayushchiy_napitok/113664/",
-    "label": "",
-    "key": "SAS|id:113664"
-   },
    {
     "store": "SAS",
     "title": "Լոգանքի կրեմ-գել «Nivea Free Time» 250մլ",
@@ -3837,12 +3826,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1041919.png",
     "url": "https://yerevan-city.am/shop/product-details/11679",
     "key": "Yerevan City|id:11679|6330|5610"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Լվացքի գել «Արիել» ունիվերսալ 3լ",
+    "old": 6300,
+    "new": 5540,
+    "pct": 12,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172915.png",
+    "url": "https://yerevan-city.am/shop/product-details/179207",
+    "key": "Yerevan City|id:179207|6300|5540"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-20T00:30:36.915404+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-20T00:45:32.695762+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
