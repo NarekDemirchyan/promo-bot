@@ -111,6 +111,8 @@ MONTHS = {"հունվար": 1, "փետրվար": 2, "մարտ": 3, "ապրիլ":
           "հունիս": 6, "հուլիս": 7, "օգոստոս": 8, "սեպտեմբեր": 9,
           "հոկտեմբեր": 10, "նոյեմբեր": 11, "դեկտեմբեր": 12}
 CARD_DATE = re.compile(r"(\d{1,2})\s+([Ա-Ֆա-ֆև]{3,12})\s+(\d{4})")
+TAGS = re.compile(r"<[^>]+>")
+SPACES = re.compile(r"\s+")
 
 def fetch(url):
     r = requests.get(JINA + url, timeout=120,
@@ -346,7 +348,7 @@ def parse_city_api(d):
         out.append({"store": "Yerevan City", "title": name, "old": old,
                     "new": new, "pct": pct,
                     "until": iso_day(it.get("dateTo") or it.get("endDate")),
-                    "img": str(it.get("image") or it.get("imageUrl") or ""),
+                    "img": str(it.get("photo") or it.get("image") or ""),
                     "url": "https://yerevan-city.am/shop/product-details/%s" % pid})
     return out
 
@@ -449,9 +451,10 @@ def photo_candidates(it):
 def card_until(it):
     """Ակցիայի ավարտի ամսաթիվը ապրանքի էջից։
 
-    Սկզբում ուղիղ հարցում, եթե տողը չկա (City-ի էջը JS-ով է հավաքվում)՝
-    ընթերցիչով, ինչպես SAS-ինը։ Տողի ձևը՝ «Գինը գործում է 17 Հոկտեմբեր 2026
-    -ից 01 Նոյեմբեր 2026», վերցվում է ԵՐԿՐՈՐԴ ամսաթիվը։
+    Էջում տողը՝ «Գինը գործում է 05 Հոկտեմբեր 2026 -ից 30 Նոյեմբեր 2026»,
+    վերցվում է ԵՐԿՐՈՐԴ ամսաթիվը։ Ամսաթվի մասերը էջում առանձին բլոկներով են
+    (05 | Հոկտեմբեր | 2026), այդ պատճառով նախ պատիչները հանվում են, որ թվի ու
+    ամսվա անվան միջև այլ բան չընկնի։
     """
     page = it.get("url") or it.get("page") or ""
     if not page or "product-details" not in page:
@@ -466,16 +469,30 @@ def card_until(it):
             md = fetch(page) or md
         except Exception as e:
             print("ամսաթիվ (ընթերցիչ): %s" % e)
-    i = (md or "").find("գործում է")
+    text = SPACES.sub(" ", TAGS.sub(" ", md or ""))
+    i = text.find("գործում է")
     if i == -1:
         return ""
-    d = CARD_DATE.findall(md[i:i + 600])
+    window = text[i:i + 800]
+    d = CARD_DATE.findall(window)
     if len(d) >= 2:
         day, mon, year = d[1]
-        m = MONTHS.get(mon.lower())
-        if m:
-            return "%02d.%02d.%s" % (int(day), m, year)
-    return ""
+    elif len(d) == 1:
+        head = window[:window.find(d[0][0])]
+        if "մինչև" not in head[-40:]:
+            return ""
+        day, mon, year = d[0]
+    else:
+        return ""
+    m = MONTHS.get(mon.lower())
+    if not m:
+        for name, mm in MONTHS.items():
+            if name.startswith(mon.lower()[:4]):
+                m = mm
+                break
+    if not m:
+        return ""
+    return "%02d.%02d.%s" % (int(day), m, year)
 
 def expired(it, now=None):
     """Ակցիան լրացա՞ծ է. ամսաթիվը DD.MM.YYYY ձևով։"""
