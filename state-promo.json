@@ -259,17 +259,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Զուգարանի թուղթ խոնավ «Zewa Pure» 42 հատ",
-    "old": 990,
-    "new": 890,
-    "pct": 10,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/299/153/1538411982207406.webp",
-    "url": "https://www.sas.am/catalog/tualetnaya_bumaga/31577/",
-    "key": "SAS|id:31577"
-   },
-   {
-    "store": "SAS",
     "title": "Մակարոն «Barilla Fusilli № 98» 500գ",
     "old": 880,
     "new": 730,
@@ -1566,8 +1555,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-19T07:15:14.287636+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-19T07:31:04.935469+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
