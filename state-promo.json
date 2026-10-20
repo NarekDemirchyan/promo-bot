@@ -2850,17 +2850,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Չխկչխկան խաղալիքներ մահճակալի համար «Ջոլի» 282-40",
-    "old": 12590,
-    "new": 7550,
-    "pct": 40,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/132588",
-    "key": "Yerevan City|id:132588|12590|7550"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Սուրճ հատիկավոր «Մելիտտա» Բելլա Կրեմա Բիո, արաբիկա 750գր",
     "old": 12490,
     "new": 9370,
@@ -5051,8 +5040,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-20T19:19:31.023668+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-20T19:46:58.796748+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
