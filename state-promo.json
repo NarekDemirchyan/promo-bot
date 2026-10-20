@@ -1864,17 +1864,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Անկ․հավ․երկտ․ «ՑինԹայ» 100%բամ․ 250x250",
-    "old": 16990,
-    "new": 10991,
-    "pct": 35,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/167480",
-    "key": "Yerevan City|id:167480|16990|10991"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Պիստակ մաքրած կգ",
     "old": 16990,
     "new": 13590,
@@ -4065,8 +4054,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-20T04:45:38.249130+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-20T05:00:46.908811+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
