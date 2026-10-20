@@ -357,7 +357,8 @@
    "SAS|id:154207|690|590",
    "SAS|id:913252|1330|820",
    "SAS|id:177832|550|440",
-   "SAS|id:59289|500|450"
+   "SAS|id:59289|500|450",
+   "SAS|id:468778|1730|1530"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2829,20 +2830,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/yogurt_puding/59289/",
     "key": "SAS|id:59289|500|450"
+   },
+   {
+    "store": "SAS",
+    "title": "Շամպուն «Clear Men» 180մլ",
+    "old": 1730,
+    "new": 1530,
+    "pct": 12,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/dlya_volos2/468778/",
+    "key": "SAS|id:468778|1730|1530"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Մանրացնող սարք մեխանիկական «Բրաբանտիա»",
-    "old": 13250,
-    "new": 7990,
-    "pct": 40,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/174905",
-    "key": "Yerevan City|id:174905|13250|7990"
-   },
    {
     "store": "Yerevan City",
     "title": "Զինվորական հավաքածու «Էյրքրաֆթ Քարրիեր»",
@@ -5035,8 +5036,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-20T16:46:10.145559+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-20T17:05:39.534157+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
