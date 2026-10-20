@@ -590,23 +590,12 @@
    "Yerevan City|id:177187|5990|3590",
    "Yerevan City|id:177464|5990|3590",
    "Yerevan City|id:194132|5990|4790",
-   "Yerevan City|id:194131|5990|4790"
+   "Yerevan City|id:194131|5990|4790",
+   "Yerevan City|id:179785|5990|2995"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Էներգետիկ գազավորված ըմպելիք պաստեղի «Flash Up Marshmallow» 0.45լ",
-    "old": 430,
-    "new": 350,
-    "pct": 19,
-    "until": "28.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/211/705/7058153032994177.webp",
-    "url": "https://www.sas.am/catalog/kokteyl_energeticheskiy_napitok/950286/",
-    "label": "",
-    "key": "SAS|id:950286"
-   },
    {
     "store": "SAS",
     "title": "Գինի սպիտակ «Mucho Mas Gold» 0․75լ",
@@ -5024,12 +5013,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177902.png",
     "url": "https://yerevan-city.am/shop/product-details/194131",
     "key": "Yerevan City|id:194131|5990|4790"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Փափուկ խաղալիք «Շուն» սրտով 50սմ",
+    "old": 5990,
+    "new": 2995,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173504.png",
+    "url": "https://yerevan-city.am/shop/product-details/179785",
+    "key": "Yerevan City|id:179785|5990|2995"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-20T12:31:57.397293+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-20T12:46:52.638667+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
@@ -5038,7 +5038,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 8,
+ "city_page": 9,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
