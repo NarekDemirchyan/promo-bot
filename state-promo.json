@@ -492,23 +492,12 @@
    "Yerevan City|id:111628|5990|4450",
    "Yerevan City|id:176867|5990|3590",
    "Yerevan City|id:176875|5990|3590",
-   "Yerevan City|id:177179|5990|3590"
+   "Yerevan City|id:177179|5990|3590",
+   "Yerevan City|id:177187|5990|3590"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Մազերի կոնդիցիոներ «Dove Keratin Damage Expert» 350մլ",
-    "old": 2390,
-    "new": 2130,
-    "pct": 11,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/233/298/2984393267310312.webp",
-    "url": "https://www.sas.am/catalog/balzam_dlya_volos/950878/",
-    "label": "",
-    "key": "SAS|id:950878"
-   },
    {
     "store": "SAS",
     "title": "Շամպուն «Dove Keratin Damage Expert» 375մլ",
@@ -3940,12 +3929,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170799.png",
     "url": "https://yerevan-city.am/shop/product-details/177179",
     "key": "Yerevan City|id:177179|5990|3590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տիկնիկ Բեյբի սո լովելի 236-1",
+    "old": 5990,
+    "new": 3590,
+    "pct": 40,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170830.png",
+    "url": "https://yerevan-city.am/shop/product-details/177187",
+    "key": "Yerevan City|id:177187|5990|3590"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-20T10:00:49.507281+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-20T10:15:31.367705+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
