@@ -373,7 +373,8 @@
    "SAS|id:956583|1370|1150",
    "SAS|id:915128|760|590",
    "SAS|id:385898|5240|4950",
-   "SAS|id:874225|1520|1350"
+   "SAS|id:874225|1520|1350",
+   "SAS|id:78693|530|460"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2845,6 +2846,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/sok/874225/",
     "key": "SAS|id:874225|1520|1350"
+   },
+   {
+    "store": "SAS",
+    "title": "Վաֆլի պնդուկի և կաթնային կրեմով «Kinder Bueno» 43գ",
+    "old": 530,
+    "new": 460,
+    "pct": 13,
+    "until": "13.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/215/185/1853402037108634.webp",
+    "url": "https://www.sas.am/catalog/konfety_v_upakovke/78693/",
+    "key": "SAS|id:78693|530|460"
    }
   ],
   "Yerevan City": [
