@@ -365,7 +365,8 @@
    "SAS|id:407670|680|560",
    "SAS|id:114493|1150|970",
    "SAS|id:100916|610|540",
-   "SAS|id:686627|2090|1890"
+   "SAS|id:686627|2090|1890",
+   "SAS|id:135777|750|540"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2837,6 +2838,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/importnyy_syr/686627/",
     "key": "SAS|id:686627|2090|1890"
+   },
+   {
+    "store": "SAS",
+    "title": "Գարեջուր «Балтика №9» 0.45լ",
+    "old": 750,
+    "new": 540,
+    "pct": 28,
+    "until": "28.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/305/828/8283643520596342.webp",
+    "url": "https://www.sas.am/catalog/importnoe_pivo/135777/",
+    "key": "SAS|id:135777|750|540"
    }
   ],
   "Yerevan City": [
