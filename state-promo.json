@@ -361,7 +361,8 @@
    "SAS|id:468778|1730|1530",
    "SAS|id:4658|910|830",
    "SAS|id:786701|480|270",
-   "SAS|id:429776|700|390"
+   "SAS|id:429776|700|390",
+   "SAS|id:407670|680|560"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2833,6 +2834,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/importnoe_pivo/429776/",
     "key": "SAS|id:429776|700|390"
+   },
+   {
+    "store": "SAS",
+    "title": "Դոնդողե կոնֆետներ «Mamba» 90գ",
+    "old": 680,
+    "new": 560,
+    "pct": 18,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/128/579/579069447486583.webp",
+    "url": "https://www.sas.am/catalog/zhele_plastila/407670/",
+    "key": "SAS|id:407670|680|560"
    }
   ],
   "Yerevan City": [
