@@ -734,7 +734,7 @@ def main():
     if not st.get("junk_cleaned"):
         q = st["queues"].get("SAS") or []
         good = [x for x in q if re.search(r"/(\d{3,})/?$", x.get("url") or "")]
-        if len(good) != len(q):
+    if len(good) != len(q):
 print("Մաքրում. SAS-ի հերթից հանվեց %d աղբ դիրք" % (len(q) - len(good)))
         st["queues"]["SAS"] = good
         st["junk_cleaned"] = True
