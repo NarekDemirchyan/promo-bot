@@ -371,7 +371,8 @@
    "SAS|id:756201|2090|1820",
    "SAS|id:83913|1490|1370",
    "SAS|id:956583|1370|1150",
-   "SAS|id:915128|760|590"
+   "SAS|id:915128|760|590",
+   "SAS|id:385898|5240|4950"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2843,6 +2844,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/350/558/558677467773192.webp",
     "url": "https://www.sas.am/catalog/popkorn2/915128/",
     "key": "SAS|id:915128|760|590"
+   },
+   {
+    "store": "SAS",
+    "title": "Գինի կարմիր «Le Grand Noir Cabernet Sauvignon» 0.75լ",
+    "old": 5240,
+    "new": 4950,
+    "pct": 6,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/import_vino/385898/",
+    "key": "SAS|id:385898|5240|4950"
    }
   ],
   "Yerevan City": [
