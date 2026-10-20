@@ -483,23 +483,12 @@
    "Yerevan City|id:174587|6250|5390",
    "Yerevan City|id:13356|6210|5510",
    "Yerevan City|id:13212|6190|4640",
-   "Yerevan City|id:33322|6100|3530"
+   "Yerevan City|id:33322|6100|3530",
+   "Yerevan City|id:180203|5990|3950"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Հակաքրտինքային աէրոզոլային միջոց «Dove Men+Care Elements Mineral Powder Sandalwood» 250մլ",
-    "old": 2150,
-    "new": 1450,
-    "pct": 33,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/128/137/1374173568487603.webp",
-    "url": "https://www.sas.am/catalog/antiperspirantt/952675/",
-    "label": "",
-    "key": "SAS|id:952675"
-   },
    {
     "store": "SAS",
     "title": "Հակաքրտինքային աէրոզոլային միջոց «Dove Men+ Care Elements Minerals+ Sage» 250մլ",
@@ -4039,12 +4028,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1101122.png",
     "url": "https://yerevan-city.am/shop/product-details/33322",
     "key": "Yerevan City|id:33322|6100|3530"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թավա ա/կ «Նեվա» մարմար 24սմ ԶԻ0224",
+    "old": 5990,
+    "new": 3950,
+    "pct": 34,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173932.png",
+    "url": "https://yerevan-city.am/shop/product-details/180203",
+    "key": "Yerevan City|id:180203|5990|3950"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-20T05:30:40.184881+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-20T05:45:29.046517+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
