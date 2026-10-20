@@ -1776,17 +1776,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Հատակի կշեռք «Բրաբանտիա» 180կգ 2206-069",
-    "old": 15690,
-    "new": 8389,
-    "pct": 47,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/111688",
-    "key": "Yerevan City|id:111688|15690|8389"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Լիկյոր «Կուանտրո» 0.7լ",
     "old": 15650,
     "new": 13889,
@@ -3977,8 +3966,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-20T08:45:27.505648+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-20T09:00:54.314056+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
