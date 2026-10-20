@@ -604,23 +604,12 @@
    "Yerevan City|id:1159|5950|5290",
    "Yerevan City|id:30013|5990|4990",
    "Yerevan City|id:192757|5950|4990",
-   "Yerevan City|id:8262|5910|5090"
+   "Yerevan City|id:8262|5910|5090",
+   "Yerevan City|id:174970|5890|2945"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ադապտեր մեքենայի համար «Celebrat CC04»",
-    "old": 11500,
-    "new": 5750,
-    "pct": 50,
-    "until": "31.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/168/228/2285852678219910.webp",
-    "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/941277/",
-    "label": "",
-    "key": "SAS|id:941277"
-   },
    {
     "store": "SAS",
     "title": "USB լար «Hoco Premium UPA22»",
@@ -5031,12 +5020,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1050864.png",
     "url": "https://yerevan-city.am/shop/product-details/8262",
     "key": "Yerevan City|id:8262|5910|5090"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ծածկոց սինտեպոնե «ՑինԹայ» 160x220",
+    "old": 5890,
+    "new": 2945,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168558.png",
+    "url": "https://yerevan-city.am/shop/product-details/174970",
+    "key": "Yerevan City|id:174970|5890|2945"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-20T16:31:30.274961+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-20T16:46:10.145559+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
