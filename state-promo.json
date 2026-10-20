@@ -372,7 +372,8 @@
    "SAS|id:83913|1490|1370",
    "SAS|id:956583|1370|1150",
    "SAS|id:915128|760|590",
-   "SAS|id:385898|5240|4950"
+   "SAS|id:385898|5240|4950",
+   "SAS|id:874225|1520|1350"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2844,20 +2845,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/import_vino/385898/",
     "key": "SAS|id:385898|5240|4950"
+   },
+   {
+    "store": "SAS",
+    "title": "Ըմպելիք նարնջի, գազարի, կիտրոնի «Zuegg Intenso ACE» 1000մլ",
+    "old": 1520,
+    "new": 1350,
+    "pct": 11,
+    "until": "10.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/sok/874225/",
+    "key": "SAS|id:874225|1520|1350"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Մանկական երաժշտական մոբիլ ՀԼ2025-24",
-    "old": 11990,
-    "new": 7190,
-    "pct": 40,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/176820",
-    "key": "Yerevan City|id:176820|11990|7190"
-   },
    {
     "store": "Yerevan City",
     "title": "Տիկնիկ Բեյբի սո լովելի 8811-1",
@@ -5050,8 +5051,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-21T02:02:06.636771+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-21T02:17:04.525955+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
