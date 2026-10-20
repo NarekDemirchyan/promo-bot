@@ -367,7 +367,8 @@
    "SAS|id:100916|610|540",
    "SAS|id:686627|2090|1890",
    "SAS|id:135777|750|540",
-   "SAS|id:7685|290|250"
+   "SAS|id:7685|290|250",
+   "SAS|id:756201|2090|1820"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2839,6 +2840,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/293/339/3394231158959298.webp",
     "url": "https://www.sas.am/catalog/salfetki/7685/",
     "key": "SAS|id:7685|290|250"
+   },
+   {
+    "store": "SAS",
+    "title": "Կարագ «Lurpak» 200գ, յուղայնությունը՝ 82",
+    "old": 2090,
+    "new": 1820,
+    "pct": 13,
+    "until": "28.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/slivochnoe_maslo/756201/",
+    "key": "SAS|id:756201|2090|1820"
    }
   ],
   "Yerevan City": [
