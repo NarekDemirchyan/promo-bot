@@ -628,23 +628,12 @@
    "Yerevan City|id:179431|5690|2845",
    "Yerevan City|id:114340|5690|5290",
    "Yerevan City|id:172772|5690|5250",
-   "Yerevan City|id:195110|5590|4470"
+   "Yerevan City|id:195110|5590|4470",
+   "Yerevan City|id:192757|5950|4890"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Պատիճ սուրճի «L'OR Espresso Colombia Andes» 10 հատ, 52գ",
-    "old": 3130,
-    "new": 1930,
-    "pct": 38,
-    "until": "28.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/827/113/113034569179130.webp",
-    "url": "https://www.sas.am/catalog/drugoy/938116/",
-    "label": "",
-    "key": "SAS|id:938116"
-   },
    {
     "store": "SAS",
     "title": "Բալզամ «Pantene Active Nutri Plex Pro V» 220մլ",
@@ -5043,12 +5032,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178915.png",
     "url": "https://yerevan-city.am/shop/product-details/195110",
     "key": "Yerevan City|id:195110|5590|4470"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ռիետ «Ռուժի» բադի ա/տ 180գր",
+    "old": 5950,
+    "new": 4890,
+    "pct": 18,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176492.png",
+    "url": "https://yerevan-city.am/shop/product-details/192757",
+    "key": "Yerevan City|id:192757|5950|4890"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-20T23:47:01.112162+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-21T00:05:26.651291+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
