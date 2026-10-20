@@ -2858,17 +2858,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Աթոռ պլաստմասե, սպիտակ 66",
-    "old": 11990,
-    "new": 8990,
-    "pct": 25,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/167520",
-    "key": "Yerevan City|id:167520|11990|8990"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Օդափոխիչ «Սփիդա» ՍՊԴ-ՖՍ0144",
     "old": 11990,
     "new": 5995,
@@ -5059,8 +5048,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-21T00:05:26.651291+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-21T00:32:01.714178+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
