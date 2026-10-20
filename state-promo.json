@@ -489,23 +489,12 @@
    "Yerevan City|id:175839|5990|4290",
    "Yerevan City|id:195082|5990|4790",
    "Yerevan City|id:193962|5990|4790",
-   "Yerevan City|id:111628|5990|4450"
+   "Yerevan City|id:111628|5990|4450",
+   "Yerevan City|id:176867|5990|3590"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շամպուն «Dove Coconut Oil Damage Expert» 375մլ",
-    "old": 2390,
-    "new": 2130,
-    "pct": 11,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/260/589/589217633745795.webp",
-    "url": "https://www.sas.am/catalog/dlya_volos2/950881/",
-    "label": "",
-    "key": "SAS|id:950881"
-   },
    {
     "store": "SAS",
     "title": "Շամպուն «Dove Avocado Damage Expert» 375մլ",
@@ -3973,12 +3962,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1142505.png",
     "url": "https://yerevan-city.am/shop/product-details/111628",
     "key": "Yerevan City|id:111628|5990|4450"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տիկնիկ աքսեսուարներով «Լիթլ Միլի» 91099-Ժ",
+    "old": 5990,
+    "new": 3590,
+    "pct": 40,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170505.png",
+    "url": "https://yerevan-city.am/shop/product-details/176867",
+    "key": "Yerevan City|id:176867|5990|3590"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-20T08:30:36.086446+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-20T08:45:27.505648+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
