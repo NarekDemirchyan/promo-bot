@@ -606,7 +606,8 @@
    "Yerevan City|id:30013|5990|4990",
    "Yerevan City|id:192757|5950|4990",
    "Yerevan City|id:8262|5910|5090",
-   "Yerevan City|id:174970|5890|2945"
+   "Yerevan City|id:174970|5890|2945",
+   "Yerevan City|id:23445|5890|4150"
   ]
  },
  "queues": {
@@ -5032,6 +5033,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168558.png",
     "url": "https://yerevan-city.am/shop/product-details/174970",
     "key": "Yerevan City|id:174970|5890|2945"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Պաշինա «Միթ Ֆուդ» կգ",
+    "old": 5890,
+    "new": 4150,
+    "pct": 30,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1103148.png",
+    "url": "https://yerevan-city.am/shop/product-details/23445",
+    "key": "Yerevan City|id:23445|5890|4150"
    }
   ]
  },
