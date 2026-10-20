@@ -618,18 +618,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Հակաքրտինքային աէրոզոլային միջոց «Old Spice Epic Legend» 150մլ",
-    "old": 2440,
-    "new": 2130,
-    "pct": 13,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/254/067/0673161726436997.webp",
-    "url": "https://www.sas.am/catalog/antiperspirantt/938710/",
-    "label": "",
-    "key": "SAS|id:938710"
-   },
-   {
-    "store": "SAS",
     "title": "Դեզոդորանտ-սթիք «Old Spice Epic Legend» 50մլ",
     "old": 2440,
     "new": 2140,
@@ -5050,8 +5038,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-20T18:19:22.282610+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-20T18:46:49.024672+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
