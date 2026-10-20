@@ -349,7 +349,8 @@
    "SAS|id:916930|2190|1090",
    "SAS|id:915956|310|250",
    "SAS|id:915955|310|250",
-   "SAS|id:915953|310|250"
+   "SAS|id:915953|310|250",
+   "SAS|id:897276|960|820"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2821,6 +2822,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/drajee/915953/",
     "key": "SAS|id:915953|310|250"
+   },
+   {
+    "store": "SAS",
+    "title": "Պանիր կաթնաշոռային սերուցքային «President» 140գ",
+    "old": 960,
+    "new": 820,
+    "pct": 15,
+    "until": "28.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/118/616/616950388390765.webp",
+    "url": "https://www.sas.am/catalog/importnyy_syr/897276/",
+    "key": "SAS|id:897276|960|820"
    }
   ],
   "Yerevan City": [
