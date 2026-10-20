@@ -348,7 +348,8 @@
    "SAS|id:918125|8010|7290",
    "SAS|id:916930|2190|1090",
    "SAS|id:915956|310|250",
-   "SAS|id:915955|310|250"
+   "SAS|id:915955|310|250",
+   "SAS|id:915953|310|250"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2820,20 +2821,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/drajee/915955/",
     "key": "SAS|id:915955|310|250"
+   },
+   {
+    "store": "SAS",
+    "title": "Դրաժե կաթնային «Գրանդ Քենդի Paw Patrol Milk Bites» 50գ",
+    "old": 310,
+    "new": 250,
+    "pct": 19,
+    "until": "29.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/drajee/915953/",
+    "key": "SAS|id:915953|310|250"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Մանեժ մանկական 3-ը 1-ում Ջ1049-1",
-    "old": 14990,
-    "new": 11991,
-    "pct": 20,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/194139",
-    "key": "Yerevan City|id:194139|14990|11991"
-   },
    {
     "store": "Yerevan City",
     "title": "Դույլ+հատակմաքրիչ «Վիլեդա» Սուպեր Մոքիո",
@@ -5026,8 +5027,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-20T11:31:28.279489+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-20T11:46:03.291116+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
