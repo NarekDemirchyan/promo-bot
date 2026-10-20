@@ -592,18 +592,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Շամպուն «Dove Keratin Damage Expert» 375մլ",
-    "old": 2390,
-    "new": 2130,
-    "pct": 11,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/392/291/2916761019802179.webp",
-    "url": "https://www.sas.am/catalog/dlya_volos2/950871/",
-    "label": "",
-    "key": "SAS|id:950871"
-   },
-   {
-    "store": "SAS",
     "title": "Շամպուն «Dove Peptide Bond Repair Damage Expert» 375մլ",
     "old": 2390,
     "new": 2130,
@@ -5037,8 +5025,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-20T10:45:26.838816+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-20T11:01:19.699140+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
