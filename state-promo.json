@@ -351,7 +351,8 @@
    "SAS|id:915955|310|250",
    "SAS|id:915953|310|250",
    "SAS|id:897276|960|820",
-   "SAS|id:423614|540|450"
+   "SAS|id:423614|540|450",
+   "SAS|id:153411|690|580"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2823,6 +2824,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/982/689/6893152746475014.webp",
     "url": "https://www.sas.am/catalog/salfetki/423614/",
     "key": "SAS|id:423614|540|450"
+   },
+   {
+    "store": "SAS",
+    "title": "Անձեռոցիկ «Պապիրուս» 100հատ",
+    "old": 690,
+    "new": 580,
+    "pct": 16,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/salfetki/153411/",
+    "key": "SAS|id:153411|690|580"
    }
   ],
   "Yerevan City": [
