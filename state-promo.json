@@ -369,7 +369,8 @@
    "SAS|id:135777|750|540",
    "SAS|id:7685|290|250",
    "SAS|id:756201|2090|1820",
-   "SAS|id:83913|1490|1370"
+   "SAS|id:83913|1490|1370",
+   "SAS|id:956583|1370|1150"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2841,6 +2842,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/moreprodukt/83913/",
     "key": "SAS|id:83913|1490|1370"
+   },
+   {
+    "store": "SAS",
+    "title": "Խավիար սմբուկի կծու «Անուշ» 720գ",
+    "old": 1370,
+    "new": 1150,
+    "pct": 16,
+    "until": "28.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/512/270/2707222058066172.webp",
+    "url": "https://www.sas.am/catalog/baklazhan/956583/",
+    "key": "SAS|id:956583|1370|1150"
    }
   ],
   "Yerevan City": [
