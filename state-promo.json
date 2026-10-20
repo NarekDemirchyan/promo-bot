@@ -1831,17 +1831,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Քերիչ տարայով «Բրաբանտիա» պահուստով",
-    "old": 16190,
-    "new": 9989,
-    "pct": 38,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/174903",
-    "key": "Yerevan City|id:174903|16190|9989"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Ֆուա-գրա «Ռուժի» սագի լյարդից ա/տ 180գր",
     "old": 15990,
     "new": 13990,
@@ -4032,8 +4021,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-20T06:15:27.720061+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-20T06:30:51.720522+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
