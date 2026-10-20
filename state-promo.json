@@ -362,7 +362,8 @@
    "SAS|id:4658|910|830",
    "SAS|id:786701|480|270",
    "SAS|id:429776|700|390",
-   "SAS|id:407670|680|560"
+   "SAS|id:407670|680|560",
+   "SAS|id:114493|1150|970"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2834,20 +2835,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/128/579/579069447486583.webp",
     "url": "https://www.sas.am/catalog/zhele_plastila/407670/",
     "key": "SAS|id:407670|680|560"
+   },
+   {
+    "store": "SAS",
+    "title": "Սուջուխ կտրտած «Բեկոն» 85գ",
+    "old": 1150,
+    "new": 970,
+    "pct": 16,
+    "until": "28.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/293/309/3092513871236311.webp",
+    "url": "https://www.sas.am/catalog/myasnaya_narezka/114493/",
+    "key": "SAS|id:114493|1150|970"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Սուրճ հատիկավոր «Մելիտտա» Բելլա Կրեմա Բիո, արաբիկա 750գր",
-    "old": 12490,
-    "new": 9370,
-    "pct": 25,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/128987",
-    "key": "Yerevan City|id:128987|12490|9370"
-   },
    {
     "store": "Yerevan City",
     "title": "Ուղղաթիռ հեռակառավարումով Հ95",
@@ -5040,8 +5041,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-20T20:02:16.700039+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-20T20:17:07.413600+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
