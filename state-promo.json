@@ -366,7 +366,8 @@
    "SAS|id:114493|1150|970",
    "SAS|id:100916|610|540",
    "SAS|id:686627|2090|1890",
-   "SAS|id:135777|750|540"
+   "SAS|id:135777|750|540",
+   "SAS|id:7685|290|250"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2838,20 +2839,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/305/828/8283643520596342.webp",
     "url": "https://www.sas.am/catalog/importnoe_pivo/135777/",
     "key": "SAS|id:135777|750|540"
+   },
+   {
+    "store": "SAS",
+    "title": "Անձեռոցիկ «Պապիրուս Սոֆթ» 100 հատ",
+    "old": 290,
+    "new": 250,
+    "pct": 14,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/293/339/3394231158959298.webp",
+    "url": "https://www.sas.am/catalog/salfetki/7685/",
+    "key": "SAS|id:7685|290|250"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Ֆուա-գրա «Ռուժի» սագի լյարդից 75գր",
-    "old": 11990,
-    "new": 9891,
-    "pct": 18,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/192772",
-    "key": "Yerevan City|id:192772|11990|9891"
-   },
    {
     "store": "Yerevan City",
     "title": "Կաթսա «Ռեյ Քիթչն» 28սմ ՀՍ-ՖՍ6728 (Ինդ)",
@@ -5044,8 +5045,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-20T22:16:46.142288+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-20T22:31:55.444903+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
