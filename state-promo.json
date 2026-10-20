@@ -614,18 +614,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "USB լար «Hoco Premium UPA22»",
-    "old": 3250,
-    "new": 1620,
-    "pct": 50,
-    "until": "31.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/401/223/2232513184747536.webp",
-    "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/941269/",
-    "label": "",
-    "key": "SAS|id:941269"
-   },
-   {
-    "store": "SAS",
     "title": "Լվացքի կոնդիցիոներ «Vernel Max Свежий Бриз» 960մլ",
     "old": 2250,
     "new": 2050,
@@ -5048,8 +5036,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-20T17:05:39.534157+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-20T17:32:01.662933+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
