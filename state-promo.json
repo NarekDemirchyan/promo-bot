@@ -360,7 +360,8 @@
    "SAS|id:59289|500|450",
    "SAS|id:468778|1730|1530",
    "SAS|id:4658|910|830",
-   "SAS|id:786701|480|270"
+   "SAS|id:786701|480|270",
+   "SAS|id:429776|700|390"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2832,20 +2833,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/importnoe_pivo/786701/",
     "key": "SAS|id:786701|480|270"
+   },
+   {
+    "store": "SAS",
+    "title": "Գարեջուր «Mythos» 0.33լ",
+    "old": 700,
+    "new": 390,
+    "pct": 44,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/importnoe_pivo/429776/",
+    "key": "SAS|id:429776|700|390"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Երաժշտական խաղալիք «Կարաոկե» ԳՄՋ9831",
-    "old": 12990,
-    "new": 10389,
-    "pct": 20,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/194138",
-    "key": "Yerevan City|id:194138|12990|10389"
-   },
    {
     "store": "Yerevan City",
     "title": "Չխկչխկան խաղալիքներ մահճակալի համար «Ջոլի» 282-40",
@@ -5038,8 +5039,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-20T18:46:49.024672+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-20T19:02:26.179882+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
