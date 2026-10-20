@@ -640,7 +640,8 @@
    "Yerevan City|id:6558|5590|5190",
    "Yerevan City|id:111664|5590|2750",
    "Yerevan City|id:176878|5590|3350",
-   "Yerevan City|id:178656|5590|3590"
+   "Yerevan City|id:178656|5590|3590",
+   "Yerevan City|id:193541|5590|4990"
   ]
  },
  "queues": {
@@ -5049,6 +5050,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172358.png",
     "url": "https://yerevan-city.am/shop/product-details/178656",
     "key": "Yerevan City|id:178656|5590|3590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Էլ.թեյնիկ «Սոնիֆեր» ապակյա 1.8լ 1500Վտ",
+    "old": 5590,
+    "new": 4990,
+    "pct": 11,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177246.png",
+    "url": "https://yerevan-city.am/shop/product-details/193541",
+    "key": "Yerevan City|id:193541|5590|4990"
    }
   ]
  },
