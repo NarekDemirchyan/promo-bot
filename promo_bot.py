@@ -16,6 +16,8 @@
 12. Մակագրությունը HTML է՝ հին գինը ջնջված, նորը՝ իր կողքին։
 13. Թափանցիկ PNG-ն սպիտակ ֆոնի վրա է դրվում, որ սև չերևա։
 14. Սոսնձված կետադրությունը բացատով բաժանվում է։
+15. City-ի նկարը գալիս է API-ից՝ համարով, որ 18+ էջի արգելքն ու էջի
+    քմահաճույքը նկարի վրա չազդեն (խմիչքների դեպքը)։
 """
 import io
 import json
@@ -306,6 +308,7 @@ def parse_city(md):
 
 # ==== Yerevan City. բաց API՝ ակցիաների ամբողջ ցուցակը ====
 CITY_API = "https://apishopv2.yerevan-city.am/api/Product/GetDiscounted"
+CITY_ONE = "https://apishopv2.yerevan-city.am/api/Product/Get/%s"
 CITY_HDRS = dict(HDRS, **{
     "Content-Type": "application/json",
     "Accept": "application/json, text/plain, */*",
@@ -331,6 +334,29 @@ def city_page(page):
             print("City: էջ %d սխալ (%d/%d): %s" % (page, t + 1, PAGE_TRIES, e))
         time.sleep(3 * (t + 1))
     return {}
+
+def city_photo(pid):
+    """City-ի նկարը API-ից՝ ապրանքի համարով։
+
+    Պետք է հատկապես խմիչքների համար. 18+ ապրանքի էջն առանց տարիքի
+    հաստատման ամբողջությամբ չի բացվում, ու էջից նկար չի գալիս։ API-ն
+    այդ դարպասից կախված չէ։
+    """
+    if not pid:
+        return ""
+    try:
+        r = requests.get(CITY_ONE % pid, headers=CITY_HDRS, timeout=45)
+        r.raise_for_status()
+        d = r.json() or {}
+    except Exception as e:
+        print("նկար API-ից (%s): %s" % (pid, e))
+        return ""
+    data = d.get("data") or d
+    if isinstance(data, list):
+        data = data[0] if data else {}
+    if not isinstance(data, dict):
+        return ""
+    return str(data.get("photo") or data.get("image") or "")
 
 def city_prices(it):
     def val(k):
@@ -438,6 +464,11 @@ def card_images(it):
         urls.extend(IMG_SRC.findall(html))
     if it.get("img"):
         urls.append(it["img"])
+    elif it.get("store") == "Yerevan City":
+        m = re.search(r"/product-details/(\d+)", it.get("url") or "")
+        u = city_photo(m.group(1) if m else "")
+        if u:
+            urls.append(u)
     out = []
     for u in urls:
         u = (u or "").replace("&amp;", "&").strip()
@@ -704,7 +735,7 @@ def main():
         q = st["queues"].get("SAS") or []
         good = [x for x in q if re.search(r"/(\d{3,})/?$", x.get("url") or "")]
         if len(good) != len(q):
-            print("Մաքրում. SAS-ի հերթից հանվեց %d աղբ դիրք" % (len(q) - len(good)))
+print("Մաքրում. SAS-ի հերթից հանվեց %d աղբ դիրք" % (len(q) - len(good)))
         st["queues"]["SAS"] = good
         st["junk_cleaned"] = True
     if not st.get("city_price_migrated"):
@@ -724,7 +755,7 @@ def main():
             if DRY and (d.get("list") or []):
                 print("    [debug] դաշտերը՝ %s" % sorted(d["list"][0].keys()))
                 print("    [debug] առաջինը՝ %s"
-% json.dumps(d["list"][0], ensure_ascii=False)[:600])
+                      % json.dumps(d["list"][0], ensure_ascii=False)[:600])
         else:
             items = fetch_all(store, url)
         if DRY:
