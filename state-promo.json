@@ -490,7 +490,8 @@
    "Yerevan City|id:195082|5990|4790",
    "Yerevan City|id:193962|5990|4790",
    "Yerevan City|id:111628|5990|4450",
-   "Yerevan City|id:176867|5990|3590"
+   "Yerevan City|id:176867|5990|3590",
+   "Yerevan City|id:176875|5990|3590"
   ]
  },
  "queues": {
@@ -3962,6 +3963,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170505.png",
     "url": "https://yerevan-city.am/shop/product-details/176867",
     "key": "Yerevan City|id:176867|5990|3590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տիկնիկ-նորածին ՍՆԲ222Ֆ",
+    "old": 5990,
+    "new": 3590,
+    "pct": 40,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170521.png",
+    "url": "https://yerevan-city.am/shop/product-details/176875",
+    "key": "Yerevan City|id:176875|5990|3590"
    }
   ]
  },
