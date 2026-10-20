@@ -632,23 +632,12 @@
    "Yerevan City|id:172772|5690|5250",
    "Yerevan City|id:195110|5590|4470",
    "Yerevan City|id:192757|5950|4890",
-   "Yerevan City|id:158905|5875|4990"
+   "Yerevan City|id:158905|5875|4990",
+   "Yerevan City|id:6558|5590|5190"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Բալզամ «Pantene Active Nutri Plex Pro V» 275մլ",
-    "old": 2570,
-    "new": 2350,
-    "pct": 9,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/204/238/238530776373257.webp",
-    "url": "https://www.sas.am/catalog/balzam_dlya_volos/936763/",
-    "label": "",
-    "key": "SAS|id:936763"
-   },
    {
     "store": "SAS",
     "title": "Բալզամ «Pantene Active Nutri Plex Pro V» 275մլ",
@@ -5045,12 +5034,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156548.png",
     "url": "https://yerevan-city.am/shop/product-details/158905",
     "key": "Yerevan City|id:158905|5875|4990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կոնյակ «Առասպել» 3տ (տուփով) 0.7լ",
+    "old": 5590,
+    "new": 5190,
+    "pct": 7,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1045574.png",
+    "url": "https://yerevan-city.am/shop/product-details/6558",
+    "key": "Yerevan City|id:6558|5590|5190"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-21T01:02:05.108012+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-21T01:18:48.254367+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
