@@ -491,23 +491,12 @@
    "Yerevan City|id:193962|5990|4790",
    "Yerevan City|id:111628|5990|4450",
    "Yerevan City|id:176867|5990|3590",
-   "Yerevan City|id:176875|5990|3590"
+   "Yerevan City|id:176875|5990|3590",
+   "Yerevan City|id:177179|5990|3590"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շամպուն «Dove Amino Serum Damage Expert» 375մլ",
-    "old": 2390,
-    "new": 2130,
-    "pct": 11,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/396/800/8009173419329241.webp",
-    "url": "https://www.sas.am/catalog/dlya_volos2/950879/",
-    "label": "",
-    "key": "SAS|id:950879"
-   },
    {
     "store": "SAS",
     "title": "Մազերի կոնդիցիոներ «Dove Keratin Damage Expert» 350մլ",
@@ -3951,12 +3940,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170521.png",
     "url": "https://yerevan-city.am/shop/product-details/176875",
     "key": "Yerevan City|id:176875|5990|3590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տիկնիկ Բեյբի սո լովելի 236-2",
+    "old": 5990,
+    "new": 3590,
+    "pct": 40,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170799.png",
+    "url": "https://yerevan-city.am/shop/product-details/177179",
+    "key": "Yerevan City|id:177179|5990|3590"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-20T09:30:40.767157+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-20T09:45:29.924122+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
