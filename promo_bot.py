@@ -236,6 +236,22 @@ def make(store, title, old, new, until, img, url=""):
     return {"store": store, "title": title, "old": old, "new": new,
             "pct": pct, "until": until or "", "img": img or "", "url": url or ""}
 
+def card_title(chunk):
+    """Քարտի անունը։ Անունը գալիս է կա՛մ նկարի alt-ով, կա՛մ ուղղակի տողով։
+    Ակցիայի տողերը, գները, չափի տողը և զամբյուղի հղումը բաց են թողնվում։
+    """
+    for line in chunk.split("\n"):
+        t = line.strip(" -*|")
+        if not t or "Ակցիան գործում է" in t or "Զամբյուղում" in t:
+            continue
+        if t.startswith("[") or t.startswith("!") or t.startswith("Կտրատել"):
+            continue
+        if len(t) < 4 or t[0].isdigit():
+            continue
+        if has_name(t):
+            return t
+    return ""
+
 def parse_sas(md):
     cards = list(SAS_CARD.finditer(md))
     if not cards and DRY:
@@ -251,17 +267,19 @@ def parse_sas(md):
         if cut != -1:
             chunk = chunk[:cut]
         alt = SAS_ALT.search(chunk)
-        if not alt:
+        title = alt.group(1) if alt else card_title(chunk)
+        if not title:
             continue
-        if is_flower(url, alt.group(1)):
+        if is_flower(url, title):
             flowers += 1
             continue
         prices = [p for p in (num(x) for x in PRICE.findall(chunk)) if p > 0]
         if len(prices) < 2:
             continue
         dates = DATE.findall(chunk)
-        out.append(make("SAS", alt.group(1), prices[0], prices[-1],
-                        dates[-1] if dates else "", alt.group(2), url))
+        out.append(make("SAS", title, prices[0], prices[-1],
+                        dates[-1] if dates else "",
+                        alt.group(2) if alt else img_in(chunk), url))
     if flowers:
         print("SAS: ծաղիկների բաժինը դուրս մնաց՝ %d դիրք" % flowers)
     return [x for x in out if x]
