@@ -608,23 +608,12 @@
    "Yerevan City|id:192757|5950|4990",
    "Yerevan City|id:8262|5910|5090",
    "Yerevan City|id:174970|5890|2945",
-   "Yerevan City|id:23445|5890|4150"
+   "Yerevan City|id:23445|5890|4150",
+   "Yerevan City|id:158918|5860|4650"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Լվացքի կոնդիցիոներ «Vernel Max Свежий Бриз» 960մլ",
-    "old": 2250,
-    "new": 2050,
-    "pct": 9,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/182/896/896422586660741.webp",
-    "url": "https://www.sas.am/catalog/opolaskivatel_konditsioner_kontsentrat/940121/",
-    "label": "",
-    "key": "SAS|id:940121"
-   },
    {
     "store": "SAS",
     "title": "Հակաքրտինքային աէրոզոլային միջոց «Old Spice Epic Legend» 150մլ",
@@ -5033,12 +5022,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1103148.png",
     "url": "https://yerevan-city.am/shop/product-details/23445",
     "key": "Yerevan City|id:23445|5890|4150"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Դեմքի քսուք «Լիրեն» կոլ.խոնավ-հարթ. ՍՊՖ10 50մլ",
+    "old": 5860,
+    "new": 4650,
+    "pct": 21,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156561.png",
+    "url": "https://yerevan-city.am/shop/product-details/158918",
+    "key": "Yerevan City|id:158918|5860|4650"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-20T17:47:13.594828+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-20T18:02:17.114350+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
