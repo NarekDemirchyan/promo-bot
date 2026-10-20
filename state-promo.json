@@ -481,23 +481,12 @@
    "Yerevan City|id:175840|6290|4390",
    "Yerevan City|id:8822|6250|4790",
    "Yerevan City|id:174587|6250|5390",
-   "Yerevan City|id:13356|6210|5510"
+   "Yerevan City|id:13356|6210|5510",
+   "Yerevan City|id:13212|6190|4640"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Բալզամ «Elseve Роскошь 6 Mасел» 300մլ",
-    "old": 2650,
-    "new": 2370,
-    "pct": 11,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/834/918/9185823625101721.webp",
-    "url": "https://www.sas.am/catalog/balzam_dlya_volos/952939/",
-    "label": "",
-    "key": "SAS|id:952939"
-   },
    {
     "store": "SAS",
     "title": "Հակաքրտինքային աէրոզոլային միջոց «Dove Men+ Care Sensitive Shield» 250մլ",
@@ -4061,12 +4050,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1051064.png",
     "url": "https://yerevan-city.am/shop/product-details/13356",
     "key": "Yerevan City|id:13356|6210|5510"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գոգաթիակ+ավել «Վիլեդա»",
+    "old": 6190,
+    "new": 4640,
+    "pct": 25,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1017856.png",
+    "url": "https://yerevan-city.am/shop/product-details/13212",
+    "key": "Yerevan City|id:13212|6190|4640"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-20T04:30:38.853673+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-20T04:45:38.249130+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
