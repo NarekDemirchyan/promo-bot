@@ -630,23 +630,12 @@
    "Yerevan City|id:114340|5690|5290",
    "Yerevan City|id:172772|5690|5250",
    "Yerevan City|id:195110|5590|4470",
-   "Yerevan City|id:192757|5950|4890"
+   "Yerevan City|id:192757|5950|4890",
+   "Yerevan City|id:158905|5875|4990"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Բալզամ «Pantene Active Nutri Plex Pro V» 220մլ",
-    "old": 4310,
-    "new": 3960,
-    "pct": 8,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/524/688/6887662016738469.webp",
-    "url": "https://www.sas.am/catalog/balzam_dlya_volos/936764/",
-    "label": "",
-    "key": "SAS|id:936764"
-   },
    {
     "store": "SAS",
     "title": "Բալզամ «Pantene Active Nutri Plex Pro V» 275մլ",
@@ -5044,12 +5033,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176492.png",
     "url": "https://yerevan-city.am/shop/product-details/192757",
     "key": "Yerevan City|id:192757|5950|4890"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Արևելյան տեսականի «Մարաշի» 500գր",
+    "old": 5875,
+    "new": 4990,
+    "pct": 15,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156548.png",
+    "url": "https://yerevan-city.am/shop/product-details/158905",
+    "key": "Yerevan City|id:158905|5875|4990"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-21T00:32:01.714178+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-21T00:46:55.509250+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
