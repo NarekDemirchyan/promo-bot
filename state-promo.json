@@ -359,7 +359,8 @@
    "SAS|id:177832|550|440",
    "SAS|id:59289|500|450",
    "SAS|id:468778|1730|1530",
-   "SAS|id:4658|910|830"
+   "SAS|id:4658|910|830",
+   "SAS|id:786701|480|270"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2831,20 +2832,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/239/088/0885874150182725.webp",
     "url": "https://www.sas.am/catalog/khlebtsy/4658/",
     "key": "SAS|id:4658|910|830"
+   },
+   {
+    "store": "SAS",
+    "title": "Գարեջրային ըմպելիք «Mythos» 0.33լ",
+    "old": 480,
+    "new": 270,
+    "pct": 44,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/importnoe_pivo/786701/",
+    "key": "SAS|id:786701|480|270"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Դպրոցական պայուսակ «Սմիգգլ» Բարբի",
-    "old": 12990,
-    "new": 6990,
-    "pct": 46,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/192909",
-    "key": "Yerevan City|id:192909|12990|6990"
-   },
    {
     "store": "Yerevan City",
     "title": "Երաժշտական խաղալիք «Կարաոկե» ԳՄՋ9831",
@@ -5037,8 +5038,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-20T18:02:17.114350+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-20T18:19:22.282610+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
