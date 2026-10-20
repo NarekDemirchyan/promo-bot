@@ -1842,17 +1842,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Կոնստրուկտոր մագնիսական 159կտոր",
-    "old": 16550,
-    "new": 13240,
-    "pct": 20,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/195123",
-    "key": "Yerevan City|id:195123|16550|13240"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Քերիչ տարայով «Բրաբանտիա» պահուստով",
     "old": 16190,
     "new": 9989,
@@ -4043,8 +4032,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-20T05:45:29.046517+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-20T06:00:44.544593+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
