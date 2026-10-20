@@ -610,7 +610,8 @@
    "Yerevan City|id:8262|5910|5090",
    "Yerevan City|id:174970|5890|2945",
    "Yerevan City|id:23445|5890|4150",
-   "Yerevan City|id:158918|5860|4650"
+   "Yerevan City|id:158918|5860|4650",
+   "Yerevan City|id:167250|5830|5250"
   ]
  },
  "queues": {
@@ -5034,6 +5035,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156561.png",
     "url": "https://yerevan-city.am/shop/product-details/158918",
     "key": "Yerevan City|id:158918|5860|4650"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շամպուն «Հեդ ընդ Շոլդերս» անանուխ 1լ",
+    "old": 5830,
+    "new": 5250,
+    "pct": 10,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1162715.png",
+    "url": "https://yerevan-city.am/shop/product-details/167250",
+    "key": "Yerevan City|id:167250|5830|5250"
    }
   ]
  },
