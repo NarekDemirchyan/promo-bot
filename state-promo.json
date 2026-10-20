@@ -636,23 +636,12 @@
    "Yerevan City|id:192757|5950|4890",
    "Yerevan City|id:158905|5875|4990",
    "Yerevan City|id:6558|5590|5190",
-   "Yerevan City|id:111664|5590|2750"
+   "Yerevan City|id:111664|5590|2750",
+   "Yerevan City|id:176878|5590|3350"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Բալզամ «Pantene Active Nutri Plex Pro V» 220մլ",
-    "old": 4360,
-    "new": 3960,
-    "pct": 9,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/141/657/6573991638476244.webp",
-    "url": "https://www.sas.am/catalog/balzam_dlya_volos/936761/",
-    "label": "",
-    "key": "SAS|id:936761"
-   },
    {
     "store": "SAS",
     "title": "Շամպուն «Head & Shoulders Густые и Крепкие» 360մլ",
@@ -5047,12 +5036,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1142542.png",
     "url": "https://yerevan-city.am/shop/product-details/111664",
     "key": "Yerevan City|id:111664|5590|2750"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տիկնիկ ՄՆ337",
+    "old": 5590,
+    "new": 3350,
+    "pct": 40,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170524.png",
+    "url": "https://yerevan-city.am/shop/product-details/176878",
+    "key": "Yerevan City|id:176878|5590|3350"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-21T02:17:04.525955+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-21T02:32:15.114293+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
