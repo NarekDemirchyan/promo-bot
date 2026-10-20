@@ -363,7 +363,8 @@
    "SAS|id:786701|480|270",
    "SAS|id:429776|700|390",
    "SAS|id:407670|680|560",
-   "SAS|id:114493|1150|970"
+   "SAS|id:114493|1150|970",
+   "SAS|id:100916|610|540"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2835,20 +2836,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/293/309/3092513871236311.webp",
     "url": "https://www.sas.am/catalog/myasnaya_narezka/114493/",
     "key": "SAS|id:114493|1150|970"
+   },
+   {
+    "store": "SAS",
+    "title": "Կաթնային շոկոլադապատ թխվածքաբլիթ «Kinder Maxi King» 35գ",
+    "old": 610,
+    "new": 540,
+    "pct": 11,
+    "until": "28.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/desert_biskvit/100916/",
+    "key": "SAS|id:100916|610|540"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Ուղղաթիռ հեռակառավարումով Հ95",
-    "old": 12450,
-    "new": 8710,
-    "pct": 30,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/191806",
-    "key": "Yerevan City|id:191806|12450|8710"
-   },
    {
     "store": "Yerevan City",
     "title": "Լիկյոր «Վիլլա Մասսա» Լիմոնչելո 0.5լ",
@@ -5041,8 +5042,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-20T20:32:02.990524+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-20T20:46:23.586984+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
