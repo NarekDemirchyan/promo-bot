@@ -626,23 +626,12 @@
    "Yerevan City|id:192628|5790|3990",
    "Yerevan City|id:179431|5690|2845",
    "Yerevan City|id:114340|5690|5290",
-   "Yerevan City|id:172772|5690|5250"
+   "Yerevan City|id:172772|5690|5250",
+   "Yerevan City|id:195110|5590|4470"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Պատիճ սուրճի «L'OR Espresso Lungo Elegante» 10 հատ, 52գ",
-    "old": 3130,
-    "new": 1930,
-    "pct": 38,
-    "until": "28.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/196/414/4144551701504961.webp",
-    "url": "https://www.sas.am/catalog/drugoy/938117/",
-    "label": "",
-    "key": "SAS|id:938117"
-   },
    {
     "store": "SAS",
     "title": "Պատիճ սուրճի «L'OR Espresso Colombia Andes» 10 հատ, 52գ",
@@ -5042,12 +5031,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1166362.png",
     "url": "https://yerevan-city.am/shop/product-details/172772",
     "key": "Yerevan City|id:172772|5690|5250"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տիկնիկ երաժշտական Լ-85-5",
+    "old": 5590,
+    "new": 4470,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178915.png",
+    "url": "https://yerevan-city.am/shop/product-details/195110",
+    "key": "Yerevan City|id:195110|5590|4470"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-20T23:17:10.937351+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-20T23:32:03.034418+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
