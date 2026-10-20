@@ -1754,17 +1754,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Օղի «Էկիսս» օրգանիկ 0.7լ",
-    "old": 14990,
-    "new": 13490,
-    "pct": 10,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/128694",
-    "key": "Yerevan City|id:128694|14990|13490"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Երաժշտ.խաղալիք «Դինոզավր» 2023-5Ա",
     "old": 14990,
     "new": 8990,
@@ -3955,8 +3944,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-20T09:45:29.924122+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-20T10:00:49.507281+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
