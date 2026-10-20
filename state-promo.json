@@ -588,23 +588,12 @@
    "Yerevan City|id:177179|5990|3590",
    "Yerevan City|id:177187|5990|3590",
    "Yerevan City|id:177464|5990|3590",
-   "Yerevan City|id:194132|5990|4790"
+   "Yerevan City|id:194132|5990|4790",
+   "Yerevan City|id:194131|5990|4790"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Էներգետիկ գազավորված ըմպելիք հապալասի «Flash Up Blueberry Donut Limited Edition» 0.45լ",
-    "old": 430,
-    "new": 350,
-    "pct": 19,
-    "until": "28.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/100/500/500493433243036.webp",
-    "url": "https://www.sas.am/catalog/kokteyl_energeticheskiy_napitok/950287/",
-    "label": "",
-    "key": "SAS|id:950287"
-   },
    {
     "store": "SAS",
     "title": "Էներգետիկ գազավորված ըմպելիք պաստեղի «Flash Up Marshmallow» 0.45լ",
@@ -5023,12 +5012,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177903.png",
     "url": "https://yerevan-city.am/shop/product-details/194132",
     "key": "Yerevan City|id:194132|5990|4790"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Խոհանոցային հավաքածու 0216Ա",
+    "old": 5990,
+    "new": 4790,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177902.png",
+    "url": "https://yerevan-city.am/shop/product-details/194131",
+    "key": "Yerevan City|id:194131|5990|4790"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-20T11:46:03.291116+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-20T12:05:41.143588+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
