@@ -662,23 +662,12 @@
    "Yerevan City|id:169501|5450|4270",
    "Yerevan City|id:73236|5390|4950",
    "Yerevan City|id:102695|5390|4950",
-   "Yerevan City|id:71096|5380|2890"
+   "Yerevan City|id:71096|5380|2890",
+   "Yerevan City|id:181168|5390|3590"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Անձեռոցիկ «Selpak» 80 հատ",
-    "old": 1400,
-    "new": 1190,
-    "pct": 15,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/321/109/1096013008409416.webp",
-    "url": "https://www.sas.am/catalog/salfetki/923241/",
-    "label": "",
-    "key": "SAS|id:923241"
-   },
    {
     "store": "SAS",
     "title": "Չիպս լավաշից աղով \"Fitness Cook\" 130գ±4գ",
@@ -5060,12 +5049,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1114886.png",
     "url": "https://yerevan-city.am/shop/product-details/71096",
     "key": "Yerevan City|id:71096|5380|2890"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մազերի դիմակ «Ամիկա» ինտեն.խոնավեցում 250մլ",
+    "old": 5390,
+    "new": 3590,
+    "pct": 33,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174895.png",
+    "url": "https://yerevan-city.am/shop/product-details/181168",
+    "key": "Yerevan City|id:181168|5390|3590"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-21T10:16:57.426729+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-21T10:32:12.097231+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
