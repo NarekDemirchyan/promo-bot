@@ -684,22 +684,12 @@
    "Yerevan City|id:4812|5190|4620",
    "Yerevan City|id:15204|5170|4590",
    "Yerevan City|id:8706|5170|4230",
-   "Yerevan City|id:415|5170|4230"
+   "Yerevan City|id:415|5170|4230",
+   "Yerevan City|id:4065|5170|4480"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շոկոլադե կոնֆետների հավաքածու «Merci» 112գ",
-    "old": 1520,
-    "new": 1160,
-    "pct": 24,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/369/309/3099682256006410.webp",
-    "url": "https://www.sas.am/catalog/plitka/207268/",
-    "key": "SAS|id:207268|1520|1160"
-   },
    {
     "store": "SAS",
     "title": "Շոկոլադե կոնֆետների հավաքածու «Merci» 100գ",
@@ -5079,12 +5069,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1079841.png",
     "url": "https://yerevan-city.am/shop/product-details/415",
     "key": "Yerevan City|id:415|5170|4230"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սուրճ աղացած «ԼավԱզզա» Էսպրեսսո 250գր",
+    "old": 5170,
+    "new": 4480,
+    "pct": 13,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1050016.png",
+    "url": "https://yerevan-city.am/shop/product-details/4065",
+    "key": "Yerevan City|id:4065|5170|4480"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-21T16:31:19.004237+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-21T16:46:19.530894+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
