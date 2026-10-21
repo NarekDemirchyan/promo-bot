@@ -390,7 +390,8 @@
    "SAS|id:804472|2890|2620",
    "SAS|id:755536|5250|4750",
    "SAS|id:607570|6330|5790",
-   "SAS|id:95756|880|730"
+   "SAS|id:95756|880|730",
+   "SAS|id:83087|5750|4950"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2864,20 +2865,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/makaronyy/95756/",
     "key": "SAS|id:95756|880|730"
+   },
+   {
+    "store": "SAS",
+    "title": "Սուրճ էսպրեսսո աղացած «Lavazza Qualità Rossa» 250գ",
+    "old": 5750,
+    "new": 4950,
+    "pct": 14,
+    "until": "13.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/molotyy/83087/",
+    "key": "SAS|id:83087|5750|4950"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Չափաբաժակ «Բրաբանտիա» 2հտ",
-    "old": 10990,
-    "new": 5790,
-    "pct": 47,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/174886",
-    "key": "Yerevan City|id:174886|10990|5790"
-   },
    {
     "store": "Yerevan City",
     "title": "Մանկական տակդիրներ-վարտիք «Փամպերս» 4 9-15կգ 54հտ",
@@ -5070,8 +5071,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-21T12:46:51.034002+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-21T13:02:05.215139+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
