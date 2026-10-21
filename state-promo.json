@@ -694,7 +694,8 @@
    "Yerevan City|id:161451|5090|4690",
    "Yerevan City|id:131802|5050|4790",
    "Yerevan City|id:171777|4990|4350",
-   "Yerevan City|id:195083|4990|3990"
+   "Yerevan City|id:195083|4990|3990",
+   "Yerevan City|id:111377|4990|3490"
   ]
  },
  "queues": {
@@ -5089,6 +5090,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178886.png",
     "url": "https://yerevan-city.am/shop/product-details/195083",
     "key": "Yerevan City|id:195083|4990|3990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Փչովի լամպ «Ինտեքս» գունդ",
+    "old": 4990,
+    "new": 3490,
+    "pct": 30,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1142258.png",
+    "url": "https://yerevan-city.am/shop/product-details/111377",
+    "key": "Yerevan City|id:111377|4990|3490"
    }
   ]
  },
