@@ -648,7 +648,8 @@
    "Yerevan City|id:193541|5590|4990",
    "Yerevan City|id:13413|5560|3990",
    "Yerevan City|id:4098|5550|4990",
-   "Yerevan City|id:180802|5490|3990"
+   "Yerevan City|id:180802|5490|3990",
+   "Yerevan City|id:192275|5490|4370"
   ]
  },
  "queues": {
@@ -5053,6 +5054,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174536.png",
     "url": "https://yerevan-city.am/shop/product-details/180802",
     "key": "Yerevan City|id:180802|5490|3990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սոուս «Ամերիքան Գարդեն» հավի թևիկ. համար 1.890լ",
+    "old": 5490,
+    "new": 4370,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176007.png",
+    "url": "https://yerevan-city.am/shop/product-details/192275",
+    "key": "Yerevan City|id:192275|5490|4370"
    }
   ]
  },
