@@ -644,7 +644,8 @@
    "Yerevan City|id:176878|5590|3350",
    "Yerevan City|id:178656|5590|3590",
    "Yerevan City|id:193541|5590|4990",
-   "Yerevan City|id:13413|5560|3990"
+   "Yerevan City|id:13413|5560|3990",
+   "Yerevan City|id:4098|5550|4990"
   ]
  },
  "queues": {
@@ -5051,6 +5052,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1048019.png",
     "url": "https://yerevan-city.am/shop/product-details/13413",
     "key": "Yerevan City|id:13413|5560|3990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Օղի «Սմիրնոֆֆ» 0.5լ",
+    "old": 5550,
+    "new": 4990,
+    "pct": 10,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1041633.png",
+    "url": "https://yerevan-city.am/shop/product-details/4098",
+    "key": "Yerevan City|id:4098|5550|4990"
    }
   ]
  },
