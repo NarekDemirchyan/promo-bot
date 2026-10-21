@@ -376,7 +376,8 @@
    "SAS|id:874225|1520|1350",
    "SAS|id:78693|530|460",
    "SAS|id:78698|530|460",
-   "SAS|id:209445|680|590"
+   "SAS|id:209445|680|590",
+   "SAS|id:795897|1760|1350"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2848,20 +2849,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/konfety_v_upakovke/209445/",
     "key": "SAS|id:209445|680|590"
+   },
+   {
+    "store": "SAS",
+    "title": "Պատրաստի նախաճաշ «Kit Kat» 190գ",
+    "old": 1760,
+    "new": 1350,
+    "pct": 23,
+    "until": "23.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/gotovyy_zavtrak/795897/",
+    "key": "SAS|id:795897|1760|1350"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Դրաժե «Բելլա» ելակ սպ.շոկ.ջնարակում, սեխ կգ",
-    "old": 11990,
-    "new": 2950,
-    "pct": 75,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/181080",
-    "key": "Yerevan City|id:181080|11990|2950"
-   },
    {
     "store": "Yerevan City",
     "title": "Դրաժե «Բելլա» ելակ սպ.շոկ.ջնարակում, նարինջ կգ",
@@ -5054,8 +5055,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-21T04:31:13.324143+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-21T04:47:17.525898+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
