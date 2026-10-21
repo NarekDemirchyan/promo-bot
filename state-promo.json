@@ -652,23 +652,12 @@
    "Yerevan City|id:4098|5550|4990",
    "Yerevan City|id:180802|5490|3990",
    "Yerevan City|id:192275|5490|4370",
-   "Yerevan City|id:193199|5490|4390"
+   "Yerevan City|id:193199|5490|4390",
+   "Yerevan City|id:195094|5490|4390"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Մանանեխ «American Garden Classic» 227գ",
-    "old": 1250,
-    "new": 1180,
-    "pct": 6,
-    "until": "27.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/214/866/8660393577912509.webp",
-    "url": "https://www.sas.am/catalog/gorchitsa_khren_chaman/933948/",
-    "label": "",
-    "key": "SAS|id:933948"
-   },
    {
     "store": "SAS",
     "title": "Սոուս հավի թևիկներ «American Garden Original» 1.89լ",
@@ -5055,12 +5044,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176950.png",
     "url": "https://yerevan-city.am/shop/product-details/193199",
     "key": "Yerevan City|id:193199|5490|4390"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Երաժշտական սինթեզատոր ԴՋ239",
+    "old": 5490,
+    "new": 4390,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178904.png",
+    "url": "https://yerevan-city.am/shop/product-details/195094",
+    "key": "Yerevan City|id:195094|5490|4390"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-21T07:17:06.107938+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-21T07:31:07.333053+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
