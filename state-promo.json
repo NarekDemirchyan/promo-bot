@@ -388,7 +388,8 @@
    "SAS|id:133825|810|710",
    "SAS|id:99598|920|790",
    "SAS|id:804472|2890|2620",
-   "SAS|id:755536|5250|4750"
+   "SAS|id:755536|5250|4750",
+   "SAS|id:607570|6330|5790"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2860,20 +2861,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/310/705/7053752479822862.webp",
     "url": "https://www.sas.am/catalog/armyanskoe_vino/755536/",
     "key": "SAS|id:755536|5250|4750"
+   },
+   {
+    "store": "SAS",
+    "title": "Գինի սպիտակ «Կարաս» 0.75լ",
+    "old": 6330,
+    "new": 5790,
+    "pct": 9,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/313/537/5374472220681522.webp",
+    "url": "https://www.sas.am/catalog/armyanskoe_vino/607570/",
+    "key": "SAS|id:607570|6330|5790"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Կաթսա «Ռեյ Քիթչն» 26սմ ՀՍ-ՖՍ6726 (Ինդ)",
-    "old": 10990,
-    "new": 5490,
-    "pct": 50,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/129451",
-    "key": "Yerevan City|id:129451|10990|5490"
-   },
    {
     "store": "Yerevan City",
     "title": "Փափուկ խաղալիք «Կատու» սիամական, պառկած 70սմ",
@@ -5066,8 +5067,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-21T11:31:16.326778+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-21T11:46:06.272428+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
