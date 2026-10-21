@@ -412,7 +412,8 @@
    "SAS|id:421105|1520|1320",
    "SAS|id:209452|680|590",
    "SAS|id:179108|1330|820",
-   "SAS|id:799513|800|720"
+   "SAS|id:799513|800|720",
+   "SAS|id:796340|1280|1050"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2908,6 +2909,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/125/966/9662442301911230.webp",
     "url": "https://www.sas.am/catalog/armyanskoe/799513/",
     "key": "SAS|id:799513|800|720"
+   },
+   {
+    "store": "SAS",
+    "title": "Վաֆլե գլանակներ կակաոյի և գետնանուշի կրեմով «Caprice» 115գ",
+    "old": 1280,
+    "new": 1050,
+    "pct": 18,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/vafli_vafelnyy_tort/796340/",
+    "key": "SAS|id:796340|1280|1050"
    }
   ],
   "Yerevan City": [
