@@ -650,23 +650,12 @@
    "Yerevan City|id:13413|5560|3990",
    "Yerevan City|id:4098|5550|4990",
    "Yerevan City|id:180802|5490|3990",
-   "Yerevan City|id:192275|5490|4370"
+   "Yerevan City|id:192275|5490|4370",
+   "Yerevan City|id:193199|5490|4390"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Գարեջուր «Veltins Pilsener» 0.5լ",
-    "old": 920,
-    "new": 790,
-    "pct": 14,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/588/740/740869779106679.webp",
-    "url": "https://www.sas.am/catalog/importnoe_pivo/934313/",
-    "label": "",
-    "key": "SAS|id:934313"
-   },
    {
     "store": "SAS",
     "title": "Մանանեխ «American Garden Classic» 227գ",
@@ -5054,12 +5043,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176007.png",
     "url": "https://yerevan-city.am/shop/product-details/192275",
     "key": "Yerevan City|id:192275|5490|4370"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գնդակներ պայուսակով 100հտ 60-100",
+    "old": 5490,
+    "new": 4390,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176950.png",
+    "url": "https://yerevan-city.am/shop/product-details/193199",
+    "key": "Yerevan City|id:193199|5490|4390"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-21T06:46:05.281219+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-21T07:01:36.679606+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
