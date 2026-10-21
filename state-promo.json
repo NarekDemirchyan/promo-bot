@@ -2874,17 +2874,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Մանկ.տակդիր-վարտիք «Մերիս» ԻքսԻքսԼ 15-28կգ 24հտ",
-    "old": 11590,
-    "new": 9470,
-    "pct": 18,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/174528",
-    "key": "Yerevan City|id:174528|11590|9470"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Մանկ.տակդիր-վարտիք «Փամպերս» 5 11-17կգ 48հտ",
     "old": 11210,
     "new": 10090,
@@ -5075,8 +5064,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-21T09:54:00.718448+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-21T10:16:57.426729+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
