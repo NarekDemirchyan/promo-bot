@@ -398,7 +398,8 @@
    "SAS|id:4333|2270|1990",
    "SAS|id:3384|3790|3390",
    "SAS|id:734737|1120|690",
-   "SAS|id:880941|530|460"
+   "SAS|id:880941|530|460",
+   "SAS|id:126845|870|790"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2880,20 +2881,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/vafli_vafelnyy_tort/880941/",
     "key": "SAS|id:880941|530|460"
+   },
+   {
+    "store": "SAS",
+    "title": "Սպիտակեցնող նյութ «Ace» 1լ",
+    "old": 870,
+    "new": 790,
+    "pct": 9,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/opolaskivatel_konditsioner_kontsentrat/126845/",
+    "key": "SAS|id:126845|870|790"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Գարեջուր «Բուդվայզեր» թ/տ 5լ",
-    "old": 10300,
-    "new": 9290,
-    "pct": 10,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/16119",
-    "key": "Yerevan City|id:16119|10300|9290"
-   },
    {
     "store": "Yerevan City",
     "title": "Դպրոցական պայուսակ «Արտ Սփեյս»",
@@ -5086,8 +5087,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-21T17:31:59.940834+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-21T17:46:52.829280+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
