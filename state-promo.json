@@ -674,22 +674,12 @@
    "Yerevan City|id:180092|5290|4490",
    "Yerevan City|id:111615|5190|3590",
    "Yerevan City|id:192632|5190|3650",
-   "Yerevan City|id:34139|5190|4620"
+   "Yerevan City|id:34139|5190|4620",
+   "Yerevan City|id:18969|5190|4620"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Հակաքրտինքային աէրոզոլային միջոց «Nivea Men» 150մլ",
-    "old": 1940,
-    "new": 1590,
-    "pct": 18,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/300/531/5318151099623886.webp",
-    "url": "https://www.sas.am/catalog/antiperspirantt/39954/",
-    "key": "SAS|id:39954|1940|1590"
-   },
    {
     "store": "SAS",
     "title": "Շոկոլադե կոնֆետների հավաքածու «Merci» 400գ",
@@ -5069,12 +5059,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1104977.png",
     "url": "https://yerevan-city.am/shop/product-details/34139",
     "key": "Yerevan City|id:34139|5190|4620"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մանկ.տակդիր-վարտիք «Լիբերո» Ափ ընդ Գո 7 16-26կգ16հ",
+    "old": 5190,
+    "new": 4620,
+    "pct": 11,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1102262.png",
+    "url": "https://yerevan-city.am/shop/product-details/18969",
+    "key": "Yerevan City|id:18969|5190|4620"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-21T13:31:23.426208+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-21T13:46:08.989850+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
