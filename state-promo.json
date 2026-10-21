@@ -678,7 +678,8 @@
    "Yerevan City|id:192632|5190|3650",
    "Yerevan City|id:34139|5190|4620",
    "Yerevan City|id:18969|5190|4620",
-   "Yerevan City|id:4812|5190|4620"
+   "Yerevan City|id:4812|5190|4620",
+   "Yerevan City|id:15204|5170|4590"
   ]
  },
  "queues": {
@@ -5073,6 +5074,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1096222.png",
     "url": "https://yerevan-city.am/shop/product-details/4812",
     "key": "Yerevan City|id:4812|5190|4620"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շոկոլադե կոնֆետներ «Կրասնայա Շապոչկա» կգ",
+    "old": 5170,
+    "new": 4590,
+    "pct": 11,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1046031.png",
+    "url": "https://yerevan-city.am/shop/product-details/15204",
+    "key": "Yerevan City|id:15204|5170|4590"
    }
   ]
  },
