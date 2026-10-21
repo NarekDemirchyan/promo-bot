@@ -702,22 +702,12 @@
    "Yerevan City|id:111377|4990|3490",
    "Yerevan City|id:195065|4990|3990",
    "Yerevan City|id:193658|4990|3890",
-   "Yerevan City|id:192915|4990|2990"
+   "Yerevan City|id:192915|4990|2990",
+   "Yerevan City|id:192914|4990|2990"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Դրաժե շոկոլադե «M&M's» 45գ",
-    "old": 440,
-    "new": 410,
-    "pct": 7,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/451/718/718394169246237.webp",
-    "url": "https://www.sas.am/catalog/drajee/78945/",
-    "key": "SAS|id:78945|440|410"
-   },
    {
     "store": "SAS",
     "title": "Գինի կարմիր «Երևան» 0.75լ",
@@ -5097,12 +5087,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176662.png",
     "url": "https://yerevan-city.am/shop/product-details/192915",
     "key": "Yerevan City|id:192915|4990|2990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գրչատուփ կտորից «Սմիգգլ» Սթիթչ",
+    "old": 4990,
+    "new": 2990,
+    "pct": 40,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176661.png",
+    "url": "https://yerevan-city.am/shop/product-details/192914",
+    "key": "Yerevan City|id:192914|4990|2990"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-21T22:16:17.803165+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-21T22:31:18.178675+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
