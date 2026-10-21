@@ -410,7 +410,8 @@
    "SAS|id:197861|960|740",
    "SAS|id:25325|1350|1170",
    "SAS|id:421105|1520|1320",
-   "SAS|id:209452|680|590"
+   "SAS|id:209452|680|590",
+   "SAS|id:179108|1330|820"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2904,6 +2905,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/195/162/1620213576355956.webp",
     "url": "https://www.sas.am/catalog/konfety_v_upakovke/209452/",
     "key": "SAS|id:209452|680|590"
+   },
+   {
+    "store": "SAS",
+    "title": "Պանիր հալած մաազդամ «President» 150գ",
+    "old": 1330,
+    "new": 820,
+    "pct": 38,
+    "until": "28.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/377/081/0812482125856489.webp",
+    "url": "https://www.sas.am/catalog/importnyy_syr/179108/",
+    "key": "SAS|id:179108|1330|820"
    }
   ],
   "Yerevan City": [
