@@ -385,7 +385,8 @@
    "SAS|id:255420|230|180",
    "SAS|id:133159|3350|2990",
    "SAS|id:140564|1120|950",
-   "SAS|id:133825|810|710"
+   "SAS|id:133825|810|710",
+   "SAS|id:99598|920|790"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2857,6 +2858,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/pechene_pryaniki/133825/",
     "key": "SAS|id:133825|810|710"
+   },
+   {
+    "store": "SAS",
+    "title": "Աղբի տոպրակներ «Gosia Clean Worki Mocne» 35լ",
+    "old": 920,
+    "new": 790,
+    "pct": 14,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/pakety_dlya_musora/99598/",
+    "key": "SAS|id:99598|920|790"
    }
   ],
   "Yerevan City": [
