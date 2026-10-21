@@ -682,7 +682,8 @@
    "Yerevan City|id:18969|5190|4620",
    "Yerevan City|id:4812|5190|4620",
    "Yerevan City|id:15204|5170|4590",
-   "Yerevan City|id:8706|5170|4230"
+   "Yerevan City|id:8706|5170|4230",
+   "Yerevan City|id:415|5170|4230"
   ]
  },
  "queues": {
@@ -5077,6 +5078,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1085000.png",
     "url": "https://yerevan-city.am/shop/product-details/8706",
     "key": "Yerevan City|id:8706|5170|4230"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սուրճ հատիկավոր «Էգոիստ» 250գր",
+    "old": 5170,
+    "new": 4230,
+    "pct": 18,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1079841.png",
+    "url": "https://yerevan-city.am/shop/product-details/415",
+    "key": "Yerevan City|id:415|5170|4230"
    }
   ]
  },
