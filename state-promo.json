@@ -664,23 +664,12 @@
    "Yerevan City|id:73236|5390|4950",
    "Yerevan City|id:102695|5390|4950",
    "Yerevan City|id:71096|5380|2890",
-   "Yerevan City|id:181168|5390|3590"
+   "Yerevan City|id:181168|5390|3590",
+   "Yerevan City|id:167476|5290|3790"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Չիպս լավաշից աղով \"Fitness Cook\" 130գ±4գ",
-    "old": 590,
-    "new": 450,
-    "pct": 24,
-    "until": "22.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/206/443/4433031174075992.webp",
-    "url": "https://www.sas.am/catalog/khlebtsy/922647/",
-    "label": "",
-    "key": "SAS|id:922647"
-   },
    {
     "store": "SAS",
     "title": "Ականջակալներ «Borofone BM62»",
@@ -5061,12 +5050,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174895.png",
     "url": "https://yerevan-city.am/shop/product-details/181168",
     "key": "Yerevan City|id:181168|5390|3590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Անկ․հավ․մեկտ․ «ՑինԹայ» 160x220",
+    "old": 5290,
+    "new": 3790,
+    "pct": 28,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1162853.png",
+    "url": "https://yerevan-city.am/shop/product-details/167476",
+    "key": "Yerevan City|id:167476|5290|3790"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-21T10:47:02.324146+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-21T11:01:19.741576+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
