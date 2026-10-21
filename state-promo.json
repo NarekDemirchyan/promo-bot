@@ -716,17 +716,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Սուրճ աղացած «Jacobs Monarch» 200գ",
-    "old": 2990,
-    "new": 1990,
-    "pct": 33,
-    "until": "28.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/242/704/7042641115955897.webp",
-    "url": "https://www.sas.am/catalog/molotyy/83000/",
-    "key": "SAS|id:83000|2990|1990"
-   },
-   {
-    "store": "SAS",
     "title": "Փրփրուն գինի «Երևան» 0.75լ",
     "old": 2990,
     "new": 2690,
@@ -5119,8 +5108,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-22T00:03:33.021056+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-22T00:32:01.180124+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
