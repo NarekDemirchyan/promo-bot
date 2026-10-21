@@ -648,18 +648,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Բալզամ «Pantene Active Nutri Plex Pro V» 275մլ",
-    "old": 2510,
-    "new": 2350,
-    "pct": 6,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/491/674/674303322285364.webp",
-    "url": "https://www.sas.am/catalog/balzam_dlya_volos/936758/",
-    "label": "",
-    "key": "SAS|id:936758"
-   },
-   {
-    "store": "SAS",
     "title": "Հակաքրտինքային միջոց-գել «Old Spice Cold Spice» 70մլ",
     "old": 3440,
     "new": 3050,
@@ -5065,8 +5053,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-21T03:32:21.407306+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-21T04:01:25.093460+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
