@@ -2907,17 +2907,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Ավտոմեքենա-տանկ հեռակառավարումով ՅԵ-342",
-    "old": 9990,
-    "new": 5990,
-    "pct": 40,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/166499",
-    "key": "Yerevan City|id:166499|9990|5990"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Պանիր էմմենտալ «Պրեզիդենտ» կգ",
     "old": 9990,
     "new": 7990,
@@ -5108,8 +5097,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-21T20:33:58.178701+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-21T21:02:16.058139+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
