@@ -668,22 +668,12 @@
    "Yerevan City|id:71096|5380|2890",
    "Yerevan City|id:181168|5390|3590",
    "Yerevan City|id:167476|5290|3790",
-   "Yerevan City|id:180092|5290|4490"
+   "Yerevan City|id:180092|5290|4490",
+   "Yerevan City|id:111615|5190|3590"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Լվացքի հեղուկ մանկական «Frosch Baby» 1.5լ",
-    "old": 5250,
-    "new": 3190,
-    "pct": 39,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/153/283/283153566225964.webp",
-    "url": "https://www.sas.am/catalog/forlaundryy/34961/",
-    "key": "SAS|id:34961|5250|3190"
-   },
    {
     "store": "SAS",
     "title": "Հակաքրտինքային աէրոզոլային միջոց «Nivea Men Ultra» 150մլ",
@@ -5063,12 +5053,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173811.png",
     "url": "https://yerevan-city.am/shop/product-details/180092",
     "key": "Yerevan City|id:180092|5290|4490"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Քերիչ «Բրաբանտիա» 2107-020",
+    "old": 5190,
+    "new": 3590,
+    "pct": 31,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1142492.png",
+    "url": "https://yerevan-city.am/shop/product-details/111615",
+    "key": "Yerevan City|id:111615|5190|3590"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-21T11:46:06.272428+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-21T12:05:57.022977+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
