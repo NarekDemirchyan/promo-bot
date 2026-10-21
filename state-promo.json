@@ -414,7 +414,8 @@
    "SAS|id:179108|1330|820",
    "SAS|id:799513|800|720",
    "SAS|id:796340|1280|1050",
-   "SAS|id:541560|2250|2050"
+   "SAS|id:541560|2250|2050",
+   "SAS|id:171390|1820|1640"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2912,6 +2913,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/opolaskivatel_konditsioner_kontsentrat/541560/",
     "key": "SAS|id:541560|2250|2050"
+   },
+   {
+    "store": "SAS",
+    "title": "Զուգարանակոնքի մաքրող միջոց «Bref» 100գ",
+    "old": 1820,
+    "new": 1640,
+    "pct": 10,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/112/602/6025511581663046.webp",
+    "url": "https://www.sas.am/catalog/forhebathroom/171390/",
+    "key": "SAS|id:171390|1820|1640"
    }
   ],
   "Yerevan City": [
