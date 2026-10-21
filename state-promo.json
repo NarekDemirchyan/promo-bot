@@ -716,22 +716,12 @@
    "Yerevan City|id:175977|4990|2990",
    "Yerevan City|id:175987|4990|2990",
    "Yerevan City|id:176246|4990|2990",
-   "Yerevan City|id:176754|4990|2495"
+   "Yerevan City|id:176754|4990|2495",
+   "Yerevan City|id:176759|4990|2990"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Միջադիրներ «Libresse Natural Care Ultra Normal» 10հատ",
-    "old": 920,
-    "new": 780,
-    "pct": 15,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/405/848/8487093245682525.webp",
-    "url": "https://www.sas.am/catalog/dlya_intimnoy_gigieny2/145235/",
-    "key": "SAS|id:145235|920|780"
-   },
    {
     "store": "SAS",
     "title": "Միջադիրներ «Libresse Invisible Goodnight» 10 հատ",
@@ -5111,12 +5101,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170399.png",
     "url": "https://yerevan-city.am/shop/product-details/176754",
     "key": "Yerevan City|id:176754|4990|2495"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մեքենատար-զենք իներցիոն +8ավտոմեքենա Կ179Ա10",
+    "old": 4990,
+    "new": 2990,
+    "pct": 40,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170404.png",
+    "url": "https://yerevan-city.am/shop/product-details/176759",
+    "key": "Yerevan City|id:176759|4990|2990"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-22T02:46:50.992902+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-22T03:02:03.240917+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
