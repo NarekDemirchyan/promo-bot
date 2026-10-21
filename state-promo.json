@@ -704,7 +704,8 @@
    "Yerevan City|id:195065|4990|3990",
    "Yerevan City|id:193658|4990|3890",
    "Yerevan City|id:192915|4990|2990",
-   "Yerevan City|id:192914|4990|2990"
+   "Yerevan City|id:192914|4990|2990",
+   "Yerevan City|id:8547|4990|990"
   ]
  },
  "queues": {
@@ -5099,6 +5100,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176661.png",
     "url": "https://yerevan-city.am/shop/product-details/192914",
     "key": "Yerevan City|id:192914|4990|2990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Չամիչ սև խոշոր կգ",
+    "old": 4990,
+    "new": 990,
+    "pct": 80,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1088457.png",
+    "url": "https://yerevan-city.am/shop/product-details/8547",
+    "key": "Yerevan City|id:8547|4990|990"
    }
   ]
  },
