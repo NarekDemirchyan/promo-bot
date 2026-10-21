@@ -698,17 +698,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Վիսկի «Johnnie Walker 12 Black Label» 1լ",
-    "old": 35500,
-    "new": 32500,
-    "pct": 8,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/381/382/3829682621065905.webp",
-    "url": "https://www.sas.am/catalog/viski/31292/",
-    "key": "SAS|id:31292|35500|32500"
-   },
-   {
-    "store": "SAS",
     "title": "Գինի կարմիր «Երևան Արենի Կարմրահյութ» 0.75լ",
     "old": 3770,
     "new": 3390,
@@ -5101,8 +5090,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-21T18:18:44.642732+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-21T18:47:01.797060+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
