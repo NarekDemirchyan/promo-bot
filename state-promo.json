@@ -656,18 +656,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Գարեջուր «Veltins Pilsener» 0.33լ",
-    "old": 840,
-    "new": 560,
-    "pct": 33,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/375/627/6271974283398532.webp",
-    "url": "https://www.sas.am/catalog/importnoe_pivo/934331/",
-    "label": "",
-    "key": "SAS|id:934331"
-   },
-   {
-    "store": "SAS",
     "title": "Գարեջուր «Veltins Pilsener» 0.5լ",
     "old": 920,
     "new": 790,
@@ -5069,8 +5057,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-21T06:02:06.731308+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-21T06:31:13.082529+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
