@@ -383,7 +383,8 @@
    "SAS|id:858502|650|550",
    "SAS|id:429779|590|490",
    "SAS|id:255420|230|180",
-   "SAS|id:133159|3350|2990"
+   "SAS|id:133159|3350|2990",
+   "SAS|id:140564|1120|950"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2855,6 +2856,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/pechene_pryaniki/133159/",
     "key": "SAS|id:133159|3350|2990"
+   },
+   {
+    "store": "SAS",
+    "title": "Թղթե սրբիչ «Zewa Premium decor» 2 հատ",
+    "old": 1120,
+    "new": 950,
+    "pct": 15,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/207/591/5917033582748126.webp",
+    "url": "https://www.sas.am/catalog/bum_polotentsa/140564/",
+    "key": "SAS|id:140564|1120|950"
    }
   ],
   "Yerevan City": [
