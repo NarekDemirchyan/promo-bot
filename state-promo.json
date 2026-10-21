@@ -378,7 +378,8 @@
    "SAS|id:78698|530|460",
    "SAS|id:209445|680|590",
    "SAS|id:795897|1760|1350",
-   "SAS|id:961999|1390|1180"
+   "SAS|id:961999|1390|1180",
+   "SAS|id:858519|490|440"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2850,20 +2851,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/vafli_vafelnyy_tort/961999/",
     "key": "SAS|id:961999|1390|1180"
+   },
+   {
+    "store": "SAS",
+    "title": "Կտոր վիսկոզային «Фрекен Бок» 3 հատ",
+    "old": 490,
+    "new": 440,
+    "pct": 10,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/rezinovye_izdeliya/858519/",
+    "key": "SAS|id:858519|490|440"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Դրաժե «Բելլա» ելակ սպ.շոկ.ջնարակում, ելակ կգ",
-    "old": 11990,
-    "new": 2950,
-    "pct": 75,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/181084",
-    "key": "Yerevan City|id:181084|11990|2950"
-   },
    {
     "store": "Yerevan City",
     "title": "Դրաժե «Բելլա» ելակ սպ-կաթ.շոկ.ջնարակում, լայմ կգ",
@@ -5056,8 +5057,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-21T05:46:05.413874+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-21T06:02:06.731308+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
