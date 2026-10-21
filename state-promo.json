@@ -394,7 +394,8 @@
    "SAS|id:83087|5750|4950",
    "SAS|id:38876|880|690",
    "SAS|id:20207|2270|1360",
-   "SAS|id:2372|660|560"
+   "SAS|id:2372|660|560",
+   "SAS|id:4333|2270|1990"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2872,6 +2873,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/voda/2372/",
     "key": "SAS|id:2372|660|560"
+   },
+   {
+    "store": "SAS",
+    "title": "Նրբերշիկ հավի «Greisinger» 300գ",
+    "old": 2270,
+    "new": 1990,
+    "pct": 12,
+    "until": "13.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/sosiski_sordelki/4333/",
+    "key": "SAS|id:4333|2270|1990"
    }
   ],
   "Yerevan City": [
