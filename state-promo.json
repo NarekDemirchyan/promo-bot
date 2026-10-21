@@ -672,22 +672,12 @@
    "Yerevan City|id:167476|5290|3790",
    "Yerevan City|id:180092|5290|4490",
    "Yerevan City|id:111615|5190|3590",
-   "Yerevan City|id:192632|5190|3650"
+   "Yerevan City|id:192632|5190|3650",
+   "Yerevan City|id:34139|5190|4620"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Վարտիք - տակդիրներ «Libero Up&Go №6» 13-20կգ, 18 հատ",
-    "old": 5850,
-    "new": 5250,
-    "pct": 10,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/199/916/916363584147231.webp",
-    "url": "https://www.sas.am/catalog/podguzniki/190989/",
-    "key": "SAS|id:190989|5850|5250"
-   },
    {
     "store": "SAS",
     "title": "Հակաքրտինքային աէրոզոլային միջոց «Nivea Men» 150մլ",
@@ -5067,12 +5057,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176364.png",
     "url": "https://yerevan-city.am/shop/product-details/192632",
     "key": "Yerevan City|id:192632|5190|3650"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մանկ.տակդիր-վարտիք «Լիբերո» Ափ ընդ Գո 5 10-14կգ20հ",
+    "old": 5190,
+    "new": 4620,
+    "pct": 11,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1104977.png",
+    "url": "https://yerevan-city.am/shop/product-details/34139",
+    "key": "Yerevan City|id:34139|5190|4620"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-21T13:02:05.215139+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-21T13:17:13.382657+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
