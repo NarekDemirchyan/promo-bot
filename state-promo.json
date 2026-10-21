@@ -413,7 +413,8 @@
    "SAS|id:209452|680|590",
    "SAS|id:179108|1330|820",
    "SAS|id:799513|800|720",
-   "SAS|id:796340|1280|1050"
+   "SAS|id:796340|1280|1050",
+   "SAS|id:541560|2250|2050"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2910,6 +2911,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/vafli_vafelnyy_tort/796340/",
     "key": "SAS|id:796340|1280|1050"
+   },
+   {
+    "store": "SAS",
+    "title": "Լվացքի կոնդիցիոներ «Vernel Sensitive» 960մլ",
+    "old": 2250,
+    "new": 2050,
+    "pct": 9,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/opolaskivatel_konditsioner_kontsentrat/541560/",
+    "key": "SAS|id:541560|2250|2050"
    }
   ],
   "Yerevan City": [
