@@ -688,22 +688,12 @@
    "Yerevan City|id:8706|5170|4230",
    "Yerevan City|id:415|5170|4230",
    "Yerevan City|id:4065|5170|4480",
-   "Yerevan City|id:161451|5090|4690"
+   "Yerevan City|id:161451|5090|4690",
+   "Yerevan City|id:131802|5050|4790"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կոնյակ «Hennessy VS» 0.7լ",
-    "old": 25830,
-    "new": 23500,
-    "pct": 9,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/259/181/1818512698471114.webp",
-    "url": "https://www.sas.am/catalog/importnyy_konyak_brendi/81115/",
-    "key": "SAS|id:81115|25830|23500"
-   },
    {
     "store": "SAS",
     "title": "Վիսկի «Johnnie Walker 12 Black Label» 1լ",
@@ -5083,12 +5073,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1159047.png",
     "url": "https://yerevan-city.am/shop/product-details/161451",
     "key": "Yerevan City|id:161451|5090|4690"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կոնյակ «Վի Ընդ Էմ» 3տ 0.5լ",
+    "old": 5050,
+    "new": 4790,
+    "pct": 5,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1151336.png",
+    "url": "https://yerevan-city.am/shop/product-details/131802",
+    "key": "Yerevan City|id:131802|5050|4790"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-21T17:46:52.829280+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-21T18:03:11.723623+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
