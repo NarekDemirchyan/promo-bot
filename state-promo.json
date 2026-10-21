@@ -389,7 +389,8 @@
    "SAS|id:99598|920|790",
    "SAS|id:804472|2890|2620",
    "SAS|id:755536|5250|4750",
-   "SAS|id:607570|6330|5790"
+   "SAS|id:607570|6330|5790",
+   "SAS|id:95756|880|730"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2862,6 +2863,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/313/537/5374472220681522.webp",
     "url": "https://www.sas.am/catalog/armyanskoe_vino/607570/",
     "key": "SAS|id:607570|6330|5790"
+   },
+   {
+    "store": "SAS",
+    "title": "Մակարոն «Barilla Farfalle № 65» 500գ",
+    "old": 880,
+    "new": 730,
+    "pct": 17,
+    "until": "10.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/makaronyy/95756/",
+    "key": "SAS|id:95756|880|730"
    }
   ],
   "Yerevan City": [
