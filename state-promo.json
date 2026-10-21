@@ -668,18 +668,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Անձեռոցիկ «Պապիրուս» 120 հատ",
-    "old": 420,
-    "new": 370,
-    "pct": 12,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/363/577/577282267771730.webp",
-    "url": "https://www.sas.am/catalog/salfetki/923270/",
-    "label": "",
-    "key": "SAS|id:923270"
-   },
-   {
-    "store": "SAS",
     "title": "Անձեռոցիկ «Selpak» 80 հատ",
     "old": 1400,
     "new": 1190,
@@ -5075,8 +5063,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-21T09:34:34.260189+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-21T09:54:00.718448+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
