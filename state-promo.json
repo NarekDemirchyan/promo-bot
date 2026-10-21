@@ -690,7 +690,8 @@
    "Yerevan City|id:415|5170|4230",
    "Yerevan City|id:4065|5170|4480",
    "Yerevan City|id:161451|5090|4690",
-   "Yerevan City|id:131802|5050|4790"
+   "Yerevan City|id:131802|5050|4790",
+   "Yerevan City|id:171777|4990|4350"
   ]
  },
  "queues": {
@@ -5085,6 +5086,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1151336.png",
     "url": "https://yerevan-city.am/shop/product-details/131802",
     "key": "Yerevan City|id:131802|5050|4790"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գինի «Անսելման» Ռիսլինգ, սպիտակ չոր 0.75լ",
+    "old": 4990,
+    "new": 4350,
+    "pct": 13,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1165333.png",
+    "url": "https://yerevan-city.am/shop/product-details/171777",
+    "key": "Yerevan City|id:171777|4990|4350"
    }
   ]
  },
