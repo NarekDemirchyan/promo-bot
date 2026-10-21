@@ -708,7 +708,8 @@
    "Yerevan City|id:192915|4990|2990",
    "Yerevan City|id:192914|4990|2990",
    "Yerevan City|id:8547|4990|990",
-   "Yerevan City|id:155268|4990|3390"
+   "Yerevan City|id:155268|4990|3390",
+   "Yerevan City|id:175977|4990|2990"
   ]
  },
  "queues": {
@@ -5103,6 +5104,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1154682.png",
     "url": "https://yerevan-city.am/shop/product-details/155268",
     "key": "Yerevan City|id:155268|4990|3390"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թավա ա/կ գրանիտ 24սմ",
+    "old": 4990,
+    "new": 2990,
+    "pct": 40,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169594.png",
+    "url": "https://yerevan-city.am/shop/product-details/175977",
+    "key": "Yerevan City|id:175977|4990|2990"
    }
   ]
  },
