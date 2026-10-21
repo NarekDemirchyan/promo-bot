@@ -403,7 +403,8 @@
    "SAS|id:573913|1150|990",
    "SAS|id:442339|1390|1140",
    "SAS|id:822896|1240|970",
-   "SAS|id:867660|1990|990"
+   "SAS|id:867660|1990|990",
+   "SAS|id:626074|1840|1230"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2890,6 +2891,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/konfety_v_upakovke/867660/",
     "key": "SAS|id:867660|1990|990"
+   },
+   {
+    "store": "SAS",
+    "title": "Շոկոլադե սալիկ սպիտակ «Lindt Lindor» 100գ",
+    "old": 1840,
+    "new": 1230,
+    "pct": 33,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/plitka/626074/",
+    "key": "SAS|id:626074|1840|1230"
    }
   ],
   "Yerevan City": [
