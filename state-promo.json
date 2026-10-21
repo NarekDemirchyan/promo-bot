@@ -670,22 +670,12 @@
    "Yerevan City|id:181168|5390|3590",
    "Yerevan City|id:167476|5290|3790",
    "Yerevan City|id:180092|5290|4490",
-   "Yerevan City|id:111615|5190|3590"
+   "Yerevan City|id:111615|5190|3590",
+   "Yerevan City|id:192632|5190|3650"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Հակաքրտինքային աէրոզոլային միջոց «Nivea Men Ultra» 150մլ",
-    "old": 1940,
-    "new": 1590,
-    "pct": 18,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/899/120/1205362692467433.webp",
-    "url": "https://www.sas.am/catalog/antiperspirantt/39352/",
-    "key": "SAS|id:39352|1940|1590"
-   },
    {
     "store": "SAS",
     "title": "Վարտիք - տակդիրներ «Libero Up&Go №6» 13-20կգ, 18 հատ",
@@ -5065,12 +5055,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1142492.png",
     "url": "https://yerevan-city.am/shop/product-details/111615",
     "key": "Yerevan City|id:111615|5190|3590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հյութի բաժակ «Ռակլե» Ավան. գոլդ 540մլ 4հտ ԱՎԳ520",
+    "old": 5190,
+    "new": 3650,
+    "pct": 30,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176364.png",
+    "url": "https://yerevan-city.am/shop/product-details/192632",
+    "key": "Yerevan City|id:192632|5190|3650"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-21T12:32:02.077528+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-21T12:46:51.034002+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
