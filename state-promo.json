@@ -379,7 +379,8 @@
    "SAS|id:209445|680|590",
    "SAS|id:795897|1760|1350",
    "SAS|id:961999|1390|1180",
-   "SAS|id:858519|490|440"
+   "SAS|id:858519|490|440",
+   "SAS|id:858502|650|550"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2851,20 +2852,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/rezinovye_izdeliya/858519/",
     "key": "SAS|id:858519|490|440"
+   },
+   {
+    "store": "SAS",
+    "title": "Ռետինե ձեռնոցներ «Фрекен Бок» M",
+    "old": 650,
+    "new": 550,
+    "pct": 15,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/365/280/2807361831930327.webp",
+    "url": "https://www.sas.am/catalog/rezinovye_izdeliya/858502/",
+    "key": "SAS|id:858502|650|550"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Դրաժե «Բելլա» ելակ սպ-կաթ.շոկ.ջնարակում, լայմ կգ",
-    "old": 11990,
-    "new": 2950,
-    "pct": 75,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/181086",
-    "key": "Yerevan City|id:181086|11990|2950"
-   },
    {
     "store": "Yerevan City",
     "title": "Դրաժե «Բելլա» ելակ սպիտակ-կաթ.շոկ.ջնարակում կգ",
@@ -5057,8 +5058,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-21T06:31:13.082529+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-21T06:46:05.281219+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
