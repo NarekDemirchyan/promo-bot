@@ -2925,17 +2925,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Օղի «Ավետյան» Գոլդ 0.5լ",
-    "old": 9590,
-    "new": 7690,
-    "pct": 20,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/169247",
-    "key": "Yerevan City|id:169247|9590|7690"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Վերմուտ «Գանչա» Բիանկո 1լ",
     "old": 9590,
     "new": 4190,
@@ -5126,8 +5115,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-22T02:20:07.665992+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-22T02:46:50.992902+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
