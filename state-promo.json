@@ -406,7 +406,8 @@
    "SAS|id:867660|1990|990",
    "SAS|id:626074|1840|1230",
    "SAS|id:3268|880|730",
-   "SAS|id:689837|1990|1620"
+   "SAS|id:689837|1990|1620",
+   "SAS|id:197861|960|740"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2896,20 +2897,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/811/687/6875492066992676.webp",
     "url": "https://www.sas.am/catalog/armyanskiy_syr/689837/",
     "key": "SAS|id:689837|1990|1620"
+   },
+   {
+    "store": "SAS",
+    "title": "Թեյ սև «Richard Royal Classics Lord Grey» 25*2գ",
+    "old": 960,
+    "new": 740,
+    "pct": 23,
+    "until": "28.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/v_paketakh/197861/",
+    "key": "SAS|id:197861|960|740"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Երշիկ հում-չորացրած, կիսաչոր սալչիչոն էքստրա «Կասադեմոնտ» կգ",
-    "old": 9950,
-    "new": 4975,
-    "pct": 50,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/114844",
-    "key": "Yerevan City|id:114844|9950|4975"
-   },
    {
     "store": "Yerevan City",
     "title": "Կոնյակ «Գրանդ Երևան» 10տ (տուփով) 0.5լ",
@@ -5102,8 +5103,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-21T22:31:18.178675+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-21T22:49:06.952933+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
