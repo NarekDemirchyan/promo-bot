@@ -656,23 +656,12 @@
    "Yerevan City|id:192275|5490|4370",
    "Yerevan City|id:193199|5490|4390",
    "Yerevan City|id:195094|5490|4390",
-   "Yerevan City|id:169501|5450|4270"
+   "Yerevan City|id:169501|5450|4270",
+   "Yerevan City|id:73236|5390|4950"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Գարեջուր «Mythos Ice» 0.33լ",
-    "old": 790,
-    "new": 490,
-    "pct": 38,
-    "until": "30.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/386/146/146127941894343.webp",
-    "url": "https://www.sas.am/catalog/importnoe_pivo/929561/",
-    "label": "",
-    "key": "SAS|id:929561"
-   },
    {
     "store": "SAS",
     "title": "Անձեռոցիկ «Պապիրուս» 150 հատ",
@@ -5057,12 +5046,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1163340.png",
     "url": "https://yerevan-city.am/shop/product-details/169501",
     "key": "Yerevan City|id:169501|5450|4270"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գինի «Կարաս» Մալբեկ, կարմիր անապակ 0.75լ",
+    "old": 5390,
+    "new": 4950,
+    "pct": 8,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1116415.png",
+    "url": "https://yerevan-city.am/shop/product-details/73236",
+    "key": "Yerevan City|id:73236|5390|4950"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-21T08:16:27.476935+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-21T08:34:21.826996+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
