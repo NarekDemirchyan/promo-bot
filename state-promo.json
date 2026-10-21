@@ -401,7 +401,8 @@
    "SAS|id:880941|530|460",
    "SAS|id:126845|870|790",
    "SAS|id:573913|1150|990",
-   "SAS|id:442339|1390|1140"
+   "SAS|id:442339|1390|1140",
+   "SAS|id:822896|1240|970"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2886,6 +2887,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/gotovyy_zavtrak/442339/",
     "key": "SAS|id:442339|1390|1140"
+   },
+   {
+    "store": "SAS",
+    "title": "Թխվածքաբլիթ պնդուկով «Bergen Original» 130գ",
+    "old": 1240,
+    "new": 970,
+    "pct": 22,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/229/337/3377681142210582.webp",
+    "url": "https://www.sas.am/catalog/pechene_pryaniki/822896/",
+    "key": "SAS|id:822896|1240|970"
    }
   ],
   "Yerevan City": [
