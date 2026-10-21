@@ -700,7 +700,8 @@
    "Yerevan City|id:195083|4990|3990",
    "Yerevan City|id:111377|4990|3490",
    "Yerevan City|id:195065|4990|3990",
-   "Yerevan City|id:193658|4990|3890"
+   "Yerevan City|id:193658|4990|3890",
+   "Yerevan City|id:192915|4990|2990"
   ]
  },
  "queues": {
@@ -5095,6 +5096,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177415.png",
     "url": "https://yerevan-city.am/shop/product-details/193658",
     "key": "Yerevan City|id:193658|4990|3890"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գրչատուփ կտորից «Սմիգգլ» Մայնքրաֆթ",
+    "old": 4990,
+    "new": 2990,
+    "pct": 40,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176662.png",
+    "url": "https://yerevan-city.am/shop/product-details/192915",
+    "key": "Yerevan City|id:192915|4990|2990"
    }
   ]
  },
