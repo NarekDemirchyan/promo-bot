@@ -380,7 +380,8 @@
    "SAS|id:795897|1760|1350",
    "SAS|id:961999|1390|1180",
    "SAS|id:858519|490|440",
-   "SAS|id:858502|650|550"
+   "SAS|id:858502|650|550",
+   "SAS|id:429779|590|490"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2852,20 +2853,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/365/280/2807361831930327.webp",
     "url": "https://www.sas.am/catalog/rezinovye_izdeliya/858502/",
     "key": "SAS|id:858502|650|550"
+   },
+   {
+    "store": "SAS",
+    "title": "Գարեջուր «Mythos» 0.5լ",
+    "old": 590,
+    "new": 490,
+    "pct": 17,
+    "until": "30.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/importnoe_pivo/429779/",
+    "key": "SAS|id:429779|590|490"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Դրաժե «Բելլա» ելակ սպիտակ-կաթ.շոկ.ջնարակում կգ",
-    "old": 11990,
-    "new": 2950,
-    "pct": 75,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/181090",
-    "key": "Yerevan City|id:181090|11990|2950"
-   },
    {
     "store": "Yerevan City",
     "title": "Կոնստրուկտոր մագնիսական 113կտոր",
@@ -5058,8 +5059,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-21T07:01:36.679606+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-21T07:17:06.107938+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
