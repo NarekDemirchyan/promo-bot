@@ -696,22 +696,12 @@
    "Yerevan City|id:131802|5050|4790",
    "Yerevan City|id:171777|4990|4350",
    "Yerevan City|id:195083|4990|3990",
-   "Yerevan City|id:111377|4990|3490"
+   "Yerevan City|id:111377|4990|3490",
+   "Yerevan City|id:195065|4990|3990"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Գինի սպիտակ «Երևան Կանգուն» 0.75լ",
-    "old": 3770,
-    "new": 3390,
-    "pct": 10,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/346/365/3651383944291541.webp",
-    "url": "https://www.sas.am/catalog/armyanskoe_vino/6643/",
-    "key": "SAS|id:6643|3770|3390"
-   },
    {
     "store": "SAS",
     "title": "Սուրճ լուծվող «Jacobs Cappuccino 3 in 1» 12.5գ",
@@ -5091,12 +5081,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1142258.png",
     "url": "https://yerevan-city.am/shop/product-details/111377",
     "key": "Yerevan City|id:111377|4990|3490"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Խաղալիք «Ականջակալ» ՎԻԲ23Մ-Ֆ",
+    "old": 4990,
+    "new": 3990,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178865.png",
+    "url": "https://yerevan-city.am/shop/product-details/195065",
+    "key": "Yerevan City|id:195065|4990|3990"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-21T20:17:22.045725+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-21T20:33:58.178701+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
