@@ -2927,17 +2927,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Վերմուտ «Գանչա» Բիանկո 1լ",
-    "old": 9590,
-    "new": 4190,
-    "pct": 56,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/31676",
-    "key": "Yerevan City|id:31676|9590|4190"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Վերմուտ «Գանչա» Էքստրա չոր 1լ",
     "old": 9590,
     "new": 4190,
@@ -5128,8 +5117,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-22T03:02:03.240917+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-22T03:16:54.076747+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
