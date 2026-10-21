@@ -660,7 +660,8 @@
    "Yerevan City|id:195094|5490|4390",
    "Yerevan City|id:169501|5450|4270",
    "Yerevan City|id:73236|5390|4950",
-   "Yerevan City|id:102695|5390|4950"
+   "Yerevan City|id:102695|5390|4950",
+   "Yerevan City|id:71096|5380|2890"
   ]
  },
  "queues": {
@@ -5059,6 +5060,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1137583.png",
     "url": "https://yerevan-city.am/shop/product-details/102695",
     "key": "Yerevan City|id:102695|5390|4950"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ծովախեցգետին 70/90 սառեցված կգ",
+    "old": 5380,
+    "new": 2890,
+    "pct": 46,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1114886.png",
+    "url": "https://yerevan-city.am/shop/product-details/71096",
+    "key": "Yerevan City|id:71096|5380|2890"
    }
   ]
  },
