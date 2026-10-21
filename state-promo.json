@@ -393,7 +393,8 @@
    "SAS|id:95756|880|730",
    "SAS|id:83087|5750|4950",
    "SAS|id:38876|880|690",
-   "SAS|id:20207|2270|1360"
+   "SAS|id:20207|2270|1360",
+   "SAS|id:2372|660|560"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2870,20 +2871,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/316/919/919022236892614.webp",
     "url": "https://www.sas.am/catalog/batareyka/20207/",
     "key": "SAS|id:20207|2270|1360"
+   },
+   {
+    "store": "SAS",
+    "title": "Հանքային ջուր «Borjomi» 0.5լ",
+    "old": 660,
+    "new": 560,
+    "pct": 15,
+    "until": "28.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/voda/2372/",
+    "key": "SAS|id:2372|660|560"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Կոնյակ «Նոյ» դասական 10տ (տուփով) 0.5լ",
-    "old": 10950,
-    "new": 10090,
-    "pct": 8,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/7848",
-    "key": "Yerevan City|id:7848|10950|10090"
-   },
    {
     "store": "Yerevan City",
     "title": "Մանկ.տակդիր-վարտիք «Փամպերս» 6 13-19կգ 42հտ",
@@ -5076,8 +5077,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-21T14:16:07.408373+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-21T14:35:17.121110+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
