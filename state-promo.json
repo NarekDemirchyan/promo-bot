@@ -658,23 +658,12 @@
    "Yerevan City|id:193199|5490|4390",
    "Yerevan City|id:195094|5490|4390",
    "Yerevan City|id:169501|5450|4270",
-   "Yerevan City|id:73236|5390|4950"
+   "Yerevan City|id:73236|5390|4950",
+   "Yerevan City|id:102695|5390|4950"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Անձեռոցիկ «Պապիրուս» 150 հատ",
-    "old": 520,
-    "new": 450,
-    "pct": 13,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/110/555/555826622021169.webp",
-    "url": "https://www.sas.am/catalog/salfetki/923272/",
-    "label": "",
-    "key": "SAS|id:923272"
-   },
    {
     "store": "SAS",
     "title": "Անձեռոցիկ «Պապիրուս» 120 հատ",
@@ -5058,12 +5047,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1116415.png",
     "url": "https://yerevan-city.am/shop/product-details/73236",
     "key": "Yerevan City|id:73236|5390|4950"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գինի «Կարաս» վարդագույն չոր 0.75լ",
+    "old": 5390,
+    "new": 4950,
+    "pct": 8,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1137583.png",
+    "url": "https://yerevan-city.am/shop/product-details/102695",
+    "key": "Yerevan City|id:102695|5390|4950"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-21T09:02:11.243731+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-21T09:16:59.721006+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
@@ -5072,7 +5072,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 9,
+ "city_page": 10,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
