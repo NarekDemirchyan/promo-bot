@@ -686,7 +686,8 @@
    "Yerevan City|id:15204|5170|4590",
    "Yerevan City|id:8706|5170|4230",
    "Yerevan City|id:415|5170|4230",
-   "Yerevan City|id:4065|5170|4480"
+   "Yerevan City|id:4065|5170|4480",
+   "Yerevan City|id:161451|5090|4690"
   ]
  },
  "queues": {
@@ -5081,6 +5082,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1050016.png",
     "url": "https://yerevan-city.am/shop/product-details/4065",
     "key": "Yerevan City|id:4065|5170|4480"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գինի «Ակում» Կանգուն Ռեզ.սպիտ.քաղ.(տուբա) 0.375լ",
+    "old": 5090,
+    "new": 4690,
+    "pct": 8,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1159047.png",
+    "url": "https://yerevan-city.am/shop/product-details/161451",
+    "key": "Yerevan City|id:161451|5090|4690"
    }
   ]
  },
