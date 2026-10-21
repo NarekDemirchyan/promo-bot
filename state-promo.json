@@ -400,7 +400,8 @@
    "SAS|id:734737|1120|690",
    "SAS|id:880941|530|460",
    "SAS|id:126845|870|790",
-   "SAS|id:573913|1150|990"
+   "SAS|id:573913|1150|990",
+   "SAS|id:442339|1390|1140"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2884,20 +2885,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/588/701/701291414554335.webp",
     "url": "https://www.sas.am/catalog/bum_polotentsa/573913/",
     "key": "SAS|id:573913|1150|990"
+   },
+   {
+    "store": "SAS",
+    "title": "Պատրաստի նախաճաշ «Nestle Nesquik» 225գ",
+    "old": 1390,
+    "new": 1140,
+    "pct": 18,
+    "until": "23.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/gotovyy_zavtrak/442339/",
+    "key": "SAS|id:442339|1390|1140"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Դրաժե «Բելլա» մարակույա սպիտակ-կաթ.շոկ.ջնար. կգ",
-    "old": 9990,
-    "new": 2950,
-    "pct": 70,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/181068",
-    "key": "Yerevan City|id:181068|9990|2950"
-   },
    {
     "store": "Yerevan City",
     "title": "Տրյուֆել «Տարտուֆիդոլչի» սպիտ.շոկ-պիստ.ա/գ125գր",
@@ -5090,8 +5091,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-21T18:47:01.797060+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-21T19:02:34.889003+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
