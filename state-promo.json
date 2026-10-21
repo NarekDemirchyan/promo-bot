@@ -692,22 +692,12 @@
    "Yerevan City|id:4065|5170|4480",
    "Yerevan City|id:161451|5090|4690",
    "Yerevan City|id:131802|5050|4790",
-   "Yerevan City|id:171777|4990|4350"
+   "Yerevan City|id:171777|4990|4350",
+   "Yerevan City|id:195083|4990|3990"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Գինի կարմիր «Երևան Արենի Կարմրահյութ» 0.75լ",
-    "old": 3770,
-    "new": 3390,
-    "pct": 10,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/174/405/4059221766188346.webp",
-    "url": "https://www.sas.am/catalog/armyanskoe_vino/6642/",
-    "key": "SAS|id:6642|3770|3390"
-   },
    {
     "store": "SAS",
     "title": "Գինի կարմիր «Երևան Արենի Կարմրահյութ» 0.75լ",
@@ -5087,12 +5077,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1165333.png",
     "url": "https://yerevan-city.am/shop/product-details/171777",
     "key": "Yerevan City|id:171777|4990|4350"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մաքրության հավաքածու 388-8",
+    "old": 4990,
+    "new": 3990,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178886.png",
+    "url": "https://yerevan-city.am/shop/product-details/195083",
+    "key": "Yerevan City|id:195083|4990|3990"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-21T19:02:34.889003+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-21T19:19:29.021824+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
