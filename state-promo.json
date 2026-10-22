@@ -764,22 +764,12 @@
    "Yerevan City|id:171524|4860|4080",
    "Yerevan City|id:195133|4850|3880",
    "Yerevan City|id:176062|4790|2870",
-   "Yerevan City|id:176317|4790|2870"
+   "Yerevan City|id:176317|4790|2870",
+   "Yerevan City|id:179457|4790|2395"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Թեյ սև «Teida Spicy Sunset» 22*2գ",
-    "old": 990,
-    "new": 560,
-    "pct": 43,
-    "until": "28.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/402/350/3503702233250150.webp",
-    "url": "https://www.sas.am/catalog/v_paketakh/355226/",
-    "key": "SAS|id:355226|990|560"
-   },
    {
     "store": "SAS",
     "title": "Անձեռոցիկ խոնավ հակաբակտերիալ «Compact Golf» 100 հատ",
@@ -5159,12 +5149,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169947.png",
     "url": "https://yerevan-city.am/shop/product-details/176317",
     "key": "Yerevan City|id:176317|4790|2870"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Փափուկ խաղալիք «Կարմիր պանդա» 35սմ",
+    "old": 4790,
+    "new": 2395,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173169.png",
+    "url": "https://yerevan-city.am/shop/product-details/179457",
+    "key": "Yerevan City|id:179457|4790|2395"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-22T17:02:29.733246+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-22T17:19:21.719380+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
