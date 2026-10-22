@@ -752,22 +752,12 @@
    "Yerevan City|id:192622|4990|3490",
    "Yerevan City|id:115497|4950|4390",
    "Yerevan City|id:115498|4950|4390",
-   "Yerevan City|id:7049|4940|4290"
+   "Yerevan City|id:7049|4940|4290",
+   "Yerevan City|id:5326|4920|4140"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Փափկամիս խոզի կտրատված «Բեկոն» 120գ",
-    "old": 990,
-    "new": 870,
-    "pct": 12,
-    "until": "28.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/958/151/1514073082474753.webp",
-    "url": "https://www.sas.am/catalog/myasnaya_narezka/114494/",
-    "key": "SAS|id:114494|990|870"
-   },
    {
     "store": "SAS",
     "title": "Լվացքի կոնդիցիոներ «Vernel Max Свежий Бриз» 960մլ",
@@ -5147,12 +5137,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1038317.png",
     "url": "https://yerevan-city.am/shop/product-details/7049",
     "key": "Yerevan City|id:7049|4940|4290"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մեղր բնական «Նաիրյան» 950գր",
+    "old": 4920,
+    "new": 4140,
+    "pct": 16,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1088479.png",
+    "url": "https://yerevan-city.am/shop/product-details/5326",
+    "key": "Yerevan City|id:5326|4920|4140"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-22T13:16:48.130456+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-22T13:33:53.221332+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
