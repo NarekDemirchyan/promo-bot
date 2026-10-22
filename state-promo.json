@@ -2971,17 +2971,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Անկ․հավ․երկտ․ «ՑինԹայ» 250x250",
-    "old": 8490,
-    "new": 4240,
-    "pct": 50,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/167478",
-    "key": "Yerevan City|id:167478|8490|4240"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Գինու գավաթ «Կրիստալեքս» Սոֆիա 390մլ 6հտ",
     "old": 8490,
     "new": 5150,
@@ -5172,8 +5161,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-22T16:05:16.228509+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-22T16:29:32.924548+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
