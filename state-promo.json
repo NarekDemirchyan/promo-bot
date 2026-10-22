@@ -770,17 +770,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Պատրաստի նախաճաշ «Nestle Nesquik Mix» 225գ",
-    "old": 1390,
-    "new": 1140,
-    "pct": 18,
-    "until": "23.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/311/385/3853193343567542.webp",
-    "url": "https://www.sas.am/catalog/gotovyy_zavtrak/442429/",
-    "key": "SAS|id:442429|1390|1140"
-   },
-   {
-    "store": "SAS",
     "title": "Թեյ սև «Teida Spicy Sunset» 22*2գ",
     "old": 990,
     "new": 560,
@@ -5173,8 +5162,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-22T16:29:32.924548+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-22T16:46:53.975235+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
