@@ -762,7 +762,8 @@
    "Yerevan City|id:171525|4860|4080",
    "Yerevan City|id:171524|4860|4080",
    "Yerevan City|id:195133|4850|3880",
-   "Yerevan City|id:176062|4790|2870"
+   "Yerevan City|id:176062|4790|2870",
+   "Yerevan City|id:176317|4790|2870"
   ]
  },
  "queues": {
@@ -5157,6 +5158,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169689.png",
     "url": "https://yerevan-city.am/shop/product-details/176062",
     "key": "Yerevan City|id:176062|4790|2870"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ավտոմեքենա կոլեկցիոն, բացվող դռներով 1։32 1900-10",
+    "old": 4790,
+    "new": 2870,
+    "pct": 40,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169947.png",
+    "url": "https://yerevan-city.am/shop/product-details/176317",
+    "key": "Yerevan City|id:176317|4790|2870"
    }
   ]
  },
