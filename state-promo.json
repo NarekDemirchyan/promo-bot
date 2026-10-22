@@ -746,22 +746,12 @@
    "Yerevan City|id:160761|4990|1990",
    "Yerevan City|id:131855|4980|2490",
    "Yerevan City|id:180804|4990|2590",
-   "Yerevan City|id:192622|4990|3490"
+   "Yerevan City|id:192622|4990|3490",
+   "Yerevan City|id:115497|4950|4390"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Զուգարանի թուղթ «Zewa Deluxe Pure White» 4 հատ",
-    "old": 1350,
-    "new": 1170,
-    "pct": 13,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/270/456/4562873047190236.webp",
-    "url": "https://www.sas.am/catalog/tualetnaya_bumaga/25341/",
-    "key": "SAS|id:25341|1350|1170"
-   },
    {
     "store": "SAS",
     "title": "Յոգուրտ ելակով «Epica» 130գ, յուղայնությունը` 4.8",
@@ -5141,12 +5131,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176354.png",
     "url": "https://yerevan-city.am/shop/product-details/192622",
     "key": "Yerevan City|id:192622|4990|3490"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գինի «Տակառ» Արենի Մերլո, կարմիր անապակ 0.75լ",
+    "old": 4950,
+    "new": 4390,
+    "pct": 11,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1145628.png",
+    "url": "https://yerevan-city.am/shop/product-details/115497",
+    "key": "Yerevan City|id:115497|4950|4390"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-22T11:31:13.794028+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-22T11:46:07.581178+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
