@@ -724,22 +724,12 @@
    "Yerevan City|id:176759|4990|2990",
    "Yerevan City|id:176814|4990|2990",
    "Yerevan City|id:176852|4990|2990",
-   "Yerevan City|id:178323|4990|3990"
+   "Yerevan City|id:178323|4990|3990",
+   "Yerevan City|id:179767|4990|2495"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Թունաձուկ ձեթի մեջ «Calvo»160գ",
-    "old": 1740,
-    "new": 1450,
-    "pct": 17,
-    "until": "13.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/169/851/8518111738674910.webp",
-    "url": "https://www.sas.am/catalog/v_masle/76365/",
-    "key": "SAS|id:76365|1740|1450"
-   },
    {
     "store": "SAS",
     "title": "Վերմիշել «Divella Filini № 79» 500գ",
@@ -5119,12 +5109,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172015.png",
     "url": "https://yerevan-city.am/shop/product-details/178323",
     "key": "Yerevan City|id:178323|4990|3990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Փափուկ խաղալիք «Շուն» վերնազգեստով 50սմ",
+    "old": 4990,
+    "new": 2495,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173486.png",
+    "url": "https://yerevan-city.am/shop/product-details/179767",
+    "key": "Yerevan City|id:179767|4990|2495"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-22T05:32:06.824865+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-22T05:46:46.515757+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
