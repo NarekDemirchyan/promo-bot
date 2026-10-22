@@ -452,7 +452,8 @@
    "SAS|id:913514|2890|2590",
    "SAS|id:913511|2890|2590",
    "SAS|id:3435|1720|1290",
-   "SAS|id:902513|9610|7950"
+   "SAS|id:902513|9610|7950",
+   "SAS|id:100454|1550|1170"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2988,20 +2989,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/323/538/5388071684515841.webp",
     "url": "https://www.sas.am/catalog/importnoe/902513/",
     "key": "SAS|id:902513|9610|7950"
+   },
+   {
+    "store": "SAS",
+    "title": "Կաթ «Parmalat» 1լ, յուղայնությունը`1.8",
+    "old": 1550,
+    "new": 1170,
+    "pct": 25,
+    "until": "28.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/moloko/100454/",
+    "key": "SAS|id:100454|1550|1170"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Դրաժե բրոնզագույն կգ",
-    "old": 7990,
-    "new": 1950,
-    "pct": 76,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/178331",
-    "key": "Yerevan City|id:178331|7990|1950"
-   },
    {
     "store": "Yerevan City",
     "title": "Թխվածքաբլիթ «Մատիլդա Վիցենզի» Մինիվոլե թ/տ 500գր",
@@ -5194,8 +5195,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-23T02:32:02.803904+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-23T02:50:26.959828+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
