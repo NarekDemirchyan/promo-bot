@@ -784,22 +784,12 @@
    "Yerevan City|id:192874|4690|3750",
    "Yerevan City|id:191856|4690|3280",
    "Yerevan City|id:176385|4690|2810",
-   "Yerevan City|id:83255|4620|3250"
+   "Yerevan City|id:83255|4620|3250",
+   "Yerevan City|id:128946|4590|2295"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Հակաքրտինքային աէրոզոլային միջոց «Dove Men+ Care Elements Minerals+ Sage» 250մլ",
-    "old": 2150,
-    "new": 1450,
-    "pct": 33,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/172/152/1525791520913633.webp",
-    "url": "https://www.sas.am/catalog/antiperspirantt/952674/",
-    "key": "SAS|id:952674|2150|1450"
-   },
    {
     "store": "SAS",
     "title": "Պատիճ սուրճի «Kimbo Antica Miscela 1963» 10 հատ, 55գ",
@@ -5179,12 +5169,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1123324.png",
     "url": "https://yerevan-city.am/shop/product-details/83255",
     "key": "Yerevan City|id:83255|4620|3250"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Զամբյուղ մանրուքների համար 3հտ",
+    "old": 4590,
+    "new": 2295,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1148761.png",
+    "url": "https://yerevan-city.am/shop/product-details/128946",
+    "key": "Yerevan City|id:128946|4590|2295"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-22T23:31:53.315419+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-22T23:46:58.074667+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
