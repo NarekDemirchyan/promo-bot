@@ -774,22 +774,12 @@
    "Yerevan City|id:23381|4790|3850",
    "Yerevan City|id:175147|4750|4290",
    "Yerevan City|id:54802|4750|2375",
-   "Yerevan City|id:54809|4750|2375"
+   "Yerevan City|id:54809|4750|2375",
+   "Yerevan City|id:16187|4690|4290"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Բալզամ «Elseve Длина Мечты» 300մլ",
-    "old": 2650,
-    "new": 2370,
-    "pct": 11,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/322/406/4062172869080420.webp",
-    "url": "https://www.sas.am/catalog/balzam_dlya_volos/952948/",
-    "key": "SAS|id:952948|2650|2370"
-   },
    {
     "store": "SAS",
     "title": "Մազերի դիմակ «Elseve Роскошь 6 Mасел» 300մլ",
@@ -5169,12 +5159,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1109012.png",
     "url": "https://yerevan-city.am/shop/product-details/54809",
     "key": "Yerevan City|id:54809|4750|2375"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կոնյակ «Նոյ» ընծայական 5տ (տուփով) 0.5լ",
+    "old": 4690,
+    "new": 4290,
+    "pct": 9,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1037988.png",
+    "url": "https://yerevan-city.am/shop/product-details/16187",
+    "key": "Yerevan City|id:16187|4690|4290"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-22T20:16:12.520399+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-22T20:31:22.311842+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
