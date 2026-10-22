@@ -430,7 +430,8 @@
    "SAS|id:592540|1320|1250",
    "SAS|id:624381|12900|10650",
    "SAS|id:421040|4590|3090",
-   "SAS|id:113664|780|630"
+   "SAS|id:113664|780|630",
+   "SAS|id:98621|140|130"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2944,20 +2945,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/osvezhayushchiy_napitok/113664/",
     "key": "SAS|id:113664|780|630"
+   },
+   {
+    "store": "SAS",
+    "title": "Կարագ սերուցքային «President Mini» 10գ, յուղայնությունը` 82",
+    "old": 140,
+    "new": 130,
+    "pct": 7,
+    "until": "28.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/slivochnoe_maslo/98621/",
+    "key": "SAS|id:98621|140|130"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Սուրճ հատ․ «ԼավԱզզա» էսպրեսսո, Քուալ. Ռոսսա 500գ",
-    "old": 8990,
-    "new": 7800,
-    "pct": 13,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/8852",
-    "key": "Yerevan City|id:8852|8990|7800"
-   },
    {
     "store": "Yerevan City",
     "title": "Օղի «Ավետյան» Էդեն 0.5լ",
@@ -5150,8 +5151,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-22T13:02:05.154966+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-22T13:16:48.130456+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
