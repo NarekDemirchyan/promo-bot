@@ -788,22 +788,12 @@
    "Yerevan City|id:176385|4690|2810",
    "Yerevan City|id:83255|4620|3250",
    "Yerevan City|id:128946|4590|2295",
-   "Yerevan City|id:171049|4920|4250"
+   "Yerevan City|id:171049|4920|4250",
+   "Yerevan City|id:171050|4800|4230"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Մազերի կոնդիցիոներ «Dove Coconut Oil Damage Expert» 350մլ",
-    "old": 2390,
-    "new": 2130,
-    "pct": 11,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/205/086/0861621907382643.webp",
-    "url": "https://www.sas.am/catalog/balzam_dlya_volos/950887/",
-    "key": "SAS|id:950887|2390|2130"
-   },
    {
     "store": "SAS",
     "title": "Մազերի կոնդիցիոներ «Dove Avocado Damage Expert» 350մլ",
@@ -5183,12 +5173,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1164716.png",
     "url": "https://yerevan-city.am/shop/product-details/171049",
     "key": "Yerevan City|id:171049|4920|4250"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ձիթապտուղ կանաչ «Լոռաս» մանդարինով 101/140 2250գր",
+    "old": 4800,
+    "new": 4230,
+    "pct": 12,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1164717.png",
+    "url": "https://yerevan-city.am/shop/product-details/171050",
+    "key": "Yerevan City|id:171050|4800|4230"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-23T00:31:14.522071+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-23T00:46:04.201279+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
@@ -5197,7 +5198,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 11,
+ "city_page": 12,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
