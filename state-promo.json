@@ -429,7 +429,8 @@
    "SAS|id:827545|730|480",
    "SAS|id:592540|1320|1250",
    "SAS|id:624381|12900|10650",
-   "SAS|id:421040|4590|3090"
+   "SAS|id:421040|4590|3090",
+   "SAS|id:113664|780|630"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2942,6 +2943,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/156/990/9906561002128297.webp",
     "url": "https://www.sas.am/catalog/nabory_konfet/421040/",
     "key": "SAS|id:421040|4590|3090"
+   },
+   {
+    "store": "SAS",
+    "title": "Զովացուցիչ գազավորված ըմպելիք «Pepsi» 1.5լ",
+    "old": 780,
+    "new": 630,
+    "pct": 19,
+    "until": "13.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/osvezhayushchiy_napitok/113664/",
+    "key": "SAS|id:113664|780|630"
    }
   ],
   "Yerevan City": [
