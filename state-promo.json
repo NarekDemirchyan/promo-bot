@@ -778,22 +778,12 @@
    "Yerevan City|id:54802|4750|2375",
    "Yerevan City|id:54809|4750|2375",
    "Yerevan City|id:16187|4690|4290",
-   "Yerevan City|id:192874|4690|3750"
+   "Yerevan City|id:192874|4690|3750",
+   "Yerevan City|id:191856|4690|3280"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Բալզամ «Elseve Роскошь 6 Mасел» 300մլ",
-    "old": 2650,
-    "new": 2370,
-    "pct": 11,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/834/918/9185823625101721.webp",
-    "url": "https://www.sas.am/catalog/balzam_dlya_volos/952939/",
-    "key": "SAS|id:952939|2650|2370"
-   },
    {
     "store": "SAS",
     "title": "Հակաքրտինքային աէրոզոլային միջոց «Dove Men+ Care Sensitive Shield» 250մլ",
@@ -5173,12 +5163,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176594.png",
     "url": "https://yerevan-city.am/shop/product-details/192874",
     "key": "Yerevan City|id:192874|4690|3750"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Չխկչխկան խաղալիքներ մահճակալի համար",
+    "old": 4690,
+    "new": 3280,
+    "pct": 30,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175581.png",
+    "url": "https://yerevan-city.am/shop/product-details/191856",
+    "key": "Yerevan City|id:191856|4690|3280"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-22T21:31:54.246170+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-22T21:46:40.663860+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
