@@ -772,7 +772,8 @@
    "Yerevan City|id:179457|4790|2395",
    "Yerevan City|id:23381|4790|3850",
    "Yerevan City|id:175147|4750|4290",
-   "Yerevan City|id:54802|4750|2375"
+   "Yerevan City|id:54802|4750|2375",
+   "Yerevan City|id:54809|4750|2375"
   ]
  },
  "queues": {
@@ -5167,6 +5168,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1108996.png",
     "url": "https://yerevan-city.am/shop/product-details/54802",
     "key": "Yerevan City|id:54802|4750|2375"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սուրճ աղացած «Տ.Լամբորգինի» Էսպրեսսո, կարմիր 200գր",
+    "old": 4750,
+    "new": 2375,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1109012.png",
+    "url": "https://yerevan-city.am/shop/product-details/54809",
+    "key": "Yerevan City|id:54809|4750|2375"
    }
   ]
  },
