@@ -788,17 +788,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Հակաքրտինքային աէրոզոլային միջոց «Dove Men+ Care Sensitive Shield» 250մլ",
-    "old": 2150,
-    "new": 1450,
-    "pct": 33,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/209/116/1164944102957112.webp",
-    "url": "https://www.sas.am/catalog/antiperspirantt/952676/",
-    "key": "SAS|id:952676|2150|1450"
-   },
-   {
-    "store": "SAS",
     "title": "Հակաքրտինքային աէրոզոլային միջոց «Dove Men+Care Elements Mineral Powder Sandalwood» 250մլ",
     "old": 2150,
     "new": 1450,
@@ -5191,8 +5180,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-22T22:03:18.034391+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-22T22:32:42.688250+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
