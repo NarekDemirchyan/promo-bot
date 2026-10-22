@@ -448,7 +448,8 @@
    "SAS|id:179101|1350|820",
    "SAS|id:145233|790|540",
    "SAS|id:3266|880|730",
-   "SAS|id:125605|960|870"
+   "SAS|id:125605|960|870",
+   "SAS|id:913514|2890|2590"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2980,20 +2981,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/246/119/1190463828119079.webp",
     "url": "https://www.sas.am/catalog/bez_kostochek/125605/",
     "key": "SAS|id:125605|960|870"
+   },
+   {
+    "store": "SAS",
+    "title": "Շամպուն-բալզամ «Head & Shoulders Гладкие и Шелковистые» 360մլ",
+    "old": 2890,
+    "new": 2590,
+    "pct": 10,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/dlya_volos2/913514/",
+    "key": "SAS|id:913514|2890|2590"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Երաժշտական գործիքների հավաքածու ՔՍ03-04",
-    "old": 7990,
-    "new": 6390,
-    "pct": 20,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/194110",
-    "key": "Yerevan City|id:194110|7990|6390"
-   },
    {
     "store": "Yerevan City",
     "title": "Ֆուա-գրա «Ռուժի» բադի լյարդից 75գր",
@@ -5186,8 +5187,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-23T00:16:33.404022+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-23T00:31:14.522071+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
