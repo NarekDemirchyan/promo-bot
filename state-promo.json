@@ -420,7 +420,8 @@
    "SAS|id:130572|3050|2690",
    "SAS|id:97778|3950|3470",
    "SAS|id:88267|1560|1320",
-   "SAS|id:59287|500|450"
+   "SAS|id:59287|500|450",
+   "SAS|id:7709|640|540"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -731,7 +732,8 @@
    "Yerevan City|id:179767|4990|2495",
    "Yerevan City|id:191855|4990|3490",
    "Yerevan City|id:192012|4990|3490",
-   "Yerevan City|id:192913|4990|2990"
+   "Yerevan City|id:192913|4990|2990",
+   "Yerevan City|id:130977|4990|2495"
   ]
  },
  "queues": {
@@ -2924,6 +2926,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/399/909/9095203189855916.webp",
     "url": "https://www.sas.am/catalog/yogurt_puding/59287/",
     "key": "SAS|id:59287|500|450"
+   },
+   {
+    "store": "SAS",
+    "title": "Անձեռոցիկ խոնավ հակաբակտերիալ «Smile Antibacterial» 60 հատ",
+    "old": 640,
+    "new": 540,
+    "pct": 16,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/vetwip_es/7709/",
+    "key": "SAS|id:7709|640|540"
    }
   ],
   "Yerevan City": [
@@ -5115,6 +5128,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176660.png",
     "url": "https://yerevan-city.am/shop/product-details/192913",
     "key": "Yerevan City|id:192913|4990|2990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Չիր կոկոսի, պրեմիում կգ",
+    "old": 4990,
+    "new": 2495,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1044399.png",
+    "url": "https://yerevan-city.am/shop/product-details/130977",
+    "key": "Yerevan City|id:130977|4990|2495"
    }
   ]
  },
