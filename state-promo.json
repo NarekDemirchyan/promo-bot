@@ -784,17 +784,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Մազերի դիմակ «Elseve Роскошь 6 Mасел» 300մլ",
-    "old": 3950,
-    "new": 3560,
-    "pct": 10,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/241/131/1319661657458303.webp",
-    "url": "https://www.sas.am/catalog/maska_konditsioner_dlya_volos/952947/",
-    "key": "SAS|id:952947|3950|3560"
-   },
-   {
-    "store": "SAS",
     "title": "Բալզամ «Elseve Роскошь 6 Mасел» 300մլ",
     "old": 2650,
     "new": 2370,
@@ -5187,8 +5176,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-22T20:51:44.354183+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-22T21:16:43.121662+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
