@@ -454,7 +454,8 @@
    "SAS|id:3435|1720|1290",
    "SAS|id:902513|9610|7950",
    "SAS|id:100454|1550|1170",
-   "SAS|id:902248|480|410"
+   "SAS|id:902248|480|410",
+   "SAS|id:169069|810|770"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2992,6 +2993,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/yogurt_puding/902248/",
     "key": "SAS|id:902248|480|410"
+   },
+   {
+    "store": "SAS",
+    "title": "Սոուս կծու «American Green» 88մլ",
+    "old": 810,
+    "new": 770,
+    "pct": 5,
+    "until": "27.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/221/143/143468668356238.webp",
+    "url": "https://www.sas.am/catalog/sous/169069/",
+    "key": "SAS|id:169069|810|770"
    }
   ],
   "Yerevan City": [
