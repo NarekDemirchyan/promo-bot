@@ -2975,17 +2975,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Շամպայնի գավաթ «Կրիստալեքս»Սոֆիա 230մլ 6հտ",
-    "old": 8490,
-    "new": 5150,
-    "pct": 39,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/157609",
-    "key": "Yerevan City|id:157609|8490|5150"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Ջին «Գորդոնս» չոր 0.7լ",
     "old": 8490,
     "new": 7390,
@@ -5176,8 +5165,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-22T17:19:21.719380+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-22T17:46:50.625456+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
