@@ -431,7 +431,8 @@
    "SAS|id:624381|12900|10650",
    "SAS|id:421040|4590|3090",
    "SAS|id:113664|780|630",
-   "SAS|id:98621|140|130"
+   "SAS|id:98621|140|130",
+   "SAS|id:4461|550|440"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2946,6 +2947,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/slivochnoe_maslo/98621/",
     "key": "SAS|id:98621|140|130"
+   },
+   {
+    "store": "SAS",
+    "title": "Չորահաց-բրուսկետտա թթվասերի և սոխի «Maretti» 70գ",
+    "old": 550,
+    "new": 440,
+    "pct": 20,
+    "until": "29.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/862/016/0164633538830712.webp",
+    "url": "https://www.sas.am/catalog/chipsy/4461/",
+    "key": "SAS|id:4461|550|440"
    }
   ],
   "Yerevan City": [
