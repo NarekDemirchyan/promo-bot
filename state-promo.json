@@ -435,7 +435,8 @@
    "SAS|id:4461|550|440",
    "SAS|id:170346|1640|990",
    "SAS|id:206595|2790|1470",
-   "SAS|id:541563|2670|2290"
+   "SAS|id:541563|2670|2290",
+   "SAS|id:183304|2650|2230"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2954,6 +2955,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/forhebathroom/541563/",
     "key": "SAS|id:541563|2670|2290"
+   },
+   {
+    "store": "SAS",
+    "title": "Լվացքի մեքենայի հաբեր «Calgon» 15հատ",
+    "old": 2650,
+    "new": 2230,
+    "pct": 16,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/229/933/9337991272748244.webp",
+    "url": "https://www.sas.am/catalog/dlya_santekhniki/183304/",
+    "key": "SAS|id:183304|2650|2230"
    }
   ],
   "Yerevan City": [
