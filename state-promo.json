@@ -730,17 +730,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Միջադիրներ «Libresse Invisible Ultra Normal» 10հատ",
-    "old": 990,
-    "new": 880,
-    "pct": 11,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/417/162/1629152630198748.webp",
-    "url": "https://www.sas.am/catalog/dlya_intimnoy_gigieny2/145218/",
-    "key": "SAS|id:145218|990|880"
-   },
-   {
-    "store": "SAS",
     "title": "Թունաձուկ ձեթի մեջ «Calvo»160գ",
     "old": 1740,
     "new": 1450,
@@ -5133,8 +5122,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-22T04:49:24.866515+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-22T05:16:49.914886+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
