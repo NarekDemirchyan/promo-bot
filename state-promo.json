@@ -426,7 +426,8 @@
    "SAS|id:923252|1150|970",
    "SAS|id:913525|2890|2590",
    "SAS|id:913521|2890|2590",
-   "SAS|id:827545|730|480"
+   "SAS|id:827545|730|480",
+   "SAS|id:592540|1320|1250"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2936,6 +2937,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/popkorn2/827545/",
     "key": "SAS|id:827545|730|480"
+   },
+   {
+    "store": "SAS",
+    "title": "Միցելյար ջուր «Nivea Micellar Water Soothing» 100մլ",
+    "old": 1320,
+    "new": 1250,
+    "pct": 5,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/vse_dlya_litsa/592540/",
+    "key": "SAS|id:592540|1320|1250"
    }
   ],
   "Yerevan City": [
