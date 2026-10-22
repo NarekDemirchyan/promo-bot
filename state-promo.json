@@ -419,7 +419,8 @@
    "SAS|id:145095|2150|2040",
    "SAS|id:130572|3050|2690",
    "SAS|id:97778|3950|3470",
-   "SAS|id:88267|1560|1320"
+   "SAS|id:88267|1560|1320",
+   "SAS|id:59287|500|450"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2922,20 +2923,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/168/308/3089491617886451.webp",
     "url": "https://www.sas.am/catalog/showergell/88267/",
     "key": "SAS|id:88267|1560|1320"
+   },
+   {
+    "store": "SAS",
+    "title": "Յոգուրտ դեղձով և մարակույայով «Epica» 130գ, յուղայնությունը՝ 4․8",
+    "old": 500,
+    "new": 450,
+    "pct": 10,
+    "until": "28.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/399/909/9095203189855916.webp",
+    "url": "https://www.sas.am/catalog/yogurt_puding/59287/",
+    "key": "SAS|id:59287|500|450"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Մանկական տակդիրներ «Փամպերս» ակտիվ 3 6-10կգ 90հտ",
-    "old": 9180,
-    "new": 8390,
-    "pct": 9,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/23741",
-    "key": "Yerevan City|id:23741|9180|8390"
-   },
    {
     "store": "Yerevan City",
     "title": "Մանկական տակդիրներ «Փամպերս» ակտիվ 5 11-16կգ 64հտ",
@@ -5128,8 +5129,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-22T06:46:50.668931+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-22T07:02:11.691446+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
