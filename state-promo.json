@@ -416,7 +416,8 @@
    "SAS|id:796340|1280|1050",
    "SAS|id:541560|2250|2050",
    "SAS|id:171390|1820|1640",
-   "SAS|id:145095|2150|2040"
+   "SAS|id:145095|2150|2040",
+   "SAS|id:130572|3050|2690"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2916,20 +2917,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/dlya_intimnoy_gigieny2/145095/",
     "key": "SAS|id:145095|2150|2040"
+   },
+   {
+    "store": "SAS",
+    "title": "Շոկոլադե-ընկուզային մածուկ «Nutella» 350գ",
+    "old": 3050,
+    "new": 2690,
+    "pct": 12,
+    "until": "13.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/krem/130572/",
+    "key": "SAS|id:130572|3050|2690"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Ավտոմեքենա հեռակառավարումով A8863-148",
-    "old": 9490,
-    "new": 5690,
-    "pct": 40,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/175990",
-    "key": "Yerevan City|id:175990|9490|5690"
-   },
    {
     "store": "Yerevan City",
     "title": "Կոնյակ «Վի Ընդ Էմ» 7տ (տուփով) 0.5լ",
@@ -5122,8 +5123,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-22T05:16:49.914886+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-22T05:32:06.824865+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
