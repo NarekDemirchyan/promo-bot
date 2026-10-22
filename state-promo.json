@@ -740,22 +740,12 @@
    "Yerevan City|id:130977|4990|2495",
    "Yerevan City|id:130978|4990|2950",
    "Yerevan City|id:178324|4990|990",
-   "Yerevan City|id:160761|4990|1990"
+   "Yerevan City|id:160761|4990|1990",
+   "Yerevan City|id:131855|4980|2490"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Գարեջուր «Stella Artois» 0.5լ",
-    "old": 750,
-    "new": 680,
-    "pct": 9,
-    "until": "28.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/240/924/924857278477512.webp",
-    "url": "https://www.sas.am/catalog/importnoe_pivo/135714/",
-    "key": "SAS|id:135714|750|680"
-   },
    {
     "store": "SAS",
     "title": "Յոգուրտ հունական «Epica» 130գ, յուղայնությունը՝ 2.5",
@@ -5135,12 +5125,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1158383.png",
     "url": "https://yerevan-city.am/shop/product-details/160761",
     "key": "Yerevan City|id:160761|4990|1990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Փազլ #3",
+    "old": 4980,
+    "new": 2490,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1151370.png",
+    "url": "https://yerevan-city.am/shop/product-details/131855",
+    "key": "Yerevan City|id:131855|4980|2490"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-22T09:32:07.965749+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-22T09:47:19.912343+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
