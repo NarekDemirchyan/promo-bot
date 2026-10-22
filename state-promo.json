@@ -786,22 +786,12 @@
    "Yerevan City|id:191856|4690|3280",
    "Yerevan City|id:176385|4690|2810",
    "Yerevan City|id:83255|4620|3250",
-   "Yerevan City|id:128946|4590|2295"
+   "Yerevan City|id:128946|4590|2295",
+   "Yerevan City|id:171049|4920|4250"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Պատիճ սուրճի «Kimbo Antica Miscela 1963» 10 հատ, 55գ",
-    "old": 3150,
-    "new": 2490,
-    "pct": 21,
-    "until": "28.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/349/730/7301412562509737.webp",
-    "url": "https://www.sas.am/catalog/drugoy/951780/",
-    "key": "SAS|id:951780|3150|2490"
-   },
    {
     "store": "SAS",
     "title": "Մազերի կոնդիցիոներ «Dove Coconut Oil Damage Expert» 350մլ",
@@ -5181,12 +5171,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1148761.png",
     "url": "https://yerevan-city.am/shop/product-details/128946",
     "key": "Yerevan City|id:128946|4590|2295"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ձիթապտուղ կանաչ «Լոռաս» գրիլ 201/230 ա/տ 2200գր",
+    "old": 4920,
+    "new": 4250,
+    "pct": 14,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1164716.png",
+    "url": "https://yerevan-city.am/shop/product-details/171049",
+    "key": "Yerevan City|id:171049|4920|4250"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-23T00:02:01.404781+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-23T00:16:33.404022+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
