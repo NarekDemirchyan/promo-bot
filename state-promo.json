@@ -442,7 +442,8 @@
    "SAS|id:777226|1530|1260",
    "SAS|id:180093|2890|1890",
    "SAS|id:874217|1520|1350",
-   "SAS|id:542579|880|590"
+   "SAS|id:542579|880|590",
+   "SAS|id:95746|880|730"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2968,20 +2969,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/241/169/1696592588964297.webp",
     "url": "https://www.sas.am/catalog/v_paketakh/542579/",
     "key": "SAS|id:542579|880|590"
+   },
+   {
+    "store": "SAS",
+    "title": "Մակարոն «Barilla Cellentani №297» 500գ",
+    "old": 880,
+    "new": 730,
+    "pct": 17,
+    "until": "10.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/makaronyy/95746/",
+    "key": "SAS|id:95746|880|730"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Շամպայնի գավաթ «Կրիստալեքս»Էքստրա 210մլ 6հտ40862",
-    "old": 8350,
-    "new": 5190,
-    "pct": 38,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/157617",
-    "key": "Yerevan City|id:157617|8350|5190"
-   },
    {
     "store": "Yerevan City",
     "title": "Օղի «Նեմիրոֆֆ» Օրիգինալ 0.7լ",
@@ -5174,8 +5175,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-22T20:31:22.311842+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-22T20:51:44.354183+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
