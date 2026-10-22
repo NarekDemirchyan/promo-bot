@@ -740,17 +740,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Սպագետտի «Divella Ristorante №8» 500գ",
-    "old": 760,
-    "new": 680,
-    "pct": 11,
-    "until": "20.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/134/697/697510151537538.webp",
-    "url": "https://www.sas.am/catalog/spagetti_kapelini/96168/",
-    "key": "SAS|id:96168|760|680"
-   },
-   {
-    "store": "SAS",
     "title": "Հաց տոստի «Harry's American Sandwich» 470գ",
     "old": 990,
     "new": 830,
@@ -2940,17 +2929,6 @@
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Մանկական տակդիրներ «Փամպերս» ակտիվ 6 13-18կգ 56հտ",
-    "old": 9180,
-    "new": 8390,
-    "pct": 9,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/22853",
-    "key": "Yerevan City|id:22853|9180|8390"
-   },
    {
     "store": "Yerevan City",
     "title": "Կոնստրուկտոր մագնիսական 86կտոր",
@@ -5144,7 +5122,7 @@
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-22T07:20:12.679123+04:00",
+ "last_publish": "2026-10-22T07:46:48.549317+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
