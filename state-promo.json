@@ -443,7 +443,8 @@
    "SAS|id:180093|2890|1890",
    "SAS|id:874217|1520|1350",
    "SAS|id:542579|880|590",
-   "SAS|id:95746|880|730"
+   "SAS|id:95746|880|730",
+   "SAS|id:4406|1790|1090"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2970,20 +2971,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/makaronyy/95746/",
     "key": "SAS|id:95746|880|730"
+   },
+   {
+    "store": "SAS",
+    "title": "Սպասք լվանալու հեղուկ «Frosch Zero» 500մլ",
+    "old": 1790,
+    "new": 1090,
+    "pct": 39,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/120/216/2161382544626117.webp",
+    "url": "https://www.sas.am/catalog/sredstva_dlya_posudy/4406/",
+    "key": "SAS|id:4406|1790|1090"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Օղի «Նեմիրոֆֆ» Օրիգինալ 0.7լ",
-    "old": 8290,
-    "new": 7250,
-    "pct": 13,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/11630",
-    "key": "Yerevan City|id:11630|8290|7250"
-   },
    {
     "store": "Yerevan City",
     "title": "Օղի «Ավետյան» Պլատինում 0.5լ",
@@ -5176,8 +5177,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-22T21:16:43.121662+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-22T21:31:54.246170+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
