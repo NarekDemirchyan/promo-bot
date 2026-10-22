@@ -433,7 +433,8 @@
    "SAS|id:113664|780|630",
    "SAS|id:98621|140|130",
    "SAS|id:4461|550|440",
-   "SAS|id:170346|1640|990"
+   "SAS|id:170346|1640|990",
+   "SAS|id:206595|2790|1470"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2950,6 +2951,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/553/207/2071891652924278.webp",
     "url": "https://www.sas.am/catalog/sredstva_dlya_posudy/170346/",
     "key": "SAS|id:170346|1640|990"
+   },
+   {
+    "store": "SAS",
+    "title": "Շոկոլադե սալիկ կաթնային «Lindt Excellence» 100գ",
+    "old": 2790,
+    "new": 1470,
+    "pct": 47,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/plitka/206595/",
+    "key": "SAS|id:206595|2790|1470"
    }
   ],
   "Yerevan City": [
