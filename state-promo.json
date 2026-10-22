@@ -449,7 +449,8 @@
    "SAS|id:145233|790|540",
    "SAS|id:3266|880|730",
    "SAS|id:125605|960|870",
-   "SAS|id:913514|2890|2590"
+   "SAS|id:913514|2890|2590",
+   "SAS|id:913511|2890|2590"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2982,6 +2983,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/dlya_volos2/913514/",
     "key": "SAS|id:913514|2890|2590"
+   },
+   {
+    "store": "SAS",
+    "title": "Շամպուն «Head & Shoulders Увлажняющий Уход» 360մլ",
+    "old": 2890,
+    "new": 2590,
+    "pct": 10,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/dlya_volos2/913511/",
+    "key": "SAS|id:913511|2890|2590"
    }
   ],
   "Yerevan City": [
