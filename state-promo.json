@@ -425,7 +425,8 @@
    "SAS|id:962000|1290|1050",
    "SAS|id:923252|1150|970",
    "SAS|id:913525|2890|2590",
-   "SAS|id:913521|2890|2590"
+   "SAS|id:913521|2890|2590",
+   "SAS|id:827545|730|480"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2934,6 +2935,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/dlya_volos2/913521/",
     "key": "SAS|id:913521|2890|2590"
+   },
+   {
+    "store": "SAS",
+    "title": "Եգիպտացորենի ձողիկներ քաղցր «Դարոյնք» 300գ",
+    "old": 730,
+    "new": 480,
+    "pct": 34,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/popkorn2/827545/",
+    "key": "SAS|id:827545|730|480"
    }
   ],
   "Yerevan City": [
