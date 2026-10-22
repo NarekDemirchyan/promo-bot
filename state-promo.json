@@ -722,7 +722,8 @@
    "Yerevan City|id:176754|4990|2495",
    "Yerevan City|id:176759|4990|2990",
    "Yerevan City|id:176814|4990|2990",
-   "Yerevan City|id:176852|4990|2990"
+   "Yerevan City|id:176852|4990|2990",
+   "Yerevan City|id:178323|4990|3990"
   ]
  },
  "queues": {
@@ -5117,6 +5118,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170490.png",
     "url": "https://yerevan-city.am/shop/product-details/176852",
     "key": "Yerevan City|id:176852|4990|2990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կիվիի չիր կգ",
+    "old": 4990,
+    "new": 3990,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172015.png",
+    "url": "https://yerevan-city.am/shop/product-details/178323",
+    "key": "Yerevan City|id:178323|4990|3990"
    }
   ]
  },
