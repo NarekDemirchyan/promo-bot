@@ -417,7 +417,8 @@
    "SAS|id:541560|2250|2050",
    "SAS|id:171390|1820|1640",
    "SAS|id:145095|2150|2040",
-   "SAS|id:130572|3050|2690"
+   "SAS|id:130572|3050|2690",
+   "SAS|id:97778|3950|3470"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2918,20 +2919,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/krem/130572/",
     "key": "SAS|id:130572|3050|2690"
+   },
+   {
+    "store": "SAS",
+    "title": "Կարագ սերուցքային «Lurpak» 400գ, յուղայնությունը` 82",
+    "old": 3950,
+    "new": 3470,
+    "pct": 12,
+    "until": "28.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/122/406/406937629640280.webp",
+    "url": "https://www.sas.am/catalog/slivochnoe_maslo/97778/",
+    "key": "SAS|id:97778|3950|3470"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Կոնյակ «Վի Ընդ Էմ» 7տ (տուփով) 0.5լ",
-    "old": 9350,
-    "new": 8590,
-    "pct": 8,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/131804",
-    "key": "Yerevan City|id:131804|9350|8590"
-   },
    {
     "store": "Yerevan City",
     "title": "Մանկական տակդիրներ «Փամպերս» ակտիվ 4 9-14կգ 76հտ",
@@ -5124,8 +5125,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-22T05:46:46.515757+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-22T06:04:28.432276+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
