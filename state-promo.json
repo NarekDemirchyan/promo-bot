@@ -796,7 +796,8 @@
    "Yerevan City|id:171050|4800|4230",
    "Yerevan City|id:192635|4590|3190",
    "Yerevan City|id:192792|4590|2990",
-   "Yerevan City|id:192793|4590|2990"
+   "Yerevan City|id:192793|4590|2990",
+   "Yerevan City|id:194129|4590|3670"
   ]
  },
  "queues": {
@@ -5191,6 +5192,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176528.png",
     "url": "https://yerevan-city.am/shop/product-details/192793",
     "key": "Yerevan City|id:192793|4590|2990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Խոհանոցային հավաքածու Ս20-16Ա",
+    "old": 4590,
+    "new": 3670,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177900.png",
+    "url": "https://yerevan-city.am/shop/product-details/194129",
+    "key": "Yerevan City|id:194129|4590|3670"
    }
   ]
  },
