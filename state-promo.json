@@ -432,7 +432,8 @@
    "SAS|id:421040|4590|3090",
    "SAS|id:113664|780|630",
    "SAS|id:98621|140|130",
-   "SAS|id:4461|550|440"
+   "SAS|id:4461|550|440",
+   "SAS|id:170346|1640|990"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2948,20 +2949,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/862/016/0164633538830712.webp",
     "url": "https://www.sas.am/catalog/chipsy/4461/",
     "key": "SAS|id:4461|550|440"
+   },
+   {
+    "store": "SAS",
+    "title": "Սպասք լվանալու հեղուկ «Frosch Baby» 500մլ",
+    "old": 1640,
+    "new": 990,
+    "pct": 40,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/553/207/2071891652924278.webp",
+    "url": "https://www.sas.am/catalog/sredstva_dlya_posudy/170346/",
+    "key": "SAS|id:170346|1640|990"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Օղի «Օհանյան» Լիմիթիդ 0.5լ",
-    "old": 8690,
-    "new": 7490,
-    "pct": 14,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/132890",
-    "key": "Yerevan City|id:132890|8690|7490"
-   },
    {
     "store": "Yerevan City",
     "title": "Հնդկական ընկույզ Վ180 կգ",
@@ -5154,8 +5155,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-22T14:16:57.144790+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-22T14:32:03.674732+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
