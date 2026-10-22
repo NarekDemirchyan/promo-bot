@@ -750,22 +750,12 @@
    "Yerevan City|id:180804|4990|2590",
    "Yerevan City|id:192622|4990|3490",
    "Yerevan City|id:115497|4950|4390",
-   "Yerevan City|id:115498|4950|4390"
+   "Yerevan City|id:115498|4950|4390",
+   "Yerevan City|id:7049|4940|4290"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կարագ սերուցքային «President» 200գ, յուղայնությունը` 82",
-    "old": 2190,
-    "new": 1850,
-    "pct": 16,
-    "until": "28.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/777/313/3139903097890638.webp",
-    "url": "https://www.sas.am/catalog/slivochnoe_maslo/3381/",
-    "key": "SAS|id:3381|2190|1850"
-   },
    {
     "store": "SAS",
     "title": "Փափկամիս խոզի կտրատված «Բեկոն» 120գ",
@@ -5145,12 +5135,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1145629.png",
     "url": "https://yerevan-city.am/shop/product-details/115498",
     "key": "Yerevan City|id:115498|4950|4390"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սուրճ աղ․ «ԼավԱզզա» Էսպրեսսո, Քուալ.Ռոսսա 250գր",
+    "old": 4940,
+    "new": 4290,
+    "pct": 13,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1038317.png",
+    "url": "https://yerevan-city.am/shop/product-details/7049",
+    "key": "Yerevan City|id:7049|4940|4290"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-22T12:46:44.575251+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-22T13:02:05.154966+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
