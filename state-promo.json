@@ -804,17 +804,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Շամպուն «Dove Avocado Damage Expert» 375մլ",
-    "old": 2390,
-    "new": 2130,
-    "pct": 11,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/378/701/7018392191958351.webp",
-    "url": "https://www.sas.am/catalog/dlya_volos2/950880/",
-    "key": "SAS|id:950880|2390|2130"
-   },
-   {
-    "store": "SAS",
     "title": "Շամպուն «Dove Amino Serum Damage Expert» 375մլ",
     "old": 2390,
     "new": 2130,
@@ -5207,8 +5196,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-23T02:50:26.959828+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-23T03:16:53.036528+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
