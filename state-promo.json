@@ -726,7 +726,8 @@
    "Yerevan City|id:176814|4990|2990",
    "Yerevan City|id:176852|4990|2990",
    "Yerevan City|id:178323|4990|3990",
-   "Yerevan City|id:179767|4990|2495"
+   "Yerevan City|id:179767|4990|2495",
+   "Yerevan City|id:191855|4990|3490"
   ]
  },
  "queues": {
@@ -5121,6 +5122,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173486.png",
     "url": "https://yerevan-city.am/shop/product-details/179767",
     "key": "Yerevan City|id:179767|4990|2495"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Չխկչխկան խաղալիքներ մահճակալի համար",
+    "old": 4990,
+    "new": 3490,
+    "pct": 30,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175580.png",
+    "url": "https://yerevan-city.am/shop/product-details/191855",
+    "key": "Yerevan City|id:191855|4990|3490"
    }
   ]
  },
