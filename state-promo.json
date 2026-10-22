@@ -446,7 +446,8 @@
    "SAS|id:95746|880|730",
    "SAS|id:4406|1790|1090",
    "SAS|id:179101|1350|820",
-   "SAS|id:145233|790|540"
+   "SAS|id:145233|790|540",
+   "SAS|id:3266|880|730"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2976,6 +2977,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/dlya_intimnoy_gigieny2/145233/",
     "key": "SAS|id:145233|790|540"
+   },
+   {
+    "store": "SAS",
+    "title": "Մակարոն «Barilla Girandole № 34» 500գ",
+    "old": 880,
+    "new": 730,
+    "pct": 17,
+    "until": "10.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/304/742/7425813958227997.webp",
+    "url": "https://www.sas.am/catalog/makaronyy/3266/",
+    "key": "SAS|id:3266|880|730"
    }
   ],
   "Yerevan City": [
