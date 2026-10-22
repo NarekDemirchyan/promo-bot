@@ -2963,17 +2963,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Օղի «Ավետյան» Էդեն 0.5լ",
-    "old": 8790,
-    "new": 6990,
-    "pct": 20,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/169249",
-    "key": "Yerevan City|id:169249|8790|6990"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Օղի «Օհանյան» Լիմիթիդ 0.5լ",
     "old": 8690,
     "new": 7490,
@@ -5164,8 +5153,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-22T13:33:53.221332+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-22T14:02:15.004667+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
