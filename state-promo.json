@@ -422,7 +422,8 @@
    "SAS|id:88267|1560|1320",
    "SAS|id:59287|500|450",
    "SAS|id:7709|640|540",
-   "SAS|id:962000|1290|1050"
+   "SAS|id:962000|1290|1050",
+   "SAS|id:923252|1150|970"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2928,20 +2929,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/173/426/4264651537958313.webp",
     "url": "https://www.sas.am/catalog/vafli_vafelnyy_tort/962000/",
     "key": "SAS|id:962000|1290|1050"
+   },
+   {
+    "store": "SAS",
+    "title": "Թխվածքաբլիթ սպիտակ շոկոլադով «Bergen Cookies & Cream» 128գ",
+    "old": 1150,
+    "new": 970,
+    "pct": 16,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/pechene_pryaniki/923252/",
+    "key": "SAS|id:923252|1150|970"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Կոնստրուկտոր մագնիսական 86կտոր",
-    "old": 8990,
-    "new": 7190,
-    "pct": 20,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/195124",
-    "key": "Yerevan City|id:195124|8990|7190"
-   },
    {
     "store": "Yerevan City",
     "title": "Ձիթապտղի ձեթ «4Դրոփս»Էք.Վիրջին Ու.Պրեմ.ա/տ 500մլ",
@@ -5134,8 +5135,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-22T08:02:07.706327+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-22T08:16:52.451394+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
