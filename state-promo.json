@@ -447,7 +447,8 @@
    "SAS|id:4406|1790|1090",
    "SAS|id:179101|1350|820",
    "SAS|id:145233|790|540",
-   "SAS|id:3266|880|730"
+   "SAS|id:3266|880|730",
+   "SAS|id:125605|960|870"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2978,20 +2979,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/304/742/7425813958227997.webp",
     "url": "https://www.sas.am/catalog/makaronyy/3266/",
     "key": "SAS|id:3266|880|730"
+   },
+   {
+    "store": "SAS",
+    "title": "Ձիթապտուղ սև առանց կորիզ «XL» 400գ",
+    "old": 960,
+    "new": 870,
+    "pct": 9,
+    "until": "28.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/246/119/1190463828119079.webp",
+    "url": "https://www.sas.am/catalog/bez_kostochek/125605/",
+    "key": "SAS|id:125605|960|870"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Մաքրության հավաքածու 137-28",
-    "old": 7990,
-    "new": 6390,
-    "pct": 20,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/194136",
-    "key": "Yerevan City|id:194136|7990|6390"
-   },
    {
     "store": "Yerevan City",
     "title": "Երաժշտական գործիքների հավաքածու ՔՍ03-04",
@@ -5184,8 +5185,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-22T23:46:58.074667+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-23T00:02:01.404781+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
