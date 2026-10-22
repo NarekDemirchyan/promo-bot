@@ -423,7 +423,8 @@
    "SAS|id:59287|500|450",
    "SAS|id:7709|640|540",
    "SAS|id:962000|1290|1050",
-   "SAS|id:923252|1150|970"
+   "SAS|id:923252|1150|970",
+   "SAS|id:913525|2890|2590"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2930,6 +2931,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/pechene_pryaniki/923252/",
     "key": "SAS|id:923252|1150|970"
+   },
+   {
+    "store": "SAS",
+    "title": "Շամպուն-բալզամ «Head & Shoulders Основной Уход» 360մլ",
+    "old": 2890,
+    "new": 2590,
+    "pct": 10,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/dlya_volos2/913525/",
+    "key": "SAS|id:913525|2890|2590"
    }
   ],
   "Yerevan City": [
