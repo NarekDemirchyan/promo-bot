@@ -758,22 +758,12 @@
    "Yerevan City|id:7049|4940|4290",
    "Yerevan City|id:5326|4920|4140",
    "Yerevan City|id:171525|4860|4080",
-   "Yerevan City|id:171524|4860|4080"
+   "Yerevan City|id:171524|4860|4080",
+   "Yerevan City|id:195133|4850|3880"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Գարեջուր «Mythos 0%» 0.33լ",
-    "old": 690,
-    "new": 430,
-    "pct": 38,
-    "until": "30.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/416/459/4596992715158192.webp",
-    "url": "https://www.sas.am/catalog/importnoe_pivo/786694/",
-    "key": "SAS|id:786694|690|430"
-   },
    {
     "store": "SAS",
     "title": "Կարամելային կոնֆետներ պնդուկով «Toffifee» 125գ",
@@ -5153,12 +5143,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1165066.png",
     "url": "https://yerevan-city.am/shop/product-details/171524",
     "key": "Yerevan City|id:171524|4860|4080"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սեղանի խաղ «Անսահման Ռուսաստան» 0134Ռ-40",
+    "old": 4850,
+    "new": 3880,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178936.png",
+    "url": "https://yerevan-city.am/shop/product-details/195133",
+    "key": "Yerevan City|id:195133|4850|3880"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-22T15:16:10.326263+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-22T15:31:17.920452+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
