@@ -744,22 +744,12 @@
    "Yerevan City|id:178324|4990|990",
    "Yerevan City|id:160761|4990|1990",
    "Yerevan City|id:131855|4980|2490",
-   "Yerevan City|id:180804|4990|2590"
+   "Yerevan City|id:180804|4990|2590",
+   "Yerevan City|id:192622|4990|3490"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Թխվածքաբլիթ շոկոլադապատ «Orion Choco Pie» 360գ",
-    "old": 1090,
-    "new": 980,
-    "pct": 10,
-    "until": "29.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/406/969/96973760449971.webp",
-    "url": "https://www.sas.am/catalog/pechene_pryaniki/134098/",
-    "key": "SAS|id:134098|1090|980"
-   },
    {
     "store": "SAS",
     "title": "Զուգարանի թուղթ «Zewa Deluxe Pure White» 4 հատ",
@@ -5139,12 +5129,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174538.png",
     "url": "https://yerevan-city.am/shop/product-details/180804",
     "key": "Yerevan City|id:180804|4990|2590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Վիսկիի բաժակ «Ռակլե» Ավան. գոլդ 420մլ 4հտ ԱՎԳ420",
+    "old": 4990,
+    "new": 3490,
+    "pct": 30,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176354.png",
+    "url": "https://yerevan-city.am/shop/product-details/192622",
+    "key": "Yerevan City|id:192622|4990|3490"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-22T10:46:04.037532+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-22T11:02:25.436487+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
