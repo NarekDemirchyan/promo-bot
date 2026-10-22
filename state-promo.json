@@ -760,22 +760,12 @@
    "Yerevan City|id:5326|4920|4140",
    "Yerevan City|id:171525|4860|4080",
    "Yerevan City|id:171524|4860|4080",
-   "Yerevan City|id:195133|4850|3880"
+   "Yerevan City|id:195133|4850|3880",
+   "Yerevan City|id:176062|4790|2870"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կարամելային կոնֆետներ պնդուկով «Toffifee» 125գ",
-    "old": 1350,
-    "new": 1160,
-    "pct": 14,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/125/305/305437908313946.webp",
-    "url": "https://www.sas.am/catalog/konfety_v_upakovke/676462/",
-    "key": "SAS|id:676462|1350|1160"
-   },
    {
     "store": "SAS",
     "title": "Պատրաստի նախաճաշ «Nestle Nesquik Mix» 225գ",
@@ -5155,12 +5145,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178936.png",
     "url": "https://yerevan-city.am/shop/product-details/195133",
     "key": "Yerevan City|id:195133|4850|3880"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Չխկչխկան խաղալիք «ՉիմՍթար» 3հտ 503-30",
+    "old": 4790,
+    "new": 2870,
+    "pct": 40,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169689.png",
+    "url": "https://yerevan-city.am/shop/product-details/176062",
+    "key": "Yerevan City|id:176062|4790|2870"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-22T15:46:07.050394+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-22T16:05:16.228509+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
