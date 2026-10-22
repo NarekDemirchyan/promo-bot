@@ -782,22 +782,12 @@
    "Yerevan City|id:16187|4690|4290",
    "Yerevan City|id:192874|4690|3750",
    "Yerevan City|id:191856|4690|3280",
-   "Yerevan City|id:176385|4690|2810"
+   "Yerevan City|id:176385|4690|2810",
+   "Yerevan City|id:83255|4620|3250"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Հակաքրտինքային աէրոզոլային միջոց «Dove Men+Care Elements Mineral Powder Sandalwood» 250մլ",
-    "old": 2150,
-    "new": 1450,
-    "pct": 33,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/128/137/1374173568487603.webp",
-    "url": "https://www.sas.am/catalog/antiperspirantt/952675/",
-    "key": "SAS|id:952675|2150|1450"
-   },
    {
     "store": "SAS",
     "title": "Հակաքրտինքային աէրոզոլային միջոց «Dove Men+ Care Elements Minerals+ Sage» 250մլ",
@@ -5177,12 +5167,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170015.png",
     "url": "https://yerevan-city.am/shop/product-details/176385",
     "key": "Yerevan City|id:176385|4690|2810"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մարզման ռեզին «Լայվափ» ԼՊ8414 Մ",
+    "old": 4620,
+    "new": 3250,
+    "pct": 30,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1123324.png",
+    "url": "https://yerevan-city.am/shop/product-details/83255",
+    "key": "Yerevan City|id:83255|4620|3250"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-22T22:47:02.105263+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-22T23:07:38.811600+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
