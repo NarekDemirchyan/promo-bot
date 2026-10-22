@@ -776,7 +776,8 @@
    "Yerevan City|id:175147|4750|4290",
    "Yerevan City|id:54802|4750|2375",
    "Yerevan City|id:54809|4750|2375",
-   "Yerevan City|id:16187|4690|4290"
+   "Yerevan City|id:16187|4690|4290",
+   "Yerevan City|id:192874|4690|3750"
   ]
  },
  "queues": {
@@ -5171,6 +5172,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1037988.png",
     "url": "https://yerevan-city.am/shop/product-details/16187",
     "key": "Yerevan City|id:16187|4690|4290"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սուրճ աղացած «Արարատ» Նոյան 100% ռոբուստա 1կգ",
+    "old": 4690,
+    "new": 3750,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176594.png",
+    "url": "https://yerevan-city.am/shop/product-details/192874",
+    "key": "Yerevan City|id:192874|4690|3750"
    }
   ]
  },
