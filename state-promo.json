@@ -780,7 +780,8 @@
    "Yerevan City|id:54809|4750|2375",
    "Yerevan City|id:16187|4690|4290",
    "Yerevan City|id:192874|4690|3750",
-   "Yerevan City|id:191856|4690|3280"
+   "Yerevan City|id:191856|4690|3280",
+   "Yerevan City|id:176385|4690|2810"
   ]
  },
  "queues": {
@@ -5175,6 +5176,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175581.png",
     "url": "https://yerevan-city.am/shop/product-details/191856",
     "key": "Yerevan City|id:191856|4690|3280"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տիկնիկ 1213-11Բ",
+    "old": 4690,
+    "new": 2810,
+    "pct": 40,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170015.png",
+    "url": "https://yerevan-city.am/shop/product-details/176385",
+    "key": "Yerevan City|id:176385|4690|2810"
    }
   ]
  },
