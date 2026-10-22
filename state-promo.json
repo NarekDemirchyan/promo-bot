@@ -437,7 +437,8 @@
    "SAS|id:206595|2790|1470",
    "SAS|id:541563|2670|2290",
    "SAS|id:183304|2650|2230",
-   "SAS|id:154905|1880|1370"
+   "SAS|id:154905|1880|1370",
+   "SAS|id:369519|950|810"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2958,6 +2959,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/rezinovye_izdeliya/154905/",
     "key": "SAS|id:154905|1880|1370"
+   },
+   {
+    "store": "SAS",
+    "title": "Կրեկերներ աղով «Croco Brezel Mix» 250գ",
+    "old": 950,
+    "new": 810,
+    "pct": 15,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/krekery_solenye_palochki/369519/",
+    "key": "SAS|id:369519|950|810"
    }
   ],
   "Yerevan City": [
