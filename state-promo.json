@@ -770,22 +770,12 @@
    "Yerevan City|id:176317|4790|2870",
    "Yerevan City|id:179457|4790|2395",
    "Yerevan City|id:23381|4790|3850",
-   "Yerevan City|id:175147|4750|4290"
+   "Yerevan City|id:175147|4750|4290",
+   "Yerevan City|id:54802|4750|2375"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սուրճ լուծվող «Jacobs Monarch» 300գ",
-    "old": 8550,
-    "new": 6990,
-    "pct": 18,
-    "until": "28.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/892/576/5760871689059991.webp",
-    "url": "https://www.sas.am/catalog/rastvorimyy_kofe/3067/",
-    "key": "SAS|id:3067|8550|6990"
-   },
    {
     "store": "SAS",
     "title": "Բալզամ «Elseve Ультра Прочность» 300մլ",
@@ -5165,12 +5155,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168758.png",
     "url": "https://yerevan-city.am/shop/product-details/175147",
     "key": "Yerevan City|id:175147|4750|4290"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սուրճ հատիկիկավոր «Տ.Լամբորգինի» Էսպրեսսո, կար.200գր",
+    "old": 4750,
+    "new": 2375,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1108996.png",
+    "url": "https://yerevan-city.am/shop/product-details/54802",
+    "key": "Yerevan City|id:54802|4750|2375"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-22T19:01:49.045465+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-22T19:16:14.626257+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
