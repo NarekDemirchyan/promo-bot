@@ -461,7 +461,8 @@
    "SAS|id:145226|1190|830",
    "SAS|id:130574|4970|4360",
    "SAS|id:113887|780|630",
-   "SAS|id:95755|880|730"
+   "SAS|id:95755|880|730",
+   "SAS|id:2505|1940|1590"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3006,20 +3007,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/makaronyy/95755/",
     "key": "SAS|id:95755|880|730"
+   },
+   {
+    "store": "SAS",
+    "title": "Հակաքրտինքային աէրոզոլային միջոց «Nivea Men Ultra» 150մլ",
+    "old": 1940,
+    "new": 1590,
+    "pct": 18,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/antiperspirantt/2505/",
+    "key": "SAS|id:2505|1940|1590"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Ծովախեցգետին թագ. պատյանով 50/70 «Վիչի» 1կգ",
-    "old": 7950,
-    "new": 6730,
-    "pct": 15,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/2455",
-    "key": "Yerevan City|id:2455|7950|6730"
-   },
    {
     "store": "Yerevan City",
     "title": "Շոկոլադե կոնֆետներ «ԿիտԿատ» մինի կաթնային կգ",
@@ -5212,8 +5213,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-23T08:01:25.827011+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-23T08:16:06.725135+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
