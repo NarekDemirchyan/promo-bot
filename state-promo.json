@@ -870,17 +870,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Էներգետիկ գազավորված ըմպելիք հապալասի «Flash Up Blueberry Donut Limited Edition» 0.45լ",
-    "old": 430,
-    "new": 350,
-    "pct": 19,
-    "until": "28.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/kokteyl_energeticheskiy_napitok/950287/",
-    "key": "SAS|id:950287|430|350"
-   },
-   {
-    "store": "SAS",
     "title": "Էներգետիկ գազավորված ըմպելիք պաստեղի «Flash Up Marshmallow» 0.45լ",
     "old": 430,
     "new": 350,
@@ -5273,8 +5262,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-23T22:49:56.138916+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-23T23:17:13.860525+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
