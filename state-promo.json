@@ -476,7 +476,8 @@
    "SAS|id:400645|2590|2240",
    "SAS|id:235848|960|650",
    "SAS|id:98291|3350|2350",
-   "SAS|id:63513|970|850"
+   "SAS|id:63513|970|850",
+   "SAS|id:58340|890|790"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3036,20 +3037,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/ketchup_tomatnyy_sous/63513/",
     "key": "SAS|id:63513|970|850"
+   },
+   {
+    "store": "SAS",
+    "title": "Խավիար սմբուկի կծու «Արտֆուդ» 360գ",
+    "old": 890,
+    "new": 790,
+    "pct": 11,
+    "until": "28.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/baklazhan/58340/",
+    "key": "SAS|id:58340|890|790"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Օղի «Առգե» ծիրանի 0.5լ",
-    "old": 7450,
-    "new": 2990,
-    "pct": 60,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/96694",
-    "key": "Yerevan City|id:96694|7450|2990"
-   },
    {
     "store": "Yerevan City",
     "title": "Մանկ.տակդիր «Լիբերո» Կոմֆորտ 7 16-26կգ 26հտ",
@@ -5242,8 +5243,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-23T17:02:16.723214+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-23T17:16:55.680607+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
