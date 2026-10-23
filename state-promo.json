@@ -842,22 +842,12 @@
    "Yerevan City|id:178889|4490|2950",
    "Yerevan City|id:195111|4450|3560",
    "Yerevan City|id:191762|4450|3110",
-   "Yerevan City|id:116034|4450|3250"
+   "Yerevan City|id:116034|4450|3250",
+   "Yerevan City|id:9098|4450|3980"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Հանքային ջուր «Nabeghlavi» 1լ",
-    "old": 540,
-    "new": 450,
-    "pct": 17,
-    "until": "28.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/314/978/978339200019517.webp",
-    "url": "https://www.sas.am/catalog/voda/31742/",
-    "key": "SAS|id:31742|540|450"
-   },
    {
     "store": "SAS",
     "title": "Բամբակյա բարձիկներ «Lady Cotton» 120 հատ",
@@ -5237,12 +5227,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1146154.png",
     "url": "https://yerevan-city.am/shop/product-details/116034",
     "key": "Yerevan City|id:116034|4450|3250"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հալվա «Ռոտ Ֆրոնտ» ջնարակապատ կգ",
+    "old": 4450,
+    "new": 3980,
+    "pct": 11,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1039059.png",
+    "url": "https://yerevan-city.am/shop/product-details/9098",
+    "key": "Yerevan City|id:9098|4450|3980"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-23T16:47:15.717660+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-23T17:02:16.723214+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
