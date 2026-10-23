@@ -457,7 +457,8 @@
    "SAS|id:902248|480|410",
    "SAS|id:169069|810|770",
    "SAS|id:167740|1520|1160",
-   "SAS|id:167739|1520|1160"
+   "SAS|id:167739|1520|1160",
+   "SAS|id:145226|1190|830"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2998,20 +2999,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/sok/167739/",
     "key": "SAS|id:167739|1520|1160"
+   },
+   {
+    "store": "SAS",
+    "title": "Ամենօրյա միջադիրներ «Libresse Light» 32հատ",
+    "old": 1190,
+    "new": 830,
+    "pct": 30,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/419/982/9822391744555218.webp",
+    "url": "https://www.sas.am/catalog/dlya_intimnoy_gigieny2/145226/",
+    "key": "SAS|id:145226|1190|830"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Նկարչության հավաք.«Տրի սովը» այր.փայտ 8հտ",
-    "old": 7990,
-    "new": 4790,
-    "pct": 40,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/166088",
-    "key": "Yerevan City|id:166088|7990|4790"
-   },
    {
     "store": "Yerevan City",
     "title": "Նուշ մաքրած կգ",
@@ -5204,8 +5205,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-23T05:46:05.566388+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-23T06:02:51.828469+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
