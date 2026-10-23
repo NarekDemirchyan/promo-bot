@@ -868,22 +868,12 @@
    "Yerevan City|id:169689|4190|2490",
    "Yerevan City|id:69055|4190|2890",
    "Yerevan City|id:10978|4170|3620",
-   "Yerevan City|id:160727|4190|3410"
+   "Yerevan City|id:160727|4190|3410",
+   "Yerevan City|id:172552|4150|3900"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Փրփրուն գինի «Botter Asolo Proseocco» 750մլ",
-    "old": 5220,
-    "new": 4950,
-    "pct": 5,
-    "until": "05.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/shampanskoe_igristoe_vino/948936/",
-    "key": "SAS|id:948936|5220|4950"
-   },
    {
     "store": "SAS",
     "title": "Գինի սպիտակ «Southern Ocean Sauvignon Blanc» 0․75լ",
@@ -5263,12 +5253,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1158348.png",
     "url": "https://yerevan-city.am/shop/product-details/160727",
     "key": "Yerevan City|id:160727|4190|3410"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կոնյակ «Օրրան» 5տ (տուփով) 0.5լ",
+    "old": 4150,
+    "new": 3900,
+    "pct": 6,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1165840.png",
+    "url": "https://yerevan-city.am/shop/product-details/172552",
+    "key": "Yerevan City|id:172552|4150|3900"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-24T00:46:45.417932+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-24T01:02:26.904387+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
