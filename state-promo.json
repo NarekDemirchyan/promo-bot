@@ -489,7 +489,8 @@
    "SAS|id:887961|670|580",
    "SAS|id:167750|1520|1160",
    "SAS|id:910892|2250|1890",
-   "SAS|id:910891|2390|1990"
+   "SAS|id:910891|2390|1990",
+   "SAS|id:378480|610|490"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3062,6 +3063,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/makaronyy/910891/",
     "key": "SAS|id:910891|2390|1990"
+   },
+   {
+    "store": "SAS",
+    "title": "Մաստակ-կոնֆետ մրգային «Mamba» 70գ",
+    "old": 610,
+    "new": 490,
+    "pct": 20,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/515/285/285632681469438.webp",
+    "url": "https://www.sas.am/catalog/chewingcandy/378480/",
+    "key": "SAS|id:378480|610|490"
    }
   ],
   "Yerevan City": [
