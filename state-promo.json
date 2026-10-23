@@ -874,17 +874,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Գինի սպիտակ «Mucho Mas Gold» 0․75լ",
-    "old": 4400,
-    "new": 4150,
-    "pct": 6,
-    "until": "05.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/import_vino/948942/",
-    "key": "SAS|id:948942|4400|4150"
-   },
-   {
-    "store": "SAS",
     "title": "Փրփրուն գինի «Botter Asolo Proseocco» 750մլ",
     "old": 5220,
     "new": 4950,
@@ -5277,8 +5266,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-24T00:03:40.754819+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-24T00:31:55.308217+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
