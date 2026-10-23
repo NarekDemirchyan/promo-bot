@@ -462,7 +462,8 @@
    "SAS|id:130574|4970|4360",
    "SAS|id:113887|780|630",
    "SAS|id:95755|880|730",
-   "SAS|id:2505|1940|1590"
+   "SAS|id:2505|1940|1590",
+   "SAS|id:935083|1220|1150"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3008,6 +3009,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/antiperspirantt/2505/",
     "key": "SAS|id:2505|1940|1590"
+   },
+   {
+    "store": "SAS",
+    "title": "Արևածաղկի սերմեր աղով «От Мартина» 300գ",
+    "old": 1220,
+    "new": 1150,
+    "pct": 6,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/237/663/6634231786228058.webp",
+    "url": "https://www.sas.am/catalog/semechki/935083/",
+    "key": "SAS|id:935083|1220|1150"
    }
   ],
   "Yerevan City": [
