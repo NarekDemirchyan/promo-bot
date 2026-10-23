@@ -866,7 +866,8 @@
    "Yerevan City|id:69053|4190|2890",
    "Yerevan City|id:169689|4190|2490",
    "Yerevan City|id:69055|4190|2890",
-   "Yerevan City|id:10978|4170|3620"
+   "Yerevan City|id:10978|4170|3620",
+   "Yerevan City|id:160727|4190|3410"
   ]
  },
  "queues": {
@@ -5261,6 +5262,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1045146.png",
     "url": "https://yerevan-city.am/shop/product-details/10978",
     "key": "Yerevan City|id:10978|4170|3620"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Պիստակի մածուկ «3 Նաթլեթս» ա/տ 180գր",
+    "old": 4190,
+    "new": 3410,
+    "pct": 19,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1158348.png",
+    "url": "https://yerevan-city.am/shop/product-details/160727",
+    "key": "Yerevan City|id:160727|4190|3410"
    }
   ]
  },
