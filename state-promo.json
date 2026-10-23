@@ -473,7 +473,8 @@
    "SAS|id:327734|750|620",
    "SAS|id:355223|990|560",
    "SAS|id:267725|2930|2650",
-   "SAS|id:400645|2590|2240"
+   "SAS|id:400645|2590|2240",
+   "SAS|id:235848|960|650"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3030,20 +3031,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/bum_polotentsa/400645/",
     "key": "SAS|id:400645|2590|2240"
+   },
+   {
+    "store": "SAS",
+    "title": "Թեյ մրգային «Curtis» 20*1.7գ",
+    "old": 960,
+    "new": 650,
+    "pct": 32,
+    "until": "28.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/v_paketakh/235848/",
+    "key": "SAS|id:235848|960|650"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Լվացքի փոշի «Թայդ» ակվա, գունավոր 9կգ",
-    "old": 7560,
-    "new": 6430,
-    "pct": 15,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/106076",
-    "key": "Yerevan City|id:106076|7560|6430"
-   },
    {
     "store": "Yerevan City",
     "title": "Օղի «Ռուսսկի Ստանդարտ» Պետերբուրգ 0.5լ",
@@ -5236,8 +5237,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-23T15:17:00.840926+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-23T15:32:04.146289+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
