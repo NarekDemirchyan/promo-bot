@@ -854,22 +854,12 @@
    "Yerevan City|id:7616|4370|3700",
    "Yerevan City|id:192634|4290|2990",
    "Yerevan City|id:192125|4290|3250",
-   "Yerevan City|id:192159|4250|2990"
+   "Yerevan City|id:192159|4250|2990",
+   "Yerevan City|id:176869|4240|3490"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Մակարոն «Barilla Penne Rigate №73» 500գ",
-    "old": 880,
-    "new": 730,
-    "pct": 17,
-    "until": "10.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/418/242/2429013064867428.webp",
-    "url": "https://www.sas.am/catalog/makaronyy/3271/",
-    "key": "SAS|id:3271|880|730"
-   },
    {
     "store": "SAS",
     "title": "Երշիկ սալյամի «Justin Birdou Mini Baton» 80գ",
@@ -5249,12 +5239,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175889.png",
     "url": "https://yerevan-city.am/shop/product-details/192159",
     "key": "Yerevan City|id:192159|4250|2990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ձիթապտղի ձեթ «Կամպանյա» ա/տ 1լ",
+    "old": 4240,
+    "new": 3490,
+    "pct": 18,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170511.png",
+    "url": "https://yerevan-city.am/shop/product-details/176869",
+    "key": "Yerevan City|id:176869|4240|3490"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-23T20:17:10.745457+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-23T20:35:14.227178+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
