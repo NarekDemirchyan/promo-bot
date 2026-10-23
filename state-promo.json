@@ -475,7 +475,8 @@
    "SAS|id:267725|2930|2650",
    "SAS|id:400645|2590|2240",
    "SAS|id:235848|960|650",
-   "SAS|id:98291|3350|2350"
+   "SAS|id:98291|3350|2350",
+   "SAS|id:63513|970|850"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3034,20 +3035,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/rastitelnoe/98291/",
     "key": "SAS|id:98291|3350|2350"
+   },
+   {
+    "store": "SAS",
+    "title": "Կետչուպ տոմատի «Heinz Томатный» 320գ",
+    "old": 970,
+    "new": 850,
+    "pct": 12,
+    "until": "29.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/ketchup_tomatnyy_sous/63513/",
+    "key": "SAS|id:63513|970|850"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Մարտկոց «Դյուրասելլ» Լիթիում ՑՌ2 3Վ 2հտ",
-    "old": 7460,
-    "new": 6520,
-    "pct": 13,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/6269",
-    "key": "Yerevan City|id:6269|7460|6520"
-   },
    {
     "store": "Yerevan City",
     "title": "Օղի «Առգե» ծիրանի 0.5լ",
@@ -5240,8 +5241,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-23T16:32:05.887182+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-23T16:47:15.717660+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
