@@ -824,22 +824,12 @@
    "Yerevan City|id:174960|4520|4090",
    "Yerevan City|id:28820|4500|990",
    "Yerevan City|id:159290|4490|3990",
-   "Yerevan City|id:75657|4490|3590"
+   "Yerevan City|id:75657|4490|3590",
+   "Yerevan City|id:176187|4490|2690"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սուրճ էսպրեսսո «Tonino Lamborghini Espresso» 200գ",
-    "old": 5390,
-    "new": 2720,
-    "pct": 50,
-    "until": "28.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/molotyy/255852/",
-    "key": "SAS|id:255852|5390|2720"
-   },
    {
     "store": "SAS",
     "title": "Շոկոլադե սալիկ դառը նարնջով և նուշով «Lindt» 300գ",
@@ -5219,12 +5209,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1118594.png",
     "url": "https://yerevan-city.am/shop/product-details/75657",
     "key": "Yerevan City|id:75657|4490|3590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տիկնիկ աքսեսուարներով Ռ232Բ",
+    "old": 4490,
+    "new": 2690,
+    "pct": 40,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169817.png",
+    "url": "https://yerevan-city.am/shop/product-details/176187",
+    "key": "Yerevan City|id:176187|4490|2690"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-23T11:32:01.361544+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-23T11:46:56.202757+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
