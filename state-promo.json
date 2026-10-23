@@ -818,22 +818,12 @@
    "Yerevan City|id:21131|4520|3610",
    "Yerevan City|id:21133|4520|3610",
    "Yerevan City|id:15406|4520|4200",
-   "Yerevan City|id:174960|4520|4090"
+   "Yerevan City|id:174960|4520|4090",
+   "Yerevan City|id:28820|4500|990"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Իշխան սեփական հյութի մեջ «Արտֆուդ» 240գ",
-    "old": 1620,
-    "new": 1430,
-    "pct": 12,
-    "until": "28.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/druie_rybnye_konservy/726054/",
-    "key": "SAS|id:726054|1620|1430"
-   },
    {
     "store": "SAS",
     "title": "Էներգետիկ գազավորված ըմպելիք բաբլի «Flash Up» 0.45լ",
@@ -5213,12 +5203,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168584.png",
     "url": "https://yerevan-city.am/shop/product-details/174960",
     "key": "Yerevan City|id:174960|4520|4090"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կոճապղպեղ աղացած կգ",
+    "old": 4500,
+    "new": 990,
+    "pct": 78,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1052190.png",
+    "url": "https://yerevan-city.am/shop/product-details/28820",
+    "key": "Yerevan City|id:28820|4500|990"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-23T09:31:09.808272+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-23T09:48:44.490846+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
