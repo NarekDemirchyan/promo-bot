@@ -864,22 +864,12 @@
    "Yerevan City|id:69052|4190|2890",
    "Yerevan City|id:69053|4190|2890",
    "Yerevan City|id:169689|4190|2490",
-   "Yerevan City|id:69055|4190|2890"
+   "Yerevan City|id:69055|4190|2890",
+   "Yerevan City|id:10978|4170|3620"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Էներգետիկ գազավորված ըմպելիք պաստեղի «Flash Up Marshmallow» 0.45լ",
-    "old": 430,
-    "new": 350,
-    "pct": 19,
-    "until": "28.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/kokteyl_energeticheskiy_napitok/950286/",
-    "key": "SAS|id:950286|430|350"
-   },
    {
     "store": "SAS",
     "title": "Գինի սպիտակ «Mucho Mas Gold» 0․75լ",
@@ -5259,12 +5249,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1113720.png",
     "url": "https://yerevan-city.am/shop/product-details/69055",
     "key": "Yerevan City|id:69055|4190|2890"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սուրճ աղ․ «ԼավԱզզա» Էսպրեսսո, սերուցք. կրեմ 250գ",
+    "old": 4170,
+    "new": 3620,
+    "pct": 13,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1045146.png",
+    "url": "https://yerevan-city.am/shop/product-details/10978",
+    "key": "Yerevan City|id:10978|4170|3620"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-23T23:31:58.044864+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-23T23:46:49.236258+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
