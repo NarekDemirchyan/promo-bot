@@ -493,7 +493,8 @@
    "SAS|id:378480|610|490",
    "SAS|id:83088|9990|8990",
    "SAS|id:88750|7730|6770",
-   "SAS|id:927037|1090|540"
+   "SAS|id:927037|1090|540",
+   "SAS|id:907127|3140|2730"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3070,6 +3071,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/yogurt_puding/927037/",
     "key": "SAS|id:927037|1090|540"
+   },
+   {
+    "store": "SAS",
+    "title": "Լավցքի գել սպիտակ «Savex Premium Supreme Clean & Protect» 0.960լ",
+    "old": 3140,
+    "new": 2730,
+    "pct": 13,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/325/933/933892203591022.webp",
+    "url": "https://www.sas.am/catalog/stiralnyy_poroshok/907127/",
+    "key": "SAS|id:907127|3140|2730"
    }
   ],
   "Yerevan City": [
