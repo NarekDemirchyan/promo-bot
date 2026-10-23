@@ -870,7 +870,8 @@
    "Yerevan City|id:69055|4190|2890",
    "Yerevan City|id:10978|4170|3620",
    "Yerevan City|id:160727|4190|3410",
-   "Yerevan City|id:172552|4150|3900"
+   "Yerevan City|id:172552|4150|3900",
+   "Yerevan City|id:191759|4150|2990"
   ]
  },
  "queues": {
@@ -5265,6 +5266,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1165840.png",
     "url": "https://yerevan-city.am/shop/product-details/172552",
     "key": "Yerevan City|id:172552|4150|3900"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գունաներկում աքսեսուարներով",
+    "old": 4150,
+    "new": 2990,
+    "pct": 28,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175484.png",
+    "url": "https://yerevan-city.am/shop/product-details/191759",
+    "key": "Yerevan City|id:191759|4150|2990"
    }
   ]
  },
