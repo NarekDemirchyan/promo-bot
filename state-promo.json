@@ -844,17 +844,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Մաքրող կրեմ ունիվերսալ «Cif» 500մլ",
-    "old": 1570,
-    "new": 1330,
-    "pct": 15,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/227/550/550470901492134.webp",
-    "url": "https://www.sas.am/catalog/forhebathroom/88118/",
-    "key": "SAS|id:88118|1570|1330"
-   },
-   {
-    "store": "SAS",
     "title": "Մաքրող կրեմ ունիվերսալ «Cif Active Fresh» 500մլ",
     "old": 1570,
     "new": 1330,
@@ -5247,8 +5236,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-23T14:49:01.353262+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-23T15:17:00.840926+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
