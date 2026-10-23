@@ -804,22 +804,12 @@
    "Yerevan City|id:194129|4590|3670",
    "Yerevan City|id:195311|4590|3670",
    "Yerevan City|id:192227|4570|2920",
-   "Yerevan City|id:192228|4570|2920"
+   "Yerevan City|id:192228|4570|2920",
+   "Yerevan City|id:100753|4550|4150"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Էներգետիկ գազավորված ըմպելիք մանգոյի և արքայախնձորի «Flash Up» 0.45լ",
-    "old": 440,
-    "new": 350,
-    "pct": 20,
-    "until": "28.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/kokteyl_energeticheskiy_napitok/626867/",
-    "key": "SAS|id:626867|440|350"
-   },
    {
     "store": "SAS",
     "title": "Յոգուրտ հապալասով «Emmi, Greek Style» 150գ, յուղայնություն՝ 2",
@@ -5199,12 +5189,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175918.png",
     "url": "https://yerevan-city.am/shop/product-details/192228",
     "key": "Yerevan City|id:192228|4570|2920"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գինի «Լե Գրան Նուար» Կաբ.Սավին, կարմ.անապակ 0.75",
+    "old": 4550,
+    "new": 4150,
+    "pct": 9,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1135646.png",
+    "url": "https://yerevan-city.am/shop/product-details/100753",
+    "key": "Yerevan City|id:100753|4550|4150"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-23T05:31:12.096581+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-23T05:46:05.566388+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
