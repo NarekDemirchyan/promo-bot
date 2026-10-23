@@ -834,22 +834,12 @@
    "Yerevan City|id:181169|4490|2990",
    "Yerevan City|id:181162|4490|2990",
    "Yerevan City|id:176342|4490|2690",
-   "Yerevan City|id:178569|4490|2990"
+   "Yerevan City|id:178569|4490|2990",
+   "Yerevan City|id:178889|4490|2950"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Թղթե սրբիչ «Selpak» 3հատ",
-    "old": 1670,
-    "new": 1460,
-    "pct": 13,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/230/215/2151361898915276.webp",
-    "url": "https://www.sas.am/catalog/bum_polotentsa/140534/",
-    "key": "SAS|id:140534|1670|1460"
-   },
    {
     "store": "SAS",
     "title": "Մաքրող կրեմ ունիվերսալ «Cif» 500մլ",
@@ -5229,12 +5219,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172268.png",
     "url": "https://yerevan-city.am/shop/product-details/178569",
     "key": "Yerevan City|id:178569|4490|2990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սափոր «Դ.Հոմ» ներժ 14սմ ԶՅԲ206 (ինդ)",
+    "old": 4490,
+    "new": 2950,
+    "pct": 34,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172590.png",
+    "url": "https://yerevan-city.am/shop/product-details/178889",
+    "key": "Yerevan City|id:178889|4490|2950"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-23T14:16:56.369721+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-23T14:32:04.024523+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
