@@ -466,7 +466,8 @@
    "SAS|id:935083|1220|1150",
    "SAS|id:930711|580|410",
    "SAS|id:902250|450|370",
-   "SAS|id:910897|2250|1890"
+   "SAS|id:910897|2250|1890",
+   "SAS|id:350903|500|450"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3016,6 +3017,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/makaronyy/910897/",
     "key": "SAS|id:910897|2250|1890"
+   },
+   {
+    "store": "SAS",
+    "title": "Յոգուրտ մանգոյով և չիայի սերմերով «Epica» 130գ, յուղայնությունը՝ 5",
+    "old": 500,
+    "new": 450,
+    "pct": 10,
+    "until": "28.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/266/739/7398911117431642.webp",
+    "url": "https://www.sas.am/catalog/yogurt_puding/350903/",
+    "key": "SAS|id:350903|500|450"
    }
   ],
   "Yerevan City": [
