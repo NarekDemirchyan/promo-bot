@@ -482,7 +482,8 @@
    "SAS|id:831093|1190|1050",
    "SAS|id:100453|1460|1050",
    "SAS|id:822895|1240|970",
-   "SAS|id:822814|1150|970"
+   "SAS|id:822814|1150|970",
+   "SAS|id:4281|1520|1160"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3048,6 +3049,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/683/717/7178492988980739.webp",
     "url": "https://www.sas.am/catalog/pechene_pryaniki/822814/",
     "key": "SAS|id:822814|1150|970"
+   },
+   {
+    "store": "SAS",
+    "title": "Հյութ դեղձի և մանգոյի «Santal» 1լ",
+    "old": 1520,
+    "new": 1160,
+    "pct": 24,
+    "until": "29.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/374/032/0326563553773828.webp",
+    "url": "https://www.sas.am/catalog/sok/4281/",
+    "key": "SAS|id:4281|1520|1160"
    }
   ],
   "Yerevan City": [
