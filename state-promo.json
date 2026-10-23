@@ -822,22 +822,12 @@
    "Yerevan City|id:15406|4520|4200",
    "Yerevan City|id:174960|4520|4090",
    "Yerevan City|id:28820|4500|990",
-   "Yerevan City|id:159290|4490|3990"
+   "Yerevan City|id:159290|4490|3990",
+   "Yerevan City|id:75657|4490|3590"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Մակարոն «Barilla №66 Piccolini Mini Penne Rigate» 450գ",
-    "old": 950,
-    "new": 840,
-    "pct": 12,
-    "until": "10.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/makaronyy/499172/",
-    "key": "SAS|id:499172|950|840"
-   },
    {
     "store": "SAS",
     "title": "Սուրճ էսպրեսսո «Tonino Lamborghini Espresso» 200գ",
@@ -5217,12 +5207,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156952.png",
     "url": "https://yerevan-city.am/shop/product-details/159290",
     "key": "Yerevan City|id:159290|4490|3990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Վարսահարդարման հավաքածու «Ֆեյշն» ԻքսՎ155-46",
+    "old": 4490,
+    "new": 3590,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1118594.png",
+    "url": "https://yerevan-city.am/shop/product-details/75657",
+    "key": "Yerevan City|id:75657|4490|3590"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-23T10:46:58.764776+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-23T11:05:03.449728+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
