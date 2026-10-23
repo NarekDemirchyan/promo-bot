@@ -852,7 +852,8 @@
    "Yerevan City|id:155732|4390|3721",
    "Yerevan City|id:7616|4370|3700",
    "Yerevan City|id:192634|4290|2990",
-   "Yerevan City|id:192125|4290|3250"
+   "Yerevan City|id:192125|4290|3250",
+   "Yerevan City|id:192159|4250|2990"
   ]
  },
  "queues": {
@@ -5247,6 +5248,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175850.png",
     "url": "https://yerevan-city.am/shop/product-details/192125",
     "key": "Yerevan City|id:192125|4290|3250"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ականջակալ-հեդֆոն անլար Բ23ԲՏ",
+    "old": 4250,
+    "new": 2990,
+    "pct": 30,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175889.png",
+    "url": "https://yerevan-city.am/shop/product-details/192159",
+    "key": "Yerevan City|id:192159|4250|2990"
    }
   ]
  },
