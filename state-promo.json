@@ -851,17 +851,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Բամբակյա բարձիկներ «Lady Cotton» 120 հատ",
-    "old": 630,
-    "new": 580,
-    "pct": 8,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/403/414/4149503486412687.webp",
-    "url": "https://www.sas.am/catalog/vatnye_izdeliya2/27183/",
-    "key": "SAS|id:27183|630|580"
-   },
-   {
-    "store": "SAS",
     "title": "Զուգարանի թուղթ «Zewa Deluxe Camomile Comfort» 4 հատ",
     "old": 1350,
     "new": 1170,
@@ -5243,8 +5232,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-23T17:16:55.680607+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-23T17:31:23.725931+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
@@ -5253,7 +5242,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 12,
+ "city_page": 13,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
