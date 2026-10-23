@@ -3025,17 +3025,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Շոկոլադե կոնֆետներ «ԿիտԿատ» մինի կաթնային կգ",
-    "old": 7850,
-    "new": 4970,
-    "pct": 37,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/18041",
-    "key": "Yerevan City|id:18041|7850|4970"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Պաղպաղակի գդալ «Բրաբանտիա» 2011-056",
     "old": 7790,
     "new": 5950,
@@ -5226,8 +5215,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-23T08:32:37.988247+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-23T09:01:17.522675+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
