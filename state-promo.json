@@ -806,7 +806,8 @@
    "Yerevan City|id:195311|4590|3670",
    "Yerevan City|id:192227|4570|2920",
    "Yerevan City|id:192228|4570|2920",
-   "Yerevan City|id:100753|4550|4150"
+   "Yerevan City|id:100753|4550|4150",
+   "Yerevan City|id:7660|4540|2890"
   ]
  },
  "queues": {
@@ -5201,6 +5202,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1135646.png",
     "url": "https://yerevan-city.am/shop/product-details/100753",
     "key": "Yerevan City|id:100753|4550|4150"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Լվացքի գել «Ֆրոշ» մանկական հակաալերգիկ 1.5լ",
+    "old": 4540,
+    "new": 2890,
+    "pct": 36,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1086564.png",
+    "url": "https://yerevan-city.am/shop/product-details/7660",
+    "key": "Yerevan City|id:7660|4540|2890"
    }
   ]
  },
