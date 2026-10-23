@@ -816,22 +816,12 @@
    "Yerevan City|id:10229|4520|3610",
    "Yerevan City|id:21131|4520|3610",
    "Yerevan City|id:21133|4520|3610",
-   "Yerevan City|id:15406|4520|4200"
+   "Yerevan City|id:15406|4520|4200",
+   "Yerevan City|id:174960|4520|4090"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Զուգարանի թուղթ խոնավ մանկական «Smile» 44 հատ",
-    "old": 890,
-    "new": 770,
-    "pct": 13,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/podguzniki/858440/",
-    "key": "SAS|id:858440|890|770"
-   },
    {
     "store": "SAS",
     "title": "Իշխան սեփական հյութի մեջ «Արտֆուդ» 240գ",
@@ -5211,12 +5201,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1082132.png",
     "url": "https://yerevan-city.am/shop/product-details/15406",
     "key": "Yerevan City|id:15406|4520|4200"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կոնֆետների հավաքածու «Պարադոքս» 80գր",
+    "old": 4520,
+    "new": 4090,
+    "pct": 10,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168584.png",
+    "url": "https://yerevan-city.am/shop/product-details/174960",
+    "key": "Yerevan City|id:174960|4520|4090"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-23T09:01:17.522675+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-23T09:16:03.038666+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
