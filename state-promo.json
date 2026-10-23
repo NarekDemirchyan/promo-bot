@@ -856,17 +856,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Վաֆլե բատոն «Nutella B-ready» 22գ",
-    "old": 340,
-    "new": 300,
-    "pct": 12,
-    "until": "02.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/280/593/5939491298440795.webp",
-    "url": "https://www.sas.am/catalog/vafli_vafelnyy_tort/20731/",
-    "key": "SAS|id:20731|340|300"
-   },
-   {
-    "store": "SAS",
     "title": "Զուգարանի թուղթ խոնավ «Zewa Almond Milk» 42 հատ",
     "old": 990,
     "new": 890,
@@ -5259,8 +5248,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-23T18:19:56.806829+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-23T18:47:02.266121+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
