@@ -858,22 +858,12 @@
    "Yerevan City|id:192125|4290|3250",
    "Yerevan City|id:192159|4250|2990",
    "Yerevan City|id:176869|4240|3490",
-   "Yerevan City|id:69052|4190|2890"
+   "Yerevan City|id:69052|4190|2890",
+   "Yerevan City|id:69053|4190|2890"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շամպուն «Dove Keratin Damage Expert» 375մլ",
-    "old": 2390,
-    "new": 2130,
-    "pct": 11,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/dlya_volos2/950871/",
-    "key": "SAS|id:950871|2390|2130"
-   },
    {
     "store": "SAS",
     "title": "Շամպուն «Dove Peptide Bond Repair Damage Expert» 375մլ",
@@ -5253,12 +5243,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1113721.png",
     "url": "https://yerevan-city.am/shop/product-details/69052",
     "key": "Yerevan City|id:69052|4190|2890"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սրբիչ լոգանքի «Ռոյալ Հոմ» 600 երկնագույն 70x140",
+    "old": 4190,
+    "new": 2890,
+    "pct": 31,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1113719.png",
+    "url": "https://yerevan-city.am/shop/product-details/69053",
+    "key": "Yerevan City|id:69053|4190|2890"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-23T21:32:04.316635+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-23T21:49:42.773700+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
