@@ -838,22 +838,12 @@
    "Yerevan City|id:176342|4490|2690",
    "Yerevan City|id:178569|4490|2990",
    "Yerevan City|id:178889|4490|2950",
-   "Yerevan City|id:195111|4450|3560"
+   "Yerevan City|id:195111|4450|3560",
+   "Yerevan City|id:191762|4450|3110"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Մաքրող կրեմ ունիվերսալ «Cif Active Fresh» 500մլ",
-    "old": 1570,
-    "new": 1330,
-    "pct": 15,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/165/103/103611891461817.webp",
-    "url": "https://www.sas.am/catalog/forhebathroom/88096/",
-    "key": "SAS|id:88096|1570|1330"
-   },
    {
     "store": "SAS",
     "title": "Յոգուրտ հապալասով «Emmi Swiss Premium» 100գ, յուղայնությունը`1.5",
@@ -5233,12 +5223,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178916.png",
     "url": "https://yerevan-city.am/shop/product-details/195111",
     "key": "Yerevan City|id:195111|4450|3560"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ջրային խաղ գլխարկով 6188-3",
+    "old": 4450,
+    "new": 3110,
+    "pct": 30,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175487.png",
+    "url": "https://yerevan-city.am/shop/product-details/191762",
+    "key": "Yerevan City|id:191762|4450|3110"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-23T15:32:04.146289+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-23T15:46:59.952223+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
