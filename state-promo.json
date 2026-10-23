@@ -814,17 +814,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Յոգուրտ հապալասով «Emmi, Greek Style» 150գ, յուղայնություն՝ 2",
-    "old": 1740,
-    "new": 1550,
-    "pct": 11,
-    "until": "28.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/yogurt_puding/59267/",
-    "key": "SAS|id:59267|1740|1550"
-   },
-   {
-    "store": "SAS",
     "title": "Յոգուրտային արտադրանք մրգային «Campina Fruttis» 115գ, յուղայնությունը` 5",
     "old": 290,
     "new": 240,
@@ -5217,8 +5206,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-23T06:02:51.828469+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-23T06:31:08.695105+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
