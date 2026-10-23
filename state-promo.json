@@ -487,7 +487,8 @@
    "SAS|id:902238|450|370",
    "SAS|id:902247|450|370",
    "SAS|id:887961|670|580",
-   "SAS|id:167750|1520|1160"
+   "SAS|id:167750|1520|1160",
+   "SAS|id:910892|2250|1890"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3058,20 +3059,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/sok/167750/",
     "key": "SAS|id:167750|1520|1160"
+   },
+   {
+    "store": "SAS",
+    "title": "Մակարոն «Di Bari Farfalle Spinaci» 250գ",
+    "old": 2250,
+    "new": 1890,
+    "pct": 16,
+    "until": "28.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/makaronyy/910892/",
+    "key": "SAS|id:910892|2250|1890"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Կոնյակ «Նոյ» ընծայական 7տ (տուփով) 0.5լ",
-    "old": 6990,
-    "new": 6390,
-    "pct": 9,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/5273",
-    "key": "Yerevan City|id:5273|6990|6390"
-   },
    {
     "store": "Yerevan City",
     "title": "Անտառային ընկույզ «Սագա» կգ",
@@ -5264,8 +5265,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-23T23:46:49.236258+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-24T00:03:40.754819+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
