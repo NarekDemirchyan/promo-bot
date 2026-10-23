@@ -464,7 +464,8 @@
    "SAS|id:95755|880|730",
    "SAS|id:2505|1940|1590",
    "SAS|id:935083|1220|1150",
-   "SAS|id:930711|580|410"
+   "SAS|id:930711|580|410",
+   "SAS|id:902250|450|370"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3012,6 +3013,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/394/607/6072491032830723.webp",
     "url": "https://www.sas.am/catalog/yogurt_puding/930711/",
     "key": "SAS|id:930711|580|410"
+   },
+   {
+    "store": "SAS",
+    "title": "Յոգուրտ մանգոյի և ծիրանի «Movenpick Moments Of Joy» 100գ, յուղայնությունը՝ 5",
+    "old": 450,
+    "new": 370,
+    "pct": 18,
+    "until": "28.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/yogurt_puding/902250/",
+    "key": "SAS|id:902250|450|370"
    }
   ],
   "Yerevan City": [
