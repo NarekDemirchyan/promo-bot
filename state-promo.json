@@ -3079,17 +3079,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Ավտոմատ սպունգանման փամփուշտներով ՈՒՍԲ 609Բ",
-    "old": 6990,
-    "new": 4190,
-    "pct": 40,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/176089",
-    "key": "Yerevan City|id:176089|6990|4190"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Ավտոմրցարշավ «Դինոզավր» 134կտոր 183",
     "old": 6990,
     "new": 4190,
@@ -5280,8 +5269,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-24T01:02:26.904387+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-24T01:31:13.038341+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
