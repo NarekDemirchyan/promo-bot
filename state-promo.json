@@ -460,7 +460,8 @@
    "SAS|id:167739|1520|1160",
    "SAS|id:145226|1190|830",
    "SAS|id:130574|4970|4360",
-   "SAS|id:113887|780|630"
+   "SAS|id:113887|780|630",
+   "SAS|id:95755|880|730"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3004,20 +3005,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/osvezhayushchiy_napitok/113887/",
     "key": "SAS|id:113887|780|630"
+   },
+   {
+    "store": "SAS",
+    "title": "Մակարոն «Barilla Conchiglie Rigate №93» 450գ",
+    "old": 880,
+    "new": 730,
+    "pct": 17,
+    "until": "10.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/makaronyy/95755/",
+    "key": "SAS|id:95755|880|730"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Օղի «Բելայա Բերյոզկա» 0.7լ",
-    "old": 7970,
-    "new": 6990,
-    "pct": 12,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/17365",
-    "key": "Yerevan City|id:17365|7970|6990"
-   },
    {
     "store": "Yerevan City",
     "title": "Ծովախեցգետին թագ. պատյանով 50/70 «Վիչի» 1կգ",
@@ -5210,8 +5211,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-23T07:31:12.969029+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-23T07:46:08.523594+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
