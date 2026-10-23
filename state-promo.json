@@ -480,7 +480,8 @@
    "SAS|id:58340|890|790",
    "SAS|id:902237|480|410",
    "SAS|id:831093|1190|1050",
-   "SAS|id:100453|1460|1050"
+   "SAS|id:100453|1460|1050",
+   "SAS|id:822895|1240|970"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3044,20 +3045,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/moloko/100453/",
     "key": "SAS|id:100453|1460|1050"
+   },
+   {
+    "store": "SAS",
+    "title": "Թխվածքաբլիթ նուշով «Bergen Original» 130գ",
+    "old": 1240,
+    "new": 970,
+    "pct": 22,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/207/072/0723412037705126.webp",
+    "url": "https://www.sas.am/catalog/pechene_pryaniki/822895/",
+    "key": "SAS|id:822895|1240|970"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Մանկ.տակդիր «Փամպերս» պրեմիում 2-5կգ 1 50հտ",
-    "old": 7310,
-    "new": 6580,
-    "pct": 10,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/116245",
-    "key": "Yerevan City|id:116245|7310|6580"
-   },
    {
     "store": "Yerevan City",
     "title": "Կոնյակ «Գրանդ Երևան» Քնար 7տ (տուփով) 0.5լ",
@@ -5250,8 +5251,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-23T19:16:52.723484+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-23T19:34:46.433515+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
