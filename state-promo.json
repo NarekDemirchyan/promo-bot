@@ -872,22 +872,12 @@
    "Yerevan City|id:10978|4170|3620",
    "Yerevan City|id:160727|4190|3410",
    "Yerevan City|id:172552|4150|3900",
-   "Yerevan City|id:191759|4150|2990"
+   "Yerevan City|id:191759|4150|2990",
+   "Yerevan City|id:6818|4090|3410"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Գինի վարդագույն «Finca Valeria Rose» 750մլ",
-    "old": 6200,
-    "new": 5800,
-    "pct": 6,
-    "until": "05.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/import_vino/948934/",
-    "key": "SAS|id:948934|6200|5800"
-   },
    {
     "store": "SAS",
     "title": "Գինի սպիտակ «Finca Valeria Chardonnay» 750մլ",
@@ -5267,12 +5257,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175484.png",
     "url": "https://yerevan-city.am/shop/product-details/191759",
     "key": "Yerevan City|id:191759|4150|2990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Լվացքի փոշի «Արիել» Ակվա Պուդրա, գուն. ավտ. 3կգ",
+    "old": 4090,
+    "new": 3410,
+    "pct": 17,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1029430.png",
+    "url": "https://yerevan-city.am/shop/product-details/6818",
+    "key": "Yerevan City|id:6818|4090|3410"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-24T02:01:27.528304+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-24T02:16:44.616788+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
