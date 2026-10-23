@@ -459,7 +459,8 @@
    "SAS|id:167740|1520|1160",
    "SAS|id:167739|1520|1160",
    "SAS|id:145226|1190|830",
-   "SAS|id:130574|4970|4360"
+   "SAS|id:130574|4970|4360",
+   "SAS|id:113887|780|630"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3002,20 +3003,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/389/649/649565267731514.webp",
     "url": "https://www.sas.am/catalog/krem/130574/",
     "key": "SAS|id:130574|4970|4360"
+   },
+   {
+    "store": "SAS",
+    "title": "Զովացուցիչ գազավորված ըմպելիք նարնջի «Mirinda» 1.5լ",
+    "old": 780,
+    "new": 630,
+    "pct": 19,
+    "until": "13.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/osvezhayushchiy_napitok/113887/",
+    "key": "SAS|id:113887|780|630"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Կանացի գիշերազգեստ «Ալեքս» վարդագույն-մոխրագույն Մ Վ2006-ՊՋ",
-    "old": 7980,
-    "new": 3990,
-    "pct": 50,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/23351",
-    "key": "Yerevan City|id:23351|7980|3990"
-   },
    {
     "store": "Yerevan City",
     "title": "Օղի «Բելայա Բերյոզկա» 0.7լ",
@@ -5208,8 +5209,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-23T07:01:21.819253+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-23T07:16:45.924340+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
