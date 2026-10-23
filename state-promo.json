@@ -481,7 +481,8 @@
    "SAS|id:902237|480|410",
    "SAS|id:831093|1190|1050",
    "SAS|id:100453|1460|1050",
-   "SAS|id:822895|1240|970"
+   "SAS|id:822895|1240|970",
+   "SAS|id:822814|1150|970"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3046,20 +3047,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/207/072/0723412037705126.webp",
     "url": "https://www.sas.am/catalog/pechene_pryaniki/822895/",
     "key": "SAS|id:822895|1240|970"
+   },
+   {
+    "store": "SAS",
+    "title": "Թխվածքաբլիթ բրաունի «Bergen» 128գ",
+    "old": 1150,
+    "new": 970,
+    "pct": 16,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/683/717/7178492988980739.webp",
+    "url": "https://www.sas.am/catalog/pechene_pryaniki/822814/",
+    "key": "SAS|id:822814|1150|970"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Կոնյակ «Գրանդ Երևան» Քնար 7տ (տուփով) 0.5լ",
-    "old": 7290,
-    "new": 6750,
-    "pct": 7,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/172773",
-    "key": "Yerevan City|id:172773|7290|6750"
-   },
    {
     "store": "Yerevan City",
     "title": "Գինու գավաթ «Ռակլե» Ավան. գոլդ 490մլ 4հտ ԱՎԳ065",
@@ -5252,8 +5253,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-23T20:02:19.767592+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-23T20:17:10.745457+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
