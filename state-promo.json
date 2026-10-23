@@ -802,22 +802,12 @@
    "Yerevan City|id:192793|4590|2990",
    "Yerevan City|id:194129|4590|3670",
    "Yerevan City|id:195311|4590|3670",
-   "Yerevan City|id:192227|4570|2920"
+   "Yerevan City|id:192227|4570|2920",
+   "Yerevan City|id:192228|4570|2920"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Պանիր օլտերմաննի «Valio» 250գ",
-    "old": 1980,
-    "new": 1590,
-    "pct": 20,
-    "until": "28.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/506/587/5879281202131592.webp",
-    "url": "https://www.sas.am/catalog/importnyy_syr/180245/",
-    "key": "SAS|id:180245|1980|1590"
-   },
    {
     "store": "SAS",
     "title": "Էներգետիկ գազավորված ըմպելիք մանգոյի և արքայախնձորի «Flash Up» 0.45լ",
@@ -5197,12 +5187,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175917.png",
     "url": "https://yerevan-city.am/shop/product-details/192227",
     "key": "Yerevan City|id:192227|4570|2920"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Լվացքի հեղուկ «Ֆրոշ» սպիտակ, կիտրոն 1.5լ",
+    "old": 4570,
+    "new": 2920,
+    "pct": 36,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175918.png",
+    "url": "https://yerevan-city.am/shop/product-details/192228",
+    "key": "Yerevan City|id:192228|4570|2920"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-23T04:46:03.632370+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-23T05:02:21.450994+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
