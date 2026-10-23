@@ -814,22 +814,12 @@
    "Yerevan City|id:7660|4540|2890",
    "Yerevan City|id:10229|4520|3610",
    "Yerevan City|id:21131|4520|3610",
-   "Yerevan City|id:21133|4520|3610"
+   "Yerevan City|id:21133|4520|3610",
+   "Yerevan City|id:15406|4520|4200"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ըմպելիք խնձորի և հապալասի «Zuegg Mirtillo Mix Zero» 1000մլ",
-    "old": 1520,
-    "new": 1350,
-    "pct": 11,
-    "until": "10.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/sok/874216/",
-    "key": "SAS|id:874216|1520|1350"
-   },
    {
     "store": "SAS",
     "title": "Զուգարանի թուղթ խոնավ մանկական «Smile» 44 հատ",
@@ -5209,12 +5199,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1089078.png",
     "url": "https://yerevan-city.am/shop/product-details/21133",
     "key": "Yerevan City|id:21133|4520|3610"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հալած բուսայուղային խառ. «Իմպերիա Վկուսա» 2.4կգ",
+    "old": 4520,
+    "new": 4200,
+    "pct": 7,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1082132.png",
+    "url": "https://yerevan-city.am/shop/product-details/15406",
+    "key": "Yerevan City|id:15406|4520|4200"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-23T08:16:06.725135+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-23T08:32:37.988247+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
