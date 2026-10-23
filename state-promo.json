@@ -848,7 +848,8 @@
    "Yerevan City|id:116034|4450|3250",
    "Yerevan City|id:9098|4450|3980",
    "Yerevan City|id:155732|4390|3721",
-   "Yerevan City|id:7616|4370|3700"
+   "Yerevan City|id:7616|4370|3700",
+   "Yerevan City|id:192634|4290|2990"
   ]
  },
  "queues": {
@@ -5243,6 +5244,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1073510.png",
     "url": "https://yerevan-city.am/shop/product-details/7616",
     "key": "Yerevan City|id:7616|4370|3700"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Համեմունքների տարա «Ռակլե» 3հտ ՆՌՕ004",
+    "old": 4290,
+    "new": 2990,
+    "pct": 30,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176366.png",
+    "url": "https://yerevan-city.am/shop/product-details/192634",
+    "key": "Yerevan City|id:192634|4290|2990"
    }
   ]
  },
