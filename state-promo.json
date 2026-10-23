@@ -826,22 +826,12 @@
    "Yerevan City|id:28820|4500|990",
    "Yerevan City|id:159290|4490|3990",
    "Yerevan City|id:75657|4490|3590",
-   "Yerevan City|id:176187|4490|2690"
+   "Yerevan City|id:176187|4490|2690",
+   "Yerevan City|id:181169|4490|2990"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շոկոլադե սալիկ դառը նարնջով և նուշով «Lindt» 300գ",
-    "old": 7180,
-    "new": 3790,
-    "pct": 47,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/plitka/206200/",
-    "key": "SAS|id:206200|7180|3790"
-   },
    {
     "store": "SAS",
     "title": "Անձեռոցիկ «Zewa» 60հատ",
@@ -5221,12 +5211,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169817.png",
     "url": "https://yerevan-city.am/shop/product-details/176187",
     "key": "Yerevan City|id:176187|4490|2690"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մազերի մուս «Ամիկա» 252մլ",
+    "old": 4490,
+    "new": 2990,
+    "pct": 33,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174896.png",
+    "url": "https://yerevan-city.am/shop/product-details/181169",
+    "key": "Yerevan City|id:181169|4490|2990"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-23T12:02:06.767928+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-23T12:16:47.898136+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
