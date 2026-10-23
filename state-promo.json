@@ -846,22 +846,12 @@
    "Yerevan City|id:191762|4450|3110",
    "Yerevan City|id:116034|4450|3250",
    "Yerevan City|id:9098|4450|3980",
-   "Yerevan City|id:155732|4390|3721"
+   "Yerevan City|id:155732|4390|3721",
+   "Yerevan City|id:7616|4370|3700"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Զուգարանի թուղթ «Zewa Deluxe Camomile Comfort» 4 հատ",
-    "old": 1350,
-    "new": 1170,
-    "pct": 13,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/296/954/9544953273343602.webp",
-    "url": "https://www.sas.am/catalog/tualetnaya_bumaga/25320/",
-    "key": "SAS|id:25320|1350|1170"
-   },
    {
     "store": "SAS",
     "title": "Վաֆլե բատոն «Nutella B-ready» 22գ",
@@ -5241,12 +5231,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1155159.png",
     "url": "https://yerevan-city.am/shop/product-details/155732",
     "key": "Yerevan City|id:155732|4390|3721"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շոկոլադե կրեմ «Նուտելլա» 630գր",
+    "old": 4370,
+    "new": 3700,
+    "pct": 15,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1073510.png",
+    "url": "https://yerevan-city.am/shop/product-details/7616",
+    "key": "Yerevan City|id:7616|4370|3700"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-23T17:46:13.331465+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-23T18:01:42.610010+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
