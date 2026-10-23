@@ -860,17 +860,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Մակարոն «Barilla Fusilli № 98» 500գ",
-    "old": 880,
-    "new": 730,
-    "pct": 17,
-    "until": "10.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/278/694/694501719430795.webp",
-    "url": "https://www.sas.am/catalog/makaronyy/3273/",
-    "key": "SAS|id:3273|880|730"
-   },
-   {
-    "store": "SAS",
     "title": "Մակարոն «Barilla Penne Rigate №73» 500գ",
     "old": 880,
     "new": 730,
@@ -5263,8 +5252,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-23T19:34:46.433515+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-23T20:02:19.767592+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
