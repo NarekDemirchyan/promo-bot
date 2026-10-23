@@ -848,17 +848,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Յոգուրտ հապալասով «Emmi Swiss Premium» 100գ, յուղայնությունը`1.5",
-    "old": 720,
-    "new": 650,
-    "pct": 10,
-    "until": "28.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/402/204/204104900005814.webp",
-    "url": "https://www.sas.am/catalog/yogurt_puding/59276/",
-    "key": "SAS|id:59276|720|650"
-   },
-   {
-    "store": "SAS",
     "title": "Հանքային ջուր «Nabeghlavi» 1լ",
     "old": 540,
     "new": 450,
@@ -5251,8 +5240,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-23T16:05:14.998396+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-23T16:32:05.887182+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
