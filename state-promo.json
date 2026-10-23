@@ -3029,17 +3029,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Փափուկ խաղալիք «Խոզուկ-գնդակ» պոմպով 211",
-    "old": 7790,
-    "new": 3895,
-    "pct": 50,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/177173",
-    "key": "Yerevan City|id:177173|7790|3895"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Լվացքի փոշի «Պերսիլ» գունավոր 10կգ",
     "old": 7780,
     "new": 6990,
@@ -5230,8 +5219,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-23T09:48:44.490846+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-23T10:16:58.827578+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
