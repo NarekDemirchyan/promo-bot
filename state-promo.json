@@ -810,7 +810,8 @@
    "Yerevan City|id:192228|4570|2920",
    "Yerevan City|id:100753|4550|4150",
    "Yerevan City|id:7660|4540|2890",
-   "Yerevan City|id:10229|4520|3610"
+   "Yerevan City|id:10229|4520|3610",
+   "Yerevan City|id:21131|4520|3610"
   ]
  },
  "queues": {
@@ -5205,6 +5206,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1089080.png",
     "url": "https://yerevan-city.am/shop/product-details/10229",
     "key": "Yerevan City|id:10229|4520|3610"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Դեմքի քսուք-գել «Լորեալ» խոնավեցնող, չոր և զգայուն մաշկի համար 70մլ",
+    "old": 4520,
+    "new": 3610,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1089079.png",
+    "url": "https://yerevan-city.am/shop/product-details/21131",
+    "key": "Yerevan City|id:21131|4520|3610"
    }
   ]
  },
