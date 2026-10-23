@@ -490,7 +490,8 @@
    "SAS|id:167750|1520|1160",
    "SAS|id:910892|2250|1890",
    "SAS|id:910891|2390|1990",
-   "SAS|id:378480|610|490"
+   "SAS|id:378480|610|490",
+   "SAS|id:83088|9990|8990"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3064,20 +3065,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/515/285/285632681469438.webp",
     "url": "https://www.sas.am/catalog/chewingcandy/378480/",
     "key": "SAS|id:378480|610|490"
+   },
+   {
+    "store": "SAS",
+    "title": "Սուրճ էսպրեսսո հատիկավոր «Lavazza Qualità Rossa» 500գ",
+    "old": 9990,
+    "new": 8990,
+    "pct": 10,
+    "until": "13.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/159/775/7758542628685696.webp",
+    "url": "https://www.sas.am/catalog/molotyy/83088/",
+    "key": "SAS|id:83088|9990|8990"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Ավտոմրցարշավ «Դինոզավր» 134կտոր 183",
-    "old": 6990,
-    "new": 4190,
-    "pct": 40,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/176318",
-    "key": "Yerevan City|id:176318|6990|4190"
-   },
    {
     "store": "Yerevan City",
     "title": "Տիկնիկ աքսեսուարներով «Լիթլ Միլի» 38սմ 92052-Ա",
@@ -5270,8 +5271,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-24T01:46:02.172928+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-24T02:01:27.528304+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
