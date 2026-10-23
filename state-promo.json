@@ -862,7 +862,8 @@
    "Yerevan City|id:176869|4240|3490",
    "Yerevan City|id:69052|4190|2890",
    "Yerevan City|id:69053|4190|2890",
-   "Yerevan City|id:169689|4190|2490"
+   "Yerevan City|id:169689|4190|2490",
+   "Yerevan City|id:69055|4190|2890"
   ]
  },
  "queues": {
@@ -5257,6 +5258,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1163462.png",
     "url": "https://yerevan-city.am/shop/product-details/169689",
     "key": "Yerevan City|id:169689|4190|2490"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սրբիչ լոգանքի «Ռոյալ Հոմ» 600 կուբայի ավազ 70x140",
+    "old": 4190,
+    "new": 2890,
+    "pct": 31,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1113720.png",
+    "url": "https://yerevan-city.am/shop/product-details/69055",
+    "key": "Yerevan City|id:69055|4190|2890"
    }
   ]
  },
