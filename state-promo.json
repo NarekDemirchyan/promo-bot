@@ -456,7 +456,8 @@
    "SAS|id:100454|1550|1170",
    "SAS|id:902248|480|410",
    "SAS|id:169069|810|770",
-   "SAS|id:167740|1520|1160"
+   "SAS|id:167740|1520|1160",
+   "SAS|id:167739|1520|1160"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2996,6 +2997,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/322/583/5836103285271952.webp",
     "url": "https://www.sas.am/catalog/sok/167740/",
     "key": "SAS|id:167740|1520|1160"
+   },
+   {
+    "store": "SAS",
+    "title": "Հյութ բալի «Santal» 1լ",
+    "old": 1520,
+    "new": 1160,
+    "pct": 24,
+    "until": "29.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/sok/167739/",
+    "key": "SAS|id:167739|1520|1160"
    }
   ],
   "Yerevan City": [
