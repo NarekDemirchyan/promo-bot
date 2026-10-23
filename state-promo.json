@@ -840,7 +840,8 @@
    "Yerevan City|id:178569|4490|2990",
    "Yerevan City|id:178889|4490|2950",
    "Yerevan City|id:195111|4450|3560",
-   "Yerevan City|id:191762|4450|3110"
+   "Yerevan City|id:191762|4450|3110",
+   "Yerevan City|id:116034|4450|3250"
   ]
  },
  "queues": {
@@ -5235,6 +5236,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175487.png",
     "url": "https://yerevan-city.am/shop/product-details/191762",
     "key": "Yerevan City|id:191762|4450|3110"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մարզման ռեզին «Լայվպրո» ԼՊ8415 ԻքսՀ",
+    "old": 4450,
+    "new": 3250,
+    "pct": 27,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1146154.png",
+    "url": "https://yerevan-city.am/shop/product-details/116034",
+    "key": "Yerevan City|id:116034|4450|3250"
    }
   ]
  },
