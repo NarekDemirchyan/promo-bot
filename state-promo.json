@@ -832,7 +832,8 @@
    "Yerevan City|id:176187|4490|2690",
    "Yerevan City|id:181169|4490|2990",
    "Yerevan City|id:181162|4490|2990",
-   "Yerevan City|id:176342|4490|2690"
+   "Yerevan City|id:176342|4490|2690",
+   "Yerevan City|id:178569|4490|2990"
   ]
  },
  "queues": {
@@ -5227,6 +5228,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169974.png",
     "url": "https://yerevan-city.am/shop/product-details/176342",
     "key": "Yerevan City|id:176342|4490|2690"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սոուս «Տաբասկո» չիպոտլե 148մլ",
+    "old": 4490,
+    "new": 2990,
+    "pct": 33,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172268.png",
+    "url": "https://yerevan-city.am/shop/product-details/178569",
+    "key": "Yerevan City|id:178569|4490|2990"
    }
   ]
  },
