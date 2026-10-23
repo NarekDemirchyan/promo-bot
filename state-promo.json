@@ -488,7 +488,8 @@
    "SAS|id:902247|450|370",
    "SAS|id:887961|670|580",
    "SAS|id:167750|1520|1160",
-   "SAS|id:910892|2250|1890"
+   "SAS|id:910892|2250|1890",
+   "SAS|id:910891|2390|1990"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3060,20 +3061,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/makaronyy/910892/",
     "key": "SAS|id:910892|2250|1890"
+   },
+   {
+    "store": "SAS",
+    "title": "Մակարոն «Di Bari Ortolana Conchiglioni Caserecci» 500գ",
+    "old": 2390,
+    "new": 1990,
+    "pct": 17,
+    "until": "28.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/makaronyy/910891/",
+    "key": "SAS|id:910891|2390|1990"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Անտառային ընկույզ «Սագա» կգ",
-    "old": 6990,
-    "new": 1957,
-    "pct": 72,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/19042",
-    "key": "Yerevan City|id:19042|6990|1957"
-   },
    {
     "store": "Yerevan City",
     "title": "Ավտոմատ սպունգանման փամփուշտներով ՈՒՍԲ 609Բ",
@@ -5266,8 +5267,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-24T00:31:55.308217+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-24T00:46:45.417932+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
