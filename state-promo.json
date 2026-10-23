@@ -468,7 +468,8 @@
    "SAS|id:902250|450|370",
    "SAS|id:910897|2250|1890",
    "SAS|id:350903|500|450",
-   "SAS|id:59282|500|450"
+   "SAS|id:59282|500|450",
+   "SAS|id:34592|1210|990"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3020,20 +3021,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/338/925/9253572878324763.webp",
     "url": "https://www.sas.am/catalog/yogurt_puding/59282/",
     "key": "SAS|id:59282|500|450"
+   },
+   {
+    "store": "SAS",
+    "title": "Լոգանքի կրեմ-գել «Le Petit Marseillais» 250մլ",
+    "old": 1210,
+    "new": 990,
+    "pct": 18,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/showergell/34592/",
+    "key": "SAS|id:34592|1210|990"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Օղի «Ցարսկայա» Օրիգինալ 0.7լ",
-    "old": 7750,
-    "new": 6990,
-    "pct": 10,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/2726",
-    "key": "Yerevan City|id:2726|7750|6990"
-   },
    {
     "store": "Yerevan City",
     "title": "Կոնֆետների հավաքածու «Սորինի» Վենեցիա 300գր",
@@ -5226,8 +5227,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-23T12:16:47.898136+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-23T12:31:15.328247+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
