@@ -850,22 +850,12 @@
    "Yerevan City|id:9098|4450|3980",
    "Yerevan City|id:155732|4390|3721",
    "Yerevan City|id:7616|4370|3700",
-   "Yerevan City|id:192634|4290|2990"
+   "Yerevan City|id:192634|4290|2990",
+   "Yerevan City|id:192125|4290|3250"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Զուգարանի թուղթ խոնավ «Zewa Almond Milk» 42 հատ",
-    "old": 990,
-    "new": 890,
-    "pct": 10,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/172/441/4419452226966547.webp",
-    "url": "https://www.sas.am/catalog/tualetnaya_bumaga/6683/",
-    "key": "SAS|id:6683|990|890"
-   },
    {
     "store": "SAS",
     "title": "Մակարոն «Barilla Fusilli № 98» 500գ",
@@ -5245,12 +5235,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176366.png",
     "url": "https://yerevan-city.am/shop/product-details/192634",
     "key": "Yerevan City|id:192634|4290|2990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գունաներկում աքսեսուարներով",
+    "old": 4290,
+    "new": 3250,
+    "pct": 24,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175850.png",
+    "url": "https://yerevan-city.am/shop/product-details/192125",
+    "key": "Yerevan City|id:192125|4290|3250"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-23T19:02:16.821104+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-23T19:16:52.723484+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
