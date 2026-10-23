@@ -478,7 +478,8 @@
    "SAS|id:98291|3350|2350",
    "SAS|id:63513|970|850",
    "SAS|id:58340|890|790",
-   "SAS|id:902237|480|410"
+   "SAS|id:902237|480|410",
+   "SAS|id:831093|1190|1050"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3040,6 +3041,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/yogurt_puding/902237/",
     "key": "SAS|id:902237|480|410"
+   },
+   {
+    "store": "SAS",
+    "title": "Զուգարանակոնքը մաքրող միջոց «Bref Color» 50գ",
+    "old": 1190,
+    "new": 1050,
+    "pct": 12,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/forhebathroom/831093/",
+    "key": "SAS|id:831093|1190|1050"
    }
   ],
   "Yerevan City": [
