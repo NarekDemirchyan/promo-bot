@@ -930,7 +930,8 @@
    "Yerevan City|id:193232|3990|2590",
    "Yerevan City|id:192616|3990|2790",
    "Yerevan City|id:192614|3990|2790",
-   "Yerevan City|id:191639|3990|3320"
+   "Yerevan City|id:191639|3990|3320",
+   "Yerevan City|id:177104|3990|2390"
   ]
  },
  "queues": {
@@ -5325,6 +5326,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175362.png",
     "url": "https://yerevan-city.am/shop/product-details/191639",
     "key": "Yerevan City|id:191639|3990|3320"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Բեռնամբարձիչ իներցիոն կցորդով 1:43 ԿԼԻքս900-57",
+    "old": 3990,
+    "new": 2390,
+    "pct": 40,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170752.png",
+    "url": "https://yerevan-city.am/shop/product-details/177104",
+    "key": "Yerevan City|id:177104|3990|2390"
    }
   ]
  },
