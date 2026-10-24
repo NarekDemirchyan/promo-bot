@@ -882,22 +882,12 @@
    "Yerevan City|id:18410|4090|3410",
    "Yerevan City|id:134694|4090|3450",
    "Yerevan City|id:194264|4090|3620",
-   "Yerevan City|id:194265|4090|3620"
+   "Yerevan City|id:194265|4090|3620",
+   "Yerevan City|id:15536|4050|3250"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Դոնդողե կոնֆետներ «Hello Kitty Grape» 36գ",
-    "old": 1070,
-    "new": 640,
-    "pct": 40,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/zhele_plastila/944109/",
-    "key": "SAS|id:944109|1070|640"
-   },
    {
     "store": "SAS",
     "title": "USB լար «Borofone BX84»",
@@ -5277,12 +5267,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178037.png",
     "url": "https://yerevan-city.am/shop/product-details/194265",
     "key": "Yerevan City|id:194265|4090|3620"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շոկոլադե կոնֆետներ «Գրանդ Քենդի» Տրոպիկանա կգ",
+    "old": 4050,
+    "new": 3250,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1045368.png",
+    "url": "https://yerevan-city.am/shop/product-details/15536",
+    "key": "Yerevan City|id:15536|4050|3250"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-24T05:02:24.505084+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-24T05:17:12.333662+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
