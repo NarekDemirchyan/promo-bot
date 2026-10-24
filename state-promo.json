@@ -525,7 +525,8 @@
    "SAS|id:626073|6450|3790",
    "SAS|id:159239|750|710",
    "SAS|id:63488|970|850",
-   "SAS|id:648102|2890|2590"
+   "SAS|id:648102|2890|2590",
+   "SAS|id:493650|2090|1540"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3134,20 +3135,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/170/814/8141101463108890.webp",
     "url": "https://www.sas.am/catalog/dlya_volos2/648102/",
     "key": "SAS|id:648102|2890|2590"
+   },
+   {
+    "store": "SAS",
+    "title": "Հակաքրտինքային միջոց սթիք «Nivea Эффект Пудры» 50մլ",
+    "old": 2090,
+    "new": 1540,
+    "pct": 26,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/antiperspirantt/493650/",
+    "key": "SAS|id:493650|2090|1540"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Շոկոլադե կոնֆետներ «Ալյոնկա» կգ",
-    "old": 6330,
-    "new": 5610,
-    "pct": 11,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1041919.png",
-    "url": "https://yerevan-city.am/shop/product-details/11679",
-    "key": "Yerevan City|id:11679|6330|5610"
-   },
    {
     "store": "Yerevan City",
     "title": "Լվացքի գել «Արիել» ունիվերսալ 3լ",
@@ -5340,8 +5341,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-24T23:02:26.326293+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-24T23:17:49.476244+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
