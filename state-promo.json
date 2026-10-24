@@ -898,7 +898,8 @@
    "Yerevan City|id:106640|3990|2990",
    "Yerevan City|id:111567|3990|2350",
    "Yerevan City|id:171672|3990|1995",
-   "Yerevan City|id:195309|3990|3190"
+   "Yerevan City|id:195309|3990|3190",
+   "Yerevan City|id:176696|3990|2390"
   ]
  },
  "queues": {
@@ -5293,6 +5294,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1179114.png",
     "url": "https://yerevan-city.am/shop/product-details/195309",
     "key": "Yerevan City|id:195309|3990|3190"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Խաղալիք-Հերոս «Մինի Մաուս»",
+    "old": 3990,
+    "new": 2390,
+    "pct": 40,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170334.png",
+    "url": "https://yerevan-city.am/shop/product-details/176696",
+    "key": "Yerevan City|id:176696|3990|2390"
    }
   ]
  },
