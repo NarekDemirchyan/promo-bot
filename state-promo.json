@@ -906,17 +906,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Հակաքրտինքային միջոց-սթիք «Nivea Black & White Invisible Authentic» 50մլ",
-    "old": 2090,
-    "new": 1540,
-    "pct": 26,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/171/333/3331513989263488.webp",
-    "url": "https://www.sas.am/catalog/antiperspirantt/938672/",
-    "key": "SAS|id:938672|2090|1540"
-   },
-   {
-    "store": "SAS",
     "title": "Սրճային ըմպելիք լուծվող «Jacobs Caramel Latte» 450գ",
     "old": 3150,
     "new": 2450,
@@ -5309,8 +5298,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-24T10:04:52.356454+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-24T10:32:05.051803+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
