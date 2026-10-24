@@ -888,7 +888,8 @@
    "Yerevan City|id:194265|4090|3620",
    "Yerevan City|id:15536|4050|3250",
    "Yerevan City|id:193084|4050|3180",
-   "Yerevan City|id:71481|3990|2390"
+   "Yerevan City|id:71481|3990|2390",
+   "Yerevan City|id:84079|3990|2990"
   ]
  },
  "queues": {
@@ -5283,6 +5284,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1101062.png",
     "url": "https://yerevan-city.am/shop/product-details/71481",
     "key": "Yerevan City|id:71481|3990|2390"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Բազկաթոռ ծալվող, մետաղական հիմքով 50x50x80սմ",
+    "old": 3990,
+    "new": 2990,
+    "pct": 25,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1123623.png",
+    "url": "https://yerevan-city.am/shop/product-details/84079",
+    "key": "Yerevan City|id:84079|3990|2990"
    }
   ]
  },
