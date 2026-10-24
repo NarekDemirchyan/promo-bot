@@ -930,17 +930,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Հակաքրտինքային միջոց-գել «Old Spice Cold Spice» 70մլ",
-    "old": 3440,
-    "new": 3050,
-    "pct": 11,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/246/760/7601402178972640.webp",
-    "url": "https://www.sas.am/catalog/antiperspirantt/936633/",
-    "key": "SAS|id:936633|3440|3050"
-   },
-   {
-    "store": "SAS",
     "title": "Մակարոն «Di Bari Ortolana Pennotti» 500գ",
     "old": 2270,
     "new": 1990,
@@ -5333,8 +5322,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-24T17:19:45.340761+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-24T17:46:53.632570+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
