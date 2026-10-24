@@ -521,7 +521,8 @@
    "SAS|id:304204|6330|5790",
    "SAS|id:393044|880|730",
    "SAS|id:624382|12900|10650",
-   "SAS|id:63438|570|490"
+   "SAS|id:63438|570|490",
+   "SAS|id:626073|6450|3790"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3126,6 +3127,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/ketchup_tomatnyy_sous/63438/",
     "key": "SAS|id:63438|570|490"
+   },
+   {
+    "store": "SAS",
+    "title": "Շոկոլադե սալիկ չամիչով և պնդուկով «Lindt» 300գ",
+    "old": 6450,
+    "new": 3790,
+    "pct": 41,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/plitka/626073/",
+    "key": "SAS|id:626073|6450|3790"
    }
   ],
   "Yerevan City": [
