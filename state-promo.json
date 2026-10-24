@@ -880,22 +880,12 @@
    "Yerevan City|id:6818|4090|3410",
    "Yerevan City|id:18410|4090|3410",
    "Yerevan City|id:134694|4090|3450",
-   "Yerevan City|id:194264|4090|3620"
+   "Yerevan City|id:194264|4090|3620",
+   "Yerevan City|id:194265|4090|3620"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Դոնդողե կոնֆետներ «My Melody Peach» 36գ",
-    "old": 990,
-    "new": 640,
-    "pct": 35,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/zhele_plastila/944110/",
-    "key": "SAS|id:944110|990|640"
-   },
    {
     "store": "SAS",
     "title": "Դոնդողե կոնֆետներ «Hello Kitty Grape» 36գ",
@@ -5275,12 +5265,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178036.png",
     "url": "https://yerevan-city.am/shop/product-details/194264",
     "key": "Yerevan City|id:194264|4090|3620"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հեղուկ լվացքի համար «Արիել» սպիտակ 1440մլ",
+    "old": 4090,
+    "new": 3620,
+    "pct": 11,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178037.png",
+    "url": "https://yerevan-city.am/shop/product-details/194265",
+    "key": "Yerevan City|id:194265|4090|3620"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-24T04:16:52.649499+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-24T04:34:09.900994+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
