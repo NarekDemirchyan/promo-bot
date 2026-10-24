@@ -946,17 +946,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Սոուս հավի թևիկներ «American Garden Original» 1.89լ",
-    "old": 5690,
-    "new": 5350,
-    "pct": 6,
-    "until": "27.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/216/646/646949495580824.webp",
-    "url": "https://www.sas.am/catalog/sous/933925/",
-    "key": "SAS|id:933925|5690|5350"
-   },
-   {
-    "store": "SAS",
     "title": "Գարեջուր «Mythos Ice» 0.33լ",
     "old": 790,
     "new": 490,
@@ -5349,8 +5338,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-24T22:05:02.869418+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-24T22:32:02.800801+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
