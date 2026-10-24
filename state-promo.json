@@ -497,7 +497,8 @@
    "SAS|id:907127|3140|2730",
    "SAS|id:902251|450|370",
    "SAS|id:900535|290|240",
-   "SAS|id:885333|790|720"
+   "SAS|id:885333|790|720",
+   "SAS|id:884803|10310|9750"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3078,20 +3079,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/bum_polotentsa/885333/",
     "key": "SAS|id:885333|790|720"
+   },
+   {
+    "store": "SAS",
+    "title": "Օղի «Алтай» 0.7լ",
+    "old": 10310,
+    "new": 9750,
+    "pct": 5,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/140/166/1666692454445155.webp",
+    "url": "https://www.sas.am/catalog/importnoe/884803/",
+    "key": "SAS|id:884803|10310|9750"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Փափուկ խաղալիք «Շուն» Սնուպի 45սմ",
-    "old": 6990,
-    "new": 3495,
-    "pct": 50,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/179433",
-    "key": "Yerevan City|id:179433|6990|3495"
-   },
    {
     "store": "Yerevan City",
     "title": "Փափուկ խաղալիք «Պանդա» պառկած 80սմ",
@@ -5284,8 +5285,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-24T06:02:07.331917+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-24T06:16:57.419930+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
