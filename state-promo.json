@@ -512,7 +512,8 @@
    "SAS|id:3270|880|730",
    "SAS|id:759234|790|550",
    "SAS|id:194161|850|750",
-   "SAS|id:824546|860|790"
+   "SAS|id:824546|860|790",
+   "SAS|id:510989|5580|5150"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3108,6 +3109,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/396/459/459168218789128.webp",
     "url": "https://www.sas.am/catalog/makaronyy/824546/",
     "key": "SAS|id:824546|860|790"
+   },
+   {
+    "store": "SAS",
+    "title": "Սուրճ հատիկավոր «Egoiste Truffle» 250գ",
+    "old": 5580,
+    "new": 5150,
+    "pct": 8,
+    "until": "28.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/271/705/7052503935501936.webp",
+    "url": "https://www.sas.am/catalog/molotyy/510989/",
+    "key": "SAS|id:510989|5580|5150"
    }
   ],
   "Yerevan City": [
