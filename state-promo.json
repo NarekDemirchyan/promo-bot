@@ -510,7 +510,8 @@
    "SAS|id:135815|460|420",
    "SAS|id:113873|780|630",
    "SAS|id:3270|880|730",
-   "SAS|id:759234|790|550"
+   "SAS|id:759234|790|550",
+   "SAS|id:194161|850|750"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3104,6 +3105,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/stanok_dlya_britya/759234/",
     "key": "SAS|id:759234|790|550"
+   },
+   {
+    "store": "SAS",
+    "title": "Փայլաթիթեղ «Фрекен Бок» 10մ",
+    "old": 850,
+    "new": 750,
+    "pct": 12,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/plenka_pishchevaya_folga/194161/",
+    "key": "SAS|id:194161|850|750"
    }
   ],
   "Yerevan City": [
