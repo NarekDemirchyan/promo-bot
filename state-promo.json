@@ -926,7 +926,8 @@
    "Yerevan City|id:193234|3990|2490",
    "Yerevan City|id:177078|3990|2390",
    "Yerevan City|id:193232|3990|2590",
-   "Yerevan City|id:192616|3990|2790"
+   "Yerevan City|id:192616|3990|2790",
+   "Yerevan City|id:192614|3990|2790"
   ]
  },
  "queues": {
@@ -5321,6 +5322,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176348.png",
     "url": "https://yerevan-city.am/shop/product-details/192616",
     "key": "Yerevan City|id:192616|3990|2790"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հյութի բաժակ «Ռակլե» Սփլենդիդ 395մլ 4հտ ՍՊԼ503Ս",
+    "old": 3990,
+    "new": 2790,
+    "pct": 30,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176345.png",
+    "url": "https://yerevan-city.am/shop/product-details/192614",
+    "key": "Yerevan City|id:192614|3990|2790"
    }
   ]
  },
