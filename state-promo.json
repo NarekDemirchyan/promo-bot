@@ -900,22 +900,12 @@
    "Yerevan City|id:111567|3990|2350",
    "Yerevan City|id:171672|3990|1995",
    "Yerevan City|id:195309|3990|3190",
-   "Yerevan City|id:176696|3990|2390"
+   "Yerevan City|id:176696|3990|2390",
+   "Yerevan City|id:176701|3990|2390"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սրճային ըմպելիք լուծվող «Jacobs Caramel Latte» 450գ",
-    "old": 3150,
-    "new": 2450,
-    "pct": 22,
-    "until": "28.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/350/773/7733831246784312.webp",
-    "url": "https://www.sas.am/catalog/rastvorimyy_kofe/938120/",
-    "key": "SAS|id:938120|3150|2450"
-   },
    {
     "store": "SAS",
     "title": "Պատիճ սուրճի «L'OR Espresso Splendente» 10 հատ, 52գ",
@@ -5295,12 +5285,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170334.png",
     "url": "https://yerevan-city.am/shop/product-details/176696",
     "key": "Yerevan City|id:176696|3990|2390"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Խաղալիք-Հերոս «Դեյզի Դաք»",
+    "old": 3990,
+    "new": 2390,
+    "pct": 40,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170336.png",
+    "url": "https://yerevan-city.am/shop/product-details/176701",
+    "key": "Yerevan City|id:176701|3990|2390"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-24T10:47:07.325065+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-24T11:02:17.194186+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
