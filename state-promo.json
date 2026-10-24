@@ -508,7 +508,8 @@
    "SAS|id:873107|1990|1460",
    "SAS|id:355222|990|560",
    "SAS|id:135815|460|420",
-   "SAS|id:113873|780|630"
+   "SAS|id:113873|780|630",
+   "SAS|id:3270|880|730"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3100,6 +3101,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/419/536/5361623467060903.webp",
     "url": "https://www.sas.am/catalog/osvezhayushchiy_napitok/113873/",
     "key": "SAS|id:113873|780|630"
+   },
+   {
+    "store": "SAS",
+    "title": "Սպագետտի «Barilla Spaghettoni №7» 500գ",
+    "old": 880,
+    "new": 730,
+    "pct": 17,
+    "until": "10.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/333/137/1377101246107463.webp",
+    "url": "https://www.sas.am/catalog/spagetti_kapelini/3270/",
+    "key": "SAS|id:3270|880|730"
    }
   ],
   "Yerevan City": [
