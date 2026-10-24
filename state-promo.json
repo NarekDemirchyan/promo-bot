@@ -884,7 +884,8 @@
    "Yerevan City|id:134694|4090|3450",
    "Yerevan City|id:194264|4090|3620",
    "Yerevan City|id:194265|4090|3620",
-   "Yerevan City|id:15536|4050|3250"
+   "Yerevan City|id:15536|4050|3250",
+   "Yerevan City|id:193084|4050|3180"
   ]
  },
  "queues": {
@@ -5279,6 +5280,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1045368.png",
     "url": "https://yerevan-city.am/shop/product-details/15536",
     "key": "Yerevan City|id:15536|4050|3250"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Դեմքի գել-խտանյութ «Լորեալ» Հիալուրոն Էքսպերտ 50մլ",
+    "old": 4050,
+    "new": 3180,
+    "pct": 21,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176828.png",
+    "url": "https://yerevan-city.am/shop/product-details/193084",
+    "key": "Yerevan City|id:193084|4050|3180"
    }
   ]
  },
