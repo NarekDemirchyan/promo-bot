@@ -892,17 +892,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "USB լար «Borofone BX84»",
-    "old": 2500,
-    "new": 1250,
-    "pct": 50,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/941279/",
-    "key": "SAS|id:941279|2500|1250"
-   },
-   {
-    "store": "SAS",
     "title": "Ադապտեր մեքենայի համար «Celebrat CC04»",
     "old": 11500,
     "new": 5750,
@@ -5295,8 +5284,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-24T05:34:45.633132+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-24T06:02:07.331917+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
