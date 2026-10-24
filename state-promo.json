@@ -534,7 +534,8 @@
    "SAS|id:17308|3380|3050",
    "SAS|id:873098|1990|1460",
    "SAS|id:873096|2090|1540",
-   "SAS|id:867515|12900|10650"
+   "SAS|id:867515|12900|10650",
+   "SAS|id:862988|29900|14950"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3152,6 +3153,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/276/752/7528133658660072.webp",
     "url": "https://www.sas.am/catalog/podguzniki/867515/",
     "key": "SAS|id:867515|12900|10650"
+   },
+   {
+    "store": "SAS",
+    "title": "Թառափ սառեցված",
+    "old": 29900,
+    "new": 14950,
+    "pct": 50,
+    "until": "31.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/116/517/5172173969623294.webp",
+    "url": "https://www.sas.am/catalog/zamorozhennaya_ryba/862988/",
+    "key": "SAS|id:862988|29900|14950"
    }
   ],
   "Yerevan City": [
