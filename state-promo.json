@@ -495,7 +495,8 @@
    "SAS|id:88750|7730|6770",
    "SAS|id:927037|1090|540",
    "SAS|id:907127|3140|2730",
-   "SAS|id:902251|450|370"
+   "SAS|id:902251|450|370",
+   "SAS|id:900535|290|240"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3074,6 +3075,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/248/398/3988411227072384.webp",
     "url": "https://www.sas.am/catalog/yogurt_puding/902251/",
     "key": "SAS|id:902251|450|370"
+   },
+   {
+    "store": "SAS",
+    "title": "Յոգուրտային արտադրանք ելակով և թուրինջով «Fruttis» 115գ, յուղայնությունը՝ 5",
+    "old": 290,
+    "new": 240,
+    "pct": 17,
+    "until": "28.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/yogurt_puding/900535/",
+    "key": "SAS|id:900535|290|240"
    }
   ],
   "Yerevan City": [
