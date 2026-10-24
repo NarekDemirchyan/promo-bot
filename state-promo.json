@@ -500,7 +500,8 @@
    "SAS|id:885333|790|720",
    "SAS|id:884803|10310|9750",
    "SAS|id:304193|6990|5780",
-   "SAS|id:879046|2300|1150"
+   "SAS|id:879046|2300|1150",
+   "SAS|id:877008|11820|7490"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3084,6 +3085,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/879046/",
     "key": "SAS|id:879046|2300|1150"
+   },
+   {
+    "store": "SAS",
+    "title": "Օղի «Арктика» 0.7լ",
+    "old": 11820,
+    "new": 7490,
+    "pct": 37,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/370/467/467170972145050.webp",
+    "url": "https://www.sas.am/catalog/importnoe/877008/",
+    "key": "SAS|id:877008|11820|7490"
    }
   ],
   "Yerevan City": [
