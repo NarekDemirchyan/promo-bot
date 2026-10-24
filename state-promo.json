@@ -938,17 +938,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Ըմպելիք սպիտակուցային ելակի «Valio Profeel Strawberry» 250մլ",
-    "old": 1040,
-    "new": 950,
-    "pct": 9,
-    "until": "28.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/197/328/328689423473946.webp",
-    "url": "https://www.sas.am/catalog/slivki_kokteyl/935011/",
-    "key": "SAS|id:935011|1040|950"
-   },
-   {
-    "store": "SAS",
     "title": "Գարեջուր «Veltins Pilsener» 0.33լ",
     "old": 840,
     "new": 560,
@@ -5341,8 +5330,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-24T19:47:35.644148+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-24T20:16:12.679565+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
