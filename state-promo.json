@@ -916,17 +916,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Պատիճ սուրճի «L'OR Espresso Colombia Andes» 10 հատ, 52գ",
-    "old": 3130,
-    "new": 1930,
-    "pct": 38,
-    "until": "28.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/827/113/113034569179130.webp",
-    "url": "https://www.sas.am/catalog/drugoy/938116/",
-    "key": "SAS|id:938116|3130|1930"
-   },
-   {
-    "store": "SAS",
     "title": "Բալզամ «Pantene Active Nutri Plex Pro V» 220մլ",
     "old": 4310,
     "new": 3960,
@@ -5319,8 +5308,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-24T13:02:11.916770+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-24T13:16:54.600722+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
