@@ -523,7 +523,8 @@
    "SAS|id:624382|12900|10650",
    "SAS|id:63438|570|490",
    "SAS|id:626073|6450|3790",
-   "SAS|id:159239|750|710"
+   "SAS|id:159239|750|710",
+   "SAS|id:63488|970|850"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3130,20 +3131,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/semechki/159239/",
     "key": "SAS|id:159239|750|710"
+   },
+   {
+    "store": "SAS",
+    "title": "Կետչուպ իտալական «Heinz Итальянский» 320գ",
+    "old": 970,
+    "new": 850,
+    "pct": 12,
+    "until": "29.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/ketchup_tomatnyy_sous/63488/",
+    "key": "SAS|id:63488|970|850"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Կոնյակ «Վի Ընդ Էմ» 5տ (տուփով) 0.5լ",
-    "old": 6350,
-    "new": 5990,
-    "pct": 6,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1151337.png",
-    "url": "https://yerevan-city.am/shop/product-details/131803",
-    "key": "Yerevan City|id:131803|6350|5990"
-   },
    {
     "store": "Yerevan City",
     "title": "Օղի «Արմենիա» Գոլդ 0.5լ",
@@ -5336,8 +5337,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-24T21:46:56.963268+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-24T22:05:02.869418+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
