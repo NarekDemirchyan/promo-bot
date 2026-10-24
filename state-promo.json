@@ -922,7 +922,8 @@
    "Yerevan City|id:1705|3990|3240",
    "Yerevan City|id:177076|3990|2390",
    "Yerevan City|id:193234|3990|2490",
-   "Yerevan City|id:177078|3990|2390"
+   "Yerevan City|id:177078|3990|2390",
+   "Yerevan City|id:193232|3990|2590"
   ]
  },
  "queues": {
@@ -5317,6 +5318,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170721.png",
     "url": "https://yerevan-city.am/shop/product-details/177078",
     "key": "Yerevan City|id:177078|3990|2390"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գինու գավաթ 280մլ 6հտ Ֆ228",
+    "old": 3990,
+    "new": 2590,
+    "pct": 35,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176986.png",
+    "url": "https://yerevan-city.am/shop/product-details/193232",
+    "key": "Yerevan City|id:193232|3990|2590"
    }
   ]
  },
