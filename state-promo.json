@@ -532,7 +532,8 @@
    "SAS|id:873099|1560|1320",
    "SAS|id:165287|3750|2820",
    "SAS|id:17308|3380|3050",
-   "SAS|id:873098|1990|1460"
+   "SAS|id:873098|1990|1460",
+   "SAS|id:873096|2090|1540"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -955,22 +956,12 @@
    "Yerevan City|id:111604|3990|2990",
    "Yerevan City|id:175862|3980|2040",
    "Yerevan City|id:192157|3950|2990",
-   "Yerevan City|id:174090|3950|3650"
+   "Yerevan City|id:174090|3950|3650",
+   "Yerevan City|id:169056|3940|3550"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ականջակալներ «Borofone BM62»",
-    "old": 2600,
-    "new": 1300,
-    "pct": 50,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/922641/",
-    "key": "SAS|id:922641|2600|1300"
-   },
    {
     "store": "SAS",
     "title": "Ականջակալներ «Hoco Premium M37»",
@@ -3148,6 +3139,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/vse_dlya_gub/873098/",
     "key": "SAS|id:873098|1990|1460"
+   },
+   {
+    "store": "SAS",
+    "title": "Հակաքրտինքային միջոց-սթիք «Nivea Derma Control Defend» 50մլ",
+    "old": 2090,
+    "new": 1540,
+    "pct": 26,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/173/123/123808714701188.webp",
+    "url": "https://www.sas.am/catalog/antiperspirantt/873096/",
+    "key": "SAS|id:873096|2090|1540"
    }
   ],
   "Yerevan City": [
@@ -5339,12 +5341,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1167685.png",
     "url": "https://yerevan-city.am/shop/product-details/174090",
     "key": "Yerevan City|id:174090|3950|3650"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մանկ.տակդիր «Փամպերս» Պրեմ.Քեյր 1 2-5կգ 26հտ",
+    "old": 3940,
+    "new": 3550,
+    "pct": 10,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1163111.png",
+    "url": "https://yerevan-city.am/shop/product-details/169056",
+    "key": "Yerevan City|id:169056|3940|3550"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-25T02:47:12.412937+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-25T03:01:18.952783+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
