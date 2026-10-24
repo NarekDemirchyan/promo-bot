@@ -942,22 +942,12 @@
    "Yerevan City|id:177313|3990|1990",
    "Yerevan City|id:180799|3990|2670",
    "Yerevan City|id:23507|3990|1289",
-   "Yerevan City|id:10723|3990|3670"
+   "Yerevan City|id:10723|3990|3670",
+   "Yerevan City|id:172771|3990|3790"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Յոգուրտ հունական դեղձով «Mandrekas Greek Yogurt Peach» 150գ, յուղայնությունը՝ 1.8",
-    "old": 1200,
-    "new": 640,
-    "pct": 47,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/yogurt_puding/927036/",
-    "key": "SAS|id:927036|1200|640"
-   },
    {
     "store": "SAS",
     "title": "Յոգուրտ հունական «Mandrekas Greek Yogurt» 200գ, յուղայնությունը՝ 8",
@@ -5337,12 +5327,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1053772.png",
     "url": "https://yerevan-city.am/shop/product-details/10723",
     "key": "Yerevan City|id:10723|3990|3670"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կոնյակ «Գրանդ Երևան» 3տ 0.5լ",
+    "old": 3990,
+    "new": 3790,
+    "pct": 5,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1166361.png",
+    "url": "https://yerevan-city.am/shop/product-details/172771",
+    "key": "Yerevan City|id:172771|3990|3790"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-24T23:17:49.476244+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-24T23:32:11.071758+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
