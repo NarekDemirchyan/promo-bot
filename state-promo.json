@@ -514,7 +514,8 @@
    "SAS|id:194161|850|750",
    "SAS|id:824546|860|790",
    "SAS|id:510989|5580|5150",
-   "SAS|id:198806|880|590"
+   "SAS|id:198806|880|590",
+   "SAS|id:154063|910|820"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3112,6 +3113,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/218/651/6512652205729313.webp",
     "url": "https://www.sas.am/catalog/v_paketakh/198806/",
     "key": "SAS|id:198806|880|590"
+   },
+   {
+    "store": "SAS",
+    "title": "Անձեռոցիկ «Selpak» 48հատ",
+    "old": 910,
+    "new": 820,
+    "pct": 10,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/salfetki/154063/",
+    "key": "SAS|id:154063|910|820"
    }
   ],
   "Yerevan City": [
