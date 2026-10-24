@@ -948,22 +948,12 @@
    "Yerevan City|id:10723|3990|3670",
    "Yerevan City|id:172771|3990|3790",
    "Yerevan City|id:166396|3990|2990",
-   "Yerevan City|id:180093|3990|3390"
+   "Yerevan City|id:180093|3990|3390",
+   "Yerevan City|id:111604|3990|2990"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Անձեռոցիկ «Պապիրուս» 150 հատ",
-    "old": 520,
-    "new": 450,
-    "pct": 13,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/salfetki/923272/",
-    "key": "SAS|id:923272|520|450"
-   },
    {
     "store": "SAS",
     "title": "Անձեռոցիկ «Պապիրուս» 120 հատ",
@@ -5343,12 +5333,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173812.png",
     "url": "https://yerevan-city.am/shop/product-details/180093",
     "key": "Yerevan City|id:180093|3990|3390"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գդալ «Բրաբանտիա» փայտե",
+    "old": 3990,
+    "new": 2990,
+    "pct": 25,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1142486.png",
+    "url": "https://yerevan-city.am/shop/product-details/111604",
+    "key": "Yerevan City|id:111604|3990|2990"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-25T01:02:22.667010+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-25T01:17:11.650438+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
