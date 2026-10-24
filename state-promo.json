@@ -503,7 +503,8 @@
    "SAS|id:879046|2300|1150",
    "SAS|id:877008|11820|7490",
    "SAS|id:877007|8650|5490",
-   "SAS|id:874031|2650|1490"
+   "SAS|id:874031|2650|1490",
+   "SAS|id:874030|2650|1490"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3090,20 +3091,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/plitka/874031/",
     "key": "SAS|id:874031|2650|1490"
+   },
+   {
+    "store": "SAS",
+    "title": "Շոկոլադե սալիկ վաֆլե կտորներով և կարամելով «Lindt Excellence Crispy» 100գ",
+    "old": 2650,
+    "new": 1490,
+    "pct": 44,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/plitka/874030/",
+    "key": "SAS|id:874030|2650|1490"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Համեմունքների տարա «Հերեվին» պտտ.տակ.12հտ",
-    "old": 6990,
-    "new": 3690,
-    "pct": 47,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/181209",
-    "key": "Yerevan City|id:181209|6990|3690"
-   },
    {
     "store": "Yerevan City",
     "title": "Գինու գավաթ «Ռակլե» Էլիտ գոլդ 280մլ 4հտ ԵԼՏ303",
@@ -5296,8 +5297,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-24T09:47:07.913588+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-24T10:04:52.356454+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
