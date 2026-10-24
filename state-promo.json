@@ -954,17 +954,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Յոգուրտ հունական «Mandrekas Greek Yogurt» 200գ, յուղայնությունը՝ 0",
-    "old": 1290,
-    "new": 640,
-    "pct": 50,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/yogurt_puding/927030/",
-    "key": "SAS|id:927030|1290|640"
-   },
-   {
-    "store": "SAS",
     "title": "Անձեռոցիկ «Պապիրուս» 150 հատ",
     "old": 520,
     "new": 450,
@@ -5357,8 +5346,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-25T00:19:29.692225+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-25T00:46:55.134628+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
