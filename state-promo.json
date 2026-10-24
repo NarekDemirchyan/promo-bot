@@ -950,7 +950,8 @@
    "Yerevan City|id:172771|3990|3790",
    "Yerevan City|id:166396|3990|2990",
    "Yerevan City|id:180093|3990|3390",
-   "Yerevan City|id:111604|3990|2990"
+   "Yerevan City|id:111604|3990|2990",
+   "Yerevan City|id:175862|3980|2040"
   ]
  },
  "queues": {
@@ -5345,6 +5346,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1142486.png",
     "url": "https://yerevan-city.am/shop/product-details/111604",
     "key": "Yerevan City|id:111604|3990|2990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ոտքերի սկրաբ «Օնիքս» 113գր",
+    "old": 3980,
+    "new": 2040,
+    "pct": 49,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169486.png",
+    "url": "https://yerevan-city.am/shop/product-details/175862",
+    "key": "Yerevan City|id:175862|3980|2040"
    }
   ]
  },
