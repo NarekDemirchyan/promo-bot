@@ -944,22 +944,12 @@
    "Yerevan City|id:180799|3990|2670",
    "Yerevan City|id:23507|3990|1289",
    "Yerevan City|id:10723|3990|3670",
-   "Yerevan City|id:172771|3990|3790"
+   "Yerevan City|id:172771|3990|3790",
+   "Yerevan City|id:166396|3990|2990"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Յոգուրտ հունական «Mandrekas Greek Yogurt» 200գ, յուղայնությունը՝ 8",
-    "old": 1290,
-    "new": 640,
-    "pct": 50,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/yogurt_puding/927033/",
-    "key": "SAS|id:927033|1290|640"
-   },
    {
     "store": "SAS",
     "title": "Յոգուրտ հունական «Mandrekas Greek Yogurt» 200գ, յուղայնությունը՝ 0",
@@ -5339,12 +5329,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1166361.png",
     "url": "https://yerevan-city.am/shop/product-details/172771",
     "key": "Yerevan City|id:172771|3990|3790"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Չիպս «Դորիտոս» ԻքսԼ, օրիգինալ աղով 455գր",
+    "old": 3990,
+    "new": 2990,
+    "pct": 25,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1162076.png",
+    "url": "https://yerevan-city.am/shop/product-details/166396",
+    "key": "Yerevan City|id:166396|3990|2990"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-24T23:46:59.141149+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-25T00:02:11.280663+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
