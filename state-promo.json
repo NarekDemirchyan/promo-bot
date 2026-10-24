@@ -878,22 +878,12 @@
    "Yerevan City|id:191759|4150|2990",
    "Yerevan City|id:6818|4090|3410",
    "Yerevan City|id:18410|4090|3410",
-   "Yerevan City|id:134694|4090|3450"
+   "Yerevan City|id:134694|4090|3450",
+   "Yerevan City|id:194264|4090|3620"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Թեյ սև «Tess Blueberry Tart» 20*1.8գ",
-    "old": 890,
-    "new": 590,
-    "pct": 34,
-    "until": "28.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/v_paketakh/944372/",
-    "key": "SAS|id:944372|890|590"
-   },
    {
     "store": "SAS",
     "title": "Դոնդողե կոնֆետներ «My Melody Peach» 36գ",
@@ -5273,12 +5263,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1061210.png",
     "url": "https://yerevan-city.am/shop/product-details/134694",
     "key": "Yerevan City|id:134694|4090|3450"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հեղուկ լվացքի համար «Արիել» գունավոր 1440մլ",
+    "old": 4090,
+    "new": 3620,
+    "pct": 11,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178036.png",
+    "url": "https://yerevan-city.am/shop/product-details/194264",
+    "key": "Yerevan City|id:194264|4090|3620"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-24T03:46:59.063824+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-24T04:02:39.295541+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
