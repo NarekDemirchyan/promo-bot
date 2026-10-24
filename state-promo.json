@@ -952,22 +952,12 @@
    "Yerevan City|id:166396|3990|2990",
    "Yerevan City|id:180093|3990|3390",
    "Yerevan City|id:111604|3990|2990",
-   "Yerevan City|id:175862|3980|2040"
+   "Yerevan City|id:175862|3980|2040",
+   "Yerevan City|id:192157|3950|2990"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Անձեռոցիկ «Selpak» 80 հատ",
-    "old": 1400,
-    "new": 1190,
-    "pct": 15,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/salfetki/923241/",
-    "key": "SAS|id:923241|1400|1190"
-   },
    {
     "store": "SAS",
     "title": "Չիպս լավաշից աղով \"Fitness Cook\" 130գ±4գ",
@@ -5347,12 +5337,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169486.png",
     "url": "https://yerevan-city.am/shop/product-details/175862",
     "key": "Yerevan City|id:175862|3980|2040"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Լուսանկարի շրջանակ մանկական",
+    "old": 3950,
+    "new": 2990,
+    "pct": 24,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175887.png",
+    "url": "https://yerevan-city.am/shop/product-details/192157",
+    "key": "Yerevan City|id:192157|3950|2990"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-25T02:01:27.268022+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-25T02:16:08.250353+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
