@@ -908,7 +908,8 @@
    "Yerevan City|id:176701|3990|2390",
    "Yerevan City|id:195116|3990|3190",
    "Yerevan City|id:195098|3990|3190",
-   "Yerevan City|id:194134|3990|3190"
+   "Yerevan City|id:194134|3990|3190",
+   "Yerevan City|id:176702|3990|2390"
   ]
  },
  "queues": {
@@ -5303,6 +5304,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177905.png",
     "url": "https://yerevan-city.am/shop/product-details/194134",
     "key": "Yerevan City|id:194134|3990|3190"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Խաղալիք-Հերոս «Եռաչք հրեշ»",
+    "old": 3990,
+    "new": 2390,
+    "pct": 40,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170337.png",
+    "url": "https://yerevan-city.am/shop/product-details/176702",
+    "key": "Yerevan City|id:176702|3990|2390"
    }
   ]
  },
