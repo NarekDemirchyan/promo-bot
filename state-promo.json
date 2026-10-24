@@ -502,7 +502,8 @@
    "SAS|id:304193|6990|5780",
    "SAS|id:879046|2300|1150",
    "SAS|id:877008|11820|7490",
-   "SAS|id:877007|8650|5490"
+   "SAS|id:877007|8650|5490",
+   "SAS|id:874031|2650|1490"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3088,6 +3089,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/139/410/4109961127322362.webp",
     "url": "https://www.sas.am/catalog/importnoe/877007/",
     "key": "SAS|id:877007|8650|5490"
+   },
+   {
+    "store": "SAS",
+    "title": "Շոկոլադե սալիկ վաֆլե կտորներով «Lindt Excellence Crispy» 100գ",
+    "old": 2650,
+    "new": 1490,
+    "pct": 44,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/plitka/874031/",
+    "key": "SAS|id:874031|2650|1490"
    }
   ],
   "Yerevan City": [
