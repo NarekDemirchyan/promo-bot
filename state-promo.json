@@ -940,22 +940,12 @@
    "Yerevan City|id:179936|3990|2990",
    "Yerevan City|id:177313|3990|1990",
    "Yerevan City|id:180799|3990|2670",
-   "Yerevan City|id:23507|3990|1289"
+   "Yerevan City|id:23507|3990|1289",
+   "Yerevan City|id:10723|3990|3670"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Գարեջուր «Mythos Ice» 0.33լ",
-    "old": 790,
-    "new": 490,
-    "pct": 38,
-    "until": "30.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/386/146/146127941894343.webp",
-    "url": "https://www.sas.am/catalog/importnoe_pivo/929561/",
-    "key": "SAS|id:929561|790|490"
-   },
    {
     "store": "SAS",
     "title": "Յոգուրտ հունական դեղձով «Mandrekas Greek Yogurt Peach» 150գ, յուղայնությունը՝ 1.8",
@@ -5335,12 +5325,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1050719.png",
     "url": "https://yerevan-city.am/shop/product-details/23507",
     "key": "Yerevan City|id:23507|3990|1289"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կոնյակ «Առասպել» 3տ (տուփով) 0.5լ",
+    "old": 3990,
+    "new": 3670,
+    "pct": 8,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1053772.png",
+    "url": "https://yerevan-city.am/shop/product-details/10723",
+    "key": "Yerevan City|id:10723|3990|3670"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-24T22:46:56.718700+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-24T23:02:26.326293+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
