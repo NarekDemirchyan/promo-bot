@@ -496,7 +496,8 @@
    "SAS|id:927037|1090|540",
    "SAS|id:907127|3140|2730",
    "SAS|id:902251|450|370",
-   "SAS|id:900535|290|240"
+   "SAS|id:900535|290|240",
+   "SAS|id:885333|790|720"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3076,20 +3077,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/yogurt_puding/900535/",
     "key": "SAS|id:900535|290|240"
+   },
+   {
+    "store": "SAS",
+    "title": "Թղթե սրբիչ «Էկկա Պրեմիում» 1 հատ",
+    "old": 790,
+    "new": 720,
+    "pct": 9,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/bum_polotentsa/885333/",
+    "key": "SAS|id:885333|790|720"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Չիր թզի «Ալադել» կգ",
-    "old": 6990,
-    "new": 5990,
-    "pct": 14,
-    "until": "",
-    "img": "",
-    "url": "https://yerevan-city.am/shop/product-details/178326",
-    "key": "Yerevan City|id:178326|6990|5990"
-   },
    {
     "store": "Yerevan City",
     "title": "Փափուկ խաղալիք «Շուն» Սնուպի 45սմ",
@@ -5282,8 +5283,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-24T05:17:12.333662+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-24T05:34:45.633132+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
