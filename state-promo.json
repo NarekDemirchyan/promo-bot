@@ -938,7 +938,8 @@
    "Yerevan City|id:177104|3990|2390",
    "Yerevan City|id:179936|3990|2990",
    "Yerevan City|id:177313|3990|1990",
-   "Yerevan City|id:180799|3990|2670"
+   "Yerevan City|id:180799|3990|2670",
+   "Yerevan City|id:23507|3990|1289"
   ]
  },
  "queues": {
@@ -5333,6 +5334,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174533.png",
     "url": "https://yerevan-city.am/shop/product-details/180799",
     "key": "Yerevan City|id:180799|3990|2670"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Չամիչ Չիլի ջամբո կգ",
+    "old": 3990,
+    "new": 1289,
+    "pct": 68,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1050719.png",
+    "url": "https://yerevan-city.am/shop/product-details/23507",
+    "key": "Yerevan City|id:23507|3990|1289"
    }
   ]
  },
