@@ -946,7 +946,8 @@
    "Yerevan City|id:23507|3990|1289",
    "Yerevan City|id:10723|3990|3670",
    "Yerevan City|id:172771|3990|3790",
-   "Yerevan City|id:166396|3990|2990"
+   "Yerevan City|id:166396|3990|2990",
+   "Yerevan City|id:180093|3990|3390"
   ]
  },
  "queues": {
@@ -5341,6 +5342,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1162076.png",
     "url": "https://yerevan-city.am/shop/product-details/166396",
     "key": "Yerevan City|id:166396|3990|2990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ձիթապտղի ձեթ «Ամբրաոիլ» Պոմաս ա/տ 1լ",
+    "old": 3990,
+    "new": 3390,
+    "pct": 15,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173812.png",
+    "url": "https://yerevan-city.am/shop/product-details/180093",
+    "key": "Yerevan City|id:180093|3990|3390"
    }
   ]
  },
