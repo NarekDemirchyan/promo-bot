@@ -934,17 +934,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Մազերի լաք «Elseve Big Hair Day» 200մլ",
-    "old": 4350,
-    "new": 3560,
-    "pct": 18,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/600/643/643900574468170.webp",
-    "url": "https://www.sas.am/catalog/maska_konditsioner_dlya_volos/935342/",
-    "key": "SAS|id:935342|4350|3560"
-   },
-   {
-    "store": "SAS",
     "title": "Ըմպելիք սպիտակուցային շոկոլադի «Valio Profeel Chocolate» 250մլ",
     "old": 1040,
     "new": 950,
@@ -5337,8 +5326,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-24T18:34:18.010778+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-24T19:02:20.459105+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
