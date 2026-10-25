@@ -982,22 +982,12 @@
    "Yerevan City|id:176162|3850|2310",
    "Yerevan City|id:173118|3850|2990",
    "Yerevan City|id:112067|3810|3170",
-   "Yerevan City|id:112066|3810|3170"
+   "Yerevan City|id:112066|3810|3170",
+   "Yerevan City|id:38397|3790|3030"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Դրաժե գետնանուշով «Գրանդ Քենդի Paw Patrol Peanut Bites» 50գ",
-    "old": 310,
-    "new": 250,
-    "pct": 19,
-    "until": "29.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/drajee/915956/",
-    "key": "SAS|id:915956|310|250"
-   },
    {
     "store": "SAS",
     "title": "Դրաժե պնդուկով «Գրանդ Քենդի Paw Patrol Hazelnut Bites» 50գ",
@@ -5377,12 +5367,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1142917.png",
     "url": "https://yerevan-city.am/shop/product-details/112066",
     "key": "Yerevan City|id:112066|3810|3170"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մոնոպոլիա ռուսերեն 0112Ռ",
+    "old": 3790,
+    "new": 3030,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1073779.png",
+    "url": "https://yerevan-city.am/shop/product-details/38397",
+    "key": "Yerevan City|id:38397|3790|3030"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-25T08:16:18.391624+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-25T08:31:11.160750+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
