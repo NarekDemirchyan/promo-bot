@@ -1014,7 +1014,8 @@
    "Yerevan City|id:177180|3690|1845",
    "Yerevan City|id:177144|3690|2210",
    "Yerevan City|id:82944|3670|3050",
-   "Yerevan City|id:172745|3650|3290"
+   "Yerevan City|id:172745|3650|3290",
+   "Yerevan City|id:171047|3600|3220"
   ]
  },
  "queues": {
@@ -5409,6 +5410,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1166335.png",
     "url": "https://yerevan-city.am/shop/product-details/172745",
     "key": "Yerevan City|id:172745|3650|3290"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ձիթապտուղ կանաչ «Լոռաս» 101/120 ա/տ 2250գր",
+    "old": 3600,
+    "new": 3220,
+    "pct": 11,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1164714.png",
+    "url": "https://yerevan-city.am/shop/product-details/171047",
+    "key": "Yerevan City|id:171047|3600|3220"
    }
   ]
  },
