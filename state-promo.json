@@ -543,7 +543,8 @@
    "SAS|id:858501|650|550",
    "SAS|id:855631|6690|6150",
    "SAS|id:855595|1290|640",
-   "SAS|id:854747|7350|5490"
+   "SAS|id:854747|7350|5490",
+   "SAS|id:851244|1990|1870"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3170,20 +3171,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/243/652/6529273616481601.webp",
     "url": "https://www.sas.am/catalog/armyanskoe_vino/854747/",
     "key": "SAS|id:854747|7350|5490"
+   },
+   {
+    "store": "SAS",
+    "title": "Խաղալիք-ավտոմեքենա «Hot Wheels Monster Trucks»",
+    "old": 1990,
+    "new": 1870,
+    "pct": 6,
+    "until": "27.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/228/631/6310722696981709.webp",
+    "url": "https://www.sas.am/catalog/dlya_malchikov/851244/",
+    "key": "SAS|id:851244|1990|1870"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Տիկնիկ-նորածին ՍՆԲ222Ֆ",
-    "old": 5990,
-    "new": 3590,
-    "pct": 40,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170521.png",
-    "url": "https://yerevan-city.am/shop/product-details/176875",
-    "key": "Yerevan City|id:176875|5990|3590"
-   },
    {
     "store": "Yerevan City",
     "title": "Տիկնիկ Բեյբի սո լովելի 236-2",
@@ -5376,8 +5377,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-25T07:01:31.957564+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-25T07:16:06.437537+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
