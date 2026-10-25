@@ -568,7 +568,8 @@
    "SAS|id:390901|530|410",
    "SAS|id:183473|1820|1640",
    "SAS|id:173912|2090|1140",
-   "SAS|id:206203|7180|3790"
+   "SAS|id:206203|7180|3790",
+   "SAS|id:173906|390|290"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -1027,22 +1028,12 @@
    "Yerevan City|id:195090|3590|2870",
    "Yerevan City|id:14417|3590|2790",
    "Yerevan City|id:14528|3590|2790",
-   "Yerevan City|id:48694|3590|2790"
+   "Yerevan City|id:48694|3590|2790",
+   "Yerevan City|id:179057|3590|1750"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Խավիար սմբուկի կծու «Անուշ» 720գ",
-    "old": 1370,
-    "new": 1150,
-    "pct": 16,
-    "until": "28.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/512/270/2707222058066172.webp",
-    "url": "https://www.sas.am/catalog/baklazhan/956583/",
-    "key": "SAS|id:956583|1370|1150"
-   },
    {
     "store": "SAS",
     "title": "Եգիպտացորենի ձողիկներ շոկոլադի համով «Դարոյնք» 300գ",
@@ -3220,6 +3211,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/plitka/206203/",
     "key": "SAS|id:206203|7180|3790"
+   },
+   {
+    "store": "SAS",
+    "title": "Սափրող սարք «Wilkinson Sword Extra 2 Beauty»",
+    "old": 390,
+    "new": 290,
+    "pct": 26,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/863/678/6782123225422224.webp",
+    "url": "https://www.sas.am/catalog/stanok_dlya_britya/173906/",
+    "key": "SAS|id:173906|390|290"
    }
   ],
   "Yerevan City": [
@@ -5411,12 +5413,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1106124.png",
     "url": "https://yerevan-city.am/shop/product-details/48694",
     "key": "Yerevan City|id:48694|3590|2790"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Դույլ պլաստմասե «Դունյա» կափարիչով",
+    "old": 3590,
+    "new": 1750,
+    "pct": 51,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172762.png",
+    "url": "https://yerevan-city.am/shop/product-details/179057",
+    "key": "Yerevan City|id:179057|3590|1750"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-25T21:46:13.066258+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-25T22:01:30.341534+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
