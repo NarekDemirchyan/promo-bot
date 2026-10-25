@@ -998,22 +998,12 @@
    "Yerevan City|id:158925|3770|2990",
    "Yerevan City|id:97415|3750|2760",
    "Yerevan City|id:87073|3750|3520",
-   "Yerevan City|id:4935|3750|3450"
+   "Yerevan City|id:4935|3750|3450",
+   "Yerevan City|id:11657|3690|3280"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Պանիր հալած սպիտակուցային «President Protein» 150գ",
-    "old": 1330,
-    "new": 820,
-    "pct": 38,
-    "until": "28.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/381/716/716601163546317.webp",
-    "url": "https://www.sas.am/catalog/importnyy_syr/913252/",
-    "key": "SAS|id:913252|1330|820"
-   },
    {
     "store": "SAS",
     "title": "Չորահաց-բրուսկետտա պանրի «Maretti» 70գ",
@@ -5393,12 +5383,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1054317.png",
     "url": "https://yerevan-city.am/shop/product-details/4935",
     "key": "Yerevan City|id:4935|3750|3450"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Պանիր էդամ «Օլդենբուրգեր» 40% կգ",
+    "old": 3690,
+    "new": 3280,
+    "pct": 11,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1041981.png",
+    "url": "https://yerevan-city.am/shop/product-details/11657",
+    "key": "Yerevan City|id:11657|3690|3280"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-25T13:01:24.308077+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-25T13:16:05.268781+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
