@@ -1026,17 +1026,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Պանիր կտրատած «Leerdammer Original Maxi» 160գ",
-    "old": 2090,
-    "new": 1890,
-    "pct": 10,
-    "until": "28.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/importnyy_syr/686627/",
-    "key": "SAS|id:686627|2090|1890"
-   },
-   {
-    "store": "SAS",
     "title": "Գարեջուր «Балтика №9» 0.45լ",
     "old": 750,
     "new": 540,
@@ -5429,8 +5418,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-25T18:49:20.531450+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-25T19:16:55.569892+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
