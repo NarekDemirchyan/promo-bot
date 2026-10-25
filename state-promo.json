@@ -551,7 +551,8 @@
    "SAS|id:82801|6750|4650",
    "SAS|id:98620|1420|1300",
    "SAS|id:844599|2890|2590",
-   "SAS|id:839463|2000|1000"
+   "SAS|id:839463|2000|1000",
+   "SAS|id:839458|2000|1000"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3186,6 +3187,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/305/231/231904474236154.webp",
     "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/839463/",
     "key": "SAS|id:839463|2000|1000"
+   },
+   {
+    "store": "SAS",
+    "title": "Ամրակ հեռախոսի համար «Borofone BH7»",
+    "old": 2000,
+    "new": 1000,
+    "pct": 50,
+    "until": "31.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/839458/",
+    "key": "SAS|id:839458|2000|1000"
    }
   ],
   "Yerevan City": [
