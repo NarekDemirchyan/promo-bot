@@ -540,7 +540,8 @@
    "SAS|id:858527|1720|1490",
    "SAS|id:858505|8450|7350",
    "SAS|id:858504|5850|5250",
-   "SAS|id:858501|650|550"
+   "SAS|id:858501|650|550",
+   "SAS|id:855631|6690|6150"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -971,22 +972,12 @@
    "Yerevan City|id:174540|3920|3070",
    "Yerevan City|id:194142|3890|3110",
    "Yerevan City|id:176075|3890|2330",
-   "Yerevan City|id:195100|3880|3090"
+   "Yerevan City|id:195100|3880|3090",
+   "Yerevan City|id:92849|3860|3190"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Մկնիկ համակարգչի «Borofone Sensitive BG4»",
-    "old": 2400,
-    "new": 1200,
-    "pct": 50,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/920436/",
-    "key": "SAS|id:920436|2400|1200"
-   },
    {
     "store": "SAS",
     "title": "Կոնֆետներ էներգետիկ «Pingo Doce Go Active Power Balls» 34գ",
@@ -3164,6 +3155,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/rezinovye_izdeliya/858501/",
     "key": "SAS|id:858501|650|550"
+   },
+   {
+    "store": "SAS",
+    "title": "Օղի «Архангельская Выдержанная» 0.5լ",
+    "old": 6690,
+    "new": 6150,
+    "pct": 8,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/importnoe/855631/",
+    "key": "SAS|id:855631|6690|6150"
    }
   ],
   "Yerevan City": [
@@ -5355,12 +5357,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178893.png",
     "url": "https://yerevan-city.am/shop/product-details/195100",
     "key": "Yerevan City|id:195100|3880|3090"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ատամի էլ. խոզանակ «Գամ» Սոնիկ Սենսիթ.ուլտրա փափուկ",
+    "old": 3860,
+    "new": 3190,
+    "pct": 17,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1129749.png",
+    "url": "https://yerevan-city.am/shop/product-details/92849",
+    "key": "Yerevan City|id:92849|3860|3190"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-25T05:46:20.947626+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-25T06:01:20.530866+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
