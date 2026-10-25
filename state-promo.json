@@ -569,7 +569,8 @@
    "SAS|id:183473|1820|1640",
    "SAS|id:173912|2090|1140",
    "SAS|id:206203|7180|3790",
-   "SAS|id:173906|390|290"
+   "SAS|id:173906|390|290",
+   "SAS|id:154995|1080|920"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3222,20 +3223,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/863/678/6782123225422224.webp",
     "url": "https://www.sas.am/catalog/stanok_dlya_britya/173906/",
     "key": "SAS|id:173906|390|290"
+   },
+   {
+    "store": "SAS",
+    "title": "Կտոր «Фрекен Бок Аккорд» 4հատ",
+    "old": 1080,
+    "new": 920,
+    "pct": 15,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/302/606/6062191630328403.webp",
+    "url": "https://www.sas.am/catalog/rezinovye_izdeliya/154995/",
+    "key": "SAS|id:154995|1080|920"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Արևելյան տեսականի «Մարաշի» 500գր",
-    "old": 5875,
-    "new": 4990,
-    "pct": 15,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156548.png",
-    "url": "https://yerevan-city.am/shop/product-details/158905",
-    "key": "Yerevan City|id:158905|5875|4990"
-   },
    {
     "store": "Yerevan City",
     "title": "Կոնյակ «Առասպել» 3տ (տուփով) 0.7լ",
@@ -5428,8 +5429,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-25T22:01:30.341534+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-25T22:16:14.243992+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
