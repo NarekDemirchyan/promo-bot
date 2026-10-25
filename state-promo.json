@@ -976,22 +976,12 @@
    "Yerevan City|id:176075|3890|2330",
    "Yerevan City|id:195100|3880|3090",
    "Yerevan City|id:92849|3860|3190",
-   "Yerevan City|id:176162|3850|2310"
+   "Yerevan City|id:176162|3850|2310",
+   "Yerevan City|id:173118|3850|2990"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Թխվածքաբլիթ վանիլային միջուկով «Pingo Doce Cookies & Cream» 220գ",
-    "old": 1090,
-    "new": 540,
-    "pct": 50,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/pechene_pryaniki/918273/",
-    "key": "SAS|id:918273|1090|540"
-   },
    {
     "store": "SAS",
     "title": "Սուրճ լուծվող «Bushido Premium Original» 100գ",
@@ -5371,12 +5361,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169793.png",
     "url": "https://yerevan-city.am/shop/product-details/176162",
     "key": "Yerevan City|id:176162|3850|2310"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մազերի և մարմնի սփրեյ «Մարոկկանոիլ» 100մլ",
+    "old": 3850,
+    "new": 2990,
+    "pct": 22,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1166703.png",
+    "url": "https://yerevan-city.am/shop/product-details/173118",
+    "key": "Yerevan City|id:173118|3850|2990"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-25T06:46:17.019135+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-25T07:01:31.957564+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
