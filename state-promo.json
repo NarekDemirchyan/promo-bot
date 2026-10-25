@@ -3241,17 +3241,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Կոնյակ «Առասպել» 3տ (տուփով) 0.7լ",
-    "old": 5590,
-    "new": 5190,
-    "pct": 7,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1045574.png",
-    "url": "https://yerevan-city.am/shop/product-details/6558",
-    "key": "Yerevan City|id:6558|5590|5190"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Տարա պլաստմասե «Բրաբանտիա» 1.6լ",
     "old": 5590,
     "new": 2750,
@@ -5442,8 +5431,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-25T22:35:08.245849+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-25T23:02:11.033196+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
