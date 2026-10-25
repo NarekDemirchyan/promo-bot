@@ -566,7 +566,8 @@
    "SAS|id:408355|3290|1690",
    "SAS|id:423270|440|350",
    "SAS|id:390901|530|410",
-   "SAS|id:183473|1820|1640"
+   "SAS|id:183473|1820|1640",
+   "SAS|id:173912|2090|1140"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3216,6 +3217,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/forhebathroom/183473/",
     "key": "SAS|id:183473|1820|1640"
+   },
+   {
+    "store": "SAS",
+    "title": "Սափրող սարք «Wilkinson Extra 3» 4 հատ",
+    "old": 2090,
+    "new": 1140,
+    "pct": 45,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/stanok_dlya_britya/173912/",
+    "key": "SAS|id:173912|2090|1140"
    }
   ],
   "Yerevan City": [
