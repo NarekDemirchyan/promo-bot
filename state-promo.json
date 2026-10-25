@@ -572,7 +572,8 @@
    "SAS|id:173906|390|290",
    "SAS|id:154995|1080|920",
    "SAS|id:98287|2470|2150",
-   "SAS|id:751626|670|340"
+   "SAS|id:751626|670|340",
+   "SAS|id:4221|590|510"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3228,20 +3229,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/v_paketakh/751626/",
     "key": "SAS|id:751626|670|340"
+   },
+   {
+    "store": "SAS",
+    "title": "Հյութ արևադարձային մրգերի «Fruiting» 238մլ",
+    "old": 590,
+    "new": 510,
+    "pct": 14,
+    "until": "28.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/sok/4221/",
+    "key": "SAS|id:4221|590|510"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Տիկնիկ ՄՆ337",
-    "old": 5590,
-    "new": 3350,
-    "pct": 40,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170524.png",
-    "url": "https://yerevan-city.am/shop/product-details/176878",
-    "key": "Yerevan City|id:176878|5590|3350"
-   },
    {
     "store": "Yerevan City",
     "title": "Ծովախեցգետին 40/50 թագ. Վաննամեյ եփած-սառ.կգ",
@@ -5434,8 +5435,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-25T23:47:22.751603+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-26T00:01:36.488433+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
@@ -5444,7 +5445,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 15,
+ "city_page": 16,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
