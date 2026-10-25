@@ -576,7 +576,8 @@
    "SAS|id:4221|590|510",
    "SAS|id:751625|690|340",
    "SAS|id:839430|2500|1250",
-   "SAS|id:549866|2250|2050"
+   "SAS|id:549866|2250|2050",
+   "SAS|id:330134|3380|3050"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -1043,22 +1044,12 @@
    "Yerevan City|id:181170|3590|2390",
    "Yerevan City|id:181175|3590|2390",
    "Yerevan City|id:192795|3590|1990",
-   "Yerevan City|id:192794|3590|1990"
+   "Yerevan City|id:192794|3590|1990",
+   "Yerevan City|id:181181|3590|2390"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Վաֆլե ձողիկներ մուգ շոկոլադով «Papadopoulos Caprice Dark» 115գ",
-    "old": 1390,
-    "new": 1180,
-    "pct": 15,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/vafli_vafelnyy_tort/961999/",
-    "key": "SAS|id:961999|1390|1180"
-   },
    {
     "store": "SAS",
     "title": "Կտոր վիսկոզային «Фрекен Бок» 3 հատ",
@@ -3236,6 +3227,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/opolaskivatel_konditsioner_kontsentrat/549866/",
     "key": "SAS|id:549866|2250|2050"
+   },
+   {
+    "store": "SAS",
+    "title": "Հակաքրտինքային միջոց-գել «Old Spice Captain» 70մլ",
+    "old": 3380,
+    "new": 3050,
+    "pct": 10,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/antiperspirantt/330134/",
+    "key": "SAS|id:330134|3380|3050"
    }
   ],
   "Yerevan City": [
@@ -5427,12 +5429,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176529.png",
     "url": "https://yerevan-city.am/shop/product-details/192794",
     "key": "Yerevan City|id:192794|3590|1990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կոնդիցիոներ «Ամիկա» ինտեն.խոնավեցում 275մլ",
+    "old": 3590,
+    "new": 2390,
+    "pct": 33,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174907.png",
+    "url": "https://yerevan-city.am/shop/product-details/181181",
+    "key": "Yerevan City|id:181181|3590|2390"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-26T02:01:19.514240+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-26T02:19:10.513405+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
