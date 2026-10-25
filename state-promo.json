@@ -980,22 +980,12 @@
    "Yerevan City|id:92849|3860|3190",
    "Yerevan City|id:176162|3850|2310",
    "Yerevan City|id:173118|3850|2990",
-   "Yerevan City|id:112067|3810|3170"
+   "Yerevan City|id:112067|3810|3170",
+   "Yerevan City|id:112066|3810|3170"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Արմավ «Waitrose & Partners Soft Dates» 270գ",
-    "old": 2190,
-    "new": 1090,
-    "pct": 50,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/driedfruitsraisin/916930/",
-    "key": "SAS|id:916930|2190|1090"
-   },
    {
     "store": "SAS",
     "title": "Դրաժե գետնանուշով «Գրանդ Քենդի Paw Patrol Peanut Bites» 50գ",
@@ -5375,12 +5365,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1142918.png",
     "url": "https://yerevan-city.am/shop/product-details/112067",
     "key": "Yerevan City|id:112067|3810|3170"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Լվացքի փոշի «Սավեքս» գունավոր, ավտոմատ 3.45կգ",
+    "old": 3810,
+    "new": 3170,
+    "pct": 17,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1142917.png",
+    "url": "https://yerevan-city.am/shop/product-details/112066",
+    "key": "Yerevan City|id:112066|3810|3170"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-25T07:46:53.918486+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-25T08:01:35.822440+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
