@@ -1024,22 +1024,12 @@
    "Yerevan City|id:195132|3590|2870",
    "Yerevan City|id:3519|3590|2790",
    "Yerevan City|id:195090|3590|2870",
-   "Yerevan City|id:14417|3590|2790"
+   "Yerevan City|id:14417|3590|2790",
+   "Yerevan City|id:14528|3590|2790"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կարագ «Lurpak» 200գ, յուղայնությունը՝ 82",
-    "old": 2090,
-    "new": 1820,
-    "pct": 13,
-    "until": "28.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/slivochnoe_maslo/756201/",
-    "key": "SAS|id:756201|2090|1820"
-   },
    {
     "store": "SAS",
     "title": "Ձողիկներ ծովախեցգետնի \"Vici\" 500գ",
@@ -5419,12 +5409,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1016265.png",
     "url": "https://yerevan-city.am/shop/product-details/14417",
     "key": "Yerevan City|id:14417|3590|2790"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Լվացքի գել «Պերվոլ» Բրիլիանտ, սև 2լ",
+    "old": 3590,
+    "new": 2790,
+    "pct": 22,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1011139.png",
+    "url": "https://yerevan-city.am/shop/product-details/14528",
+    "key": "Yerevan City|id:14528|3590|2790"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-25T20:46:11.535687+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-25T21:01:31.576619+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
