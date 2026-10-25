@@ -1038,22 +1038,12 @@
    "Yerevan City|id:181163|3590|2390",
    "Yerevan City|id:195086|3590|2870",
    "Yerevan City|id:195066|3590|2870",
-   "Yerevan City|id:181170|3590|2390"
+   "Yerevan City|id:181170|3590|2390",
+   "Yerevan City|id:181175|3590|2390"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Վաֆլի պնդուկի և կաթնային կրեմով «Kinder Bueno White» 39գ",
-    "old": 530,
-    "new": 460,
-    "pct": 13,
-    "until": "13.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/konfety_v_upakovke/78698/",
-    "key": "SAS|id:78698|530|460"
-   },
    {
     "store": "SAS",
     "title": "Շոկոլադե ձվիկ «Kinder Surprise» 20գ",
@@ -5433,12 +5423,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174897.png",
     "url": "https://yerevan-city.am/shop/product-details/181170",
     "key": "Yerevan City|id:181170|3590|2390"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կոնդիցիոներ «Ամիկա» խոնավացում և փայլ 275մլ",
+    "old": 3590,
+    "new": 2390,
+    "pct": 33,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174901.png",
+    "url": "https://yerevan-city.am/shop/product-details/181175",
+    "key": "Yerevan City|id:181175|3590|2390"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-26T00:31:25.642544+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-26T00:46:16.359489+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
