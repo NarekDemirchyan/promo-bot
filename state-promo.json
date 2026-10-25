@@ -539,7 +539,8 @@
    "SAS|id:799517|840|790",
    "SAS|id:858527|1720|1490",
    "SAS|id:858505|8450|7350",
-   "SAS|id:858504|5850|5250"
+   "SAS|id:858504|5850|5250",
+   "SAS|id:858501|650|550"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -969,7 +970,8 @@
    "Yerevan City|id:8607|3920|3070",
    "Yerevan City|id:174540|3920|3070",
    "Yerevan City|id:194142|3890|3110",
-   "Yerevan City|id:176075|3890|2330"
+   "Yerevan City|id:176075|3890|2330",
+   "Yerevan City|id:195100|3880|3090"
   ]
  },
  "queues": {
@@ -3162,6 +3164,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/podguzniki/858504/",
     "key": "SAS|id:858504|5850|5250"
+   },
+   {
+    "store": "SAS",
+    "title": "Ռետինե ձեռնոցներ «Фрекен Бок» L",
+    "old": 650,
+    "new": 550,
+    "pct": 15,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/rezinovye_izdeliya/858501/",
+    "key": "SAS|id:858501|650|550"
    }
   ],
   "Yerevan City": [
@@ -5353,6 +5366,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169702.png",
     "url": "https://yerevan-city.am/shop/product-details/176075",
     "key": "Yerevan City|id:176075|3890|2330"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մանկ.տակդիր «Փամպերս» Պրեմ.Քեյր 2 4-8կգ 23հտ",
+    "old": 3880,
+    "new": 3090,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178893.png",
+    "url": "https://yerevan-city.am/shop/product-details/195100",
+    "key": "Yerevan City|id:195100|3880|3090"
    }
   ]
  },
