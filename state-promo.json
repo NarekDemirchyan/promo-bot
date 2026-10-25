@@ -1010,22 +1010,12 @@
    "Yerevan City|id:158693|3690|2950",
    "Yerevan City|id:177082|3690|2210",
    "Yerevan City|id:177180|3690|1845",
-   "Yerevan City|id:177144|3690|2210"
+   "Yerevan City|id:177144|3690|2210",
+   "Yerevan City|id:82944|3670|3050"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Գարեջուր «Mythos» 0.33լ",
-    "old": 700,
-    "new": 390,
-    "pct": 44,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/importnoe_pivo/429776/",
-    "key": "SAS|id:429776|700|390"
-   },
    {
     "store": "SAS",
     "title": "Դոնդողե կոնֆետներ «Mamba» 90գ",
@@ -5405,12 +5395,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170782.png",
     "url": "https://yerevan-city.am/shop/product-details/177144",
     "key": "Yerevan City|id:177144|3690|2210"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Նրբերշիկ վիեննական «Միթ Ֆուդ» բնական թաղանթով կգ",
+    "old": 3670,
+    "new": 3050,
+    "pct": 17,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1123090.png",
+    "url": "https://yerevan-city.am/shop/product-details/82944",
+    "key": "Yerevan City|id:82944|3670|3050"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-25T16:32:07.834219+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-25T16:46:57.485362+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
