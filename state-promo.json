@@ -547,7 +547,8 @@
    "SAS|id:851244|1990|1870",
    "SAS|id:847978|7490|7090",
    "SAS|id:844611|2890|2590",
-   "SAS|id:844600|2890|2590"
+   "SAS|id:844600|2890|2590",
+   "SAS|id:82801|6750|4650"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3178,6 +3179,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/dlya_volos2/844600/",
     "key": "SAS|id:844600|2890|2590"
+   },
+   {
+    "store": "SAS",
+    "title": "Սուրճ լուծվող «Carte Noire Orginal» 90գ",
+    "old": 6750,
+    "new": 4650,
+    "pct": 31,
+    "until": "28.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/rastvorimyy_kofe/82801/",
+    "key": "SAS|id:82801|6750|4650"
    }
   ],
   "Yerevan City": [
