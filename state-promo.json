@@ -988,22 +988,12 @@
    "Yerevan City|id:112066|3810|3170",
    "Yerevan City|id:38397|3790|3030",
    "Yerevan City|id:115473|3790|2990",
-   "Yerevan City|id:176721|3790|2270"
+   "Yerevan City|id:176721|3790|2270",
+   "Yerevan City|id:171670|3790|1895"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Պանիր կաթնաշոռային սերուցքային «President» 140գ",
-    "old": 960,
-    "new": 820,
-    "pct": 15,
-    "until": "28.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/118/616/616950388390765.webp",
-    "url": "https://www.sas.am/catalog/importnyy_syr/897276/",
-    "key": "SAS|id:897276|960|820"
-   },
    {
     "store": "SAS",
     "title": "Անձեռոցիկ «Պապիրուս» 110 հատ",
@@ -5383,12 +5373,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170361.png",
     "url": "https://yerevan-city.am/shop/product-details/176721",
     "key": "Yerevan City|id:176721|3790|2270"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Խոհանոցային էլ. կշեռք «ՖՖ1976» 5կգ 14192-66Բ",
+    "old": 3790,
+    "new": 1895,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1165230.png",
+    "url": "https://yerevan-city.am/shop/product-details/171670",
+    "key": "Yerevan City|id:171670|3790|1895"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-25T10:02:16.720567+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-25T10:19:15.825702+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
