@@ -1002,7 +1002,8 @@
    "Yerevan City|id:87073|3750|3520",
    "Yerevan City|id:4935|3750|3450",
    "Yerevan City|id:11657|3690|3280",
-   "Yerevan City|id:111472|3690|2950"
+   "Yerevan City|id:111472|3690|2950",
+   "Yerevan City|id:158693|3690|2950"
   ]
  },
  "queues": {
@@ -5397,6 +5398,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1142350.png",
     "url": "https://yerevan-city.am/shop/product-details/111472",
     "key": "Yerevan City|id:111472|3690|2950"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գնդակներ ցանցով 5.5սմ 100հտ",
+    "old": 3690,
+    "new": 2950,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156331.png",
+    "url": "https://yerevan-city.am/shop/product-details/158693",
+    "key": "Yerevan City|id:158693|3690|2950"
    }
   ]
  },
