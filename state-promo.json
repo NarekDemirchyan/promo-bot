@@ -561,7 +561,8 @@
    "SAS|id:756283|570|460",
    "SAS|id:390900|530|410",
    "SAS|id:83010|3790|2590",
-   "SAS|id:746832|1930|1680"
+   "SAS|id:746832|1930|1680",
+   "SAS|id:429578|990|560"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3206,20 +3207,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/dlya_volos2/746832/",
     "key": "SAS|id:746832|1930|1680"
+   },
+   {
+    "store": "SAS",
+    "title": "Թեյ բուսական «Teida Thyme & Mint» 22*2.5գ",
+    "old": 990,
+    "new": 560,
+    "pct": 43,
+    "until": "28.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/v_paketakh/429578/",
+    "key": "SAS|id:429578|990|560"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Սուրճ աղ․ «ԼավԱզզա» Էսպրեսսո, առանց կոֆեին 250գր",
-    "old": 5810,
-    "new": 5050,
-    "pct": 13,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1043338.png",
-    "url": "https://yerevan-city.am/shop/product-details/8998",
-    "key": "Yerevan City|id:8998|5810|5050"
-   },
    {
     "store": "Yerevan City",
     "title": "Շամպայնի գավաթ «Ռակլե» Սփլենդիդ 120մլ 4հտ ՍՊԼ800Ս",
@@ -5412,8 +5413,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-25T17:16:56.422060+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-25T17:34:43.911380+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
