@@ -1042,7 +1042,8 @@
    "Yerevan City|id:195066|3590|2870",
    "Yerevan City|id:181170|3590|2390",
    "Yerevan City|id:181175|3590|2390",
-   "Yerevan City|id:192795|3590|1990"
+   "Yerevan City|id:192795|3590|1990",
+   "Yerevan City|id:192794|3590|1990"
   ]
  },
  "queues": {
@@ -5437,6 +5438,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176530.png",
     "url": "https://yerevan-city.am/shop/product-details/192795",
     "key": "Yerevan City|id:192795|3590|1990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Դպրոցական պայուսակ տղաների համար",
+    "old": 3590,
+    "new": 1990,
+    "pct": 45,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176529.png",
+    "url": "https://yerevan-city.am/shop/product-details/192794",
+    "key": "Yerevan City|id:192794|3590|1990"
    }
   ]
  },
