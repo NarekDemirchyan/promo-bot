@@ -1048,17 +1048,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Շոկոլադե ձվիկ «Kinder Surprise» 20գ",
-    "old": 680,
-    "new": 590,
-    "pct": 13,
-    "until": "13.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/konfety_v_upakovke/209445/",
-    "key": "SAS|id:209445|680|590"
-   },
-   {
-    "store": "SAS",
     "title": "Պատրաստի նախաճաշ «Kit Kat» 190գ",
     "old": 1760,
     "new": 1350,
@@ -5451,8 +5440,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-26T01:02:34.113744+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-26T01:31:16.042870+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
