@@ -549,7 +549,8 @@
    "SAS|id:844611|2890|2590",
    "SAS|id:844600|2890|2590",
    "SAS|id:82801|6750|4650",
-   "SAS|id:98620|1420|1300"
+   "SAS|id:98620|1420|1300",
+   "SAS|id:844599|2890|2590"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3182,6 +3183,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/176/270/2709541029144375.webp",
     "url": "https://www.sas.am/catalog/slivochnoe_maslo/98620/",
     "key": "SAS|id:98620|1420|1300"
+   },
+   {
+    "store": "SAS",
+    "title": "Շամպուն «Head & Shoulders» 360մլ",
+    "old": 2890,
+    "new": 2590,
+    "pct": 10,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/258/367/3672141487570961.webp",
+    "url": "https://www.sas.am/catalog/dlya_volos2/844599/",
+    "key": "SAS|id:844599|2890|2590"
    }
   ],
   "Yerevan City": [
