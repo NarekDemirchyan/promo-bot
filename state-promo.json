@@ -1006,7 +1006,8 @@
    "Yerevan City|id:11657|3690|3280",
    "Yerevan City|id:111472|3690|2950",
    "Yerevan City|id:158693|3690|2950",
-   "Yerevan City|id:177082|3690|2210"
+   "Yerevan City|id:177082|3690|2210",
+   "Yerevan City|id:177180|3690|1845"
   ]
  },
  "queues": {
@@ -5401,6 +5402,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170726.png",
     "url": "https://yerevan-city.am/shop/product-details/177082",
     "key": "Yerevan City|id:177082|3690|2210"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Էլեկտրական սրճեփ «Ռաֆ» 0.5լ 1000Վտ 151",
+    "old": 3690,
+    "new": 1845,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170822.png",
+    "url": "https://yerevan-city.am/shop/product-details/177180",
+    "key": "Yerevan City|id:177180|3690|1845"
    }
   ]
  },
