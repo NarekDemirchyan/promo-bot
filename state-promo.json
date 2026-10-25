@@ -535,7 +535,8 @@
    "SAS|id:873098|1990|1460",
    "SAS|id:873096|2090|1540",
    "SAS|id:867515|12900|10650",
-   "SAS|id:862988|29900|14950"
+   "SAS|id:862988|29900|14950",
+   "SAS|id:799517|840|790"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3154,6 +3155,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/116/517/5172173969623294.webp",
     "url": "https://www.sas.am/catalog/zamorozhennaya_ryba/862988/",
     "key": "SAS|id:862988|29900|14950"
+   },
+   {
+    "store": "SAS",
+    "title": "Գարեջուր «Վիմպել Պիլսներ» 0.5լ",
+    "old": 840,
+    "new": 790,
+    "pct": 6,
+    "until": "28.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/armyanskoe/799517/",
+    "key": "SAS|id:799517|840|790"
    }
   ],
   "Yerevan City": [
