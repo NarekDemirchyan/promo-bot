@@ -542,7 +542,8 @@
    "SAS|id:858504|5850|5250",
    "SAS|id:858501|650|550",
    "SAS|id:855631|6690|6150",
-   "SAS|id:855595|1290|640"
+   "SAS|id:855595|1290|640",
+   "SAS|id:854747|7350|5490"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3168,20 +3169,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/drajee/855595/",
     "key": "SAS|id:855595|1290|640"
+   },
+   {
+    "store": "SAS",
+    "title": "Գինի կարմիր «Ակում Մալբեկ» 750մլ",
+    "old": 7350,
+    "new": 5490,
+    "pct": 25,
+    "until": "13.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/243/652/6529273616481601.webp",
+    "url": "https://www.sas.am/catalog/armyanskoe_vino/854747/",
+    "key": "SAS|id:854747|7350|5490"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Տիկնիկ աքսեսուարներով «Լիթլ Միլի» 91099-Ժ",
-    "old": 5990,
-    "new": 3590,
-    "pct": 40,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170505.png",
-    "url": "https://yerevan-city.am/shop/product-details/176867",
-    "key": "Yerevan City|id:176867|5990|3590"
-   },
    {
     "store": "Yerevan City",
     "title": "Տիկնիկ-նորածին ՍՆԲ222Ֆ",
@@ -5374,8 +5375,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-25T06:32:01.474124+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-25T06:46:17.019135+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
