@@ -1050,17 +1050,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Պատրաստի նախաճաշ «Kit Kat» 190գ",
-    "old": 1760,
-    "new": 1350,
-    "pct": 23,
-    "until": "23.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/gotovyy_zavtrak/795897/",
-    "key": "SAS|id:795897|1760|1350"
-   },
-   {
-    "store": "SAS",
     "title": "Վաֆլե ձողիկներ մուգ շոկոլադով «Papadopoulos Caprice Dark» 115գ",
     "old": 1390,
     "new": 1180,
@@ -3250,17 +3239,6 @@
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Օղի «Սմիրնոֆֆ» 0.5լ",
-    "old": 5550,
-    "new": 4990,
-    "pct": 10,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1041633.png",
-    "url": "https://yerevan-city.am/shop/product-details/4098",
-    "key": "Yerevan City|id:4098|5550|4990"
-   },
    {
     "store": "Yerevan City",
     "title": "Սկուտեղ բամբուկե «Մոլինո» 2հտ",
@@ -5454,7 +5432,7 @@
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-26T01:46:05.726365+04:00",
+ "last_publish": "2026-10-26T02:01:19.514240+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
