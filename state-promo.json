@@ -974,22 +974,12 @@
    "Yerevan City|id:194142|3890|3110",
    "Yerevan City|id:176075|3890|2330",
    "Yerevan City|id:195100|3880|3090",
-   "Yerevan City|id:92849|3860|3190"
+   "Yerevan City|id:92849|3860|3190",
+   "Yerevan City|id:176162|3850|2310"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կոնֆետներ էներգետիկ «Pingo Doce Go Active Power Balls» 34գ",
-    "old": 650,
-    "new": 320,
-    "pct": 51,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/batonchik/918329/",
-    "key": "SAS|id:918329|650|320"
-   },
    {
     "store": "SAS",
     "title": "Թխվածքաբլիթ վանիլային միջուկով «Pingo Doce Cookies & Cream» 220գ",
@@ -5369,12 +5359,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1129749.png",
     "url": "https://yerevan-city.am/shop/product-details/92849",
     "key": "Yerevan City|id:92849|3860|3190"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կոնստրուկտոր պայուսակով «Բլոքս» 180հատ 555-9",
+    "old": 3850,
+    "new": 2310,
+    "pct": 40,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169793.png",
+    "url": "https://yerevan-city.am/shop/product-details/176162",
+    "key": "Yerevan City|id:176162|3850|2310"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-25T06:16:06.706232+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-25T06:32:01.474124+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
