@@ -578,7 +578,8 @@
    "SAS|id:839430|2500|1250",
    "SAS|id:549866|2250|2050",
    "SAS|id:330134|3380|3050",
-   "SAS|id:206202|5590|3790"
+   "SAS|id:206202|5590|3790",
+   "SAS|id:125606|960|870"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3240,20 +3241,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/207/386/386674517188567.webp",
     "url": "https://www.sas.am/catalog/plitka/206202/",
     "key": "SAS|id:206202|5590|3790"
+   },
+   {
+    "store": "SAS",
+    "title": "Ձիթապտուղ սև կորիզով «XL» 390գ",
+    "old": 960,
+    "new": 870,
+    "pct": 9,
+    "until": "28.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/374/921/9212501598154903.webp",
+    "url": "https://www.sas.am/catalog/s_kostochkoy/125606/",
+    "key": "SAS|id:125606|960|870"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Սոուս «Ամերիքան Գարդեն» հավի թևիկ. համար 1.890լ",
-    "old": 5490,
-    "new": 4370,
-    "pct": 20,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176007.png",
-    "url": "https://yerevan-city.am/shop/product-details/192275",
-    "key": "Yerevan City|id:192275|5490|4370"
-   },
    {
     "store": "Yerevan City",
     "title": "Գնդակներ պայուսակով 100հտ 60-100",
@@ -5446,8 +5447,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-26T03:02:13.755825+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-26T03:16:54.912169+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
