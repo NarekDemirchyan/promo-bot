@@ -559,7 +559,8 @@
    "SAS|id:173923|790|550",
    "SAS|id:143211|750|610",
    "SAS|id:756283|570|460",
-   "SAS|id:390900|530|410"
+   "SAS|id:390900|530|410",
+   "SAS|id:83010|3790|2590"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3202,6 +3203,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/yogurt_puding/390900/",
     "key": "SAS|id:390900|530|410"
+   },
+   {
+    "store": "SAS",
+    "title": "Սուրճ լուծվող «Jacobs Monarch» 100գ",
+    "old": 3790,
+    "new": 2590,
+    "pct": 32,
+    "until": "28.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/392/559/5598432112785342.webp",
+    "url": "https://www.sas.am/catalog/rastvorimyy_kofe/83010/",
+    "key": "SAS|id:83010|3790|2590"
    }
   ],
   "Yerevan City": [
