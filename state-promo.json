@@ -579,7 +579,8 @@
    "SAS|id:549866|2250|2050",
    "SAS|id:330134|3380|3050",
    "SAS|id:206202|5590|3790",
-   "SAS|id:125606|960|870"
+   "SAS|id:125606|960|870",
+   "SAS|id:3759|960|870"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3242,6 +3243,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/374/921/9212501598154903.webp",
     "url": "https://www.sas.am/catalog/s_kostochkoy/125606/",
     "key": "SAS|id:125606|960|870"
+   },
+   {
+    "store": "SAS",
+    "title": "Ձիթապտուղ կանաչ կորիզով «Art Oliva XL» 400գ",
+    "old": 960,
+    "new": 870,
+    "pct": 9,
+    "until": "28.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/193/238/2383871183930129.webp",
+    "url": "https://www.sas.am/catalog/s_kostochkoy/3759/",
+    "key": "SAS|id:3759|960|870"
    }
   ],
   "Yerevan City": [
