@@ -1022,17 +1022,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Սուջուխ կտրտած «Բեկոն» 85գ",
-    "old": 1150,
-    "new": 970,
-    "pct": 16,
-    "until": "28.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/293/309/3092513871236311.webp",
-    "url": "https://www.sas.am/catalog/myasnaya_narezka/114493/",
-    "key": "SAS|id:114493|1150|970"
-   },
-   {
-    "store": "SAS",
     "title": "Կաթնային շոկոլադապատ թխվածքաբլիթ «Kinder Maxi King» 35գ",
     "old": 610,
     "new": 540,
@@ -5425,8 +5414,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-25T17:34:43.911380+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-25T18:02:21.208042+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
