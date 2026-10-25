@@ -537,7 +537,8 @@
    "SAS|id:867515|12900|10650",
    "SAS|id:862988|29900|14950",
    "SAS|id:799517|840|790",
-   "SAS|id:858527|1720|1490"
+   "SAS|id:858527|1720|1490",
+   "SAS|id:858505|8450|7350"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -965,22 +966,12 @@
    "Yerevan City|id:3705|3920|3070",
    "Yerevan City|id:7187|3920|3070",
    "Yerevan City|id:8607|3920|3070",
-   "Yerevan City|id:174540|3920|3070"
+   "Yerevan City|id:174540|3920|3070",
+   "Yerevan City|id:194142|3890|3110"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Չորահաց իտալական համեմունքներով \"Fitness Cook\" 200գ±6գ",
-    "old": 670,
-    "new": 420,
-    "pct": 37,
-    "until": "22.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/khlebtsy/920987/",
-    "key": "SAS|id:920987|670|420"
-   },
    {
     "store": "SAS",
     "title": "Չորահաց վրացական համեմունքներով \"Fitness Cook\" 200գ±6գ",
@@ -3158,20 +3149,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/120/930/9309321564557846.webp",
     "url": "https://www.sas.am/catalog/pakety_dlya_musora/858527/",
     "key": "SAS|id:858527|1720|1490"
+   },
+   {
+    "store": "SAS",
+    "title": "Վարտիք - տակդիրներ «Libero Up&Go N8» 19-30կգ, 20 հատ",
+    "old": 8450,
+    "new": 7350,
+    "pct": 13,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/podguzniki/858505/",
+    "key": "SAS|id:858505|8450|7350"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Օղի «Լիտուենիան» Օրիգինալ 0.5լ",
-    "old": 5990,
-    "new": 4290,
-    "pct": 28,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169469.png",
-    "url": "https://yerevan-city.am/shop/product-details/175839",
-    "key": "Yerevan City|id:175839|5990|4290"
-   },
    {
     "store": "Yerevan City",
     "title": "Մաքրության հավաքածու 388-9",
@@ -5349,12 +5340,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168139.png",
     "url": "https://yerevan-city.am/shop/product-details/174540",
     "key": "Yerevan City|id:174540|3920|3070"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ինքնաթիռ կոլեկցիոն 295-7",
+    "old": 3890,
+    "new": 3110,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177911.png",
+    "url": "https://yerevan-city.am/shop/product-details/194142",
+    "key": "Yerevan City|id:194142|3890|3110"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-25T05:01:20.115557+04:00",
+ "last_publish": "2026-10-25T05:16:59.022542+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
