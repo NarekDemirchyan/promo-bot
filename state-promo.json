@@ -571,7 +571,8 @@
    "SAS|id:206203|7180|3790",
    "SAS|id:173906|390|290",
    "SAS|id:154995|1080|920",
-   "SAS|id:98287|2470|2150"
+   "SAS|id:98287|2470|2150",
+   "SAS|id:751626|670|340"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3226,20 +3227,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/397/058/0587873209116241.webp",
     "url": "https://www.sas.am/catalog/rastitelnoe/98287/",
     "key": "SAS|id:98287|2470|2150"
+   },
+   {
+    "store": "SAS",
+    "title": "Թեյ սև «Lavtea» 25*2գ",
+    "old": 670,
+    "new": 340,
+    "pct": 49,
+    "until": "13.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/v_paketakh/751626/",
+    "key": "SAS|id:751626|670|340"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Տարա պլաստմասե «Բրաբանտիա» 1.6լ",
-    "old": 5590,
-    "new": 2750,
-    "pct": 51,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1142542.png",
-    "url": "https://yerevan-city.am/shop/product-details/111664",
-    "key": "Yerevan City|id:111664|5590|2750"
-   },
    {
     "store": "Yerevan City",
     "title": "Տիկնիկ ՄՆ337",
@@ -5432,8 +5433,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-25T23:16:56.953204+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-25T23:32:04.734473+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
