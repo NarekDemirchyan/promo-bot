@@ -1030,17 +1030,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Անձեռոցիկ «Պապիրուս Սոֆթ» 100 հատ",
-    "old": 290,
-    "new": 250,
-    "pct": 14,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/293/339/3394231158959298.webp",
-    "url": "https://www.sas.am/catalog/salfetki/7685/",
-    "key": "SAS|id:7685|290|250"
-   },
-   {
-    "store": "SAS",
     "title": "Կարագ «Lurpak» 200գ, յուղայնությունը՝ 82",
     "old": 2090,
     "new": 1820,
@@ -5433,8 +5422,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-25T20:02:56.292828+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-25T20:31:21.853867+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
