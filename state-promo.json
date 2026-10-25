@@ -1016,22 +1016,12 @@
    "Yerevan City|id:177144|3690|2210",
    "Yerevan City|id:82944|3670|3050",
    "Yerevan City|id:172745|3650|3290",
-   "Yerevan City|id:171047|3600|3220"
+   "Yerevan City|id:171047|3600|3220",
+   "Yerevan City|id:195132|3590|2870"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կաթնային շոկոլադապատ թխվածքաբլիթ «Kinder Maxi King» 35գ",
-    "old": 610,
-    "new": 540,
-    "pct": 11,
-    "until": "28.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/desert_biskvit/100916/",
-    "key": "SAS|id:100916|610|540"
-   },
    {
     "store": "SAS",
     "title": "Պանիր կտրատած «Leerdammer Original Maxi» 160գ",
@@ -5411,12 +5401,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1164714.png",
     "url": "https://yerevan-city.am/shop/product-details/171047",
     "key": "Yerevan City|id:171047|3600|3220"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սեղանի խաղ «Էրուդիտ» 0119Ռ-1",
+    "old": 3590,
+    "new": 2870,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178935.png",
+    "url": "https://yerevan-city.am/shop/product-details/195132",
+    "key": "Yerevan City|id:195132|3590|2870"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-25T18:17:10.118191+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-25T18:32:05.615082+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
