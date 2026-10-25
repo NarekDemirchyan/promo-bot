@@ -570,7 +570,8 @@
    "SAS|id:173912|2090|1140",
    "SAS|id:206203|7180|3790",
    "SAS|id:173906|390|290",
-   "SAS|id:154995|1080|920"
+   "SAS|id:154995|1080|920",
+   "SAS|id:98287|2470|2150"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3224,6 +3225,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/302/606/6062191630328403.webp",
     "url": "https://www.sas.am/catalog/rezinovye_izdeliya/154995/",
     "key": "SAS|id:154995|1080|920"
+   },
+   {
+    "store": "SAS",
+    "title": "Ձեթ ձիթապտղի «Luglio Extra Virgin» 0.25լ",
+    "old": 2470,
+    "new": 2150,
+    "pct": 13,
+    "until": "10.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/397/058/0587873209116241.webp",
+    "url": "https://www.sas.am/catalog/rastitelnoe/98287/",
+    "key": "SAS|id:98287|2470|2150"
    }
   ],
   "Yerevan City": [
