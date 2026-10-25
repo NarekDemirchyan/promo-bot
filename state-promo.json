@@ -1020,22 +1020,12 @@
    "Yerevan City|id:172745|3650|3290",
    "Yerevan City|id:171047|3600|3220",
    "Yerevan City|id:195132|3590|2870",
-   "Yerevan City|id:3519|3590|2790"
+   "Yerevan City|id:3519|3590|2790",
+   "Yerevan City|id:195090|3590|2870"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Գարեջուր «Балтика №9» 0.45լ",
-    "old": 750,
-    "new": 540,
-    "pct": 28,
-    "until": "28.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/305/828/8283643520596342.webp",
-    "url": "https://www.sas.am/catalog/importnoe_pivo/135777/",
-    "key": "SAS|id:135777|750|540"
-   },
    {
     "store": "SAS",
     "title": "Անձեռոցիկ «Պապիրուս Սոֆթ» 100 հատ",
@@ -5415,12 +5405,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1002606.png",
     "url": "https://yerevan-city.am/shop/product-details/3519",
     "key": "Yerevan City|id:3519|3590|2790"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թեյի հավաքածու 8601-1Ա",
+    "old": 3590,
+    "new": 2870,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178900.png",
+    "url": "https://yerevan-city.am/shop/product-details/195090",
+    "key": "Yerevan City|id:195090|3590|2870"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-25T19:32:03.455561+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-25T19:46:57.829825+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
