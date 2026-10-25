@@ -577,7 +577,8 @@
    "SAS|id:751625|690|340",
    "SAS|id:839430|2500|1250",
    "SAS|id:549866|2250|2050",
-   "SAS|id:330134|3380|3050"
+   "SAS|id:330134|3380|3050",
+   "SAS|id:206202|5590|3790"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3238,6 +3239,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/antiperspirantt/330134/",
     "key": "SAS|id:330134|3380|3050"
+   },
+   {
+    "store": "SAS",
+    "title": "Շոկոլադե սալիկ նուշով «Lindt» 300գ",
+    "old": 5590,
+    "new": 3790,
+    "pct": 32,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/207/386/386674517188567.webp",
+    "url": "https://www.sas.am/catalog/plitka/206202/",
+    "key": "SAS|id:206202|5590|3790"
    }
   ],
   "Yerevan City": [
