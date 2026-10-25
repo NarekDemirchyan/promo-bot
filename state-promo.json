@@ -536,7 +536,8 @@
    "SAS|id:873096|2090|1540",
    "SAS|id:867515|12900|10650",
    "SAS|id:862988|29900|14950",
-   "SAS|id:799517|840|790"
+   "SAS|id:799517|840|790",
+   "SAS|id:858527|1720|1490"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -963,22 +964,12 @@
    "Yerevan City|id:169056|3940|3550",
    "Yerevan City|id:3705|3920|3070",
    "Yerevan City|id:7187|3920|3070",
-   "Yerevan City|id:8607|3920|3070"
+   "Yerevan City|id:8607|3920|3070",
+   "Yerevan City|id:174540|3920|3070"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Չիպս լավաշից համեմունքներով \"Fitness Cook\" 130գ±4գ",
-    "old": 550,
-    "new": 420,
-    "pct": 24,
-    "until": "22.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/khlebtsy/920991/",
-    "key": "SAS|id:920991|550|420"
-   },
    {
     "store": "SAS",
     "title": "Չորահաց իտալական համեմունքներով \"Fitness Cook\" 200գ±6գ",
@@ -3156,20 +3147,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/armyanskoe/799517/",
     "key": "SAS|id:799517|840|790"
+   },
+   {
+    "store": "SAS",
+    "title": "Աղբի տոպրակներ «Фрекен Бок Strong Max» 120լ",
+    "old": 1720,
+    "new": 1490,
+    "pct": 13,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/120/930/9309321564557846.webp",
+    "url": "https://www.sas.am/catalog/pakety_dlya_musora/858527/",
+    "key": "SAS|id:858527|1720|1490"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Չիր սև սալորի «Ֆրութեքսա» առանց կորիզ կգ",
-    "old": 5990,
-    "new": 1950,
-    "pct": 67,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1118394.png",
-    "url": "https://yerevan-city.am/shop/product-details/75444",
-    "key": "Yerevan City|id:75444|5990|1950"
-   },
    {
     "store": "Yerevan City",
     "title": "Օղի «Լիտուենիան» Օրիգինալ 0.5լ",
@@ -5347,12 +5338,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1036069.png",
     "url": "https://yerevan-city.am/shop/product-details/8607",
     "key": "Yerevan City|id:8607|3920|3070"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մանկ.տակդիր «Լիբերո» Կոմֆորտ 5 11-17կգ 22հտ",
+    "old": 3920,
+    "new": 3070,
+    "pct": 22,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168139.png",
+    "url": "https://yerevan-city.am/shop/product-details/174540",
+    "key": "Yerevan City|id:174540|3920|3070"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-25T04:46:13.199242+04:00",
+ "last_publish": "2026-10-25T05:01:20.115557+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
