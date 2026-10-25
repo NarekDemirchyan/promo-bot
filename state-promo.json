@@ -990,7 +990,8 @@
    "Yerevan City|id:38397|3790|3030",
    "Yerevan City|id:115473|3790|2990",
    "Yerevan City|id:176721|3790|2270",
-   "Yerevan City|id:171670|3790|1895"
+   "Yerevan City|id:171670|3790|1895",
+   "Yerevan City|id:158925|3770|2990"
   ]
  },
  "queues": {
@@ -5385,6 +5386,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1165230.png",
     "url": "https://yerevan-city.am/shop/product-details/171670",
     "key": "Yerevan City|id:171670|3790|1895"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Միցելային ջուր «Լիրեն» հալվե, հանգստացնող 400մլ",
+    "old": 3770,
+    "new": 2990,
+    "pct": 21,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156568.png",
+    "url": "https://yerevan-city.am/shop/product-details/158925",
+    "key": "Yerevan City|id:158925|3770|2990"
    }
   ]
  },
