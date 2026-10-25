@@ -1018,7 +1018,8 @@
    "Yerevan City|id:82944|3670|3050",
    "Yerevan City|id:172745|3650|3290",
    "Yerevan City|id:171047|3600|3220",
-   "Yerevan City|id:195132|3590|2870"
+   "Yerevan City|id:195132|3590|2870",
+   "Yerevan City|id:3519|3590|2790"
   ]
  },
  "queues": {
@@ -5413,6 +5414,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178935.png",
     "url": "https://yerevan-city.am/shop/product-details/195132",
     "key": "Yerevan City|id:195132|3590|2870"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Լվացքի գել «Պերվոլ» Բրիլիանտ, սպիտակ 2լ",
+    "old": 3590,
+    "new": 2790,
+    "pct": 22,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1002606.png",
+    "url": "https://yerevan-city.am/shop/product-details/3519",
+    "key": "Yerevan City|id:3519|3590|2790"
    }
   ]
  },
