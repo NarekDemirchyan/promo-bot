@@ -1000,22 +1000,12 @@
    "Yerevan City|id:97415|3750|2760",
    "Yerevan City|id:87073|3750|3520",
    "Yerevan City|id:4935|3750|3450",
-   "Yerevan City|id:11657|3690|3280"
+   "Yerevan City|id:11657|3690|3280",
+   "Yerevan City|id:111472|3690|2950"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Չորահաց-բրուսկետտա պանրի «Maretti» 70գ",
-    "old": 550,
-    "new": 440,
-    "pct": 20,
-    "until": "29.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/chipsy/177832/",
-    "key": "SAS|id:177832|550|440"
-   },
    {
     "store": "SAS",
     "title": "Յոգուրտ նռով և ազնվամորիով «Epica» 130գ, յուղայնությունը՝ 4.8",
@@ -5395,12 +5385,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1041981.png",
     "url": "https://yerevan-city.am/shop/product-details/11657",
     "key": "Yerevan City|id:11657|3690|3280"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գնդակներ ցանցով 7.5սմ 50հտ",
+    "old": 3690,
+    "new": 2950,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1142350.png",
+    "url": "https://yerevan-city.am/shop/product-details/111472",
+    "key": "Yerevan City|id:111472|3690|2950"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-25T13:31:18.510310+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-25T13:46:12.463843+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
