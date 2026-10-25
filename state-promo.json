@@ -960,22 +960,12 @@
    "Yerevan City|id:192157|3950|2990",
    "Yerevan City|id:174090|3950|3650",
    "Yerevan City|id:169056|3940|3550",
-   "Yerevan City|id:3705|3920|3070"
+   "Yerevan City|id:3705|3920|3070",
+   "Yerevan City|id:7187|3920|3070"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Աուդիո մալուխ «Hoco Premium AUX»",
-    "old": 1300,
-    "new": 650,
-    "pct": 50,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/922628/",
-    "key": "SAS|id:922628|1300|650"
-   },
    {
     "store": "SAS",
     "title": "Չիպս լավաշից կծու \"Fitness Cook\" 130գ±4գ",
@@ -5355,12 +5345,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1002506.png",
     "url": "https://yerevan-city.am/shop/product-details/3705",
     "key": "Yerevan City|id:3705|3920|3070"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մանկական տակդիրներ «Լիբերո» Կոմֆորտ 3 5-9կգ 30հտ",
+    "old": 3920,
+    "new": 3070,
+    "pct": 22,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1074099.png",
+    "url": "https://yerevan-city.am/shop/product-details/7187",
+    "key": "Yerevan City|id:7187|3920|3070"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-25T03:46:04.919053+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-25T04:02:52.355086+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
