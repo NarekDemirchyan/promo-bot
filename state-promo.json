@@ -1086,22 +1086,12 @@
    "Yerevan City|id:171140|3540|1770",
    "Yerevan City|id:171132|3540|1770",
    "Yerevan City|id:171133|3540|1770",
-   "Yerevan City|id:171138|3540|1770"
+   "Yerevan City|id:171138|3540|1770",
+   "Yerevan City|id:171134|3540|1770"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սպիտակեցնող նյութ «Ace» 1լ",
-    "old": 870,
-    "new": 790,
-    "pct": 9,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/opolaskivatel_konditsioner_kontsentrat/126845/",
-    "key": "SAS|id:126845|870|790"
-   },
    {
     "store": "SAS",
     "title": "Թղթե սրբիչ «Պամա» 2 հատ",
@@ -5481,12 +5471,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1164790.png",
     "url": "https://yerevan-city.am/shop/product-details/171138",
     "key": "Yerevan City|id:171138|3540|1770"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Բալզամ-ող. «Հ.էսսենսիզ» նարդոս, սնուցում 250մլ",
+    "old": 3540,
+    "new": 1770,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1164786.png",
+    "url": "https://yerevan-city.am/shop/product-details/171134",
+    "key": "Yerevan City|id:171134|3540|1770"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-26T15:01:37.602735+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-26T15:17:22.707414+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
