@@ -589,7 +589,8 @@
    "SAS|id:838947|1250|620",
    "SAS|id:838935|2500|1250",
    "SAS|id:838906|2500|1250",
-   "SAS|id:838900|2300|1150"
+   "SAS|id:838900|2300|1150",
+   "SAS|id:838889|3100|1550"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3262,6 +3263,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/396/346/3463602531157355.webp",
     "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/838900/",
     "key": "SAS|id:838900|2300|1150"
+   },
+   {
+    "store": "SAS",
+    "title": "USB լար «Hoco X21 3.0A»",
+    "old": 3100,
+    "new": 1550,
+    "pct": 50,
+    "until": "31.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/838889/",
+    "key": "SAS|id:838889|3100|1550"
    }
   ],
   "Yerevan City": [
