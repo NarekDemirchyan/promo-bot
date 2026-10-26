@@ -1076,22 +1076,12 @@
    "Yerevan City|id:33046|3560|2890",
    "Yerevan City|id:158892|3550|2820",
    "Yerevan City|id:158903|3550|2820",
-   "Yerevan City|id:2924|3540|3090"
+   "Yerevan City|id:2924|3540|3090",
+   "Yerevan City|id:171141|3540|1770"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Հանքային ջուր «Borjomi» 0.5լ",
-    "old": 660,
-    "new": 560,
-    "pct": 15,
-    "until": "28.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/voda/2372/",
-    "key": "SAS|id:2372|660|560"
-   },
    {
     "store": "SAS",
     "title": "Նրբերշիկ հավի «Greisinger» 300գ",
@@ -5471,12 +5461,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1054743.png",
     "url": "https://yerevan-city.am/shop/product-details/2924",
     "key": "Yerevan City|id:2924|3540|3090"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շամպուն «Հ.էսսենսիզ» կոկոս, խորը սնուցում 350մլ",
+    "old": 3540,
+    "new": 1770,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1164793.png",
+    "url": "https://yerevan-city.am/shop/product-details/171141",
+    "key": "Yerevan City|id:171141|3540|1770"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-26T11:46:58.987440+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-26T12:04:38.477774+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
