@@ -1098,22 +1098,12 @@
    "Yerevan City|id:171137|3540|1770",
    "Yerevan City|id:21265|3530|3120",
    "Yerevan City|id:23699|3530|1765",
-   "Yerevan City|id:4460|3510|2960"
+   "Yerevan City|id:4460|3510|2960",
+   "Yerevan City|id:4458|3510|2960"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սպագետտի «Barilla № 5» 500գ",
-    "old": 880,
-    "new": 730,
-    "pct": 17,
-    "until": "10.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/spagetti_kapelini/3268/",
-    "key": "SAS|id:3268|880|730"
-   },
    {
     "store": "SAS",
     "title": "Պանիր մոցարելա «Բորիսովկա Լա Պերլա» 200գ",
@@ -5493,12 +5483,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1079703.png",
     "url": "https://yerevan-city.am/shop/product-details/4460",
     "key": "Yerevan City|id:4460|3510|2960"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կոնֆետների հավաքածու «Մարկ Սևունի» Լաունջ 210գր",
+    "old": 3510,
+    "new": 2960,
+    "pct": 16,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1079702.png",
+    "url": "https://yerevan-city.am/shop/product-details/4458",
+    "key": "Yerevan City|id:4458|3510|2960"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-26T18:17:01.092799+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-26T18:32:41.352498+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
