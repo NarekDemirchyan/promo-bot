@@ -1114,22 +1114,12 @@
    "Yerevan City|id:193992|3490|2090",
    "Yerevan City|id:160896|3490|2220",
    "Yerevan City|id:160898|3490|2220",
-   "Yerevan City|id:160900|3490|2220"
+   "Yerevan City|id:160900|3490|2220",
+   "Yerevan City|id:195078|3490|2790"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Վաֆլե գլանակներ կակաոյի և գետնանուշի կրեմով «Caprice» 115գ",
-    "old": 1280,
-    "new": 1050,
-    "pct": 18,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/vafli_vafelnyy_tort/796340/",
-    "key": "SAS|id:796340|1280|1050"
-   },
    {
     "store": "SAS",
     "title": "Լվացքի կոնդիցիոներ «Vernel Sensitive» 960մլ",
@@ -5509,12 +5499,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1158528.png",
     "url": "https://yerevan-city.am/shop/product-details/160900",
     "key": "Yerevan City|id:160900|3490|2220"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Վարսահարդարման հավաքածու ԻքսՎ155-30",
+    "old": 3490,
+    "new": 2790,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178881.png",
+    "url": "https://yerevan-city.am/shop/product-details/195078",
+    "key": "Yerevan City|id:195078|3490|2790"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-26T23:16:56.885213+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-26T23:32:04.159620+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
