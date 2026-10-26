@@ -608,7 +608,8 @@
    "SAS|id:63431|570|490",
    "SAS|id:63496|970|850",
    "SAS|id:611377|1520|750",
-   "SAS|id:830888|11500|10600"
+   "SAS|id:830888|11500|10600",
+   "SAS|id:426577|960|650"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3300,6 +3301,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/239/818/8185241147161322.webp",
     "url": "https://www.sas.am/catalog/armyanskiy_konyak/830888/",
     "key": "SAS|id:830888|11500|10600"
+   },
+   {
+    "store": "SAS",
+    "title": "Թեյ սև «Curtis Very Berry» 20*1.7գ",
+    "old": 960,
+    "new": 650,
+    "pct": 32,
+    "until": "28.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/289/408/4089603785958678.webp",
+    "url": "https://www.sas.am/catalog/v_paketakh/426577/",
+    "key": "SAS|id:426577|960|650"
    }
   ],
   "Yerevan City": [
