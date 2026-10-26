@@ -616,7 +616,8 @@
    "SAS|id:421106|890|770",
    "SAS|id:320881|3050|2290",
    "SAS|id:228810|120|100",
-   "SAS|id:135661|690|630"
+   "SAS|id:135661|690|630",
+   "SAS|id:838086|8200|4100"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3316,20 +3317,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/importnoe_pivo/135661/",
     "key": "SAS|id:135661|690|630"
+   },
+   {
+    "store": "SAS",
+    "title": "Բարձրախոս անլար «Borofone BR4»",
+    "old": 8200,
+    "new": 4100,
+    "pct": 50,
+    "until": "31.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/838086/",
+    "key": "SAS|id:838086|8200|4100"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Փափուկ խաղալիք «Շուն» վերնազգեստով 50սմ",
-    "old": 4990,
-    "new": 2495,
-    "pct": 50,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173486.png",
-    "url": "https://yerevan-city.am/shop/product-details/179767",
-    "key": "Yerevan City|id:179767|4990|2495"
-   },
    {
     "store": "Yerevan City",
     "title": "Չխկչխկան խաղալիքներ մահճակալի համար",
@@ -5522,8 +5523,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-27T02:02:12.282140+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-27T02:16:53.156176+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
