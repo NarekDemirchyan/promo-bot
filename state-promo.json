@@ -606,7 +606,8 @@
    "SAS|id:83076|22300|18990",
    "SAS|id:83078|4890|4150",
    "SAS|id:63431|570|490",
-   "SAS|id:63496|970|850"
+   "SAS|id:63496|970|850",
+   "SAS|id:611377|1520|750"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3296,20 +3297,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/ketchup_tomatnyy_sous/63496/",
     "key": "SAS|id:63496|970|850"
+   },
+   {
+    "store": "SAS",
+    "title": "Իշխան ապխտած «Ֆիշկո» 200գ",
+    "old": 1520,
+    "new": 750,
+    "pct": 51,
+    "until": "13.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/kopcheniya_slabosolenaya/611377/",
+    "key": "SAS|id:611377|1520|750"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Չամիչ սև խոշոր կգ",
-    "old": 4990,
-    "new": 990,
-    "pct": 80,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1088457.png",
-    "url": "https://yerevan-city.am/shop/product-details/8547",
-    "key": "Yerevan City|id:8547|4990|990"
-   },
    {
     "store": "Yerevan City",
     "title": "Կաթսա «Դեննի Հոմ» ներժ 18սմ ԴՀ12-18 (ինդ)",
@@ -5502,8 +5503,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-26T19:46:59.380662+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-26T20:03:31.244729+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
