@@ -583,7 +583,8 @@
    "SAS|id:3759|960|870",
    "SAS|id:839421|2500|1250",
    "SAS|id:839420|2500|1250",
-   "SAS|id:59274|720|650"
+   "SAS|id:59274|720|650",
+   "SAS|id:838972|3100|1550"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3250,6 +3251,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/yogurt_puding/59274/",
     "key": "SAS|id:59274|720|650"
+   },
+   {
+    "store": "SAS",
+    "title": "USB լար «Celebrat HB-04 2.4A Type-C»",
+    "old": 3100,
+    "new": 1550,
+    "pct": 50,
+    "until": "31.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/378/916/9166702005890077.webp",
+    "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/838972/",
+    "key": "SAS|id:838972|3100|1550"
    }
   ],
   "Yerevan City": [
