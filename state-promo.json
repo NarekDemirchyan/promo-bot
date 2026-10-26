@@ -3319,17 +3319,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Թավա ա/կ գրանիտ 26սմ",
-    "old": 4990,
-    "new": 2990,
-    "pct": 40,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169595.png",
-    "url": "https://yerevan-city.am/shop/product-details/175987",
-    "key": "Yerevan City|id:175987|4990|2990"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Ավտոմեքենա ճան.նշաններով, քանդվող 2հտ",
     "old": 4990,
     "new": 2990,
@@ -5520,8 +5509,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-26T21:35:17.906031+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-26T22:02:32.881078+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
