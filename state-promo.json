@@ -609,7 +609,8 @@
    "SAS|id:63496|970|850",
    "SAS|id:611377|1520|750",
    "SAS|id:830888|11500|10600",
-   "SAS|id:426577|960|650"
+   "SAS|id:426577|960|650",
+   "SAS|id:95741|880|730"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3302,6 +3303,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/289/408/4089603785958678.webp",
     "url": "https://www.sas.am/catalog/v_paketakh/426577/",
     "key": "SAS|id:426577|960|650"
+   },
+   {
+    "store": "SAS",
+    "title": "Սպագետտի «Barilla №1 Capellini» 500գ",
+    "old": 880,
+    "new": 730,
+    "pct": 17,
+    "until": "10.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/spagetti_kapelini/95741/",
+    "key": "SAS|id:95741|880|730"
    }
   ],
   "Yerevan City": [
