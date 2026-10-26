@@ -587,7 +587,8 @@
    "SAS|id:838972|3100|1550",
    "SAS|id:838948|2500|1250",
    "SAS|id:838947|1250|620",
-   "SAS|id:838935|2500|1250"
+   "SAS|id:838935|2500|1250",
+   "SAS|id:838906|2500|1250"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3258,6 +3259,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/838935/",
     "key": "SAS|id:838935|2500|1250"
+   },
+   {
+    "store": "SAS",
+    "title": "Լար «Borofone BL-20 3.5մմ»",
+    "old": 2500,
+    "new": 1250,
+    "pct": 50,
+    "until": "31.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/277/259/2599714020398814.webp",
+    "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/838906/",
+    "key": "SAS|id:838906|2500|1250"
    }
   ],
   "Yerevan City": [
