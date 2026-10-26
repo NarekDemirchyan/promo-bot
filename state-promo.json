@@ -1122,7 +1122,8 @@
    "Yerevan City|id:195078|3490|2790",
    "Yerevan City|id:169356|3490|2150",
    "Yerevan City|id:173019|3490|1745",
-   "Yerevan City|id:176057|3490|2090"
+   "Yerevan City|id:176057|3490|2090",
+   "Yerevan City|id:194135|3490|2790"
   ]
  },
  "queues": {
@@ -5517,6 +5518,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169684.png",
     "url": "https://yerevan-city.am/shop/product-details/176057",
     "key": "Yerevan City|id:176057|3490|2090"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Խոհանոցային հավաքածու ՀՅ23-2",
+    "old": 3490,
+    "new": 2790,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177906.png",
+    "url": "https://yerevan-city.am/shop/product-details/194135",
+    "key": "Yerevan City|id:194135|3490|2790"
    }
   ]
  },
