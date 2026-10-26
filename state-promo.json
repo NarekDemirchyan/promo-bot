@@ -1074,22 +1074,12 @@
    "Yerevan City|id:4851|3560|3210",
    "Yerevan City|id:33046|3560|2890",
    "Yerevan City|id:158892|3550|2820",
-   "Yerevan City|id:158903|3550|2820"
+   "Yerevan City|id:158903|3550|2820",
+   "Yerevan City|id:2924|3540|3090"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Էլեկտրական մարտկոց «Energizer max plus AAA» 4հատ",
-    "old": 2270,
-    "new": 1360,
-    "pct": 40,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/316/919/919022236892614.webp",
-    "url": "https://www.sas.am/catalog/batareyka/20207/",
-    "key": "SAS|id:20207|2270|1360"
-   },
    {
     "store": "SAS",
     "title": "Հանքային ջուր «Borjomi» 0.5լ",
@@ -5469,12 +5459,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156546.png",
     "url": "https://yerevan-city.am/shop/product-details/158903",
     "key": "Yerevan City|id:158903|3550|2820"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Պանիր չանախ «Վանաձոր» (վակուում) կգ",
+    "old": 3540,
+    "new": 3090,
+    "pct": 13,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1054743.png",
+    "url": "https://yerevan-city.am/shop/product-details/2924",
+    "key": "Yerevan City|id:2924|3540|3090"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-26T11:16:58.369160+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-26T11:32:04.898692+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
