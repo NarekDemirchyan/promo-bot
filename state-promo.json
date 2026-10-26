@@ -1066,22 +1066,12 @@
    "Yerevan City|id:168032|3590|2150",
    "Yerevan City|id:173726|3590|1795",
    "Yerevan City|id:169531|3590|2820",
-   "Yerevan City|id:4755|3560|3210"
+   "Yerevan City|id:4755|3560|3210",
+   "Yerevan City|id:4851|3560|3210"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Գինի սպիտակ «Կարաս» 0.75լ",
-    "old": 6330,
-    "new": 5790,
-    "pct": 9,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/313/537/5374472220681522.webp",
-    "url": "https://www.sas.am/catalog/armyanskoe_vino/607570/",
-    "key": "SAS|id:607570|6330|5790"
-   },
    {
     "store": "SAS",
     "title": "Մակարոն «Barilla Farfalle № 65» 500գ",
@@ -5461,12 +5451,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1022799.png",
     "url": "https://yerevan-city.am/shop/product-details/4755",
     "key": "Yerevan City|id:4755|3560|3210"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շամպուն «Հեդ ընդ Շոլդերս» հիմնական խնամք 2-1 600մ",
+    "old": 3560,
+    "new": 3210,
+    "pct": 10,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1022630.png",
+    "url": "https://yerevan-city.am/shop/product-details/4851",
+    "key": "Yerevan City|id:4851|3560|3210"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-26T08:46:59.983452+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-26T09:02:12.879941+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
