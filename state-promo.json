@@ -1062,22 +1062,12 @@
    "Yerevan City|id:17932|3590|2880",
    "Yerevan City|id:157948|3590|2300",
    "Yerevan City|id:168032|3590|2150",
-   "Yerevan City|id:173726|3590|1795"
+   "Yerevan City|id:173726|3590|1795",
+   "Yerevan City|id:169531|3590|2820"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սպասք լվացող մեքենայի կոնդիցիոներ «Finish Powerball» 750մլ",
-    "old": 2890,
-    "new": 2620,
-    "pct": 9,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/237/090/090394224658461.webp",
-    "url": "https://www.sas.am/catalog/dishwasherdetergent/804472/",
-    "key": "SAS|id:804472|2890|2620"
-   },
    {
     "store": "SAS",
     "title": "Գինի կարմիր «Շունչ Արենի» 0.75լ",
@@ -5457,12 +5447,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1167323.png",
     "url": "https://yerevan-city.am/shop/product-details/173726",
     "key": "Yerevan City|id:173726|3590|1795"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շոկ.կոնֆետներ «Գրանդ Քենդի» Արևելյան, կաթ.շոկ. կգ",
+    "old": 3590,
+    "new": 2820,
+    "pct": 21,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1163369.png",
+    "url": "https://yerevan-city.am/shop/product-details/169531",
+    "key": "Yerevan City|id:169531|3590|2820"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-26T07:32:08.862511+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-26T07:46:56.368255+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
