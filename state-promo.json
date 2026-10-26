@@ -1108,22 +1108,12 @@
    "Yerevan City|id:171048|3500|3100",
    "Yerevan City|id:195127|3490|2790",
    "Yerevan City|id:180815|3490|990",
-   "Yerevan City|id:193992|3490|2090"
+   "Yerevan City|id:193992|3490|2090",
+   "Yerevan City|id:160896|3490|2220"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շոկոլադե ձվիկ «Kinder Surprise» 20գ",
-    "old": 680,
-    "new": 590,
-    "pct": 13,
-    "until": "13.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/195/162/1620213576355956.webp",
-    "url": "https://www.sas.am/catalog/konfety_v_upakovke/209452/",
-    "key": "SAS|id:209452|680|590"
-   },
    {
     "store": "SAS",
     "title": "Պանիր հալած մաազդամ «President» 150գ",
@@ -5503,12 +5493,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177753.png",
     "url": "https://yerevan-city.am/shop/product-details/193992",
     "key": "Yerevan City|id:193992|3490|2090"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մազերի լաք «Պանտին Պրո-Վ» ուլտ.ուժ. պահ.#5 250մլ",
+    "old": 3490,
+    "new": 2220,
+    "pct": 36,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1158524.png",
+    "url": "https://yerevan-city.am/shop/product-details/160896",
+    "key": "Yerevan City|id:160896|3490|2220"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-26T21:17:03.133351+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-26T21:35:17.906031+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
