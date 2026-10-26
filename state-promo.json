@@ -1088,17 +1088,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Կարագ սերուցքային «Valio» 500գ, յուղայնությունը` 82",
-    "old": 3790,
-    "new": 3390,
-    "pct": 11,
-    "until": "28.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/344/540/540301707198823.webp",
-    "url": "https://www.sas.am/catalog/slivochnoe_maslo/3384/",
-    "key": "SAS|id:3384|3790|3390"
-   },
-   {
-    "store": "SAS",
     "title": "Թխվածքաբլիթ շոկոլադով «Jeden Tag» 250գ",
     "old": 1120,
     "new": 690,
@@ -5491,8 +5480,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-26T13:02:57.959280+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-26T13:31:24.004328+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
