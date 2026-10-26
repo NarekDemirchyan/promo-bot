@@ -1088,22 +1088,12 @@
    "Yerevan City|id:171132|3540|1770",
    "Yerevan City|id:171133|3540|1770",
    "Yerevan City|id:171138|3540|1770",
-   "Yerevan City|id:171134|3540|1770"
+   "Yerevan City|id:171134|3540|1770",
+   "Yerevan City|id:171136|3540|1770"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Թղթե սրբիչ «Պամա» 2 հատ",
-    "old": 1150,
-    "new": 990,
-    "pct": 14,
-    "until": "10.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/588/701/701291414554335.webp",
-    "url": "https://www.sas.am/catalog/bum_polotentsa/573913/",
-    "key": "SAS|id:573913|1150|990"
-   },
    {
     "store": "SAS",
     "title": "Պատրաստի նախաճաշ «Nestle Nesquik» 225գ",
@@ -5483,12 +5473,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1164786.png",
     "url": "https://yerevan-city.am/shop/product-details/171134",
     "key": "Yerevan City|id:171134|3540|1770"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Բալզամ-ող. «Հ.էսսենսիզ» արգ.յուղ, խորը վեր.250մլ",
+    "old": 3540,
+    "new": 1770,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1164788.png",
+    "url": "https://yerevan-city.am/shop/product-details/171136",
+    "key": "Yerevan City|id:171136|3540|1770"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-26T15:31:25.259533+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-26T15:46:11.762953+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
