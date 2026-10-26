@@ -603,7 +603,8 @@
    "SAS|id:133600|1670|1450",
    "SAS|id:83571|8650|7690",
    "SAS|id:83085|11950|10450",
-   "SAS|id:83076|22300|18990"
+   "SAS|id:83076|22300|18990",
+   "SAS|id:83078|4890|4150"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3290,6 +3291,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/315/039/0391133354615663.webp",
     "url": "https://www.sas.am/catalog/molotyy/83076/",
     "key": "SAS|id:83076|22300|18990"
+   },
+   {
+    "store": "SAS",
+    "title": "Սուրճ էսպրեսսո աղացած «Lavazza Crema e Gusto» 250գ",
+    "old": 4890,
+    "new": 4150,
+    "pct": 15,
+    "until": "13.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/228/164/1644161219734223.webp",
+    "url": "https://www.sas.am/catalog/molotyy/83078/",
+    "key": "SAS|id:83078|4890|4150"
    }
   ],
   "Yerevan City": [
