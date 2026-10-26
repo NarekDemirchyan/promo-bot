@@ -617,7 +617,8 @@
    "SAS|id:320881|3050|2290",
    "SAS|id:228810|120|100",
    "SAS|id:135661|690|630",
-   "SAS|id:838086|8200|4100"
+   "SAS|id:838086|8200|4100",
+   "SAS|id:20205|2270|1360"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3318,6 +3319,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/838086/",
     "key": "SAS|id:838086|8200|4100"
+   },
+   {
+    "store": "SAS",
+    "title": "Էլեկտրական մարտկոց «Energizer max plus AA LR6» 4հատ",
+    "old": 2270,
+    "new": 1360,
+    "pct": 40,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/267/599/5997233443457849.webp",
+    "url": "https://www.sas.am/catalog/batareyka/20205/",
+    "key": "SAS|id:20205|2270|1360"
    }
   ],
   "Yerevan City": [
