@@ -1102,22 +1102,12 @@
    "Yerevan City|id:23699|3530|1765",
    "Yerevan City|id:4460|3510|2960",
    "Yerevan City|id:4458|3510|2960",
-   "Yerevan City|id:171048|3500|3100"
+   "Yerevan City|id:171048|3500|3100",
+   "Yerevan City|id:195127|3490|2790"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Թեյ սև «Richard Royal Classics Lord Grey» 25*2գ",
-    "old": 960,
-    "new": 740,
-    "pct": 23,
-    "until": "28.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/v_paketakh/197861/",
-    "key": "SAS|id:197861|960|740"
-   },
    {
     "store": "SAS",
     "title": "Զուգարանի թուղթ «Zewa Deluxe Peach» 4 հատ",
@@ -5497,12 +5487,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1164715.png",
     "url": "https://yerevan-city.am/shop/product-details/171048",
     "key": "Yerevan City|id:171048|3500|3100"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սեղանի խաղ «Փրկեք պինգվինին» 707-19",
+    "old": 3490,
+    "new": 2790,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178931.png",
+    "url": "https://yerevan-city.am/shop/product-details/195127",
+    "key": "Yerevan City|id:195127|3490|2790"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-26T19:32:08.335260+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-26T19:46:59.380662+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
