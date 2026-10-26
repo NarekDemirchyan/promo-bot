@@ -3279,17 +3279,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Հյութի բաժակ «Ռակլե» Ավան. գոլդ 540մլ 4հտ ԱՎԳ520",
-    "old": 5190,
-    "new": 3650,
-    "pct": 30,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176364.png",
-    "url": "https://yerevan-city.am/shop/product-details/192632",
-    "key": "Yerevan City|id:192632|5190|3650"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Մանկ.տակդիր-վարտիք «Լիբերո» Ափ ընդ Գո 5 10-14կգ20հ",
     "old": 5190,
     "new": 4620,
@@ -5480,8 +5469,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-26T09:34:36.983925+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-26T10:02:13.941814+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
