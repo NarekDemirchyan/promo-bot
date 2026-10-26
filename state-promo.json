@@ -584,7 +584,8 @@
    "SAS|id:839421|2500|1250",
    "SAS|id:839420|2500|1250",
    "SAS|id:59274|720|650",
-   "SAS|id:838972|3100|1550"
+   "SAS|id:838972|3100|1550",
+   "SAS|id:838948|2500|1250"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -1059,22 +1060,12 @@
    "Yerevan City|id:179442|3590|1795",
    "Yerevan City|id:17932|3590|2880",
    "Yerevan City|id:157948|3590|2300",
-   "Yerevan City|id:168032|3590|2150"
+   "Yerevan City|id:168032|3590|2150",
+   "Yerevan City|id:173726|3590|1795"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Աղբի տոպրակներ «Gosia Clean Worki Mocne» 35լ",
-    "old": 920,
-    "new": 790,
-    "pct": 14,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/pakety_dlya_musora/99598/",
-    "key": "SAS|id:99598|920|790"
-   },
    {
     "store": "SAS",
     "title": "Սպասք լվացող մեքենայի կոնդիցիոներ «Finish Powerball» 750մլ",
@@ -3252,6 +3243,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/378/916/9166702005890077.webp",
     "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/838972/",
     "key": "SAS|id:838972|3100|1550"
+   },
+   {
+    "store": "SAS",
+    "title": "Լար «Borofone BL-20»",
+    "old": 2500,
+    "new": 1250,
+    "pct": 50,
+    "until": "31.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/838948/",
+    "key": "SAS|id:838948|2500|1250"
    }
   ],
   "Yerevan City": [
@@ -5443,12 +5445,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1163047.png",
     "url": "https://yerevan-city.am/shop/product-details/168032",
     "key": "Yerevan City|id:168032|3590|2150"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Խոհանոցային կշեռք «Դ.Հոմ» բամբուկ 5կգ ՍՍ065",
+    "old": 3590,
+    "new": 1795,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1167323.png",
+    "url": "https://yerevan-city.am/shop/product-details/173726",
+    "key": "Yerevan City|id:173726|3590|1795"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-26T06:47:01.531173+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-26T07:04:18.498581+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
