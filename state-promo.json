@@ -599,7 +599,8 @@
    "SAS|id:203063|1730|1530",
    "SAS|id:103733|980|880",
    "SAS|id:192434|1850|1490",
-   "SAS|id:190983|5850|5250"
+   "SAS|id:190983|5850|5250",
+   "SAS|id:133600|1670|1450"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3282,20 +3283,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/154/123/1235571701911503.webp",
     "url": "https://www.sas.am/catalog/podguzniki/190983/",
     "key": "SAS|id:190983|5850|5250"
+   },
+   {
+    "store": "SAS",
+    "title": "Թխվածքաբլիթ շոկոլադե միջուկով «Gullon Duo Double Temptation Mega» 500գ",
+    "old": 1670,
+    "new": 1450,
+    "pct": 13,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/264/226/2261923079478285.webp",
+    "url": "https://www.sas.am/catalog/pechene_pryaniki/133600/",
+    "key": "SAS|id:133600|1670|1450"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Գինի «Անսելման» Ռիսլինգ, սպիտակ չոր 0.75լ",
-    "old": 4990,
-    "new": 4350,
-    "pct": 13,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1165333.png",
-    "url": "https://yerevan-city.am/shop/product-details/171777",
-    "key": "Yerevan City|id:171777|4990|4350"
-   },
    {
     "store": "Yerevan City",
     "title": "Մաքրության հավաքածու 388-8",
@@ -5488,8 +5489,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-26T15:46:11.762953+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-26T16:01:33.420167+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
