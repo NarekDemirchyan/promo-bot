@@ -594,7 +594,8 @@
    "SAS|id:838087|8700|4350",
    "SAS|id:737197|920|790",
    "SAS|id:203076|1730|1530",
-   "SAS|id:295586|1350|950"
+   "SAS|id:295586|1350|950",
+   "SAS|id:294217|8990|7990"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3272,20 +3273,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/dlya_intimnoy_gigieny2/295586/",
     "key": "SAS|id:295586|1350|950"
+   },
+   {
+    "store": "SAS",
+    "title": "Լիկյոր ծիրանի «Ակում» 0.5լ",
+    "old": 8990,
+    "new": 7990,
+    "pct": 11,
+    "until": "13.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/liker/294217/",
+    "key": "SAS|id:294217|8990|7990"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Սուրճ հատիկավոր «Էգոիստ» էսպրեսսո 250գր",
-    "old": 5170,
-    "new": 4230,
-    "pct": 18,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1085000.png",
-    "url": "https://yerevan-city.am/shop/product-details/8706",
-    "key": "Yerevan City|id:8706|5170|4230"
-   },
    {
     "store": "Yerevan City",
     "title": "Սուրճ հատիկավոր «Էգոիստ» 250գր",
@@ -5478,8 +5479,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-26T12:47:01.094256+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-26T13:02:57.959280+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
