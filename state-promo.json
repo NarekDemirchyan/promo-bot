@@ -581,7 +581,8 @@
    "SAS|id:206202|5590|3790",
    "SAS|id:125606|960|870",
    "SAS|id:3759|960|870",
-   "SAS|id:839421|2500|1250"
+   "SAS|id:839421|2500|1250",
+   "SAS|id:839420|2500|1250"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3246,6 +3247,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/110/368/368633726447761.webp",
     "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/839421/",
     "key": "SAS|id:839421|2500|1250"
+   },
+   {
+    "store": "SAS",
+    "title": "Ականջակալներ «Hoco M40»",
+    "old": 2500,
+    "new": 1250,
+    "pct": 50,
+    "until": "31.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/839420/",
+    "key": "SAS|id:839420|2500|1250"
    }
   ],
   "Yerevan City": [
