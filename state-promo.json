@@ -1080,7 +1080,8 @@
    "Yerevan City|id:158903|3550|2820",
    "Yerevan City|id:2924|3540|3090",
    "Yerevan City|id:171141|3540|1770",
-   "Yerevan City|id:171140|3540|1770"
+   "Yerevan City|id:171140|3540|1770",
+   "Yerevan City|id:171132|3540|1770"
   ]
  },
  "queues": {
@@ -5475,6 +5476,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1164792.png",
     "url": "https://yerevan-city.am/shop/product-details/171140",
     "key": "Yerevan City|id:171140|3540|1770"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Բալզամ-ող. «Հ.էսսենսիզ» կոկոս, խորը սնուցում 250մլ",
+    "old": 3540,
+    "new": 1770,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1164784.png",
+    "url": "https://yerevan-city.am/shop/product-details/171132",
+    "key": "Yerevan City|id:171132|3540|1770"
    }
   ]
  },
