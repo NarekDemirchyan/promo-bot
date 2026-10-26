@@ -585,7 +585,8 @@
    "SAS|id:839420|2500|1250",
    "SAS|id:59274|720|650",
    "SAS|id:838972|3100|1550",
-   "SAS|id:838948|2500|1250"
+   "SAS|id:838948|2500|1250",
+   "SAS|id:838947|1250|620"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3254,6 +3255,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/838948/",
     "key": "SAS|id:838948|2500|1250"
+   },
+   {
+    "store": "SAS",
+    "title": "Լար «Borofone BL-10 AUX AUDIO»",
+    "old": 1250,
+    "new": 620,
+    "pct": 50,
+    "until": "31.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/838947/",
+    "key": "SAS|id:838947|1250|620"
    }
   ],
   "Yerevan City": [
