@@ -593,7 +593,8 @@
    "SAS|id:838889|3100|1550",
    "SAS|id:838087|8700|4350",
    "SAS|id:737197|920|790",
-   "SAS|id:203076|1730|1530"
+   "SAS|id:203076|1730|1530",
+   "SAS|id:295586|1350|950"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3270,6 +3271,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/157/594/5946201950803578.webp",
     "url": "https://www.sas.am/catalog/dlya_volos2/203076/",
     "key": "SAS|id:203076|1730|1530"
+   },
+   {
+    "store": "SAS",
+    "title": "Ամենօրյա միջադիրներ «Libresse Thin Extra Long» 24հատ",
+    "old": 1350,
+    "new": 950,
+    "pct": 30,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/dlya_intimnoy_gigieny2/295586/",
+    "key": "SAS|id:295586|1350|950"
    }
   ],
   "Yerevan City": [
