@@ -602,7 +602,8 @@
    "SAS|id:190983|5850|5250",
    "SAS|id:133600|1670|1450",
    "SAS|id:83571|8650|7690",
-   "SAS|id:83085|11950|10450"
+   "SAS|id:83085|11950|10450",
+   "SAS|id:83076|22300|18990"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3288,20 +3289,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/molotyy/83085/",
     "key": "SAS|id:83085|11950|10450"
+   },
+   {
+    "store": "SAS",
+    "title": "Սուրճ էսպրեսսո հատիկավոր «Lavazza Crema e Aroma» 1կգ",
+    "old": 22300,
+    "new": 18990,
+    "pct": 15,
+    "until": "13.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/315/039/0391133354615663.webp",
+    "url": "https://www.sas.am/catalog/molotyy/83076/",
+    "key": "SAS|id:83076|22300|18990"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Խաղալիք «Ականջակալ» ՎԻԲ23Մ-Ֆ",
-    "old": 4990,
-    "new": 3990,
-    "pct": 20,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178865.png",
-    "url": "https://yerevan-city.am/shop/product-details/195065",
-    "key": "Yerevan City|id:195065|4990|3990"
-   },
    {
     "store": "Yerevan City",
     "title": "Էլ.թեյնիկ «Սոնիֆեր» ապակյա 1.8լ 1500Վտ",
@@ -5494,8 +5495,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-26T17:16:58.335816+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-26T17:32:16.588129+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
