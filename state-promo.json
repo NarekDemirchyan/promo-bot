@@ -1116,22 +1116,12 @@
    "Yerevan City|id:160896|3490|2220",
    "Yerevan City|id:160898|3490|2220",
    "Yerevan City|id:160900|3490|2220",
-   "Yerevan City|id:195078|3490|2790"
+   "Yerevan City|id:195078|3490|2790",
+   "Yerevan City|id:169356|3490|2150"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Լվացքի կոնդիցիոներ «Vernel Sensitive» 960մլ",
-    "old": 2250,
-    "new": 2050,
-    "pct": 9,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/opolaskivatel_konditsioner_kontsentrat/541560/",
-    "key": "SAS|id:541560|2250|2050"
-   },
    {
     "store": "SAS",
     "title": "Զուգարանակոնքի մաքրող միջոց «Bref» 100գ",
@@ -5511,12 +5501,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178881.png",
     "url": "https://yerevan-city.am/shop/product-details/195078",
     "key": "Yerevan City|id:195078|3490|2790"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թավա ա/կ «Դեննի Հոմ» 24սմ ԴՀՊ01-24",
+    "old": 3490,
+    "new": 2150,
+    "pct": 38,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1163231.png",
+    "url": "https://yerevan-city.am/shop/product-details/169356",
+    "key": "Yerevan City|id:169356|3490|2150"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-26T23:46:55.429676+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-27T00:04:18.782007+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
