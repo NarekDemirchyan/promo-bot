@@ -611,7 +611,8 @@
    "SAS|id:830888|11500|10600",
    "SAS|id:426577|960|650",
    "SAS|id:95741|880|730",
-   "SAS|id:63477|970|850"
+   "SAS|id:63477|970|850",
+   "SAS|id:27187|670|580"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3306,6 +3307,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/ketchup_tomatnyy_sous/63477/",
     "key": "SAS|id:63477|970|850"
+   },
+   {
+    "store": "SAS",
+    "title": "Բամբակյա բարձիկներ «Novita Delicate» 120 հատ",
+    "old": 670,
+    "new": 580,
+    "pct": 13,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/142/372/3725661013330214.webp",
+    "url": "https://www.sas.am/catalog/vatnye_izdeliya2/27187/",
+    "key": "SAS|id:27187|670|580"
    }
   ],
   "Yerevan City": [
