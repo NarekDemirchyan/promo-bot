@@ -3283,17 +3283,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Մանկ.տակդիր-վարտիք «Լիբերո» Ափ ընդ Գո 7 16-26կգ16հ",
-    "old": 5190,
-    "new": 4620,
-    "pct": 11,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1102262.png",
-    "url": "https://yerevan-city.am/shop/product-details/18969",
-    "key": "Yerevan City|id:18969|5190|4620"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Մանկ.տակդիր-վարտիք «Լիբերո» Ափ ընդ Գո 6 13-20կգ18հ",
     "old": 5190,
     "new": 4620,
@@ -5484,8 +5473,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-26T10:49:27.818072+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-26T11:16:58.369160+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
