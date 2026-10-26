@@ -1084,7 +1084,8 @@
    "Yerevan City|id:171141|3540|1770",
    "Yerevan City|id:171140|3540|1770",
    "Yerevan City|id:171132|3540|1770",
-   "Yerevan City|id:171133|3540|1770"
+   "Yerevan City|id:171133|3540|1770",
+   "Yerevan City|id:171138|3540|1770"
   ]
  },
  "queues": {
@@ -5479,6 +5480,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1164785.png",
     "url": "https://yerevan-city.am/shop/product-details/171133",
     "key": "Yerevan City|id:171133|3540|1770"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շամպուն «Հ.էսսենսիզ» վարդ, հարթ-մետաքսյա 350մլ",
+    "old": 3540,
+    "new": 1770,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1164790.png",
+    "url": "https://yerevan-city.am/shop/product-details/171138",
+    "key": "Yerevan City|id:171138|3540|1770"
    }
   ]
  },
