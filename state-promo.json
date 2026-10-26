@@ -601,7 +601,8 @@
    "SAS|id:192434|1850|1490",
    "SAS|id:190983|5850|5250",
    "SAS|id:133600|1670|1450",
-   "SAS|id:83571|8650|7690"
+   "SAS|id:83571|8650|7690",
+   "SAS|id:83085|11950|10450"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3286,6 +3287,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/rastvorimyy_kofe/83571/",
     "key": "SAS|id:83571|8650|7690"
+   },
+   {
+    "store": "SAS",
+    "title": "Սուրճ հատիկավոր «Lavazza Qualita Oro» 500գ",
+    "old": 11950,
+    "new": 10450,
+    "pct": 13,
+    "until": "13.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/molotyy/83085/",
+    "key": "SAS|id:83085|11950|10450"
    }
   ],
   "Yerevan City": [
