@@ -1106,22 +1106,12 @@
    "Yerevan City|id:4458|3510|2960",
    "Yerevan City|id:171048|3500|3100",
    "Yerevan City|id:195127|3490|2790",
-   "Yerevan City|id:180815|3490|990"
+   "Yerevan City|id:180815|3490|990",
+   "Yerevan City|id:193992|3490|2090"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Զուգարանի թուղթ «Zewa Exclusive Ultra Soft» 4 հատ",
-    "old": 1520,
-    "new": 1320,
-    "pct": 13,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/tualetnaya_bumaga/421105/",
-    "key": "SAS|id:421105|1520|1320"
-   },
    {
     "store": "SAS",
     "title": "Շոկոլադե ձվիկ «Kinder Surprise» 20գ",
@@ -5501,12 +5491,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174549.png",
     "url": "https://yerevan-city.am/shop/product-details/180815",
     "key": "Yerevan City|id:180815|3490|990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շախմատ",
+    "old": 3490,
+    "new": 2090,
+    "pct": 40,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177753.png",
+    "url": "https://yerevan-city.am/shop/product-details/193992",
+    "key": "Yerevan City|id:193992|3490|2090"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-26T20:46:59.780833+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-26T21:02:22.456081+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
