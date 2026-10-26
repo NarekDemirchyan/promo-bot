@@ -1070,22 +1070,12 @@
    "Yerevan City|id:169531|3590|2820",
    "Yerevan City|id:4755|3560|3210",
    "Yerevan City|id:4851|3560|3210",
-   "Yerevan City|id:33046|3560|2890"
+   "Yerevan City|id:33046|3560|2890",
+   "Yerevan City|id:158892|3550|2820"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սուրճ էսպրեսսո աղացած «Lavazza Qualità Rossa» 250գ",
-    "old": 5750,
-    "new": 4950,
-    "pct": 14,
-    "until": "13.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/molotyy/83087/",
-    "key": "SAS|id:83087|5750|4950"
-   },
    {
     "store": "SAS",
     "title": "Սպունգ սպասք լվանալու «Vileda» 3հատ",
@@ -5465,12 +5455,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1101123.png",
     "url": "https://yerevan-city.am/shop/product-details/33046",
     "key": "Yerevan City|id:33046|3560|2890"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Լվացվելու գել «Լիրեն» չիա-գոջի, մաքրող 190մլ",
+    "old": 3550,
+    "new": 2820,
+    "pct": 21,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156535.png",
+    "url": "https://yerevan-city.am/shop/product-details/158892",
+    "key": "Yerevan City|id:158892|3550|2820"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-26T10:02:13.941814+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-26T10:16:59.314647+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
