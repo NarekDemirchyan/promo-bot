@@ -1096,22 +1096,12 @@
    "Yerevan City|id:171136|3540|1770",
    "Yerevan City|id:171137|3540|1770",
    "Yerevan City|id:21265|3530|3120",
-   "Yerevan City|id:23699|3530|1765"
+   "Yerevan City|id:23699|3530|1765",
+   "Yerevan City|id:4460|3510|2960"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շոկոլադե սալիկ սպիտակ «Lindt Lindor» 100գ",
-    "old": 1840,
-    "new": 1230,
-    "pct": 33,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/plitka/626074/",
-    "key": "SAS|id:626074|1840|1230"
-   },
    {
     "store": "SAS",
     "title": "Սպագետտի «Barilla № 5» 500գ",
@@ -5491,12 +5481,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1103158.png",
     "url": "https://yerevan-city.am/shop/product-details/23699",
     "key": "Yerevan City|id:23699|3530|1765"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կոնֆետների հավաքածու «Մարկ Սևունի» Ավանգարդ 210գր",
+    "old": 3510,
+    "new": 2960,
+    "pct": 16,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1079703.png",
+    "url": "https://yerevan-city.am/shop/product-details/4460",
+    "key": "Yerevan City|id:4460|3510|2960"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-26T17:32:16.588129+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-26T17:49:25.122716+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
