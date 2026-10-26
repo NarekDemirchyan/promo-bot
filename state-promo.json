@@ -3275,17 +3275,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Ձիթապտղի ձեթ «Ամբրաոիլ» Էքստրա Վիրջին ա/տ 1լ",
-    "old": 5290,
-    "new": 4490,
-    "pct": 15,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173811.png",
-    "url": "https://yerevan-city.am/shop/product-details/180092",
-    "key": "Yerevan City|id:180092|5290|4490"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Քերիչ «Բրաբանտիա» 2107-020",
     "old": 5190,
     "new": 3590,
@@ -5476,8 +5465,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-26T08:19:27.707513+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-26T08:46:59.983452+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
