@@ -1056,22 +1056,12 @@
    "Yerevan City|id:62881|3590|3090",
    "Yerevan City|id:179443|3590|1795",
    "Yerevan City|id:179442|3590|1795",
-   "Yerevan City|id:17932|3590|2880"
+   "Yerevan City|id:17932|3590|2880",
+   "Yerevan City|id:157948|3590|2300"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Թղթե սրբիչ «Zewa Premium decor» 2 հատ",
-    "old": 1120,
-    "new": 950,
-    "pct": 15,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/207/591/5917033582748126.webp",
-    "url": "https://www.sas.am/catalog/bum_polotentsa/140564/",
-    "key": "SAS|id:140564|1120|950"
-   },
    {
     "store": "SAS",
     "title": "Թխվածքաբլիթ շոկոլադով «Leibniz Minis Choco» 100գ",
@@ -5451,12 +5441,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1087411.png",
     "url": "https://yerevan-city.am/shop/product-details/17932",
     "key": "Yerevan City|id:17932|3590|2880"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սափրող սարք+գլխիկ «Վ.Սվորդ» Էսենշլս 3 Հիբրիդ 4հտ",
+    "old": 3590,
+    "new": 2300,
+    "pct": 36,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1155615.png",
+    "url": "https://yerevan-city.am/shop/product-details/157948",
+    "key": "Yerevan City|id:157948|3590|2300"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-26T05:48:40.399684+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-26T06:03:05.151374+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
