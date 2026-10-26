@@ -1120,22 +1120,12 @@
    "Yerevan City|id:160900|3490|2220",
    "Yerevan City|id:195078|3490|2790",
    "Yerevan City|id:169356|3490|2150",
-   "Yerevan City|id:173019|3490|1745"
+   "Yerevan City|id:173019|3490|1745",
+   "Yerevan City|id:176057|3490|2090"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ամենօրյա միջադիրներ «Carefree Plus Large» 36 հատ",
-    "old": 2150,
-    "new": 2040,
-    "pct": 5,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/dlya_intimnoy_gigieny2/145095/",
-    "key": "SAS|id:145095|2150|2040"
-   },
    {
     "store": "SAS",
     "title": "Շոկոլադե-ընկուզային մածուկ «Nutella» 350գ",
@@ -5515,12 +5505,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1166601.png",
     "url": "https://yerevan-city.am/shop/product-details/173019",
     "key": "Yerevan City|id:173019|3490|1745"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Չխկչխկան խաղալիք «ՉիմՍթար» 2հտ 503-37",
+    "old": 3490,
+    "new": 2090,
+    "pct": 40,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169684.png",
+    "url": "https://yerevan-city.am/shop/product-details/176057",
+    "key": "Yerevan City|id:176057|3490|2090"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-27T01:01:38.236307+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-27T01:19:45.961003+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
