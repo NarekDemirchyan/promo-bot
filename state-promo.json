@@ -3259,17 +3259,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Գնդակներ պայուսակով 100հտ 60-100",
-    "old": 5490,
-    "new": 4390,
-    "pct": 20,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176950.png",
-    "url": "https://yerevan-city.am/shop/product-details/193199",
-    "key": "Yerevan City|id:193199|5490|4390"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Երաժշտական սինթեզատոր ԴՋ239",
     "old": 5490,
     "new": 4390,
@@ -5460,8 +5449,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-26T03:34:49.373066+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-26T04:02:19.384764+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
