@@ -591,7 +591,8 @@
    "SAS|id:838906|2500|1250",
    "SAS|id:838900|2300|1150",
    "SAS|id:838889|3100|1550",
-   "SAS|id:838087|8700|4350"
+   "SAS|id:838087|8700|4350",
+   "SAS|id:737197|920|790"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3266,6 +3267,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/838087/",
     "key": "SAS|id:838087|8700|4350"
+   },
+   {
+    "store": "SAS",
+    "title": "Ատամի խոզանակ «Das Experten Soft»",
+    "old": 920,
+    "new": 790,
+    "pct": 14,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/shchetka_zubnaya/737197/",
+    "key": "SAS|id:737197|920|790"
    }
   ],
   "Yerevan City": [
