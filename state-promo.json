@@ -613,7 +613,8 @@
    "SAS|id:95741|880|730",
    "SAS|id:63477|970|850",
    "SAS|id:27187|670|580",
-   "SAS|id:421106|890|770"
+   "SAS|id:421106|890|770",
+   "SAS|id:320881|3050|2290"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3310,6 +3311,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/tualetnaya_bumaga/421106/",
     "key": "SAS|id:421106|890|770"
+   },
+   {
+    "store": "SAS",
+    "title": "Սուրճ լուծվող «Jardin Gold» 95գ",
+    "old": 3050,
+    "new": 2290,
+    "pct": 25,
+    "until": "28.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/rastvorimyy_kofe/320881/",
+    "key": "SAS|id:320881|3050|2290"
    }
   ],
   "Yerevan City": [
