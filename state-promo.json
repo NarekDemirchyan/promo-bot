@@ -600,7 +600,8 @@
    "SAS|id:103733|980|880",
    "SAS|id:192434|1850|1490",
    "SAS|id:190983|5850|5250",
-   "SAS|id:133600|1670|1450"
+   "SAS|id:133600|1670|1450",
+   "SAS|id:83571|8650|7690"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -1091,22 +1092,12 @@
    "Yerevan City|id:171138|3540|1770",
    "Yerevan City|id:171134|3540|1770",
    "Yerevan City|id:171136|3540|1770",
-   "Yerevan City|id:171137|3540|1770"
+   "Yerevan City|id:171137|3540|1770",
+   "Yerevan City|id:21265|3530|3120"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Թխվածքաբլիթ պնդուկով «Bergen Original» 130գ",
-    "old": 1240,
-    "new": 970,
-    "pct": 22,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/229/337/3377681142210582.webp",
-    "url": "https://www.sas.am/catalog/pechene_pryaniki/822896/",
-    "key": "SAS|id:822896|1240|970"
-   },
    {
     "store": "SAS",
     "title": "Սպիտակուցային կոնֆետ «Reese's One» 60գ",
@@ -3284,6 +3275,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/264/226/2261923079478285.webp",
     "url": "https://www.sas.am/catalog/pechene_pryaniki/133600/",
     "key": "SAS|id:133600|1670|1450"
+   },
+   {
+    "store": "SAS",
+    "title": "Սուրճ լուծվող «Egoiste X.O Extra Original» 100գ",
+    "old": 8650,
+    "new": 7690,
+    "pct": 11,
+    "until": "28.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/rastvorimyy_kofe/83571/",
+    "key": "SAS|id:83571|8650|7690"
    }
   ],
   "Yerevan City": [
@@ -5475,12 +5477,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1164789.png",
     "url": "https://yerevan-city.am/shop/product-details/171137",
     "key": "Yerevan City|id:171137|3540|1770"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կարագ սերուցքային «Լուրպակ» 82% 400գր",
+    "old": 3530,
+    "new": 3120,
+    "pct": 12,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1039806.png",
+    "url": "https://yerevan-city.am/shop/product-details/21265",
+    "key": "Yerevan City|id:21265|3530|3120"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-26T16:16:17.933644+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-26T16:38:54.340138+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
