@@ -1068,22 +1068,12 @@
    "Yerevan City|id:173726|3590|1795",
    "Yerevan City|id:169531|3590|2820",
    "Yerevan City|id:4755|3560|3210",
-   "Yerevan City|id:4851|3560|3210"
+   "Yerevan City|id:4851|3560|3210",
+   "Yerevan City|id:33046|3560|2890"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Մակարոն «Barilla Farfalle № 65» 500գ",
-    "old": 880,
-    "new": 730,
-    "pct": 17,
-    "until": "10.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/makaronyy/95756/",
-    "key": "SAS|id:95756|880|730"
-   },
    {
     "store": "SAS",
     "title": "Սուրճ էսպրեսսո աղացած «Lavazza Qualità Rossa» 250գ",
@@ -5463,12 +5453,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1022630.png",
     "url": "https://yerevan-city.am/shop/product-details/4851",
     "key": "Yerevan City|id:4851|3560|3210"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սուրճ լուծվող «Յակոբս» Մոնարխ, զիպ 150գր",
+    "old": 3560,
+    "new": 2890,
+    "pct": 19,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1101123.png",
+    "url": "https://yerevan-city.am/shop/product-details/33046",
+    "key": "Yerevan City|id:33046|3560|2890"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-26T09:16:55.958349+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-26T09:34:36.983925+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
