@@ -3331,17 +3331,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Կիվիի չիր կգ",
-    "old": 4990,
-    "new": 3990,
-    "pct": 20,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172015.png",
-    "url": "https://yerevan-city.am/shop/product-details/178323",
-    "key": "Yerevan City|id:178323|4990|3990"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Փափուկ խաղալիք «Շուն» վերնազգեստով 50սմ",
     "old": 4990,
     "new": 2495,
@@ -5532,8 +5521,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-27T01:19:45.961003+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-27T01:39:54.907831+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
