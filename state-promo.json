@@ -605,7 +605,8 @@
    "SAS|id:83085|11950|10450",
    "SAS|id:83076|22300|18990",
    "SAS|id:83078|4890|4150",
-   "SAS|id:63431|570|490"
+   "SAS|id:63431|570|490",
+   "SAS|id:63496|970|850"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3294,6 +3295,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/184/307/3079413355572960.webp",
     "url": "https://www.sas.am/catalog/ketchup_tomatnyy_sous/63431/",
     "key": "SAS|id:63431|570|490"
+   },
+   {
+    "store": "SAS",
+    "title": "Կետչուպ կծու «Heinz Острый» 350գ",
+    "old": 970,
+    "new": 850,
+    "pct": 12,
+    "until": "29.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/ketchup_tomatnyy_sous/63496/",
+    "key": "SAS|id:63496|970|850"
    }
   ],
   "Yerevan City": [
