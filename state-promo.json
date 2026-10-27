@@ -1194,22 +1194,12 @@
    "Yerevan City|id:17010|3290|2790",
    "Yerevan City|id:193034|3290|1990",
    "Yerevan City|id:178143|3290|1645",
-   "Yerevan City|id:178142|3290|1645"
+   "Yerevan City|id:178142|3290|1645",
+   "Yerevan City|id:17191|3290|2790"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կաթ «Parmalat» 1լ, յուղայնությունը`1.8",
-    "old": 1550,
-    "new": 1170,
-    "pct": 25,
-    "until": "28.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/moloko/100454/",
-    "key": "SAS|id:100454|1550|1170"
-   },
    {
     "store": "SAS",
     "title": "Յոգուրտ հունական դասական «Movenpick Greek Style» 100գ, յուղայնությունը՝ 5",
@@ -5589,12 +5579,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1171797.png",
     "url": "https://yerevan-city.am/shop/product-details/178142",
     "key": "Yerevan City|id:178142|3290|1645"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թեյ մրգային «Թեյան» Ոգեշնչող փունջ 10x3.5գր",
+    "old": 3290,
+    "new": 2790,
+    "pct": 15,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1099156.png",
+    "url": "https://yerevan-city.am/shop/product-details/17191",
+    "key": "Yerevan City|id:17191|3290|2790"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-27T23:16:16.747543+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-27T23:31:21.640356+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
