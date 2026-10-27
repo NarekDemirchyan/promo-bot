@@ -1186,17 +1186,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Պանիր հալած սերուցքային «President» 150գ",
-    "old": 1350,
-    "new": 820,
-    "pct": 39,
-    "until": "28.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/importnyy_syr/179101/",
-    "key": "SAS|id:179101|1350|820"
-   },
-   {
-    "store": "SAS",
     "title": "Ամենօրյա միջադիրներ «Libresse Natural Care Normal» 20հատ",
     "old": 790,
     "new": 540,
@@ -5589,8 +5578,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-27T18:03:01.522249+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-27T18:31:22.857712+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
