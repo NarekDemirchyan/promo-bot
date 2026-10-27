@@ -638,7 +638,8 @@
    "SAS|id:97773|5990|3990",
    "SAS|id:95750|880|730",
    "SAS|id:19311|1990|1460",
-   "SAS|id:4216|590|510"
+   "SAS|id:4216|590|510",
+   "SAS|id:960442|100|90"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3360,20 +3361,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/sok/4216/",
     "key": "SAS|id:4216|590|510"
+   },
+   {
+    "store": "SAS",
+    "title": "Անձեռոցիկ խոնավ հակաբակտերիալ «Zeta» 15 հատ",
+    "old": 100,
+    "new": 90,
+    "pct": 10,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/vetwip_es/960442/",
+    "key": "SAS|id:960442|100|90"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Գինի «Շունչ» Արենի, կարմիր անապակ 0.75լ",
-    "old": 4750,
-    "new": 4290,
-    "pct": 10,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168758.png",
-    "url": "https://yerevan-city.am/shop/product-details/175147",
-    "key": "Yerevan City|id:175147|4750|4290"
-   },
    {
     "store": "Yerevan City",
     "title": "Սուրճ հատիկիկավոր «Տ.Լամբորգինի» Էսպրեսսո, կար.200գր",
@@ -5566,8 +5567,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-27T14:47:00.542120+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-27T15:02:18.193400+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
