@@ -639,7 +639,8 @@
    "SAS|id:95750|880|730",
    "SAS|id:19311|1990|1460",
    "SAS|id:4216|590|510",
-   "SAS|id:960442|100|90"
+   "SAS|id:960442|100|90",
+   "SAS|id:2262|440|320"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3362,20 +3363,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/vetwip_es/960442/",
     "key": "SAS|id:960442|100|90"
+   },
+   {
+    "store": "SAS",
+    "title": "Բիսկվիթ կաթնային կրեմով «Nestle Nesquik Snack cocoa» 26գ",
+    "old": 440,
+    "new": 320,
+    "pct": 27,
+    "until": "28.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/desert_biskvit/2262/",
+    "key": "SAS|id:2262|440|320"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Սուրճ հատիկիկավոր «Տ.Լամբորգինի» Էսպրեսսո, կար.200գր",
-    "old": 4750,
-    "new": 2375,
-    "pct": 50,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1108996.png",
-    "url": "https://yerevan-city.am/shop/product-details/54802",
-    "key": "Yerevan City|id:54802|4750|2375"
-   },
    {
     "store": "Yerevan City",
     "title": "Սուրճ աղացած «Տ.Լամբորգինի» Էսպրեսսո, կարմիր 200գր",
@@ -5568,8 +5569,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-27T15:16:56.124780+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-27T15:34:28.960912+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
