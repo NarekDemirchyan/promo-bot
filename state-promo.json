@@ -651,7 +651,8 @@
    "SAS|id:173896|3290|2440",
    "SAS|id:3655|340|290",
    "SAS|id:726057|1620|1430",
-   "SAS|id:20175|1730|1570"
+   "SAS|id:20175|1730|1570",
+   "SAS|id:604810|3290|2440"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3386,6 +3387,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/batareyka/20175/",
     "key": "SAS|id:20175|1730|1570"
+   },
+   {
+    "store": "SAS",
+    "title": "Սափրող սարք «Wilkinson Quattro» 3+1հատ",
+    "old": 3290,
+    "new": 2440,
+    "pct": 26,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/stanok_dlya_britya/604810/",
+    "key": "SAS|id:604810|3290|2440"
    }
   ],
   "Yerevan City": [
