@@ -1134,22 +1134,12 @@
    "Yerevan City|id:176059|3490|2090",
    "Yerevan City|id:176269|3490|2090",
    "Yerevan City|id:171786|3490|3090",
-   "Yerevan City|id:179094|3490|1990"
+   "Yerevan City|id:179094|3490|1990",
+   "Yerevan City|id:158904|3470|2760"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Թխվածքաբլիթ սպիտակ շոկոլադով «Bergen Cookies & Cream» 128գ",
-    "old": 1150,
-    "new": 970,
-    "pct": 16,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/pechene_pryaniki/923252/",
-    "key": "SAS|id:923252|1150|970"
-   },
    {
     "store": "SAS",
     "title": "Շամպուն-բալզամ «Head & Shoulders Основной Уход» 360մլ",
@@ -5529,12 +5519,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172799.png",
     "url": "https://yerevan-city.am/shop/product-details/179094",
     "key": "Yerevan City|id:179094|3490|1990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Դեմքի քսուք «Լիրեն» Ց+Ե վիտ.սնուցող-խոնավ. 50մլ",
+    "old": 3470,
+    "new": 2760,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156547.png",
+    "url": "https://yerevan-city.am/shop/product-details/158904",
+    "key": "Yerevan City|id:158904|3470|2760"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-27T05:16:09.819765+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-27T05:31:27.423065+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
