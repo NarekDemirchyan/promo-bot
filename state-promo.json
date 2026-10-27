@@ -1138,22 +1138,12 @@
    "Yerevan City|id:171786|3490|3090",
    "Yerevan City|id:179094|3490|1990",
    "Yerevan City|id:158904|3470|2760",
-   "Yerevan City|id:158921|3470|2760"
+   "Yerevan City|id:158921|3470|2760",
+   "Yerevan City|id:158929|3470|2760"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շամպուն-բալզամ «Head & Shoulders Ментол» 360մլ",
-    "old": 2890,
-    "new": 2590,
-    "pct": 10,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/dlya_volos2/913521/",
-    "key": "SAS|id:913521|2890|2590"
-   },
    {
     "store": "SAS",
     "title": "Եգիպտացորենի ձողիկներ քաղցր «Դարոյնք» 300գ",
@@ -5533,12 +5523,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156564.png",
     "url": "https://yerevan-city.am/shop/product-details/158921",
     "key": "Yerevan City|id:158921|3470|2760"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Լվացվելու փրփուր «Լիրեն» Ց+Ե վիտ.խոնավեցնող150մլ",
+    "old": 3470,
+    "new": 2760,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156572.png",
+    "url": "https://yerevan-city.am/shop/product-details/158929",
+    "key": "Yerevan City|id:158929|3470|2760"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-27T06:31:11.230517+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-27T06:46:05.507870+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
