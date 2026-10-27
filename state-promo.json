@@ -644,7 +644,8 @@
    "SAS|id:960414|480|420",
    "SAS|id:799613|1290|640",
    "SAS|id:799546|6040|4990",
-   "SAS|id:466573|1120|1060"
+   "SAS|id:466573|1120|1060",
+   "SAS|id:34966|5250|3190"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3372,20 +3373,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/v_tomatnom_souse/466573/",
     "key": "SAS|id:466573|1120|1060"
+   },
+   {
+    "store": "SAS",
+    "title": "Լվացքի գել գունավոր «Frosch» 1,5լ",
+    "old": 5250,
+    "new": 3190,
+    "pct": 39,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/stiralnyy_poroshok/34966/",
+    "key": "SAS|id:34966|5250|3190"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Տիկնիկ 1213-11Բ",
-    "old": 4690,
-    "new": 2810,
-    "pct": 40,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170015.png",
-    "url": "https://yerevan-city.am/shop/product-details/176385",
-    "key": "Yerevan City|id:176385|4690|2810"
-   },
    {
     "store": "Yerevan City",
     "title": "Մարզման ռեզին «Լայվափ» ԼՊ8414 Մ",
@@ -5578,8 +5579,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-27T18:31:22.857712+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-27T18:46:16.487958+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
