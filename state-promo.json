@@ -1158,7 +1158,8 @@
    "Yerevan City|id:11822|3430|3210",
    "Yerevan City|id:11849|3430|3210",
    "Yerevan City|id:195085|3390|2710",
-   "Yerevan City|id:158886|3390|2690"
+   "Yerevan City|id:158886|3390|2690",
+   "Yerevan City|id:95655|3390|2820"
   ]
  },
  "queues": {
@@ -5553,6 +5554,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156529.png",
     "url": "https://yerevan-city.am/shop/product-details/158886",
     "key": "Yerevan City|id:158886|3390|2690"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Լվացքի փոշի «Թայդ» ակվա, գունավոր 3կգ",
+    "old": 3390,
+    "new": 2820,
+    "pct": 17,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1131706.png",
+    "url": "https://yerevan-city.am/shop/product-details/95655",
+    "key": "Yerevan City|id:95655|3390|2820"
    }
   ]
  },
