@@ -1146,7 +1146,8 @@
    "Yerevan City|id:158929|3470|2760",
    "Yerevan City|id:131495|3460|2970",
    "Yerevan City|id:131372|3450|3030",
-   "Yerevan City|id:5674|3450|1725"
+   "Yerevan City|id:5674|3450|1725",
+   "Yerevan City|id:131373|3450|3020"
   ]
  },
  "queues": {
@@ -5541,6 +5542,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1040496.png",
     "url": "https://yerevan-city.am/shop/product-details/5674",
     "key": "Yerevan City|id:5674|3450|1725"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մարտկոց «Դյուրասելլ» Օպտիմում ԱԱԱ 1.5Վ 6հտ",
+    "old": 3450,
+    "new": 3020,
+    "pct": 12,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1150902.png",
+    "url": "https://yerevan-city.am/shop/product-details/131373",
+    "key": "Yerevan City|id:131373|3450|3020"
    }
   ]
  },
