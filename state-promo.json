@@ -640,7 +640,8 @@
    "SAS|id:19311|1990|1460",
    "SAS|id:4216|590|510",
    "SAS|id:960442|100|90",
-   "SAS|id:2262|440|320"
+   "SAS|id:2262|440|320",
+   "SAS|id:960414|480|420"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3364,6 +3365,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/desert_biskvit/2262/",
     "key": "SAS|id:2262|440|320"
+   },
+   {
+    "store": "SAS",
+    "title": "Անձեռոցիկ «Zeta» 150 հատ",
+    "old": 480,
+    "new": 420,
+    "pct": 12,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/salfetki/960414/",
+    "key": "SAS|id:960414|480|420"
    }
   ],
   "Yerevan City": [
