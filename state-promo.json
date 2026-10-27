@@ -1154,17 +1154,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Շոկոլադե կոնֆետների հավաքածու «Lindt Lindor» 200գ",
-    "old": 4590,
-    "new": 3090,
-    "pct": 33,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/156/990/9906561002128297.webp",
-    "url": "https://www.sas.am/catalog/nabory_konfet/421040/",
-    "key": "SAS|id:421040|4590|3090"
-   },
-   {
-    "store": "SAS",
     "title": "Զովացուցիչ գազավորված ըմպելիք «Pepsi» 1.5լ",
     "old": 780,
     "new": 630,
@@ -5557,8 +5546,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-27T08:32:26.336350+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-27T09:01:31.638373+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
