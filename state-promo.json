@@ -654,7 +654,8 @@
    "SAS|id:20175|1730|1570",
    "SAS|id:604810|3290|2440",
    "SAS|id:110016|5690|3250",
-   "SAS|id:799516|630|590"
+   "SAS|id:799516|630|590",
+   "SAS|id:799512|610|550"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -1199,22 +1200,12 @@
    "Yerevan City|id:178142|3290|1645",
    "Yerevan City|id:17191|3290|2790",
    "Yerevan City|id:17205|3290|2790",
-   "Yerevan City|id:19713|3270|2650"
+   "Yerevan City|id:19713|3270|2650",
+   "Yerevan City|id:29118|3250|2700"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Հյութ նռան «Santal» 1լ",
-    "old": 1520,
-    "new": 1160,
-    "pct": 24,
-    "until": "29.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/322/583/5836103285271952.webp",
-    "url": "https://www.sas.am/catalog/sok/167740/",
-    "key": "SAS|id:167740|1520|1160"
-   },
    {
     "store": "SAS",
     "title": "Հյութ բալի «Santal» 1լ",
@@ -3392,6 +3383,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/171/406/4069373465812590.webp",
     "url": "https://www.sas.am/catalog/armyanskoe/799516/",
     "key": "SAS|id:799516|630|590"
+   },
+   {
+    "store": "SAS",
+    "title": "Գարեջուր «Վիմպել Լագեր» 0.33լ",
+    "old": 610,
+    "new": 550,
+    "pct": 10,
+    "until": "28.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/700/042/0423233025422606.webp",
+    "url": "https://www.sas.am/catalog/armyanskoe/799512/",
+    "key": "SAS|id:799512|610|550"
    }
   ],
   "Yerevan City": [
@@ -5583,12 +5585,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1094684.png",
     "url": "https://yerevan-city.am/shop/product-details/19713",
     "key": "Yerevan City|id:19713|3270|2650"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ունիվերսալ քսուք «Նիվեա» Սոֆթ, ինտենսիվ խոնավեցում 200մլ",
+    "old": 3250,
+    "new": 2700,
+    "pct": 17,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1014923.png",
+    "url": "https://yerevan-city.am/shop/product-details/29118",
+    "key": "Yerevan City|id:29118|3250|2700"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-28T00:32:14.798158+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-28T00:47:02.803041+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
