@@ -1162,7 +1162,8 @@
    "Yerevan City|id:195085|3390|2710",
    "Yerevan City|id:158886|3390|2690",
    "Yerevan City|id:95655|3390|2820",
-   "Yerevan City|id:193991|3390|2710"
+   "Yerevan City|id:193991|3390|2710",
+   "Yerevan City|id:158899|3390|2690"
   ]
  },
  "queues": {
@@ -5557,6 +5558,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177752.png",
     "url": "https://yerevan-city.am/shop/product-details/193991",
     "key": "Yerevan City|id:193991|3390|2710"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Դեմքի հիդրո-քսուք «Լիրեն» Ա.Բաբլս, խորը խոնավ.50մլ",
+    "old": 3390,
+    "new": 2690,
+    "pct": 21,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156542.png",
+    "url": "https://yerevan-city.am/shop/product-details/158899",
+    "key": "Yerevan City|id:158899|3390|2690"
    }
   ]
  },
