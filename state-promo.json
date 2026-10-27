@@ -1166,17 +1166,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Զուգարանակոնքը մաքրող միջոց «Bref Classic» 3x50գ",
-    "old": 2670,
-    "new": 2290,
-    "pct": 14,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/forhebathroom/541563/",
-    "key": "SAS|id:541563|2670|2290"
-   },
-   {
-    "store": "SAS",
     "title": "Լվացքի մեքենայի հաբեր «Calgon» 15հատ",
     "old": 2650,
     "new": 2230,
@@ -5569,8 +5558,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-27T11:49:27.102244+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-27T12:16:53.693163+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
