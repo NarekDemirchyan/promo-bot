@@ -1182,17 +1182,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Մակարոն «Barilla Cellentani №297» 500գ",
-    "old": 880,
-    "new": 730,
-    "pct": 17,
-    "until": "10.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/makaronyy/95746/",
-    "key": "SAS|id:95746|880|730"
-   },
-   {
-    "store": "SAS",
     "title": "Սպասք լվանալու հեղուկ «Frosch Zero» 500մլ",
     "old": 1790,
     "new": 1090,
@@ -5585,8 +5574,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-27T16:49:10.460828+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-27T17:16:57.283317+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
