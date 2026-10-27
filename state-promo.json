@@ -635,7 +635,8 @@
    "SAS|id:657129|1440|1230",
    "SAS|id:657128|1440|1230",
    "SAS|id:129724|2250|1750",
-   "SAS|id:97773|5990|3990"
+   "SAS|id:97773|5990|3990",
+   "SAS|id:95750|880|730"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3354,20 +3355,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/slivochnoe_maslo/97773/",
     "key": "SAS|id:97773|5990|3990"
+   },
+   {
+    "store": "SAS",
+    "title": "Մակարոն «Barilla Tortiglioni № 83» 450գ",
+    "old": 880,
+    "new": 730,
+    "pct": 17,
+    "until": "10.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/makaronyy/95750/",
+    "key": "SAS|id:95750|880|730"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Ավտոմեքենա կոլեկցիոն, բացվող դռներով 1։32 1900-10",
-    "old": 4790,
-    "new": 2870,
-    "pct": 40,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169947.png",
-    "url": "https://yerevan-city.am/shop/product-details/176317",
-    "key": "Yerevan City|id:176317|4790|2870"
-   },
    {
     "store": "Yerevan City",
     "title": "Փափուկ խաղալիք «Կարմիր պանդա» 35սմ",
@@ -5560,8 +5561,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-27T12:46:52.058180+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-27T13:04:34.334904+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
