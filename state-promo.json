@@ -1178,7 +1178,8 @@
    "Yerevan City|id:192099|3370|2350",
    "Yerevan City|id:155731|3370|2840",
    "Yerevan City|id:191757|3350|2340",
-   "Yerevan City|id:158916|3320|2640"
+   "Yerevan City|id:158916|3320|2640",
+   "Yerevan City|id:29197|3320|2650"
   ]
  },
  "queues": {
@@ -5573,6 +5574,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156559.png",
     "url": "https://yerevan-city.am/shop/product-details/158916",
     "key": "Yerevan City|id:158916|3320|2640"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Դեմքի քսուք «Լորեալ» Հիալուրոն Էքսպերտ, գիշերային 50մլ",
+    "old": 3320,
+    "new": 2650,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1094680.png",
+    "url": "https://yerevan-city.am/shop/product-details/29197",
+    "key": "Yerevan City|id:29197|3320|2650"
    }
   ]
  },
