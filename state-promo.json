@@ -1150,7 +1150,8 @@
    "Yerevan City|id:131372|3450|3030",
    "Yerevan City|id:5674|3450|1725",
    "Yerevan City|id:131373|3450|3020",
-   "Yerevan City|id:5203|3430|3210"
+   "Yerevan City|id:5203|3430|3210",
+   "Yerevan City|id:11822|3430|3210"
   ]
  },
  "queues": {
@@ -5545,6 +5546,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1034236.png",
     "url": "https://yerevan-city.am/shop/product-details/5203",
     "key": "Yerevan City|id:5203|3430|3210"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ատամի խոզանակ «Քոլգեյթ» 360° սուպեր մաքրութ. 2հտ",
+    "old": 3430,
+    "new": 3210,
+    "pct": 6,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1061083.png",
+    "url": "https://yerevan-city.am/shop/product-details/11822",
+    "key": "Yerevan City|id:11822|3430|3210"
    }
   ]
  },
