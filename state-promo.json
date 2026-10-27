@@ -1210,22 +1210,12 @@
    "Yerevan City|id:7765|3210|2790",
    "Yerevan City|id:8796|3190|2790",
    "Yerevan City|id:3319|3190|2390",
-   "Yerevan City|id:113929|3190|1990"
+   "Yerevan City|id:113929|3190|1990",
+   "Yerevan City|id:101679|3190|1910"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Մակարոն «Barilla Conchiglie Rigate №93» 450գ",
-    "old": 880,
-    "new": 730,
-    "pct": 17,
-    "until": "10.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/makaronyy/95755/",
-    "key": "SAS|id:95755|880|730"
-   },
    {
     "store": "SAS",
     "title": "Հակաքրտինքային աէրոզոլային միջոց «Nivea Men Ultra» 150մլ",
@@ -5605,12 +5595,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1144265.png",
     "url": "https://yerevan-city.am/shop/product-details/113929",
     "key": "Yerevan City|id:113929|3190|1990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Երաժշտական խաղալիք «Յուբեյեն» խխունջ, հեռակառավարման վահանակով ՌՏ661",
+    "old": 3190,
+    "new": 1910,
+    "pct": 40,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1136570.png",
+    "url": "https://yerevan-city.am/shop/product-details/101679",
+    "key": "Yerevan City|id:101679|3190|1910"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-28T03:31:24.802811+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-28T03:46:57.451671+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
