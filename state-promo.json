@@ -1130,22 +1130,12 @@
    "Yerevan City|id:194135|3490|2790",
    "Yerevan City|id:194114|3490|2790",
    "Yerevan City|id:176059|3490|2090",
-   "Yerevan City|id:176269|3490|2090"
+   "Yerevan City|id:176269|3490|2090",
+   "Yerevan City|id:171786|3490|3090"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Անձեռոցիկ խոնավ հակաբակտերիալ «Smile Antibacterial» 60 հատ",
-    "old": 640,
-    "new": 540,
-    "pct": 16,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/vetwip_es/7709/",
-    "key": "SAS|id:7709|640|540"
-   },
    {
     "store": "SAS",
     "title": "Վաֆլե ձողիկներ վանիլային կրեմով «Papadopoulos Caprice Vanilla» 115գ",
@@ -5525,12 +5515,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169903.png",
     "url": "https://yerevan-city.am/shop/product-details/176269",
     "key": "Yerevan City|id:176269|3490|2090"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Փրփրուն գինի «Նովեբոլլե» Սպումանտե, էքս.չոր 0.75լ",
+    "old": 3490,
+    "new": 3090,
+    "pct": 11,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1165338.png",
+    "url": "https://yerevan-city.am/shop/product-details/171786",
+    "key": "Yerevan City|id:171786|3490|3090"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-27T04:16:05.864344+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-27T04:31:12.717110+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
