@@ -1186,7 +1186,8 @@
    "Yerevan City|id:29197|3320|2650",
    "Yerevan City|id:29200|3320|2650",
    "Yerevan City|id:13944|3320|2990",
-   "Yerevan City|id:16816|3290|2790"
+   "Yerevan City|id:16816|3290|2790",
+   "Yerevan City|id:17010|3290|2790"
   ]
  },
  "queues": {
@@ -5581,6 +5582,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1099153.png",
     "url": "https://yerevan-city.am/shop/product-details/16816",
     "key": "Yerevan City|id:16816|3290|2790"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թեյ մրգային «Թեյան» Թարմության փունջ 10x3գր",
+    "old": 3290,
+    "new": 2790,
+    "pct": 15,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1099154.png",
+    "url": "https://yerevan-city.am/shop/product-details/17010",
+    "key": "Yerevan City|id:17010|3290|2790"
    }
   ]
  },
