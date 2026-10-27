@@ -1176,22 +1176,12 @@
    "Yerevan City|id:193965|3390|2030",
    "Yerevan City|id:192099|3370|2350",
    "Yerevan City|id:155731|3370|2840",
-   "Yerevan City|id:191757|3350|2340"
+   "Yerevan City|id:191757|3350|2340",
+   "Yerevan City|id:158916|3320|2640"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սպասք լվանալու հեղուկ «Frosch Zero» 500մլ",
-    "old": 1790,
-    "new": 1090,
-    "pct": 39,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/120/216/2161382544626117.webp",
-    "url": "https://www.sas.am/catalog/sredstva_dlya_posudy/4406/",
-    "key": "SAS|id:4406|1790|1090"
-   },
    {
     "store": "SAS",
     "title": "Պանիր հալած սերուցքային «President» 150գ",
@@ -5571,12 +5561,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175482.png",
     "url": "https://yerevan-city.am/shop/product-details/191757",
     "key": "Yerevan City|id:191757|3350|2340"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Դեմքի քսուք «Լիրեն» չիա, հակատարիք.սնուցող 50մլ",
+    "old": 3320,
+    "new": 2640,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156559.png",
+    "url": "https://yerevan-city.am/shop/product-details/158916",
+    "key": "Yerevan City|id:158916|3320|2640"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-27T17:32:10.734374+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-27T17:47:13.196767+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
