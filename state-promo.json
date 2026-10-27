@@ -1144,22 +1144,12 @@
    "Yerevan City|id:158921|3470|2760",
    "Yerevan City|id:158929|3470|2760",
    "Yerevan City|id:131495|3460|2970",
-   "Yerevan City|id:131372|3450|3030"
+   "Yerevan City|id:131372|3450|3030",
+   "Yerevan City|id:5674|3450|1725"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Վարտիք -տակդիրներ «Merries L» 9-14կգ, 44 հատ",
-    "old": 12900,
-    "new": 10650,
-    "pct": 17,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/936/062/0624403444171095.webp",
-    "url": "https://www.sas.am/catalog/podguzniki/624381/",
-    "key": "SAS|id:624381|12900|10650"
-   },
    {
     "store": "SAS",
     "title": "Շոկոլադե կոնֆետների հավաքածու «Lindt Lindor» 200գ",
@@ -5539,12 +5529,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1150901.png",
     "url": "https://yerevan-city.am/shop/product-details/131372",
     "key": "Yerevan City|id:131372|3450|3030"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սալյամի եփած-ապխտած «Մոյա Սեմյա» կգ",
+    "old": 3450,
+    "new": 1725,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1040496.png",
+    "url": "https://yerevan-city.am/shop/product-details/5674",
+    "key": "Yerevan City|id:5674|3450|1725"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-27T08:01:26.489291+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-27T08:16:19.678214+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
