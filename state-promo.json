@@ -1182,22 +1182,12 @@
    "Yerevan City|id:191757|3350|2340",
    "Yerevan City|id:158916|3320|2640",
    "Yerevan City|id:29197|3320|2650",
-   "Yerevan City|id:29200|3320|2650"
+   "Yerevan City|id:29200|3320|2650",
+   "Yerevan City|id:13944|3320|2990"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Մակարոն «Barilla Girandole № 34» 500գ",
-    "old": 880,
-    "new": 730,
-    "pct": 17,
-    "until": "10.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/304/742/7425813958227997.webp",
-    "url": "https://www.sas.am/catalog/makaronyy/3266/",
-    "key": "SAS|id:3266|880|730"
-   },
    {
     "store": "SAS",
     "title": "Ձիթապտուղ սև առանց կորիզ «XL» 400գ",
@@ -5577,12 +5567,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1094681.png",
     "url": "https://yerevan-city.am/shop/product-details/29200",
     "key": "Yerevan City|id:29200|3320|2650"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սարդելկա ավստրիական «Գրեյսինգեր» ա/գ 450գր",
+    "old": 3320,
+    "new": 2990,
+    "pct": 10,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1043714.png",
+    "url": "https://yerevan-city.am/shop/product-details/13944",
+    "key": "Yerevan City|id:13944|3320|2990"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-27T19:17:13.986638+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-27T19:31:25.021535+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
