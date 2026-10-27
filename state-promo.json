@@ -650,7 +650,8 @@
    "SAS|id:4373|2170|1790",
    "SAS|id:173896|3290|2440",
    "SAS|id:3655|340|290",
-   "SAS|id:726057|1620|1430"
+   "SAS|id:726057|1620|1430",
+   "SAS|id:20175|1730|1570"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3384,6 +3385,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/v_tomatnom_souse/726057/",
     "key": "SAS|id:726057|1620|1430"
+   },
+   {
+    "store": "SAS",
+    "title": "Լիթումային մարտկոց «Duracell CR2032» 2 հատ",
+    "old": 1730,
+    "new": 1570,
+    "pct": 9,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/batareyka/20175/",
+    "key": "SAS|id:20175|1730|1570"
    }
   ],
   "Yerevan City": [
