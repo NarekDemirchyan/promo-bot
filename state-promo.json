@@ -1194,17 +1194,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Շամպուն-բալզամ «Head & Shoulders Гладкие и Шелковистые» 360մլ",
-    "old": 2890,
-    "new": 2590,
-    "pct": 10,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/dlya_volos2/913514/",
-    "key": "SAS|id:913514|2890|2590"
-   },
-   {
-    "store": "SAS",
     "title": "Շամպուն «Head & Shoulders Увлажняющий Уход» 360մլ",
     "old": 2890,
     "new": 2590,
@@ -5597,8 +5586,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-27T20:20:30.045226+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-27T20:47:15.771073+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
