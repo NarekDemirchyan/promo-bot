@@ -1164,22 +1164,12 @@
    "Yerevan City|id:158886|3390|2690",
    "Yerevan City|id:95655|3390|2820",
    "Yerevan City|id:193991|3390|2710",
-   "Yerevan City|id:158899|3390|2690"
+   "Yerevan City|id:158899|3390|2690",
+   "Yerevan City|id:158919|3390|2690"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կրեկերներ աղով «Croco Brezel Mix» 250գ",
-    "old": 950,
-    "new": 810,
-    "pct": 15,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/krekery_solenye_palochki/369519/",
-    "key": "SAS|id:369519|950|810"
-   },
    {
     "store": "SAS",
     "title": "Լվացքի գել մանկական «Պամա» 900մլ",
@@ -5559,12 +5549,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156542.png",
     "url": "https://yerevan-city.am/shop/product-details/158899",
     "key": "Yerevan City|id:158899|3390|2690"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Դեմքի հիդրո-գել «Լիրեն» Ա.Բաբլս, խոնավ. 50մլ",
+    "old": 3390,
+    "new": 2690,
+    "pct": 21,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156562.png",
+    "url": "https://yerevan-city.am/shop/product-details/158919",
+    "key": "Yerevan City|id:158919|3390|2690"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-27T13:46:54.649306+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-27T14:02:13.448348+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
