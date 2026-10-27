@@ -620,7 +620,8 @@
    "SAS|id:838086|8200|4100",
    "SAS|id:20205|2270|1360",
    "SAS|id:831805|1670|1440",
-   "SAS|id:6641|3790|3450"
+   "SAS|id:6641|3790|3450",
+   "SAS|id:830931|8590|7890"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3324,20 +3325,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/405/153/153475755434956.webp",
     "url": "https://www.sas.am/catalog/import_vino/6641/",
     "key": "SAS|id:6641|3790|3450"
+   },
+   {
+    "store": "SAS",
+    "title": "Կոնյակ «Գրանդ Երևան 7*» 0․5լ",
+    "old": 8590,
+    "new": 7890,
+    "pct": 8,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/370/957/9576701025262943.webp",
+    "url": "https://www.sas.am/catalog/armyanskiy_konyak/830931/",
+    "key": "SAS|id:830931|8590|7890"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Չիր կոկոսի, պրեմիում կգ",
-    "old": 4990,
-    "new": 2495,
-    "pct": 50,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1044399.png",
-    "url": "https://yerevan-city.am/shop/product-details/130977",
-    "key": "Yerevan City|id:130977|4990|2495"
-   },
    {
     "store": "Yerevan City",
     "title": "Մանգոյի չիր, կարմիր կգ",
@@ -5530,8 +5531,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-27T04:31:12.717110+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-27T04:46:05.480758+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
