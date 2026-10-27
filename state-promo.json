@@ -1174,7 +1174,8 @@
    "Yerevan City|id:161187|3390|2890",
    "Yerevan City|id:193965|3390|2030",
    "Yerevan City|id:192099|3370|2350",
-   "Yerevan City|id:155731|3370|2840"
+   "Yerevan City|id:155731|3370|2840",
+   "Yerevan City|id:191757|3350|2340"
   ]
  },
  "queues": {
@@ -5569,6 +5570,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1155158.png",
     "url": "https://yerevan-city.am/shop/product-details/155731",
     "key": "Yerevan City|id:155731|3370|2840"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սեղանի խաղ",
+    "old": 3350,
+    "new": 2340,
+    "pct": 30,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175482.png",
+    "url": "https://yerevan-city.am/shop/product-details/191757",
+    "key": "Yerevan City|id:191757|3350|2340"
    }
   ]
  },
