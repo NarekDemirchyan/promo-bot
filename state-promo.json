@@ -1206,22 +1206,12 @@
    "Yerevan City|id:19713|3270|2650",
    "Yerevan City|id:29118|3250|2700",
    "Yerevan City|id:7765|3210|2790",
-   "Yerevan City|id:8796|3190|2790"
+   "Yerevan City|id:8796|3190|2790",
+   "Yerevan City|id:3319|3190|2390"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շոկոլադե-ընկուզային մածուկ «Nutella» 630գ",
-    "old": 4970,
-    "new": 4360,
-    "pct": 12,
-    "until": "02.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/389/649/649565267731514.webp",
-    "url": "https://www.sas.am/catalog/krem/130574/",
-    "key": "SAS|id:130574|4970|4360"
-   },
    {
     "store": "SAS",
     "title": "Զովացուցիչ գազավորված ըմպելիք նարնջի «Mirinda» 1.5լ",
@@ -5601,12 +5591,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1003425.png",
     "url": "https://yerevan-city.am/shop/product-details/8796",
     "key": "Yerevan City|id:8796|3190|2790"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սերուցք «Պարմալատ» 35% 500գր",
+    "old": 3190,
+    "new": 2390,
+    "pct": 25,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1048364.png",
+    "url": "https://yerevan-city.am/shop/product-details/3319",
+    "key": "Yerevan City|id:3319|3190|2390"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-28T02:16:52.172070+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-28T02:32:02.282322+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
