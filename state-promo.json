@@ -657,7 +657,8 @@
    "SAS|id:799516|630|590",
    "SAS|id:799512|610|550",
    "SAS|id:769166|12900|7840",
-   "SAS|id:759224|4150|2580"
+   "SAS|id:759224|4150|2580",
+   "SAS|id:751615|670|340"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3398,20 +3399,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/324/576/5762643436612945.webp",
     "url": "https://www.sas.am/catalog/stanok_dlya_britya/759224/",
     "key": "SAS|id:759224|4150|2580"
+   },
+   {
+    "store": "SAS",
+    "title": "Թեյ սև «Lavtea» 100գ",
+    "old": 670,
+    "new": 340,
+    "pct": 49,
+    "until": "13.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/284/913/9131344239673194.webp",
+    "url": "https://www.sas.am/catalog/listovoy/751615/",
+    "key": "SAS|id:751615|670|340"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Լվացքի գել «Ֆրոշ» մանկական հակաալերգիկ 1.5լ",
-    "old": 4540,
-    "new": 2890,
-    "pct": 36,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1086564.png",
-    "url": "https://yerevan-city.am/shop/product-details/7660",
-    "key": "Yerevan City|id:7660|4540|2890"
-   },
    {
     "store": "Yerevan City",
     "title": "Դեմքի քսուք-գել «Լորեալ» խոնավեցնող, նորմալ և չոր մաշկի համար 70մլ",
@@ -5604,8 +5605,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-28T02:02:12.231139+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-28T02:16:52.172070+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
