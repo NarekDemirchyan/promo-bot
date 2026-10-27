@@ -1140,17 +1140,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Վաֆլե ձողիկներ վանիլային կրեմով «Papadopoulos Caprice Vanilla» 115գ",
-    "old": 1290,
-    "new": 1050,
-    "pct": 19,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/173/426/4264651537958313.webp",
-    "url": "https://www.sas.am/catalog/vafli_vafelnyy_tort/962000/",
-    "key": "SAS|id:962000|1290|1050"
-   },
-   {
-    "store": "SAS",
     "title": "Թխվածքաբլիթ սպիտակ շոկոլադով «Bergen Cookies & Cream» 128գ",
     "old": 1150,
     "new": 970,
@@ -5543,8 +5532,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-27T04:46:05.480758+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-27T05:01:22.571351+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
