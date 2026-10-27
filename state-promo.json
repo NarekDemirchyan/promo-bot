@@ -1206,17 +1206,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Սոուս կծու «American Green» 88մլ",
-    "old": 810,
-    "new": 770,
-    "pct": 5,
-    "until": "27.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/221/143/143468668356238.webp",
-    "url": "https://www.sas.am/catalog/sous/169069/",
-    "key": "SAS|id:169069|810|770"
-   },
-   {
-    "store": "SAS",
     "title": "Հյութ նռան «Santal» 1լ",
     "old": 1520,
     "new": 1160,
@@ -3406,17 +3395,6 @@
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Լվացքի հեղուկ «Ֆրոշ» ունիվերսալ 1.5լ",
-    "old": 4570,
-    "new": 2920,
-    "pct": 36,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175917.png",
-    "url": "https://yerevan-city.am/shop/product-details/192227",
-    "key": "Yerevan City|id:192227|4570|2920"
-   },
    {
     "store": "Yerevan City",
     "title": "Լվացքի հեղուկ «Ֆրոշ» սպիտակ, կիտրոն 1.5լ",
@@ -5610,7 +5588,7 @@
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-28T00:04:41.010920+04:00",
+ "last_publish": "2026-10-28T00:32:14.798158+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
