@@ -1160,22 +1160,12 @@
    "Yerevan City|id:11849|3430|3210",
    "Yerevan City|id:195085|3390|2710",
    "Yerevan City|id:158886|3390|2690",
-   "Yerevan City|id:95655|3390|2820"
+   "Yerevan City|id:95655|3390|2820",
+   "Yerevan City|id:193991|3390|2710"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Լվացքի մեքենայի հաբեր «Calgon» 15հատ",
-    "old": 2650,
-    "new": 2230,
-    "pct": 16,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/229/933/9337991272748244.webp",
-    "url": "https://www.sas.am/catalog/dlya_santekhniki/183304/",
-    "key": "SAS|id:183304|2650|2230"
-   },
    {
     "store": "SAS",
     "title": "Անձեռոցիկ սպունգանման «Vileda» 3հատ",
@@ -5555,12 +5545,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1131706.png",
     "url": "https://yerevan-city.am/shop/product-details/95655",
     "key": "Yerevan City|id:95655|3390|2820"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Խաղալիք-Հերոս «Ռոբլոքս»",
+    "old": 3390,
+    "new": 2710,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177752.png",
+    "url": "https://yerevan-city.am/shop/product-details/193991",
+    "key": "Yerevan City|id:193991|3390|2710"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-27T12:32:08.047316+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-27T12:46:52.058180+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
