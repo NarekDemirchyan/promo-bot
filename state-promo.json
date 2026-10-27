@@ -1204,22 +1204,12 @@
    "Yerevan City|id:17205|3290|2790",
    "Yerevan City|id:19713|3270|2650",
    "Yerevan City|id:29118|3250|2700",
-   "Yerevan City|id:7765|3210|2790"
+   "Yerevan City|id:7765|3210|2790",
+   "Yerevan City|id:8796|3190|2790"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ամենօրյա միջադիրներ «Libresse Light» 32հատ",
-    "old": 1190,
-    "new": 830,
-    "pct": 30,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/419/982/9822391744555218.webp",
-    "url": "https://www.sas.am/catalog/dlya_intimnoy_gigieny2/145226/",
-    "key": "SAS|id:145226|1190|830"
-   },
    {
     "store": "SAS",
     "title": "Շոկոլադե-ընկուզային մածուկ «Nutella» 630գ",
@@ -5599,12 +5589,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1054808.png",
     "url": "https://yerevan-city.am/shop/product-details/7765",
     "key": "Yerevan City|id:7765|3210|2790"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մարտկոց «Դյուրասելլ» Դ 1.5Վ 2հտ",
+    "old": 3190,
+    "new": 2790,
+    "pct": 13,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1003425.png",
+    "url": "https://yerevan-city.am/shop/product-details/8796",
+    "key": "Yerevan City|id:8796|3190|2790"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-28T01:46:47.821335+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-28T02:02:12.231139+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
