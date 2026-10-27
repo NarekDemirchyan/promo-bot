@@ -658,7 +658,8 @@
    "SAS|id:799512|610|550",
    "SAS|id:769166|12900|7840",
    "SAS|id:759224|4150|2580",
-   "SAS|id:751615|670|340"
+   "SAS|id:751615|670|340",
+   "SAS|id:746831|1930|1680"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3400,6 +3401,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/284/913/9131344239673194.webp",
     "url": "https://www.sas.am/catalog/listovoy/751615/",
     "key": "SAS|id:751615|670|340"
+   },
+   {
+    "store": "SAS",
+    "title": "Բալզամ «Schwarzkopf Gliss Kur» 200մլ",
+    "old": 1930,
+    "new": 1680,
+    "pct": 13,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/940/582/5824512334217374.webp",
+    "url": "https://www.sas.am/catalog/balzam_dlya_volos/746831/",
+    "key": "SAS|id:746831|1930|1680"
    }
   ],
   "Yerevan City": [
