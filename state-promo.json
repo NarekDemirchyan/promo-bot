@@ -1166,7 +1166,8 @@
    "Yerevan City|id:95655|3390|2820",
    "Yerevan City|id:193991|3390|2710",
    "Yerevan City|id:158899|3390|2690",
-   "Yerevan City|id:158919|3390|2690"
+   "Yerevan City|id:158919|3390|2690",
+   "Yerevan City|id:161187|3390|2890"
   ]
  },
  "queues": {
@@ -5561,6 +5562,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156562.png",
     "url": "https://yerevan-city.am/shop/product-details/158919",
     "key": "Yerevan City|id:158919|3390|2690"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Լվացքի փոշի «Թաիդ» ակվա, կիտրոն 3կգ",
+    "old": 3390,
+    "new": 2890,
+    "pct": 15,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1158834.png",
+    "url": "https://yerevan-city.am/shop/product-details/161187",
+    "key": "Yerevan City|id:161187|3390|2890"
    }
   ]
  },
