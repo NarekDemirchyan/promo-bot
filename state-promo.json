@@ -1148,22 +1148,12 @@
    "Yerevan City|id:131495|3460|2970",
    "Yerevan City|id:131372|3450|3030",
    "Yerevan City|id:5674|3450|1725",
-   "Yerevan City|id:131373|3450|3020"
+   "Yerevan City|id:131373|3450|3020",
+   "Yerevan City|id:5203|3430|3210"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Զովացուցիչ գազավորված ըմպելիք «Pepsi» 1.5լ",
-    "old": 780,
-    "new": 630,
-    "pct": 19,
-    "until": "13.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/osvezhayushchiy_napitok/113664/",
-    "key": "SAS|id:113664|780|630"
-   },
    {
     "store": "SAS",
     "title": "Կարագ սերուցքային «President Mini» 10գ, յուղայնությունը` 82",
@@ -5543,12 +5533,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1150902.png",
     "url": "https://yerevan-city.am/shop/product-details/131373",
     "key": "Yerevan City|id:131373|3450|3020"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ատամի խոզանակ «Քոլգեյթ» 360° օպտիկ ուայթ",
+    "old": 3430,
+    "new": 3210,
+    "pct": 6,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1034236.png",
+    "url": "https://yerevan-city.am/shop/product-details/5203",
+    "key": "Yerevan City|id:5203|3430|3210"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-27T09:16:06.076100+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-27T09:31:28.674781+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
