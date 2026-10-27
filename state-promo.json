@@ -1170,7 +1170,8 @@
    "Yerevan City|id:158899|3390|2690",
    "Yerevan City|id:158919|3390|2690",
    "Yerevan City|id:161187|3390|2890",
-   "Yerevan City|id:193965|3390|2030"
+   "Yerevan City|id:193965|3390|2030",
+   "Yerevan City|id:192099|3370|2350"
   ]
  },
  "queues": {
@@ -5565,6 +5566,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177732.png",
     "url": "https://yerevan-city.am/shop/product-details/193965",
     "key": "Yerevan City|id:193965|3390|2030"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Երաժշտական խաղալիք պարող 22սմ",
+    "old": 3370,
+    "new": 2350,
+    "pct": 30,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175822.png",
+    "url": "https://yerevan-city.am/shop/product-details/192099",
+    "key": "Yerevan City|id:192099|3370|2350"
    }
   ]
  },
