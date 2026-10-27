@@ -1190,7 +1190,8 @@
    "Yerevan City|id:13944|3320|2990",
    "Yerevan City|id:16816|3290|2790",
    "Yerevan City|id:17010|3290|2790",
-   "Yerevan City|id:193034|3290|1990"
+   "Yerevan City|id:193034|3290|1990",
+   "Yerevan City|id:178143|3290|1645"
   ]
  },
  "queues": {
@@ -5585,6 +5586,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176781.png",
     "url": "https://yerevan-city.am/shop/product-details/193034",
     "key": "Yerevan City|id:193034|3290|1990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ձեռքի պայուսակ տղ. 26х15х7",
+    "old": 3290,
+    "new": 1645,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1171798.png",
+    "url": "https://yerevan-city.am/shop/product-details/178143",
+    "key": "Yerevan City|id:178143|3290|1645"
    }
   ]
  },
