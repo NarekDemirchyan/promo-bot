@@ -636,7 +636,8 @@
    "SAS|id:657128|1440|1230",
    "SAS|id:129724|2250|1750",
    "SAS|id:97773|5990|3990",
-   "SAS|id:95750|880|730"
+   "SAS|id:95750|880|730",
+   "SAS|id:19311|1990|1460"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3356,20 +3357,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/makaronyy/95750/",
     "key": "SAS|id:95750|880|730"
+   },
+   {
+    "store": "SAS",
+    "title": "Շուրթերի բալզամ «Nivea Вишневое Сияние» 4.8գ",
+    "old": 1990,
+    "new": 1460,
+    "pct": 27,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/220/366/366669617515277.webp",
+    "url": "https://www.sas.am/catalog/vse_dlya_gub/19311/",
+    "key": "SAS|id:19311|1990|1460"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Փափուկ խաղալիք «Կարմիր պանդա» 35սմ",
-    "old": 4790,
-    "new": 2395,
-    "pct": 50,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173169.png",
-    "url": "https://yerevan-city.am/shop/product-details/179457",
-    "key": "Yerevan City|id:179457|4790|2395"
-   },
    {
     "store": "Yerevan City",
     "title": "Վզամիս «Միթ Ֆուդ» կգ",
@@ -5562,8 +5563,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-27T13:32:03.530486+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-27T13:46:54.649306+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
