@@ -623,7 +623,8 @@
    "SAS|id:6641|3790|3450",
    "SAS|id:830931|8590|7890",
    "SAS|id:830930|6690|6190",
-   "SAS|id:830928|4690|4290"
+   "SAS|id:830928|4690|4290",
+   "SAS|id:830890|4830|4550"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3330,6 +3331,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/armyanskiy_konyak/830928/",
     "key": "SAS|id:830928|4690|4290"
+   },
+   {
+    "store": "SAS",
+    "title": "Կոնյակ «Օրրան 5*» 0․5լ",
+    "old": 4830,
+    "new": 4550,
+    "pct": 6,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/armyanskiy_konyak/830890/",
+    "key": "SAS|id:830890|4830|4550"
    }
   ],
   "Yerevan City": [
