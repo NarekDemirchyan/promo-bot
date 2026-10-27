@@ -1132,7 +1132,8 @@
    "Yerevan City|id:194114|3490|2790",
    "Yerevan City|id:176059|3490|2090",
    "Yerevan City|id:176269|3490|2090",
-   "Yerevan City|id:171786|3490|3090"
+   "Yerevan City|id:171786|3490|3090",
+   "Yerevan City|id:179094|3490|1990"
   ]
  },
  "queues": {
@@ -5527,6 +5528,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1165338.png",
     "url": "https://yerevan-city.am/shop/product-details/171786",
     "key": "Yerevan City|id:171786|3490|3090"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թեյ «Կլիպպեր» օրգանիկ 80x2.9գր",
+    "old": 3490,
+    "new": 1990,
+    "pct": 43,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172799.png",
+    "url": "https://yerevan-city.am/shop/product-details/179094",
+    "key": "Yerevan City|id:179094|3490|1990"
    }
   ]
  },
