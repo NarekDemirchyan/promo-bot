@@ -1152,22 +1152,12 @@
    "Yerevan City|id:5674|3450|1725",
    "Yerevan City|id:131373|3450|3020",
    "Yerevan City|id:5203|3430|3210",
-   "Yerevan City|id:11822|3430|3210"
+   "Yerevan City|id:11822|3430|3210",
+   "Yerevan City|id:11849|3430|3210"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Չորահաց-բրուսկետտա թթվասերի և սոխի «Maretti» 70գ",
-    "old": 550,
-    "new": 440,
-    "pct": 20,
-    "until": "29.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/862/016/0164633538830712.webp",
-    "url": "https://www.sas.am/catalog/chipsy/4461/",
-    "key": "SAS|id:4461|550|440"
-   },
    {
     "store": "SAS",
     "title": "Սպասք լվանալու հեղուկ «Frosch Baby» 500մլ",
@@ -5547,12 +5537,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1061083.png",
     "url": "https://yerevan-city.am/shop/product-details/11822",
     "key": "Yerevan City|id:11822|3430|3210"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ատամի խոզանակ «Քոլգեյթ» 360° սուպեր մաքրութ. սև",
+    "old": 3430,
+    "new": 3210,
+    "pct": 6,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1061084.png",
+    "url": "https://yerevan-city.am/shop/product-details/11849",
+    "key": "Yerevan City|id:11849|3430|3210"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-27T10:16:08.878141+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-27T10:31:25.191741+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
