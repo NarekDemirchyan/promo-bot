@@ -653,7 +653,8 @@
    "SAS|id:726057|1620|1430",
    "SAS|id:20175|1730|1570",
    "SAS|id:604810|3290|2440",
-   "SAS|id:110016|5690|3250"
+   "SAS|id:110016|5690|3250",
+   "SAS|id:799516|630|590"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -1197,7 +1198,8 @@
    "Yerevan City|id:178143|3290|1645",
    "Yerevan City|id:178142|3290|1645",
    "Yerevan City|id:17191|3290|2790",
-   "Yerevan City|id:17205|3290|2790"
+   "Yerevan City|id:17205|3290|2790",
+   "Yerevan City|id:19713|3270|2650"
   ]
  },
  "queues": {
@@ -3390,6 +3392,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/112/455/4553523820202723.webp",
     "url": "https://www.sas.am/catalog/nabory_konfet/110016/",
     "key": "SAS|id:110016|5690|3250"
+   },
+   {
+    "store": "SAS",
+    "title": "Գարեջուր «Վիմպել Պիլսներ» 0.33լ",
+    "old": 630,
+    "new": 590,
+    "pct": 6,
+    "until": "28.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/171/406/4069373465812590.webp",
+    "url": "https://www.sas.am/catalog/armyanskoe/799516/",
+    "key": "SAS|id:799516|630|590"
    }
   ],
   "Yerevan City": [
@@ -5581,6 +5594,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1099155.png",
     "url": "https://yerevan-city.am/shop/product-details/17205",
     "key": "Yerevan City|id:17205|3290|2790"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Քսուք աչքերի շուրջ «Լորեալ» Հիալուրոն Էքսպերտ 15մլ",
+    "old": 3270,
+    "new": 2650,
+    "pct": 19,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1094684.png",
+    "url": "https://yerevan-city.am/shop/product-details/19713",
+    "key": "Yerevan City|id:19713|3270|2650"
    }
   ]
  },
