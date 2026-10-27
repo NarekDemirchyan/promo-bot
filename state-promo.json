@@ -625,7 +625,8 @@
    "SAS|id:830930|6690|6190",
    "SAS|id:830928|4690|4290",
    "SAS|id:830890|4830|4550",
-   "SAS|id:830889|3490|3290"
+   "SAS|id:830889|3490|3290",
+   "SAS|id:822758|490|460"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3334,20 +3335,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/armyanskiy_konyak/830889/",
     "key": "SAS|id:830889|3490|3290"
+   },
+   {
+    "store": "SAS",
+    "title": "Թխվածքաբլիթ կակաոյով «Croco Pernute Cacao» 100գ",
+    "old": 490,
+    "new": 460,
+    "pct": 6,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/495/891/8914894119347411.webp",
+    "url": "https://www.sas.am/catalog/pechene_pryaniki/822758/",
+    "key": "SAS|id:822758|490|460"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Ծաղկաման դեկորատիվ «Մապերա»",
-    "old": 4990,
-    "new": 2590,
-    "pct": 48,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174538.png",
-    "url": "https://yerevan-city.am/shop/product-details/180804",
-    "key": "Yerevan City|id:180804|4990|2590"
-   },
    {
     "store": "Yerevan City",
     "title": "Վիսկիի բաժակ «Ռակլե» Ավան. գոլդ 420մլ 4հտ ԱՎԳ420",
@@ -5540,8 +5541,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-27T07:17:07.151990+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-27T07:31:15.497303+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
