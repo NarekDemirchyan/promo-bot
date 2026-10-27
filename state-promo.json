@@ -1172,22 +1172,12 @@
    "Yerevan City|id:158919|3390|2690",
    "Yerevan City|id:161187|3390|2890",
    "Yerevan City|id:193965|3390|2030",
-   "Yerevan City|id:192099|3370|2350"
+   "Yerevan City|id:192099|3370|2350",
+   "Yerevan City|id:155731|3370|2840"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Թեյ սև «Tess Forest Dream» 20*1.8գ",
-    "old": 880,
-    "new": 590,
-    "pct": 33,
-    "until": "28.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/241/169/1696592588964297.webp",
-    "url": "https://www.sas.am/catalog/v_paketakh/542579/",
-    "key": "SAS|id:542579|880|590"
-   },
    {
     "store": "SAS",
     "title": "Մակարոն «Barilla Cellentani №297» 500գ",
@@ -5567,12 +5557,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175822.png",
     "url": "https://yerevan-city.am/shop/product-details/192099",
     "key": "Yerevan City|id:192099|3370|2350"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մանկ.խոնավ անձեռոցիկ «Հիպ» Սոֆթ ընդ Փյուր 3x48հտ",
+    "old": 3370,
+    "new": 2840,
+    "pct": 16,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1155158.png",
+    "url": "https://yerevan-city.am/shop/product-details/155731",
+    "key": "Yerevan City|id:155731|3370|2840"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-27T16:16:58.736490+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-27T16:32:06.118442+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
