@@ -1154,22 +1154,12 @@
    "Yerevan City|id:131373|3450|3020",
    "Yerevan City|id:5203|3430|3210",
    "Yerevan City|id:11822|3430|3210",
-   "Yerevan City|id:11849|3430|3210"
+   "Yerevan City|id:11849|3430|3210",
+   "Yerevan City|id:195085|3390|2710"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սպասք լվանալու հեղուկ «Frosch Baby» 500մլ",
-    "old": 1640,
-    "new": 990,
-    "pct": 40,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/553/207/2071891652924278.webp",
-    "url": "https://www.sas.am/catalog/sredstva_dlya_posudy/170346/",
-    "key": "SAS|id:170346|1640|990"
-   },
    {
     "store": "SAS",
     "title": "Շոկոլադե սալիկ կաթնային «Lindt Excellence» 100գ",
@@ -5549,12 +5539,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1061084.png",
     "url": "https://yerevan-city.am/shop/product-details/11849",
     "key": "Yerevan City|id:11849|3430|3210"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թեյի հավաքածու 5Պ",
+    "old": 3390,
+    "new": 2710,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178888.png",
+    "url": "https://yerevan-city.am/shop/product-details/195085",
+    "key": "Yerevan City|id:195085|3390|2710"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-27T10:47:07.438374+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-27T11:01:26.935006+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
