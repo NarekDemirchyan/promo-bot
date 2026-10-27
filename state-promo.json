@@ -656,7 +656,8 @@
    "SAS|id:110016|5690|3250",
    "SAS|id:799516|630|590",
    "SAS|id:799512|610|550",
-   "SAS|id:769166|12900|7840"
+   "SAS|id:769166|12900|7840",
+   "SAS|id:759224|4150|2580"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3396,6 +3397,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/117/775/7758123636754448.webp",
     "url": "https://www.sas.am/catalog/dlya_devochek/769166/",
     "key": "SAS|id:769166|12900|7840"
+   },
+   {
+    "store": "SAS",
+    "title": "Սափրող սարք «Wilkinson Intuition Flow»",
+    "old": 4150,
+    "new": 2580,
+    "pct": 38,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/324/576/5762643436612945.webp",
+    "url": "https://www.sas.am/catalog/stanok_dlya_britya/759224/",
+    "key": "SAS|id:759224|4150|2580"
    }
   ],
   "Yerevan City": [
