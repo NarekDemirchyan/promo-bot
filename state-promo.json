@@ -1208,22 +1208,12 @@
    "Yerevan City|id:29118|3250|2700",
    "Yerevan City|id:7765|3210|2790",
    "Yerevan City|id:8796|3190|2790",
-   "Yerevan City|id:3319|3190|2390"
+   "Yerevan City|id:3319|3190|2390",
+   "Yerevan City|id:113929|3190|1990"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Զովացուցիչ գազավորված ըմպելիք նարնջի «Mirinda» 1.5լ",
-    "old": 780,
-    "new": 630,
-    "pct": 19,
-    "until": "13.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/osvezhayushchiy_napitok/113887/",
-    "key": "SAS|id:113887|780|630"
-   },
    {
     "store": "SAS",
     "title": "Մակարոն «Barilla Conchiglie Rigate №93» 450գ",
@@ -5603,12 +5593,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1048364.png",
     "url": "https://yerevan-city.am/shop/product-details/3319",
     "key": "Yerevan City|id:3319|3190|2390"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Եռոտանի խարույկի համար «Բոյսքոութ» 1մ",
+    "old": 3190,
+    "new": 1990,
+    "pct": 38,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1144265.png",
+    "url": "https://yerevan-city.am/shop/product-details/113929",
+    "key": "Yerevan City|id:113929|3190|1990"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-28T03:01:19.300507+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-28T03:16:02.429734+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
