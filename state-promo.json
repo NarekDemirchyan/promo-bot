@@ -1142,22 +1142,12 @@
    "Yerevan City|id:158904|3470|2760",
    "Yerevan City|id:158921|3470|2760",
    "Yerevan City|id:158929|3470|2760",
-   "Yerevan City|id:131495|3460|2970"
+   "Yerevan City|id:131495|3460|2970",
+   "Yerevan City|id:131372|3450|3030"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Միցելյար ջուր «Nivea Micellar Water Soothing» 100մլ",
-    "old": 1320,
-    "new": 1250,
-    "pct": 5,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/vse_dlya_litsa/592540/",
-    "key": "SAS|id:592540|1320|1250"
-   },
    {
     "store": "SAS",
     "title": "Վարտիք -տակդիրներ «Merries L» 9-14կգ, 44 հատ",
@@ -5537,12 +5527,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1151025.png",
     "url": "https://yerevan-city.am/shop/product-details/131495",
     "key": "Yerevan City|id:131495|3460|2970"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մարտկոց «Դյուրասելլ» Օպտիմում ԱԱ 1.5Վ 6հտ",
+    "old": 3450,
+    "new": 3030,
+    "pct": 12,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1150901.png",
+    "url": "https://yerevan-city.am/shop/product-details/131372",
+    "key": "Yerevan City|id:131372|3450|3030"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-27T07:31:15.497303+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-27T07:46:05.146505+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
