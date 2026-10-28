@@ -1314,17 +1314,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Սպագետտի «Barilla Spaghettoni №7» 500գ",
-    "old": 880,
-    "new": 730,
-    "pct": 17,
-    "until": "10.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/333/137/1377101246107463.webp",
-    "url": "https://www.sas.am/catalog/spagetti_kapelini/3270/",
-    "key": "SAS|id:3270|880|730"
-   },
-   {
-    "store": "SAS",
     "title": "Սափրող սարք «Wilkinson Xtreme 3»",
     "old": 790,
     "new": 550,
@@ -5717,8 +5706,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-29T02:18:20.000453+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-29T02:46:42.660426+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
