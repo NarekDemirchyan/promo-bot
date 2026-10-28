@@ -1236,22 +1236,12 @@
    "Yerevan City|id:158915|3180|2520",
    "Yerevan City|id:172480|3150|2190",
    "Yerevan City|id:175435|3140|2040",
-   "Yerevan City|id:175436|3140|2640"
+   "Yerevan City|id:175436|3140|2640",
+   "Yerevan City|id:192096|3090|2160"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Թեյ մրգային «Curtis» 20*1.7գ",
-    "old": 960,
-    "new": 650,
-    "pct": 32,
-    "until": "28.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/v_paketakh/235848/",
-    "key": "SAS|id:235848|960|650"
-   },
    {
     "store": "SAS",
     "title": "Ձեթ ձիթապտղի «Luglio Pomace» 0.5լ",
@@ -3445,17 +3435,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Ջրային խաղ գլխարկով 6188-3",
-    "old": 4450,
-    "new": 3110,
-    "pct": 30,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175487.png",
-    "url": "https://yerevan-city.am/shop/product-details/191762",
-    "key": "Yerevan City|id:191762|4450|3110"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Մարզման ռեզին «Լայվպրո» ԼՊ8415 ԻքսՀ",
     "old": 4450,
     "new": 3250,
@@ -5631,12 +5610,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169066.png",
     "url": "https://yerevan-city.am/shop/product-details/175436",
     "key": "Yerevan City|id:175436|3140|2640"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հերոսներ հավաքածու 107",
+    "old": 3090,
+    "new": 2160,
+    "pct": 30,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175819.png",
+    "url": "https://yerevan-city.am/shop/product-details/192096",
+    "key": "Yerevan City|id:192096|3090|2160"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-28T09:31:45.823148+04:00",
+ "last_publish": "2026-10-28T09:46:57.675835+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
