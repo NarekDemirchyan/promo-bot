@@ -1230,22 +1230,12 @@
    "Yerevan City|id:1325|3190|2950",
    "Yerevan City|id:1318|3190|2950",
    "Yerevan City|id:9929|3180|2930",
-   "Yerevan City|id:158915|3180|2520"
+   "Yerevan City|id:158915|3180|2520",
+   "Yerevan City|id:172480|3150|2190"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Թեյ սև «Teida Earl Grey» 22*2գ",
-    "old": 990,
-    "new": 560,
-    "pct": 43,
-    "until": "28.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/v_paketakh/355223/",
-    "key": "SAS|id:355223|990|560"
-   },
    {
     "store": "SAS",
     "title": "Գինի կարմիր «Օրրան Արենի & Մալբեկ» 0․75լ",
@@ -3439,17 +3429,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Սոուս «Տաբասկո» չիպոտլե 148մլ",
-    "old": 4490,
-    "new": 2990,
-    "pct": 33,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172268.png",
-    "url": "https://yerevan-city.am/shop/product-details/178569",
-    "key": "Yerevan City|id:178569|4490|2990"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Սափոր «Դ.Հոմ» ներժ 14սմ ԶՅԲ206 (ինդ)",
     "old": 4490,
     "new": 2950,
@@ -5625,12 +5604,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156558.png",
     "url": "https://yerevan-city.am/shop/product-details/158915",
     "key": "Yerevan City|id:158915|3180|2520"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սավան ձգվող ընտ․ «ՑինԹայ» 180x200",
+    "old": 3150,
+    "new": 2190,
+    "pct": 30,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1166061.png",
+    "url": "https://yerevan-city.am/shop/product-details/172480",
+    "key": "Yerevan City|id:172480|3150|2190"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-28T08:01:58.216335+04:00",
+ "last_publish": "2026-10-28T08:16:39.299566+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
