@@ -1286,22 +1286,12 @@
    "Yerevan City|id:195079|2990|2390",
    "Yerevan City|id:48214|2990|2390",
    "Yerevan City|id:115775|2990|1840",
-   "Yerevan City|id:117111|2990|2690"
+   "Yerevan City|id:117111|2990|2690",
+   "Yerevan City|id:161181|2990|1810"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Փրփրուն գինի «Brilla Prosecco Rose» 0.75լ",
-    "old": 6990,
-    "new": 5780,
-    "pct": 17,
-    "until": "13.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/shampanskoe_igristoe_vino/304193/",
-    "key": "SAS|id:304193|6990|5780"
-   },
    {
     "store": "SAS",
     "title": "Լիցքավորման լար «Borofone BX-20»",
@@ -5681,12 +5671,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1147116.png",
     "url": "https://yerevan-city.am/shop/product-details/117111",
     "key": "Yerevan City|id:117111|2990|2690"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շոկոլադե կրեմ «Միլկի Վեյ» շոկոլադե-կաթնային 350գր",
+    "old": 2990,
+    "new": 1810,
+    "pct": 39,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1158821.png",
+    "url": "https://yerevan-city.am/shop/product-details/161181",
+    "key": "Yerevan City|id:161181|2990|1810"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-28T21:16:09.286898+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-28T21:31:20.517697+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
