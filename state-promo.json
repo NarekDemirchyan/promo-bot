@@ -1228,22 +1228,12 @@
    "Yerevan City|id:1417|3190|2950",
    "Yerevan City|id:1325|3190|2950",
    "Yerevan City|id:1318|3190|2950",
-   "Yerevan City|id:9929|3180|2930"
+   "Yerevan City|id:9929|3180|2930",
+   "Yerevan City|id:158915|3180|2520"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Անձեռոցիկ խոնավ «Էկկա Դելյուքս» 80հատ",
-    "old": 750,
-    "new": 620,
-    "pct": 17,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/479/831/8313383218102010.webp",
-    "url": "https://www.sas.am/catalog/vetwip_es/327734/",
-    "key": "SAS|id:327734|750|620"
-   },
    {
     "store": "SAS",
     "title": "Թեյ սև «Teida Earl Grey» 22*2գ",
@@ -5623,12 +5613,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1047343.png",
     "url": "https://yerevan-city.am/shop/product-details/9929",
     "key": "Yerevan City|id:9929|3180|2930"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Դեմքի քսուք «Լիրեն» ՓՓ, հալվե, խոնավեցնող 50մլ",
+    "old": 3180,
+    "new": 2520,
+    "pct": 21,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156558.png",
+    "url": "https://yerevan-city.am/shop/product-details/158915",
+    "key": "Yerevan City|id:158915|3180|2520"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-28T07:16:43.654666+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-28T07:33:52.318622+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
