@@ -1252,22 +1252,12 @@
    "Yerevan City|id:98918|3040|2430",
    "Yerevan City|id:158922|3030|2390",
    "Yerevan City|id:92859|3030|2300",
-   "Yerevan City|id:194261|3020|2660"
+   "Yerevan City|id:194261|3020|2660",
+   "Yerevan City|id:195417|2990|2390"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Թխվածքաբլիթ բրաունի «Bergen» 128գ",
-    "old": 1150,
-    "new": 970,
-    "pct": 16,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/683/717/7178492988980739.webp",
-    "url": "https://www.sas.am/catalog/pechene_pryaniki/822814/",
-    "key": "SAS|id:822814|1150|970"
-   },
    {
     "store": "SAS",
     "title": "Հյութ դեղձի և մանգոյի «Santal» 1լ",
@@ -5647,12 +5637,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178033.png",
     "url": "https://yerevan-city.am/shop/product-details/194261",
     "key": "Yerevan City|id:194261|3020|2660"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ավտոմեքենաների հավաքածու, մետաղ. 7հատ",
+    "old": 2990,
+    "new": 2390,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1179224.png",
+    "url": "https://yerevan-city.am/shop/product-details/195417",
+    "key": "Yerevan City|id:195417|2990|2390"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-28T13:02:00.289687+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-28T13:17:01.812360+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
