@@ -669,7 +669,8 @@
    "SAS|id:39341|1940|1590",
    "SAS|id:678645|3290|2790",
    "SAS|id:673978|1190|1050",
-   "SAS|id:672238|1940|1590"
+   "SAS|id:672238|1940|1590",
+   "SAS|id:672237|1940|1590"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3422,6 +3423,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/antiperspirantt/672238/",
     "key": "SAS|id:672238|1940|1590"
+   },
+   {
+    "store": "SAS",
+    "title": "Հակաքրտինքային աէրոզոլային միջոց «Nivea Men Ultra» 150մլ",
+    "old": 1940,
+    "new": 1590,
+    "pct": 18,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/166/947/9478071678336643.webp",
+    "url": "https://www.sas.am/catalog/antiperspirantt/672237/",
+    "key": "SAS|id:672237|1940|1590"
    }
   ],
   "Yerevan City": [
