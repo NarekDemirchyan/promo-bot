@@ -663,7 +663,8 @@
    "SAS|id:746823|2670|2390",
    "SAS|id:734138|2790|2570",
    "SAS|id:734137|2790|2570",
-   "SAS|id:730443|1250|1130"
+   "SAS|id:730443|1250|1130",
+   "SAS|id:730441|1250|1130"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -1217,22 +1218,12 @@
    "Yerevan City|id:101679|3190|1910",
    "Yerevan City|id:103546|3190|1590",
    "Yerevan City|id:173977|3190|1910",
-   "Yerevan City|id:16833|3190|2950"
+   "Yerevan City|id:16833|3190|2950",
+   "Yerevan City|id:15900|3190|2950"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Յոգուրտ մանգոյի և ծիրանի «Movenpick Moments Of Joy» 100գ, յուղայնությունը՝ 5",
-    "old": 450,
-    "new": 370,
-    "pct": 18,
-    "until": "28.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/yogurt_puding/902250/",
-    "key": "SAS|id:902250|450|370"
-   },
    {
     "store": "SAS",
     "title": "Մակարոն «Di Bari Farfalle Bietola Rossa» 250գ",
@@ -3410,20 +3401,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/503/010/0100551156852647.webp",
     "url": "https://www.sas.am/catalog/osvezhiteli/730443/",
     "key": "SAS|id:730443|1250|1130"
+   },
+   {
+    "store": "SAS",
+    "title": "Օդը թարմացնող միջոց «Brait Golden Amber» 300մլ",
+    "old": 1250,
+    "new": 1130,
+    "pct": 10,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/111/448/4488572349225405.webp",
+    "url": "https://www.sas.am/catalog/osvezhiteli/730441/",
+    "key": "SAS|id:730441|1250|1130"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Փրփրուն գինի ոչ ալկոհոլային «Զոնին» Կյուվե, չոր 0.75լ",
-    "old": 4490,
-    "new": 3990,
-    "pct": 11,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156952.png",
-    "url": "https://yerevan-city.am/shop/product-details/159290",
-    "key": "Yerevan City|id:159290|4490|3990"
-   },
    {
     "store": "Yerevan City",
     "title": "Վարսահարդարման հավաքածու «Ֆեյշն» ԻքսՎ155-46",
@@ -5601,12 +5592,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1092239.png",
     "url": "https://yerevan-city.am/shop/product-details/16833",
     "key": "Yerevan City|id:16833|3190|2950"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գինի «Երևան» վարդագույն անապակ 0.75լ",
+    "old": 3190,
+    "new": 2950,
+    "pct": 8,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1066560.png",
+    "url": "https://yerevan-city.am/shop/product-details/15900",
+    "key": "Yerevan City|id:15900|3190|2950"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-28T05:31:14.387255+04:00",
+ "last_publish": "2026-10-28T05:46:01.846133+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
