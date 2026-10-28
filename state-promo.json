@@ -1216,7 +1216,8 @@
    "Yerevan City|id:113929|3190|1990",
    "Yerevan City|id:101679|3190|1910",
    "Yerevan City|id:103546|3190|1590",
-   "Yerevan City|id:173977|3190|1910"
+   "Yerevan City|id:173977|3190|1910",
+   "Yerevan City|id:16833|3190|2950"
   ]
  },
  "queues": {
@@ -5611,6 +5612,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1167572.png",
     "url": "https://yerevan-city.am/shop/product-details/173977",
     "key": "Yerevan City|id:173977|3190|1910"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գինի «Երևան» կարմիր կիսաքաղցր 0.75լ",
+    "old": 3190,
+    "new": 2950,
+    "pct": 8,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1092239.png",
+    "url": "https://yerevan-city.am/shop/product-details/16833",
+    "key": "Yerevan City|id:16833|3190|2950"
    }
   ]
  },
