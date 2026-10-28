@@ -684,7 +684,8 @@
    "SAS|id:140535|2580|2330",
    "SAS|id:4027|1190|1050",
    "SAS|id:657127|3140|2730",
-   "SAS|id:98285|6940|5990"
+   "SAS|id:98285|6940|5990",
+   "SAS|id:654246|1930|1680"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -1259,7 +1260,8 @@
    "Yerevan City|id:195417|2990|2390",
    "Yerevan City|id:180783|2990|1350",
    "Yerevan City|id:38541|2990|2390",
-   "Yerevan City|id:99639|2990|1890"
+   "Yerevan City|id:99639|2990|1890",
+   "Yerevan City|id:111576|2990|1690"
   ]
  },
  "queues": {
@@ -3452,6 +3454,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/rastitelnoe/98285/",
     "key": "SAS|id:98285|6940|5990"
+   },
+   {
+    "store": "SAS",
+    "title": "Բալզամ «Schwarzkopf Gliss» 200մլ",
+    "old": 1930,
+    "new": 1680,
+    "pct": 13,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/361/461/4611892256633302.webp",
+    "url": "https://www.sas.am/catalog/balzam_dlya_volos/654246/",
+    "key": "SAS|id:654246|1930|1680"
    }
   ],
   "Yerevan City": [
@@ -5643,6 +5656,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1135061.png",
     "url": "https://yerevan-city.am/shop/product-details/99639",
     "key": "Yerevan City|id:99639|2990|1890"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Քափկիր «Բրաբանտիա» նեյլոն 2107-020",
+    "old": 2990,
+    "new": 1690,
+    "pct": 43,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1142453.png",
+    "url": "https://yerevan-city.am/shop/product-details/111576",
+    "key": "Yerevan City|id:111576|2990|1690"
    }
   ]
  },
