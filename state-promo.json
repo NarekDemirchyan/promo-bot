@@ -1306,7 +1306,8 @@
    "Yerevan City|id:99432|2990|1990",
    "Yerevan City|id:195064|2990|2390",
    "Yerevan City|id:194220|2990|1990",
-   "Yerevan City|id:177038|2990|1790"
+   "Yerevan City|id:177038|2990|1790",
+   "Yerevan City|id:177222|2990|1790"
   ]
  },
  "queues": {
@@ -5701,6 +5702,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170680.png",
     "url": "https://yerevan-city.am/shop/product-details/177038",
     "key": "Yerevan City|id:177038|2990|1790"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ավտոմեքենա մետաղ.+ ճանապարհ.նշաններ 6հտ ՄՋ3089",
+    "old": 2990,
+    "new": 1790,
+    "pct": 40,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170875.png",
+    "url": "https://yerevan-city.am/shop/product-details/177222",
+    "key": "Yerevan City|id:177222|2990|1790"
    }
   ]
  },
