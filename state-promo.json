@@ -1222,17 +1222,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Արևածաղկի սերմեր աղով «От Мартина» 300գ",
-    "old": 1220,
-    "new": 1150,
-    "pct": 6,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/237/663/6634231786228058.webp",
-    "url": "https://www.sas.am/catalog/semechki/935083/",
-    "key": "SAS|id:935083|1220|1150"
-   },
-   {
-    "store": "SAS",
     "title": "Յոգուրտ բալով «Parmalat» 130գ, յուղայնությունը՝ 2․9",
     "old": 580,
     "new": 410,
@@ -5625,8 +5614,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-28T04:31:15.708873+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-28T04:46:01.052518+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
