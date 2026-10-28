@@ -688,7 +688,8 @@
    "SAS|id:654246|1930|1680",
    "SAS|id:604259|660|550",
    "SAS|id:647537|2890|2590",
-   "SAS|id:647532|2890|2590"
+   "SAS|id:647532|2890|2590",
+   "SAS|id:304198|6260|5790"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -1267,22 +1268,12 @@
    "Yerevan City|id:111576|2990|1690",
    "Yerevan City|id:195109|2990|2390",
    "Yerevan City|id:111588|2990|1950",
-   "Yerevan City|id:195107|2990|2390"
+   "Yerevan City|id:195107|2990|2390",
+   "Yerevan City|id:195099|2990|2390"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Մաստակ-կոնֆետ մրգային «Mamba» 70գ",
-    "old": 610,
-    "new": 490,
-    "pct": 20,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/515/285/285632681469438.webp",
-    "url": "https://www.sas.am/catalog/chewingcandy/378480/",
-    "key": "SAS|id:378480|610|490"
-   },
    {
     "store": "SAS",
     "title": "Սուրճ էսպրեսսո հատիկավոր «Lavazza Qualità Rossa» 500գ",
@@ -3460,6 +3451,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/dlya_volos2/647532/",
     "key": "SAS|id:647532|2890|2590"
+   },
+   {
+    "store": "SAS",
+    "title": "Գինի կարմիր «Կարաս Մալբեկ» 0.75լ",
+    "old": 6260,
+    "new": 5790,
+    "pct": 8,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/armyanskoe_vino/304198/",
+    "key": "SAS|id:304198|6260|5790"
    }
   ],
   "Yerevan City": [
@@ -5651,12 +5653,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178912.png",
     "url": "https://yerevan-city.am/shop/product-details/195107",
     "key": "Yerevan City|id:195107|2990|2390"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Երաժշտական թմբուկ ՋԴ355Բ",
+    "old": 2990,
+    "new": 2390,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178909.png",
+    "url": "https://yerevan-city.am/shop/product-details/195099",
+    "key": "Yerevan City|id:195099|2990|2390"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-28T16:31:14.922597+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-28T16:46:26.512389+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
