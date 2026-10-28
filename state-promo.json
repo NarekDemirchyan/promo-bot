@@ -1254,7 +1254,8 @@
    "Yerevan City|id:158922|3030|2390",
    "Yerevan City|id:92859|3030|2300",
    "Yerevan City|id:194261|3020|2660",
-   "Yerevan City|id:195417|2990|2390"
+   "Yerevan City|id:195417|2990|2390",
+   "Yerevan City|id:180783|2990|1350"
   ]
  },
  "queues": {
@@ -5649,6 +5650,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1179224.png",
     "url": "https://yerevan-city.am/shop/product-details/195417",
     "key": "Yerevan City|id:195417|2990|2390"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տակդիր+ տարա լվացող միջ.համար «Սան Պլաստ» ՍԲ-765",
+    "old": 2990,
+    "new": 1350,
+    "pct": 55,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174517.png",
+    "url": "https://yerevan-city.am/shop/product-details/180783",
+    "key": "Yerevan City|id:180783|2990|1350"
    }
   ]
  },
