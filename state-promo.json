@@ -1296,22 +1296,12 @@
    "Yerevan City|id:166064|2990|1495",
    "Yerevan City|id:166133|2990|1650",
    "Yerevan City|id:166150|2990|1290",
-   "Yerevan City|id:176931|2990|1790"
+   "Yerevan City|id:176931|2990|1790",
+   "Yerevan City|id:176946|2990|1790"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շոկոլադե սալիկ վաֆլե կտորներով և կարամելով «Lindt Excellence Crispy» 100գ",
-    "old": 2650,
-    "new": 1490,
-    "pct": 44,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/plitka/874030/",
-    "key": "SAS|id:874030|2650|1490"
-   },
    {
     "store": "SAS",
     "title": "Շուրթերի բալզամ «Nivea Watermelon Shine» 4.8գ",
@@ -5691,12 +5681,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170578.png",
     "url": "https://yerevan-city.am/shop/product-details/176931",
     "key": "Yerevan City|id:176931|2990|1790"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սեղանի խաղ Չելլենջ",
+    "old": 2990,
+    "new": 1790,
+    "pct": 40,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170594.png",
+    "url": "https://yerevan-city.am/shop/product-details/176946",
+    "key": "Yerevan City|id:176946|2990|1790"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-28T23:46:47.116371+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-29T00:03:52.357800+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
