@@ -1298,22 +1298,12 @@
    "Yerevan City|id:166133|2990|1650",
    "Yerevan City|id:166150|2990|1290",
    "Yerevan City|id:176931|2990|1790",
-   "Yerevan City|id:176946|2990|1790"
+   "Yerevan City|id:176946|2990|1790",
+   "Yerevan City|id:99432|2990|1990"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շուրթերի բալզամ «Nivea Watermelon Shine» 4.8գ",
-    "old": 1990,
-    "new": 1460,
-    "pct": 27,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/105/388/3884312876617344.webp",
-    "url": "https://www.sas.am/catalog/vse_dlya_gub/873107/",
-    "key": "SAS|id:873107|1990|1460"
-   },
    {
     "store": "SAS",
     "title": "Թեյ կանաչ «Teida Ginger Mojito» 22*2գ",
@@ -5693,12 +5683,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170594.png",
     "url": "https://yerevan-city.am/shop/product-details/176946",
     "key": "Yerevan City|id:176946|2990|1790"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շոկոլադե կոնֆետներ «Քուոլիթի Սթրիթ» 220գր",
+    "old": 2990,
+    "new": 1990,
+    "pct": 33,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1034779.png",
+    "url": "https://yerevan-city.am/shop/product-details/99432",
+    "key": "Yerevan City|id:99432|2990|1990"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-29T00:32:02.754087+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-29T00:46:55.024372+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
