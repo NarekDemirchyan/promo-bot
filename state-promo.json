@@ -1262,17 +1262,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Հյութ դեղձի և մանգոյի «Santal» 1լ",
-    "old": 1520,
-    "new": 1160,
-    "pct": 24,
-    "until": "29.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/374/032/0326563553773828.webp",
-    "url": "https://www.sas.am/catalog/sok/4281/",
-    "key": "SAS|id:4281|1520|1160"
-   },
-   {
-    "store": "SAS",
     "title": "Յոգուրտ ելակի «Movenpick Moments Of Joy» 100գ, յուղայնությունը՝ 5",
     "old": 450,
     "new": 370,
@@ -5665,8 +5654,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-28T13:33:30.877203+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-28T14:02:01.335581+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
