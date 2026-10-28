@@ -1256,22 +1256,12 @@
    "Yerevan City|id:92859|3030|2300",
    "Yerevan City|id:194261|3020|2660",
    "Yerevan City|id:195417|2990|2390",
-   "Yerevan City|id:180783|2990|1350"
+   "Yerevan City|id:180783|2990|1350",
+   "Yerevan City|id:38541|2990|2390"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Յոգուրտ ելակի «Movenpick Moments Of Joy» 100գ, յուղայնությունը՝ 5",
-    "old": 450,
-    "new": 370,
-    "pct": 18,
-    "until": "28.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/350/247/247914264007485.webp",
-    "url": "https://www.sas.am/catalog/yogurt_puding/902238/",
-    "key": "SAS|id:902238|450|370"
-   },
    {
     "store": "SAS",
     "title": "Յոգուրտ հապալասի «Movenpick Moments Of Joy» 100գ, յուղայնությունը՝ 5",
@@ -3465,17 +3455,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Սրբիչ լոգանքի «Ռոյալ Հոմ» 600 երկնագույն 70x140",
-    "old": 4190,
-    "new": 2890,
-    "pct": 31,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1113719.png",
-    "url": "https://yerevan-city.am/shop/product-details/69053",
-    "key": "Yerevan City|id:69053|4190|2890"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Տարա սառնարանի «Դեննի Հոմ» ուղղ.38x28 ՀՕ-008",
     "old": 4190,
     "new": 2490,
@@ -5651,12 +5630,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174517.png",
     "url": "https://yerevan-city.am/shop/product-details/180783",
     "key": "Yerevan City|id:180783|2990|1350"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մոնոպոլիա ռուսերեն 5211Ռ",
+    "old": 2990,
+    "new": 2390,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1073780.png",
+    "url": "https://yerevan-city.am/shop/product-details/38541",
+    "key": "Yerevan City|id:38541|2990|2390"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-28T14:16:45.384396+04:00",
+ "last_publish": "2026-10-28T14:32:11.820606+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
