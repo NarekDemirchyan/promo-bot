@@ -674,7 +674,8 @@
    "SAS|id:672229|2090|1550",
    "SAS|id:672218|1790|1450",
    "SAS|id:672217|1790|1450",
-   "SAS|id:672215|2350|1740"
+   "SAS|id:672215|2350|1740",
+   "SAS|id:670004|1520|1220"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3432,6 +3433,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/203/279/2792171320632718.webp",
     "url": "https://www.sas.am/catalog/antiperspirantt/672215/",
     "key": "SAS|id:672215|2350|1740"
+   },
+   {
+    "store": "SAS",
+    "title": "Շամպուն մանկական «Моя Прелесть» 250մլ",
+    "old": 1520,
+    "new": 1220,
+    "pct": 20,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/641/485/4851541921012230.webp",
+    "url": "https://www.sas.am/catalog/shampoogel/670004/",
+    "key": "SAS|id:670004|1520|1220"
    }
   ],
   "Yerevan City": [
