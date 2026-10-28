@@ -1240,7 +1240,8 @@
    "Yerevan City|id:175435|3140|2040",
    "Yerevan City|id:175436|3140|2640",
    "Yerevan City|id:192096|3090|2160",
-   "Yerevan City|id:179208|3140|2760"
+   "Yerevan City|id:179208|3140|2760",
+   "Yerevan City|id:66698|3060|2540"
   ]
  },
  "queues": {
@@ -5635,6 +5636,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172916.png",
     "url": "https://yerevan-city.am/shop/product-details/179208",
     "key": "Yerevan City|id:179208|3140|2760"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Լվացվելու մուսս «Նիվեա» չոր-զգայուն 150մլ",
+    "old": 3060,
+    "new": 2540,
+    "pct": 17,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1015820.png",
+    "url": "https://yerevan-city.am/shop/product-details/66698",
+    "key": "Yerevan City|id:66698|3060|2540"
    }
   ]
  },
