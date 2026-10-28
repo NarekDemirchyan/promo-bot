@@ -1300,7 +1300,8 @@
    "Yerevan City|id:166150|2990|1290",
    "Yerevan City|id:176931|2990|1790",
    "Yerevan City|id:176946|2990|1790",
-   "Yerevan City|id:99432|2990|1990"
+   "Yerevan City|id:99432|2990|1990",
+   "Yerevan City|id:195064|2990|2390"
   ]
  },
  "queues": {
@@ -5695,6 +5696,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1034779.png",
     "url": "https://yerevan-city.am/shop/product-details/99432",
     "key": "Yerevan City|id:99432|2990|1990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Երաժշտական խաղալիք «Կոմիքս» կիթառով",
+    "old": 2990,
+    "new": 2390,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178864.png",
+    "url": "https://yerevan-city.am/shop/product-details/195064",
+    "key": "Yerevan City|id:195064|2990|2390"
    }
   ]
  },
