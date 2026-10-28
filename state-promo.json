@@ -1248,22 +1248,12 @@
    "Yerevan City|id:66698|3060|2540",
    "Yerevan City|id:7933|3050|2450",
    "Yerevan City|id:98918|3040|2430",
-   "Yerevan City|id:158922|3030|2390"
+   "Yerevan City|id:158922|3030|2390",
+   "Yerevan City|id:92859|3030|2300"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կաթ «Parmalat» 1լ, յուղայնությունը`0.5",
-    "old": 1460,
-    "new": 1050,
-    "pct": 28,
-    "until": "28.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/moloko/100453/",
-    "key": "SAS|id:100453|1460|1050"
-   },
    {
     "store": "SAS",
     "title": "Թխվածքաբլիթ նուշով «Bergen Original» 130գ",
@@ -3457,17 +3447,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Գունաներկում աքսեսուարներով",
-    "old": 4290,
-    "new": 3250,
-    "pct": 24,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175850.png",
-    "url": "https://yerevan-city.am/shop/product-details/192125",
-    "key": "Yerevan City|id:192125|4290|3250"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Ականջակալ-հեդֆոն անլար Բ23ԲՏ",
     "old": 4250,
     "new": 2990,
@@ -5643,12 +5622,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156565.png",
     "url": "https://yerevan-city.am/shop/product-details/158922",
     "key": "Yerevan City|id:158922|3030|2390"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Դեմքի քսուք «Նիվեա» Քեյր, հակատարիքային 100մլ",
+    "old": 3030,
+    "new": 2300,
+    "pct": 24,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1129756.png",
+    "url": "https://yerevan-city.am/shop/product-details/92859",
+    "key": "Yerevan City|id:92859|3030|2300"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-28T12:02:04.667350+04:00",
+ "last_publish": "2026-10-28T12:19:17.937165+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
