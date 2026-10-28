@@ -1292,17 +1292,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Օղի «Алтай» 0.7լ",
-    "old": 10310,
-    "new": 9750,
-    "pct": 5,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/140/166/1666692454445155.webp",
-    "url": "https://www.sas.am/catalog/importnoe/884803/",
-    "key": "SAS|id:884803|10310|9750"
-   },
-   {
-    "store": "SAS",
     "title": "Փրփրուն գինի «Brilla Prosecco Rose» 0.75լ",
     "old": 6990,
     "new": 5780,
@@ -5695,8 +5684,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-28T20:32:45.047002+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-28T21:01:26.439129+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
