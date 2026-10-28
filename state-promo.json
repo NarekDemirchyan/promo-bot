@@ -1248,17 +1248,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Կետչուպ տոմատի «Heinz Томатный» 320գ",
-    "old": 970,
-    "new": 850,
-    "pct": 12,
-    "until": "29.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/ketchup_tomatnyy_sous/63513/",
-    "key": "SAS|id:63513|970|850"
-   },
-   {
-    "store": "SAS",
     "title": "Խավիար սմբուկի կծու «Արտֆուդ» 360գ",
     "old": 890,
     "new": 790,
@@ -5651,8 +5640,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-28T10:20:50.168228+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-28T10:46:52.443674+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
