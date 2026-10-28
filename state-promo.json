@@ -1212,22 +1212,12 @@
    "Yerevan City|id:8796|3190|2790",
    "Yerevan City|id:3319|3190|2390",
    "Yerevan City|id:113929|3190|1990",
-   "Yerevan City|id:101679|3190|1910"
+   "Yerevan City|id:101679|3190|1910",
+   "Yerevan City|id:103546|3190|1590"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Հակաքրտինքային աէրոզոլային միջոց «Nivea Men Ultra» 150մլ",
-    "old": 1940,
-    "new": 1590,
-    "pct": 18,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/antiperspirantt/2505/",
-    "key": "SAS|id:2505|1940|1590"
-   },
    {
     "store": "SAS",
     "title": "Արևածաղկի սերմեր աղով «От Мартина» 300գ",
@@ -5607,12 +5597,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1136570.png",
     "url": "https://yerevan-city.am/shop/product-details/101679",
     "key": "Yerevan City|id:101679|3190|1910"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սրճեփ «Ռեյ Քիթչն» 400մլ",
+    "old": 3190,
+    "new": 1590,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1138339.png",
+    "url": "https://yerevan-city.am/shop/product-details/103546",
+    "key": "Yerevan City|id:103546|3190|1590"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-28T04:01:25.699335+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-28T04:16:00.414127+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
