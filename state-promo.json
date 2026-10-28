@@ -667,7 +667,8 @@
    "SAS|id:730441|1250|1130",
    "SAS|id:692914|1490|1190",
    "SAS|id:39341|1940|1590",
-   "SAS|id:678645|3290|2790"
+   "SAS|id:678645|3290|2790",
+   "SAS|id:673978|1190|1050"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -1225,22 +1226,12 @@
    "Yerevan City|id:15900|3190|2950",
    "Yerevan City|id:1417|3190|2950",
    "Yerevan City|id:1325|3190|2950",
-   "Yerevan City|id:1318|3190|2950"
+   "Yerevan City|id:1318|3190|2950",
+   "Yerevan City|id:9929|3180|2930"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Լոգանքի կրեմ-գել «Le Petit Marseillais» 250մլ",
-    "old": 1210,
-    "new": 990,
-    "pct": 18,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/showergell/34592/",
-    "key": "SAS|id:34592|1210|990"
-   },
    {
     "store": "SAS",
     "title": "Անձեռոցիկ խոնավ «Էկկա Դելյուքս» 80հատ",
@@ -3418,6 +3409,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/armyanskoe_vino/678645/",
     "key": "SAS|id:678645|3290|2790"
+   },
+   {
+    "store": "SAS",
+    "title": "Զուգարանակոնքի մաքրող միջոց «Bref Brilliant» 42գ",
+    "old": 1190,
+    "new": 1050,
+    "pct": 12,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/forhebathroom/673978/",
+    "key": "SAS|id:673978|1190|1050"
    }
   ],
   "Yerevan City": [
@@ -5609,12 +5611,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1060366.png",
     "url": "https://yerevan-city.am/shop/product-details/1318",
     "key": "Yerevan City|id:1318|3190|2950"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կարագ սերուցքային «Վալիո» 82% 500գր",
+    "old": 3180,
+    "new": 2930,
+    "pct": 8,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1047343.png",
+    "url": "https://yerevan-city.am/shop/product-details/9929",
+    "key": "Yerevan City|id:9929|3180|2930"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-28T06:46:46.010812+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-28T07:02:08.076505+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
