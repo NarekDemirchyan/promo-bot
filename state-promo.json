@@ -1290,22 +1290,12 @@
    "Yerevan City|id:115775|2990|1840",
    "Yerevan City|id:117111|2990|2690",
    "Yerevan City|id:161181|2990|1810",
-   "Yerevan City|id:166064|2990|1495"
+   "Yerevan City|id:166064|2990|1495",
+   "Yerevan City|id:166133|2990|1650"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Օղի «Арктика» 0.7լ",
-    "old": 11820,
-    "new": 7490,
-    "pct": 37,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/370/467/467170972145050.webp",
-    "url": "https://www.sas.am/catalog/importnoe/877008/",
-    "key": "SAS|id:877008|11820|7490"
-   },
    {
     "store": "SAS",
     "title": "Օղի «Арктика» 0.5լ",
@@ -5685,12 +5675,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1161755.png",
     "url": "https://yerevan-city.am/shop/product-details/166064",
     "key": "Yerevan City|id:166064|2990|1495"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Պատառաքաղ «Դեննի Հոմ» սև 6կտոր ՀԿ035Բ-3",
+    "old": 2990,
+    "new": 1650,
+    "pct": 45,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1161825.png",
+    "url": "https://yerevan-city.am/shop/product-details/166133",
+    "key": "Yerevan City|id:166133|2990|1650"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-28T22:16:17.601505+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-28T22:31:22.137803+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
