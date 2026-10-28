@@ -1284,7 +1284,8 @@
    "Yerevan City|id:18741|2990|2340",
    "Yerevan City|id:195079|2990|2390",
    "Yerevan City|id:48214|2990|2390",
-   "Yerevan City|id:115775|2990|1840"
+   "Yerevan City|id:115775|2990|1840",
+   "Yerevan City|id:117111|2990|2690"
   ]
  },
  "queues": {
@@ -5679,6 +5680,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1145892.png",
     "url": "https://yerevan-city.am/shop/product-details/115775",
     "key": "Yerevan City|id:115775|2990|1840"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Պանիր լոռի «Մանուկ» վակուում կգ",
+    "old": 2990,
+    "new": 2690,
+    "pct": 10,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1147116.png",
+    "url": "https://yerevan-city.am/shop/product-details/117111",
+    "key": "Yerevan City|id:117111|2990|2690"
    }
   ]
  },
