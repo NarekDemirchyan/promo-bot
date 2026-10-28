@@ -698,7 +698,8 @@
    "SAS|id:20371|990|560",
    "SAS|id:612185|2930|2650",
    "SAS|id:129723|2550|1950",
-   "SAS|id:103731|980|880"
+   "SAS|id:103731|980|880",
+   "SAS|id:3486|980|880"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3480,20 +3481,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/121/462/4627811348476084.webp",
     "url": "https://www.sas.am/catalog/liqsoup/103731/",
     "key": "SAS|id:103731|980|880"
+   },
+   {
+    "store": "SAS",
+    "title": "Հեղուկ օճառ «Teo Tete-a-Tete» 400մլ",
+    "old": 980,
+    "new": 880,
+    "pct": 10,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/liqsoup/3486/",
+    "key": "SAS|id:3486|980|880"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Բազկաթոռ ծալվող, մետաղական հիմքով 50x50x80սմ",
-    "old": 3990,
-    "new": 2990,
-    "pct": 25,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1123623.png",
-    "url": "https://yerevan-city.am/shop/product-details/84079",
-    "key": "Yerevan City|id:84079|3990|2990"
-   },
    {
     "store": "Yerevan City",
     "title": "Հաշվիչ «Իլեվն» ՑԴԲ1201-ԲԿ",
@@ -5686,8 +5687,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-28T21:31:20.517697+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-28T21:47:21.430191+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
