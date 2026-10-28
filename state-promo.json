@@ -670,7 +670,8 @@
    "SAS|id:678645|3290|2790",
    "SAS|id:673978|1190|1050",
    "SAS|id:672238|1940|1590",
-   "SAS|id:672237|1940|1590"
+   "SAS|id:672237|1940|1590",
+   "SAS|id:672229|2090|1550"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -1231,22 +1232,12 @@
    "Yerevan City|id:1318|3190|2950",
    "Yerevan City|id:9929|3180|2930",
    "Yerevan City|id:158915|3180|2520",
-   "Yerevan City|id:172480|3150|2190"
+   "Yerevan City|id:172480|3150|2190",
+   "Yerevan City|id:175435|3140|2040"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Գինի կարմիր «Օրրան Արենի & Մալբեկ» 0․75լ",
-    "old": 2930,
-    "new": 2650,
-    "pct": 10,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/armyanskoe_vino/267725/",
-    "key": "SAS|id:267725|2930|2650"
-   },
    {
     "store": "SAS",
     "title": "Թղթե սրբիչ «Zewa Jumbo Standard» 1 հատ",
@@ -3424,6 +3415,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/166/947/9478071678336643.webp",
     "url": "https://www.sas.am/catalog/antiperspirantt/672237/",
     "key": "SAS|id:672237|1940|1590"
+   },
+   {
+    "store": "SAS",
+    "title": "Հակաքրտինքային միջոց-սթիք «Nivea Fresh Flower» 50մլ",
+    "old": 2090,
+    "new": 1550,
+    "pct": 26,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/124/562/5623741421771297.webp",
+    "url": "https://www.sas.am/catalog/antiperspirantt/672229/",
+    "key": "SAS|id:672229|2090|1550"
    }
   ],
   "Yerevan City": [
@@ -5615,12 +5617,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1166061.png",
     "url": "https://yerevan-city.am/shop/product-details/172480",
     "key": "Yerevan City|id:172480|3150|2190"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Լվացվելու գել «Նիվեա» Դերմա, հետքերի դեմ 150մլ",
+    "old": 3140,
+    "new": 2040,
+    "pct": 35,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169065.png",
+    "url": "https://yerevan-city.am/shop/product-details/175435",
+    "key": "Yerevan City|id:175435|3140|2040"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-28T08:16:39.299566+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-28T08:32:09.767263+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
@@ -5629,7 +5642,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 19,
+ "city_page": 20,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
