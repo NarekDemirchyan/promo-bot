@@ -683,7 +683,8 @@
    "SAS|id:271993|890|750",
    "SAS|id:140535|2580|2330",
    "SAS|id:4027|1190|1050",
-   "SAS|id:657127|3140|2730"
+   "SAS|id:657127|3140|2730",
+   "SAS|id:98285|6940|5990"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -1257,22 +1258,12 @@
    "Yerevan City|id:194261|3020|2660",
    "Yerevan City|id:195417|2990|2390",
    "Yerevan City|id:180783|2990|1350",
-   "Yerevan City|id:38541|2990|2390"
+   "Yerevan City|id:38541|2990|2390",
+   "Yerevan City|id:99639|2990|1890"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Յոգուրտ հապալասի «Movenpick Moments Of Joy» 100գ, յուղայնությունը՝ 5",
-    "old": 450,
-    "new": 370,
-    "pct": 18,
-    "until": "28.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/232/443/4430234254029182.webp",
-    "url": "https://www.sas.am/catalog/yogurt_puding/902247/",
-    "key": "SAS|id:902247|450|370"
-   },
    {
     "store": "SAS",
     "title": "Ձողիկներ ծովախեցգետնի \"Vici\" 220գ",
@@ -3450,20 +3441,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/397/806/806388614279398.webp",
     "url": "https://www.sas.am/catalog/stiralnyy_poroshok/657127/",
     "key": "SAS|id:657127|3140|2730"
+   },
+   {
+    "store": "SAS",
+    "title": "Ձեթ ձիթապտղի «Luglio Extra VIrgin» 1լ",
+    "old": 6940,
+    "new": 5990,
+    "pct": 14,
+    "until": "10.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/rastitelnoe/98285/",
+    "key": "SAS|id:98285|6940|5990"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Տարա սառնարանի «Դեննի Հոմ» ուղղ.38x28 ՀՕ-008",
-    "old": 4190,
-    "new": 2490,
-    "pct": 41,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1163462.png",
-    "url": "https://yerevan-city.am/shop/product-details/169689",
-    "key": "Yerevan City|id:169689|4190|2490"
-   },
    {
     "store": "Yerevan City",
     "title": "Սրբիչ լոգանքի «Ռոյալ Հոմ» 600 կուբայի ավազ 70x140",
@@ -5641,12 +5632,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1073780.png",
     "url": "https://yerevan-city.am/shop/product-details/38541",
     "key": "Yerevan City|id:38541|2990|2390"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ցանց ձուկ խորովելու համար «Հոթ Փոթ» 36x12սմ",
+    "old": 2990,
+    "new": 1890,
+    "pct": 37,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1135061.png",
+    "url": "https://yerevan-city.am/shop/product-details/99639",
+    "key": "Yerevan City|id:99639|2990|1890"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-28T14:32:11.820606+04:00",
+ "last_publish": "2026-10-28T14:49:00.755434+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
