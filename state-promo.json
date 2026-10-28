@@ -681,7 +681,8 @@
    "SAS|id:661486|4400|3790",
    "SAS|id:661485|870|790",
    "SAS|id:271993|890|750",
-   "SAS|id:140535|2580|2330"
+   "SAS|id:140535|2580|2330",
+   "SAS|id:4027|1190|1050"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3446,20 +3447,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/345/899/899630762884231.webp",
     "url": "https://www.sas.am/catalog/bum_polotentsa/140535/",
     "key": "SAS|id:140535|2580|2330"
+   },
+   {
+    "store": "SAS",
+    "title": "Անձեռոցիկ «Selpak» 200 հատ",
+    "old": 1190,
+    "new": 1050,
+    "pct": 12,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/salfetki/4027/",
+    "key": "SAS|id:4027|1190|1050"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Ձիթապտղի ձեթ «Կամպանյա» ա/տ 1լ",
-    "old": 4240,
-    "new": 3490,
-    "pct": 18,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170511.png",
-    "url": "https://yerevan-city.am/shop/product-details/176869",
-    "key": "Yerevan City|id:176869|4240|3490"
-   },
    {
     "store": "Yerevan City",
     "title": "Սրբիչ լոգանքի «Ռոյալ Հոմ» 600 կապույտ ծով 70x140",
@@ -5652,8 +5653,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-28T13:17:01.812360+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-28T13:33:30.877203+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
