@@ -691,7 +691,8 @@
    "SAS|id:647532|2890|2590",
    "SAS|id:304198|6260|5790",
    "SAS|id:79493|1360|1160",
-   "SAS|id:960265|4050|3180"
+   "SAS|id:960265|4050|3180",
+   "SAS|id:960256|4050|3180"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3466,20 +3467,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/showergell/960265/",
     "key": "SAS|id:960265|4050|3180"
+   },
+   {
+    "store": "SAS",
+    "title": "Լոգանքի գել «Ambree Professional Safari In Africa» 750մլ",
+    "old": 4050,
+    "new": 3180,
+    "pct": 21,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/205/963/9634853069022262.webp",
+    "url": "https://www.sas.am/catalog/showergell/960256/",
+    "key": "SAS|id:960256|4050|3180"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Լվացքի փոշի «Արիել» Սպիտակ վարդ, ավտոմատ 3կգ",
-    "old": 4090,
-    "new": 3410,
-    "pct": 17,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1000046.png",
-    "url": "https://yerevan-city.am/shop/product-details/18410",
-    "key": "Yerevan City|id:18410|4090|3410"
-   },
    {
     "store": "Yerevan City",
     "title": "Չիր սալորի «Վիկտորիա» կգ",
@@ -5672,8 +5673,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-28T18:02:30.385322+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-28T18:16:52.717688+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
