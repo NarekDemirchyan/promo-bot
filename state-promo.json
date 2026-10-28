@@ -689,7 +689,8 @@
    "SAS|id:604259|660|550",
    "SAS|id:647537|2890|2590",
    "SAS|id:647532|2890|2590",
-   "SAS|id:304198|6260|5790"
+   "SAS|id:304198|6260|5790",
+   "SAS|id:79493|1360|1160"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3462,20 +3463,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/armyanskoe_vino/304198/",
     "key": "SAS|id:304198|6260|5790"
+   },
+   {
+    "store": "SAS",
+    "title": "Կարամելային կոնֆետներ պնդուկով «Toffifee» 125գ",
+    "old": 1360,
+    "new": 1160,
+    "pct": 15,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/konfety_v_upakovke/79493/",
+    "key": "SAS|id:79493|1360|1160"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Գունաներկում աքսեսուարներով",
-    "old": 4150,
-    "new": 2990,
-    "pct": 28,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175484.png",
-    "url": "https://yerevan-city.am/shop/product-details/191759",
-    "key": "Yerevan City|id:191759|4150|2990"
-   },
    {
     "store": "Yerevan City",
     "title": "Լվացքի փոշի «Արիել» Ակվա Պուդրա, գուն. ավտ. 3կգ",
@@ -5668,8 +5669,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-28T16:46:26.512389+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-28T17:01:36.464022+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
