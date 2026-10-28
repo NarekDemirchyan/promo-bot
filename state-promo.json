@@ -677,7 +677,8 @@
    "SAS|id:672215|2350|1740",
    "SAS|id:670004|1520|1220",
    "SAS|id:670003|1490|1190",
-   "SAS|id:661488|4400|3790"
+   "SAS|id:661488|4400|3790",
+   "SAS|id:661486|4400|3790"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -1245,22 +1246,12 @@
    "Yerevan City|id:179208|3140|2760",
    "Yerevan City|id:66698|3060|2540",
    "Yerevan City|id:7933|3050|2450",
-   "Yerevan City|id:98918|3040|2430"
+   "Yerevan City|id:98918|3040|2430",
+   "Yerevan City|id:158922|3030|2390"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Զուգարանակոնքը մաքրող միջոց «Bref Color» 50գ",
-    "old": 1190,
-    "new": 1050,
-    "pct": 12,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/forhebathroom/831093/",
-    "key": "SAS|id:831093|1190|1050"
-   },
    {
     "store": "SAS",
     "title": "Կաթ «Parmalat» 1լ, յուղայնությունը`0.5",
@@ -3438,6 +3429,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/dlya_volos2/661488/",
     "key": "SAS|id:661488|4400|3790"
+   },
+   {
+    "store": "SAS",
+    "title": "Շամպուն-բալզամ «Head & Shoulders Цитрусовая Свежесть» 600մլ",
+    "old": 4400,
+    "new": 3790,
+    "pct": 14,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/dlya_volos2/661486/",
+    "key": "SAS|id:661486|4400|3790"
    }
   ],
   "Yerevan City": [
@@ -5629,12 +5631,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1134369.png",
     "url": "https://yerevan-city.am/shop/product-details/98918",
     "key": "Yerevan City|id:98918|3040|2430"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Միցելային ջուր «Լիրեն» մագնոլիա, հարթեցնող 400մլ",
+    "old": 3030,
+    "new": 2390,
+    "pct": 21,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156565.png",
+    "url": "https://yerevan-city.am/shop/product-details/158922",
+    "key": "Yerevan City|id:158922|3030|2390"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-28T11:31:49.732192+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-28T11:46:43.012451+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
