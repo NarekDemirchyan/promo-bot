@@ -690,7 +690,8 @@
    "SAS|id:647537|2890|2590",
    "SAS|id:647532|2890|2590",
    "SAS|id:304198|6260|5790",
-   "SAS|id:79493|1360|1160"
+   "SAS|id:79493|1360|1160",
+   "SAS|id:960265|4050|3180"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3464,6 +3465,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/konfety_v_upakovke/79493/",
     "key": "SAS|id:79493|1360|1160"
+   },
+   {
+    "store": "SAS",
+    "title": "Լոգանքի գել «Ambree Professional Earthy Grace» 750մլ",
+    "old": 4050,
+    "new": 3180,
+    "pct": 21,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/showergell/960265/",
+    "key": "SAS|id:960265|4050|3180"
    }
   ],
   "Yerevan City": [
