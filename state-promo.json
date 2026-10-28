@@ -1234,7 +1234,8 @@
    "Yerevan City|id:9929|3180|2930",
    "Yerevan City|id:158915|3180|2520",
    "Yerevan City|id:172480|3150|2190",
-   "Yerevan City|id:175435|3140|2040"
+   "Yerevan City|id:175435|3140|2040",
+   "Yerevan City|id:175436|3140|2640"
   ]
  },
  "queues": {
@@ -5629,6 +5630,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169065.png",
     "url": "https://yerevan-city.am/shop/product-details/175435",
     "key": "Yerevan City|id:175435|3140|2040"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Դեմքի տոնիկ «Նիվեա» Դերմա, հետքերի դեմ 200մլ",
+    "old": 3140,
+    "new": 2640,
+    "pct": 16,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169066.png",
+    "url": "https://yerevan-city.am/shop/product-details/175436",
+    "key": "Yerevan City|id:175436|3140|2640"
    }
   ]
  },
