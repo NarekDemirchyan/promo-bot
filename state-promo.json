@@ -707,7 +707,8 @@
    "SAS|id:960404|1960|1580",
    "SAS|id:601885|1560|1320",
    "SAS|id:601880|1560|1320",
-   "SAS|id:596382|590|450"
+   "SAS|id:596382|590|450",
+   "SAS|id:936868|1390|690"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3498,20 +3499,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/210/104/1040823956777626.webp",
     "url": "https://www.sas.am/catalog/vetwip_es/596382/",
     "key": "SAS|id:596382|590|450"
+   },
+   {
+    "store": "SAS",
+    "title": "Յոգուրտ հունական «Avramidis Family» 180գ, յուղայնությունը՝ 10",
+    "old": 1390,
+    "new": 690,
+    "pct": 50,
+    "until": "02.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/yogurt_puding/936868/",
+    "key": "SAS|id:936868|1390|690"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Խոհանոցային հավաքածու ՀՅ22-4",
-    "old": 3990,
-    "new": 3190,
-    "pct": 20,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177905.png",
-    "url": "https://yerevan-city.am/shop/product-details/194134",
-    "key": "Yerevan City|id:194134|3990|3190"
-   },
    {
     "store": "Yerevan City",
     "title": "Խաղալիք-Հերոս «Եռաչք հրեշ»",
@@ -5704,8 +5705,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-29T02:02:15.777614+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-29T02:18:20.000453+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
