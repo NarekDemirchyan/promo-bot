@@ -686,7 +686,8 @@
    "SAS|id:657127|3140|2730",
    "SAS|id:98285|6940|5990",
    "SAS|id:654246|1930|1680",
-   "SAS|id:604259|660|550"
+   "SAS|id:604259|660|550",
+   "SAS|id:647537|2890|2590"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3456,6 +3457,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/sredstva_dlya_posudy/604259/",
     "key": "SAS|id:604259|660|550"
+   },
+   {
+    "store": "SAS",
+    "title": "Շամպուն «Head & Shoulders» 360մլ",
+    "old": 2890,
+    "new": 2590,
+    "pct": 10,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/115/677/6776062796596121.webp",
+    "url": "https://www.sas.am/catalog/dlya_volos2/647537/",
+    "key": "SAS|id:647537|2890|2590"
    }
   ],
   "Yerevan City": [
