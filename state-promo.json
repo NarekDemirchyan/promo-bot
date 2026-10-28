@@ -1272,22 +1272,12 @@
    "Yerevan City|id:111588|2990|1950",
    "Yerevan City|id:195107|2990|2390",
    "Yerevan City|id:195099|2990|2390",
-   "Yerevan City|id:15420|2990|2810"
+   "Yerevan City|id:15420|2990|2810",
+   "Yerevan City|id:162606|2990|1690"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ծովախեցգետին թագավորական «Vici» 500գ",
-    "old": 7730,
-    "new": 6770,
-    "pct": 12,
-    "until": "13.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/moreprodukt/88750/",
-    "key": "SAS|id:88750|7730|6770"
-   },
    {
     "store": "SAS",
     "title": "Յոգուրտ հունական ելակի կտորներով «Mandrekas Greek Yogurt Strawberry» 150գ, յուղայնությունը՝ 1.8",
@@ -5667,12 +5657,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1082133.png",
     "url": "https://yerevan-city.am/shop/product-details/15420",
     "key": "Yerevan City|id:15420|2990|2810"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գորգ ծղոտից, օվալ 70x50սմ",
+    "old": 2990,
+    "new": 1690,
+    "pct": 43,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1160266.png",
+    "url": "https://yerevan-city.am/shop/product-details/162606",
+    "key": "Yerevan City|id:162606|2990|1690"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-28T17:46:44.539336+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-28T18:02:30.385322+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
