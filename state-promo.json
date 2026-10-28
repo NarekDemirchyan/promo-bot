@@ -679,7 +679,8 @@
    "SAS|id:670003|1490|1190",
    "SAS|id:661488|4400|3790",
    "SAS|id:661486|4400|3790",
-   "SAS|id:661485|870|790"
+   "SAS|id:661485|870|790",
+   "SAS|id:271993|890|750"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -1249,7 +1250,8 @@
    "Yerevan City|id:7933|3050|2450",
    "Yerevan City|id:98918|3040|2430",
    "Yerevan City|id:158922|3030|2390",
-   "Yerevan City|id:92859|3030|2300"
+   "Yerevan City|id:92859|3030|2300",
+   "Yerevan City|id:194261|3020|2660"
   ]
  },
  "queues": {
@@ -3442,6 +3444,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/opolaskivatel_konditsioner_kontsentrat/661485/",
     "key": "SAS|id:661485|870|790"
+   },
+   {
+    "store": "SAS",
+    "title": "Կետչուպ մանանեխով «Heinz» 320գ",
+    "old": 890,
+    "new": 750,
+    "pct": 16,
+    "until": "29.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/ketchup_tomatnyy_sous/271993/",
+    "key": "SAS|id:271993|890|750"
    }
   ],
   "Yerevan City": [
@@ -5633,6 +5646,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1129756.png",
     "url": "https://yerevan-city.am/shop/product-details/92859",
     "key": "Yerevan City|id:92859|3030|2300"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Լվացքի միջ.-բարձիկ «Արիել» ալպիական թարմ. 12հտ",
+    "old": 3020,
+    "new": 2660,
+    "pct": 12,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178033.png",
+    "url": "https://yerevan-city.am/shop/product-details/194261",
+    "key": "Yerevan City|id:194261|3020|2660"
    }
   ]
  },
