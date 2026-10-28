@@ -1310,7 +1310,8 @@
    "Yerevan City|id:194220|2990|1990",
    "Yerevan City|id:177038|2990|1790",
    "Yerevan City|id:177222|2990|1790",
-   "Yerevan City|id:177237|2990|1790"
+   "Yerevan City|id:177237|2990|1790",
+   "Yerevan City|id:177555|2990|1590"
   ]
  },
  "queues": {
@@ -5705,6 +5706,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170884.png",
     "url": "https://yerevan-city.am/shop/product-details/177237",
     "key": "Yerevan City|id:177237|2990|1790"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սուրճի բաժակներ ոսկեգույն նախշերով 6հտ ՏՋՎ",
+    "old": 2990,
+    "new": 1590,
+    "pct": 47,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1171189.png",
+    "url": "https://yerevan-city.am/shop/product-details/177555",
+    "key": "Yerevan City|id:177555|2990|1590"
    }
   ]
  },
