@@ -696,7 +696,8 @@
    "SAS|id:612186|2930|2650",
    "SAS|id:20372|990|560",
    "SAS|id:20371|990|560",
-   "SAS|id:612185|2930|2650"
+   "SAS|id:612185|2930|2650",
+   "SAS|id:129723|2550|1950"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3476,20 +3477,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/armyanskoe_vino/612185/",
     "key": "SAS|id:612185|2930|2650"
+   },
+   {
+    "store": "SAS",
+    "title": "Ատամի մածուկ «Parodontax» 50մլ",
+    "old": 2550,
+    "new": 1950,
+    "pct": 24,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/dlya_polosti_rta/129723/",
+    "key": "SAS|id:129723|2550|1950"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Դեմքի գել-խտանյութ «Լորեալ» Հիալուրոն Էքսպերտ 50մլ",
-    "old": 4050,
-    "new": 3180,
-    "pct": 21,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176828.png",
-    "url": "https://yerevan-city.am/shop/product-details/193084",
-    "key": "Yerevan City|id:193084|4050|3180"
-   },
    {
     "store": "Yerevan City",
     "title": "Պոկերի հավաքածու 200հտ թ/տ 200",
@@ -5682,8 +5683,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-28T20:16:58.969890+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-28T20:32:45.047002+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
