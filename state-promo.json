@@ -703,7 +703,8 @@
    "SAS|id:611373|1230|750",
    "SAS|id:604818|4150|2580",
    "SAS|id:604271|660|550",
-   "SAS|id:604270|660|550"
+   "SAS|id:604270|660|550",
+   "SAS|id:960404|1960|1580"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3490,6 +3491,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/sredstva_dlya_posudy/604270/",
     "key": "SAS|id:604270|660|550"
+   },
+   {
+    "store": "SAS",
+    "title": "Հեղուկ օճառ «Ambree Professional Black Pepper» 300մլ",
+    "old": 1960,
+    "new": 1580,
+    "pct": 19,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/402/423/4238322218316923.webp",
+    "url": "https://www.sas.am/catalog/liqsoup/960404/",
+    "key": "SAS|id:960404|1960|1580"
    }
   ],
   "Yerevan City": [
