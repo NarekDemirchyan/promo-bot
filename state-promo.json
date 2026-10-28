@@ -692,7 +692,8 @@
    "SAS|id:304198|6260|5790",
    "SAS|id:79493|1360|1160",
    "SAS|id:960265|4050|3180",
-   "SAS|id:960256|4050|3180"
+   "SAS|id:960256|4050|3180",
+   "SAS|id:612186|2930|2650"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3468,6 +3469,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/205/963/9634853069022262.webp",
     "url": "https://www.sas.am/catalog/showergell/960256/",
     "key": "SAS|id:960256|4050|3180"
+   },
+   {
+    "store": "SAS",
+    "title": "Գինի կարմիր «Օրրան» 0.75լ",
+    "old": 2930,
+    "new": 2650,
+    "pct": 10,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/209/630/6309232944684763.webp",
+    "url": "https://www.sas.am/catalog/armyanskoe_vino/612186/",
+    "key": "SAS|id:612186|2930|2650"
    }
   ],
   "Yerevan City": [
