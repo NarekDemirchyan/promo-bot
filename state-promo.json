@@ -1288,22 +1288,12 @@
    "Yerevan City|id:48214|2990|2390",
    "Yerevan City|id:115775|2990|1840",
    "Yerevan City|id:117111|2990|2690",
-   "Yerevan City|id:161181|2990|1810"
+   "Yerevan City|id:161181|2990|1810",
+   "Yerevan City|id:166064|2990|1495"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Լիցքավորման լար «Borofone BX-20»",
-    "old": 2300,
-    "new": 1150,
-    "pct": 50,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/879046/",
-    "key": "SAS|id:879046|2300|1150"
-   },
    {
     "store": "SAS",
     "title": "Օղի «Арктика» 0.7լ",
@@ -5683,12 +5673,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1158821.png",
     "url": "https://yerevan-city.am/shop/product-details/161181",
     "key": "Yerevan City|id:161181|2990|1810"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Փափուկ խաղալիք «Մի Թու Յու» հագուստով 25սմ",
+    "old": 2990,
+    "new": 1495,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1161755.png",
+    "url": "https://yerevan-city.am/shop/product-details/166064",
+    "key": "Yerevan City|id:166064|2990|1495"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-28T21:47:21.430191+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-28T22:01:25.003324+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
