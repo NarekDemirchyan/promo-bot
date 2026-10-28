@@ -666,7 +666,8 @@
    "SAS|id:730443|1250|1130",
    "SAS|id:730441|1250|1130",
    "SAS|id:692914|1490|1190",
-   "SAS|id:39341|1940|1590"
+   "SAS|id:39341|1940|1590",
+   "SAS|id:678645|3290|2790"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -1223,7 +1224,8 @@
    "Yerevan City|id:16833|3190|2950",
    "Yerevan City|id:15900|3190|2950",
    "Yerevan City|id:1417|3190|2950",
-   "Yerevan City|id:1325|3190|2950"
+   "Yerevan City|id:1325|3190|2950",
+   "Yerevan City|id:1318|3190|2950"
   ]
  },
  "queues": {
@@ -3416,6 +3418,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/antiperspirantt/39341/",
     "key": "SAS|id:39341|1940|1590"
+   },
+   {
+    "store": "SAS",
+    "title": "Գինի կարմիր «Միջնաբերդ Հաղթանակ» 0.75լ",
+    "old": 3290,
+    "new": 2790,
+    "pct": 15,
+    "until": "13.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/armyanskoe_vino/678645/",
+    "key": "SAS|id:678645|3290|2790"
    }
   ],
   "Yerevan City": [
@@ -5607,6 +5620,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1060365.png",
     "url": "https://yerevan-city.am/shop/product-details/1325",
     "key": "Yerevan City|id:1325|3190|2950"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գինի «Երևան» կարմիր անապակ 0.75լ",
+    "old": 3190,
+    "new": 2950,
+    "pct": 8,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1060366.png",
+    "url": "https://yerevan-city.am/shop/product-details/1318",
+    "key": "Yerevan City|id:1318|3190|2950"
    }
   ]
  },
