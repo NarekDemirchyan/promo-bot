@@ -664,7 +664,8 @@
    "SAS|id:734138|2790|2570",
    "SAS|id:734137|2790|2570",
    "SAS|id:730443|1250|1130",
-   "SAS|id:730441|1250|1130"
+   "SAS|id:730441|1250|1130",
+   "SAS|id:692914|1490|1190"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -1219,22 +1220,12 @@
    "Yerevan City|id:103546|3190|1590",
    "Yerevan City|id:173977|3190|1910",
    "Yerevan City|id:16833|3190|2950",
-   "Yerevan City|id:15900|3190|2950"
+   "Yerevan City|id:15900|3190|2950",
+   "Yerevan City|id:1417|3190|2950"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Մակարոն «Di Bari Farfalle Bietola Rossa» 250գ",
-    "old": 2250,
-    "new": 1890,
-    "pct": 16,
-    "until": "28.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/makaronyy/910897/",
-    "key": "SAS|id:910897|2250|1890"
-   },
    {
     "store": "SAS",
     "title": "Յոգուրտ մանգոյով և չիայի սերմերով «Epica» 130գ, յուղայնությունը՝ 5",
@@ -3412,20 +3403,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/111/448/4488572349225405.webp",
     "url": "https://www.sas.am/catalog/osvezhiteli/730441/",
     "key": "SAS|id:730441|1250|1130"
+   },
+   {
+    "store": "SAS",
+    "title": "Շոկոլադե կոնֆետների հավաքածու «Գրանդ Քենդի Трюфель» 190գ",
+    "old": 1490,
+    "new": 1190,
+    "pct": 20,
+    "until": "29.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/142/130/1305041720842714.webp",
+    "url": "https://www.sas.am/catalog/nabory_konfet/692914/",
+    "key": "SAS|id:692914|1490|1190"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Վարսահարդարման հավաքածու «Ֆեյշն» ԻքսՎ155-46",
-    "old": 4490,
-    "new": 3590,
-    "pct": 20,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1118594.png",
-    "url": "https://yerevan-city.am/shop/product-details/75657",
-    "key": "Yerevan City|id:75657|4490|3590"
-   },
    {
     "store": "Yerevan City",
     "title": "Տիկնիկ աքսեսուարներով Ռ232Բ",
@@ -5603,12 +5594,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1066560.png",
     "url": "https://yerevan-city.am/shop/product-details/15900",
     "key": "Yerevan City|id:15900|3190|2950"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գինի «Երևան» նուռ կիսաքաղցր 0.75լ",
+    "old": 3190,
+    "new": 2950,
+    "pct": 8,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1060367.png",
+    "url": "https://yerevan-city.am/shop/product-details/1417",
+    "key": "Yerevan City|id:1417|3190|2950"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-28T05:46:01.846133+04:00",
+ "last_publish": "2026-10-28T06:01:18.602051+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
