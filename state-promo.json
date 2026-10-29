@@ -713,7 +713,8 @@
    "SAS|id:607568|3960|3650",
    "SAS|id:596213|1930|1680",
    "SAS|id:30650|6350|5890",
-   "SAS|id:951085|2650|1290"
+   "SAS|id:951085|2650|1290",
+   "SAS|id:596206|2670|2390"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -1317,22 +1318,12 @@
    "Yerevan City|id:177555|2990|1590",
    "Yerevan City|id:181148|2990|1790",
    "Yerevan City|id:191873|2990|2390",
-   "Yerevan City|id:179095|2990|90"
+   "Yerevan City|id:179095|2990|90",
+   "Yerevan City|id:177008|2990|2390"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Անձեռոցիկ «Selpak» 48հատ",
-    "old": 910,
-    "new": 820,
-    "pct": 10,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/salfetki/154063/",
-    "key": "SAS|id:154063|910|820"
-   },
    {
     "store": "SAS",
     "title": "Նրբերշիկ բեկոնով «Greisinger Berner Wurstel» 300գ",
@@ -3510,6 +3501,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/191/981/981382683808376.webp",
     "url": "https://www.sas.am/catalog/matsoni/951085/",
     "key": "SAS|id:951085|2650|1290"
+   },
+   {
+    "store": "SAS",
+    "title": "Շամպուն «Schwarzkopf Gliss» 400մլ",
+    "old": 2670,
+    "new": 2390,
+    "pct": 10,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/dlya_volos2/596206/",
+    "key": "SAS|id:596206|2670|2390"
    }
   ],
   "Yerevan City": [
@@ -5701,12 +5703,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172800.png",
     "url": "https://yerevan-city.am/shop/product-details/179095",
     "key": "Yerevan City|id:179095|2990|90"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սոուս «Բենս Օրիգինալ» քաղցր և թթու ա/շ 440գր",
+    "old": 2990,
+    "new": 2390,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170652.png",
+    "url": "https://yerevan-city.am/shop/product-details/177008",
+    "key": "Yerevan City|id:177008|2990|2390"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-29T05:16:43.762631+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-29T05:31:49.859275+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
