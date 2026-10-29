@@ -1334,22 +1334,12 @@
    "Yerevan City|id:169647|2990|1460",
    "Yerevan City|id:160023|2960|2290",
    "Yerevan City|id:160025|2960|2290",
-   "Yerevan City|id:160026|2960|2290"
+   "Yerevan City|id:160026|2960|2290",
+   "Yerevan City|id:160027|2960|2290"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Դդմի սերմեր «От Мартина» 100գ",
-    "old": 750,
-    "new": 710,
-    "pct": 5,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/semechki/159239/",
-    "key": "SAS|id:159239|750|710"
-   },
    {
     "store": "SAS",
     "title": "Կետչուպ իտալական «Heinz Итальянский» 320գ",
@@ -5729,12 +5719,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1157698.png",
     "url": "https://yerevan-city.am/shop/product-details/160026",
     "key": "Yerevan City|id:160026|2960|2290"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Լոգ.քսուք «Տեսորի դՕրիենտե» սպիտակ մուշկ 500մլ",
+    "old": 2960,
+    "new": 2290,
+    "pct": 23,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1157699.png",
+    "url": "https://yerevan-city.am/shop/product-details/160027",
+    "key": "Yerevan City|id:160027|2960|2290"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-29T09:31:51.840109+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-29T09:48:40.913479+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
