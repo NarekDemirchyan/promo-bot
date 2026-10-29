@@ -1320,22 +1320,12 @@
    "Yerevan City|id:181148|2990|1790",
    "Yerevan City|id:191873|2990|2390",
    "Yerevan City|id:179095|2990|90",
-   "Yerevan City|id:177008|2990|2390"
+   "Yerevan City|id:177008|2990|2390",
+   "Yerevan City|id:131859|2980|1490"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Նրբերշիկ բեկոնով «Greisinger Berner Wurstel» 300գ",
-    "old": 3390,
-    "new": 2990,
-    "pct": 12,
-    "until": "13.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/434/544/5449782450252014.webp",
-    "url": "https://www.sas.am/catalog/sosiski_sordelki/168500/",
-    "key": "SAS|id:168500|3390|2990"
-   },
    {
     "store": "SAS",
     "title": "Թեյ կանաչ «Curtis Fresh Mojito» 20*1.7գ",
@@ -5715,12 +5705,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170652.png",
     "url": "https://yerevan-city.am/shop/product-details/177008",
     "key": "Yerevan City|id:177008|2990|2390"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Փազլ #2",
+    "old": 2980,
+    "new": 1490,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1151375.png",
+    "url": "https://yerevan-city.am/shop/product-details/131859",
+    "key": "Yerevan City|id:131859|2980|1490"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-29T05:46:38.023526+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-29T06:04:18.664726+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
