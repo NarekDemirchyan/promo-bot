@@ -3567,17 +3567,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Մանկ.տակդիր «Լիբերո» Կոմֆորտ 6 13-20կգ 21հտ",
-    "old": 3920,
-    "new": 3070,
-    "pct": 22,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1002506.png",
-    "url": "https://yerevan-city.am/shop/product-details/3705",
-    "key": "Yerevan City|id:3705|3920|3070"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Մանկական տակդիրներ «Լիբերո» Կոմֆորտ 3 5-9կգ 30հտ",
     "old": 3920,
     "new": 3070,
@@ -5768,8 +5757,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-29T16:02:35.630220+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-29T16:31:12.369232+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
