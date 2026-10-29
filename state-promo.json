@@ -731,7 +731,8 @@
    "SAS|id:173910|2090|1140",
    "SAS|id:143043|2250|2050",
    "SAS|id:75817|1790|1080",
-   "SAS|id:20328|1250|1090"
+   "SAS|id:20328|1250|1090",
+   "SAS|id:276309|2090|1050"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3546,6 +3547,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/782/664/6643621610086418.webp",
     "url": "https://www.sas.am/catalog/batareyka/20328/",
     "key": "SAS|id:20328|1250|1090"
+   },
+   {
+    "store": "SAS",
+    "title": "Զովացուցիչ գազավորված ըմպելիք «Coca-Cola» 355մլ",
+    "old": 2090,
+    "new": 1050,
+    "pct": 50,
+    "until": "10.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/921/940/9404381233120209.webp",
+    "url": "https://www.sas.am/catalog/osvezhayushchiy_napitok/276309/",
+    "key": "SAS|id:276309|2090|1050"
    }
   ],
   "Yerevan City": [
