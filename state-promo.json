@@ -720,7 +720,8 @@
    "SAS|id:592534|2090|1540",
    "SAS|id:592313|8790|6690",
    "SAS|id:592304|3390|2650",
-   "SAS|id:6669|6350|5890"
+   "SAS|id:6669|6350|5890",
+   "SAS|id:951084|1590|790"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -1331,22 +1332,12 @@
    "Yerevan City|id:172551|2990|2790",
    "Yerevan City|id:169647|2990|1460",
    "Yerevan City|id:160023|2960|2290",
-   "Yerevan City|id:160025|2960|2290"
+   "Yerevan City|id:160025|2960|2290",
+   "Yerevan City|id:160026|2960|2290"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շոկոլադե սալիկ չամիչով և պնդուկով «Lindt» 300գ",
-    "old": 6450,
-    "new": 3790,
-    "pct": 41,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/plitka/626073/",
-    "key": "SAS|id:626073|6450|3790"
-   },
    {
     "store": "SAS",
     "title": "Դդմի սերմեր «От Мартина» 100գ",
@@ -3524,6 +3515,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/shampanskoe_igristoe_vino/6669/",
     "key": "SAS|id:6669|6350|5890"
+   },
+   {
+    "store": "SAS",
+    "title": "Քամած մածուն կիտրոնով «Avramidis Family Tsantillas Lemon» 170գ",
+    "old": 1590,
+    "new": 790,
+    "pct": 50,
+    "until": "02.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/255/374/3745834155168020.webp",
+    "url": "https://www.sas.am/catalog/matsoni/951084/",
+    "key": "SAS|id:951084|1590|790"
    }
   ],
   "Yerevan City": [
@@ -5715,12 +5717,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1157697.png",
     "url": "https://yerevan-city.am/shop/product-details/160025",
     "key": "Yerevan City|id:160025|2960|2290"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Լոգ.քսուք «Տեսորի դՕրիենտե» ամլա-պաչուլի 500մլ",
+    "old": 2960,
+    "new": 2290,
+    "pct": 23,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1157698.png",
+    "url": "https://yerevan-city.am/shop/product-details/160026",
+    "key": "Yerevan City|id:160026|2960|2290"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-29T09:01:52.718604+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-29T09:16:38.188206+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
