@@ -744,7 +744,8 @@
    "SAS|id:7353|980|880",
    "SAS|id:403425|10230|9650",
    "SAS|id:34591|1210|990",
-   "SAS|id:542797|20220|15490"
+   "SAS|id:542797|20220|15490",
+   "SAS|id:246629|980|820"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3572,6 +3573,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/dlya_devochek/542797/",
     "key": "SAS|id:542797|20220|15490"
+   },
+   {
+    "store": "SAS",
+    "title": "Բամբակյա բարձիկներ «Zeta» 150 հատ",
+    "old": 980,
+    "new": 820,
+    "pct": 16,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/vatnye_izdeliya2/246629/",
+    "key": "SAS|id:246629|980|820"
    }
   ],
   "Yerevan City": [
