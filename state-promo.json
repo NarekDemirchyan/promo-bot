@@ -1352,22 +1352,12 @@
    "Yerevan City|id:180743|2960|2290",
    "Yerevan City|id:158890|2960|2350",
    "Yerevan City|id:180738|2960|2290",
-   "Yerevan City|id:173494|2960|1560"
+   "Yerevan City|id:173494|2960|1560",
+   "Yerevan City|id:180739|2960|2290"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շուրթերի բալզամ «Nivea Blackberry Shine» 4.8գ",
-    "old": 1990,
-    "new": 1460,
-    "pct": 27,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/vse_dlya_gub/873098/",
-    "key": "SAS|id:873098|1990|1460"
-   },
    {
     "store": "SAS",
     "title": "Հակաքրտինքային միջոց-սթիք «Nivea Derma Control Defend» 50մլ",
@@ -5747,12 +5737,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1167091.png",
     "url": "https://yerevan-city.am/shop/product-details/173494",
     "key": "Yerevan City|id:173494|2960|1560"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Լոգ.քսուք «Տեսորի դՕրիենտե» լոտոս-շիի յուղ 500մլ",
+    "old": 2960,
+    "new": 2290,
+    "pct": 23,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174471.png",
+    "url": "https://yerevan-city.am/shop/product-details/180739",
+    "key": "Yerevan City|id:180739|2960|2290"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-29T14:31:54.979152+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-29T14:48:47.667471+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
