@@ -1370,17 +1370,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Աղբի տոպրակներ «Фрекен Бок Strong Max» 120լ",
-    "old": 1720,
-    "new": 1490,
-    "pct": 13,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/120/930/9309321564557846.webp",
-    "url": "https://www.sas.am/catalog/pakety_dlya_musora/858527/",
-    "key": "SAS|id:858527|1720|1490"
-   },
-   {
-    "store": "SAS",
     "title": "Վարտիք - տակդիրներ «Libero Up&Go N8» 19-30կգ, 20 հատ",
     "old": 8450,
     "new": 7350,
@@ -5773,8 +5762,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-29T17:18:37.941901+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-29T17:46:52.664235+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
