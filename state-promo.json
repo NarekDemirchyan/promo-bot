@@ -725,7 +725,8 @@
    "SAS|id:936869|1390|690",
    "SAS|id:936867|1590|790",
    "SAS|id:792766|2270|1590",
-   "SAS|id:549845|2250|2050"
+   "SAS|id:549845|2250|2050",
+   "SAS|id:607571|6270|5890"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3534,20 +3535,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/opolaskivatel_konditsioner_kontsentrat/549845/",
     "key": "SAS|id:549845|2250|2050"
+   },
+   {
+    "store": "SAS",
+    "title": "Գինի սպիտակ «Կարաս» 0.75լ",
+    "old": 6270,
+    "new": 5890,
+    "pct": 6,
+    "until": "30.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/armyanskoe_vino/607571/",
+    "key": "SAS|id:607571|6270|5890"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Կոնյակ «Գրանդ Երևան» 3տ 0.5լ",
-    "old": 3990,
-    "new": 3790,
-    "pct": 5,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1166361.png",
-    "url": "https://yerevan-city.am/shop/product-details/172771",
-    "key": "Yerevan City|id:172771|3990|3790"
-   },
    {
     "store": "Yerevan City",
     "title": "Չիպս «Դորիտոս» ԻքսԼ, օրիգինալ աղով 455գր",
@@ -5740,8 +5741,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-29T11:31:12.279250+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-29T11:45:58.822867+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
