@@ -726,7 +726,8 @@
    "SAS|id:936867|1590|790",
    "SAS|id:792766|2270|1590",
    "SAS|id:549845|2250|2050",
-   "SAS|id:607571|6270|5890"
+   "SAS|id:607571|6270|5890",
+   "SAS|id:292742|6270|5890"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3536,20 +3537,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/armyanskoe_vino/607571/",
     "key": "SAS|id:607571|6270|5890"
+   },
+   {
+    "store": "SAS",
+    "title": "Գինի կարմիր «Կարաս» 0.75լ",
+    "old": 6270,
+    "new": 5890,
+    "pct": 6,
+    "until": "30.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/armyanskoe_vino/292742/",
+    "key": "SAS|id:292742|6270|5890"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Չիպս «Դորիտոս» ԻքսԼ, օրիգինալ աղով 455գր",
-    "old": 3990,
-    "new": 2990,
-    "pct": 25,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1162076.png",
-    "url": "https://yerevan-city.am/shop/product-details/166396",
-    "key": "Yerevan City|id:166396|3990|2990"
-   },
    {
     "store": "Yerevan City",
     "title": "Ձիթապտղի ձեթ «Ամբրաոիլ» Պոմաս ա/տ 1լ",
@@ -5742,8 +5743,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-29T12:01:17.481617+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-29T12:18:50.162780+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
