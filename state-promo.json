@@ -1358,22 +1358,12 @@
    "Yerevan City|id:173494|2960|1560",
    "Yerevan City|id:180739|2960|2290",
    "Yerevan City|id:180740|2960|2290",
-   "Yerevan City|id:180741|2960|2290"
+   "Yerevan City|id:180741|2960|2290",
+   "Yerevan City|id:180742|2960|2290"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Թառափ սառեցված",
-    "old": 29900,
-    "new": 14950,
-    "pct": 50,
-    "until": "31.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/116/517/5172173969623294.webp",
-    "url": "https://www.sas.am/catalog/zamorozhennaya_ryba/862988/",
-    "key": "SAS|id:862988|29900|14950"
-   },
    {
     "store": "SAS",
     "title": "Գարեջուր «Վիմպել Պիլսներ» 0.5լ",
@@ -5753,12 +5743,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174474.png",
     "url": "https://yerevan-city.am/shop/product-details/180741",
     "key": "Yerevan City|id:180741|2960|2290"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Լոգ.քսուք «Տեսորի դՕրիենտե» կապ.շուշ-վագ.ընկ.500մլ",
+    "old": 2960,
+    "new": 2290,
+    "pct": 23,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174475.png",
+    "url": "https://yerevan-city.am/shop/product-details/180742",
+    "key": "Yerevan City|id:180742|2960|2290"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-29T16:31:12.369232+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-29T16:46:08.113230+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
