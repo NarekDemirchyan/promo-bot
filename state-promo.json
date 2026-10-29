@@ -733,7 +733,8 @@
    "SAS|id:75817|1790|1080",
    "SAS|id:20328|1250|1090",
    "SAS|id:276309|2090|1050",
-   "SAS|id:20186|1340|720"
+   "SAS|id:20186|1340|720",
+   "SAS|id:592303|3390|2650"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3550,6 +3551,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/batareyka/20186/",
     "key": "SAS|id:20186|1340|720"
+   },
+   {
+    "store": "SAS",
+    "title": "Դեմքի կրեմ «Loreal Paris 65+» 50մլ",
+    "old": 3390,
+    "new": 2650,
+    "pct": 22,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/294/105/1058832820015188.webp",
+    "url": "https://www.sas.am/catalog/vse_dlya_litsa/592303/",
+    "key": "SAS|id:592303|3390|2650"
    }
   ],
   "Yerevan City": [
