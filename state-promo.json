@@ -1344,7 +1344,8 @@
    "Yerevan City|id:180144|2960|2250",
    "Yerevan City|id:180145|2960|2250",
    "Yerevan City|id:180146|2960|2250",
-   "Yerevan City|id:180147|2960|2250"
+   "Yerevan City|id:180147|2960|2250",
+   "Yerevan City|id:180743|2960|2290"
   ]
  },
  "queues": {
@@ -5739,6 +5740,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173866.png",
     "url": "https://yerevan-city.am/shop/product-details/180147",
     "key": "Yerevan City|id:180147|2960|2250"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Լոգ.քսուք «Տեսորի դՕրիենտե» ջրաշուշ-հին.փայտ500մլ",
+    "old": 2960,
+    "new": 2290,
+    "pct": 23,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174476.png",
+    "url": "https://yerevan-city.am/shop/product-details/180743",
+    "key": "Yerevan City|id:180743|2960|2290"
    }
   ]
  },
