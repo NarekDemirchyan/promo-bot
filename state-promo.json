@@ -1330,7 +1330,8 @@
    "Yerevan City|id:99870|2970|1485",
    "Yerevan City|id:172551|2990|2790",
    "Yerevan City|id:169647|2990|1460",
-   "Yerevan City|id:160023|2960|2290"
+   "Yerevan City|id:160023|2960|2290",
+   "Yerevan City|id:160025|2960|2290"
   ]
  },
  "queues": {
@@ -5725,6 +5726,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1157695.png",
     "url": "https://yerevan-city.am/shop/product-details/160023",
     "key": "Yerevan City|id:160023|2960|2290"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Լոգ.քսուք «Տեսորի դՕրիենտե» սև վարդ-լաբդան 500մլ",
+    "old": 2960,
+    "new": 2290,
+    "pct": 23,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1157697.png",
+    "url": "https://yerevan-city.am/shop/product-details/160025",
+    "key": "Yerevan City|id:160025|2960|2290"
    }
   ]
  },
