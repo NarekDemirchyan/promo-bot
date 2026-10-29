@@ -1336,22 +1336,12 @@
    "Yerevan City|id:160023|2960|2290",
    "Yerevan City|id:160025|2960|2290",
    "Yerevan City|id:160026|2960|2290",
-   "Yerevan City|id:160027|2960|2290"
+   "Yerevan City|id:160027|2960|2290",
+   "Yerevan City|id:180144|2960|2250"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կետչուպ իտալական «Heinz Итальянский» 320գ",
-    "old": 970,
-    "new": 850,
-    "pct": 12,
-    "until": "29.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/ketchup_tomatnyy_sous/63488/",
-    "key": "SAS|id:63488|970|850"
-   },
    {
     "store": "SAS",
     "title": "Շամպուն «Head & Shoulders» 360մլ",
@@ -3545,17 +3535,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Չամիչ Չիլի ջամբո կգ",
-    "old": 3990,
-    "new": 1289,
-    "pct": 68,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1050719.png",
-    "url": "https://yerevan-city.am/shop/product-details/23507",
-    "key": "Yerevan City|id:23507|3990|1289"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Կոնյակ «Առասպել» 3տ (տուփով) 0.5լ",
     "old": 3990,
     "new": 3670,
@@ -5731,12 +5710,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1157699.png",
     "url": "https://yerevan-city.am/shop/product-details/160027",
     "key": "Yerevan City|id:160027|2960|2290"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սուրճի պատիճ «ԼավԱզզա» էսպրեսսո, լունգո 10x5.6գր",
+    "old": 2960,
+    "new": 2250,
+    "pct": 24,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173863.png",
+    "url": "https://yerevan-city.am/shop/product-details/180144",
+    "key": "Yerevan City|id:180144|2960|2250"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-29T10:16:44.348765+04:00",
+ "last_publish": "2026-10-29T10:31:50.872273+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
