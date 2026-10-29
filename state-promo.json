@@ -1398,17 +1398,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Ամրակ հեռախոսի համար «Borofone BH8»",
-    "old": 2000,
-    "new": 1000,
-    "pct": 50,
-    "until": "31.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/305/231/231904474236154.webp",
-    "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/839463/",
-    "key": "SAS|id:839463|2000|1000"
-   },
-   {
-    "store": "SAS",
     "title": "Ամրակ հեռախոսի համար «Borofone BH7»",
     "old": 2000,
     "new": 1000,
@@ -5801,8 +5790,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-30T00:48:22.500526+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-30T01:16:39.998678+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
