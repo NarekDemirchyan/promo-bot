@@ -749,7 +749,8 @@
    "SAS|id:192475|1190|950",
    "SAS|id:203494|2670|2390",
    "SAS|id:513167|1630|1390",
-   "SAS|id:493654|2350|1740"
+   "SAS|id:493654|2350|1740",
+   "SAS|id:493652|2350|1740"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -1389,7 +1390,8 @@
    "Yerevan City|id:101275|2930|2350",
    "Yerevan City|id:91345|2930|2350",
    "Yerevan City|id:18080|2910|2190",
-   "Yerevan City|id:92860|2910|2190"
+   "Yerevan City|id:92860|2910|2190",
+   "Yerevan City|id:67016|2910|2190"
   ]
  },
  "queues": {
@@ -3582,6 +3584,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/antiperspirantt/493654/",
     "key": "SAS|id:493654|2350|1740"
+   },
+   {
+    "store": "SAS",
+    "title": "Հակաքրտինքային միջոց-սթիք «Nivea Men» 50մլ",
+    "old": 2350,
+    "new": 1740,
+    "pct": 26,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/antiperspirantt/493652/",
+    "key": "SAS|id:493652|2350|1740"
    }
   ],
   "Yerevan City": [
@@ -5773,6 +5786,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1129757.png",
     "url": "https://yerevan-city.am/shop/product-details/92860",
     "key": "Yerevan City|id:92860|2910|2190"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Դեմքի քսուք «Նիվեա» Քեյր, խոնավեցնող 100մլ",
+    "old": 2910,
+    "new": 2190,
+    "pct": 25,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1061442.png",
+    "url": "https://yerevan-city.am/shop/product-details/67016",
+    "key": "Yerevan City|id:67016|2910|2190"
    }
   ]
  },
