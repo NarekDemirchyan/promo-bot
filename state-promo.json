@@ -1322,7 +1322,8 @@
    "Yerevan City|id:191873|2990|2390",
    "Yerevan City|id:179095|2990|90",
    "Yerevan City|id:177008|2990|2390",
-   "Yerevan City|id:131859|2980|1490"
+   "Yerevan City|id:131859|2980|1490",
+   "Yerevan City|id:99870|2970|1485"
   ]
  },
  "queues": {
@@ -5717,6 +5718,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1151375.png",
     "url": "https://yerevan-city.am/shop/product-details/131859",
     "key": "Yerevan City|id:131859|2980|1490"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սուրճի պատիճ «Տ.Լամբորգինի» Էսպրեսսո, պլատին.50գր",
+    "old": 2970,
+    "new": 1485,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1135270.png",
+    "url": "https://yerevan-city.am/shop/product-details/99870",
+    "key": "Yerevan City|id:99870|2970|1485"
    }
   ]
  },
