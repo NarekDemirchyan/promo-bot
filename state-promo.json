@@ -1376,22 +1376,12 @@
    "Yerevan City|id:8490|2940|2350",
    "Yerevan City|id:8502|2940|2350",
    "Yerevan City|id:17609|2940|2350",
-   "Yerevan City|id:17619|2940|2350"
+   "Yerevan City|id:17619|2940|2350",
+   "Yerevan City|id:29204|2940|2350"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Խաղալիք-ավտոմեքենա «Hot Wheels Monster Trucks»",
-    "old": 1990,
-    "new": 1870,
-    "pct": 6,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/228/631/6310722696981709.webp",
-    "url": "https://www.sas.am/catalog/dlya_malchikov/851244/",
-    "key": "SAS|id:851244|1990|1870"
-   },
    {
     "store": "SAS",
     "title": "Կոնյակ «Օրրան 7*» 0․5լ",
@@ -5771,12 +5761,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1063750.png",
     "url": "https://yerevan-city.am/shop/product-details/17619",
     "key": "Yerevan City|id:17619|2940|2350"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Դեմքի քսուք «Լորեալ» Էքսպերտ, ցերեկային 55+ 50մլ",
+    "old": 2940,
+    "new": 2350,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1094678.png",
+    "url": "https://yerevan-city.am/shop/product-details/29204",
+    "key": "Yerevan City|id:29204|2940|2350"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-29T21:31:50.430163+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-29T21:47:07.307793+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
