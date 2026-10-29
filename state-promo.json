@@ -735,7 +735,8 @@
    "SAS|id:276309|2090|1050",
    "SAS|id:20186|1340|720",
    "SAS|id:592303|3390|2650",
-   "SAS|id:592021|20580|15760"
+   "SAS|id:592021|20580|15760",
+   "SAS|id:589152|3140|2730"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -1361,7 +1362,8 @@
    "Yerevan City|id:180740|2960|2290",
    "Yerevan City|id:180741|2960|2290",
    "Yerevan City|id:180742|2960|2290",
-   "Yerevan City|id:90136|2950|2590"
+   "Yerevan City|id:90136|2950|2590",
+   "Yerevan City|id:73564|2950|2497"
   ]
  },
  "queues": {
@@ -3554,6 +3556,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/265/247/2479383486738316.webp",
     "url": "https://www.sas.am/catalog/dlya_devochek/592021/",
     "key": "SAS|id:592021|20580|15760"
+   },
+   {
+    "store": "SAS",
+    "title": "Լվացքի գել գունավոր «Savex Supreme Clean & Protect» 0.960լ",
+    "old": 3140,
+    "new": 2730,
+    "pct": 13,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/stiralnyy_poroshok/589152/",
+    "key": "SAS|id:589152|3140|2730"
    }
   ],
   "Yerevan City": [
@@ -5745,6 +5758,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1127325.png",
     "url": "https://yerevan-city.am/shop/product-details/90136",
     "key": "Yerevan City|id:90136|2950|2590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Լվացվելու փրփուր մանկ. «Հիպ» զգայուն մաշկի 250մ",
+    "old": 2950,
+    "new": 2497,
+    "pct": 15,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1116595.png",
+    "url": "https://yerevan-city.am/shop/product-details/73564",
+    "key": "Yerevan City|id:73564|2950|2497"
    }
   ]
  },
