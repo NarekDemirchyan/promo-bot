@@ -729,7 +729,8 @@
    "SAS|id:607571|6270|5890",
    "SAS|id:292742|6270|5890",
    "SAS|id:173910|2090|1140",
-   "SAS|id:143043|2250|2050"
+   "SAS|id:143043|2250|2050",
+   "SAS|id:75817|1790|1080"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -1349,22 +1350,12 @@
    "Yerevan City|id:180147|2960|2250",
    "Yerevan City|id:180743|2960|2290",
    "Yerevan City|id:158890|2960|2350",
-   "Yerevan City|id:180738|2960|2290"
+   "Yerevan City|id:180738|2960|2290",
+   "Yerevan City|id:173494|2960|1560"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Հակաքրտինքային միջոց-գել «Old Spice Whitewater» 70մլ",
-    "old": 3380,
-    "new": 3050,
-    "pct": 10,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/antiperspirantt/17308/",
-    "key": "SAS|id:17308|3380|3050"
-   },
    {
     "store": "SAS",
     "title": "Շուրթերի բալզամ «Nivea Blackberry Shine» 4.8գ",
@@ -3542,6 +3533,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/stiralnyy_poroshok/143043/",
     "key": "SAS|id:143043|2250|2050"
+   },
+   {
+    "store": "SAS",
+    "title": "Լվացքի կոնդիցիոներ մանկական «Frosch Baby» 750մլ",
+    "old": 1790,
+    "new": 1080,
+    "pct": 40,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/forlaundryy/75817/",
+    "key": "SAS|id:75817|1790|1080"
    }
   ],
   "Yerevan City": [
@@ -5733,12 +5735,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174470.png",
     "url": "https://yerevan-city.am/shop/product-details/180738",
     "key": "Yerevan City|id:180738|2960|2290"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գորգ «ԴՍՎ» ծակոտիկներով 17x30սմ",
+    "old": 2960,
+    "new": 1560,
+    "pct": 47,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1167091.png",
+    "url": "https://yerevan-city.am/shop/product-details/173494",
+    "key": "Yerevan City|id:173494|2960|1560"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-29T14:02:00.595095+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-29T14:16:45.220730+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
