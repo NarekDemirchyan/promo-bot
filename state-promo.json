@@ -741,7 +741,8 @@
    "SAS|id:552179|5870|5570",
    "SAS|id:550378|580|460",
    "SAS|id:35694|1560|1320",
-   "SAS|id:7353|980|880"
+   "SAS|id:7353|980|880",
+   "SAS|id:403425|10230|9650"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -1373,22 +1374,12 @@
    "Yerevan City|id:30678|2940|2350",
    "Yerevan City|id:8490|2940|2350",
    "Yerevan City|id:8502|2940|2350",
-   "Yerevan City|id:17609|2940|2350"
+   "Yerevan City|id:17609|2940|2350",
+   "Yerevan City|id:17619|2940|2350"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Գինի կարմիր «Ակում Մալբեկ» 750մլ",
-    "old": 7350,
-    "new": 5490,
-    "pct": 25,
-    "until": "13.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/243/652/6529273616481601.webp",
-    "url": "https://www.sas.am/catalog/armyanskoe_vino/854747/",
-    "key": "SAS|id:854747|7350|5490"
-   },
    {
     "store": "SAS",
     "title": "Խաղալիք-ավտոմեքենա «Hot Wheels Monster Trucks»",
@@ -3566,6 +3557,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/liqsoup/7353/",
     "key": "SAS|id:7353|980|880"
+   },
+   {
+    "store": "SAS",
+    "title": "Ջին «Barrister Pink» 0.7լ",
+    "old": 10230,
+    "new": 9650,
+    "pct": 6,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/405/776/7766851663175508.webp",
+    "url": "https://www.sas.am/catalog/dzhin_absent/403425/",
+    "key": "SAS|id:403425|10230|9650"
    }
   ],
   "Yerevan City": [
@@ -5757,12 +5759,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1063751.png",
     "url": "https://yerevan-city.am/shop/product-details/17609",
     "key": "Yerevan City|id:17609|2940|2350"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Դեմքի քսուք «Լորեալ» Էքսպերտ, գիշերային 45+ 50մլ",
+    "old": 2940,
+    "new": 2350,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1063750.png",
+    "url": "https://yerevan-city.am/shop/product-details/17619",
+    "key": "Yerevan City|id:17619|2940|2350"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-29T20:46:06.888378+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-29T21:04:08.033423+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
