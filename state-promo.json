@@ -1394,22 +1394,12 @@
    "Yerevan City|id:18080|2910|2190",
    "Yerevan City|id:92860|2910|2190",
    "Yerevan City|id:67016|2910|2190",
-   "Yerevan City|id:1916|2900|2590"
+   "Yerevan City|id:1916|2900|2590",
+   "Yerevan City|id:7561|2890|2490"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ամրակ հեռախոսի համար «Borofone BH10»",
-    "old": 2700,
-    "new": 1350,
-    "pct": 50,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/839457/",
-    "key": "SAS|id:839457|2700|1350"
-   },
    {
     "store": "SAS",
     "title": "Օդը թարմացնող միջոց «Brait Cold Alaska» 300մլ",
@@ -5789,12 +5779,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1046192.png",
     "url": "https://yerevan-city.am/shop/product-details/1916",
     "key": "Yerevan City|id:1916|2900|2590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թխվածքաբլիթ «Դանեսիտա» Բաթեր Քուքիս թ/տ 454գր",
+    "old": 2890,
+    "new": 2490,
+    "pct": 14,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1053399.png",
+    "url": "https://yerevan-city.am/shop/product-details/7561",
+    "key": "Yerevan City|id:7561|2890|2490"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-30T02:31:46.755811+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-30T02:46:25.832330+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
