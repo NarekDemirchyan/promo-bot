@@ -716,7 +716,8 @@
    "SAS|id:951085|2650|1290",
    "SAS|id:596206|2670|2390",
    "SAS|id:596205|1930|1680",
-   "SAS|id:594266|9450|7990"
+   "SAS|id:594266|9450|7990",
+   "SAS|id:592534|2090|1540"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -1323,22 +1324,12 @@
    "Yerevan City|id:179095|2990|90",
    "Yerevan City|id:177008|2990|2390",
    "Yerevan City|id:131859|2980|1490",
-   "Yerevan City|id:99870|2970|1485"
+   "Yerevan City|id:99870|2970|1485",
+   "Yerevan City|id:172551|2990|2790"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Գինի կարմիր «Կարաս Արենի» 0.75լ",
-    "old": 6330,
-    "new": 5790,
-    "pct": 9,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/armyanskoe_vino/304204/",
-    "key": "SAS|id:304204|6330|5790"
-   },
    {
     "store": "SAS",
     "title": "Մակարոն «Barilla №41 Chifferi Rigati» 450գ",
@@ -3516,6 +3507,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/306/144/1442823195057947.webp",
     "url": "https://www.sas.am/catalog/liker/594266/",
     "key": "SAS|id:594266|9450|7990"
+   },
+   {
+    "store": "SAS",
+    "title": "Հակաքրտինքային միջոց-սթիք «Nivea Жемчужная Красота» 50մլ",
+    "old": 2090,
+    "new": 1540,
+    "pct": 26,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/102/656/6566771850229994.webp",
+    "url": "https://www.sas.am/catalog/antiperspirantt/592534/",
+    "key": "SAS|id:592534|2090|1540"
    }
   ],
   "Yerevan City": [
@@ -5707,12 +5709,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1135270.png",
     "url": "https://yerevan-city.am/shop/product-details/99870",
     "key": "Yerevan City|id:99870|2970|1485"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կոնյակ «Օրրան» 3տ 0.5լ",
+    "old": 2990,
+    "new": 2790,
+    "pct": 7,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1165839.png",
+    "url": "https://yerevan-city.am/shop/product-details/172551",
+    "key": "Yerevan City|id:172551|2990|2790"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-29T06:46:42.034940+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-29T07:02:01.755256+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
