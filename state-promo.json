@@ -1348,7 +1348,8 @@
    "Yerevan City|id:180146|2960|2250",
    "Yerevan City|id:180147|2960|2250",
    "Yerevan City|id:180743|2960|2290",
-   "Yerevan City|id:158890|2960|2350"
+   "Yerevan City|id:158890|2960|2350",
+   "Yerevan City|id:180738|2960|2290"
   ]
  },
  "queues": {
@@ -5743,6 +5744,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156533.png",
     "url": "https://yerevan-city.am/shop/product-details/158890",
     "key": "Yerevan City|id:158890|2960|2350"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Լոգ.քսուք «Տեսորի դՕրիենտե» վիշապի ծաղիկ 500մլ",
+    "old": 2960,
+    "new": 2290,
+    "pct": 23,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174470.png",
+    "url": "https://yerevan-city.am/shop/product-details/180738",
+    "key": "Yerevan City|id:180738|2960|2290"
    }
   ]
  },
