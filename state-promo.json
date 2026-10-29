@@ -747,7 +747,9 @@
    "SAS|id:542797|20220|15490",
    "SAS|id:246629|980|820",
    "SAS|id:192475|1190|950",
-   "SAS|id:203494|2670|2390"
+   "SAS|id:203494|2670|2390",
+   "SAS|id:513167|1630|1390",
+   "SAS|id:493654|2350|1740"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -1386,22 +1388,12 @@
    "Yerevan City|id:27219|2930|2460",
    "Yerevan City|id:101275|2930|2350",
    "Yerevan City|id:91345|2930|2350",
-   "Yerevan City|id:18080|2910|2190"
+   "Yerevan City|id:18080|2910|2190",
+   "Yerevan City|id:92860|2910|2190"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շամպուն «Head & Shoulders» 360մլ",
-    "old": 2890,
-    "new": 2590,
-    "pct": 10,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/258/367/3672141487570961.webp",
-    "url": "https://www.sas.am/catalog/dlya_volos2/844599/",
-    "key": "SAS|id:844599|2890|2590"
-   },
    {
     "store": "SAS",
     "title": "Ամրակ հեռախոսի համար «Borofone BH8»",
@@ -3568,20 +3560,31 @@
     "img": "",
     "url": "https://www.sas.am/catalog/dlya_volos2/203494/",
     "key": "SAS|id:203494|2670|2390"
+   },
+   {
+    "store": "SAS",
+    "title": "Միջադիրներ ուրոլոգիական «Tena Lady Slim Extra» 10 հատ",
+    "old": 1630,
+    "new": 1390,
+    "pct": 15,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/dlya_intimnoy_gigieny2/513167/",
+    "key": "SAS|id:513167|1630|1390"
+   },
+   {
+    "store": "SAS",
+    "title": "Հակաքրտինքային միջոց սթիք «Nivea Men Ultra» 50մլ",
+    "old": 2350,
+    "new": 1740,
+    "pct": 26,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/antiperspirantt/493654/",
+    "key": "SAS|id:493654|2350|1740"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Միցելային ջուր «Լիրեն» հալվե, հանգստացնող 400մլ",
-    "old": 3770,
-    "new": 2990,
-    "pct": 21,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156568.png",
-    "url": "https://yerevan-city.am/shop/product-details/158925",
-    "key": "Yerevan City|id:158925|3770|2990"
-   },
    {
     "store": "Yerevan City",
     "title": "Սփռոց հայկ․ավանդ․նախշով 40x140սմ+անձեռոցիկ 6հտ",
@@ -5759,12 +5762,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1089760.png",
     "url": "https://yerevan-city.am/shop/product-details/18080",
     "key": "Yerevan City|id:18080|2910|2190"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Դեմքի գել «Նիվեա» Քեյր գիալ. նորմ.-յուղ մաշկ100մլ",
+    "old": 2910,
+    "new": 2190,
+    "pct": 25,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1129757.png",
+    "url": "https://yerevan-city.am/shop/product-details/92860",
+    "key": "Yerevan City|id:92860|2910|2190"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-30T00:31:30.813927+04:00",
+ "last_publish": "2026-10-30T00:48:22.500526+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
