@@ -712,7 +712,8 @@
    "SAS|id:792767|2270|1590",
    "SAS|id:607568|3960|3650",
    "SAS|id:596213|1930|1680",
-   "SAS|id:30650|6350|5890"
+   "SAS|id:30650|6350|5890",
+   "SAS|id:951085|2650|1290"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -1315,7 +1316,8 @@
    "Yerevan City|id:177237|2990|1790",
    "Yerevan City|id:177555|2990|1590",
    "Yerevan City|id:181148|2990|1790",
-   "Yerevan City|id:191873|2990|2390"
+   "Yerevan City|id:191873|2990|2390",
+   "Yerevan City|id:179095|2990|90"
   ]
  },
  "queues": {
@@ -3508,6 +3510,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/shampanskoe_igristoe_vino/30650/",
     "key": "SAS|id:30650|6350|5890"
+   },
+   {
+    "store": "SAS",
+    "title": "Քամած մածուն «Avramidis Family» 180գ",
+    "old": 2650,
+    "new": 1290,
+    "pct": 51,
+    "until": "02.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/191/981/981382683808376.webp",
+    "url": "https://www.sas.am/catalog/matsoni/951085/",
+    "key": "SAS|id:951085|2650|1290"
    }
   ],
   "Yerevan City": [
@@ -5699,6 +5712,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175603.png",
     "url": "https://yerevan-city.am/shop/product-details/191873",
     "key": "Yerevan City|id:191873|2990|2390"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Չիպս նորի «Իտսու» վասաբի 4x5գր",
+    "old": 2990,
+    "new": 90,
+    "pct": 97,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172800.png",
+    "url": "https://yerevan-city.am/shop/product-details/179095",
+    "key": "Yerevan City|id:179095|2990|90"
    }
   ]
  },
