@@ -1334,17 +1334,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Մակարոն «Barilla №41 Chifferi Rigati» 450գ",
-    "old": 880,
-    "new": 730,
-    "pct": 17,
-    "until": "10.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/259/616/616225433168079.webp",
-    "url": "https://www.sas.am/catalog/makaronyy/393044/",
-    "key": "SAS|id:393044|880|730"
-   },
-   {
-    "store": "SAS",
     "title": "Վարտիք -տակդիրներ «Merries XL» 12-22կգ, 38հատ",
     "old": 12900,
     "new": 10650,
@@ -5737,8 +5726,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-29T07:18:12.757604+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-29T07:46:45.678709+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
