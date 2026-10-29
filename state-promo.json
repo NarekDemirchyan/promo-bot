@@ -1392,7 +1392,8 @@
    "Yerevan City|id:91345|2930|2350",
    "Yerevan City|id:18080|2910|2190",
    "Yerevan City|id:92860|2910|2190",
-   "Yerevan City|id:67016|2910|2190"
+   "Yerevan City|id:67016|2910|2190",
+   "Yerevan City|id:1916|2900|2590"
   ]
  },
  "queues": {
@@ -5787,6 +5788,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1061442.png",
     "url": "https://yerevan-city.am/shop/product-details/67016",
     "key": "Yerevan City|id:67016|2910|2190"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Նրբերշիկ բերներ «Գրեյսինգեր» ա/գ 300գր",
+    "old": 2900,
+    "new": 2590,
+    "pct": 11,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1046192.png",
+    "url": "https://yerevan-city.am/shop/product-details/1916",
+    "key": "Yerevan City|id:1916|2900|2590"
    }
   ]
  },
