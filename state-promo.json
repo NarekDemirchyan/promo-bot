@@ -1378,17 +1378,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Օղի «Архангельская Выдержанная» 0.5լ",
-    "old": 6690,
-    "new": 6150,
-    "pct": 8,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/importnoe/855631/",
-    "key": "SAS|id:855631|6690|6150"
-   },
-   {
-    "store": "SAS",
     "title": "Սառնաշաքար ազնվամորու «Hitschies Lollis» 128գ",
     "old": 1290,
     "new": 640,
@@ -5781,8 +5770,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-29T19:46:56.538540+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-29T20:01:33.501038+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
