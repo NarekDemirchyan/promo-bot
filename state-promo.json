@@ -739,7 +739,8 @@
    "SAS|id:589152|3140|2730",
    "SAS|id:552180|7350|6790",
    "SAS|id:552179|5870|5570",
-   "SAS|id:550378|580|460"
+   "SAS|id:550378|580|460",
+   "SAS|id:35694|1560|1320"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3562,20 +3563,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/152/647/6479433679403747.webp",
     "url": "https://www.sas.am/catalog/salfetki/550378/",
     "key": "SAS|id:550378|580|460"
+   },
+   {
+    "store": "SAS",
+    "title": "Լոգանքի կրեմ-գել «Nivea Crème Soft» 250մլ",
+    "old": 1560,
+    "new": 1320,
+    "pct": 15,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/showergell/35694/",
+    "key": "SAS|id:35694|1560|1320"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Մանկ.տակդիր «Փամպերս» Պրեմ.Քեյր 2 4-8կգ 23հտ",
-    "old": 3880,
-    "new": 3090,
-    "pct": 20,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178893.png",
-    "url": "https://yerevan-city.am/shop/product-details/195100",
-    "key": "Yerevan City|id:195100|3880|3090"
-   },
    {
     "store": "Yerevan City",
     "title": "Ատամի էլ. խոզանակ «Գամ» Սոնիկ Սենսիթ.ուլտրա փափուկ",
@@ -5768,8 +5769,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-29T19:31:49.931601+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-29T19:46:56.538540+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
