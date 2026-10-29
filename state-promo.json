@@ -1342,22 +1342,12 @@
    "Yerevan City|id:160027|2960|2290",
    "Yerevan City|id:180144|2960|2250",
    "Yerevan City|id:180145|2960|2250",
-   "Yerevan City|id:180146|2960|2250"
+   "Yerevan City|id:180146|2960|2250",
+   "Yerevan City|id:180147|2960|2250"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շոկոլադե սալիկ նուշով և աղով «Lindt Les Grandes» 150գ",
-    "old": 4790,
-    "new": 2650,
-    "pct": 45,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/plitka/438951/",
-    "key": "SAS|id:438951|4790|2650"
-   },
    {
     "store": "SAS",
     "title": "Դեմքի, ձեռքերի և մարմնի կրեմ «Nivea Soft SPF 15» 100մլ",
@@ -5737,12 +5727,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173865.png",
     "url": "https://yerevan-city.am/shop/product-details/180146",
     "key": "Yerevan City|id:180146|2960|2250"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սուրճի պատիճ «ԼավԱզզա» Կր.գուստո, կլասիկ 10x5.7գր",
+    "old": 2960,
+    "new": 2250,
+    "pct": 24,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173866.png",
+    "url": "https://yerevan-city.am/shop/product-details/180147",
+    "key": "Yerevan City|id:180147|2960|2250"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-29T11:45:58.822867+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-29T12:01:17.481617+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
