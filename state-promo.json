@@ -746,7 +746,8 @@
    "SAS|id:34591|1210|990",
    "SAS|id:542797|20220|15490",
    "SAS|id:246629|980|820",
-   "SAS|id:192475|1190|950"
+   "SAS|id:192475|1190|950",
+   "SAS|id:203494|2670|2390"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3576,6 +3577,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/uksus/192475/",
     "key": "SAS|id:192475|1190|950"
+   },
+   {
+    "store": "SAS",
+    "title": "Շամպուն «Schwarzkopf Gliss Kur» 400մլ",
+    "old": 2670,
+    "new": 2390,
+    "pct": 10,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/dlya_volos2/203494/",
+    "key": "SAS|id:203494|2670|2390"
    }
   ],
   "Yerevan City": [
