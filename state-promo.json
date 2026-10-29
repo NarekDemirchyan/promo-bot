@@ -1397,22 +1397,12 @@
    "Yerevan City|id:1916|2900|2590",
    "Yerevan City|id:7561|2890|2490",
    "Yerevan City|id:159482|2890|2450",
-   "Yerevan City|id:178239|2890|2170"
+   "Yerevan City|id:178239|2890|2170",
+   "Yerevan City|id:195130|2890|2310"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սափրող սարք «Wilkinson Xtreme 3» 1 հատ",
-    "old": 790,
-    "new": 550,
-    "pct": 30,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/200/964/964099543768191.webp",
-    "url": "https://www.sas.am/catalog/stanok_dlya_britya/173923/",
-    "key": "SAS|id:173923|790|550"
-   },
    {
     "store": "SAS",
     "title": "Լվացքի փոշի գունավոր «Tide Absolute» 400գ",
@@ -3571,17 +3561,6 @@
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Գնդակներ ցանցով 5.5սմ 100հտ",
-    "old": 3690,
-    "new": 2950,
-    "pct": 20,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156331.png",
-    "url": "https://yerevan-city.am/shop/product-details/158693",
-    "key": "Yerevan City|id:158693|3690|2950"
-   },
    {
     "store": "Yerevan City",
     "title": "Բեռնատար իներցիոն կցորդով 1:24 ԿԼԻքս800-211",
@@ -5759,12 +5738,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1171908.png",
     "url": "https://yerevan-city.am/shop/product-details/178239",
     "key": "Yerevan City|id:178239|2890|2170"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Երաժշտ.խաղալիք «Կոալա» 373-75Ա",
+    "old": 2890,
+    "new": 2310,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178933.png",
+    "url": "https://yerevan-city.am/shop/product-details/195130",
+    "key": "Yerevan City|id:195130|2890|2310"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-30T03:31:11.919984+04:00",
+ "last_publish": "2026-10-30T03:45:56.311561+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
@@ -5773,7 +5763,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 22,
+ "city_page": 23,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
