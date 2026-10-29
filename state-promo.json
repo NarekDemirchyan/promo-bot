@@ -742,7 +742,8 @@
    "SAS|id:550378|580|460",
    "SAS|id:35694|1560|1320",
    "SAS|id:7353|980|880",
-   "SAS|id:403425|10230|9650"
+   "SAS|id:403425|10230|9650",
+   "SAS|id:34591|1210|990"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3568,6 +3569,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/405/776/7766851663175508.webp",
     "url": "https://www.sas.am/catalog/dzhin_absent/403425/",
     "key": "SAS|id:403425|10230|9650"
+   },
+   {
+    "store": "SAS",
+    "title": "Լոգանքի գել «Le Petit Marseillais» 250մլ",
+    "old": 1210,
+    "new": 990,
+    "pct": 18,
+    "until": "30.10.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/406/150/1504322316126507.webp",
+    "url": "https://www.sas.am/catalog/dlya_volos2/34591/",
+    "key": "SAS|id:34591|1210|990"
    }
   ],
   "Yerevan City": [
