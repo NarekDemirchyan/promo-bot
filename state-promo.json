@@ -722,7 +722,8 @@
    "SAS|id:592304|3390|2650",
    "SAS|id:6669|6350|5890",
    "SAS|id:951084|1590|790",
-   "SAS|id:936869|1390|690"
+   "SAS|id:936869|1390|690",
+   "SAS|id:936867|1590|790"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3528,6 +3529,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/139/228/22890213896242.webp",
     "url": "https://www.sas.am/catalog/yogurt_puding/936869/",
     "key": "SAS|id:936869|1390|690"
+   },
+   {
+    "store": "SAS",
+    "title": "Յոգուրտ ելակով, հապալասով և ազնվամորիով «Avramidis Family Tsantillas Strawberry Blueberry Raspberry» 170գ, յուղայնությունը՝ 2",
+    "old": 1590,
+    "new": 790,
+    "pct": 50,
+    "until": "02.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/yogurt_puding/936867/",
+    "key": "SAS|id:936867|1590|790"
    }
   ],
   "Yerevan City": [
