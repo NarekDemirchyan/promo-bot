@@ -1312,22 +1312,12 @@
    "Yerevan City|id:177038|2990|1790",
    "Yerevan City|id:177222|2990|1790",
    "Yerevan City|id:177237|2990|1790",
-   "Yerevan City|id:177555|2990|1590"
+   "Yerevan City|id:177555|2990|1590",
+   "Yerevan City|id:181148|2990|1790"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Մակարոն «Pasta Zara Penne Lisce № 47» 500գ",
-    "old": 860,
-    "new": 790,
-    "pct": 8,
-    "until": "29.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/396/459/459168218789128.webp",
-    "url": "https://www.sas.am/catalog/makaronyy/824546/",
-    "key": "SAS|id:824546|860|790"
-   },
    {
     "store": "SAS",
     "title": "Սուրճ հատիկավոր «Egoiste Truffle» 250գ",
@@ -3521,17 +3511,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Երշիկ եփած-ապխտած ռիգայի «Մոյա Սեմյա» կգ",
-    "old": 3990,
-    "new": 3240,
-    "pct": 19,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1067593.png",
-    "url": "https://yerevan-city.am/shop/product-details/1705",
-    "key": "Yerevan City|id:1705|3990|3240"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Ավտոմեքենա իներց. «Թրեյլեր» կցոր.1:24 ԿԼԻքս800-271",
     "old": 3990,
     "new": 2390,
@@ -5707,12 +5686,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1171189.png",
     "url": "https://yerevan-city.am/shop/product-details/177555",
     "key": "Yerevan City|id:177555|2990|1590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շախմատ մագնիսական",
+    "old": 2990,
+    "new": 1790,
+    "pct": 40,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174878.png",
+    "url": "https://yerevan-city.am/shop/product-details/181148",
+    "key": "Yerevan City|id:181148|2990|1790"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-29T04:16:46.056197+04:00",
+ "last_publish": "2026-10-29T04:31:58.606229+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
