@@ -1354,22 +1354,12 @@
    "Yerevan City|id:158890|2960|2350",
    "Yerevan City|id:180738|2960|2290",
    "Yerevan City|id:173494|2960|1560",
-   "Yerevan City|id:180739|2960|2290"
+   "Yerevan City|id:180739|2960|2290",
+   "Yerevan City|id:180740|2960|2290"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Հակաքրտինքային միջոց-սթիք «Nivea Derma Control Defend» 50մլ",
-    "old": 2090,
-    "new": 1540,
-    "pct": 26,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/173/123/123808714701188.webp",
-    "url": "https://www.sas.am/catalog/antiperspirantt/873096/",
-    "key": "SAS|id:873096|2090|1540"
-   },
    {
     "store": "SAS",
     "title": "Վարտիք-տակդիրներ «Merries XXL» 15-28կգ, 24 հատ",
@@ -5749,12 +5739,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174471.png",
     "url": "https://yerevan-city.am/shop/product-details/180739",
     "key": "Yerevan City|id:180739|2960|2290"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Լոգ.քսուք «Տեսորի դՕրիենտե» նաշի-սոճու փայտ 500մլ",
+    "old": 2960,
+    "new": 2290,
+    "pct": 23,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174472.png",
+    "url": "https://yerevan-city.am/shop/product-details/180740",
+    "key": "Yerevan City|id:180740|2960|2290"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-29T15:16:43.377456+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-29T15:31:56.210586+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
