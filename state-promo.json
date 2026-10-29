@@ -1352,17 +1352,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Դեմքի, ձեռքերի և մարմնի կրեմ «Nivea Soft SPF 15» 100մլ",
-    "old": 2490,
-    "new": 2050,
-    "pct": 18,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/283/819/819844402214964.webp",
-    "url": "https://www.sas.am/catalog/vse_dlya_litsa/873102/",
-    "key": "SAS|id:873102|2490|2050"
-   },
-   {
-    "store": "SAS",
     "title": "Լոգանքի գել «Nivea Derma Control Defend» 250մլ",
     "old": 1560,
     "new": 1320,
@@ -5755,8 +5744,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-29T12:18:50.162780+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-29T12:46:38.122060+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
