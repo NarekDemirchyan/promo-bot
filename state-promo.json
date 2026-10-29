@@ -715,7 +715,8 @@
    "SAS|id:30650|6350|5890",
    "SAS|id:951085|2650|1290",
    "SAS|id:596206|2670|2390",
-   "SAS|id:596205|1930|1680"
+   "SAS|id:596205|1930|1680",
+   "SAS|id:594266|9450|7990"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3514,6 +3515,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/dlya_volos2/596205/",
     "key": "SAS|id:596205|1930|1680"
+   },
+   {
+    "store": "SAS",
+    "title": "Լիկյոր սերկևիլի «Ակում» 0,5լ",
+    "old": 9450,
+    "new": 7990,
+    "pct": 15,
+    "until": "13.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/306/144/1442823195057947.webp",
+    "url": "https://www.sas.am/catalog/liker/594266/",
+    "key": "SAS|id:594266|9450|7990"
    }
   ],
   "Yerevan City": [
