@@ -718,7 +718,8 @@
    "SAS|id:596205|1930|1680",
    "SAS|id:594266|9450|7990",
    "SAS|id:592534|2090|1540",
-   "SAS|id:592313|8790|6690"
+   "SAS|id:592313|8790|6690",
+   "SAS|id:592304|3390|2650"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3520,20 +3521,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/vse_dlya_litsa/592313/",
     "key": "SAS|id:592313|8790|6690"
+   },
+   {
+    "store": "SAS",
+    "title": "Դեմքի կրեմ «L'Oreal Paris 65+» 50մլ",
+    "old": 3390,
+    "new": 2650,
+    "pct": 22,
+    "until": "30.10.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/vse_dlya_litsa/592304/",
+    "key": "SAS|id:592304|3390|2650"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Սոուս «Սկավուրու» պեստո պիստակ ա/գ 180գր",
-    "old": 3990,
-    "new": 3320,
-    "pct": 17,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175362.png",
-    "url": "https://yerevan-city.am/shop/product-details/191639",
-    "key": "Yerevan City|id:191639|3990|3320"
-   },
    {
     "store": "Yerevan City",
     "title": "Բեռնամբարձիչ իներցիոն կցորդով 1:43 ԿԼԻքս900-57",
@@ -5726,8 +5727,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-29T07:46:45.678709+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-29T08:02:00.084536+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
