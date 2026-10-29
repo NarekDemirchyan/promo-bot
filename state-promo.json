@@ -1318,17 +1318,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Փայլաթիթեղ «Фрекен Бок» 10մ",
-    "old": 850,
-    "new": 750,
-    "pct": 12,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/plenka_pishchevaya_folga/194161/",
-    "key": "SAS|id:194161|850|750"
-   },
-   {
-    "store": "SAS",
     "title": "Մակարոն «Pasta Zara Penne Lisce № 47» 500գ",
     "old": 860,
     "new": 790,
@@ -5721,8 +5710,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-29T03:34:09.766895+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-29T04:01:59.306207+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
