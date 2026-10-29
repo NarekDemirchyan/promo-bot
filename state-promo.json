@@ -1326,7 +1326,8 @@
    "Yerevan City|id:177008|2990|2390",
    "Yerevan City|id:131859|2980|1490",
    "Yerevan City|id:99870|2970|1485",
-   "Yerevan City|id:172551|2990|2790"
+   "Yerevan City|id:172551|2990|2790",
+   "Yerevan City|id:169647|2990|1460"
   ]
  },
  "queues": {
@@ -5721,6 +5722,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1165839.png",
     "url": "https://yerevan-city.am/shop/product-details/172551",
     "key": "Yerevan City|id:172551|2990|2790"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մանկ.տակդիր «Մայ բեյբի» 6 15-25կգ 24հտ",
+    "old": 2990,
+    "new": 1460,
+    "pct": 51,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1163401.png",
+    "url": "https://yerevan-city.am/shop/product-details/169647",
+    "key": "Yerevan City|id:169647|2990|1460"
    }
   ]
  },
