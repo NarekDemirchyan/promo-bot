@@ -723,7 +723,8 @@
    "SAS|id:6669|6350|5890",
    "SAS|id:951084|1590|790",
    "SAS|id:936869|1390|690",
-   "SAS|id:936867|1590|790"
+   "SAS|id:936867|1590|790",
+   "SAS|id:792766|2270|1590"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -1337,22 +1338,12 @@
    "Yerevan City|id:160025|2960|2290",
    "Yerevan City|id:160026|2960|2290",
    "Yerevan City|id:160027|2960|2290",
-   "Yerevan City|id:180144|2960|2250"
+   "Yerevan City|id:180144|2960|2250",
+   "Yerevan City|id:180145|2960|2250"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շամպուն «Head & Shoulders» 360մլ",
-    "old": 2890,
-    "new": 2590,
-    "pct": 10,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/170/814/8141101463108890.webp",
-    "url": "https://www.sas.am/catalog/dlya_volos2/648102/",
-    "key": "SAS|id:648102|2890|2590"
-   },
    {
     "store": "SAS",
     "title": "Հակաքրտինքային միջոց սթիք «Nivea Эффект Пудры» 50մլ",
@@ -3530,6 +3521,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/yogurt_puding/936867/",
     "key": "SAS|id:936867|1590|790"
+   },
+   {
+    "store": "SAS",
+    "title": "Գինի կարմիր «Նարդվան» 0.75լ",
+    "old": 2270,
+    "new": 1590,
+    "pct": 30,
+    "until": "30.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/318/412/4120594209243687.webp",
+    "url": "https://www.sas.am/catalog/armyanskoe_vino/792766/",
+    "key": "SAS|id:792766|2270|1590"
    }
   ],
   "Yerevan City": [
@@ -5721,12 +5723,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173863.png",
     "url": "https://yerevan-city.am/shop/product-details/180144",
     "key": "Yerevan City|id:180144|2960|2250"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սուրճի պատիճ «ԼավԱզզա» Օրո 10x5.5գր",
+    "old": 2960,
+    "new": 2250,
+    "pct": 24,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173864.png",
+    "url": "https://yerevan-city.am/shop/product-details/180145",
+    "key": "Yerevan City|id:180145|2960|2250"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-29T10:31:50.872273+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-29T10:46:41.928188+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
