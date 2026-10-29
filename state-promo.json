@@ -1348,17 +1348,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Հակաքրտինքային միջոց սթիք «Nivea Эффект Пудры» 50մլ",
-    "old": 2090,
-    "new": 1540,
-    "pct": 26,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/antiperspirantt/493650/",
-    "key": "SAS|id:493650|2090|1540"
-   },
-   {
-    "store": "SAS",
     "title": "Շոկոլադե սալիկ նուշով և աղով «Lindt Les Grandes» 150գ",
     "old": 4790,
     "new": 2650,
@@ -5751,8 +5740,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-29T11:02:46.074824+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-29T11:31:12.279250+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
