@@ -1324,17 +1324,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Թեյ կանաչ «Tess Ginger Mojito» 20*1.8գ",
-    "old": 880,
-    "new": 590,
-    "pct": 33,
-    "until": "28.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/218/651/6512652205729313.webp",
-    "url": "https://www.sas.am/catalog/v_paketakh/198806/",
-    "key": "SAS|id:198806|880|590"
-   },
-   {
-    "store": "SAS",
     "title": "Անձեռոցիկ «Selpak» 48հատ",
     "old": 910,
     "new": 820,
@@ -3524,17 +3513,6 @@
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Շամպայնի գավաթ 220մլ 6հտ Ֆ228-2",
-    "old": 3990,
-    "new": 2490,
-    "pct": 38,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176988.png",
-    "url": "https://yerevan-city.am/shop/product-details/193234",
-    "key": "Yerevan City|id:193234|3990|2490"
-   },
    {
     "store": "Yerevan City",
     "title": "Ավտոմեքենա իներց. «Թրեյլեր» կցոր.1:24 ԿԼԻքս800-277",
@@ -5728,7 +5706,7 @@
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-29T04:48:11.361167+04:00",
+ "last_publish": "2026-10-29T05:16:43.762631+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
