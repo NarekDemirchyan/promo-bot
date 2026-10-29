@@ -1378,22 +1378,12 @@
    "Yerevan City|id:8502|2940|2350",
    "Yerevan City|id:17609|2940|2350",
    "Yerevan City|id:17619|2940|2350",
-   "Yerevan City|id:29204|2940|2350"
+   "Yerevan City|id:29204|2940|2350",
+   "Yerevan City|id:29206|2940|2350"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կոնյակ «Օրրան 7*» 0․5լ",
-    "old": 7490,
-    "new": 7090,
-    "pct": 5,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/armyanskiy_konyak/847978/",
-    "key": "SAS|id:847978|7490|7090"
-   },
    {
     "store": "SAS",
     "title": "Շամպուն «Head & Shoulders» 360մլ",
@@ -5773,12 +5763,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1094678.png",
     "url": "https://yerevan-city.am/shop/product-details/29204",
     "key": "Yerevan City|id:29204|2940|2350"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Քսուք աչքերի շուրջ «Լորեալ» Էքսպերտ 55+ 15մլ",
+    "old": 2940,
+    "new": 2350,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1094683.png",
+    "url": "https://yerevan-city.am/shop/product-details/29206",
+    "key": "Yerevan City|id:29206|2940|2350"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-29T22:02:04.559194+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-29T22:19:00.250114+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
