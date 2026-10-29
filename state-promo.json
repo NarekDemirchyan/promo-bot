@@ -3563,17 +3563,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Ձիթապտուղ կանաչ «Լոռաս» կտ.կիտրոն 70/110 2250գր",
-    "old": 3950,
-    "new": 3650,
-    "pct": 8,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1167685.png",
-    "url": "https://yerevan-city.am/shop/product-details/174090",
-    "key": "Yerevan City|id:174090|3950|3650"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Մանկ.տակդիր «Փամպերս» Պրեմ.Քեյր 1 2-5կգ 26հտ",
     "old": 3940,
     "new": 3550,
@@ -5764,8 +5753,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-29T14:48:47.667471+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-29T15:16:43.377456+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
