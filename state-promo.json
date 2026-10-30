@@ -3413,17 +3413,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Թեյի հավաքածու 5Կ",
-    "old": 3590,
-    "new": 2870,
-    "pct": 20,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178889.png",
-    "url": "https://yerevan-city.am/shop/product-details/195086",
-    "key": "Yerevan City|id:195086|3590|2870"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Երաժշտական բարձրախոս ՎՍ858",
     "old": 3590,
     "new": 2870,
@@ -5614,8 +5603,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-30T07:45:31.449656+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-30T08:00:46.433509+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
