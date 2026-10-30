@@ -3093,17 +3093,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Կոնֆետների հավաքածու «Մարկ Սևունի» Ավանգարդ 210գր",
-    "old": 3510,
-    "new": 2960,
-    "pct": 16,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1079703.png",
-    "url": "https://yerevan-city.am/shop/product-details/4460",
-    "key": "Yerevan City|id:4460|3510|2960"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Կոնֆետների հավաքածու «Մարկ Սևունի» Լաունջ 210գր",
     "old": 3510,
     "new": 2960,
@@ -5294,8 +5283,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-30T20:00:53.225824+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-30T20:15:30.456960+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
