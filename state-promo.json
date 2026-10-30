@@ -1400,7 +1400,8 @@
    "Yerevan City|id:178239|2890|2170",
    "Yerevan City|id:195130|2890|2310",
    "Yerevan City|id:169274|2830|2590",
-   "Yerevan City|id:132274|2830|2350"
+   "Yerevan City|id:132274|2830|2350",
+   "Yerevan City|id:132273|2830|2350"
   ]
  },
  "queues": {
@@ -5729,6 +5730,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1151778.png",
     "url": "https://yerevan-city.am/shop/product-details/132274",
     "key": "Yerevan City|id:132274|2830|2350"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Լվացքի գել «Սավեքս» Պրեմիում, սպիտակ 960մլ",
+    "old": 2830,
+    "new": 2350,
+    "pct": 17,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1151777.png",
+    "url": "https://yerevan-city.am/shop/product-details/132273",
+    "key": "Yerevan City|id:132273|2830|2350"
    }
   ]
  },
