@@ -1465,22 +1465,12 @@
    "Yerevan City|id:11921|2510|2340",
    "Yerevan City|id:8498|2500|2080",
    "Yerevan City|id:15592|2490|1690",
-   "Yerevan City|id:25827|2490|2250"
+   "Yerevan City|id:25827|2490|2250",
+   "Yerevan City|id:25828|2490|2250"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կոնյակ «Օրրան 5*» 0․5լ",
-    "old": 4830,
-    "new": 4550,
-    "pct": 6,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/armyanskiy_konyak/830890/",
-    "key": "SAS|id:830890|4830|4550"
-   },
    {
     "store": "SAS",
     "title": "Կոնյակ «Օրրան 3*» 0․5լ",
@@ -2891,17 +2881,6 @@
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Լվացվելու փրփուր «Լիրեն» Ց+Ե վիտ.խոնավեցնող150մլ",
-    "old": 3470,
-    "new": 2760,
-    "pct": 20,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156572.png",
-    "url": "https://yerevan-city.am/shop/product-details/158929",
-    "key": "Yerevan City|id:158929|3470|2760"
-   },
    {
     "store": "Yerevan City",
     "title": "Մանկական լվացքի փոշի «Տեո Բեբե» նարդոս 2.25կգ",
@@ -5079,6 +5058,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1084069.png",
     "url": "https://yerevan-city.am/shop/product-details/25827",
     "key": "Yerevan City|id:25827|2490|2250"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տորթ «Անահիտ քեյքս» կարամելային 900գր",
+    "old": 2490,
+    "new": 2250,
+    "pct": 10,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1084070.png",
+    "url": "https://yerevan-city.am/shop/product-details/25828",
+    "key": "Yerevan City|id:25828|2490|2250"
    }
   ]
  },
