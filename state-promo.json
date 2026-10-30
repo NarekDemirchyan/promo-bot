@@ -1458,22 +1458,12 @@
    "Yerevan City|id:165145|2590|1550",
    "Yerevan City|id:176955|2590|1550",
    "Yerevan City|id:57659|2590|690",
-   "Yerevan City|id:178841|2590|1690"
+   "Yerevan City|id:178841|2590|1690",
+   "Yerevan City|id:180803|2590|1390"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Բարձրախոս անլար «Borofone BR4»",
-    "old": 8200,
-    "new": 4100,
-    "pct": 50,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/838086/",
-    "key": "SAS|id:838086|8200|4100"
-   },
    {
     "store": "SAS",
     "title": "Էլեկտրական մարտկոց «Energizer max plus AA LR6» 4հատ",
@@ -5149,12 +5139,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172539.png",
     "url": "https://yerevan-city.am/shop/product-details/178841",
     "key": "Yerevan City|id:178841|2590|1690"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Լաթ մանրաթելային «Սոլինգեն» 55x35սմ 3հտ",
+    "old": 2590,
+    "new": 1390,
+    "pct": 46,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174537.png",
+    "url": "https://yerevan-city.am/shop/product-details/180803",
+    "key": "Yerevan City|id:180803|2590|1390"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-31T00:15:31.447181+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-31T00:30:42.848657+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
