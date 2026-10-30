@@ -1438,22 +1438,12 @@
    "Yerevan City|id:101053|2690|1890",
    "Yerevan City|id:30664|2670|2240",
    "Yerevan City|id:30666|2670|2240",
-   "Yerevan City|id:180040|2660|2240"
+   "Yerevan City|id:180040|2660|2240",
+   "Yerevan City|id:32224|2650|2180"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Հեղուկ օճառ «Teo Lovely Rich Milk» 400մլ",
-    "old": 980,
-    "new": 880,
-    "pct": 10,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/liqsoup/103733/",
-    "key": "SAS|id:103733|980|880"
-   },
    {
     "store": "SAS",
     "title": "Քացախ բալզամիկ «Ponti Balsamico» 0.25լ",
@@ -3161,17 +3151,6 @@
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Շամպուն «Հ.էսսենսիզ» վարդ, հարթ-մետաքսյա 350մլ",
-    "old": 3540,
-    "new": 1770,
-    "pct": 50,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1164790.png",
-    "url": "https://yerevan-city.am/shop/product-details/171138",
-    "key": "Yerevan City|id:171138|3540|1770"
-   },
    {
     "store": "Yerevan City",
     "title": "Բալզամ-ող. «Հ.էսսենսիզ» նարդոս, սնուցում 250մլ",
@@ -5349,12 +5328,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173759.png",
     "url": "https://yerevan-city.am/shop/product-details/180040",
     "key": "Yerevan City|id:180040|2660|2240"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ծովատառեխի ֆիլե, ձիթապտղով «ՍԲ» Մորյաչոկ 500գր",
+    "old": 2650,
+    "new": 2180,
+    "pct": 18,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1076454.png",
+    "url": "https://yerevan-city.am/shop/product-details/32224",
+    "key": "Yerevan City|id:32224|2650|2180"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-30T17:45:35.116355+04:00",
+ "last_publish": "2026-10-30T18:00:51.520233+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
