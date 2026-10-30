@@ -1451,22 +1451,12 @@
    "Yerevan City|id:23932|2590|2150",
    "Yerevan City|id:55885|2590|1850",
    "Yerevan City|id:102136|2590|1990",
-   "Yerevan City|id:114359|2590|690"
+   "Yerevan City|id:114359|2590|690",
+   "Yerevan City|id:134278|2590|1390"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սպագետտի «Barilla №1 Capellini» 500գ",
-    "old": 880,
-    "new": 730,
-    "pct": 17,
-    "until": "10.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/spagetti_kapelini/95741/",
-    "key": "SAS|id:95741|880|730"
-   },
    {
     "store": "SAS",
     "title": "Կետչուպ գրիլի և խորովածի համար «Heinz Гриль Шашлык» 320գ",
@@ -5219,12 +5209,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1144544.png",
     "url": "https://yerevan-city.am/shop/product-details/114359",
     "key": "Yerevan City|id:114359|2590|690"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գրաֆին գծավոր, դեղին 1.1լ",
+    "old": 2590,
+    "new": 1390,
+    "pct": 46,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1153328.png",
+    "url": "https://yerevan-city.am/shop/product-details/134278",
+    "key": "Yerevan City|id:134278|2590|1390"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-30T22:15:32.113469+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-30T22:30:41.110876+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
