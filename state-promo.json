@@ -3213,17 +3213,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Դեմքի քսուք-գել «Լիրեն» Ց+Դ վիտ.խոնավ-սպիտակ.50մլ",
-    "old": 3550,
-    "new": 2820,
-    "pct": 21,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156546.png",
-    "url": "https://yerevan-city.am/shop/product-details/158903",
-    "key": "Yerevan City|id:158903|3550|2820"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Պանիր չանախ «Վանաձոր» (վակուում) կգ",
     "old": 3540,
     "new": 3090,
@@ -5414,8 +5403,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-30T16:00:56.860830+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-30T16:15:30.633530+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
