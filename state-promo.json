@@ -1412,22 +1412,12 @@
    "Yerevan City|id:194287|2790|1790",
    "Yerevan City|id:93143|2790|590",
    "Yerevan City|id:162607|2790|1450",
-   "Yerevan City|id:166498|2790|1670"
+   "Yerevan City|id:166498|2790|1670",
+   "Yerevan City|id:176291|2790|1670"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ձեթ ձիթապտղի «Luglio Extra Virgin» 0.25լ",
-    "old": 2470,
-    "new": 2150,
-    "pct": 13,
-    "until": "10.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/397/058/0587873209116241.webp",
-    "url": "https://www.sas.am/catalog/rastitelnoe/98287/",
-    "key": "SAS|id:98287|2470|2150"
-   },
    {
     "store": "SAS",
     "title": "Թեյ սև «Lavtea» 25*2գ",
@@ -5609,12 +5599,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1162163.png",
     "url": "https://yerevan-city.am/shop/product-details/166498",
     "key": "Yerevan City|id:166498|2790|1670"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կոնստրուկտոր «ԾիեՓին» Ավտոմեքենա 1:32 Պ28",
+    "old": 2790,
+    "new": 1670,
+    "pct": 40,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169921.png",
+    "url": "https://yerevan-city.am/shop/product-details/176291",
+    "key": "Yerevan City|id:176291|2790|1670"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-30T07:31:05.085825+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-30T07:45:31.449656+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
