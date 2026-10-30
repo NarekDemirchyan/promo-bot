@@ -1468,22 +1468,12 @@
    "Yerevan City|id:25827|2490|2250",
    "Yerevan City|id:25828|2490|2250",
    "Yerevan City|id:159085|2490|995",
-   "Yerevan City|id:28265|2490|1150"
+   "Yerevan City|id:28265|2490|1150",
+   "Yerevan City|id:159251|2490|1900"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Լաքահանող միջոց «Frosch» 75մլ",
-    "old": 1190,
-    "new": 720,
-    "pct": 39,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/306/296/2967641082652390.webp",
-    "url": "https://www.sas.am/catalog/opolaskivatel_konditsioner_kontsentrat/813786/",
-    "key": "SAS|id:813786|1190|720"
-   },
    {
     "store": "SAS",
     "title": "Գինի կարմիր «Marani Saperavi» 0.75լ",
@@ -2861,17 +2851,6 @@
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Սալյամի եփած-ապխտած «Մոյա Սեմյա» կգ",
-    "old": 3450,
-    "new": 1725,
-    "pct": 50,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1040496.png",
-    "url": "https://yerevan-city.am/shop/product-details/5674",
-    "key": "Yerevan City|id:5674|3450|1725"
-   },
    {
     "store": "Yerevan City",
     "title": "Մարտկոց «Դյուրասելլ» Օպտիմում ԱԱԱ 1.5Վ 6հտ",
@@ -5049,12 +5028,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1098603.png",
     "url": "https://yerevan-city.am/shop/product-details/28265",
     "key": "Yerevan City|id:28265|2490|1150"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Փափուկ խաղալիք «Բոբա բաժակ»",
+    "old": 2490,
+    "new": 1900,
+    "pct": 24,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156913.png",
+    "url": "https://yerevan-city.am/shop/product-details/159251",
+    "key": "Yerevan City|id:159251|2490|1900"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-31T03:00:58.288740+04:00",
+ "last_publish": "2026-10-31T03:15:32.406936+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
