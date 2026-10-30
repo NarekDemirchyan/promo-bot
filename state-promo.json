@@ -2953,17 +2953,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Խաղ «Նետել և բռնել» 777-661-32",
-    "old": 3490,
-    "new": 2790,
-    "pct": 20,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177879.png",
-    "url": "https://yerevan-city.am/shop/product-details/194114",
-    "key": "Yerevan City|id:194114|3490|2790"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Չխկչխկան խաղալիք «ՉիմՍթար» 2հտ ՔՖ366-055",
     "old": 3490,
     "new": 2090,
@@ -5154,8 +5143,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-31T00:30:42.848657+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-31T00:45:36.444750+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
