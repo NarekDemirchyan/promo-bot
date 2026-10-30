@@ -1426,22 +1426,12 @@
    "Yerevan City|id:86951|2710|2380",
    "Yerevan City|id:181166|2690|1790",
    "Yerevan City|id:195091|2690|2150",
-   "Yerevan City|id:11712|2690|2290"
+   "Yerevan City|id:11712|2690|2290",
+   "Yerevan City|id:102384|2690|2310"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Լար «Borofone BL-20»",
-    "old": 2500,
-    "new": 1250,
-    "pct": 50,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/838948/",
-    "key": "SAS|id:838948|2500|1250"
-   },
    {
     "store": "SAS",
     "title": "Լար «Borofone BL-10 AUX AUDIO»",
@@ -5469,12 +5459,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1049515.png",
     "url": "https://yerevan-city.am/shop/product-details/11712",
     "key": "Yerevan City|id:11712|2690|2290"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Զեֆիր ֆրանս. «Սլավյանկա» Ժակլին, ելակը շոկ․ կգ",
+    "old": 2690,
+    "new": 2310,
+    "pct": 14,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1137273.png",
+    "url": "https://yerevan-city.am/shop/product-details/102384",
+    "key": "Yerevan City|id:102384|2690|2310"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-30T12:45:32.715692+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-30T13:00:50.886947+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
