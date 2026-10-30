@@ -1404,22 +1404,12 @@
    "Yerevan City|id:132273|2830|2350",
    "Yerevan City|id:66619|2790|1990",
    "Yerevan City|id:22995|2790|1990",
-   "Yerevan City|id:22996|2790|1990"
+   "Yerevan City|id:22996|2790|1990",
+   "Yerevan City|id:170162|2790|1990"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Պատիճ սուրճի «Tonino Lamborghini Espresso Platinum» 10հատ, 50գ",
-    "old": 3290,
-    "new": 1690,
-    "pct": 49,
-    "until": "28.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/148/923/923657332650389.webp",
-    "url": "https://www.sas.am/catalog/drugoy/408355/",
-    "key": "SAS|id:408355|3290|1690"
-   },
    {
     "store": "SAS",
     "title": "Էներգետիկ գազավորված ըմպելիք «Flash Up» 0.45լ",
@@ -3501,17 +3491,6 @@
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Սեղանի խաղ «Էրուդիտ» 0119Ռ-1",
-    "old": 3590,
-    "new": 2870,
-    "pct": 20,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178935.png",
-    "url": "https://yerevan-city.am/shop/product-details/195132",
-    "key": "Yerevan City|id:195132|3590|2870"
-   },
    {
     "store": "Yerevan City",
     "title": "Լվացքի գել «Պերվոլ» Բրիլիանտ, սպիտակ 2լ",
@@ -5689,12 +5668,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1101363.png",
     "url": "https://yerevan-city.am/shop/product-details/22996",
     "key": "Yerevan City|id:22996|2790|1990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սուրճ հատիկավոր «Իտալքաֆֆե» Արոմա բար 250գր",
+    "old": 2790,
+    "new": 1990,
+    "pct": 29,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1163900.png",
+    "url": "https://yerevan-city.am/shop/product-details/170162",
+    "key": "Yerevan City|id:170162|2790|1990"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-30T05:30:42.934892+04:00",
+ "last_publish": "2026-10-30T05:45:29.727067+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
