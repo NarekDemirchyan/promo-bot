@@ -1429,22 +1429,12 @@
    "Yerevan City|id:11712|2690|2290",
    "Yerevan City|id:102384|2690|2310",
    "Yerevan City|id:155229|2690|2180",
-   "Yerevan City|id:155230|2690|2180"
+   "Yerevan City|id:155230|2690|2180",
+   "Yerevan City|id:176951|2690|1610"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Լար «Borofone BL-20 3.5մմ»",
-    "old": 2500,
-    "new": 1250,
-    "pct": 50,
-    "until": "31.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/277/259/2599714020398814.webp",
-    "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/838906/",
-    "key": "SAS|id:838906|2500|1250"
-   },
    {
     "store": "SAS",
     "title": "USB լար «Borofone BX-30 3A Type-C»",
@@ -5439,12 +5429,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1154643.png",
     "url": "https://yerevan-city.am/shop/product-details/155230",
     "key": "Yerevan City|id:155230|2690|2180"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հավաքածու աղջկա 338-1004",
+    "old": 2690,
+    "new": 1610,
+    "pct": 40,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170599.png",
+    "url": "https://yerevan-city.am/shop/product-details/176951",
+    "key": "Yerevan City|id:176951|2690|1610"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-30T14:15:33.483564+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-30T14:30:39.616898+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
