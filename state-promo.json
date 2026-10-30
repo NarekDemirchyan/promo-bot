@@ -1411,22 +1411,12 @@
    "Yerevan City|id:170172|2790|1990",
    "Yerevan City|id:194287|2790|1790",
    "Yerevan City|id:93143|2790|590",
-   "Yerevan City|id:162607|2790|1450"
+   "Yerevan City|id:162607|2790|1450",
+   "Yerevan City|id:166498|2790|1670"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կտոր «Фрекен Бок Аккорд» 4հատ",
-    "old": 1080,
-    "new": 920,
-    "pct": 15,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/302/606/6062191630328403.webp",
-    "url": "https://www.sas.am/catalog/rezinovye_izdeliya/154995/",
-    "key": "SAS|id:154995|1080|920"
-   },
    {
     "store": "SAS",
     "title": "Ձեթ ձիթապտղի «Luglio Extra Virgin» 0.25լ",
@@ -3431,17 +3421,6 @@
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Շամպուն «Եվա ՆՅՍ» 10-ը 1-ում 260մլ",
-    "old": 3590,
-    "new": 2390,
-    "pct": 33,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174890.png",
-    "url": "https://yerevan-city.am/shop/product-details/181163",
-    "key": "Yerevan City|id:181163|3590|2390"
-   },
    {
     "store": "Yerevan City",
     "title": "Թեյի հավաքածու 5Կ",
@@ -5619,12 +5598,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1160267.png",
     "url": "https://yerevan-city.am/shop/product-details/162607",
     "key": "Yerevan City|id:162607|2790|1450"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Երաժշտական տանկ ՅԵ-347",
+    "old": 2790,
+    "new": 1670,
+    "pct": 40,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1162163.png",
+    "url": "https://yerevan-city.am/shop/product-details/166498",
+    "key": "Yerevan City|id:166498|2790|1670"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-30T07:15:34.284556+04:00",
+ "last_publish": "2026-10-30T07:31:05.085825+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
