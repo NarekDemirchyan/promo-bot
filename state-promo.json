@@ -1446,22 +1446,12 @@
    "Yerevan City|id:7905|2600|2390",
    "Yerevan City|id:7813|2600|2390",
    "Yerevan City|id:51796|2590|2130",
-   "Yerevan City|id:71560|2590|780"
+   "Yerevan City|id:71560|2590|780",
+   "Yerevan City|id:173243|2590|1250"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կետչուպ դասական «Արտֆուդ Դասական N3» 400մլ",
-    "old": 570,
-    "new": 490,
-    "pct": 14,
-    "until": "28.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/184/307/3079413355572960.webp",
-    "url": "https://www.sas.am/catalog/ketchup_tomatnyy_sous/63431/",
-    "key": "SAS|id:63431|570|490"
-   },
    {
     "store": "SAS",
     "title": "Կետչուպ կծու «Heinz Острый» 350գ",
@@ -3081,17 +3071,6 @@
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Ձիթապտուղ կանաչ «Լոռաս» կտ.կիտրոն 121/140 2250գր",
-    "old": 3500,
-    "new": 3100,
-    "pct": 11,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1164715.png",
-    "url": "https://yerevan-city.am/shop/product-details/171048",
-    "key": "Yerevan City|id:171048|3500|3100"
-   },
    {
     "store": "Yerevan City",
     "title": "Սեղանի խաղ «Փրկեք պինգվինին» 707-19",
@@ -5269,12 +5248,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1114995.png",
     "url": "https://yerevan-city.am/shop/product-details/71560",
     "key": "Yerevan City|id:71560|2590|780"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մրգաման «Սակուրա» Պիանո 23.5սմ ՍԿ127",
+    "old": 2590,
+    "new": 1250,
+    "pct": 52,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1166832.png",
+    "url": "https://yerevan-city.am/shop/product-details/173243",
+    "key": "Yerevan City|id:173243|2590|1250"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-30T20:45:32.434614+04:00",
+ "last_publish": "2026-10-30T21:00:56.692172+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
