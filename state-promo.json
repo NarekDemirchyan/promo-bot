@@ -1416,22 +1416,12 @@
    "Yerevan City|id:176291|2790|1670",
    "Yerevan City|id:176293|2790|1670",
    "Yerevan City|id:181364|2790|1670",
-   "Yerevan City|id:159343|2790|1395"
+   "Yerevan City|id:159343|2790|1395",
+   "Yerevan City|id:813|2770|2380"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ականջակալներ «Borofone BM70»",
-    "old": 2500,
-    "new": 1250,
-    "pct": 50,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/839430/",
-    "key": "SAS|id:839430|2500|1250"
-   },
    {
     "store": "SAS",
     "title": "Լվացքի կոնդիցիոներ «Vernel Max Свежесть Лаванды» 960մլ",
@@ -5569,12 +5559,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1157004.png",
     "url": "https://yerevan-city.am/shop/product-details/159343",
     "key": "Yerevan City|id:159343|2790|1395"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Իրիս «Ռոշեն» Միլկի Սպլեշ կգ",
+    "old": 2770,
+    "new": 2380,
+    "pct": 14,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1047635.png",
+    "url": "https://yerevan-city.am/shop/product-details/813",
+    "key": "Yerevan City|id:813|2770|2380"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-30T09:15:30.702452+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-30T09:30:41.173697+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
