@@ -1431,22 +1431,12 @@
    "Yerevan City|id:155229|2690|2180",
    "Yerevan City|id:155230|2690|2180",
    "Yerevan City|id:176951|2690|1610",
-   "Yerevan City|id:177482|2690|1610"
+   "Yerevan City|id:177482|2690|1610",
+   "Yerevan City|id:191854|2690|1880"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "USB լար «Hoco X21 3.0A»",
-    "old": 3100,
-    "new": 1550,
-    "pct": 50,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/838889/",
-    "key": "SAS|id:838889|3100|1550"
-   },
    {
     "store": "SAS",
     "title": "Բարձրախոս անլար «Borofone BR1»",
@@ -5419,12 +5409,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1171134.png",
     "url": "https://yerevan-city.am/shop/product-details/177482",
     "key": "Yerevan City|id:177482|2690|1610"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Չխկչխկան խաղալիքներ մահճակալի համար 689-23",
+    "old": 2690,
+    "new": 1880,
+    "pct": 30,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175579.png",
+    "url": "https://yerevan-city.am/shop/product-details/191854",
+    "key": "Yerevan City|id:191854|2690|1880"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-30T15:15:32.700272+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-30T15:30:43.670686+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
