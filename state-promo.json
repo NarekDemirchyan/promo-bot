@@ -1432,22 +1432,12 @@
    "Yerevan City|id:155230|2690|2180",
    "Yerevan City|id:176951|2690|1610",
    "Yerevan City|id:177482|2690|1610",
-   "Yerevan City|id:191854|2690|1880"
+   "Yerevan City|id:191854|2690|1880",
+   "Yerevan City|id:113151|2690|2150"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Բարձրախոս անլար «Borofone BR1»",
-    "old": 8700,
-    "new": 4350,
-    "pct": 50,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/838087/",
-    "key": "SAS|id:838087|8700|4350"
-   },
    {
     "store": "SAS",
     "title": "Ատամի խոզանակ «Das Experten Soft»",
@@ -5409,12 +5399,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175579.png",
     "url": "https://yerevan-city.am/shop/product-details/191854",
     "key": "Yerevan City|id:191854|2690|1880"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ատամի խոզանակ+գլխիկ «Սիլվեր Քեյր» Պլուս, կոշտ",
+    "old": 2690,
+    "new": 2150,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1143642.png",
+    "url": "https://yerevan-city.am/shop/product-details/113151",
+    "key": "Yerevan City|id:113151|2690|2150"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-30T15:45:32.054931+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-30T16:00:56.860830+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
@@ -5423,7 +5424,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 23,
+ "city_page": 24,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
