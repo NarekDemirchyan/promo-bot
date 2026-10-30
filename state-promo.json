@@ -1447,22 +1447,12 @@
    "Yerevan City|id:7813|2600|2390",
    "Yerevan City|id:51796|2590|2130",
    "Yerevan City|id:71560|2590|780",
-   "Yerevan City|id:173243|2590|1250"
+   "Yerevan City|id:173243|2590|1250",
+   "Yerevan City|id:23932|2590|2150"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կետչուպ կծու «Heinz Острый» 350գ",
-    "old": 970,
-    "new": 850,
-    "pct": 12,
-    "until": "29.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/ketchup_tomatnyy_sous/63496/",
-    "key": "SAS|id:63496|970|850"
-   },
    {
     "store": "SAS",
     "title": "Իշխան ապխտած «Ֆիշկո» 200գ",
@@ -3071,17 +3061,6 @@
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Սեղանի խաղ «Փրկեք պինգվինին» 707-19",
-    "old": 3490,
-    "new": 2790,
-    "pct": 20,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178931.png",
-    "url": "https://yerevan-city.am/shop/product-details/195127",
-    "key": "Yerevan City|id:195127|3490|2790"
-   },
    {
     "store": "Yerevan City",
     "title": "Տարա «Մոլինո» կլոր 26սմ",
@@ -5259,12 +5238,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1166832.png",
     "url": "https://yerevan-city.am/shop/product-details/173243",
     "key": "Yerevan City|id:173243|2590|1250"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Դդմի սերմեր մաքրած կգ",
+    "old": 2590,
+    "new": 2150,
+    "pct": 17,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1097204.png",
+    "url": "https://yerevan-city.am/shop/product-details/23932",
+    "key": "Yerevan City|id:23932|2590|2150"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-30T21:00:56.692172+04:00",
+ "last_publish": "2026-10-30T21:15:32.758795+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
