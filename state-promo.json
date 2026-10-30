@@ -1422,22 +1422,12 @@
    "Yerevan City|id:173495|2740|1440",
    "Yerevan City|id:108571|2740|2321",
    "Yerevan City|id:158928|2730|2170",
-   "Yerevan City|id:99857|2730|1365"
+   "Yerevan City|id:99857|2730|1365",
+   "Yerevan City|id:86951|2710|2380"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ականջակալներ «Hoco M82»",
-    "old": 2500,
-    "new": 1250,
-    "pct": 50,
-    "until": "31.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/110/368/368633726447761.webp",
-    "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/839421/",
-    "key": "SAS|id:839421|2500|1250"
-   },
    {
     "store": "SAS",
     "title": "Ականջակալներ «Hoco M40»",
@@ -5509,12 +5499,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1135256.png",
     "url": "https://yerevan-city.am/shop/product-details/99857",
     "key": "Yerevan City|id:99857|2730|1365"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Օղի «Նեմիրոֆֆ» Օրիգինալ 0.2լ",
+    "old": 2710,
+    "new": 2380,
+    "pct": 12,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1124757.png",
+    "url": "https://yerevan-city.am/shop/product-details/86951",
+    "key": "Yerevan City|id:86951|2710|2380"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-30T11:00:49.234879+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-30T11:15:32.210368+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
