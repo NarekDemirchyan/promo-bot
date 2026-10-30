@@ -1427,17 +1427,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Շոկոլադե սալիկ նուշով «Lindt» 300գ",
-    "old": 5590,
-    "new": 3790,
-    "pct": 32,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/207/386/386674517188567.webp",
-    "url": "https://www.sas.am/catalog/plitka/206202/",
-    "key": "SAS|id:206202|5590|3790"
-   },
-   {
-    "store": "SAS",
     "title": "Ձիթապտուղ սև կորիզով «XL» 390գ",
     "old": 960,
     "new": 870,
@@ -3352,17 +3341,6 @@
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Կոնդիցիոներ «Ամիկա» փայլ 275մլ",
-    "old": 3590,
-    "new": 2390,
-    "pct": 33,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174903.png",
-    "url": "https://yerevan-city.am/shop/product-details/181177",
-    "key": "Yerevan City|id:181177|3590|2390"
-   },
    {
     "store": "Yerevan City",
     "title": "Աղացած միս կգ",
@@ -5556,7 +5534,7 @@
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-30T10:15:34.296243+04:00",
+ "last_publish": "2026-10-30T10:30:41.310217+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
