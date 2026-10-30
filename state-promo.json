@@ -1434,22 +1434,12 @@
    "Yerevan City|id:177482|2690|1610",
    "Yerevan City|id:191854|2690|1880",
    "Yerevan City|id:113151|2690|2150",
-   "Yerevan City|id:194277|2690|1290"
+   "Yerevan City|id:194277|2690|1290",
+   "Yerevan City|id:101053|2690|1890"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շամպուն «Clear Men» 180մլ",
-    "old": 1730,
-    "new": 1530,
-    "pct": 12,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/157/594/5946201950803578.webp",
-    "url": "https://www.sas.am/catalog/dlya_volos2/203076/",
-    "key": "SAS|id:203076|1730|1530"
-   },
    {
     "store": "SAS",
     "title": "Ամենօրյա միջադիրներ «Libresse Thin Extra Long» 24հատ",
@@ -3201,17 +3191,6 @@
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Շամպուն «Հ.էսսենսիզ» կոկոս, խորը սնուցում 350մլ",
-    "old": 3540,
-    "new": 1770,
-    "pct": 50,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1164793.png",
-    "url": "https://yerevan-city.am/shop/product-details/171141",
-    "key": "Yerevan City|id:171141|3540|1770"
-   },
    {
     "store": "Yerevan City",
     "title": "Շամպուն «Հ.էսսենսիզ» նարդոս, սնուցում 350մլ",
@@ -5389,12 +5368,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178049.png",
     "url": "https://yerevan-city.am/shop/product-details/194277",
     "key": "Yerevan City|id:194277|2690|1290"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Իշխան թույլ աղադրած «Այս Բերգ» կտրատած 100գր",
+    "old": 2690,
+    "new": 1890,
+    "pct": 30,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1135941.png",
+    "url": "https://yerevan-city.am/shop/product-details/101053",
+    "key": "Yerevan City|id:101053|2690|1890"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-30T16:30:41.788507+04:00",
+ "last_publish": "2026-10-30T16:45:31.304991+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
