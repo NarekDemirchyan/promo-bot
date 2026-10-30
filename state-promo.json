@@ -1460,22 +1460,12 @@
    "Yerevan City|id:57659|2590|690",
    "Yerevan City|id:178841|2590|1690",
    "Yerevan City|id:180803|2590|1390",
-   "Yerevan City|id:15953|2580|1860"
+   "Yerevan City|id:15953|2580|1860",
+   "Yerevan City|id:13691|2550|2170"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ատամի մածուկ «Sensodyne» 75մլ",
-    "old": 1670,
-    "new": 1440,
-    "pct": 14,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/dlya_polosti_rta/831805/",
-    "key": "SAS|id:831805|1670|1440"
-   },
    {
     "store": "SAS",
     "title": "Գինի կարմիր «Marani Kindzmarauli 0.75լ",
@@ -2941,17 +2931,6 @@
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Ավտոմեքենա սպորտ. հեռակառ. 1:18 ՀՍՅ664-150",
-    "old": 3490,
-    "new": 2090,
-    "pct": 40,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169903.png",
-    "url": "https://yerevan-city.am/shop/product-details/176269",
-    "key": "Yerevan City|id:176269|3490|2090"
-   },
    {
     "store": "Yerevan City",
     "title": "Փրփրուն գինի «Նովեբոլլե» Սպումանտե, էքս.չոր 0.75լ",
@@ -5129,12 +5108,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1093384.png",
     "url": "https://yerevan-city.am/shop/product-details/15953",
     "key": "Yerevan City|id:15953|2580|1860"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սարդելկա բնական թաղանթով «Բեկոն» կգ",
+    "old": 2550,
+    "new": 2170,
+    "pct": 15,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1042676.png",
+    "url": "https://yerevan-city.am/shop/product-details/13691",
+    "key": "Yerevan City|id:13691|2550|2170"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-31T01:00:48.152521+04:00",
+ "last_publish": "2026-10-31T01:15:32.402961+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
