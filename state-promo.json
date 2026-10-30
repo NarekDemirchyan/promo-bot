@@ -1439,22 +1439,12 @@
    "Yerevan City|id:30664|2670|2240",
    "Yerevan City|id:30666|2670|2240",
    "Yerevan City|id:180040|2660|2240",
-   "Yerevan City|id:32224|2650|2180"
+   "Yerevan City|id:32224|2650|2180",
+   "Yerevan City|id:23502|2650|2250"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Քացախ բալզամիկ «Ponti Balsamico» 0.25լ",
-    "old": 1850,
-    "new": 1490,
-    "pct": 19,
-    "until": "10.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/uksus/192434/",
-    "key": "SAS|id:192434|1850|1490"
-   },
    {
     "store": "SAS",
     "title": "Վարտիք - տակդիրներ «Libero N5» 10-14 կգ, 20 հատ",
@@ -5339,12 +5329,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1076454.png",
     "url": "https://yerevan-city.am/shop/product-details/32224",
     "key": "Yerevan City|id:32224|2650|2180"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թխվածքաբլիթ «Դարոյնք» սնկիկ կգ",
+    "old": 2650,
+    "new": 2250,
+    "pct": 15,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1050459.png",
+    "url": "https://yerevan-city.am/shop/product-details/23502",
+    "key": "Yerevan City|id:23502|2650|2250"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-30T18:00:51.520233+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-30T18:15:35.324986+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
