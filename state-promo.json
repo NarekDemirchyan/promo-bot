@@ -1461,22 +1461,12 @@
    "Yerevan City|id:178841|2590|1690",
    "Yerevan City|id:180803|2590|1390",
    "Yerevan City|id:15953|2580|1860",
-   "Yerevan City|id:13691|2550|2170"
+   "Yerevan City|id:13691|2550|2170",
+   "Yerevan City|id:11921|2510|2340"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Գինի կարմիր «Marani Kindzmarauli 0.75լ",
-    "old": 3790,
-    "new": 3450,
-    "pct": 9,
-    "until": "30.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/405/153/153475755434956.webp",
-    "url": "https://www.sas.am/catalog/import_vino/6641/",
-    "key": "SAS|id:6641|3790|3450"
-   },
    {
     "store": "SAS",
     "title": "Կոնյակ «Գրանդ Երևան 7*» 0․5լ",
@@ -5119,12 +5109,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1042676.png",
     "url": "https://yerevan-city.am/shop/product-details/13691",
     "key": "Yerevan City|id:13691|2550|2170"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ատամի խոզանակ «Քոլգեյթ» Մետաքսե թելեր 1+1",
+    "old": 2510,
+    "new": 2340,
+    "pct": 7,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1036250.png",
+    "url": "https://yerevan-city.am/shop/product-details/11921",
+    "key": "Yerevan City|id:11921|2510|2340"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-31T01:15:32.402961+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-31T01:30:41.873849+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
