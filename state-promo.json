@@ -1463,22 +1463,12 @@
    "Yerevan City|id:15953|2580|1860",
    "Yerevan City|id:13691|2550|2170",
    "Yerevan City|id:11921|2510|2340",
-   "Yerevan City|id:8498|2500|2080"
+   "Yerevan City|id:8498|2500|2080",
+   "Yerevan City|id:15592|2490|1690"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կոնյակ «Գրանդ Երևան 5*» 0․5լ",
-    "old": 6690,
-    "new": 6190,
-    "pct": 7,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/armyanskiy_konyak/830930/",
-    "key": "SAS|id:830930|6690|6190"
-   },
    {
     "store": "SAS",
     "title": "Կոնյակ «Գրանդ Երևան 3*» 0․5լ",
@@ -2911,17 +2901,6 @@
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Դեմքի քսուք «Լիրեն» Ց+Ե վիտ.սնուցող-խոնավ. 50մլ",
-    "old": 3470,
-    "new": 2760,
-    "pct": 20,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156547.png",
-    "url": "https://yerevan-city.am/shop/product-details/158904",
-    "key": "Yerevan City|id:158904|3470|2760"
-   },
    {
     "store": "Yerevan City",
     "title": "Միցելային ջուր «Լիրեն» Ց+Ե վիտ.ամրացնող 3/1 400մլ",
@@ -5099,6 +5078,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1015496.png",
     "url": "https://yerevan-city.am/shop/product-details/8498",
     "key": "Yerevan City|id:8498|2500|2080"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Պանիր հալած «Պրեզիդենտ» սերուցքային 400գր",
+    "old": 2490,
+    "new": 1690,
+    "pct": 32,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1040090.png",
+    "url": "https://yerevan-city.am/shop/product-details/15592",
+    "key": "Yerevan City|id:15592|2490|1690"
    }
   ]
  },
