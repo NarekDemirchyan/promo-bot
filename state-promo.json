@@ -1443,22 +1443,12 @@
    "Yerevan City|id:23502|2650|2250",
    "Yerevan City|id:50935|2650|2180",
    "Yerevan City|id:77561|2640|2130",
-   "Yerevan City|id:7905|2600|2390"
+   "Yerevan City|id:7905|2600|2390",
+   "Yerevan City|id:7813|2600|2390"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սուրճ հատիկավոր «Lavazza Qualita Oro» 500գ",
-    "old": 11950,
-    "new": 10450,
-    "pct": 13,
-    "until": "13.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/molotyy/83085/",
-    "key": "SAS|id:83085|11950|10450"
-   },
    {
     "store": "SAS",
     "title": "Սուրճ էսպրեսսո հատիկավոր «Lavazza Crema e Aroma» 1կգ",
@@ -5299,12 +5289,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1073942.png",
     "url": "https://yerevan-city.am/shop/product-details/7905",
     "key": "Yerevan City|id:7905|2600|2390"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Փրփրուն գինի «Երևան» Բրուտ 0.75լ",
+    "old": 2600,
+    "new": 2390,
+    "pct": 8,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1073940.png",
+    "url": "https://yerevan-city.am/shop/product-details/7813",
+    "key": "Yerevan City|id:7813|2600|2390"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-30T19:15:31.856228+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-30T19:30:42.971978+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
