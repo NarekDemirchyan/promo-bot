@@ -3263,17 +3263,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Շոկ.կոնֆետներ «Գրանդ Քենդի» Արևելյան, կաթ.շոկ. կգ",
-    "old": 3590,
-    "new": 2820,
-    "pct": 21,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1163369.png",
-    "url": "https://yerevan-city.am/shop/product-details/169531",
-    "key": "Yerevan City|id:169531|3590|2820"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Շամպուն «Հեդ ընդ Շոլդերս» ցիտրուսային թարմություն 2-ը 1-ում 600մլ",
     "old": 3560,
     "new": 3210,
@@ -5464,8 +5453,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-30T13:30:42.581796+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-30T13:45:38.308343+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
