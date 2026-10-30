@@ -1444,22 +1444,12 @@
    "Yerevan City|id:50935|2650|2180",
    "Yerevan City|id:77561|2640|2130",
    "Yerevan City|id:7905|2600|2390",
-   "Yerevan City|id:7813|2600|2390"
+   "Yerevan City|id:7813|2600|2390",
+   "Yerevan City|id:51796|2590|2130"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սուրճ էսպրեսսո հատիկավոր «Lavazza Crema e Aroma» 1կգ",
-    "old": 22300,
-    "new": 18990,
-    "pct": 15,
-    "until": "13.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/315/039/0391133354615663.webp",
-    "url": "https://www.sas.am/catalog/molotyy/83076/",
-    "key": "SAS|id:83076|22300|18990"
-   },
    {
     "store": "SAS",
     "title": "Սուրճ էսպրեսսո աղացած «Lavazza Crema e Gusto» 250գ",
@@ -5289,12 +5279,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1073940.png",
     "url": "https://yerevan-city.am/shop/product-details/7813",
     "key": "Yerevan City|id:7813|2600|2390"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Երշիկ եփած-ապխտած Գյումրի «Մոյա Սեմյա» կգ",
+    "old": 2590,
+    "new": 2130,
+    "pct": 18,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1038210.png",
+    "url": "https://yerevan-city.am/shop/product-details/51796",
+    "key": "Yerevan City|id:51796|2590|2130"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-30T19:45:31.754835+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-30T20:00:53.225824+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
