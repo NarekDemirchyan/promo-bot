@@ -3053,17 +3053,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Տարա «Մոլինո» կլոր 26սմ",
-    "old": 3490,
-    "new": 990,
-    "pct": 72,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174549.png",
-    "url": "https://yerevan-city.am/shop/product-details/180815",
-    "key": "Yerevan City|id:180815|3490|990"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Շախմատ",
     "old": 3490,
     "new": 2090,
@@ -5254,8 +5243,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-30T21:30:43.944467+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-30T21:45:32.799656+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
