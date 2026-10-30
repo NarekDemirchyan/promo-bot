@@ -1436,22 +1436,12 @@
    "Yerevan City|id:113151|2690|2150",
    "Yerevan City|id:194277|2690|1290",
    "Yerevan City|id:101053|2690|1890",
-   "Yerevan City|id:30664|2670|2240"
+   "Yerevan City|id:30664|2670|2240",
+   "Yerevan City|id:30666|2670|2240"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Լիկյոր ծիրանի «Ակում» 0.5լ",
-    "old": 8990,
-    "new": 7990,
-    "pct": 11,
-    "until": "13.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/liker/294217/",
-    "key": "SAS|id:294217|8990|7990"
-   },
    {
     "store": "SAS",
     "title": "Շամպուն «Clear Men» 180մլ",
@@ -5369,12 +5359,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1066384.png",
     "url": "https://yerevan-city.am/shop/product-details/30664",
     "key": "Yerevan City|id:30664|2670|2240"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Միցելային ջուր «Նիվեա» փափկեցնող, չոր և զգայուն մաշկի համար 3-ը 1-ում",
+    "old": 2670,
+    "new": 2240,
+    "pct": 16,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1066383.png",
+    "url": "https://yerevan-city.am/shop/product-details/30666",
+    "key": "Yerevan City|id:30666|2670|2240"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-30T17:00:51.823766+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-30T17:15:35.175099+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
