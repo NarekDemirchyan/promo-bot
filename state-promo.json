@@ -1419,7 +1419,8 @@
    "Yerevan City|id:159343|2790|1395",
    "Yerevan City|id:813|2770|2380",
    "Yerevan City|id:116430|2750|1690",
-   "Yerevan City|id:173495|2740|1440"
+   "Yerevan City|id:173495|2740|1440",
+   "Yerevan City|id:108571|2740|2321"
   ]
  },
  "queues": {
@@ -5539,6 +5540,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1167092.png",
     "url": "https://yerevan-city.am/shop/product-details/173495",
     "key": "Yerevan City|id:173495|2740|1440"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մանկ. կաթիկ «Հիփփ» Սանֆտ, զգայուն մաշկի 350մլ",
+    "old": 2740,
+    "new": 2321,
+    "pct": 15,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1141307.png",
+    "url": "https://yerevan-city.am/shop/product-details/108571",
+    "key": "Yerevan City|id:108571|2740|2321"
    }
   ]
  },
