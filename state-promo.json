@@ -1464,22 +1464,12 @@
    "Yerevan City|id:13691|2550|2170",
    "Yerevan City|id:11921|2510|2340",
    "Yerevan City|id:8498|2500|2080",
-   "Yerevan City|id:15592|2490|1690"
+   "Yerevan City|id:15592|2490|1690",
+   "Yerevan City|id:25827|2490|2250"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կոնյակ «Գրանդ Երևան 3*» 0․5լ",
-    "old": 4690,
-    "new": 4290,
-    "pct": 9,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/armyanskiy_konyak/830928/",
-    "key": "SAS|id:830928|4690|4290"
-   },
    {
     "store": "SAS",
     "title": "Կոնյակ «Օրրան 5*» 0․5լ",
@@ -2901,17 +2891,6 @@
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Միցելային ջուր «Լիրեն» Ց+Ե վիտ.ամրացնող 3/1 400մլ",
-    "old": 3470,
-    "new": 2760,
-    "pct": 20,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156564.png",
-    "url": "https://yerevan-city.am/shop/product-details/158921",
-    "key": "Yerevan City|id:158921|3470|2760"
-   },
    {
     "store": "Yerevan City",
     "title": "Լվացվելու փրփուր «Լիրեն» Ց+Ե վիտ.խոնավեցնող150մլ",
@@ -5089,6 +5068,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1040090.png",
     "url": "https://yerevan-city.am/shop/product-details/15592",
     "key": "Yerevan City|id:15592|2490|1690"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տորթ «Անահիտ քեյքս» Ֆրանս.Մակարուն 900գր",
+    "old": 2490,
+    "new": 2250,
+    "pct": 10,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1084069.png",
+    "url": "https://yerevan-city.am/shop/product-details/25827",
+    "key": "Yerevan City|id:25827|2490|2250"
    }
   ]
  },
