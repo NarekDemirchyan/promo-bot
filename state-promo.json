@@ -3243,17 +3243,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Շամպուն «Հեդ ընդ Շոլդերս» հիմնական խնամք 2-1 600մ",
-    "old": 3560,
-    "new": 3210,
-    "pct": 10,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1022630.png",
-    "url": "https://yerevan-city.am/shop/product-details/4851",
-    "key": "Yerevan City|id:4851|3560|3210"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Սուրճ լուծվող «Յակոբս» Մոնարխ, զիպ 150գր",
     "old": 3560,
     "new": 2890,
@@ -5444,8 +5433,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-30T14:30:39.616898+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-30T14:45:31.153532+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
