@@ -1417,22 +1417,12 @@
    "Yerevan City|id:176293|2790|1670",
    "Yerevan City|id:181364|2790|1670",
    "Yerevan City|id:159343|2790|1395",
-   "Yerevan City|id:813|2770|2380"
+   "Yerevan City|id:813|2770|2380",
+   "Yerevan City|id:116430|2750|1690"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Լվացքի կոնդիցիոներ «Vernel Max Свежесть Лаванды» 960մլ",
-    "old": 2250,
-    "new": 2050,
-    "pct": 9,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/opolaskivatel_konditsioner_kontsentrat/549866/",
-    "key": "SAS|id:549866|2250|2050"
-   },
    {
     "store": "SAS",
     "title": "Հակաքրտինքային միջոց-գել «Old Spice Captain» 70մլ",
@@ -3371,17 +3361,6 @@
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Դպրոցական պայուսակ տղաների համար",
-    "old": 3590,
-    "new": 1990,
-    "pct": 45,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176529.png",
-    "url": "https://yerevan-city.am/shop/product-details/192794",
-    "key": "Yerevan City|id:192794|3590|1990"
-   },
    {
     "store": "Yerevan City",
     "title": "Կոնդիցիոներ «Ամիկա» ինտեն.խոնավեցում 275մլ",
@@ -5559,12 +5538,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1047635.png",
     "url": "https://yerevan-city.am/shop/product-details/813",
     "key": "Yerevan City|id:813|2770|2380"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հարիչ-քափկիր «Բրաբանտիա» պլաստմասե",
+    "old": 2750,
+    "new": 1690,
+    "pct": 39,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1146565.png",
+    "url": "https://yerevan-city.am/shop/product-details/116430",
+    "key": "Yerevan City|id:116430|2750|1690"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-30T09:45:29.294785+04:00",
+ "last_publish": "2026-10-30T10:00:47.934902+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
