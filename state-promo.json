@@ -1469,22 +1469,12 @@
    "Yerevan City|id:25828|2490|2250",
    "Yerevan City|id:159085|2490|995",
    "Yerevan City|id:28265|2490|1150",
-   "Yerevan City|id:159251|2490|1900"
+   "Yerevan City|id:159251|2490|1900",
+   "Yerevan City|id:166161|2490|1190"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Գինի կարմիր «Marani Saperavi» 0.75լ",
-    "old": 2790,
-    "new": 2490,
-    "pct": 11,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/import_vino/2300/",
-    "key": "SAS|id:2300|2790|2490"
-   },
    {
     "store": "SAS",
     "title": "Լվացքի գել սպիտակ «Frosch» 1․5լ",
@@ -5039,12 +5029,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156913.png",
     "url": "https://yerevan-city.am/shop/product-details/159251",
     "key": "Yerevan City|id:159251|2490|1900"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թեյի գդալներ «Դեննի Հոմ» սև 6կտոր ՀԿ035Բ-4",
+    "old": 2490,
+    "new": 1190,
+    "pct": 52,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1161853.png",
+    "url": "https://yerevan-city.am/shop/product-details/166161",
+    "key": "Yerevan City|id:166161|2490|1190"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-31T03:15:32.406936+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-31T03:30:39.055184+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
