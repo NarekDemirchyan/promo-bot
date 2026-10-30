@@ -3253,17 +3253,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Շամպուն «Հեդ ընդ Շոլդերս» ցիտրուսային թարմություն 2-ը 1-ում 600մլ",
-    "old": 3560,
-    "new": 3210,
-    "pct": 10,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1022799.png",
-    "url": "https://yerevan-city.am/shop/product-details/4755",
-    "key": "Yerevan City|id:4755|3560|3210"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Շամպուն «Հեդ ընդ Շոլդերս» հիմնական խնամք 2-1 600մ",
     "old": 3560,
     "new": 3210,
@@ -5454,8 +5443,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-10-30T14:00:49.987608+04:00",
+ "rr": 0,
+ "last_publish": "2026-10-30T14:15:33.483564+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
