@@ -1459,22 +1459,12 @@
    "Yerevan City|id:176955|2590|1550",
    "Yerevan City|id:57659|2590|690",
    "Yerevan City|id:178841|2590|1690",
-   "Yerevan City|id:180803|2590|1390"
+   "Yerevan City|id:180803|2590|1390",
+   "Yerevan City|id:15953|2580|1860"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Էլեկտրական մարտկոց «Energizer max plus AA LR6» 4հատ",
-    "old": 2270,
-    "new": 1360,
-    "pct": 40,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/267/599/5997233443457849.webp",
-    "url": "https://www.sas.am/catalog/batareyka/20205/",
-    "key": "SAS|id:20205|2270|1360"
-   },
    {
     "store": "SAS",
     "title": "Ատամի մածուկ «Sensodyne» 75մլ",
@@ -2951,17 +2941,6 @@
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Չխկչխկան խաղալիք «ՉիմՍթար» 2հտ ՔՖ366-055",
-    "old": 3490,
-    "new": 2090,
-    "pct": 40,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169686.png",
-    "url": "https://yerevan-city.am/shop/product-details/176059",
-    "key": "Yerevan City|id:176059|3490|2090"
-   },
    {
     "store": "Yerevan City",
     "title": "Ավտոմեքենա սպորտ. հեռակառ. 1:18 ՀՍՅ664-150",
@@ -5139,12 +5118,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174537.png",
     "url": "https://yerevan-city.am/shop/product-details/180803",
     "key": "Yerevan City|id:180803|2590|1390"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սուրճ լուծվող «Նեսկաֆե» դասական 130գր",
+    "old": 2580,
+    "new": 1860,
+    "pct": 28,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1093384.png",
+    "url": "https://yerevan-city.am/shop/product-details/15953",
+    "key": "Yerevan City|id:15953|2580|1860"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-31T00:45:36.444750+04:00",
+ "last_publish": "2026-10-31T01:00:48.152521+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
