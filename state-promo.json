@@ -1442,22 +1442,12 @@
    "Yerevan City|id:32224|2650|2180",
    "Yerevan City|id:23502|2650|2250",
    "Yerevan City|id:50935|2650|2180",
-   "Yerevan City|id:77561|2640|2130"
+   "Yerevan City|id:77561|2640|2130",
+   "Yerevan City|id:7905|2600|2390"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սուրճ լուծվող «Egoiste X.O Extra Original» 100գ",
-    "old": 8650,
-    "new": 7690,
-    "pct": 11,
-    "until": "28.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/rastvorimyy_kofe/83571/",
-    "key": "SAS|id:83571|8650|7690"
-   },
    {
     "store": "SAS",
     "title": "Սուրճ հատիկավոր «Lavazza Qualita Oro» 500գ",
@@ -3121,17 +3111,6 @@
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Կարագ սերուցքային «Լուրպակ» 82% 400գր",
-    "old": 3530,
-    "new": 3120,
-    "pct": 12,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1039806.png",
-    "url": "https://yerevan-city.am/shop/product-details/21265",
-    "key": "Yerevan City|id:21265|3530|3120"
-   },
    {
     "store": "Yerevan City",
     "title": "Երշիկ հում-ապխտած կրեմլյան «Միկոյան» 300գր",
@@ -5309,12 +5288,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1119914.png",
     "url": "https://yerevan-city.am/shop/product-details/77561",
     "key": "Yerevan City|id:77561|2640|2130"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Փրփրուն գինի «Երևան» կիսաչոր 0.75լ",
+    "old": 2600,
+    "new": 2390,
+    "pct": 8,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1073942.png",
+    "url": "https://yerevan-city.am/shop/product-details/7905",
+    "key": "Yerevan City|id:7905|2600|2390"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-30T19:00:49.333927+04:00",
+ "last_publish": "2026-10-30T19:15:31.856228+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
