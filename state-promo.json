@@ -1470,22 +1470,12 @@
    "Yerevan City|id:159085|2490|995",
    "Yerevan City|id:28265|2490|1150",
    "Yerevan City|id:159251|2490|1900",
-   "Yerevan City|id:166161|2490|1190"
+   "Yerevan City|id:166161|2490|1190",
+   "Yerevan City|id:107230|2290|1450"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Լվացքի գել սպիտակ «Frosch» 1․5լ",
-    "old": 5250,
-    "new": 3190,
-    "pct": 39,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/stiralnyy_poroshok/813778/",
-    "key": "SAS|id:813778|5250|3190"
-   },
    {
     "store": "SAS",
     "title": "Լվացքի գել ունիվերսալ «Frosch Sensitive» 1․5լ",
@@ -2841,17 +2831,6 @@
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Ատամի խոզանակ «Քոլգեյթ» 360° օպտիկ ուայթ",
-    "old": 3430,
-    "new": 3210,
-    "pct": 6,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1034236.png",
-    "url": "https://yerevan-city.am/shop/product-details/5203",
-    "key": "Yerevan City|id:5203|3430|3210"
-   },
    {
     "store": "Yerevan City",
     "title": "Ատամի խոզանակ «Քոլգեյթ» 360° սուպեր մաքրութ. 2հտ",
@@ -5029,12 +5008,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1161853.png",
     "url": "https://yerevan-city.am/shop/product-details/166161",
     "key": "Yerevan City|id:166161|2490|1190"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սուրճի պատիճ «Յակոբս» Էսպ.Ինտենսո Լունգո 8 52գր",
+    "old": 2290,
+    "new": 1450,
+    "pct": 37,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1140129.png",
+    "url": "https://yerevan-city.am/shop/product-details/107230",
+    "key": "Yerevan City|id:107230|2290|1450"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-31T03:45:32.510250+04:00",
+ "last_publish": "2026-10-31T04:00:49.673837+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
