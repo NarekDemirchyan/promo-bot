@@ -1549,22 +1549,12 @@
    "Yerevan City|id:9507|2380|2140",
    "Yerevan City|id:34015|2360|1250",
    "Yerevan City|id:116453|2350|1840",
-   "Yerevan City|id:134241|2350|1175"
+   "Yerevan City|id:134241|2350|1175",
+   "Yerevan City|id:814|2340|2040"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Յոգուրտ հունական «Avramidis Family» 180գ, յուղայնությունը՝ 10",
-    "old": 1390,
-    "new": 690,
-    "pct": 50,
-    "until": "02.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/yogurt_puding/936868/",
-    "key": "SAS|id:936868|1390|690"
-   },
    {
     "store": "SAS",
     "title": "Գինի սպիտակ «Նարդվան» 0.75լ",
@@ -4239,12 +4229,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1153298.png",
     "url": "https://yerevan-city.am/shop/product-details/134241",
     "key": "Yerevan City|id:134241|2350|1175"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մարտկոց «Դյուրասելլ» Ց 1.5Վ 2հտ",
+    "old": 2340,
+    "new": 2040,
+    "pct": 13,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1012113.png",
+    "url": "https://yerevan-city.am/shop/product-details/814",
+    "key": "Yerevan City|id:814|2340|2040"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-01T01:30:40.925625+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-01T01:45:31.545113+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
