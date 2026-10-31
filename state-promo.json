@@ -1524,22 +1524,12 @@
    "Yerevan City|id:129259|2190|1490",
    "Yerevan City|id:129272|2190|1490",
    "Yerevan City|id:14216|2160|1740",
-   "Yerevan City|id:35031|2160|1810"
+   "Yerevan City|id:35031|2160|1810",
+   "Yerevan City|id:48661|2160|1810"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Լվացքի գել սև «Savex Premium» 0․960լ",
-    "old": 3140,
-    "new": 2730,
-    "pct": 13,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/397/806/806388614279398.webp",
-    "url": "https://www.sas.am/catalog/stiralnyy_poroshok/657127/",
-    "key": "SAS|id:657127|3140|2730"
-   },
    {
     "store": "SAS",
     "title": "Ձեթ ձիթապտղի «Luglio Extra VIrgin» 1լ",
@@ -2301,17 +2291,6 @@
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Մոնոպոլիա ռուսերեն 5211Ռ",
-    "old": 2990,
-    "new": 2390,
-    "pct": 20,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1073780.png",
-    "url": "https://yerevan-city.am/shop/product-details/38541",
-    "key": "Yerevan City|id:38541|2990|2390"
-   },
    {
     "store": "Yerevan City",
     "title": "Ցանց ձուկ խորովելու համար «Հոթ Փոթ» 36x12սմ",
@@ -4489,12 +4468,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1087968.png",
     "url": "https://yerevan-city.am/shop/product-details/35031",
     "key": "Yerevan City|id:35031|2160|1810"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հոտազերծիչ սթիք տղամարդու «Օլդ Սփայս» Վայթվոթեր 50մլ",
+    "old": 2160,
+    "new": 1810,
+    "pct": 16,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1090916.png",
+    "url": "https://yerevan-city.am/shop/product-details/48661",
+    "key": "Yerevan City|id:48661|2160|1810"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-31T18:45:30.125411+04:00",
+ "last_publish": "2026-10-31T19:00:54.329121+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
