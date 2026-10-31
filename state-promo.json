@@ -1533,22 +1533,12 @@
    "Yerevan City|id:160138|2160|1590",
    "Yerevan City|id:173965|2150|1290",
    "Yerevan City|id:130282|2140|1920",
-   "Yerevan City|id:160137|2140|1920"
+   "Yerevan City|id:160137|2140|1920",
+   "Yerevan City|id:193031|2140|1790"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Լոգանքի գել «Ambree Professional Safari In Africa» 750մլ",
-    "old": 4050,
-    "new": 3180,
-    "pct": 21,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/205/963/9634853069022262.webp",
-    "url": "https://www.sas.am/catalog/showergell/960256/",
-    "key": "SAS|id:960256|4050|3180"
-   },
    {
     "store": "SAS",
     "title": "Գինի կարմիր «Օրրան» 0.75լ",
@@ -2211,17 +2201,6 @@
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Զենքի հավաքածու 2559-2",
-    "old": 2990,
-    "new": 2390,
-    "pct": 20,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178907.png",
-    "url": "https://yerevan-city.am/shop/product-details/195097",
-    "key": "Yerevan City|id:195097|2990|2390"
-   },
    {
     "store": "Yerevan City",
     "title": "Կարմիր պղպեղ քաղցր, աղացած կգ",
@@ -4399,12 +4378,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1157816.png",
     "url": "https://yerevan-city.am/shop/product-details/160137",
     "key": "Yerevan City|id:160137|2140|1920"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շամպուն «Դավ» ամինո սերում, վերականգնում 375մլ",
+    "old": 2140,
+    "new": 1790,
+    "pct": 16,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176717.png",
+    "url": "https://yerevan-city.am/shop/product-details/193031",
+    "key": "Yerevan City|id:193031|2140|1790"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-31T21:15:42.874210+04:00",
+ "last_publish": "2026-10-31T21:30:41.204645+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
