@@ -1521,22 +1521,12 @@
    "Yerevan City|id:193795|2190|1490",
    "Yerevan City|id:195114|2190|1750",
    "Yerevan City|id:128259|2190|1490",
-   "Yerevan City|id:129259|2190|1490"
+   "Yerevan City|id:129259|2190|1490",
+   "Yerevan City|id:129272|2190|1490"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կետչուպ մանանեխով «Heinz» 320գ",
-    "old": 890,
-    "new": 750,
-    "pct": 16,
-    "until": "29.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/ketchup_tomatnyy_sous/271993/",
-    "key": "SAS|id:271993|890|750"
-   },
    {
     "store": "SAS",
     "title": "Թղթե սրբիչ «Selpak» 4հատ",
@@ -2331,17 +2321,6 @@
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Լվացքի միջ.-բարձիկ «Արիել» ալպիական թարմ. 12հտ",
-    "old": 3020,
-    "new": 2660,
-    "pct": 12,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178033.png",
-    "url": "https://yerevan-city.am/shop/product-details/194261",
-    "key": "Yerevan City|id:194261|3020|2660"
-   },
    {
     "store": "Yerevan City",
     "title": "Ավտոմեքենաների հավաքածու, մետաղ. 7հատ",
@@ -4519,12 +4498,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1149050.png",
     "url": "https://yerevan-city.am/shop/product-details/129259",
     "key": "Yerevan City|id:129259|2190|1490"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Նրբերշիկ պանրով, հնդկահավի «Ինդի Լայտ» 440գր",
+    "old": 2190,
+    "new": 1490,
+    "pct": 32,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1149046.png",
+    "url": "https://yerevan-city.am/shop/product-details/129272",
+    "key": "Yerevan City|id:129272|2190|1490"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-31T18:00:51.186334+04:00",
+ "last_publish": "2026-10-31T18:15:31.238533+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
