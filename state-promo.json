@@ -1478,22 +1478,12 @@
    "Yerevan City|id:169666|2290|1550",
    "Yerevan City|id:173447|2290|1390",
    "Yerevan City|id:7884|2280|1960",
-   "Yerevan City|id:6045|2270|1980"
+   "Yerevan City|id:6045|2270|1980",
+   "Yerevan City|id:160143|2270|2040"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շուրթերի բալզամ «Nivea Вишневое Сияние» 4.8գ",
-    "old": 1990,
-    "new": 1460,
-    "pct": 27,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/220/366/366669617515277.webp",
-    "url": "https://www.sas.am/catalog/vse_dlya_gub/19311/",
-    "key": "SAS|id:19311|1990|1460"
-   },
    {
     "store": "SAS",
     "title": "Հյութ ալոեի «Fruiting» 238մլ",
@@ -2761,17 +2751,6 @@
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Դեմքի հիդրո-գել «Լիրեն» Ա.Բաբլս, խոնավ. 50մլ",
-    "old": 3390,
-    "new": 2690,
-    "pct": 21,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156562.png",
-    "url": "https://yerevan-city.am/shop/product-details/158919",
-    "key": "Yerevan City|id:158919|3390|2690"
-   },
    {
     "store": "Yerevan City",
     "title": "Լվացքի փոշի «Թաիդ» ակվա, կիտրոն 3կգ",
@@ -4949,12 +4928,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1021105.png",
     "url": "https://yerevan-city.am/shop/product-details/6045",
     "key": "Yerevan City|id:6045|2270|1980"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շամպուն «Պանտին Պրո-Վ» պաշտ.մոլեկ.մակարդ. 250մլ",
+    "old": 2270,
+    "new": 2040,
+    "pct": 10,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1157822.png",
+    "url": "https://yerevan-city.am/shop/product-details/160143",
+    "key": "Yerevan City|id:160143|2270|2040"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-31T06:00:47.836228+04:00",
+ "last_publish": "2026-10-31T06:15:31.411945+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
