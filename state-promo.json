@@ -1547,22 +1547,12 @@
    "Yerevan City|id:158791|2380|2140",
    "Yerevan City|id:174564|2380|2140",
    "Yerevan City|id:9507|2380|2140",
-   "Yerevan City|id:34015|2360|1250"
+   "Yerevan City|id:34015|2360|1250",
+   "Yerevan City|id:116453|2350|1840"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Լոգանքի կրեմ-գել «Nivea» 250մլ",
-    "old": 1560,
-    "new": 1320,
-    "pct": 15,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/155/814/8144253673218131.webp",
-    "url": "https://www.sas.am/catalog/showergell/601880/",
-    "key": "SAS|id:601880|1560|1320"
-   },
    {
     "store": "SAS",
     "title": "Անձեռոցիկ խոնավ հակաբակտերիալ «Զետա Հակաբակտերիալ» 72 հատ",
@@ -2071,17 +2061,6 @@
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Սուրճի բաժակներ մոխ. 100մլ 6հտ ՀՄ-2726",
-    "old": 2990,
-    "new": 1990,
-    "pct": 33,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177991.png",
-    "url": "https://yerevan-city.am/shop/product-details/194220",
-    "key": "Yerevan City|id:194220|2990|1990"
-   },
    {
     "store": "Yerevan City",
     "title": "Մեքենատար իներցիոն 1:43 ԿԼԻքս600-190",
@@ -4259,12 +4238,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1105053.png",
     "url": "https://yerevan-city.am/shop/product-details/34015",
     "key": "Yerevan City|id:34015|2360|1250"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շոկոլադե փաթիլներ «Նեսթլե» ԿիտԿատ 330գր",
+    "old": 2350,
+    "new": 1840,
+    "pct": 22,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1146588.png",
+    "url": "https://yerevan-city.am/shop/product-details/116453",
+    "key": "Yerevan City|id:116453|2350|1840"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-01T00:45:30.778299+04:00",
+ "last_publish": "2026-11-01T01:15:30.060251+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
