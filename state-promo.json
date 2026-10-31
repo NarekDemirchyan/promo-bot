@@ -1487,22 +1487,12 @@
    "Yerevan City|id:8624|2250|1880",
    "Yerevan City|id:17466|2250|1880",
    "Yerevan City|id:78757|2250|1880",
-   "Yerevan City|id:67589|2250|1290"
+   "Yerevan City|id:67589|2250|1290",
+   "Yerevan City|id:6638|2250|2050"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սպագետտի «Barilla Bucatini №9» 400գ",
-    "old": 880,
-    "new": 730,
-    "pct": 17,
-    "until": "10.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/spagetti_kapelini/95753/",
-    "key": "SAS|id:95753|880|730"
-   },
    {
     "store": "SAS",
     "title": "Սոուս ձիթապտղի «Barilla Olive Mediterrane» 400մլ",
@@ -4859,12 +4849,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1112904.png",
     "url": "https://yerevan-city.am/shop/product-details/67589",
     "key": "Yerevan City|id:67589|2250|1290"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շամպուն «Գլիսս Կուր» հեղուկ մետաքս 400մլ",
+    "old": 2250,
+    "new": 2050,
+    "pct": 9,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1029493.png",
+    "url": "https://yerevan-city.am/shop/product-details/6638",
+    "key": "Yerevan City|id:6638|2250|2050"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-31T08:15:33.414932+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-31T08:30:42.227319+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
