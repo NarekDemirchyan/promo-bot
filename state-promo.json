@@ -1529,22 +1529,12 @@
    "Yerevan City|id:54696|2160|1810",
    "Yerevan City|id:171523|2160|1810",
    "Yerevan City|id:23637|2160|1590",
-   "Yerevan City|id:54704|2160|1810"
+   "Yerevan City|id:54704|2160|1810",
+   "Yerevan City|id:160138|2160|1590"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շամպուն և բալզամ «Head & Shoulders» 360մլ",
-    "old": 2890,
-    "new": 2590,
-    "pct": 10,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/dlya_volos2/647532/",
-    "key": "SAS|id:647532|2890|2590"
-   },
    {
     "store": "SAS",
     "title": "Գինի կարմիր «Կարաս Մալբեկ» 0.75լ",
@@ -2251,17 +2241,6 @@
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Բոուլինգի հավաքածու 8825-12",
-    "old": 2990,
-    "new": 2390,
-    "pct": 20,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178912.png",
-    "url": "https://yerevan-city.am/shop/product-details/195107",
-    "key": "Yerevan City|id:195107|2990|2390"
-   },
    {
     "store": "Yerevan City",
     "title": "Երաժշտական թմբուկ ՋԴ355Բ",
@@ -4439,12 +4418,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1090914.png",
     "url": "https://yerevan-city.am/shop/product-details/54704",
     "key": "Yerevan City|id:54704|2160|1810"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շամպուն «Պրո Սերիես» վառ գույն 500մլ",
+    "old": 2160,
+    "new": 1590,
+    "pct": 26,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1157817.png",
+    "url": "https://yerevan-city.am/shop/product-details/160138",
+    "key": "Yerevan City|id:160138|2160|1590"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-31T20:15:31.513896+04:00",
+ "last_publish": "2026-10-31T20:30:41.807750+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
@@ -4453,7 +4443,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 26,
+ "city_page": 27,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
