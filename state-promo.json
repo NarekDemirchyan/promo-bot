@@ -1497,22 +1497,12 @@
    "Yerevan City|id:155135|2250|2050",
    "Yerevan City|id:167553|2250|2050",
    "Yerevan City|id:14169|2250|1980",
-   "Yerevan City|id:95301|2250|1980"
+   "Yerevan City|id:95301|2250|1980",
+   "Yerevan City|id:161050|2290|1340"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Տիկնիկ «Barbie Pop Reveal»",
-    "old": 12900,
-    "new": 7840,
-    "pct": 39,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/117/775/7758123636754448.webp",
-    "url": "https://www.sas.am/catalog/dlya_devochek/769166/",
-    "key": "SAS|id:769166|12900|7840"
-   },
    {
     "store": "SAS",
     "title": "Սափրող սարք «Wilkinson Intuition Flow»",
@@ -4759,12 +4749,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1065322.png",
     "url": "https://yerevan-city.am/shop/product-details/95301",
     "key": "Yerevan City|id:95301|2250|1980"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Լոգանքի գել-քսուք «Դավ» վարունգ կանաչ թեյ 500մլ",
+    "old": 2290,
+    "new": 1340,
+    "pct": 41,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1158687.png",
+    "url": "https://yerevan-city.am/shop/product-details/161050",
+    "key": "Yerevan City|id:161050|2290|1340"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-31T11:15:30.107221+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-31T11:30:54.870442+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
