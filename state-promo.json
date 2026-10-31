@@ -1544,22 +1544,12 @@
    "Yerevan City|id:174557|2110|1590",
    "Yerevan City|id:174558|2110|1590",
    "Yerevan City|id:157872|2380|2140",
-   "Yerevan City|id:158791|2380|2140"
+   "Yerevan City|id:158791|2380|2140",
+   "Yerevan City|id:174564|2380|2140"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սպասք լվանալու հեղուկ «AOS Ромашка» 450գ",
-    "old": 660,
-    "new": 550,
-    "pct": 17,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/sredstva_dlya_posudy/604270/",
-    "key": "SAS|id:604270|660|550"
-   },
    {
     "store": "SAS",
     "title": "Հեղուկ օճառ «Ambree Professional Black Pepper» 300մլ",
@@ -2101,17 +2091,6 @@
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Սեղանի խաղ Չելլենջ",
-    "old": 2990,
-    "new": 1790,
-    "pct": 40,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170594.png",
-    "url": "https://yerevan-city.am/shop/product-details/176946",
-    "key": "Yerevan City|id:176946|2990|1790"
-   },
    {
     "store": "Yerevan City",
     "title": "Շոկոլադե կոնֆետներ «Քուոլիթի Սթրիթ» 220գր",
@@ -4289,12 +4268,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156434.png",
     "url": "https://yerevan-city.am/shop/product-details/158791",
     "key": "Yerevan City|id:158791|2380|2140"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շամպուն «Հեդ ընդ Շոլդերս» մազաթափության դեմ 360մլ",
+    "old": 2380,
+    "new": 2140,
+    "pct": 10,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168166.png",
+    "url": "https://yerevan-city.am/shop/product-details/174564",
+    "key": "Yerevan City|id:174564|2380|2140"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-01T00:15:30.763800+04:00",
+ "last_publish": "2026-11-01T00:30:40.694363+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
