@@ -1492,22 +1492,12 @@
    "Yerevan City|id:7861|2250|2050",
    "Yerevan City|id:86921|2250|2050",
    "Yerevan City|id:86923|2250|2050",
-   "Yerevan City|id:86930|2250|2050"
+   "Yerevan City|id:86930|2250|2050",
+   "Yerevan City|id:86932|2250|2050"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Լիթումային մարտկոց «Duracell CR2032» 2 հատ",
-    "old": 1730,
-    "new": 1570,
-    "pct": 9,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/batareyka/20175/",
-    "key": "SAS|id:20175|1730|1570"
-   },
    {
     "store": "SAS",
     "title": "Սափրող սարք «Wilkinson Quattro» 3+1հատ",
@@ -2621,17 +2611,6 @@
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Ձեռքի պայուսակ տղ. 18х15х7",
-    "old": 3290,
-    "new": 1645,
-    "pct": 50,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1171797.png",
-    "url": "https://yerevan-city.am/shop/product-details/178142",
-    "key": "Yerevan City|id:178142|3290|1645"
-   },
    {
     "store": "Yerevan City",
     "title": "Թեյ մրգային «Թեյան» Ոգեշնչող փունջ 10x3.5գր",
@@ -4809,12 +4788,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1124736.png",
     "url": "https://yerevan-city.am/shop/product-details/86930",
     "key": "Yerevan City|id:86930|2250|2050"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շամպուն «Գլիսս Կուր» Ակվա Միրեյքլ հիալուրոն 400մ",
+    "old": 2250,
+    "new": 2050,
+    "pct": 9,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1124738.png",
+    "url": "https://yerevan-city.am/shop/product-details/86932",
+    "key": "Yerevan City|id:86932|2250|2050"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-31T10:00:49.834736+04:00",
+ "last_publish": "2026-10-31T10:15:29.006336+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
