@@ -1522,7 +1522,8 @@
    "Yerevan City|id:195114|2190|1750",
    "Yerevan City|id:128259|2190|1490",
    "Yerevan City|id:129259|2190|1490",
-   "Yerevan City|id:129272|2190|1490"
+   "Yerevan City|id:129272|2190|1490",
+   "Yerevan City|id:14216|2160|1740"
   ]
  },
  "queues": {
@@ -4509,6 +4510,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1149046.png",
     "url": "https://yerevan-city.am/shop/product-details/129272",
     "key": "Yerevan City|id:129272|2190|1490"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Իրիս «Գրանդ Քենդի» Մու-Մու կգ",
+    "old": 2160,
+    "new": 1740,
+    "pct": 19,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1051267.png",
+    "url": "https://yerevan-city.am/shop/product-details/14216",
+    "key": "Yerevan City|id:14216|2160|1740"
    }
   ]
  },
