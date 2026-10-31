@@ -1503,22 +1503,12 @@
    "Yerevan City|id:129227|2250|1980",
    "Yerevan City|id:173032|2240|1120",
    "Yerevan City|id:93793|2230|1470",
-   "Yerevan City|id:192273|2230|1760"
+   "Yerevan City|id:192273|2230|1760",
+   "Yerevan City|id:173596|2220|1870"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Էլեկտրական մարտկոց «Duracell Optimum AA» 4 հատ",
-    "old": 2790,
-    "new": 2570,
-    "pct": 8,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/batareyka/734137/",
-    "key": "SAS|id:734137|2790|2570"
-   },
    {
     "store": "SAS",
     "title": "Օդը թարմացնող միջոց «Brait Zanzibar Vibes» 300մլ",
@@ -2511,17 +2501,6 @@
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Տիկնիկ սևամորթ ԲՅ703Ց-1",
-    "old": 3190,
-    "new": 1910,
-    "pct": 40,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1167572.png",
-    "url": "https://yerevan-city.am/shop/product-details/173977",
-    "key": "Yerevan City|id:173977|3190|1910"
-   },
    {
     "store": "Yerevan City",
     "title": "Գինի «Երևան» կարմիր կիսաքաղցր 0.75լ",
@@ -4699,12 +4678,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176005.png",
     "url": "https://yerevan-city.am/shop/product-details/192273",
     "key": "Yerevan City|id:192273|2230|1760"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ջեմ «Անուշ» ազնվամորու 900գր",
+    "old": 2220,
+    "new": 1870,
+    "pct": 16,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1167194.png",
+    "url": "https://yerevan-city.am/shop/product-details/173596",
+    "key": "Yerevan City|id:173596|2220|1870"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-31T13:15:33.232964+04:00",
+ "last_publish": "2026-10-31T13:30:43.341467+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
