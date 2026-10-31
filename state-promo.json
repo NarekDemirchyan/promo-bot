@@ -1528,22 +1528,12 @@
    "Yerevan City|id:48661|2160|1810",
    "Yerevan City|id:54696|2160|1810",
    "Yerevan City|id:171523|2160|1810",
-   "Yerevan City|id:23637|2160|1590"
+   "Yerevan City|id:23637|2160|1590",
+   "Yerevan City|id:54704|2160|1810"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շամպուն «Head & Shoulders» 360մլ",
-    "old": 2890,
-    "new": 2590,
-    "pct": 10,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/115/677/6776062796596121.webp",
-    "url": "https://www.sas.am/catalog/dlya_volos2/647537/",
-    "key": "SAS|id:647537|2890|2590"
-   },
    {
     "store": "SAS",
     "title": "Շամպուն և բալզամ «Head & Shoulders» 360մլ",
@@ -2261,17 +2251,6 @@
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Գդալ սպագետիի համար «Բրաբանտիա» նեյլոն 2107-020",
-    "old": 2990,
-    "new": 1950,
-    "pct": 35,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1142465.png",
-    "url": "https://yerevan-city.am/shop/product-details/111588",
-    "key": "Yerevan City|id:111588|2990|1950"
-   },
    {
     "store": "Yerevan City",
     "title": "Բոուլինգի հավաքածու 8825-12",
@@ -4449,12 +4428,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1083802.png",
     "url": "https://yerevan-city.am/shop/product-details/23637",
     "key": "Yerevan City|id:23637|2160|1590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հոտազերծիչ սթիք տղամարդու «Օլդ Սփայս» Քեփիթեյն 50մլ",
+    "old": 2160,
+    "new": 1810,
+    "pct": 16,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1090914.png",
+    "url": "https://yerevan-city.am/shop/product-details/54704",
+    "key": "Yerevan City|id:54704|2160|1810"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-31T20:00:48.292790+04:00",
+ "last_publish": "2026-10-31T20:15:31.513896+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
