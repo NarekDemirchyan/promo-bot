@@ -1479,22 +1479,12 @@
    "Yerevan City|id:173447|2290|1390",
    "Yerevan City|id:7884|2280|1960",
    "Yerevan City|id:6045|2270|1980",
-   "Yerevan City|id:160143|2270|2040"
+   "Yerevan City|id:160143|2270|2040",
+   "Yerevan City|id:160146|2270|2040"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Հյութ ալոեի «Fruiting» 238մլ",
-    "old": 590,
-    "new": 510,
-    "pct": 14,
-    "until": "28.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/sok/4216/",
-    "key": "SAS|id:4216|590|510"
-   },
    {
     "store": "SAS",
     "title": "Անձեռոցիկ խոնավ հակաբակտերիալ «Zeta» 15 հատ",
@@ -2751,17 +2741,6 @@
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Լվացքի փոշի «Թաիդ» ակվա, կիտրոն 3կգ",
-    "old": 3390,
-    "new": 2890,
-    "pct": 15,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1158834.png",
-    "url": "https://yerevan-city.am/shop/product-details/161187",
-    "key": "Yerevan City|id:161187|3390|2890"
-   },
    {
     "store": "Yerevan City",
     "title": "Սեղանի խաղ «Վուդեն բրոդեր»",
@@ -4939,12 +4918,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1157822.png",
     "url": "https://yerevan-city.am/shop/product-details/160143",
     "key": "Yerevan City|id:160143|2270|2040"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շամպուն «Պանտին Պրո-Վ» խոնավացում և փայլ 250մլ",
+    "old": 2270,
+    "new": 2040,
+    "pct": 10,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1157825.png",
+    "url": "https://yerevan-city.am/shop/product-details/160146",
+    "key": "Yerevan City|id:160146|2270|2040"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-31T06:15:31.411945+04:00",
+ "last_publish": "2026-10-31T06:30:39.996469+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
