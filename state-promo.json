@@ -1511,22 +1511,12 @@
    "Yerevan City|id:171530|2210|1850",
    "Yerevan City|id:171532|2210|1850",
    "Yerevan City|id:95645|2210|1960",
-   "Yerevan City|id:171533|2210|1850"
+   "Yerevan City|id:171533|2210|1850",
+   "Yerevan City|id:194267|2210|1850"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Հակաքրտինքային աէրոզոլային միջոց «Nivea Men Ultra» 150մլ",
-    "old": 1940,
-    "new": 1590,
-    "pct": 18,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/166/947/9478071678336643.webp",
-    "url": "https://www.sas.am/catalog/antiperspirantt/672237/",
-    "key": "SAS|id:672237|1940|1590"
-   },
    {
     "store": "SAS",
     "title": "Հակաքրտինքային միջոց-սթիք «Nivea Fresh Flower» 50մլ",
@@ -2431,17 +2421,6 @@
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Սավան ձգվող ընտ․ «ՑինԹայ» 180x200",
-    "old": 3150,
-    "new": 2190,
-    "pct": 30,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1166061.png",
-    "url": "https://yerevan-city.am/shop/product-details/172480",
-    "key": "Yerevan City|id:172480|3150|2190"
-   },
    {
     "store": "Yerevan City",
     "title": "Լվացվելու գել «Նիվեա» Դերմա, հետքերի դեմ 150մլ",
@@ -4619,12 +4598,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1165074.png",
     "url": "https://yerevan-city.am/shop/product-details/171533",
     "key": "Yerevan City|id:171533|2210|1850"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Լոգանքի գել «Օլդ Սփայս» Քոլդ Սփայս 3-ը 1-ում 400մլ",
+    "old": 2210,
+    "new": 1850,
+    "pct": 16,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178039.png",
+    "url": "https://yerevan-city.am/shop/product-details/194267",
+    "key": "Yerevan City|id:194267|2210|1850"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-31T15:30:39.975470+04:00",
+ "last_publish": "2026-10-31T15:45:30.780263+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
