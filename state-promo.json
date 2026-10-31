@@ -1495,22 +1495,12 @@
    "Yerevan City|id:86930|2250|2050",
    "Yerevan City|id:86932|2250|2050",
    "Yerevan City|id:155135|2250|2050",
-   "Yerevan City|id:167553|2250|2050"
+   "Yerevan City|id:167553|2250|2050",
+   "Yerevan City|id:14169|2250|1980"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Գարեջուր «Վիմպել Պիլսներ» 0.33լ",
-    "old": 630,
-    "new": 590,
-    "pct": 6,
-    "until": "28.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/171/406/4069373465812590.webp",
-    "url": "https://www.sas.am/catalog/armyanskoe/799516/",
-    "key": "SAS|id:799516|630|590"
-   },
    {
     "store": "SAS",
     "title": "Գարեջուր «Վիմպել Լագեր» 0.33լ",
@@ -2591,17 +2581,6 @@
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Քսուք աչքերի շուրջ «Լորեալ» Հիալուրոն Էքսպերտ 15մլ",
-    "old": 3270,
-    "new": 2650,
-    "pct": 19,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1094684.png",
-    "url": "https://yerevan-city.am/shop/product-details/19713",
-    "key": "Yerevan City|id:19713|3270|2650"
-   },
    {
     "store": "Yerevan City",
     "title": "Ունիվերսալ քսուք «Նիվեա» Սոֆթ, ինտենսիվ խոնավեցում 200մլ",
@@ -4779,12 +4758,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1162927.png",
     "url": "https://yerevan-city.am/shop/product-details/167553",
     "key": "Yerevan City|id:167553|2250|2050"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Զուգարանակոնքի թարմաց. «Բրեֆ» 4ը 1մ, կիտր. 3x50գ",
+    "old": 2250,
+    "new": 1980,
+    "pct": 12,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1079271.png",
+    "url": "https://yerevan-city.am/shop/product-details/14169",
+    "key": "Yerevan City|id:14169|2250|1980"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-31T10:45:31.717172+04:00",
+ "last_publish": "2026-10-31T11:00:48.416128+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
