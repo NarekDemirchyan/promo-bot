@@ -1538,7 +1538,8 @@
    "Yerevan City|id:193043|2140|1790",
    "Yerevan City|id:193032|2140|1790",
    "Yerevan City|id:193038|2140|1790",
-   "Yerevan City|id:193039|2140|1790"
+   "Yerevan City|id:193039|2140|1790",
+   "Yerevan City|id:193040|2140|1790"
   ]
  },
  "queues": {
@@ -4349,6 +4350,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176790.png",
     "url": "https://yerevan-city.am/shop/product-details/193039",
     "key": "Yerevan City|id:193039|2140|1790"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շամպուն «Դավ» պեպտիդ. կապերի վերականգնում 375մլ",
+    "old": 2140,
+    "new": 1790,
+    "pct": 16,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176791.png",
+    "url": "https://yerevan-city.am/shop/product-details/193040",
+    "key": "Yerevan City|id:193040|2140|1790"
    }
   ]
  },
