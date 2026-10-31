@@ -1512,22 +1512,12 @@
    "Yerevan City|id:171532|2210|1850",
    "Yerevan City|id:95645|2210|1960",
    "Yerevan City|id:171533|2210|1850",
-   "Yerevan City|id:194267|2210|1850"
+   "Yerevan City|id:194267|2210|1850",
+   "Yerevan City|id:5682|2190|1770"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Հակաքրտինքային միջոց-սթիք «Nivea Fresh Flower» 50մլ",
-    "old": 2090,
-    "new": 1550,
-    "pct": 26,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/124/562/5623741421771297.webp",
-    "url": "https://www.sas.am/catalog/antiperspirantt/672229/",
-    "key": "SAS|id:672229|2090|1550"
-   },
    {
     "store": "SAS",
     "title": "Լոգանքի գել «Nivea» 250մլ",
@@ -2421,17 +2411,6 @@
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Լվացվելու գել «Նիվեա» Դերմա, հետքերի դեմ 150մլ",
-    "old": 3140,
-    "new": 2040,
-    "pct": 35,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169065.png",
-    "url": "https://yerevan-city.am/shop/product-details/175435",
-    "key": "Yerevan City|id:175435|3140|2040"
-   },
    {
     "store": "Yerevan City",
     "title": "Դեմքի տոնիկ «Նիվեա» Դերմա, հետքերի դեմ 200մլ",
@@ -4609,12 +4588,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178039.png",
     "url": "https://yerevan-city.am/shop/product-details/194267",
     "key": "Yerevan City|id:194267|2210|1850"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ատամի խոզանակ «Պիավե» Ինտենսիվ Սպիտակ 3հտ",
+    "old": 2190,
+    "new": 1770,
+    "pct": 19,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1058620.png",
+    "url": "https://yerevan-city.am/shop/product-details/5682",
+    "key": "Yerevan City|id:5682|2190|1770"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-31T15:45:30.780263+04:00",
+ "last_publish": "2026-10-31T16:00:48.131317+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
