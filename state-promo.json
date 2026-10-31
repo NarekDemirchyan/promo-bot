@@ -1515,22 +1515,12 @@
    "Yerevan City|id:194267|2210|1850",
    "Yerevan City|id:5682|2190|1770",
    "Yerevan City|id:194272|2190|1290",
-   "Yerevan City|id:93747|2190|1450"
+   "Yerevan City|id:93747|2190|1450",
+   "Yerevan City|id:166141|2190|590"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Հակաքրտինքային միջոց-սթիք «Nivea Men» 50մլ",
-    "old": 2350,
-    "new": 1740,
-    "pct": 26,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/203/279/2792171320632718.webp",
-    "url": "https://www.sas.am/catalog/antiperspirantt/672215/",
-    "key": "SAS|id:672215|2350|1740"
-   },
    {
     "store": "SAS",
     "title": "Շամպուն մանկական «Моя Прелесть» 250մլ",
@@ -2391,17 +2381,6 @@
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Լվացքի գել «Արիել» ունիվերսալ 1լ",
-    "old": 3140,
-    "new": 2760,
-    "pct": 12,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172916.png",
-    "url": "https://yerevan-city.am/shop/product-details/179208",
-    "key": "Yerevan City|id:179208|3140|2760"
-   },
    {
     "store": "Yerevan City",
     "title": "Լվացվելու մուսս «Նիվեա» չոր-զգայուն 150մլ",
@@ -4579,12 +4558,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1130629.png",
     "url": "https://yerevan-city.am/shop/product-details/93747",
     "key": "Yerevan City|id:93747|2190|1450"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Դանակ «Դեննի Հոմ» 3կտոր ՌԴ042-1",
+    "old": 2190,
+    "new": 590,
+    "pct": 73,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1161833.png",
+    "url": "https://yerevan-city.am/shop/product-details/166141",
+    "key": "Yerevan City|id:166141|2190|590"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-31T16:30:46.593574+04:00",
+ "last_publish": "2026-10-31T16:45:36.723274+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
