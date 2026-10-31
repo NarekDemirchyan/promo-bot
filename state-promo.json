@@ -1499,22 +1499,12 @@
    "Yerevan City|id:14169|2250|1980",
    "Yerevan City|id:95301|2250|1980",
    "Yerevan City|id:161050|2290|1340",
-   "Yerevan City|id:176873|2290|1370"
+   "Yerevan City|id:176873|2290|1370",
+   "Yerevan City|id:129227|2250|1980"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Թեյ սև «Lavtea» 100գ",
-    "old": 670,
-    "new": 340,
-    "pct": 49,
-    "until": "13.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/284/913/9131344239673194.webp",
-    "url": "https://www.sas.am/catalog/listovoy/751615/",
-    "key": "SAS|id:751615|670|340"
-   },
    {
     "store": "SAS",
     "title": "Բալզամ «Schwarzkopf Gliss Kur» 200մլ",
@@ -4739,12 +4729,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170509.png",
     "url": "https://yerevan-city.am/shop/product-details/176873",
     "key": "Yerevan City|id:176873|2290|1370"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կոճակ զուգարանակոնքի համ. «Բրեֆ» նարդոս3x50գր",
+    "old": 2250,
+    "new": 1980,
+    "pct": 12,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1149006.png",
+    "url": "https://yerevan-city.am/shop/product-details/129227",
+    "key": "Yerevan City|id:129227|2250|1980"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-31T12:00:51.634800+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-31T12:15:29.361500+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
