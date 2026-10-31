@@ -1477,22 +1477,12 @@
    "Yerevan City|id:107232|2290|1450",
    "Yerevan City|id:169666|2290|1550",
    "Yerevan City|id:173447|2290|1390",
-   "Yerevan City|id:7884|2280|1960"
+   "Yerevan City|id:7884|2280|1960",
+   "Yerevan City|id:6045|2270|1980"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Մակարոն «Barilla Tortiglioni № 83» 450գ",
-    "old": 880,
-    "new": 730,
-    "pct": 17,
-    "until": "10.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/makaronyy/95750/",
-    "key": "SAS|id:95750|880|730"
-   },
    {
     "store": "SAS",
     "title": "Շուրթերի բալզամ «Nivea Вишневое Сияние» 4.8գ",
@@ -4959,12 +4949,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1044866.png",
     "url": "https://yerevan-city.am/shop/product-details/7884",
     "key": "Yerevan City|id:7884|2280|1960"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մարտկոց «Դյուրասելլ» 9Վ 1հտ",
+    "old": 2270,
+    "new": 1980,
+    "pct": 13,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1021105.png",
+    "url": "https://yerevan-city.am/shop/product-details/6045",
+    "key": "Yerevan City|id:6045|2270|1980"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-31T05:30:42.068300+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-31T05:45:30.679509+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
