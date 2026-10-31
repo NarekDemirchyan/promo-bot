@@ -1553,22 +1553,12 @@
    "Yerevan City|id:814|2340|2040",
    "Yerevan City|id:157866|2380|2140",
    "Yerevan City|id:106267|2380|2140",
-   "Yerevan City|id:17903|2330|1490"
+   "Yerevan City|id:17903|2330|1490",
+   "Yerevan City|id:98751|2330|1500"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Փրփրուն գինի «Կարաս» 0.75լ",
-    "old": 6350,
-    "new": 5890,
-    "pct": 7,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/shampanskoe_igristoe_vino/30650/",
-    "key": "SAS|id:30650|6350|5890"
-   },
    {
     "store": "SAS",
     "title": "Քամած մածուն «Avramidis Family» 180գ",
@@ -4199,12 +4189,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1087415.png",
     "url": "https://yerevan-city.am/shop/product-details/17903",
     "key": "Yerevan City|id:17903|2330|1490"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մանկական լաքահանող սփրեյ «Ֆրոշ» 300մլ",
+    "old": 2330,
+    "new": 1500,
+    "pct": 36,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1134208.png",
+    "url": "https://yerevan-city.am/shop/product-details/98751",
+    "key": "Yerevan City|id:98751|2330|1500"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-01T03:15:33.864523+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-01T03:30:39.969411+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
