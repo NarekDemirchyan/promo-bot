@@ -1551,22 +1551,12 @@
    "Yerevan City|id:116453|2350|1840",
    "Yerevan City|id:134241|2350|1175",
    "Yerevan City|id:814|2340|2040",
-   "Yerevan City|id:157866|2380|2140"
+   "Yerevan City|id:157866|2380|2140",
+   "Yerevan City|id:106267|2380|2140"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Գինի կարմիր «Կարաս ՔԵՖ» 0.75լ",
-    "old": 3960,
-    "new": 3650,
-    "pct": 8,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/armyanskoe_vino/607568/",
-    "key": "SAS|id:607568|3960|3650"
-   },
    {
     "store": "SAS",
     "title": "Շամպուն «Schwarzkopf Gliss» 250մլ",
@@ -4219,12 +4209,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1155531.png",
     "url": "https://yerevan-city.am/shop/product-details/157866",
     "key": "Yerevan City|id:157866|2380|2140"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շամպուն «Հեդ ընդ Շոլդերս» ցիտրուսային թարմ. 360մ",
+    "old": 2380,
+    "new": 2140,
+    "pct": 10,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1139417.png",
+    "url": "https://yerevan-city.am/shop/product-details/106267",
+    "key": "Yerevan City|id:106267|2380|2140"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-01T02:30:44.959984+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-01T02:45:29.930675+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
