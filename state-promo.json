@@ -1501,22 +1501,12 @@
    "Yerevan City|id:161050|2290|1340",
    "Yerevan City|id:176873|2290|1370",
    "Yerevan City|id:129227|2250|1980",
-   "Yerevan City|id:173032|2240|1120"
+   "Yerevan City|id:173032|2240|1120",
+   "Yerevan City|id:93793|2230|1470"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շամպուն «Schwarzkopf Gliss Kur» 400մլ",
-    "old": 2670,
-    "new": 2390,
-    "pct": 10,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/217/926/926383873589503.webp",
-    "url": "https://www.sas.am/catalog/dlya_volos2/746823/",
-    "key": "SAS|id:746823|2670|2390"
-   },
    {
     "store": "SAS",
     "title": "Էլեկտրական մարտկոց «Duracell Optimum AAA» 4 հատ",
@@ -2531,17 +2521,6 @@
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Երաժշտական խաղալիք «Յուբեյեն» խխունջ, հեռակառավարման վահանակով ՌՏ661",
-    "old": 3190,
-    "new": 1910,
-    "pct": 40,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1136570.png",
-    "url": "https://yerevan-city.am/shop/product-details/101679",
-    "key": "Yerevan City|id:101679|3190|1910"
-   },
    {
     "store": "Yerevan City",
     "title": "Սրճեփ «Ռեյ Քիթչն» 400մլ",
@@ -4719,12 +4698,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1166618.png",
     "url": "https://yerevan-city.am/shop/product-details/173032",
     "key": "Yerevan City|id:173032|2240|1120"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սուրճ լուծվող «Նեսկաֆե» Գոլդ 70գր",
+    "old": 2230,
+    "new": 1470,
+    "pct": 34,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1052834.png",
+    "url": "https://yerevan-city.am/shop/product-details/93793",
+    "key": "Yerevan City|id:93793|2230|1470"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-31T12:45:29.877456+04:00",
+ "last_publish": "2026-10-31T13:00:45.319068+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
