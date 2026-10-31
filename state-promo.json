@@ -1531,22 +1531,12 @@
    "Yerevan City|id:23637|2160|1590",
    "Yerevan City|id:54704|2160|1810",
    "Yerevan City|id:160138|2160|1590",
-   "Yerevan City|id:173965|2150|1290"
+   "Yerevan City|id:173965|2150|1290",
+   "Yerevan City|id:130282|2140|1920"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կարամելային կոնֆետներ պնդուկով «Toffifee» 125գ",
-    "old": 1360,
-    "new": 1160,
-    "pct": 15,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/konfety_v_upakovke/79493/",
-    "key": "SAS|id:79493|1360|1160"
-   },
    {
     "store": "SAS",
     "title": "Լոգանքի գել «Ambree Professional Earthy Grace» 750մլ",
@@ -2231,17 +2221,6 @@
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Հալած բուսայուղային խառ. «Իմպերիա Վկուսա» 1.6կգ",
-    "old": 2990,
-    "new": 2810,
-    "pct": 6,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1082133.png",
-    "url": "https://yerevan-city.am/shop/product-details/15420",
-    "key": "Yerevan City|id:15420|2990|2810"
-   },
    {
     "store": "Yerevan City",
     "title": "Գորգ ծղոտից, օվալ 70x50սմ",
@@ -4419,12 +4398,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1167567.png",
     "url": "https://yerevan-city.am/shop/product-details/173965",
     "key": "Yerevan City|id:173965|2150|1290"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Լվացքի գել «Բոլշայա Ստիրկա» հիպոալերգ.ուն.1200գր",
+    "old": 2140,
+    "new": 1920,
+    "pct": 10,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1150046.png",
+    "url": "https://yerevan-city.am/shop/product-details/130282",
+    "key": "Yerevan City|id:130282|2140|1920"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-31T20:45:30.121640+04:00",
+ "last_publish": "2026-10-31T21:00:46.561356+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
