@@ -1484,22 +1484,12 @@
    "Yerevan City|id:23387|2270|1820",
    "Yerevan City|id:23388|2270|1820",
    "Yerevan City|id:98916|2260|1770",
-   "Yerevan City|id:8624|2250|1880"
+   "Yerevan City|id:8624|2250|1880",
+   "Yerevan City|id:17466|2250|1880"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Մազերի շիճուկ «Elseve» 150մլ",
-    "old": 6040,
-    "new": 4990,
-    "pct": 17,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/maska_konditsioner_dlya_volos/799546/",
-    "key": "SAS|id:799546|6040|4990"
-   },
    {
     "store": "SAS",
     "title": "Սիգ տոմատի սոուսում «Արտֆուդ» 240գ",
@@ -2701,17 +2691,6 @@
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Դեմքի քսուք «Լիրեն» չիա, հակատարիք.սնուցող 50մլ",
-    "old": 3320,
-    "new": 2640,
-    "pct": 20,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156559.png",
-    "url": "https://yerevan-city.am/shop/product-details/158916",
-    "key": "Yerevan City|id:158916|3320|2640"
-   },
    {
     "store": "Yerevan City",
     "title": "Դեմքի քսուք «Լորեալ» Հիալուրոն Էքսպերտ, գիշերային 50մլ",
@@ -4889,12 +4868,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1070866.png",
     "url": "https://yerevan-city.am/shop/product-details/8624",
     "key": "Yerevan City|id:8624|2250|1880"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կոնֆետների հավաքածու «Մարկ Սևունի» Ավանգարդ 140գր",
+    "old": 2250,
+    "new": 1880,
+    "pct": 16,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1059855.png",
+    "url": "https://yerevan-city.am/shop/product-details/17466",
+    "key": "Yerevan City|id:17466|2250|1880"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-31T07:30:42.572809+04:00",
+ "last_publish": "2026-10-31T07:45:30.331190+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
