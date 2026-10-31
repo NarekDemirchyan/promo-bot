@@ -1480,22 +1480,12 @@
    "Yerevan City|id:7884|2280|1960",
    "Yerevan City|id:6045|2270|1980",
    "Yerevan City|id:160143|2270|2040",
-   "Yerevan City|id:160146|2270|2040"
+   "Yerevan City|id:160146|2270|2040",
+   "Yerevan City|id:23387|2270|1820"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Անձեռոցիկ խոնավ հակաբակտերիալ «Zeta» 15 հատ",
-    "old": 100,
-    "new": 90,
-    "pct": 10,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/vetwip_es/960442/",
-    "key": "SAS|id:960442|100|90"
-   },
    {
     "store": "SAS",
     "title": "Բիսկվիթ կաթնային կրեմով «Nestle Nesquik Snack cocoa» 26գ",
@@ -2741,17 +2731,6 @@
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Սեղանի խաղ «Վուդեն բրոդեր»",
-    "old": 3390,
-    "new": 2030,
-    "pct": 40,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177732.png",
-    "url": "https://yerevan-city.am/shop/product-details/193965",
-    "key": "Yerevan City|id:193965|3390|2030"
-   },
    {
     "store": "Yerevan City",
     "title": "Երաժշտական խաղալիք պարող 22սմ",
@@ -4929,12 +4908,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1157825.png",
     "url": "https://yerevan-city.am/shop/product-details/160146",
     "key": "Yerevan City|id:160146|2270|2040"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սինյուգա սիրողական «Միթ Ֆուդ» արհ.թաղանթով կգ",
+    "old": 2270,
+    "new": 1820,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1103135.png",
+    "url": "https://yerevan-city.am/shop/product-details/23387",
+    "key": "Yerevan City|id:23387|2270|1820"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-31T06:30:39.996469+04:00",
+ "last_publish": "2026-10-31T06:45:39.221526+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
