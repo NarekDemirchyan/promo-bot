@@ -1496,22 +1496,12 @@
    "Yerevan City|id:86932|2250|2050",
    "Yerevan City|id:155135|2250|2050",
    "Yerevan City|id:167553|2250|2050",
-   "Yerevan City|id:14169|2250|1980"
+   "Yerevan City|id:14169|2250|1980",
+   "Yerevan City|id:95301|2250|1980"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Գարեջուր «Վիմպել Լագեր» 0.33լ",
-    "old": 610,
-    "new": 550,
-    "pct": 10,
-    "until": "28.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/700/042/0423233025422606.webp",
-    "url": "https://www.sas.am/catalog/armyanskoe/799512/",
-    "key": "SAS|id:799512|610|550"
-   },
    {
     "store": "SAS",
     "title": "Տիկնիկ «Barbie Pop Reveal»",
@@ -2581,17 +2571,6 @@
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Ունիվերսալ քսուք «Նիվեա» Սոֆթ, ինտենսիվ խոնավեցում 200մլ",
-    "old": 3250,
-    "new": 2700,
-    "pct": 17,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1014923.png",
-    "url": "https://yerevan-city.am/shop/product-details/29118",
-    "key": "Yerevan City|id:29118|3250|2700"
-   },
    {
     "store": "Yerevan City",
     "title": "Կարամել «Միեսզկո» Պիկոլո, մրգային կգ",
@@ -4769,12 +4748,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1079271.png",
     "url": "https://yerevan-city.am/shop/product-details/14169",
     "key": "Yerevan City|id:14169|2250|1980"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Զուգարանակոնքի թարմաց. «Բրեֆ» 4ը 1մ օվկիան.3x50գ",
+    "old": 2250,
+    "new": 1980,
+    "pct": 12,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1065322.png",
+    "url": "https://yerevan-city.am/shop/product-details/95301",
+    "key": "Yerevan City|id:95301|2250|1980"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-10-31T11:00:48.416128+04:00",
+ "last_publish": "2026-10-31T11:15:30.107221+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
