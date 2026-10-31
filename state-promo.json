@@ -1525,22 +1525,12 @@
    "Yerevan City|id:129272|2190|1490",
    "Yerevan City|id:14216|2160|1740",
    "Yerevan City|id:35031|2160|1810",
-   "Yerevan City|id:48661|2160|1810"
+   "Yerevan City|id:48661|2160|1810",
+   "Yerevan City|id:54696|2160|1810"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ձեթ ձիթապտղի «Luglio Extra VIrgin» 1լ",
-    "old": 6940,
-    "new": 5990,
-    "pct": 14,
-    "until": "10.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/rastitelnoe/98285/",
-    "key": "SAS|id:98285|6940|5990"
-   },
    {
     "store": "SAS",
     "title": "Բալզամ «Schwarzkopf Gliss» 200մլ",
@@ -4479,12 +4469,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1090916.png",
     "url": "https://yerevan-city.am/shop/product-details/48661",
     "key": "Yerevan City|id:48661|2160|1810"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հոտազերծիչ սթիք տղամարդու «Օլդ Սփայս» Բիերգլով 50մլ",
+    "old": 2160,
+    "new": 1810,
+    "pct": 16,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1108921.png",
+    "url": "https://yerevan-city.am/shop/product-details/54696",
+    "key": "Yerevan City|id:54696|2160|1810"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-10-31T19:00:54.329121+04:00",
+ "rr": 1,
+ "last_publish": "2026-10-31T19:15:30.176556+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
