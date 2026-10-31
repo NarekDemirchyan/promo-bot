@@ -1546,22 +1546,12 @@
    "Yerevan City|id:157872|2380|2140",
    "Yerevan City|id:158791|2380|2140",
    "Yerevan City|id:174564|2380|2140",
-   "Yerevan City|id:9507|2380|2140"
+   "Yerevan City|id:9507|2380|2140",
+   "Yerevan City|id:34015|2360|1250"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Լոգանքի կրեմ-գել «Nivea» 250մլ",
-    "old": 1560,
-    "new": 1320,
-    "pct": 15,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/showergell/601885/",
-    "key": "SAS|id:601885|1560|1320"
-   },
    {
     "store": "SAS",
     "title": "Լոգանքի կրեմ-գել «Nivea» 250մլ",
@@ -2081,17 +2071,6 @@
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Երաժշտական խաղալիք «Կոմիքս» կիթառով",
-    "old": 2990,
-    "new": 2390,
-    "pct": 20,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178864.png",
-    "url": "https://yerevan-city.am/shop/product-details/195064",
-    "key": "Yerevan City|id:195064|2990|2390"
-   },
    {
     "store": "Yerevan City",
     "title": "Սուրճի բաժակներ մոխ. 100մլ 6հտ ՀՄ-2726",
@@ -4269,6 +4248,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1071174.png",
     "url": "https://yerevan-city.am/shop/product-details/9507",
     "key": "Yerevan City|id:9507|2380|2140"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շոկ.սալիկ «Լինդ» Էքսելենս, կաթ.շոկ․ 100գր",
+    "old": 2360,
+    "new": 1250,
+    "pct": 47,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1105053.png",
+    "url": "https://yerevan-city.am/shop/product-details/34015",
+    "key": "Yerevan City|id:34015|2360|1250"
    }
   ]
  },
