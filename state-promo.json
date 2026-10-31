@@ -1498,7 +1498,8 @@
    "Yerevan City|id:167553|2250|2050",
    "Yerevan City|id:14169|2250|1980",
    "Yerevan City|id:95301|2250|1980",
-   "Yerevan City|id:161050|2290|1340"
+   "Yerevan City|id:161050|2290|1340",
+   "Yerevan City|id:176873|2290|1370"
   ]
  },
  "queues": {
@@ -4749,6 +4750,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1158687.png",
     "url": "https://yerevan-city.am/shop/product-details/161050",
     "key": "Yerevan City|id:161050|2290|1340"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տիկնիկ «Լիթլ Միլի» 91033-Հ",
+    "old": 2290,
+    "new": 1370,
+    "pct": 40,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170509.png",
+    "url": "https://yerevan-city.am/shop/product-details/176873",
+    "key": "Yerevan City|id:176873|2290|1370"
    }
   ]
  },
@@ -4763,7 +4775,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 25,
+ "city_page": 26,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
