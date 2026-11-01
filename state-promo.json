@@ -1616,23 +1616,13 @@
    "Yerevan City|id:71575|890|520",
    "Yerevan City|id:165222|890|670",
    "Yerevan City|id:181004|890|590",
-   "Yerevan City|id:75809|890|490"
+   "Yerevan City|id:75809|890|490",
+   "Yerevan City|id:179060|890|690"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Հարիչ-քափկիր «Բրաբանտիա» պլաստմասե",
-    "old": 2750,
-    "new": 1690,
-    "pct": 39,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1146565.png",
-    "url": "https://yerevan-city.am/shop/product-details/116430",
-    "key": "Yerevan City|id:116430|2750|1690"
-   },
    {
     "store": "Yerevan City",
     "title": "Մազերի ներկման հավաքածու 6կտոր",
@@ -3810,12 +3800,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1115598.png",
     "url": "https://yerevan-city.am/shop/product-details/75809",
     "key": "Yerevan City|id:75809|890|490"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սառնաշաքար փայտ. «Չուպա Չուպս» Ս.Թինգս 4համ 120գր",
+    "old": 890,
+    "new": 690,
+    "pct": 22,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172757.png",
+    "url": "https://yerevan-city.am/shop/product-details/179060",
+    "key": "Yerevan City|id:179060|890|690"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-01T22:15:31.045607+04:00",
+ "last_publish": "2026-11-01T22:30:40.045593+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
