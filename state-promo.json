@@ -1607,23 +1607,13 @@
    "Yerevan City|id:8977|890|690",
    "Yerevan City|id:11544|890|750",
    "Yerevan City|id:2413|890|750",
-   "Yerevan City|id:192831|890|445"
+   "Yerevan City|id:192831|890|445",
+   "Yerevan City|id:192600|890|490"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Պանիր պարմիջանո ռեջանո «Ֆեռարինի» կտորներ 120գր",
-    "old": 2790,
-    "new": 1790,
-    "pct": 36,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178059.png",
-    "url": "https://yerevan-city.am/shop/product-details/194287",
-    "key": "Yerevan City|id:194287|2790|1790"
-   },
    {
     "store": "Yerevan City",
     "title": "Դանակ «Դեննի Հոմ» 6կտոր ԴՀ221",
@@ -3801,12 +3791,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176569.png",
     "url": "https://yerevan-city.am/shop/product-details/192831",
     "key": "Yerevan City|id:192831|890|445"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գրչատուփ կտորից «Թիթեռ»",
+    "old": 890,
+    "new": 490,
+    "pct": 45,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176332.png",
+    "url": "https://yerevan-city.am/shop/product-details/192600",
+    "key": "Yerevan City|id:192600|890|490"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-01T20:00:47.514629+04:00",
+ "last_publish": "2026-11-01T20:15:31.503798+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
