@@ -1601,23 +1601,13 @@
    "Yerevan City|id:18327|990|690",
    "Yerevan City|id:179687|930|750",
    "Yerevan City|id:1207|930|840",
-   "Yerevan City|id:107077|920|680"
+   "Yerevan City|id:107077|920|680",
+   "Yerevan City|id:7395|895|820"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Գետնանուշի կարագ «Սոնյա» խրթխրթան 510գր",
-    "old": 2790,
-    "new": 1990,
-    "pct": 29,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1101362.png",
-    "url": "https://yerevan-city.am/shop/product-details/22995",
-    "key": "Yerevan City|id:22995|2790|1990"
-   },
    {
     "store": "Yerevan City",
     "title": "Գետնանուշի կարագ «Սոնյա» փափուկ 510գր",
@@ -3795,12 +3785,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1140035.png",
     "url": "https://yerevan-city.am/shop/product-details/107077",
     "key": "Yerevan City|id:107077|920|680"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գարեջուր «Բուդվայզեր» ա/տ 0.5լ",
+    "old": 895,
+    "new": 820,
+    "pct": 8,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1038326.png",
+    "url": "https://yerevan-city.am/shop/product-details/7395",
+    "key": "Yerevan City|id:7395|895|820"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-01T18:30:41.024985+04:00",
+ "last_publish": "2026-11-01T18:45:29.686114+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
