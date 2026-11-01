@@ -1613,23 +1613,13 @@
    "Yerevan City|id:191484|890|550",
    "Yerevan City|id:170692|890|790",
    "Yerevan City|id:55666|890|770",
-   "Yerevan City|id:71575|890|520"
+   "Yerevan City|id:71575|890|520",
+   "Yerevan City|id:165222|890|670"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Շախմատ մագնիսական ՍՅ207",
-    "old": 2790,
-    "new": 1670,
-    "pct": 40,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175081.png",
-    "url": "https://yerevan-city.am/shop/product-details/181364",
-    "key": "Yerevan City|id:181364|2790|1670"
-   },
    {
     "store": "Yerevan City",
     "title": "Ապուխտ հնդկահավի ֆիլեից «Ինդի Լայտ» 400գր",
@@ -3807,12 +3797,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1115011.png",
     "url": "https://yerevan-city.am/shop/product-details/71575",
     "key": "Yerevan City|id:71575|890|520"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գրաֆին «Իսֆահան» Դորիս 1.1լ 706",
+    "old": 890,
+    "new": 670,
+    "pct": 25,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1160953.png",
+    "url": "https://yerevan-city.am/shop/product-details/165222",
+    "key": "Yerevan City|id:165222|890|670"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-01T21:30:48.703708+04:00",
+ "last_publish": "2026-11-01T21:45:33.154214+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
