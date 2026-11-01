@@ -1633,7 +1633,8 @@
    "Yerevan City|id:178876|990|590",
    "Yerevan City|id:180785|990|690",
    "Yerevan City|id:11837|990|810",
-   "Yerevan City|id:166139|990|590"
+   "Yerevan City|id:166139|990|590",
+   "Yerevan City|id:11839|990|810"
   ]
  },
  "queues": {
@@ -3827,6 +3828,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1161831.png",
     "url": "https://yerevan-city.am/shop/product-details/166139",
     "key": "Yerevan City|id:166139|990|590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սափրող սարք «Վ.Սվորդ» Քվատրո 4 Սենսիթիվ 1հտ",
+    "old": 990,
+    "new": 810,
+    "pct": 18,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1085359.png",
+    "url": "https://yerevan-city.am/shop/product-details/11839",
+    "key": "Yerevan City|id:11839|990|810"
    }
   ]
  },
