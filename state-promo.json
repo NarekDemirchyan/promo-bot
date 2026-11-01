@@ -1627,23 +1627,13 @@
    "Yerevan City|id:173470|990|590",
    "Yerevan City|id:176262|990|590",
    "Yerevan City|id:176497|990|590",
-   "Yerevan City|id:176893|990|590"
+   "Yerevan City|id:176893|990|590",
+   "Yerevan City|id:176988|990|740"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Դրաժե «Էմ ընդ Էմս» գետնանուշով պ/տ 100գր",
-    "old": 2690,
-    "new": 2180,
-    "pct": 19,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1154643.png",
-    "url": "https://yerevan-city.am/shop/product-details/155230",
-    "key": "Yerevan City|id:155230|2690|2180"
-   },
    {
     "store": "Yerevan City",
     "title": "Հավաքածու աղջկա 338-1004",
@@ -3821,12 +3811,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170539.png",
     "url": "https://yerevan-city.am/shop/product-details/176893",
     "key": "Yerevan City|id:176893|990|590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մատուցման ափսե «Լանգ Սու» 27.5x21.5սմ Պ108",
+    "old": 990,
+    "new": 740,
+    "pct": 25,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170630.png",
+    "url": "https://yerevan-city.am/shop/product-details/176988",
+    "key": "Yerevan City|id:176988|990|740"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-02T01:00:45.533404+04:00",
+ "last_publish": "2026-11-02T01:15:35.132272+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
