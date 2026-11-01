@@ -1618,7 +1618,8 @@
    "Yerevan City|id:181004|890|590",
    "Yerevan City|id:75809|890|490",
    "Yerevan City|id:179060|890|690",
-   "Yerevan City|id:192832|890|445"
+   "Yerevan City|id:192832|890|445",
+   "Yerevan City|id:180329|890|530"
   ]
  },
  "queues": {
@@ -3812,6 +3813,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176570.png",
     "url": "https://yerevan-city.am/shop/product-details/192832",
     "key": "Yerevan City|id:192832|890|445"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տնտեսական օճառ գլ. «Դալան» Ռոքսի, սպիտակ. 4x125գր",
+    "old": 890,
+    "new": 530,
+    "pct": 40,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174059.png",
+    "url": "https://yerevan-city.am/shop/product-details/180329",
+    "key": "Yerevan City|id:180329|890|530"
    }
   ]
  },
