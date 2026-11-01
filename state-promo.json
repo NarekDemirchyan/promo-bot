@@ -1635,23 +1635,13 @@
    "Yerevan City|id:11837|990|810",
    "Yerevan City|id:166139|990|590",
    "Yerevan City|id:11839|990|810",
-   "Yerevan City|id:9371|990|850"
+   "Yerevan City|id:9371|990|850",
+   "Yerevan City|id:133759|990|650"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Միցելային ջուր «Նիվեա» փափկեցնող, չոր և զգայուն մաշկի համար 3-ը 1-ում",
-    "old": 2670,
-    "new": 2240,
-    "pct": 16,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1066383.png",
-    "url": "https://yerevan-city.am/shop/product-details/30666",
-    "key": "Yerevan City|id:30666|2670|2240"
-   },
    {
     "store": "Yerevan City",
     "title": "Միցելային ջուր «Նիվեա» հանգստացնող, զգ.մաշկ 400մլ",
@@ -3829,12 +3819,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1058278.png",
     "url": "https://yerevan-city.am/shop/product-details/9371",
     "key": "Yerevan City|id:9371|990|850"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Նվերի փաթեթ «Երևան Սիթի» 29x12x39սմ",
+    "old": 990,
+    "new": 650,
+    "pct": 34,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1152995.png",
+    "url": "https://yerevan-city.am/shop/product-details/133759",
+    "key": "Yerevan City|id:133759|990|650"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-02T03:00:48.988314+04:00",
+ "last_publish": "2026-11-02T03:15:31.061351+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
@@ -3843,7 +3844,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 28,
+ "city_page": 29,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
