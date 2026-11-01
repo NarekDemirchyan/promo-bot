@@ -1566,22 +1566,12 @@
    "Yerevan City|id:55605|990|850",
    "Yerevan City|id:192905|990|390",
    "Yerevan City|id:55624|990|850",
-   "Yerevan City|id:55631|990|850"
+   "Yerevan City|id:55631|990|850",
+   "Yerevan City|id:179179|990|850"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Լվացքի կոնդիցիոներ «Vernel» 960մլ",
-    "old": 2250,
-    "new": 2050,
-    "pct": 9,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/opolaskivatel_konditsioner_kontsentrat/549845/",
-    "key": "SAS|id:549845|2250|2050"
-   },
    {
     "store": "SAS",
     "title": "Գինի սպիտակ «Կարաս» 0.75լ",
@@ -1881,17 +1871,6 @@
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Սուրճի պատիճ «ԼավԱզզա» Ռոսսա 10x5.7գր",
-    "old": 2960,
-    "new": 2250,
-    "pct": 24,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173865.png",
-    "url": "https://yerevan-city.am/shop/product-details/180146",
-    "key": "Yerevan City|id:180146|2960|2250"
-   },
    {
     "store": "Yerevan City",
     "title": "Սուրճի պատիճ «ԼավԱզզա» Կր.գուստո, կլասիկ 10x5.7գր",
@@ -4069,12 +4048,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1042642.png",
     "url": "https://yerevan-city.am/shop/product-details/55631",
     "key": "Yerevan City|id:55631|990|850"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Բիսքվիթ «Ֆրեդդի» Դոլչետո, վանիլ ա/լ 8x25գր",
+    "old": 990,
+    "new": 850,
+    "pct": 14,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172883.png",
+    "url": "https://yerevan-city.am/shop/product-details/179179",
+    "key": "Yerevan City|id:179179|990|850"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-01T08:15:35.871728+04:00",
+ "last_publish": "2026-11-01T08:30:40.001249+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
