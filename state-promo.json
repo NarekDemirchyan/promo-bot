@@ -1612,23 +1612,13 @@
    "Yerevan City|id:192187|890|495",
    "Yerevan City|id:191484|890|550",
    "Yerevan City|id:170692|890|790",
-   "Yerevan City|id:55666|890|770"
+   "Yerevan City|id:55666|890|770",
+   "Yerevan City|id:71575|890|520"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Կոնստրուկտոր «ԾիեՓին» Ավտոմեքենա 1:32 Պ24",
-    "old": 2790,
-    "new": 1670,
-    "pct": 40,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169922.png",
-    "url": "https://yerevan-city.am/shop/product-details/176293",
-    "key": "Yerevan City|id:176293|2790|1670"
-   },
    {
     "store": "Yerevan City",
     "title": "Շախմատ մագնիսական ՍՅ207",
@@ -3806,12 +3796,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1109502.png",
     "url": "https://yerevan-city.am/shop/product-details/55666",
     "key": "Yerevan City|id:55666|890|770"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մաքրող միջ.զուգարանակոնքի «Սանո» Սան.նարդոս 55գր",
+    "old": 890,
+    "new": 520,
+    "pct": 42,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1115011.png",
+    "url": "https://yerevan-city.am/shop/product-details/71575",
+    "key": "Yerevan City|id:71575|890|520"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-01T21:15:30.050193+04:00",
+ "last_publish": "2026-11-01T21:30:48.703708+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
