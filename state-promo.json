@@ -1615,23 +1615,13 @@
    "Yerevan City|id:55666|890|770",
    "Yerevan City|id:71575|890|520",
    "Yerevan City|id:165222|890|670",
-   "Yerevan City|id:181004|890|590"
+   "Yerevan City|id:181004|890|590",
+   "Yerevan City|id:75809|890|490"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Իրիս «Ռոշեն» Միլկի Սպլեշ կգ",
-    "old": 2770,
-    "new": 2380,
-    "pct": 14,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1047635.png",
-    "url": "https://yerevan-city.am/shop/product-details/813",
-    "key": "Yerevan City|id:813|2770|2380"
-   },
    {
     "store": "Yerevan City",
     "title": "Հարիչ-քափկիր «Բրաբանտիա» պլաստմասե",
@@ -3809,12 +3799,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174730.png",
     "url": "https://yerevan-city.am/shop/product-details/181004",
     "key": "Yerevan City|id:181004|890|590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Պանիր ռիկոտտա «Գալբանի» 230գր",
+    "old": 890,
+    "new": 490,
+    "pct": 45,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1115598.png",
+    "url": "https://yerevan-city.am/shop/product-details/75809",
+    "key": "Yerevan City|id:75809|890|490"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-01T22:00:46.787560+04:00",
+ "last_publish": "2026-11-01T22:15:31.045607+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
