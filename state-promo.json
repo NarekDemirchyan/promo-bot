@@ -1636,23 +1636,13 @@
    "Yerevan City|id:166139|990|590",
    "Yerevan City|id:11839|990|810",
    "Yerevan City|id:9371|990|850",
-   "Yerevan City|id:133759|990|650"
+   "Yerevan City|id:133759|990|650",
+   "Yerevan City|id:96877|950|880"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Միցելային ջուր «Նիվեա» հանգստացնող, զգ.մաշկ 400մլ",
-    "old": 2660,
-    "new": 2240,
-    "pct": 16,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173759.png",
-    "url": "https://yerevan-city.am/shop/product-details/180040",
-    "key": "Yerevan City|id:180040|2660|2240"
-   },
    {
     "store": "Yerevan City",
     "title": "Ծովատառեխի ֆիլե, ձիթապտղով «ՍԲ» Մորյաչոկ 500գր",
@@ -3830,12 +3820,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1152995.png",
     "url": "https://yerevan-city.am/shop/product-details/133759",
     "key": "Yerevan City|id:133759|990|650"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հեղուկ տնտեսական օճառ «Գրասս» կաղնու յուղով 72% 1լ",
+    "old": 950,
+    "new": 880,
+    "pct": 7,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1132887.png",
+    "url": "https://yerevan-city.am/shop/product-details/96877",
+    "key": "Yerevan City|id:96877|950|880"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-02T03:15:31.061351+04:00",
+ "last_publish": "2026-11-02T03:30:42.039905+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
