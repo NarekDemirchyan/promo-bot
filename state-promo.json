@@ -1599,7 +1599,8 @@
    "Yerevan City|id:57184|990|590",
    "Yerevan City|id:55077|990|790",
    "Yerevan City|id:18327|990|690",
-   "Yerevan City|id:179687|930|750"
+   "Yerevan City|id:179687|930|750",
+   "Yerevan City|id:1207|930|840"
   ]
  },
  "queues": {
@@ -3793,6 +3794,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173406.png",
     "url": "https://yerevan-city.am/shop/product-details/179687",
     "key": "Yerevan City|id:179687|930|750"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ձիթապտուղ կանաչ «Մասարիկո» 160/180 360գր",
+    "old": 930,
+    "new": 840,
+    "pct": 10,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1053609.png",
+    "url": "https://yerevan-city.am/shop/product-details/1207",
+    "key": "Yerevan City|id:1207|930|840"
    }
   ]
  },
