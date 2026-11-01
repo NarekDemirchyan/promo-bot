@@ -1619,23 +1619,13 @@
    "Yerevan City|id:75809|890|490",
    "Yerevan City|id:179060|890|690",
    "Yerevan City|id:192832|890|445",
-   "Yerevan City|id:180329|890|530"
+   "Yerevan City|id:180329|890|530",
+   "Yerevan City|id:19716|890|590"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Լվացվելու փրփուր «Լիրեն» Ա.Բաբլս, տոնուս. 150մլ",
-    "old": 2730,
-    "new": 2170,
-    "pct": 21,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156571.png",
-    "url": "https://yerevan-city.am/shop/product-details/158928",
-    "key": "Yerevan City|id:158928|2730|2170"
-   },
    {
     "store": "Yerevan City",
     "title": "Սուրճի պատիճ «Տ.Լամբորգինի» Էսպրեսսո, կարմիր 50գր",
@@ -3813,12 +3803,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174059.png",
     "url": "https://yerevan-city.am/shop/product-details/180329",
     "key": "Yerevan City|id:180329|890|530"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Աղցան ծովակաղամբով «Մերիդիան» Հ.Արևելք 250գր",
+    "old": 890,
+    "new": 590,
+    "pct": 34,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1102653.png",
+    "url": "https://yerevan-city.am/shop/product-details/19716",
+    "key": "Yerevan City|id:19716|890|590"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-01T23:00:48.306222+04:00",
+ "last_publish": "2026-11-01T23:15:31.799276+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
