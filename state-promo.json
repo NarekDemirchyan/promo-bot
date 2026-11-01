@@ -1629,23 +1629,13 @@
    "Yerevan City|id:176497|990|590",
    "Yerevan City|id:176893|990|590",
    "Yerevan City|id:176988|990|740",
-   "Yerevan City|id:177753|990|590"
+   "Yerevan City|id:177753|990|590",
+   "Yerevan City|id:178876|990|590"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Կախարդական ավազ «Տիեզերք» 17կտոր 250գր 3050-2",
-    "old": 2690,
-    "new": 1610,
-    "pct": 40,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1171134.png",
-    "url": "https://yerevan-city.am/shop/product-details/177482",
-    "key": "Yerevan City|id:177482|2690|1610"
-   },
    {
     "store": "Yerevan City",
     "title": "Չխկչխկան խաղալիքներ մահճակալի համար 689-23",
@@ -3823,12 +3813,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1171430.png",
     "url": "https://yerevan-city.am/shop/product-details/177753",
     "key": "Yerevan City|id:177753|990|590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ափսե «Դեննի Հոմ» սպիտակ կլոր 22սմ 1հտ ԲՎ20-136-2",
+    "old": 990,
+    "new": 590,
+    "pct": 40,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172577.png",
+    "url": "https://yerevan-city.am/shop/product-details/178876",
+    "key": "Yerevan City|id:178876|990|590"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-02T01:30:41.279930+04:00",
+ "last_publish": "2026-11-02T01:45:30.884810+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
