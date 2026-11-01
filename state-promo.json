@@ -1593,35 +1593,13 @@
    "Yerevan City|id:105022|990|495",
    "Yerevan City|id:5724|940|810",
    "Yerevan City|id:128266|940|690",
-   "Yerevan City|id:128272|940|690"
+   "Yerevan City|id:128272|940|690",
+   "Yerevan City|id:1833|930|850"
   ]
  },
  "queues": {
-  "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շամպուն «Schwarzkopf Gliss Kur» 400մլ",
-    "old": 2670,
-    "new": 2390,
-    "pct": 10,
-    "until": "30.10.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/dlya_volos2/493624/",
-    "key": "SAS|id:493624|2670|2390"
-   }
-  ],
+  "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Թխվածքաբլիթ «Դանեսիտա» Բաթեր Քուքիս թ/տ 454գր",
-    "old": 2890,
-    "new": 2490,
-    "pct": 14,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1053399.png",
-    "url": "https://yerevan-city.am/shop/product-details/7561",
-    "key": "Yerevan City|id:7561|2890|2490"
-   },
    {
     "store": "Yerevan City",
     "title": "Մարինացված սխտոր «Պրիմեալ» Բիո, ձիթ.ձեթ.ա/տ 190գր",
@@ -3799,12 +3777,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1148121.png",
     "url": "https://yerevan-city.am/shop/product-details/128272",
     "key": "Yerevan City|id:128272|940|690"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սմբուկի խավիար «Յան» կծու 470գր",
+    "old": 930,
+    "new": 850,
+    "pct": 9,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1091247.png",
+    "url": "https://yerevan-city.am/shop/product-details/1833",
+    "key": "Yerevan City|id:1833|930|850"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-01T16:30:47.773204+04:00",
+ "last_publish": "2026-11-01T16:45:30.258326+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
