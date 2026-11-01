@@ -1565,22 +1565,12 @@
    "Yerevan City|id:179679|990|790",
    "Yerevan City|id:55605|990|850",
    "Yerevan City|id:192905|990|390",
-   "Yerevan City|id:55624|990|850"
+   "Yerevan City|id:55624|990|850",
+   "Yerevan City|id:55631|990|850"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Գինի կարմիր «Նարդվան» 0.75լ",
-    "old": 2270,
-    "new": 1590,
-    "pct": 30,
-    "until": "30.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/318/412/4120594209243687.webp",
-    "url": "https://www.sas.am/catalog/armyanskoe_vino/792766/",
-    "key": "SAS|id:792766|2270|1590"
-   },
    {
     "store": "SAS",
     "title": "Լվացքի կոնդիցիոներ «Vernel» 960մլ",
@@ -4079,12 +4069,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1038433.png",
     "url": "https://yerevan-city.am/shop/product-details/55624",
     "key": "Yerevan City|id:55624|990|850"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Բիսքվիթ «Ֆրեդդի» Դոլչետո, ծիրան ա/լ 8x25գր",
+    "old": 990,
+    "new": 850,
+    "pct": 14,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1042642.png",
+    "url": "https://yerevan-city.am/shop/product-details/55631",
+    "key": "Yerevan City|id:55631|990|850"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-01T07:45:30.201091+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-01T08:00:46.927449+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
