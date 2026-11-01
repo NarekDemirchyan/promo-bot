@@ -1598,23 +1598,13 @@
    "Yerevan City|id:2954|930|850",
    "Yerevan City|id:57184|990|590",
    "Yerevan City|id:55077|990|790",
-   "Yerevan City|id:18327|990|690"
+   "Yerevan City|id:18327|990|690",
+   "Yerevan City|id:179687|930|750"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Լվացքի գել «Սավեքս» Պրեմիում, գունավոր 960մլ",
-    "old": 2830,
-    "new": 2350,
-    "pct": 17,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1151778.png",
-    "url": "https://yerevan-city.am/shop/product-details/132274",
-    "key": "Yerevan City|id:132274|2830|2350"
-   },
    {
     "store": "Yerevan City",
     "title": "Լվացքի գել «Սավեքս» Պրեմիում, սպիտակ 960մլ",
@@ -3792,12 +3782,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1099617.png",
     "url": "https://yerevan-city.am/shop/product-details/18327",
     "key": "Yerevan City|id:18327|990|690"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սննդային փաթեթ շղթայով «Ալյուֆիքս» 1/3/6լ 15հտ",
+    "old": 930,
+    "new": 750,
+    "pct": 19,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173406.png",
+    "url": "https://yerevan-city.am/shop/product-details/179687",
+    "key": "Yerevan City|id:179687|930|750"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-01T17:45:32.197342+04:00",
+ "last_publish": "2026-11-01T18:00:44.229411+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
