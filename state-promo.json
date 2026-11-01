@@ -1569,22 +1569,12 @@
    "Yerevan City|id:55631|990|850",
    "Yerevan City|id:179179|990|850",
    "Yerevan City|id:180251|990|750",
-   "Yerevan City|id:70096|990|690"
+   "Yerevan City|id:70096|990|690",
+   "Yerevan City|id:165749|990|890"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սափրող սարք «Wilkinson Sword Extra 3 Active»",
-    "old": 2090,
-    "new": 1140,
-    "pct": 45,
-    "until": "30.10.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/184/328/32806067297829.webp",
-    "url": "https://www.sas.am/catalog/stanok_dlya_britya/173910/",
-    "key": "SAS|id:173910|2090|1140"
-   },
    {
     "store": "SAS",
     "title": "Լվացքի փոշի սպիտակ «Persil Gold Scan System Pearls of Vernel» 1.5կգ",
@@ -1851,17 +1841,6 @@
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Լվացվելու գել «Լիրեն» Ա.Բաբլս, խոնավեցնող 150մլ",
-    "old": 2960,
-    "new": 2350,
-    "pct": 21,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156533.png",
-    "url": "https://yerevan-city.am/shop/product-details/158890",
-    "key": "Yerevan City|id:158890|2960|2350"
-   },
    {
     "store": "Yerevan City",
     "title": "Լոգ.քսուք «Տեսորի դՕրիենտե» վիշապի ծաղիկ 500մլ",
@@ -4039,12 +4018,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1114174.png",
     "url": "https://yerevan-city.am/shop/product-details/70096",
     "key": "Yerevan City|id:70096|990|690"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գազավորված ըմպելիք «Կոկա Կոլա» զերո ա/տ 330մլ",
+    "old": 990,
+    "new": 890,
+    "pct": 10,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1161486.png",
+    "url": "https://yerevan-city.am/shop/product-details/165749",
+    "key": "Yerevan City|id:165749|990|890"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-01T09:30:38.708750+04:00",
+ "last_publish": "2026-11-01T09:45:29.850289+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
