@@ -1564,22 +1564,12 @@
    "Yerevan City|id:193945|990|670",
    "Yerevan City|id:179679|990|790",
    "Yerevan City|id:55605|990|850",
-   "Yerevan City|id:192905|990|390"
+   "Yerevan City|id:192905|990|390",
+   "Yerevan City|id:55624|990|850"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Յոգուրտ ելակով, հապալասով և ազնվամորիով «Avramidis Family Tsantillas Strawberry Blueberry Raspberry» 170գ, յուղայնությունը՝ 2",
-    "old": 1590,
-    "new": 790,
-    "pct": 50,
-    "until": "02.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/yogurt_puding/936867/",
-    "key": "SAS|id:936867|1590|790"
-   },
    {
     "store": "SAS",
     "title": "Գինի կարմիր «Նարդվան» 0.75լ",
@@ -4089,12 +4079,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176653.png",
     "url": "https://yerevan-city.am/shop/product-details/192905",
     "key": "Yerevan City|id:192905|990|390"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Բիսքվիթ «Ֆրեդդի» Դոլչետո, կակաո ա/լ 8x25գր",
+    "old": 990,
+    "new": 850,
+    "pct": 14,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1038433.png",
+    "url": "https://yerevan-city.am/shop/product-details/55624",
+    "key": "Yerevan City|id:55624|990|850"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-01T07:15:30.912792+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-01T07:30:41.110975+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
