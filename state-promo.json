@@ -1573,22 +1573,12 @@
    "Yerevan City|id:165749|990|890",
    "Yerevan City|id:29924|990|860",
    "Yerevan City|id:100495|990|690",
-   "Yerevan City|id:92873|990|870"
+   "Yerevan City|id:92873|990|870",
+   "Yerevan City|id:37642|980|880"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Զովացուցիչ գազավորված ըմպելիք «Coca-Cola» 355մլ",
-    "old": 2090,
-    "new": 1050,
-    "pct": 50,
-    "until": "10.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/921/940/9404381233120209.webp",
-    "url": "https://www.sas.am/catalog/osvezhayushchiy_napitok/276309/",
-    "key": "SAS|id:276309|2090|1050"
-   },
    {
     "store": "SAS",
     "title": "Լիթումային մարտկոց «Energizer 2032 3V» 1հատ",
@@ -3999,12 +3989,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1129770.png",
     "url": "https://yerevan-city.am/shop/product-details/92873",
     "key": "Yerevan City|id:92873|990|870"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Բրինձ կլոր «Մակֆա» 800գր",
+    "old": 980,
+    "new": 880,
+    "pct": 10,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1073032.png",
+    "url": "https://yerevan-city.am/shop/product-details/37642",
+    "key": "Yerevan City|id:37642|980|880"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-01T10:30:39.963251+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-01T10:45:41.525564+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
