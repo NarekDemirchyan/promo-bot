@@ -1576,22 +1576,12 @@
    "Yerevan City|id:92873|990|870",
    "Yerevan City|id:37642|980|880",
    "Yerevan City|id:6975|970|720",
-   "Yerevan City|id:9192|970|720"
+   "Yerevan City|id:9192|970|720",
+   "Yerevan City|id:11190|970|820"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Տիկնիկ «Barbie Pop Reveal»",
-    "old": 20580,
-    "new": 15760,
-    "pct": 23,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/265/247/2479383486738316.webp",
-    "url": "https://www.sas.am/catalog/dlya_devochek/592021/",
-    "key": "SAS|id:592021|20580|15760"
-   },
    {
     "store": "SAS",
     "title": "Լվացքի գել գունավոր «Savex Supreme Clean & Protect» 0.960լ",
@@ -3969,12 +3959,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1043266.png",
     "url": "https://yerevan-city.am/shop/product-details/9192",
     "key": "Yerevan City|id:9192|970|720"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Պանիր հալած «Հոխլանդ» սերուցքային 200գր",
+    "old": 970,
+    "new": 820,
+    "pct": 15,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1039951.png",
+    "url": "https://yerevan-city.am/shop/product-details/11190",
+    "key": "Yerevan City|id:11190|970|820"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-01T11:30:46.327790+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-01T11:45:35.991050+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
