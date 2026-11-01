@@ -1565,17 +1565,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Լիկյոր սերկևիլի «Ակում» 0,5լ",
-    "old": 9450,
-    "new": 7990,
-    "pct": 15,
-    "until": "13.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/306/144/1442823195057947.webp",
-    "url": "https://www.sas.am/catalog/liker/594266/",
-    "key": "SAS|id:594266|9450|7990"
-   },
-   {
-    "store": "SAS",
     "title": "Հակաքրտինքային միջոց-սթիք «Nivea Жемчужная Красота» 50մլ",
     "old": 2090,
     "new": 1540,
@@ -4175,8 +4164,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-01T04:30:40.194376+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-01T04:45:33.038966+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
