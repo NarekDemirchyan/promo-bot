@@ -1562,22 +1562,12 @@
    "Yerevan City|id:180593|990|590",
    "Yerevan City|id:191485|990|590",
    "Yerevan City|id:193945|990|670",
-   "Yerevan City|id:179679|990|790"
+   "Yerevan City|id:179679|990|790",
+   "Yerevan City|id:55605|990|850"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Քամած մածուն կիտրոնով «Avramidis Family Tsantillas Lemon» 170գ",
-    "old": 1590,
-    "new": 790,
-    "pct": 50,
-    "until": "02.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/255/374/3745834155168020.webp",
-    "url": "https://www.sas.am/catalog/matsoni/951084/",
-    "key": "SAS|id:951084|1590|790"
-   },
    {
     "store": "SAS",
     "title": "Յոգուրտ հունական «Avramidis Family» 180գ, յուղայնությունը՝ 2",
@@ -4109,12 +4099,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173398.png",
     "url": "https://yerevan-city.am/shop/product-details/179679",
     "key": "Yerevan City|id:179679|990|790"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Բիսքվիթ «Ֆրեդդի» Դոլչետո, բալ ա/լ 8x25գր",
+    "old": 990,
+    "new": 850,
+    "pct": 14,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1052433.png",
+    "url": "https://yerevan-city.am/shop/product-details/55605",
+    "key": "Yerevan City|id:55605|990|850"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-01T06:15:31.641822+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-01T06:30:39.746282+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
