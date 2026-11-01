@@ -1600,23 +1600,13 @@
    "Yerevan City|id:55077|990|790",
    "Yerevan City|id:18327|990|690",
    "Yerevan City|id:179687|930|750",
-   "Yerevan City|id:1207|930|840"
+   "Yerevan City|id:1207|930|840",
+   "Yerevan City|id:107077|920|680"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Թխվածքաբլիթի կրեմ «Լոտուս» ա/տ 400գր",
-    "old": 2790,
-    "new": 1990,
-    "pct": 29,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1112461.png",
-    "url": "https://yerevan-city.am/shop/product-details/66619",
-    "key": "Yerevan City|id:66619|2790|1990"
-   },
    {
     "store": "Yerevan City",
     "title": "Գետնանուշի կարագ «Սոնյա» խրթխրթան 510գր",
@@ -3794,12 +3784,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1053609.png",
     "url": "https://yerevan-city.am/shop/product-details/1207",
     "key": "Yerevan City|id:1207|930|840"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սփրեյ յուղը հեռացնելու համար «Կաթիլ» 500մլ",
+    "old": 920,
+    "new": 680,
+    "pct": 26,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1140035.png",
+    "url": "https://yerevan-city.am/shop/product-details/107077",
+    "key": "Yerevan City|id:107077|920|680"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-01T18:15:31.417073+04:00",
+ "last_publish": "2026-11-01T18:30:41.024985+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
@@ -3808,7 +3809,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 27,
+ "city_page": 28,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
