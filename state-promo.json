@@ -1603,23 +1603,13 @@
    "Yerevan City|id:1207|930|840",
    "Yerevan City|id:107077|920|680",
    "Yerevan City|id:7395|895|820",
-   "Yerevan City|id:4364|890|690"
+   "Yerevan City|id:4364|890|690",
+   "Yerevan City|id:8977|890|690"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Սուրճ հատիկավոր «Իտալքաֆֆե» Արոմա բար 250գր",
-    "old": 2790,
-    "new": 1990,
-    "pct": 29,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1163900.png",
-    "url": "https://yerevan-city.am/shop/product-details/170162",
-    "key": "Yerevan City|id:170162|2790|1990"
-   },
    {
     "store": "Yerevan City",
     "title": "Սուրճ աղացած «Իտալքաֆֆե» Կրեմա օրո 250գր",
@@ -3797,12 +3787,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1082144.png",
     "url": "https://yerevan-city.am/shop/product-details/4364",
     "key": "Yerevan City|id:4364|890|690"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թխվածքաբլիթ «Միլկա» կաթ և շոկոլադ 150գր",
+    "old": 890,
+    "new": 690,
+    "pct": 22,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1078044.png",
+    "url": "https://yerevan-city.am/shop/product-details/8977",
+    "key": "Yerevan City|id:8977|890|690"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-01T19:00:54.096161+04:00",
+ "last_publish": "2026-11-01T19:15:31.589179+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
