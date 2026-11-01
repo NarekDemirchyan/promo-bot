@@ -1557,7 +1557,8 @@
    "Yerevan City|id:98751|2330|1500",
    "Yerevan City|id:192501|990|682",
    "Yerevan City|id:181066|990|650",
-   "Yerevan City|id:180786|990|690"
+   "Yerevan City|id:180786|990|690",
+   "Yerevan City|id:181069|990|650"
   ]
  },
  "queues": {
@@ -4159,6 +4160,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174520.png",
     "url": "https://yerevan-city.am/shop/product-details/180786",
     "key": "Yerevan City|id:180786|990|690"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ափսե «ՍԴՑ» կապույտ, կլոր 19սմ 1հտ ՍԴՏ041-2",
+    "old": 990,
+    "new": 650,
+    "pct": 34,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174803.png",
+    "url": "https://yerevan-city.am/shop/product-details/181069",
+    "key": "Yerevan City|id:181069|990|650"
    }
   ]
  },
