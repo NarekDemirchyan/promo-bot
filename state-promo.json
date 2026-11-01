@@ -1637,23 +1637,13 @@
    "Yerevan City|id:11839|990|810",
    "Yerevan City|id:9371|990|850",
    "Yerevan City|id:133759|990|650",
-   "Yerevan City|id:96877|950|880"
+   "Yerevan City|id:96877|950|880",
+   "Yerevan City|id:69575|950|790"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Ծովատառեխի ֆիլե, ձիթապտղով «ՍԲ» Մորյաչոկ 500գր",
-    "old": 2650,
-    "new": 2180,
-    "pct": 18,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1076454.png",
-    "url": "https://yerevan-city.am/shop/product-details/32224",
-    "key": "Yerevan City|id:32224|2650|2180"
-   },
    {
     "store": "Yerevan City",
     "title": "Թխվածքաբլիթ «Դարոյնք» սնկիկ կգ",
@@ -3831,12 +3821,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1132887.png",
     "url": "https://yerevan-city.am/shop/product-details/96877",
     "key": "Yerevan City|id:96877|950|880"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հուշանվեր-հայելի «Արմենիա» 1հտ",
+    "old": 950,
+    "new": 790,
+    "pct": 17,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1011085.png",
+    "url": "https://yerevan-city.am/shop/product-details/69575",
+    "key": "Yerevan City|id:69575|950|790"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-02T03:30:42.039905+04:00",
+ "last_publish": "2026-11-02T03:45:32.270355+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
@@ -3845,7 +3846,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 29,
+ "city_page": 30,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
