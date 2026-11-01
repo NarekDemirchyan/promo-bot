@@ -1563,22 +1563,12 @@
    "Yerevan City|id:191485|990|590",
    "Yerevan City|id:193945|990|670",
    "Yerevan City|id:179679|990|790",
-   "Yerevan City|id:55605|990|850"
+   "Yerevan City|id:55605|990|850",
+   "Yerevan City|id:192905|990|390"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Յոգուրտ հունական «Avramidis Family» 180գ, յուղայնությունը՝ 2",
-    "old": 1390,
-    "new": 690,
-    "pct": 50,
-    "until": "02.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/139/228/22890213896242.webp",
-    "url": "https://www.sas.am/catalog/yogurt_puding/936869/",
-    "key": "SAS|id:936869|1390|690"
-   },
    {
     "store": "SAS",
     "title": "Յոգուրտ ելակով, հապալասով և ազնվամորիով «Avramidis Family Tsantillas Strawberry Blueberry Raspberry» 170գ, յուղայնությունը՝ 2",
@@ -4099,12 +4089,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1052433.png",
     "url": "https://yerevan-city.am/shop/product-details/55605",
     "key": "Yerevan City|id:55605|990|850"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գրչատուփ «Կինհշիոն»",
+    "old": 990,
+    "new": 390,
+    "pct": 61,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176653.png",
+    "url": "https://yerevan-city.am/shop/product-details/192905",
+    "key": "Yerevan City|id:192905|990|390"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-01T06:45:35.085247+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-01T07:00:49.060551+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
