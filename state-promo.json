@@ -1620,23 +1620,13 @@
    "Yerevan City|id:179060|890|690",
    "Yerevan City|id:192832|890|445",
    "Yerevan City|id:180329|890|530",
-   "Yerevan City|id:19716|890|590"
+   "Yerevan City|id:19716|890|590",
+   "Yerevan City|id:23311|890|790"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Սուրճի պատիճ «Տ.Լամբորգինի» Էսպրեսսո, կարմիր 50գր",
-    "old": 2730,
-    "new": 1365,
-    "pct": 50,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1135256.png",
-    "url": "https://yerevan-city.am/shop/product-details/99857",
-    "key": "Yerevan City|id:99857|2730|1365"
-   },
    {
     "store": "Yerevan City",
     "title": "Օղի «Նեմիրոֆֆ» Օրիգինալ 0.2լ",
@@ -3814,12 +3804,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1102653.png",
     "url": "https://yerevan-city.am/shop/product-details/19716",
     "key": "Yerevan City|id:19716|890|590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Զուգարանի թուղթ «Սոֆֆիուան» կիտրոնախոտ, եռաշերտ 4հտ",
+    "old": 890,
+    "new": 790,
+    "pct": 11,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1103102.png",
+    "url": "https://yerevan-city.am/shop/product-details/23311",
+    "key": "Yerevan City|id:23311|890|790"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-01T23:15:31.799276+04:00",
+ "last_publish": "2026-11-01T23:30:44.346001+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
