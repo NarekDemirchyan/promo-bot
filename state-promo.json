@@ -1668,23 +1668,13 @@
    "Yerevan City|id:192128|850|590",
    "Yerevan City|id:193878|850|550",
    "Yerevan City|id:193879|850|650",
-   "Yerevan City|id:193888|850|550"
+   "Yerevan City|id:193888|850|550",
+   "Yerevan City|id:193889|850|490"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Թեյի գդալներ «Դեննի Հոմ» սև 6կտոր ՀԿ035Բ-4",
-    "old": 2490,
-    "new": 1190,
-    "pct": 52,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1161853.png",
-    "url": "https://yerevan-city.am/shop/product-details/166161",
-    "key": "Yerevan City|id:166161|2490|1190"
-   },
    {
     "store": "Yerevan City",
     "title": "Սուրճի պատիճ «Յակոբս» Էսպ.Ինտենսո Լունգո 8 52գր",
@@ -3862,12 +3852,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177651.png",
     "url": "https://yerevan-city.am/shop/product-details/193888",
     "key": "Yerevan City|id:193888|850|550"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ափսե «ԻքսՅՑ» բեժ կանաչ կլոր 28սմ 1հտ ՀՖ22-31",
+    "old": 850,
+    "new": 490,
+    "pct": 42,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177652.png",
+    "url": "https://yerevan-city.am/shop/product-details/193889",
+    "key": "Yerevan City|id:193889|850|490"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-02T11:15:31.222649+04:00",
+ "last_publish": "2026-11-02T11:30:50.270688+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
