@@ -1648,23 +1648,13 @@
    "Yerevan City|id:172986|890|490",
    "Yerevan City|id:177261|890|530",
    "Yerevan City|id:191570|875|690",
-   "Yerevan City|id:11591|870|790"
+   "Yerevan City|id:11591|870|790",
+   "Yerevan City|id:4129|870|560"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Գրիլ հավ հտ",
-    "old": 2590,
-    "new": 1990,
-    "pct": 23,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/9001156.png",
-    "url": "https://yerevan-city.am/shop/product-details/102136",
-    "key": "Yerevan City|id:102136|2590|1990"
-   },
    {
     "store": "Yerevan City",
     "title": "Պանիր «Դաիլի Դաիրի» Ամանտի կանաչ պեստո 50% 200գր",
@@ -3842,12 +3832,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1038536.png",
     "url": "https://yerevan-city.am/shop/product-details/11591",
     "key": "Yerevan City|id:11591|870|790"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սպասք լվանալու հեղուկ «Ֆրոշ» կանաչ կիտրոն 500մլ",
+    "old": 870,
+    "new": 560,
+    "pct": 36,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1019450.png",
+    "url": "https://yerevan-city.am/shop/product-details/4129",
+    "key": "Yerevan City|id:4129|870|560"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-02T06:15:34.641125+04:00",
+ "last_publish": "2026-11-02T06:30:40.382197+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
