@@ -1720,23 +1720,13 @@
    "Yerevan City|id:4013|850|790",
    "Yerevan City|id:95844|850|790",
    "Yerevan City|id:92250|1370|1140",
-   "Yerevan City|id:11739|1360|950"
+   "Yerevan City|id:11739|1360|950",
+   "Yerevan City|id:4042|1360|1130"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Նրբերշիկ պանրով, հնդկահավի «Ինդի Լայտ» 440գր",
-    "old": 2190,
-    "new": 1490,
-    "pct": 32,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1149046.png",
-    "url": "https://yerevan-city.am/shop/product-details/129272",
-    "key": "Yerevan City|id:129272|2190|1490"
-   },
    {
     "store": "Yerevan City",
     "title": "Իրիս «Գրանդ Քենդի» Մու-Մու կգ",
@@ -3914,6 +3904,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1097265.png",
     "url": "https://yerevan-city.am/shop/product-details/11739",
     "key": "Yerevan City|id:11739|1360|950"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ունիվերսալ քսուք «Նիվեա» թ/տ 75մլ",
+    "old": 1360,
+    "new": 1130,
+    "pct": 17,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1007396.png",
+    "url": "https://yerevan-city.am/shop/product-details/4042",
+    "key": "Yerevan City|id:4042|1360|1130"
    }
   ]
  },
