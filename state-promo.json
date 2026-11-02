@@ -1667,23 +1667,13 @@
    "Yerevan City|id:178913|850|450",
    "Yerevan City|id:192128|850|590",
    "Yerevan City|id:193878|850|550",
-   "Yerevan City|id:193879|850|650"
+   "Yerevan City|id:193879|850|650",
+   "Yerevan City|id:193888|850|550"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Փափուկ խաղալիք «Բոբա բաժակ»",
-    "old": 2490,
-    "new": 1900,
-    "pct": 24,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156913.png",
-    "url": "https://yerevan-city.am/shop/product-details/159251",
-    "key": "Yerevan City|id:159251|2490|1900"
-   },
    {
     "store": "Yerevan City",
     "title": "Թեյի գդալներ «Դեննի Հոմ» սև 6կտոր ՀԿ035Բ-4",
@@ -3861,12 +3851,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177628.png",
     "url": "https://yerevan-city.am/shop/product-details/193879",
     "key": "Yerevan City|id:193879|850|650"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ափսե «ԻքսՅՑ» բեժ մոխ. կլոր 26.5սմ 1հտ ՀՖ7-18",
+    "old": 850,
+    "new": 550,
+    "pct": 35,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177651.png",
+    "url": "https://yerevan-city.am/shop/product-details/193888",
+    "key": "Yerevan City|id:193888|850|550"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-02T11:00:56.810086+04:00",
+ "last_publish": "2026-11-02T11:15:31.222649+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
