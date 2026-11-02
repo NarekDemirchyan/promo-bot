@@ -1717,23 +1717,13 @@
    "Yerevan City|id:193894|850|490",
    "Yerevan City|id:176685|850|690",
    "Yerevan City|id:176686|850|690",
-   "Yerevan City|id:4013|850|790"
+   "Yerevan City|id:4013|850|790",
+   "Yerevan City|id:95844|850|790"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Խաղ-ջոյսթիք 0119Դ",
-    "old": 2190,
-    "new": 1750,
-    "pct": 20,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178919.png",
-    "url": "https://yerevan-city.am/shop/product-details/195114",
-    "key": "Yerevan City|id:195114|2190|1750"
-   },
    {
     "store": "Yerevan City",
     "title": "Նրբերշիկ կաթնային հնդկահավի «Ինդի Լայտ» 440գր",
@@ -3911,12 +3901,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1087953.png",
     "url": "https://yerevan-city.am/shop/product-details/4013",
     "key": "Yerevan City|id:4013|850|790"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հեղուկ օճառ «Փալմոլիվ» Վիտամին Ց 300մլ",
+    "old": 850,
+    "new": 790,
+    "pct": 7,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1131855.png",
+    "url": "https://yerevan-city.am/shop/product-details/95844",
+    "key": "Yerevan City|id:95844|850|790"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-02T23:30:43.418107+04:00",
+ "last_publish": "2026-11-02T23:45:33.828810+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
