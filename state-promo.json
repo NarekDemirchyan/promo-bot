@@ -819,7 +819,20 @@
    "SAS|id:53335|7930|6050",
    "SAS|id:48545|8350|4170",
    "SAS|id:4038|3950|3440",
-   "SAS|id:3918|1210|1150"
+   "SAS|id:3918|1210|1150",
+   "SAS|id:31283|18300|16900",
+   "SAS|id:100456|1500|1290",
+   "SAS|id:167750|1430|1160",
+   "SAS|id:167747|1520|1160",
+   "SAS|id:167740|1430|1160",
+   "SAS|id:167284|1520|1160",
+   "SAS|id:167282|1520|1160",
+   "SAS|id:167258|1520|1160",
+   "SAS|id:167250|1520|1160",
+   "SAS|id:167237|1520|1160",
+   "SAS|id:165304|1580|1390",
+   "SAS|id:31328|17700|15900",
+   "SAS|id:4279|1520|1160"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -1797,22 +1810,12 @@
    "Yerevan City|id:192153|1350|990",
    "Yerevan City|id:195068|1350|890",
    "Yerevan City|id:10241|1370|1140",
-   "Yerevan City|id:5852|1350|890"
+   "Yerevan City|id:5852|1350|890",
+   "Yerevan City|id:4845|1370|1220"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կաթնային ըմպելիք բարձր սպիտակուցային «Parmalat Protein» 1լ",
-    "old": 1590,
-    "new": 1290,
-    "pct": 19,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/slivki_kokteyl/883369/",
-    "key": "SAS|id:883369|1590|1290"
-   },
    {
     "store": "SAS",
     "title": "Բիոյոգուրտ ըմպելի դասական «Parmalat» 290գ, յուղայնությունը` 1.7",
@@ -2516,6 +2519,149 @@
     "img": "",
     "url": "https://www.sas.am/catalog/baklazhan/3918/",
     "key": "SAS|id:3918|1210|1150"
+   },
+   {
+    "store": "SAS",
+    "title": "Վիսկի «Johnnie Walker 12 Black Label» 0.5լ",
+    "old": 18300,
+    "new": 16900,
+    "pct": 8,
+    "until": "13.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/220/106/1065861715114328.webp",
+    "url": "https://www.sas.am/catalog/viski/31283/",
+    "key": "SAS|id:31283|18300|16900"
+   },
+   {
+    "store": "SAS",
+    "title": "Կաթ «Parmalat» 1լ, յուղայնությունը` 3.5",
+    "old": 1500,
+    "new": 1290,
+    "pct": 14,
+    "until": "27.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/417/058/0583124110730306.webp",
+    "url": "https://www.sas.am/catalog/moloko/100456/",
+    "key": "SAS|id:100456|1500|1290"
+   },
+   {
+    "store": "SAS",
+    "title": "Հյութ հատապտղային «Santal» 1լ",
+    "old": 1430,
+    "new": 1160,
+    "pct": 19,
+    "until": "15.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/sok/167750/",
+    "key": "SAS|id:167750|1430|1160"
+   },
+   {
+    "store": "SAS",
+    "title": "Հյութ կարմիր նարնջի «Santal» 1լ",
+    "old": 1520,
+    "new": 1160,
+    "pct": 24,
+    "until": "15.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/sok/167747/",
+    "key": "SAS|id:167747|1520|1160"
+   },
+   {
+    "store": "SAS",
+    "title": "Հյութ նռան «Santal» 1լ",
+    "old": 1430,
+    "new": 1160,
+    "pct": 19,
+    "until": "15.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/sok/167740/",
+    "key": "SAS|id:167740|1430|1160"
+   },
+   {
+    "store": "SAS",
+    "title": "Նեկտար նարնջի «Santal» 1լ",
+    "old": 1520,
+    "new": 1160,
+    "pct": 24,
+    "until": "15.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/sok/167284/",
+    "key": "SAS|id:167284|1520|1160"
+   },
+   {
+    "store": "SAS",
+    "title": "Հյութ խնձորի «Santal» 1լ",
+    "old": 1520,
+    "new": 1160,
+    "pct": 24,
+    "until": "15.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/sok/167282/",
+    "key": "SAS|id:167282|1520|1160"
+   },
+   {
+    "store": "SAS",
+    "title": "Հյութ նարնջի «Santal» 1լ",
+    "old": 1520,
+    "new": 1160,
+    "pct": 24,
+    "until": "15.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/sok/167258/",
+    "key": "SAS|id:167258|1520|1160"
+   },
+   {
+    "store": "SAS",
+    "title": "Հյութ արքայախնձորի «Santal» 1լ",
+    "old": 1520,
+    "new": 1160,
+    "pct": 24,
+    "until": "15.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/sok/167250/",
+    "key": "SAS|id:167250|1520|1160"
+   },
+   {
+    "store": "SAS",
+    "title": "Հյութ կարմիր մրգերի «Santal» 1լ",
+    "old": 1520,
+    "new": 1160,
+    "pct": 24,
+    "until": "15.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/sok/167237/",
+    "key": "SAS|id:167237|1520|1160"
+   },
+   {
+    "store": "SAS",
+    "title": "Սերուցք հարելու համար «Parmalat» 200մլ, յուղայնությունը՝ 35",
+    "old": 1580,
+    "new": 1390,
+    "pct": 12,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/slivki_kokteyl/165304/",
+    "key": "SAS|id:165304|1580|1390"
+   },
+   {
+    "store": "SAS",
+    "title": "Վիսկի «Johnnie Walker 4 Red Label Old» 0.7լ",
+    "old": 17700,
+    "new": 15900,
+    "pct": 10,
+    "until": "13.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/viski/31328/",
+    "key": "SAS|id:31328|17700|15900"
+   },
+   {
+    "store": "SAS",
+    "title": "Հյութ նարնջի, գազարի և կիտրոնի «Santal Ace» 1լ",
+    "old": 1520,
+    "new": 1160,
+    "pct": 24,
+    "until": "15.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/sok/4279/",
+    "key": "SAS|id:4279|1520|1160"
    }
   ],
   "Yerevan City": [
@@ -4707,12 +4853,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1053598.png",
     "url": "https://yerevan-city.am/shop/product-details/5852",
     "key": "Yerevan City|id:5852|1350|890"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կանաչ ոլոռ «Բոնդյուել» Նուրբ 850մլ",
+    "old": 1370,
+    "new": 1220,
+    "pct": 11,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1039845.png",
+    "url": "https://yerevan-city.am/shop/product-details/4845",
+    "key": "Yerevan City|id:4845|1370|1220"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-03T03:31:15.106178+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-03T03:46:56.489454+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
