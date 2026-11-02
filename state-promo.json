@@ -1718,23 +1718,13 @@
    "Yerevan City|id:176685|850|690",
    "Yerevan City|id:176686|850|690",
    "Yerevan City|id:4013|850|790",
-   "Yerevan City|id:95844|850|790"
+   "Yerevan City|id:95844|850|790",
+   "Yerevan City|id:92250|1370|1140"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Նրբերշիկ կաթնային հնդկահավի «Ինդի Լայտ» 440գր",
-    "old": 2190,
-    "new": 1490,
-    "pct": 32,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1148106.png",
-    "url": "https://yerevan-city.am/shop/product-details/128259",
-    "key": "Yerevan City|id:128259|2190|1490"
-   },
    {
     "store": "Yerevan City",
     "title": "Նրբերշիկ սերուցքային հնդկահավի «Ինդի Լայտ» 440գր",
@@ -3912,6 +3902,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1131855.png",
     "url": "https://yerevan-city.am/shop/product-details/95844",
     "key": "Yerevan City|id:95844|850|790"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Միջադիրներ «Օլվեյզ» Ուլտրա, էքստրա նայթ 12հտ",
+    "old": 1370,
+    "new": 1140,
+    "pct": 17,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1030136.png",
+    "url": "https://yerevan-city.am/shop/product-details/92250",
+    "key": "Yerevan City|id:92250|1370|1140"
    }
   ]
  },
