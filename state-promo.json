@@ -1712,23 +1712,13 @@
    "Yerevan City|id:194839|890|560",
    "Yerevan City|id:178910|860|640",
    "Yerevan City|id:178909|860|640",
-   "Yerevan City|id:9656|860|590"
+   "Yerevan City|id:9656|860|590",
+   "Yerevan City|id:193890|850|490"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Պանիր պարմիջանո ռեջանո «Ֆեռարինի» թերթիկներ 80գր",
-    "old": 2190,
-    "new": 1290,
-    "pct": 41,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178044.png",
-    "url": "https://yerevan-city.am/shop/product-details/194272",
-    "key": "Yerevan City|id:194272|2190|1290"
-   },
    {
     "store": "Yerevan City",
     "title": "Սկահակ բամբուկ «Ծաղիկ» 7տեղանի 29սմ",
@@ -3906,12 +3896,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1045052.png",
     "url": "https://yerevan-city.am/shop/product-details/9656",
     "key": "Yerevan City|id:9656|860|590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ափսե «ԻքսՅՑ» բեժ կլոր 26սմ 1հտ ՀՖ161-1",
+    "old": 850,
+    "new": 490,
+    "pct": 42,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177653.png",
+    "url": "https://yerevan-city.am/shop/product-details/193890",
+    "key": "Yerevan City|id:193890|850|490"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-02T22:15:36.056814+04:00",
+ "last_publish": "2026-11-02T22:30:43.779342+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
