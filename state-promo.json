@@ -1677,23 +1677,13 @@
    "Yerevan City|id:29893|1040|660",
    "Yerevan City|id:98774|1040|660",
    "Yerevan City|id:22153|1030|770",
-   "Yerevan City|id:5607|1030|790"
+   "Yerevan City|id:5607|1030|790",
+   "Yerevan City|id:75722|1030|870"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Շամպուն «Պանտին Պրո-Վ» պաշտ.մոլեկ.մակարդ. 250մլ",
-    "old": 2270,
-    "new": 2040,
-    "pct": 10,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1157822.png",
-    "url": "https://yerevan-city.am/shop/product-details/160143",
-    "key": "Yerevan City|id:160143|2270|2040"
-   },
    {
     "store": "Yerevan City",
     "title": "Շամպուն «Պանտին Պրո-Վ» խոնավացում և փայլ 250մլ",
@@ -3871,12 +3861,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1067985.png",
     "url": "https://yerevan-city.am/shop/product-details/5607",
     "key": "Yerevan City|id:5607|1030|790"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ձիթապտուղ կանաչ «Բոնդյուել» կիտրոնով 300գր",
+    "old": 1030,
+    "new": 870,
+    "pct": 16,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1118694.png",
+    "url": "https://yerevan-city.am/shop/product-details/75722",
+    "key": "Yerevan City|id:75722|1030|870"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-02T13:30:44.112985+04:00",
+ "last_publish": "2026-11-02T13:45:42.128310+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
