@@ -1693,23 +1693,13 @@
    "Yerevan City|id:171723|990|790",
    "Yerevan City|id:132755|1050|880",
    "Yerevan City|id:176323|1050|760",
-   "Yerevan City|id:192126|1050|790"
+   "Yerevan City|id:192126|1050|790",
+   "Yerevan City|id:171787|990|495"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Շամպուն «Գլիսս Կուր» փարթամ և ամուր 400մլ",
-    "old": 2250,
-    "new": 2050,
-    "pct": 9,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1162927.png",
-    "url": "https://yerevan-city.am/shop/product-details/167553",
-    "key": "Yerevan City|id:167553|2250|2050"
-   },
    {
     "store": "Yerevan City",
     "title": "Զուգարանակոնքի թարմաց. «Բրեֆ» 4ը 1մ, կիտր. 3x50գ",
@@ -3887,12 +3877,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175851.png",
     "url": "https://yerevan-city.am/shop/product-details/192126",
     "key": "Yerevan City|id:192126|1050|790"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կիտրոն տրորած շաքարով «Կուբանոչկա» 500գր",
+    "old": 990,
+    "new": 495,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1165339.png",
+    "url": "https://yerevan-city.am/shop/product-details/171787",
+    "key": "Yerevan City|id:171787|990|495"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-02T17:30:44.131717+04:00",
+ "last_publish": "2026-11-02T17:45:39.466065+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
