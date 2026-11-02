@@ -1657,23 +1657,13 @@
    "Yerevan City|id:13133|860|670",
    "Yerevan City|id:15249|860|720",
    "Yerevan City|id:18169|860|650",
-   "Yerevan City|id:18174|860|650"
+   "Yerevan City|id:18174|860|650",
+   "Yerevan City|id:23586|860|650"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Լաթ մանրաթելային «Սոլինգեն» 55x35սմ 3հտ",
-    "old": 2590,
-    "new": 1390,
-    "pct": 46,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174537.png",
-    "url": "https://yerevan-city.am/shop/product-details/180803",
-    "key": "Yerevan City|id:180803|2590|1390"
-   },
    {
     "store": "Yerevan City",
     "title": "Սուրճ լուծվող «Նեսկաֆե» դասական 130գր",
@@ -3851,12 +3841,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1081585.png",
     "url": "https://yerevan-city.am/shop/product-details/18174",
     "key": "Yerevan City|id:18174|860|650"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թխվածքաբլիթ «Բելվիտա» բազմահատիկային 225գր",
+    "old": 860,
+    "new": 650,
+    "pct": 24,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1081586.png",
+    "url": "https://yerevan-city.am/shop/product-details/23586",
+    "key": "Yerevan City|id:23586|860|650"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-02T08:30:42.511369+04:00",
+ "last_publish": "2026-11-02T08:45:30.623755+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
