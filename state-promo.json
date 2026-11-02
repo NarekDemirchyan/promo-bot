@@ -1658,23 +1658,13 @@
    "Yerevan City|id:15249|860|720",
    "Yerevan City|id:18169|860|650",
    "Yerevan City|id:18174|860|650",
-   "Yerevan City|id:23586|860|650"
+   "Yerevan City|id:23586|860|650",
+   "Yerevan City|id:191754|860|600"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Սուրճ լուծվող «Նեսկաֆե» դասական 130գր",
-    "old": 2580,
-    "new": 1860,
-    "pct": 28,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1093384.png",
-    "url": "https://yerevan-city.am/shop/product-details/15953",
-    "key": "Yerevan City|id:15953|2580|1860"
-   },
    {
     "store": "Yerevan City",
     "title": "Սարդելկա բնական թաղանթով «Բեկոն» կգ",
@@ -3852,12 +3842,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1081586.png",
     "url": "https://yerevan-city.am/shop/product-details/23586",
     "key": "Yerevan City|id:23586|860|650"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Խաղալիք «Կարի մեքենա»",
+    "old": 860,
+    "new": 600,
+    "pct": 30,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175479.png",
+    "url": "https://yerevan-city.am/shop/product-details/191754",
+    "key": "Yerevan City|id:191754|860|600"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-02T08:45:30.623755+04:00",
+ "last_publish": "2026-11-02T09:00:49.925486+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
