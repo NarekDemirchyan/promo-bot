@@ -1675,23 +1675,13 @@
    "Yerevan City|id:7638|1040|890",
    "Yerevan City|id:8102|1040|660",
    "Yerevan City|id:29893|1040|660",
-   "Yerevan City|id:98774|1040|660"
+   "Yerevan City|id:98774|1040|660",
+   "Yerevan City|id:22153|1030|770"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Շոկոլադե կոնֆետներ «Ռոշեն» Շոկո Լապկի կգ",
-    "old": 2280,
-    "new": 1960,
-    "pct": 14,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1044866.png",
-    "url": "https://yerevan-city.am/shop/product-details/7884",
-    "key": "Yerevan City|id:7884|2280|1960"
-   },
    {
     "store": "Yerevan City",
     "title": "Մարտկոց «Դյուրասելլ» 9Վ 1հտ",
@@ -3869,12 +3859,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1134230.png",
     "url": "https://yerevan-city.am/shop/product-details/98774",
     "key": "Yerevan City|id:98774|1040|660"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գարեջուր «Կրոմբախեր» Փիլս թ/տ 0.5լ",
+    "old": 1030,
+    "new": 770,
+    "pct": 25,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1046915.png",
+    "url": "https://yerevan-city.am/shop/product-details/22153",
+    "key": "Yerevan City|id:22153|1030|770"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-02T13:00:49.035702+04:00",
+ "last_publish": "2026-11-02T13:15:44.521451+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
