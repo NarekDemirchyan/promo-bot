@@ -1691,23 +1691,13 @@
    "Yerevan City|id:112678|990|590",
    "Yerevan City|id:157816|990|690",
    "Yerevan City|id:171723|990|790",
-   "Yerevan City|id:132755|1050|880"
+   "Yerevan City|id:132755|1050|880",
+   "Yerevan City|id:176323|1050|760"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Շամպուն «Գլիսս Կուր» Ակվա Միրեյքլ հիալուրոն 400մ",
-    "old": 2250,
-    "new": 2050,
-    "pct": 9,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1124738.png",
-    "url": "https://yerevan-city.am/shop/product-details/86932",
-    "key": "Yerevan City|id:86932|2250|2050"
-   },
    {
     "store": "Yerevan City",
     "title": "Շամպուն «Գլիսս Կուր» վերջ ճյուղավ. ծայրերին 400մ",
@@ -3885,12 +3875,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1152171.png",
     "url": "https://yerevan-city.am/shop/product-details/132755",
     "key": "Yerevan City|id:132755|1050|880"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թխվածքաբլիթ «Բերգեն» շոկոլադ ա/շ 128գր",
+    "old": 1050,
+    "new": 760,
+    "pct": 28,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169953.png",
+    "url": "https://yerevan-city.am/shop/product-details/176323",
+    "key": "Yerevan City|id:176323|1050|760"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-02T17:00:55.371036+04:00",
+ "last_publish": "2026-11-02T17:15:50.374467+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
