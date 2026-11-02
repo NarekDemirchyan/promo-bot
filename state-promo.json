@@ -1701,23 +1701,13 @@
    "Yerevan City|id:174339|990|790",
    "Yerevan City|id:11949|960|780",
    "Yerevan City|id:51253|960|780",
-   "Yerevan City|id:180226|950|475"
+   "Yerevan City|id:180226|950|475",
+   "Yerevan City|id:90894|950|730"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Սոուս «Ամերիքան Գարդեն» բարբեքյու, չիլի ա/գ 510գր",
-    "old": 2230,
-    "new": 1760,
-    "pct": 21,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176005.png",
-    "url": "https://yerevan-city.am/shop/product-details/192273",
-    "key": "Yerevan City|id:192273|2230|1760"
-   },
    {
     "store": "Yerevan City",
     "title": "Ջեմ «Անուշ» ազնվամորու 900գր",
@@ -3895,12 +3885,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173955.png",
     "url": "https://yerevan-city.am/shop/product-details/180226",
     "key": "Yerevan City|id:180226|950|475"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ծեփոն «Պոնի» դույլով և կաղապարով 10գույն",
+    "old": 950,
+    "new": 730,
+    "pct": 23,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1127873.png",
+    "url": "https://yerevan-city.am/shop/product-details/90894",
+    "key": "Yerevan City|id:90894|950|730"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-02T19:30:47.851549+04:00",
+ "last_publish": "2026-11-02T19:45:34.145888+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
@@ -3909,7 +3910,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 33,
+ "city_page": 34,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
