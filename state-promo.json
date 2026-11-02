@@ -1671,23 +1671,13 @@
    "Yerevan City|id:193888|850|550",
    "Yerevan City|id:193889|850|490",
    "Yerevan City|id:6560|1050|910",
-   "Yerevan City|id:181358|1040|840"
+   "Yerevan City|id:181358|1040|840",
+   "Yerevan City|id:7638|1040|890"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Սուրճի պատիճ «Յակոբս» Էսպրեսսո, Ինտենսո 10 52գր",
-    "old": 2290,
-    "new": 1450,
-    "pct": 37,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1140130.png",
-    "url": "https://yerevan-city.am/shop/product-details/107231",
-    "key": "Yerevan City|id:107231|2290|1450"
-   },
    {
     "store": "Yerevan City",
     "title": "Սուրճի պատիճ «Յակոբս» Էսպրեսսո, դասական 7 52գր",
@@ -3865,12 +3855,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175070.png",
     "url": "https://yerevan-city.am/shop/product-details/181358",
     "key": "Yerevan City|id:181358|1040|840"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սոուս աղցանի «Կյուհնե» հազար կղզի 250մլ",
+    "old": 1040,
+    "new": 890,
+    "pct": 14,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1055456.png",
+    "url": "https://yerevan-city.am/shop/product-details/7638",
+    "key": "Yerevan City|id:7638|1040|890"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-02T12:00:54.767272+04:00",
+ "last_publish": "2026-11-02T12:15:30.538003+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
