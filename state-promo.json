@@ -1685,23 +1685,13 @@
    "Yerevan City|id:17283|1020|790",
    "Yerevan City|id:4062|1020|950",
    "Yerevan City|id:14616|1020|950",
-   "Yerevan City|id:16140|990|790"
+   "Yerevan City|id:16140|990|790",
+   "Yerevan City|id:76532|990|790"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Գրիչներ գելային «Բերլինգո» 10գույն",
-    "old": 2250,
-    "new": 1290,
-    "pct": 43,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1112904.png",
-    "url": "https://yerevan-city.am/shop/product-details/67589",
-    "key": "Yerevan City|id:67589|2250|1290"
-   },
    {
     "store": "Yerevan City",
     "title": "Շամպուն «Գլիսս Կուր» հեղուկ մետաքս 400մլ",
@@ -3879,12 +3869,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1043132.png",
     "url": "https://yerevan-city.am/shop/product-details/16140",
     "key": "Yerevan City|id:16140|990|790"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ելակ սառեցված «Պլանետա վիտամինով» 300գր",
+    "old": 990,
+    "new": 790,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1119043.png",
+    "url": "https://yerevan-city.am/shop/product-details/76532",
+    "key": "Yerevan City|id:76532|990|790"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-02T15:30:46.488703+04:00",
+ "last_publish": "2026-11-02T15:45:35.928481+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
