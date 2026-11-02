@@ -1664,23 +1664,13 @@
    "Yerevan City|id:176448|850|510",
    "Yerevan City|id:178846|850|490",
    "Yerevan City|id:178854|850|490",
-   "Yerevan City|id:178913|850|450"
+   "Yerevan City|id:178913|850|450",
+   "Yerevan City|id:192128|850|590"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Տորթ «Անահիտ քեյքս» կարամելային 900գր",
-    "old": 2490,
-    "new": 2250,
-    "pct": 10,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1084070.png",
-    "url": "https://yerevan-city.am/shop/product-details/25828",
-    "key": "Yerevan City|id:25828|2490|2250"
-   },
    {
     "store": "Yerevan City",
     "title": "Դրաժե «Տիկ-Տակ» ելակի խառնուրդ 98գր",
@@ -3858,12 +3848,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172614.png",
     "url": "https://yerevan-city.am/shop/product-details/178913",
     "key": "Yerevan City|id:178913|850|450"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Խաղալիք «Կապիկ» թելով",
+    "old": 850,
+    "new": 590,
+    "pct": 31,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175853.png",
+    "url": "https://yerevan-city.am/shop/product-details/192128",
+    "key": "Yerevan City|id:192128|850|590"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-02T10:15:34.810453+04:00",
+ "last_publish": "2026-11-02T10:30:42.921433+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
