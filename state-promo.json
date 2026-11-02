@@ -1639,23 +1639,13 @@
    "Yerevan City|id:133759|990|650",
    "Yerevan City|id:96877|950|880",
    "Yerevan City|id:69575|950|790",
-   "Yerevan City|id:83441|890|445"
+   "Yerevan City|id:83441|890|445",
+   "Yerevan City|id:132217|890|545"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Ծովատառեխի ֆիլե, սամիթով «ՍԲ» Մորյաչոկ 500գր",
-    "old": 2650,
-    "new": 2180,
-    "pct": 18,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1076455.png",
-    "url": "https://yerevan-city.am/shop/product-details/50935",
-    "key": "Yerevan City|id:50935|2650|2180"
-   },
    {
     "store": "Yerevan City",
     "title": "Դեմքի քսուք «Աեվիտ» սնուցող, ցերեկային 50մլ",
@@ -3833,12 +3823,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1123487.png",
     "url": "https://yerevan-city.am/shop/product-details/83441",
     "key": "Yerevan City|id:83441|890|445"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մայոնեզային սոուս «Մախեև» պրովանսալ 40% 630գր",
+    "old": 890,
+    "new": 545,
+    "pct": 39,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1151723.png",
+    "url": "https://yerevan-city.am/shop/product-details/132217",
+    "key": "Yerevan City|id:132217|890|545"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-02T04:00:50.837229+04:00",
+ "last_publish": "2026-11-02T04:15:32.606097+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
