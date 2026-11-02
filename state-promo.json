@@ -1696,23 +1696,13 @@
    "Yerevan City|id:192126|1050|790",
    "Yerevan City|id:171787|990|495",
    "Yerevan City|id:192191|990|495",
-   "Yerevan City|id:192499|990|682"
+   "Yerevan City|id:192499|990|682",
+   "Yerevan City|id:192500|990|682"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Լոգանքի գել-քսուք «Դավ» վարունգ կանաչ թեյ 500մլ",
-    "old": 2290,
-    "new": 1340,
-    "pct": 41,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1158687.png",
-    "url": "https://yerevan-city.am/shop/product-details/161050",
-    "key": "Yerevan City|id:161050|2290|1340"
-   },
    {
     "store": "Yerevan City",
     "title": "Տիկնիկ «Լիթլ Միլի» 91033-Հ",
@@ -3890,12 +3880,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176227.png",
     "url": "https://yerevan-city.am/shop/product-details/192499",
     "key": "Yerevan City|id:192499|990|682"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Բատոնչիկ պրոտ. «Ռեքս» կոկոս ա/շ 50գր",
+    "old": 990,
+    "new": 682,
+    "pct": 31,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176228.png",
+    "url": "https://yerevan-city.am/shop/product-details/192500",
+    "key": "Yerevan City|id:192500|990|682"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-02T18:15:44.744030+04:00",
+ "last_publish": "2026-11-02T18:30:43.014629+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
