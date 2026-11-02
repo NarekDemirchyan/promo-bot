@@ -1673,23 +1673,13 @@
    "Yerevan City|id:6560|1050|910",
    "Yerevan City|id:181358|1040|840",
    "Yerevan City|id:7638|1040|890",
-   "Yerevan City|id:8102|1040|660"
+   "Yerevan City|id:8102|1040|660",
+   "Yerevan City|id:29893|1040|660"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Տորթի աման ոտիկով «Իսֆահան» Բեռլին 29.5սմ 882",
-    "old": 2290,
-    "new": 1550,
-    "pct": 32,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1163431.png",
-    "url": "https://yerevan-city.am/shop/product-details/169666",
-    "key": "Yerevan City|id:169666|2290|1550"
-   },
    {
     "store": "Yerevan City",
     "title": "Մրգաման «Իսֆահան» Բեռլին 28.6սմ 983",
@@ -3867,12 +3857,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1035813.png",
     "url": "https://yerevan-city.am/shop/product-details/8102",
     "key": "Yerevan City|id:8102|1040|660"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սպասք լվանալու հեղուկ «Ֆրոշ» հալվե 500մլ",
+    "old": 1040,
+    "new": 660,
+    "pct": 37,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1021136.png",
+    "url": "https://yerevan-city.am/shop/product-details/29893",
+    "key": "Yerevan City|id:29893|1040|660"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-02T12:30:40.981510+04:00",
+ "last_publish": "2026-11-02T12:45:31.245670+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
