@@ -1796,22 +1796,12 @@
    "Yerevan City|id:178880|1350|750",
    "Yerevan City|id:192153|1350|990",
    "Yerevan City|id:195068|1350|890",
-   "Yerevan City|id:10241|1370|1140"
+   "Yerevan City|id:10241|1370|1140",
+   "Yerevan City|id:5852|1350|890"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կաթ առանց լակտոզայի «Parmalat» 1լ, յուղայնությունը՝ 3.5",
-    "old": 1600,
-    "new": 1520,
-    "pct": 5,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/moloko/3436/",
-    "key": "SAS|id:3436|1600|1520"
-   },
    {
     "store": "SAS",
     "title": "Կաթնային ըմպելիք բարձր սպիտակուցային «Parmalat Protein» 1լ",
@@ -4717,12 +4707,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1018409.png",
     "url": "https://yerevan-city.am/shop/product-details/10241",
     "key": "Yerevan City|id:10241|1370|1140"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Պանիր հալած «Պրեզիդենտ» խոզապուխտով 200գր",
+    "old": 1350,
+    "new": 890,
+    "pct": 34,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1053598.png",
+    "url": "https://yerevan-city.am/shop/product-details/5852",
+    "key": "Yerevan City|id:5852|1350|890"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-03T03:01:23.006504+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-03T03:16:05.628611+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
