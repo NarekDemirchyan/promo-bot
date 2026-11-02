@@ -1699,23 +1699,13 @@
    "Yerevan City|id:192499|990|682",
    "Yerevan City|id:192500|990|682",
    "Yerevan City|id:174339|990|790",
-   "Yerevan City|id:11949|960|780"
+   "Yerevan City|id:11949|960|780",
+   "Yerevan City|id:51253|960|780"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Սոուս «Սակլա» պեստո, համեմով 190գր",
-    "old": 2240,
-    "new": 1120,
-    "pct": 50,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1166618.png",
-    "url": "https://yerevan-city.am/shop/product-details/173032",
-    "key": "Yerevan City|id:173032|2240|1120"
-   },
    {
     "store": "Yerevan City",
     "title": "Սուրճ լուծվող «Նեսկաֆե» Գոլդ 70գր",
@@ -3893,12 +3883,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1097482.png",
     "url": "https://yerevan-city.am/shop/product-details/11949",
     "key": "Yerevan City|id:11949|960|780"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Խտացրած կաթ «Ալեքսեևսկոյե» եփած 8.5% թ/տ 360գր",
+    "old": 960,
+    "new": 780,
+    "pct": 19,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1106897.png",
+    "url": "https://yerevan-city.am/shop/product-details/51253",
+    "key": "Yerevan City|id:51253|960|780"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-02T19:01:03.986082+04:00",
+ "last_publish": "2026-11-02T19:15:34.122842+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
