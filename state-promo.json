@@ -1672,23 +1672,13 @@
    "Yerevan City|id:193889|850|490",
    "Yerevan City|id:6560|1050|910",
    "Yerevan City|id:181358|1040|840",
-   "Yerevan City|id:7638|1040|890"
+   "Yerevan City|id:7638|1040|890",
+   "Yerevan City|id:8102|1040|660"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Սուրճի պատիճ «Յակոբս» Էսպրեսսո, դասական 7 52գր",
-    "old": 2290,
-    "new": 1450,
-    "pct": 37,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1140131.png",
-    "url": "https://yerevan-city.am/shop/product-details/107232",
-    "key": "Yerevan City|id:107232|2290|1450"
-   },
    {
     "store": "Yerevan City",
     "title": "Տորթի աման ոտիկով «Իսֆահան» Բեռլին 29.5սմ 882",
@@ -3866,12 +3856,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1055456.png",
     "url": "https://yerevan-city.am/shop/product-details/7638",
     "key": "Yerevan City|id:7638|1040|890"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սպասք լվանալու բալզամ «Ֆրոշ» կիտրոն 500մլ",
+    "old": 1040,
+    "new": 660,
+    "pct": 37,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1035813.png",
+    "url": "https://yerevan-city.am/shop/product-details/8102",
+    "key": "Yerevan City|id:8102|1040|660"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-02T12:15:30.538003+04:00",
+ "last_publish": "2026-11-02T12:30:40.981510+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
