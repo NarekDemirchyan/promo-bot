@@ -1644,23 +1644,13 @@
    "Yerevan City|id:173683|890|760",
    "Yerevan City|id:180337|890|590",
    "Yerevan City|id:172384|890|490",
-   "Yerevan City|id:172525|890|540"
+   "Yerevan City|id:172525|890|540",
+   "Yerevan City|id:172986|890|490"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Լվացքի գել «Սանո» Մաքսիմա, միքս էնդ վոշ 1լ",
-    "old": 2590,
-    "new": 780,
-    "pct": 70,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1114995.png",
-    "url": "https://yerevan-city.am/shop/product-details/71560",
-    "key": "Yerevan City|id:71560|2590|780"
-   },
    {
     "store": "Yerevan City",
     "title": "Մրգաման «Սակուրա» Պիանո 23.5սմ ՍԿ127",
@@ -3838,12 +3828,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1166105.png",
     "url": "https://yerevan-city.am/shop/product-details/172525",
     "key": "Yerevan City|id:172525|890|540"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Խոզանակ խմորի համար «Դեննի Հոմ» սիլ.-փայտ ԴՀ0746",
+    "old": 890,
+    "new": 490,
+    "pct": 45,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1166567.png",
+    "url": "https://yerevan-city.am/shop/product-details/172986",
+    "key": "Yerevan City|id:172986|890|490"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-02T05:15:32.040777+04:00",
+ "last_publish": "2026-11-02T05:30:43.520793+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
