@@ -1692,23 +1692,13 @@
    "Yerevan City|id:157816|990|690",
    "Yerevan City|id:171723|990|790",
    "Yerevan City|id:132755|1050|880",
-   "Yerevan City|id:176323|1050|760"
+   "Yerevan City|id:176323|1050|760",
+   "Yerevan City|id:192126|1050|790"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Շամպուն «Գլիսս Կուր» վերջ ճյուղավ. ծայրերին 400մ",
-    "old": 2250,
-    "new": 2050,
-    "pct": 9,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1154557.png",
-    "url": "https://yerevan-city.am/shop/product-details/155135",
-    "key": "Yerevan City|id:155135|2250|2050"
-   },
    {
     "store": "Yerevan City",
     "title": "Շամպուն «Գլիսս Կուր» փարթամ և ամուր 400մլ",
@@ -3886,12 +3876,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169953.png",
     "url": "https://yerevan-city.am/shop/product-details/176323",
     "key": "Yerevan City|id:176323|1050|760"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Փուչիկ բազմերանգ պոմպերով",
+    "old": 1050,
+    "new": 790,
+    "pct": 25,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175851.png",
+    "url": "https://yerevan-city.am/shop/product-details/192126",
+    "key": "Yerevan City|id:192126|1050|790"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-02T17:15:50.374467+04:00",
+ "last_publish": "2026-11-02T17:30:44.131717+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
@@ -3900,7 +3901,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 31,
+ "city_page": 32,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
