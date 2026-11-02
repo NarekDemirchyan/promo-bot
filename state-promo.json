@@ -1681,23 +1681,13 @@
    "Yerevan City|id:75722|1030|870",
    "Yerevan City|id:75712|1030|870",
    "Yerevan City|id:75719|1030|870",
-   "Yerevan City|id:75721|1030|870"
+   "Yerevan City|id:75721|1030|870",
+   "Yerevan City|id:17283|1020|790"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Ատամի խոզանակ «Սիլվեր Քեյր» զգայուն հակաբակտերիալ",
-    "old": 2260,
-    "new": 1770,
-    "pct": 22,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1134367.png",
-    "url": "https://yerevan-city.am/shop/product-details/98916",
-    "key": "Yerevan City|id:98916|2260|1770"
-   },
    {
     "store": "Yerevan City",
     "title": "Կոնֆետների հավաքածու «Մարկ Սևունի» Լաունջ 140գր",
@@ -3875,12 +3865,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1118691.png",
     "url": "https://yerevan-city.am/shop/product-details/75721",
     "key": "Yerevan City|id:75721|1030|870"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Քացախ «Պոնտի» կարմիր խաղողի 6% 500մլ",
+    "old": 1020,
+    "new": 790,
+    "pct": 23,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1037874.png",
+    "url": "https://yerevan-city.am/shop/product-details/17283",
+    "key": "Yerevan City|id:17283|1020|790"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-02T14:30:51.022732+04:00",
+ "last_publish": "2026-11-02T14:45:30.558816+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
