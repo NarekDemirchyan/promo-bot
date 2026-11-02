@@ -1690,23 +1690,13 @@
    "Yerevan City|id:76537|990|790",
    "Yerevan City|id:112678|990|590",
    "Yerevan City|id:157816|990|690",
-   "Yerevan City|id:171723|990|790"
+   "Yerevan City|id:171723|990|790",
+   "Yerevan City|id:132755|1050|880"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Շամպուն «Գլիսս Կուր» Օիլ Նուտրեյթիվ սնուցում400մ",
-    "old": 2250,
-    "new": 2050,
-    "pct": 9,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1124736.png",
-    "url": "https://yerevan-city.am/shop/product-details/86930",
-    "key": "Yerevan City|id:86930|2250|2050"
-   },
    {
     "store": "Yerevan City",
     "title": "Շամպուն «Գլիսս Կուր» Ակվա Միրեյքլ հիալուրոն 400մ",
@@ -3884,12 +3874,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1165276.png",
     "url": "https://yerevan-city.am/shop/product-details/171723",
     "key": "Yerevan City|id:171723|990|790"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Պանիր հալած «Վալիո» չիզբուրգեր 8կտոր 150գր",
+    "old": 1050,
+    "new": 880,
+    "pct": 16,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1152171.png",
+    "url": "https://yerevan-city.am/shop/product-details/132755",
+    "key": "Yerevan City|id:132755|1050|880"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-02T16:45:31.758194+04:00",
+ "last_publish": "2026-11-02T17:00:55.371036+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
