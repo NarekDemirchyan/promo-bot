@@ -1645,23 +1645,13 @@
    "Yerevan City|id:180337|890|590",
    "Yerevan City|id:172384|890|490",
    "Yerevan City|id:172525|890|540",
-   "Yerevan City|id:172986|890|490"
+   "Yerevan City|id:172986|890|490",
+   "Yerevan City|id:177261|890|530"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Մրգաման «Սակուրա» Պիանո 23.5սմ ՍԿ127",
-    "old": 2590,
-    "new": 1250,
-    "pct": 52,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1166832.png",
-    "url": "https://yerevan-city.am/shop/product-details/173243",
-    "key": "Yerevan City|id:173243|2590|1250"
-   },
    {
     "store": "Yerevan City",
     "title": "Դդմի սերմեր մաքրած կգ",
@@ -3839,12 +3829,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1166567.png",
     "url": "https://yerevan-city.am/shop/product-details/172986",
     "key": "Yerevan City|id:172986|890|490"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տիկնիկ «Ֆեյշն» 213-Բ10",
+    "old": 890,
+    "new": 530,
+    "pct": 40,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170906.png",
+    "url": "https://yerevan-city.am/shop/product-details/177261",
+    "key": "Yerevan City|id:177261|890|530"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-02T05:30:43.520793+04:00",
+ "last_publish": "2026-11-02T05:45:30.889383+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
