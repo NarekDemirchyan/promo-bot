@@ -1716,23 +1716,13 @@
    "Yerevan City|id:193890|850|490",
    "Yerevan City|id:193894|850|490",
    "Yerevan City|id:176685|850|690",
-   "Yerevan City|id:176686|850|690"
+   "Yerevan City|id:176686|850|690",
+   "Yerevan City|id:4013|850|790"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Սավան ձգվող մեկտ․ 90x200 62378-10-3",
-    "old": 2190,
-    "new": 1490,
-    "pct": 32,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177562.png",
-    "url": "https://yerevan-city.am/shop/product-details/193795",
-    "key": "Yerevan City|id:193795|2190|1490"
-   },
    {
     "store": "Yerevan City",
     "title": "Խաղ-ջոյսթիք 0119Դ",
@@ -3910,12 +3900,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170322.png",
     "url": "https://yerevan-city.am/shop/product-details/176686",
     "key": "Yerevan City|id:176686|850|690"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հեղուկ օճառ «Փալմոլիվ» մակադամիայի յուղ 300մլ",
+    "old": 850,
+    "new": 790,
+    "pct": 7,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1087953.png",
+    "url": "https://yerevan-city.am/shop/product-details/4013",
+    "key": "Yerevan City|id:4013|850|790"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-02T23:15:31.621560+04:00",
+ "last_publish": "2026-11-02T23:30:43.418107+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
