@@ -1653,23 +1653,13 @@
    "Yerevan City|id:83853|860|720",
    "Yerevan City|id:99357|860|670",
    "Yerevan City|id:75725|860|720",
-   "Yerevan City|id:75727|860|720"
+   "Yerevan City|id:75727|860|720",
+   "Yerevan City|id:13133|860|670"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Կառք ձիով և տիկնիկով 8899-111",
-    "old": 2590,
-    "new": 1550,
-    "pct": 40,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1160876.png",
-    "url": "https://yerevan-city.am/shop/product-details/165145",
-    "key": "Yerevan City|id:165145|2590|1550"
-   },
    {
     "store": "Yerevan City",
     "title": "Տիկնիկ Թելենա 89069Ա",
@@ -3847,12 +3837,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1118697.png",
     "url": "https://yerevan-city.am/shop/product-details/75727",
     "key": "Yerevan City|id:75727|860|720"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սուրճ աղացած «Յակոբս» Մոնարխ 80գր",
+    "old": 860,
+    "new": 670,
+    "pct": 22,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1075374.png",
+    "url": "https://yerevan-city.am/shop/product-details/13133",
+    "key": "Yerevan City|id:13133|860|670"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-02T07:30:42.204006+04:00",
+ "last_publish": "2026-11-02T07:45:29.789584+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
