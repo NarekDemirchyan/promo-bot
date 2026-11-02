@@ -1674,7 +1674,8 @@
    "Yerevan City|id:181358|1040|840",
    "Yerevan City|id:7638|1040|890",
    "Yerevan City|id:8102|1040|660",
-   "Yerevan City|id:29893|1040|660"
+   "Yerevan City|id:29893|1040|660",
+   "Yerevan City|id:98774|1040|660"
   ]
  },
  "queues": {
@@ -3868,6 +3869,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1021136.png",
     "url": "https://yerevan-city.am/shop/product-details/29893",
     "key": "Yerevan City|id:29893|1040|660"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սպասք լվանալու գել «Ֆրոշ» ազնվամորի 500մլ",
+    "old": 1040,
+    "new": 660,
+    "pct": 37,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1134230.png",
+    "url": "https://yerevan-city.am/shop/product-details/98774",
+    "key": "Yerevan City|id:98774|1040|660"
    }
   ]
  },
