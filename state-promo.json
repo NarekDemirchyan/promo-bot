@@ -1711,23 +1711,13 @@
    "Yerevan City|id:161260|890|590",
    "Yerevan City|id:194839|890|560",
    "Yerevan City|id:178910|860|640",
-   "Yerevan City|id:178909|860|640"
+   "Yerevan City|id:178909|860|640",
+   "Yerevan City|id:9656|860|590"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Ատամի խոզանակ «Պիավե» Ինտենսիվ Սպիտակ 3հտ",
-    "old": 2190,
-    "new": 1770,
-    "pct": 19,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1058620.png",
-    "url": "https://yerevan-city.am/shop/product-details/5682",
-    "key": "Yerevan City|id:5682|2190|1770"
-   },
    {
     "store": "Yerevan City",
     "title": "Պանիր պարմիջանո ռեջանո «Ֆեռարինի» թերթիկներ 80գր",
@@ -3905,12 +3895,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172610.png",
     "url": "https://yerevan-city.am/shop/product-details/178909",
     "key": "Yerevan City|id:178909|860|640"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Բիսքվիթ «Բարնի» արջուկ, կաթնային միջ. 5հտ 30գր",
+    "old": 860,
+    "new": 590,
+    "pct": 31,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1045052.png",
+    "url": "https://yerevan-city.am/shop/product-details/9656",
+    "key": "Yerevan City|id:9656|860|590"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-02T22:00:48.740452+04:00",
+ "last_publish": "2026-11-02T22:15:36.056814+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
