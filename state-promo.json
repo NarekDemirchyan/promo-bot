@@ -1649,23 +1649,13 @@
    "Yerevan City|id:177261|890|530",
    "Yerevan City|id:191570|875|690",
    "Yerevan City|id:11591|870|790",
-   "Yerevan City|id:4129|870|560"
+   "Yerevan City|id:4129|870|560",
+   "Yerevan City|id:83853|860|720"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Պանիր «Դաիլի Դաիրի» Ամանտի կանաչ պեստո 50% 200գր",
-    "old": 2590,
-    "new": 690,
-    "pct": 73,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1144544.png",
-    "url": "https://yerevan-city.am/shop/product-details/114359",
-    "key": "Yerevan City|id:114359|2590|690"
-   },
    {
     "store": "Yerevan City",
     "title": "Գրաֆին գծավոր, դեղին 1.1լ",
@@ -3843,12 +3833,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1019450.png",
     "url": "https://yerevan-city.am/shop/product-details/4129",
     "key": "Yerevan City|id:4129|870|560"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կանաչ ոլոռ «Բոնդյուել» ա/տ 580մլ",
+    "old": 860,
+    "new": 720,
+    "pct": 16,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1061287.png",
+    "url": "https://yerevan-city.am/shop/product-details/83853",
+    "key": "Yerevan City|id:83853|860|720"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-02T06:30:40.382197+04:00",
+ "last_publish": "2026-11-02T06:45:30.837700+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
