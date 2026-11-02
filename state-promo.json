@@ -1642,23 +1642,13 @@
    "Yerevan City|id:83441|890|445",
    "Yerevan City|id:132217|890|545",
    "Yerevan City|id:173683|890|760",
-   "Yerevan City|id:180337|890|590"
+   "Yerevan City|id:180337|890|590",
+   "Yerevan City|id:172384|890|490"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Փրփրուն գինի «Երևան» Բրուտ 0.75լ",
-    "old": 2600,
-    "new": 2390,
-    "pct": 8,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1073940.png",
-    "url": "https://yerevan-city.am/shop/product-details/7813",
-    "key": "Yerevan City|id:7813|2600|2390"
-   },
    {
     "store": "Yerevan City",
     "title": "Երշիկ եփած-ապխտած Գյումրի «Մոյա Սեմյա» կգ",
@@ -3836,12 +3826,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174066.png",
     "url": "https://yerevan-city.am/shop/product-details/180337",
     "key": "Yerevan City|id:180337|890|590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գրչատուփ մետաղական գրենական պիտույքներով 529",
+    "old": 890,
+    "new": 490,
+    "pct": 45,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1165961.png",
+    "url": "https://yerevan-city.am/shop/product-details/172384",
+    "key": "Yerevan City|id:172384|890|490"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-02T04:45:37.526422+04:00",
+ "last_publish": "2026-11-02T05:00:45.935846+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
