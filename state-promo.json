@@ -1643,23 +1643,13 @@
    "Yerevan City|id:132217|890|545",
    "Yerevan City|id:173683|890|760",
    "Yerevan City|id:180337|890|590",
-   "Yerevan City|id:172384|890|490"
+   "Yerevan City|id:172384|890|490",
+   "Yerevan City|id:172525|890|540"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Երշիկ եփած-ապխտած Գյումրի «Մոյա Սեմյա» կգ",
-    "old": 2590,
-    "new": 2130,
-    "pct": 18,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1038210.png",
-    "url": "https://yerevan-city.am/shop/product-details/51796",
-    "key": "Yerevan City|id:51796|2590|2130"
-   },
    {
     "store": "Yerevan City",
     "title": "Լվացքի գել «Սանո» Մաքսիմա, միքս էնդ վոշ 1լ",
@@ -3837,12 +3827,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1165961.png",
     "url": "https://yerevan-city.am/shop/product-details/172384",
     "key": "Yerevan City|id:172384|890|490"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Քերիչ «Դեննի Հոմ» 4 կողմանի ներժ ԴՀ3665",
+    "old": 890,
+    "new": 540,
+    "pct": 39,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1166105.png",
+    "url": "https://yerevan-city.am/shop/product-details/172525",
+    "key": "Yerevan City|id:172525|890|540"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-02T05:00:45.935846+04:00",
+ "last_publish": "2026-11-02T05:15:32.040777+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
