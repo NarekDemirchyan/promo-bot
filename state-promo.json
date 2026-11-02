@@ -1679,23 +1679,13 @@
    "Yerevan City|id:22153|1030|770",
    "Yerevan City|id:5607|1030|790",
    "Yerevan City|id:75722|1030|870",
-   "Yerevan City|id:75712|1030|870"
+   "Yerevan City|id:75712|1030|870",
+   "Yerevan City|id:75719|1030|870"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Սինյուգա սիրողական «Միթ Ֆուդ» արհ.թաղանթով կգ",
-    "old": 2270,
-    "new": 1820,
-    "pct": 20,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1103135.png",
-    "url": "https://yerevan-city.am/shop/product-details/23387",
-    "key": "Yerevan City|id:23387|2270|1820"
-   },
    {
     "store": "Yerevan City",
     "title": "Սինյուգա բժշկական «Միթ Ֆուդ» արհ.թաղանթով կգ",
@@ -3873,12 +3863,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1118689.png",
     "url": "https://yerevan-city.am/shop/product-details/75712",
     "key": "Yerevan City|id:75712|1030|870"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ձիթապտուղ կանաչ «Բոնդյուել» կարմիր պղպեղով 300գր",
+    "old": 1030,
+    "new": 870,
+    "pct": 16,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1118686.png",
+    "url": "https://yerevan-city.am/shop/product-details/75719",
+    "key": "Yerevan City|id:75719|1030|870"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-02T14:00:49.557999+04:00",
+ "last_publish": "2026-11-02T14:15:32.931453+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
