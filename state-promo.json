@@ -1676,23 +1676,13 @@
    "Yerevan City|id:8102|1040|660",
    "Yerevan City|id:29893|1040|660",
    "Yerevan City|id:98774|1040|660",
-   "Yerevan City|id:22153|1030|770"
+   "Yerevan City|id:22153|1030|770",
+   "Yerevan City|id:5607|1030|790"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Մարտկոց «Դյուրասելլ» 9Վ 1հտ",
-    "old": 2270,
-    "new": 1980,
-    "pct": 13,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1021105.png",
-    "url": "https://yerevan-city.am/shop/product-details/6045",
-    "key": "Yerevan City|id:6045|2270|1980"
-   },
    {
     "store": "Yerevan City",
     "title": "Շամպուն «Պանտին Պրո-Վ» պաշտ.մոլեկ.մակարդ. 250մլ",
@@ -3870,12 +3860,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1046915.png",
     "url": "https://yerevan-city.am/shop/product-details/22153",
     "key": "Yerevan City|id:22153|1030|770"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շամպինիոն «Տոպ Սան» կտրատած 850մլ",
+    "old": 1030,
+    "new": 790,
+    "pct": 23,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1067985.png",
+    "url": "https://yerevan-city.am/shop/product-details/5607",
+    "key": "Yerevan City|id:5607|1030|790"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-02T13:15:44.521451+04:00",
+ "last_publish": "2026-11-02T13:30:44.112985+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
