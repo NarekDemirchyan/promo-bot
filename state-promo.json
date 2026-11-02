@@ -1669,23 +1669,13 @@
    "Yerevan City|id:193878|850|550",
    "Yerevan City|id:193879|850|650",
    "Yerevan City|id:193888|850|550",
-   "Yerevan City|id:193889|850|490"
+   "Yerevan City|id:193889|850|490",
+   "Yerevan City|id:6560|1050|910"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Սուրճի պատիճ «Յակոբս» Էսպ.Ինտենսո Լունգո 8 52գր",
-    "old": 2290,
-    "new": 1450,
-    "pct": 37,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1140129.png",
-    "url": "https://yerevan-city.am/shop/product-details/107230",
-    "key": "Yerevan City|id:107230|2290|1450"
-   },
    {
     "store": "Yerevan City",
     "title": "Սեղանի խաղ «Եռանկյունաձև մաս» 889",
@@ -3863,12 +3853,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177652.png",
     "url": "https://yerevan-city.am/shop/product-details/193889",
     "key": "Yerevan City|id:193889|850|490"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թղթե սրբիչ «Սիլկ Սոֆթ» եռաշերտ 2հտ",
+    "old": 1050,
+    "new": 910,
+    "pct": 13,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1025792.png",
+    "url": "https://yerevan-city.am/shop/product-details/6560",
+    "key": "Yerevan City|id:6560|1050|910"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-02T11:30:50.270688+04:00",
+ "last_publish": "2026-11-02T11:45:32.056428+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
