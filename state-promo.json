@@ -1688,23 +1688,13 @@
    "Yerevan City|id:16140|990|790",
    "Yerevan City|id:76532|990|790",
    "Yerevan City|id:76537|990|790",
-   "Yerevan City|id:112678|990|590"
+   "Yerevan City|id:112678|990|590",
+   "Yerevan City|id:157816|990|690"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Շամպուն «Գլիսս Կուր» կատարյալ երկար 400մլ",
-    "old": 2250,
-    "new": 2050,
-    "pct": 9,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1124725.png",
-    "url": "https://yerevan-city.am/shop/product-details/86921",
-    "key": "Yerevan City|id:86921|2250|2050"
-   },
    {
     "store": "Yerevan City",
     "title": "Շամպուն «Գլիսս Կուր» ներկված մազերի կատարել.400մ",
@@ -3882,12 +3872,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1143134.png",
     "url": "https://yerevan-city.am/shop/product-details/112678",
     "key": "Yerevan City|id:112678|990|590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Պանիր կաթնաշոռային «Պրետտո» վարունգով 140գր",
+    "old": 990,
+    "new": 690,
+    "pct": 30,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1155480.png",
+    "url": "https://yerevan-city.am/shop/product-details/157816",
+    "key": "Yerevan City|id:157816|990|690"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-02T16:15:33.318544+04:00",
+ "last_publish": "2026-11-02T16:30:42.347251+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
