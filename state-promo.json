@@ -1689,23 +1689,13 @@
    "Yerevan City|id:76532|990|790",
    "Yerevan City|id:76537|990|790",
    "Yerevan City|id:112678|990|590",
-   "Yerevan City|id:157816|990|690"
+   "Yerevan City|id:157816|990|690",
+   "Yerevan City|id:171723|990|790"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Շամպուն «Գլիսս Կուր» ներկված մազերի կատարել.400մ",
-    "old": 2250,
-    "new": 2050,
-    "pct": 9,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1124727.png",
-    "url": "https://yerevan-city.am/shop/product-details/86923",
-    "key": "Yerevan City|id:86923|2250|2050"
-   },
    {
     "store": "Yerevan City",
     "title": "Շամպուն «Գլիսս Կուր» Օիլ Նուտրեյթիվ սնուցում400մ",
@@ -3883,12 +3873,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1155480.png",
     "url": "https://yerevan-city.am/shop/product-details/157816",
     "key": "Yerevan City|id:157816|990|690"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շոկ.սալիկ «Ալպեն Գոլդ» պայթ.կար-մարմելադ-թխ.130գր",
+    "old": 990,
+    "new": 790,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1165276.png",
+    "url": "https://yerevan-city.am/shop/product-details/171723",
+    "key": "Yerevan City|id:171723|990|790"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-02T16:30:42.347251+04:00",
+ "last_publish": "2026-11-02T16:45:31.758194+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
