@@ -1683,23 +1683,13 @@
    "Yerevan City|id:75719|1030|870",
    "Yerevan City|id:75721|1030|870",
    "Yerevan City|id:17283|1020|790",
-   "Yerevan City|id:4062|1020|950"
+   "Yerevan City|id:4062|1020|950",
+   "Yerevan City|id:14616|1020|950"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Կոնֆետների հավաքածու «Մարկ Սևունի» Ավանգարդ 140գր",
-    "old": 2250,
-    "new": 1880,
-    "pct": 16,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1059855.png",
-    "url": "https://yerevan-city.am/shop/product-details/17466",
-    "key": "Yerevan City|id:17466|2250|1880"
-   },
    {
     "store": "Yerevan City",
     "title": "Կոնֆետների հավաքածու «Մարկ Սևունի» Ալլյուր 140գր",
@@ -3877,12 +3867,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1000170.png",
     "url": "https://yerevan-city.am/shop/product-details/4062",
     "key": "Yerevan City|id:4062|1020|950"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ատամի մածուկ «Քոլգեյթ» Մաքս Ֆրեշ անանուխ 50մլ",
+    "old": 1020,
+    "new": 950,
+    "pct": 7,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1010891.png",
+    "url": "https://yerevan-city.am/shop/product-details/14616",
+    "key": "Yerevan City|id:14616|1020|950"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-02T15:00:50.269748+04:00",
+ "last_publish": "2026-11-02T15:15:40.243464+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
