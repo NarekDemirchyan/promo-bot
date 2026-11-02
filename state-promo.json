@@ -1670,23 +1670,13 @@
    "Yerevan City|id:193879|850|650",
    "Yerevan City|id:193888|850|550",
    "Yerevan City|id:193889|850|490",
-   "Yerevan City|id:6560|1050|910"
+   "Yerevan City|id:6560|1050|910",
+   "Yerevan City|id:181358|1040|840"
   ]
  },
  "queues": {
   "SAS": [],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Սեղանի խաղ «Եռանկյունաձև մաս» 889",
-    "old": 2290,
-    "new": 1830,
-    "pct": 20,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178934.png",
-    "url": "https://yerevan-city.am/shop/product-details/195131",
-    "key": "Yerevan City|id:195131|2290|1830"
-   },
    {
     "store": "Yerevan City",
     "title": "Սուրճի պատիճ «Յակոբս» Էսպրեսսո, Ինտենսո 10 52գր",
@@ -3864,12 +3854,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1025792.png",
     "url": "https://yerevan-city.am/shop/product-details/6560",
     "key": "Yerevan City|id:6560|1050|910"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Արևածաղկի սերմ «Օտ Մարտինա» ընտիր, ծովի աղ 300գր",
+    "old": 1040,
+    "new": 840,
+    "pct": 19,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175070.png",
+    "url": "https://yerevan-city.am/shop/product-details/181358",
+    "key": "Yerevan City|id:181358|1040|840"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-02T11:45:32.056428+04:00",
+ "last_publish": "2026-11-02T12:00:54.767272+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
