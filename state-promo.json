@@ -1812,22 +1812,12 @@
    "Yerevan City|id:10241|1370|1140",
    "Yerevan City|id:5852|1350|890",
    "Yerevan City|id:4845|1370|1220",
-   "Yerevan City|id:14058|1350|890"
+   "Yerevan City|id:14058|1350|890",
+   "Yerevan City|id:14486|1350|890"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Բիոյոգուրտ ըմպելի ելակով «Parmalat» 290գ, յուղայնությունը` 1.5",
-    "old": 780,
-    "new": 570,
-    "pct": 27,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/yogurt_pitevoy/312247/",
-    "key": "SAS|id:312247|780|570"
-   },
    {
     "store": "SAS",
     "title": "Կարագ սերուցքային «Lurpak» 200գ, յուղայնությունը` 82",
@@ -4843,12 +4833,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1043677.png",
     "url": "https://yerevan-city.am/shop/product-details/14058",
     "key": "Yerevan City|id:14058|1350|890"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Պանիր հալած «Պրեզիդենտ» Մաազդամ 200գր",
+    "old": 1350,
+    "new": 890,
+    "pct": 34,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1043772.png",
+    "url": "https://yerevan-city.am/shop/product-details/14486",
+    "key": "Yerevan City|id:14486|1350|890"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-03T04:31:12.613304+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-03T04:46:12.506607+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
