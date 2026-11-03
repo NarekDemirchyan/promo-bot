@@ -1828,22 +1828,12 @@
    "Yerevan City|id:24763|1340|980",
    "Yerevan City|id:24870|1340|980",
    "Yerevan City|id:24887|1340|980",
-   "Yerevan City|id:22862|1340|1220"
+   "Yerevan City|id:22862|1340|1220",
+   "Yerevan City|id:110736|1330|1240"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Յոգուրտ հունական «Mevgal» 150գ, յուղայնությունը՝ 0",
-    "old": 820,
-    "new": 670,
-    "pct": 18,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/yogurt_puding/759022/",
-    "key": "SAS|id:759022|820|670"
-   },
    {
     "store": "SAS",
     "title": "Յոգուրտ ըմպելի ելակ բանանի «Պանացեա» 300գ, յուղայնությունը՝ 1.5",
@@ -4815,12 +4805,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1020325.png",
     "url": "https://yerevan-city.am/shop/product-details/22862",
     "key": "Yerevan City|id:22862|1340|1220"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ատամի խոզանակ «Քոլգեյթ» Էքստրա Դենսիթի ածուխ միջ.",
+    "old": 1330,
+    "new": 1240,
+    "pct": 7,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1141746.png",
+    "url": "https://yerevan-city.am/shop/product-details/110736",
+    "key": "Yerevan City|id:110736|1330|1240"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-03T10:01:23.898301+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-03T10:15:45.471432+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
