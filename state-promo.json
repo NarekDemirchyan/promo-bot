@@ -832,7 +832,13 @@
    "SAS|id:167237|1520|1160",
    "SAS|id:165304|1580|1390",
    "SAS|id:31328|17700|15900",
-   "SAS|id:4279|1520|1160"
+   "SAS|id:4279|1520|1160",
+   "SAS|id:132381|1210|1150",
+   "SAS|id:911408|2690|2240",
+   "SAS|id:792554|8590|7590",
+   "SAS|id:766052|4190|3150",
+   "SAS|id:759024|1450|1140",
+   "SAS|id:606938|11900|10900"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -1819,22 +1825,12 @@
    "Yerevan City|id:22861|1340|1220",
    "Yerevan City|id:8855|1350|1070",
    "Yerevan City|id:24665|1340|980",
-   "Yerevan City|id:24763|1340|980"
+   "Yerevan City|id:24763|1340|980",
+   "Yerevan City|id:24870|1340|980"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Յոգուրտ հունական խնձորով, դարչինով և չամիչով «Mevgal» 150գ, յուղայնությունը՝ 0",
-    "old": 820,
-    "new": 670,
-    "pct": 18,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/yogurt_puding/759037/",
-    "key": "SAS|id:759037|820|670"
-   },
    {
     "store": "SAS",
     "title": "Յոգուրտ հունական դեղձով «Mevgal» 150գ, յուղայնությունը՝ 0",
@@ -2582,6 +2578,72 @@
     "img": "",
     "url": "https://www.sas.am/catalog/sok/4279/",
     "key": "SAS|id:4279|1520|1160"
+   },
+   {
+    "store": "SAS",
+    "title": "Պղպեղ կծու «Ռոյալ» 500գ",
+    "old": 1210,
+    "new": 1150,
+    "pct": 5,
+    "until": "28.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/258/135/1351343893194271.webp",
+    "url": "https://www.sas.am/catalog/baklazhan/132381/",
+    "key": "SAS|id:132381|1210|1150"
+   },
+   {
+    "store": "SAS",
+    "title": "Թեյ սև «Althaus Earl Grey Classic Organic» 20*1.75գ",
+    "old": 2690,
+    "new": 2240,
+    "pct": 17,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/v_paketakh/911408/",
+    "key": "SAS|id:911408|2690|2240"
+   },
+   {
+    "store": "SAS",
+    "title": "Փրփրուն գինի «Mondoro Prosecco» 0.75լ",
+    "old": 8590,
+    "new": 7590,
+    "pct": 12,
+    "until": "13.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/shampanskoe_igristoe_vino/792554/",
+    "key": "SAS|id:792554|8590|7590"
+   },
+   {
+    "store": "SAS",
+    "title": "Շիլա կաթնային «Fleur Alpine» 200գ",
+    "old": 4190,
+    "new": 3150,
+    "pct": 25,
+    "until": "29.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/kasha_detskoe_pitanie/766052/",
+    "key": "SAS|id:766052|4190|3150"
+   },
+   {
+    "store": "SAS",
+    "title": "Յոգուրտ հունական մեղրով և պեկան ընկույզով «Mevgal» 160գ, յուղայնությունը՝ 0",
+    "old": 1450,
+    "new": 1140,
+    "pct": 21,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/yogurt_puding/759024/",
+    "key": "SAS|id:759024|1450|1140"
+   },
+   {
+    "store": "SAS",
+    "title": "Օղի «Ekiss Օրգանիկ» 0.5լ",
+    "old": 11900,
+    "new": 10900,
+    "pct": 8,
+    "until": "13.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/importnoe/606938/",
+    "key": "SAS|id:606938|11900|10900"
    }
   ],
   "Yerevan City": [
@@ -4773,12 +4835,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1036235.png",
     "url": "https://yerevan-city.am/shop/product-details/24763",
     "key": "Yerevan City|id:24763|1340|980"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ատամի մածուկ «Սպլատ» Սպիտակեցում պլյուս 100մլ",
+    "old": 1340,
+    "new": 980,
+    "pct": 27,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1023820.png",
+    "url": "https://yerevan-city.am/shop/product-details/24870",
+    "key": "Yerevan City|id:24870|1340|980"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-03T08:31:19.733355+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-03T08:46:11.873737+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
