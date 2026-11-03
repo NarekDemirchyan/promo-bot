@@ -1860,22 +1860,12 @@
    "Yerevan City|id:192421|1310|1130",
    "Yerevan City|id:192423|1310|1130",
    "Yerevan City|id:192424|1310|1130",
-   "Yerevan City|id:192425|1310|1130"
+   "Yerevan City|id:192425|1310|1130",
+   "Yerevan City|id:177687|1300|1190"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Բարձրախոս «Borofone BR15»",
-    "old": 11900,
-    "new": 5950,
-    "pct": 50,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/370078/",
-    "key": "SAS|id:370078|11900|5950"
-   },
    {
     "store": "SAS",
     "title": "Ամրակ հեռախոսի համար «Borofone BH64»",
@@ -4737,12 +4727,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176162.png",
     "url": "https://yerevan-city.am/shop/product-details/192425",
     "key": "Yerevan City|id:192425|1310|1130"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սափրող սարք «Ժիլետ» Բլու2 Սենսիթիվ 5հտ",
+    "old": 1300,
+    "new": 1190,
+    "pct": 8,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1171357.png",
+    "url": "https://yerevan-city.am/shop/product-details/177687",
+    "key": "Yerevan City|id:177687|1300|1190"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-03T21:01:26.627938+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-03T21:16:10.051768+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
