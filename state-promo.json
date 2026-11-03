@@ -1853,7 +1853,8 @@
    "Yerevan City|id:162543|1320|1250",
    "Yerevan City|id:11590|1320|1170",
    "Yerevan City|id:110735|1320|1220",
-   "Yerevan City|id:23015|1310|1130"
+   "Yerevan City|id:23015|1310|1130",
+   "Yerevan City|id:192430|1310|1130"
   ]
  },
  "queues": {
@@ -4807,6 +4808,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1072207.png",
     "url": "https://yerevan-city.am/shop/product-details/23015",
     "key": "Yerevan City|id:23015|1310|1130"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հեղուկ օճառ «Տեո» Ուլտրա Հիգիեն, թարմ մաք. 900մլ",
+    "old": 1310,
+    "new": 1130,
+    "pct": 14,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176164.png",
+    "url": "https://yerevan-city.am/shop/product-details/192430",
+    "key": "Yerevan City|id:192430|1310|1130"
    }
   ]
  },
