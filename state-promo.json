@@ -1855,22 +1855,12 @@
    "Yerevan City|id:110735|1320|1220",
    "Yerevan City|id:23015|1310|1130",
    "Yerevan City|id:192430|1310|1130",
-   "Yerevan City|id:2011|1310|1250"
+   "Yerevan City|id:2011|1310|1250",
+   "Yerevan City|id:192426|1310|1130"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Աուդիո մալուխ «Hoco UPA10 AUX»",
-    "old": 5990,
-    "new": 2990,
-    "pct": 50,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/378650/",
-    "key": "SAS|id:378650|5990|2990"
-   },
    {
     "store": "SAS",
     "title": "Ականջակալներ անլար «Soundtec by Porodo ANC»",
@@ -4787,12 +4777,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1064495.png",
     "url": "https://yerevan-city.am/shop/product-details/2011",
     "key": "Yerevan City|id:2011|1310|1250"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հեղուկ օճառ «Տեո» Փյուր Սենսիթիվ, հալվե 900մլ",
+    "old": 1310,
+    "new": 1130,
+    "pct": 14,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176163.png",
+    "url": "https://yerevan-city.am/shop/product-details/192426",
+    "key": "Yerevan City|id:192426|1310|1130"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-03T18:17:14.048211+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-03T18:31:22.512162+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
