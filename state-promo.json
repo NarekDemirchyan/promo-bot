@@ -838,7 +838,18 @@
    "SAS|id:792554|8590|7590",
    "SAS|id:766052|4190|3150",
    "SAS|id:759024|1450|1140",
-   "SAS|id:606938|11900|10900"
+   "SAS|id:606938|11900|10900",
+   "SAS|id:168668|1170|990",
+   "SAS|id:325166|1120|930",
+   "SAS|id:198062|4290|3580",
+   "SAS|id:167749|1520|1160",
+   "SAS|id:167267|1520|1160",
+   "SAS|id:167253|1520|1160",
+   "SAS|id:82861|5670|5250",
+   "SAS|id:81125|31500|29500",
+   "SAS|id:4281|1430|1160",
+   "SAS|id:2360|1450|1370",
+   "SAS|id:2334|5890|5350"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -1837,22 +1848,12 @@
    "Yerevan City|id:66712|1330|890",
    "Yerevan City|id:66928|1330|890",
    "Yerevan City|id:114662|1330|890",
-   "Yerevan City|id:114664|1330|890"
+   "Yerevan City|id:114664|1330|890",
+   "Yerevan City|id:162542|1320|1250"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Փոխարկիչ «Hoco LS31 Dual Lightning Apple»",
-    "old": 4990,
-    "new": 2490,
-    "pct": 50,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/380075/",
-    "key": "SAS|id:380075|4990|2490"
-   },
    {
     "store": "SAS",
     "title": "Փոխարկիչ-մալուխ «Hoco UPA13 Lightning to AUX Apple»",
@@ -2534,6 +2535,127 @@
     "img": "",
     "url": "https://www.sas.am/catalog/importnoe/606938/",
     "key": "SAS|id:606938|11900|10900"
+   },
+   {
+    "store": "SAS",
+    "title": "Նրբերշիկ «Բեկոն Հոթ դոգ» 18հատ",
+    "old": 1170,
+    "new": 990,
+    "pct": 15,
+    "until": "13.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/sosiski_sordelki/168668/",
+    "key": "SAS|id:168668|1170|990"
+   },
+   {
+    "store": "SAS",
+    "title": "Ելակ սառեցված «Планета Витаминов» 300գ",
+    "old": 1120,
+    "new": 930,
+    "pct": 17,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/frukty_ovoshchi_yagody/325166/",
+    "key": "SAS|id:325166|1120|930"
+   },
+   {
+    "store": "SAS",
+    "title": "Թեյ սև «Althaus Earl Grey Classic» 15*2.75գ",
+    "old": 4290,
+    "new": 3580,
+    "pct": 17,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/v_paketakh/198062/",
+    "key": "SAS|id:198062|4290|3580"
+   },
+   {
+    "store": "SAS",
+    "title": "Հյութ պարունակող ըմպելիք թուրինջի «Santal» 1լ",
+    "old": 1520,
+    "new": 1160,
+    "pct": 24,
+    "until": "15.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/sok/167749/",
+    "key": "SAS|id:167749|1520|1160"
+   },
+   {
+    "store": "SAS",
+    "title": "Նեկտար ելակի և բանանի «Santal Plus» 1լ",
+    "old": 1520,
+    "new": 1160,
+    "pct": 24,
+    "until": "15.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/sok/167267/",
+    "key": "SAS|id:167267|1520|1160"
+   },
+   {
+    "store": "SAS",
+    "title": "Նեկտար արքայախնձորի և կոկոսի «Santal Plus» 1լ",
+    "old": 1520,
+    "new": 1160,
+    "pct": 24,
+    "until": "15.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/sok/167253/",
+    "key": "SAS|id:167253|1520|1160"
+   },
+   {
+    "store": "SAS",
+    "title": "Սուրճ հատիկավոր «Egoiste Espresso» 250գ",
+    "old": 5670,
+    "new": 5250,
+    "pct": 7,
+    "until": "13.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/molotyy/82861/",
+    "key": "SAS|id:82861|5670|5250"
+   },
+   {
+    "store": "SAS",
+    "title": "Կոնյակ «Hennessy VSOP» 0.5լ",
+    "old": 31500,
+    "new": 29500,
+    "pct": 6,
+    "until": "13.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/importnyy_konyak_brendi/81125/",
+    "key": "SAS|id:81125|31500|29500"
+   },
+   {
+    "store": "SAS",
+    "title": "Հյութ դեղձի և մանգոյի «Santal» 1լ",
+    "old": 1430,
+    "new": 1160,
+    "pct": 19,
+    "until": "15.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/sok/4281/",
+    "key": "SAS|id:4281|1430|1160"
+   },
+   {
+    "store": "SAS",
+    "title": "Տերև խաղողի «Ռոյալ» 600գ",
+    "old": 1450,
+    "new": 1370,
+    "pct": 6,
+    "until": "28.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/drugie_ovoschnye_konservy/2360/",
+    "key": "SAS|id:2360|1450|1370"
+   },
+   {
+    "store": "SAS",
+    "title": "Գինի կարմիր «Marani Khvanchkara» 0.75լ",
+    "old": 5890,
+    "new": 5350,
+    "pct": 9,
+    "until": "30.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/import_vino/2334/",
+    "key": "SAS|id:2334|5890|5350"
    }
   ],
   "Yerevan City": [
@@ -4725,12 +4847,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1144819.png",
     "url": "https://yerevan-city.am/shop/product-details/114664",
     "key": "Yerevan City|id:114664|1330|890"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Աջիկա «Իջևան» 500գր",
+    "old": 1320,
+    "new": 1250,
+    "pct": 5,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1160226.png",
+    "url": "https://yerevan-city.am/shop/product-details/162542",
+    "key": "Yerevan City|id:162542|1320|1250"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-03T14:30:57.276972+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-03T14:47:02.678308+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
