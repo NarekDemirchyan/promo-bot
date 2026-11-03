@@ -1813,7 +1813,8 @@
    "Yerevan City|id:5852|1350|890",
    "Yerevan City|id:4845|1370|1220",
    "Yerevan City|id:14058|1350|890",
-   "Yerevan City|id:14486|1350|890"
+   "Yerevan City|id:14486|1350|890",
+   "Yerevan City|id:644|1350|1070"
   ]
  },
  "queues": {
@@ -4833,6 +4834,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1043772.png",
     "url": "https://yerevan-city.am/shop/product-details/14486",
     "key": "Yerevan City|id:14486|1350|890"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Միջադիրներ «Լիբրես» ուլտրա, սուպեր 16հտ",
+    "old": 1350,
+    "new": 1070,
+    "pct": 21,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1012158.png",
+    "url": "https://yerevan-city.am/shop/product-details/644",
+    "key": "Yerevan City|id:644|1350|1070"
    }
   ]
  },
