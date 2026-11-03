@@ -1866,22 +1866,12 @@
    "Yerevan City|id:15413|1290|1180",
    "Yerevan City|id:407|1290|990",
    "Yerevan City|id:162553|1290|1220",
-   "Yerevan City|id:24457|1290|980"
+   "Yerevan City|id:24457|1290|980",
+   "Yerevan City|id:192148|1450|1190"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ականջակալներ «Hoco W21»",
-    "old": 11800,
-    "new": 5900,
-    "pct": 50,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/369639/",
-    "key": "SAS|id:369639|11800|5900"
-   },
    {
     "store": "SAS",
     "title": "Հիշողության քարտ «Hoco Micro SD 16Gb Class 10»",
@@ -4677,12 +4667,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1032997.PNG",
     "url": "https://yerevan-city.am/shop/product-details/24457",
     "key": "Yerevan City|id:24457|1290|980"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Լուսանկարի շրջանակ մանկական",
+    "old": 1450,
+    "new": 1190,
+    "pct": 18,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175859.png",
+    "url": "https://yerevan-city.am/shop/product-details/192148",
+    "key": "Yerevan City|id:192148|1450|1190"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-04T00:01:20.059521+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-04T00:17:14.236116+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
