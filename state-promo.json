@@ -1814,22 +1814,12 @@
    "Yerevan City|id:4845|1370|1220",
    "Yerevan City|id:14058|1350|890",
    "Yerevan City|id:14486|1350|890",
-   "Yerevan City|id:644|1350|1070"
+   "Yerevan City|id:644|1350|1070",
+   "Yerevan City|id:177227|1350|1083"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Յոգուրտ դեղձով «Avramidis Family Tsantillas Peach» 170գ, յուղայնությունը՝ 2",
-    "old": 1590,
-    "new": 790,
-    "pct": 50,
-    "until": "10.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/yogurt_puding/936866/",
-    "key": "SAS|id:936866|1590|790"
-   },
    {
     "store": "SAS",
     "title": "Կաթ առանց լակտոզայի «Parmalat Protein» 1լ, յուղայությունը՝ 1.8",
@@ -4823,12 +4813,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1012158.png",
     "url": "https://yerevan-city.am/shop/product-details/644",
     "key": "Yerevan City|id:644|1350|1070"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հյութ պար.ըմպելիք «Զուեգգ» հատապտուղներ ա/շ 1լ",
+    "old": 1350,
+    "new": 1083,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170845.png",
+    "url": "https://yerevan-city.am/shop/product-details/177227",
+    "key": "Yerevan City|id:177227|1350|1083"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-03T05:46:12.442890+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-03T06:01:24.890830+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
