@@ -2551,17 +2551,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Գրչատուփ «Կինհշիոն»",
-    "old": 990,
-    "new": 390,
-    "pct": 61,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176653.png",
-    "url": "https://yerevan-city.am/shop/product-details/192905",
-    "key": "Yerevan City|id:192905|990|390"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Բիսքվիթ «Ֆրեդդի» Դոլչետո, կակաո ա/լ 8x25գր",
     "old": 990,
     "new": 850,
@@ -4752,8 +4741,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-03T20:46:08.448493+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-03T21:01:26.627938+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
