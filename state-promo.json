@@ -2571,17 +2571,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Անձեռոցիկներ ունիվերսալ «Վորտեքս» 5հտ",
-    "old": 990,
-    "new": 790,
-    "pct": 20,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173398.png",
-    "url": "https://yerevan-city.am/shop/product-details/179679",
-    "key": "Yerevan City|id:179679|990|790"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Բիսքվիթ «Ֆրեդդի» Դոլչետո, բալ ա/լ 8x25գր",
     "old": 990,
     "new": 850,
@@ -4772,8 +4761,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-03T19:32:59.344359+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-03T20:01:30.615971+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
