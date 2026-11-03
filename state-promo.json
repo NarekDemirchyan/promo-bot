@@ -1816,22 +1816,12 @@
    "Yerevan City|id:14486|1350|890",
    "Yerevan City|id:644|1350|1070",
    "Yerevan City|id:177227|1350|1083",
-   "Yerevan City|id:22861|1340|1220"
+   "Yerevan City|id:22861|1340|1220",
+   "Yerevan City|id:8855|1350|1070"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Բիոյոգուրտ ըմպելի հապալասով «Parmalat» 290գ, յուղայնությունը` 1.5",
-    "old": 780,
-    "new": 570,
-    "pct": 27,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/yogurt_pitevoy/832808/",
-    "key": "SAS|id:832808|780|570"
-   },
    {
     "store": "SAS",
     "title": "Յոգուրտ հունական ելակով «Mevgal» 150գ, յուղայնությունը՝ 0",
@@ -4803,12 +4793,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1019202.png",
     "url": "https://yerevan-city.am/shop/product-details/22861",
     "key": "Yerevan City|id:22861|1340|1220"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Միջադիրներ «Լիբրես» ուլտրա, նորմալ 20հտ",
+    "old": 1350,
+    "new": 1070,
+    "pct": 21,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1003411.png",
+    "url": "https://yerevan-city.am/shop/product-details/8855",
+    "key": "Yerevan City|id:8855|1350|1070"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-03T06:46:05.767109+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-03T07:01:24.667516+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
