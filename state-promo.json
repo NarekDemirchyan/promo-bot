@@ -1830,22 +1830,12 @@
    "Yerevan City|id:24887|1340|980",
    "Yerevan City|id:22862|1340|1220",
    "Yerevan City|id:110736|1330|1240",
-   "Yerevan City|id:180005|1330|1260"
+   "Yerevan City|id:180005|1330|1260",
+   "Yerevan City|id:180010|1330|1260"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Յոգուրտ ըմպելի դեղձի «Պանացեա» 300գ",
-    "old": 430,
-    "new": 290,
-    "pct": 33,
-    "until": "13.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/yogurt_pitevoy/645224/",
-    "key": "SAS|id:645224|430|290"
-   },
    {
     "store": "SAS",
     "title": "Յոգուրտ ըմպելի բալի «Պանացեա» 300գ, յուղայնությունը՝ 1.5",
@@ -4795,12 +4785,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173724.png",
     "url": "https://yerevan-city.am/shop/product-details/180005",
     "key": "Yerevan City|id:180005|1330|1260"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Լեչո «Իջևան» 700գր",
+    "old": 1330,
+    "new": 1260,
+    "pct": 5,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173729.png",
+    "url": "https://yerevan-city.am/shop/product-details/180010",
+    "key": "Yerevan City|id:180010|1330|1260"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-03T11:01:40.211928+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-03T11:15:44.295273+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
