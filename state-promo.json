@@ -1863,22 +1863,12 @@
    "Yerevan City|id:192425|1310|1130",
    "Yerevan City|id:177687|1300|1190",
    "Yerevan City|id:14660|1300|1230",
-   "Yerevan City|id:15413|1290|1180"
+   "Yerevan City|id:15413|1290|1180",
+   "Yerevan City|id:407|1290|990"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ականջակալներ «Borofone BM42»",
-    "old": 3600,
-    "new": 1800,
-    "pct": 50,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/370046/",
-    "key": "SAS|id:370046|3600|1800"
-   },
    {
     "store": "SAS",
     "title": "Բարձրախոս անլար «Mivo M06»",
@@ -4707,12 +4697,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1082135.png",
     "url": "https://yerevan-city.am/shop/product-details/15413",
     "key": "Yerevan City|id:15413|1290|1180"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հյութ պարունակող ըմպելիք «Սանտալ» նուռ 1լ",
+    "old": 1290,
+    "new": 990,
+    "pct": 23,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1046121.png",
+    "url": "https://yerevan-city.am/shop/product-details/407",
+    "key": "Yerevan City|id:407|1290|990"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-03T22:31:27.405800+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-03T22:46:08.503598+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
