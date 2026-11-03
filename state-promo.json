@@ -1835,22 +1835,12 @@
    "Yerevan City|id:23626|1330|890",
    "Yerevan City|id:66702|1330|890",
    "Yerevan City|id:66712|1330|890",
-   "Yerevan City|id:66928|1330|890"
+   "Yerevan City|id:66928|1330|890",
+   "Yerevan City|id:114662|1330|890"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Լամպ նկարվելու համար «Baseus»",
-    "old": 31000,
-    "new": 15500,
-    "pct": 50,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/380080/",
-    "key": "SAS|id:380080|31000|15500"
-   },
    {
     "store": "SAS",
     "title": "Ստեղնաշար «Xtrike Me KB-302»",
@@ -4745,12 +4735,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1089755.png",
     "url": "https://yerevan-city.am/shop/product-details/66928",
     "key": "Yerevan City|id:66928|1330|890"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Լոգանքի գել «Նիվեա» քսուք և ծիրան 250մլ",
+    "old": 1330,
+    "new": 890,
+    "pct": 33,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1144817.png",
+    "url": "https://yerevan-city.am/shop/product-details/114662",
+    "key": "Yerevan City|id:114662|1330|890"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-03T13:31:33.909378+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-03T13:45:48.025460+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
