@@ -1864,22 +1864,12 @@
    "Yerevan City|id:177687|1300|1190",
    "Yerevan City|id:14660|1300|1230",
    "Yerevan City|id:15413|1290|1180",
-   "Yerevan City|id:407|1290|990"
+   "Yerevan City|id:407|1290|990",
+   "Yerevan City|id:162553|1290|1220"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Բարձրախոս անլար «Mivo M06»",
-    "old": 35400,
-    "new": 17700,
-    "pct": 50,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/369658/",
-    "key": "SAS|id:369658|35400|17700"
-   },
    {
     "store": "SAS",
     "title": "Ականջակալներ «Hoco W21»",
@@ -4697,12 +4687,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1046121.png",
     "url": "https://yerevan-city.am/shop/product-details/407",
     "key": "Yerevan City|id:407|1290|990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մարինացված վարունգ «Իջևան» 700գր",
+    "old": 1290,
+    "new": 1220,
+    "pct": 5,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1160239.png",
+    "url": "https://yerevan-city.am/shop/product-details/162553",
+    "key": "Yerevan City|id:162553|1290|1220"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-03T23:01:50.613661+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-03T23:15:51.270832+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
