@@ -1826,22 +1826,12 @@
    "Yerevan City|id:8855|1350|1070",
    "Yerevan City|id:24665|1340|980",
    "Yerevan City|id:24763|1340|980",
-   "Yerevan City|id:24870|1340|980"
+   "Yerevan City|id:24870|1340|980",
+   "Yerevan City|id:24887|1340|980"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Յոգուրտ հունական դեղձով «Mevgal» 150գ, յուղայնությունը՝ 0",
-    "old": 820,
-    "new": 670,
-    "pct": 18,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/yogurt_puding/759025/",
-    "key": "SAS|id:759025|820|670"
-   },
    {
     "store": "SAS",
     "title": "Յոգուրտ հունական վայրի հատապտուղներով «Mevgal» 150գ, յուղայնությունը՝ 0",
@@ -4835,12 +4825,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1023820.png",
     "url": "https://yerevan-city.am/shop/product-details/24870",
     "key": "Yerevan City|id:24870|1340|980"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ատամի մածուկ «Սպլատ» Բիոկալցիում 100մլ",
+    "old": 1340,
+    "new": 980,
+    "pct": 27,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1029632.png",
+    "url": "https://yerevan-city.am/shop/product-details/24887",
+    "key": "Yerevan City|id:24887|1340|980"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-03T09:01:05.428860+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-03T09:15:49.275226+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
