@@ -1815,22 +1815,12 @@
    "Yerevan City|id:14058|1350|890",
    "Yerevan City|id:14486|1350|890",
    "Yerevan City|id:644|1350|1070",
-   "Yerevan City|id:177227|1350|1083"
+   "Yerevan City|id:177227|1350|1083",
+   "Yerevan City|id:22861|1340|1220"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կաթ առանց լակտոզայի «Parmalat Protein» 1լ, յուղայությունը՝ 1.8",
-    "old": 1590,
-    "new": 1290,
-    "pct": 19,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/840/071/0710252909586032.webp",
-    "url": "https://www.sas.am/catalog/moloko/883368/",
-    "key": "SAS|id:883368|1590|1290"
-   },
    {
     "store": "SAS",
     "title": "Բիոյոգուրտ ըմպելի հապալասով «Parmalat» 290գ, յուղայնությունը` 1.5",
@@ -4813,12 +4803,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170845.png",
     "url": "https://yerevan-city.am/shop/product-details/177227",
     "key": "Yerevan City|id:177227|1350|1083"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սպասք լվանալու հեղուկ «Ֆերի» խնձոր 1լ",
+    "old": 1340,
+    "new": 1220,
+    "pct": 9,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1019202.png",
+    "url": "https://yerevan-city.am/shop/product-details/22861",
+    "key": "Yerevan City|id:22861|1340|1220"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-03T06:17:08.303065+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-03T06:31:23.101665+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
