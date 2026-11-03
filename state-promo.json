@@ -1867,17 +1867,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Լիցքավորման մարտկոց «Borofone BT19»",
-    "old": 12400,
-    "new": 6200,
-    "pct": 50,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/370081/",
-    "key": "SAS|id:370081|12400|6200"
-   },
-   {
-    "store": "SAS",
     "title": "Բարձրախոս «Borofone BR15»",
     "old": 11900,
     "new": 5950,
@@ -4763,8 +4752,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-03T20:31:21.702215+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-03T20:46:08.448493+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
