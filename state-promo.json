@@ -2531,17 +2531,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Բիսքվիթ «Ֆրեդդի» Դոլչետո, ծիրան ա/լ 8x25գր",
-    "old": 990,
-    "new": 850,
-    "pct": 14,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1042642.png",
-    "url": "https://yerevan-city.am/shop/product-details/55631",
-    "key": "Yerevan City|id:55631|990|850"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Բիսքվիթ «Ֆրեդդի» Դոլչետո, վանիլ ա/լ 8x25գր",
     "old": 990,
     "new": 850,
@@ -4732,8 +4721,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-03T21:47:30.637421+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-03T22:01:32.154785+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
