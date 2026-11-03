@@ -1856,22 +1856,12 @@
    "Yerevan City|id:23015|1310|1130",
    "Yerevan City|id:192430|1310|1130",
    "Yerevan City|id:2011|1310|1250",
-   "Yerevan City|id:192426|1310|1130"
+   "Yerevan City|id:192426|1310|1130",
+   "Yerevan City|id:192421|1310|1130"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ականջակալներ անլար «Soundtec by Porodo ANC»",
-    "old": 53500,
-    "new": 26750,
-    "pct": 50,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/378213/",
-    "key": "SAS|id:378213|53500|26750"
-   },
    {
     "store": "SAS",
     "title": "USB լար «Remax Cigan RC-156m Micro»",
@@ -4777,12 +4767,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176163.png",
     "url": "https://yerevan-city.am/shop/product-details/192426",
     "key": "Yerevan City|id:192426|1310|1130"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հեղուկ օճառ «Տեո» Ռիչ Միլկ, նուրբ խնամք 900մլ",
+    "old": 1310,
+    "new": 1130,
+    "pct": 14,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176149.png",
+    "url": "https://yerevan-city.am/shop/product-details/192421",
+    "key": "Yerevan City|id:192421|1310|1130"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-03T18:46:08.389048+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-03T19:01:30.389216+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
