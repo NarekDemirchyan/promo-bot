@@ -1871,22 +1871,12 @@
    "Yerevan City|id:192148|1450|1190",
    "Yerevan City|id:158887|1450|1150",
    "Yerevan City|id:158889|1450|1150",
-   "Yerevan City|id:8673|1450|1160"
+   "Yerevan City|id:8673|1450|1160",
+   "Yerevan City|id:191886|1470|1260"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Մեքենայի լիցքավորիչ և USB լար «Depak DR-K20»",
-    "old": 6350,
-    "new": 3175,
-    "pct": 50,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/366371/",
-    "key": "SAS|id:366371|6350|3175"
-   },
    {
     "store": "SAS",
     "title": "Բիոյոգուրտ ըմպելի կոկոսով և մյուսլիով «Parmalat» 290գ, յուղայնությունը` 1.5",
@@ -4649,12 +4639,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1050185.png",
     "url": "https://yerevan-city.am/shop/product-details/8673",
     "key": "Yerevan City|id:8673|1450|1160"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Զուգարանի թուղթ «Սելպակ» Պրեմիում, քառաշերտ 4հտ",
+    "old": 1470,
+    "new": 1260,
+    "pct": 14,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175609.png",
+    "url": "https://yerevan-city.am/shop/product-details/191886",
+    "key": "Yerevan City|id:191886|1470|1260"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-04T02:16:08.447492+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-04T02:31:23.196450+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
