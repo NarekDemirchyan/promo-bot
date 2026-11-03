@@ -1851,22 +1851,12 @@
    "Yerevan City|id:114664|1330|890",
    "Yerevan City|id:162542|1320|1250",
    "Yerevan City|id:162543|1320|1250",
-   "Yerevan City|id:11590|1320|1170"
+   "Yerevan City|id:11590|1320|1170",
+   "Yerevan City|id:110735|1320|1220"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սմարթ ժամացույց «Hoco Sports Bracelet GA08»",
-    "old": 17500,
-    "new": 8750,
-    "pct": 50,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/378693/",
-    "key": "SAS|id:378693|17500|8750"
-   },
    {
     "store": "SAS",
     "title": "Սմարթ ժամացույց «Hoco Watch Y3»",
@@ -4827,12 +4817,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1048760.png",
     "url": "https://yerevan-city.am/shop/product-details/11590",
     "key": "Yerevan City|id:11590|1320|1170"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հեղուկ օճառ «Փալմոլիվ» ձիթապտուղ և կաթ 650մլ",
+    "old": 1320,
+    "new": 1220,
+    "pct": 8,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1141745.png",
+    "url": "https://yerevan-city.am/shop/product-details/110735",
+    "key": "Yerevan City|id:110735|1320|1220"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-03T16:01:27.581126+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-03T16:16:08.244567+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
