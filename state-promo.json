@@ -1849,22 +1849,12 @@
    "Yerevan City|id:66928|1330|890",
    "Yerevan City|id:114662|1330|890",
    "Yerevan City|id:114664|1330|890",
-   "Yerevan City|id:162542|1320|1250"
+   "Yerevan City|id:162542|1320|1250",
+   "Yerevan City|id:162543|1320|1250"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Փոխարկիչ-մալուխ «Hoco UPA13 Lightning to AUX Apple»",
-    "old": 7800,
-    "new": 3900,
-    "pct": 50,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/380073/",
-    "key": "SAS|id:380073|7800|3900"
-   },
    {
     "store": "SAS",
     "title": "Մեքենայի լիցքավորիչ «Hoco C1»",
@@ -4847,12 +4837,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1160226.png",
     "url": "https://yerevan-city.am/shop/product-details/162542",
     "key": "Yerevan City|id:162542|1320|1250"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սմբուկի խավիար «Իջևան» 500գր",
+    "old": 1320,
+    "new": 1250,
+    "pct": 5,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1160228.png",
+    "url": "https://yerevan-city.am/shop/product-details/162543",
+    "key": "Yerevan City|id:162543|1320|1250"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-03T15:01:32.891367+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-03T15:16:08.250557+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
