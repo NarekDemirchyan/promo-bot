@@ -2511,17 +2511,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Ձողիկներ-տիրամիսու «Լագո» 200գր",
-    "old": 990,
-    "new": 750,
-    "pct": 24,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173972.png",
-    "url": "https://yerevan-city.am/shop/product-details/180251",
-    "key": "Yerevan City|id:180251|990|750"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Մաստակ «Լուտտի» բալ 35գր",
     "old": 990,
     "new": 690,
@@ -4712,8 +4701,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-03T22:46:08.503598+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-03T23:01:50.613661+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
