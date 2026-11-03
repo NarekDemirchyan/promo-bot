@@ -1859,7 +1859,8 @@
    "Yerevan City|id:192426|1310|1130",
    "Yerevan City|id:192421|1310|1130",
    "Yerevan City|id:192423|1310|1130",
-   "Yerevan City|id:192424|1310|1130"
+   "Yerevan City|id:192424|1310|1130",
+   "Yerevan City|id:192425|1310|1130"
   ]
  },
  "queues": {
@@ -4747,6 +4748,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176161.png",
     "url": "https://yerevan-city.am/shop/product-details/192424",
     "key": "Yerevan City|id:192424|1310|1130"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հեղուկ օճառ «Տեո» Ռիչ Միլկ, մեղր 900մլ",
+    "old": 1310,
+    "new": 1130,
+    "pct": 14,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176162.png",
+    "url": "https://yerevan-city.am/shop/product-details/192425",
+    "key": "Yerevan City|id:192425|1310|1130"
    }
   ]
  },
