@@ -1865,22 +1865,12 @@
    "Yerevan City|id:14660|1300|1230",
    "Yerevan City|id:15413|1290|1180",
    "Yerevan City|id:407|1290|990",
-   "Yerevan City|id:162553|1290|1220"
+   "Yerevan City|id:162553|1290|1220",
+   "Yerevan City|id:24457|1290|980"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ականջակալներ «Hoco W21»",
-    "old": 11800,
-    "new": 5900,
-    "pct": 50,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/369641/",
-    "key": "SAS|id:369641|11800|5900"
-   },
    {
     "store": "SAS",
     "title": "Ականջակալներ «Hoco W21»",
@@ -4687,12 +4677,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1160239.png",
     "url": "https://yerevan-city.am/shop/product-details/162553",
     "key": "Yerevan City|id:162553|1290|1220"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Պարույր սպասքի համար «Վիլեդա» 2հտ",
+    "old": 1290,
+    "new": 980,
+    "pct": 24,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1032997.PNG",
+    "url": "https://yerevan-city.am/shop/product-details/24457",
+    "key": "Yerevan City|id:24457|1290|980"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-03T23:31:08.359501+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-03T23:46:03.422126+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
