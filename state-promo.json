@@ -1858,22 +1858,12 @@
    "Yerevan City|id:2011|1310|1250",
    "Yerevan City|id:192426|1310|1130",
    "Yerevan City|id:192421|1310|1130",
-   "Yerevan City|id:192423|1310|1130"
+   "Yerevan City|id:192423|1310|1130",
+   "Yerevan City|id:192424|1310|1130"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "USB լար «Hoco U55 Dual Side»",
-    "old": 2950,
-    "new": 1470,
-    "pct": 50,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/370185/",
-    "key": "SAS|id:370185|2950|1470"
-   },
    {
     "store": "SAS",
     "title": "Լիցքավորման մարտկոց «Borofone BT19»",
@@ -4757,12 +4747,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176160.png",
     "url": "https://yerevan-city.am/shop/product-details/192423",
     "key": "Yerevan City|id:192423|1310|1130"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հեղուկ օճառ «Տեո» Ռիչ Միլկ, փափուկ խնամք 900մլ",
+    "old": 1310,
+    "new": 1130,
+    "pct": 14,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176161.png",
+    "url": "https://yerevan-city.am/shop/product-details/192424",
+    "key": "Yerevan City|id:192424|1310|1130"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-03T20:01:30.615971+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-03T20:16:10.221630+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
