@@ -850,7 +850,21 @@
    "SAS|id:4281|1430|1160",
    "SAS|id:2360|1450|1370",
    "SAS|id:2334|5890|5350",
-   "SAS|id:20582|320|290"
+   "SAS|id:20582|320|290",
+   "SAS|id:3025|2620|2170",
+   "SAS|id:4736|980|920",
+   "SAS|id:245610|980|920",
+   "SAS|id:97029|530|430",
+   "SAS|id:322159|1050|930",
+   "SAS|id:262453|660|560",
+   "SAS|id:262440|970|770",
+   "SAS|id:97658|790|640",
+   "SAS|id:97030|530|430",
+   "SAS|id:97028|530|430",
+   "SAS|id:7245|790|640",
+   "SAS|id:3174|340|280",
+   "SAS|id:2572|530|430",
+   "SAS|id:2460|4850|3930"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2448,20 +2462,163 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/992/344/344976813435707.webp",
     "url": "https://www.sas.am/catalog/batonchik/20582/",
     "key": "SAS|id:20582|320|290"
+   },
+   {
+    "store": "SAS",
+    "title": "Կարամելային կոնֆետներ պնդուկով «Toffifee» 250գ",
+    "old": 2620,
+    "new": 2170,
+    "pct": 17,
+    "until": "13.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/konfety_v_upakovke/3025/",
+    "key": "SAS|id:3025|2620|2170"
+   },
+   {
+    "store": "SAS",
+    "title": "Չիպս թթվասեր և սոխի «Lay's Рифленые Сметана и Лук» 150գ",
+    "old": 980,
+    "new": 920,
+    "pct": 6,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/chipsy/4736/",
+    "key": "SAS|id:4736|980|920"
+   },
+   {
+    "store": "SAS",
+    "title": "Չիպս կրաբի «Lay's Краб» 150գ",
+    "old": 980,
+    "new": 920,
+    "pct": 6,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/chipsy/245610/",
+    "key": "SAS|id:245610|980|920"
+   },
+   {
+    "store": "SAS",
+    "title": "Դոնդողե կոնֆետներ «Mamba» 70գ",
+    "old": 530,
+    "new": 430,
+    "pct": 19,
+    "until": "13.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/zhele_plastila/97029/",
+    "key": "SAS|id:97029|530|430"
+   },
+   {
+    "store": "SAS",
+    "title": "Միջադիրներ «Always Ultra Extra Night » 6հատ",
+    "old": 1050,
+    "new": 930,
+    "pct": 11,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/dlya_intimnoy_gigieny2/322159/",
+    "key": "SAS|id:322159|1050|930"
+   },
+   {
+    "store": "SAS",
+    "title": "Անձեռոցիկ խոնավ հակաբակտերիալ «Էկկա Հակաբակտերիալ» 72 հատ",
+    "old": 660,
+    "new": 560,
+    "pct": 15,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/vetwip_es/262453/",
+    "key": "SAS|id:262453|660|560"
+   },
+   {
+    "store": "SAS",
+    "title": "Զուգարանի թուղթ «Էկկա Պրեմիում Դելյուքս» 4 հատ",
+    "old": 970,
+    "new": 770,
+    "pct": 21,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/tualetnaya_bumaga/262440/",
+    "key": "SAS|id:262440|970|770"
+   },
+   {
+    "store": "SAS",
+    "title": "Դեմքի դիմակ «Garnier Skin Naturals» 32գ",
+    "old": 790,
+    "new": 640,
+    "pct": 19,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/vse_dlya_litsa/97658/",
+    "key": "SAS|id:97658|790|640"
+   },
+   {
+    "store": "SAS",
+    "title": "Դոնդողե կոնֆետներ «Mamba» 72գ",
+    "old": 530,
+    "new": 430,
+    "pct": 19,
+    "until": "13.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/zhele_plastila/97030/",
+    "key": "SAS|id:97030|530|430"
+   },
+   {
+    "store": "SAS",
+    "title": "Դոնդողե կոնֆետներ «Mamba» 70գ",
+    "old": 530,
+    "new": 430,
+    "pct": 19,
+    "until": "13.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/zhele_plastila/97028/",
+    "key": "SAS|id:97028|530|430"
+   },
+   {
+    "store": "SAS",
+    "title": "Դեմքի դիմակ «Garnier Skin Naturals» 28գ",
+    "old": 790,
+    "new": 640,
+    "pct": 19,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/vse_dlya_litsa/7245/",
+    "key": "SAS|id:7245|790|640"
+   },
+   {
+    "store": "SAS",
+    "title": "Աղի ձողիկներ «Croco Sticks Long Sesame» 80գ",
+    "old": 340,
+    "new": 280,
+    "pct": 18,
+    "until": "13.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/krekery_solenye_palochki/3174/",
+    "key": "SAS|id:3174|340|280"
+   },
+   {
+    "store": "SAS",
+    "title": "Մարմելադե կոնֆետներ «Mamba Фрумеладки» 70գ",
+    "old": 530,
+    "new": 430,
+    "pct": 19,
+    "until": "13.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/zhele_plastila/2572/",
+    "key": "SAS|id:2572|530|430"
+   },
+   {
+    "store": "SAS",
+    "title": "Լվացքի գել սպիտակ «Persil Power Gel Vernel» 1.69լ",
+    "old": 4850,
+    "new": 3930,
+    "pct": 19,
+    "until": "13.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/stiralnyy_poroshok/2460/",
+    "key": "SAS|id:2460|4850|3930"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Կրուասան «7 դեյս» մինի, վանիլային 200գր",
-    "old": 970,
-    "new": 720,
-    "pct": 26,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1049296.png",
-    "url": "https://yerevan-city.am/shop/product-details/6975",
-    "key": "Yerevan City|id:6975|970|720"
-   },
    {
     "store": "Yerevan City",
     "title": "Կրուասան «7 դեյս» մինի, կակաո 200գր",
@@ -4654,8 +4811,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-04T02:31:23.196450+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-04T02:47:19.392174+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
