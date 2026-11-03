@@ -1886,22 +1886,12 @@
    "Yerevan City|id:158887|1450|1150",
    "Yerevan City|id:158889|1450|1150",
    "Yerevan City|id:8673|1450|1160",
-   "Yerevan City|id:191886|1470|1260"
+   "Yerevan City|id:191886|1470|1260",
+   "Yerevan City|id:24338|1450|1150"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Բիոյոգուրտ ըմպելի կոկոսով և մյուսլիով «Parmalat» 290գ, յուղայնությունը` 1.5",
-    "old": 780,
-    "new": 570,
-    "pct": 27,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/yogurt_pitevoy/312250/",
-    "key": "SAS|id:312250|780|570"
-   },
    {
     "store": "SAS",
     "title": "Գինի կարմիր «Կարաս Կաբերնետ» 0.75լ",
@@ -4807,12 +4797,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175609.png",
     "url": "https://yerevan-city.am/shop/product-details/191886",
     "key": "Yerevan City|id:191886|1470|1260"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հայկական դրոշ 50x100 1հտ",
+    "old": 1450,
+    "new": 1150,
+    "pct": 21,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1005328.png",
+    "url": "https://yerevan-city.am/shop/product-details/24338",
+    "key": "Yerevan City|id:24338|1450|1150"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-04T02:47:19.392174+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-04T03:01:33.983414+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
