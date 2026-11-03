@@ -1862,22 +1862,12 @@
    "Yerevan City|id:192424|1310|1130",
    "Yerevan City|id:192425|1310|1130",
    "Yerevan City|id:177687|1300|1190",
-   "Yerevan City|id:14660|1300|1230"
+   "Yerevan City|id:14660|1300|1230",
+   "Yerevan City|id:15413|1290|1180"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ականջակալներ «Hoco Gaming W103»",
-    "old": 10900,
-    "new": 5450,
-    "pct": 50,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/370050/",
-    "key": "SAS|id:370050|10900|5450"
-   },
    {
     "store": "SAS",
     "title": "Ականջակալներ «Borofone BM42»",
@@ -4717,12 +4707,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1069571.png",
     "url": "https://yerevan-city.am/shop/product-details/14660",
     "key": "Yerevan City|id:14660|1300|1230"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հալած բուսայուղային խառ. «Իմպերիա Վկուսա» 650գր",
+    "old": 1290,
+    "new": 1180,
+    "pct": 9,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1082135.png",
+    "url": "https://yerevan-city.am/shop/product-details/15413",
+    "key": "Yerevan City|id:15413|1290|1180"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-03T22:01:32.154785+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-03T22:16:17.784929+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
