@@ -1861,17 +1861,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "USB ադապտեր",
-    "old": 3390,
-    "new": 1690,
-    "pct": 50,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/378684/",
-    "key": "SAS|id:378684|3390|1690"
-   },
-   {
-    "store": "SAS",
     "title": "Փոխարկիչ «Type-C to 4xUSB»",
     "old": 5990,
     "new": 2990,
@@ -4823,8 +4812,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-03T17:02:31.498132+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-03T17:31:17.960693+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
