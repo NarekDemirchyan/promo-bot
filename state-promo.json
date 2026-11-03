@@ -1841,17 +1841,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Շոկոլադե կոնֆետների հավաքածու «Merci Coconut Collection» 250գ",
-    "old": 2500,
-    "new": 2230,
-    "pct": 11,
-    "until": "25.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/nabory_konfet/481119/",
-    "key": "SAS|id:481119|2500|2230"
-   },
-   {
-    "store": "SAS",
     "title": "Բիոյոգուրտ ըմպելի մանգոյով «Parmalat» 290գ, յուղայնությունը՝ 1.5",
     "old": 780,
     "new": 570,
@@ -4781,8 +4770,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-03T12:30:57.407908+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-03T12:46:08.308128+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
