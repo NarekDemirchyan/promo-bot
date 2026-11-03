@@ -1833,7 +1833,8 @@
    "Yerevan City|id:180005|1330|1260",
    "Yerevan City|id:180010|1330|1260",
    "Yerevan City|id:23626|1330|890",
-   "Yerevan City|id:66702|1330|890"
+   "Yerevan City|id:66702|1330|890",
+   "Yerevan City|id:66712|1330|890"
   ]
  },
  "queues": {
@@ -4765,6 +4766,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1016146.png",
     "url": "https://yerevan-city.am/shop/product-details/66702",
     "key": "Yerevan City|id:66702|1330|890"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Լոգանքի քսուք-գել «Նիվեա» կարամբոլա 250մլ",
+    "old": 1330,
+    "new": 890,
+    "pct": 33,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1020528.png",
+    "url": "https://yerevan-city.am/shop/product-details/66712",
+    "key": "Yerevan City|id:66712|1330|890"
    }
   ]
  },
