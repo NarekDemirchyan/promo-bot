@@ -1867,22 +1867,12 @@
    "Yerevan City|id:407|1290|990",
    "Yerevan City|id:162553|1290|1220",
    "Yerevan City|id:24457|1290|980",
-   "Yerevan City|id:192148|1450|1190"
+   "Yerevan City|id:192148|1450|1190",
+   "Yerevan City|id:158887|1450|1150"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Հիշողության քարտ «Hoco Micro SD 16Gb Class 10»",
-    "old": 4990,
-    "new": 2490,
-    "pct": 50,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/369622/",
-    "key": "SAS|id:369622|4990|2490"
-   },
    {
     "store": "SAS",
     "title": "Հիշողության քարտ «Hoco Micro SD 4Gb Class 10»",
@@ -4667,12 +4657,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175859.png",
     "url": "https://yerevan-city.am/shop/product-details/192148",
     "key": "Yerevan City|id:192148|1450|1190"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Լոգանքի գել «Լիրեն» արգանի-մարուլայի յուղ 400մլ",
+    "old": 1450,
+    "new": 1150,
+    "pct": 21,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156530.png",
+    "url": "https://yerevan-city.am/shop/product-details/158887",
+    "key": "Yerevan City|id:158887|1450|1150"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-04T00:31:28.996639+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-04T00:46:17.264925+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
