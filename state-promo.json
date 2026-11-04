@@ -2072,17 +2072,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Կաթ «Parmalat» 1լ, յուղայնությունը` 3.5",
-    "old": 1500,
-    "new": 1290,
-    "pct": 14,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/417/058/0583124110730306.webp",
-    "url": "https://www.sas.am/catalog/moloko/100456/",
-    "key": "SAS|id:100456|1500|1290"
-   },
-   {
-    "store": "SAS",
     "title": "Հյութ հատապտղային «Santal» 1լ",
     "old": 1430,
     "new": 1160,
@@ -6475,8 +6464,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-04T17:03:26.995053+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-04T17:31:47.716676+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
