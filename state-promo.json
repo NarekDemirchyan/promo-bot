@@ -2050,22 +2050,12 @@
    "Yerevan City|id:113007|1410|1220",
    "Yerevan City|id:113008|1410|1220",
    "Yerevan City|id:445|1390|1240",
-   "Yerevan City|id:177692|1390|990"
+   "Yerevan City|id:177692|1390|990",
+   "Yerevan City|id:9660|1390|1110"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Թյունոս ձեթի մեջ «Calvo» 160գ",
-    "old": 2070,
-    "new": 1770,
-    "pct": 14,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/309/316/316822919364646.webp",
-    "url": "https://www.sas.am/catalog/v_masle/76369/",
-    "key": "SAS|id:76369|2070|1770"
-   },
    {
     "store": "SAS",
     "title": "Թյունոս ձեթի մեջ «Calvo» 142գ",
@@ -6445,12 +6435,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1171363.png",
     "url": "https://yerevan-city.am/shop/product-details/177692",
     "key": "Yerevan City|id:177692|1390|990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հոտազերծիչ տղամարդու «Դեոնիկա» Նեյչր 200մլ",
+    "old": 1390,
+    "new": 1110,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1056080.png",
+    "url": "https://yerevan-city.am/shop/product-details/9660",
+    "key": "Yerevan City|id:9660|1390|1110"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-04T12:01:45.043192+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-04T12:16:36.610016+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
