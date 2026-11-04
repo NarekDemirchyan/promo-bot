@@ -2086,22 +2086,12 @@
    "Yerevan City|id:159111|1390|90",
    "Yerevan City|id:103781|1390|1190",
    "Yerevan City|id:52030|1390|1240",
-   "Yerevan City|id:174769|1380|1130"
+   "Yerevan City|id:174769|1380|1130",
+   "Yerevan City|id:181302|1490|1090"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Հյութ նարնջի, գազարի և կիտրոնի «Santal Ace» 1լ",
-    "old": 1520,
-    "new": 1160,
-    "pct": 24,
-    "until": "15.01.2027",
-    "img": "",
-    "url": "https://www.sas.am/catalog/sok/4279/",
-    "key": "SAS|id:4279|1520|1160"
-   },
    {
     "store": "SAS",
     "title": "Պղպեղ կծու «Ռոյալ» 500գ",
@@ -6481,12 +6471,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168366.png",
     "url": "https://yerevan-city.am/shop/product-details/174769",
     "key": "Yerevan City|id:174769|1380|1130"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շոկոլադե կոնֆետներ «Մր.Բիսթ» Քափս, անտ.ընկ.40գր",
+    "old": 1490,
+    "new": 1090,
+    "pct": 27,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175020.png",
+    "url": "https://yerevan-city.am/shop/product-details/181302",
+    "key": "Yerevan City|id:181302|1490|1090"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-05T00:01:49.043817+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-05T00:16:26.283864+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
