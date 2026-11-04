@@ -2096,7 +2096,8 @@
    "Yerevan City|id:191666|1490|1290",
    "Yerevan City|id:66634|1490|890",
    "Yerevan City|id:66644|1490|390",
-   "Yerevan City|id:174801|1490|1290"
+   "Yerevan City|id:174801|1490|1290",
+   "Yerevan City|id:181301|1490|1090"
   ]
  },
  "queues": {
@@ -6491,6 +6492,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168412.png",
     "url": "https://yerevan-city.am/shop/product-details/174801",
     "key": "Yerevan City|id:174801|1490|1290"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շոկ.սալիկ «Մր.Բիսթ» Ֆեսթեյբլս, կաթ.շոկ.-կար 60գր",
+    "old": 1490,
+    "new": 1090,
+    "pct": 27,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175019.png",
+    "url": "https://yerevan-city.am/shop/product-details/181301",
+    "key": "Yerevan City|id:181301|1490|1090"
    }
   ]
  },
