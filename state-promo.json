@@ -3351,17 +3351,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Հեղուկ օճառ «Դետտոլ» մաշկի խնամք 210մլ",
-    "old": 950,
-    "new": 510,
-    "pct": 46,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168455.png",
-    "url": "https://yerevan-city.am/shop/product-details/174838",
-    "key": "Yerevan City|id:174838|950|510"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Ինքնաթիռ 711-92Ա",
     "old": 950,
     "new": 570,
@@ -5552,8 +5541,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-04T05:31:34.784914+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-04T05:46:17.768107+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
