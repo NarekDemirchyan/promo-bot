@@ -2042,22 +2042,12 @@
    "Yerevan City|id:6464|1420|1320",
    "Yerevan City|id:191444|1410|1210",
    "Yerevan City|id:191445|1410|1210",
-   "Yerevan City|id:8164|1410|910"
+   "Yerevan City|id:8164|1410|910",
+   "Yerevan City|id:113007|1410|1220"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ծովախեցգետին թագավորական «Vici Приорити» 1կգ",
-    "old": 12770,
-    "new": 12140,
-    "pct": 5,
-    "until": "13.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/695/012/0125761319512366.webp",
-    "url": "https://www.sas.am/catalog/moreprodukt/88749/",
-    "key": "SAS|id:88749|12770|12140"
-   },
    {
     "store": "SAS",
     "title": "Ծովախեցգետին թագավորական «Vici Приорити» 1կգ",
@@ -6437,12 +6427,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1015155.png",
     "url": "https://yerevan-city.am/shop/product-details/8164",
     "key": "Yerevan City|id:8164|1410|910"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Իշխան «Արտֆուդ» ծիածանափայլ, հյութում 240գր",
+    "old": 1410,
+    "new": 1220,
+    "pct": 13,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1143394.png",
+    "url": "https://yerevan-city.am/shop/product-details/113007",
+    "key": "Yerevan City|id:113007|1410|1220"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-04T09:31:40.768538+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-04T09:46:35.818955+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
