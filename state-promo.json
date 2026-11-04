@@ -1959,22 +1959,12 @@
    "Yerevan City|id:114611|1430|1250",
    "Yerevan City|id:7125|1430|1230",
    "Yerevan City|id:18154|1430|1230",
-   "Yerevan City|id:174889|1430|1210"
+   "Yerevan City|id:174889|1430|1210",
+   "Yerevan City|id:6464|1420|1320"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ձիթապտուղ սև կտրտած «XL» 400գ",
-    "old": 960,
-    "new": 870,
-    "pct": 9,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/149/575/5757682442531489.webp",
-    "url": "https://www.sas.am/catalog/drugie_olivki/125609/",
-    "key": "SAS|id:125609|960|870"
-   },
    {
     "store": "SAS",
     "title": "Ձիթապտուղ կանաչ առանց կորիզ «Art Oliva XL» 410գ",
@@ -5529,12 +5519,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168501.png",
     "url": "https://yerevan-city.am/shop/product-details/174889",
     "key": "Yerevan City|id:174889|1430|1210"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Բիսքվիթ «Բալկոնի» տրանչետտո, ծիրան 280գր",
+    "old": 1420,
+    "new": 1320,
+    "pct": 7,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1052229.png",
+    "url": "https://yerevan-city.am/shop/product-details/6464",
+    "key": "Yerevan City|id:6464|1420|1320"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-04T07:01:36.313358+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-04T07:16:19.618858+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
