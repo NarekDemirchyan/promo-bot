@@ -1031,7 +1031,10 @@
    "SAS|id:19134|4190|3290",
    "SAS|id:19133|4190|3290",
    "SAS|id:17650|1420|1090",
-   "SAS|id:17514|1780|1230"
+   "SAS|id:17514|1780|1230",
+   "SAS|id:82999|990|790",
+   "SAS|id:631510|2690|2550",
+   "SAS|id:631509|1320|1240"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2089,22 +2092,12 @@
    "Yerevan City|id:174769|1380|1130",
    "Yerevan City|id:181302|1490|1090",
    "Yerevan City|id:191666|1490|1290",
-   "Yerevan City|id:66634|1490|890"
+   "Yerevan City|id:66634|1490|890",
+   "Yerevan City|id:66644|1490|390"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Փրփրուն գինի «Mondoro Prosecco» 0.75լ",
-    "old": 8590,
-    "new": 7590,
-    "pct": 12,
-    "until": "13.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/shampanskoe_igristoe_vino/792554/",
-    "key": "SAS|id:792554|8590|7590"
-   },
    {
     "store": "SAS",
     "title": "Շիլա կաթնային «Fleur Alpine» 200գ",
@@ -4260,6 +4253,39 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/254/415/4150314273583618.webp",
     "url": "https://www.sas.am/catalog/antiperspirantt/17514/",
     "key": "SAS|id:17514|1780|1230"
+   },
+   {
+    "store": "SAS",
+    "title": "Սուրճ աղացած «Jacobs Monarch» 80գ",
+    "old": 990,
+    "new": 790,
+    "pct": 20,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/molotyy/82999/",
+    "key": "SAS|id:82999|990|790"
+   },
+   {
+    "store": "SAS",
+    "title": "Շուշան մարինացված «Իջևան» 700գ",
+    "old": 2690,
+    "new": 2550,
+    "pct": 5,
+    "until": "28.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/213/447/4478322874327590.webp",
+    "url": "https://www.sas.am/catalog/drugie_ovoschnye_konservy/631510/",
+    "key": "SAS|id:631510|2690|2550"
+   },
+   {
+    "store": "SAS",
+    "title": "Բամիա մարինացված «Իջևան» 500գ",
+    "old": 1320,
+    "new": 1240,
+    "pct": 6,
+    "until": "28.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/226/477/4775932519919510.webp",
+    "url": "https://www.sas.am/catalog/drugie_ovoschnye_konservy/631509/",
+    "key": "SAS|id:631509|1320|1240"
    }
   ],
   "Yerevan City": [
@@ -6451,12 +6477,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1112479.png",
     "url": "https://yerevan-city.am/shop/product-details/66634",
     "key": "Yerevan City|id:66634|1490|890"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Զեֆիր «Գուանդի» շոկոլադ և վանիլ 200գր",
+    "old": 1490,
+    "new": 390,
+    "pct": 74,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1112489.png",
+    "url": "https://yerevan-city.am/shop/product-details/66644",
+    "key": "Yerevan City|id:66644|1490|390"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-05T01:31:06.454878+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-05T01:48:19.668726+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
