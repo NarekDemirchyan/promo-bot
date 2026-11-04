@@ -2087,22 +2087,12 @@
    "Yerevan City|id:103781|1390|1190",
    "Yerevan City|id:52030|1390|1240",
    "Yerevan City|id:174769|1380|1130",
-   "Yerevan City|id:181302|1490|1090"
+   "Yerevan City|id:181302|1490|1090",
+   "Yerevan City|id:191666|1490|1290"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Պղպեղ կծու «Ռոյալ» 500գ",
-    "old": 1210,
-    "new": 1150,
-    "pct": 5,
-    "until": "28.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/258/135/1351343893194271.webp",
-    "url": "https://www.sas.am/catalog/baklazhan/132381/",
-    "key": "SAS|id:132381|1210|1150"
-   },
    {
     "store": "SAS",
     "title": "Թեյ սև «Althaus Earl Grey Classic Organic» 20*1.75գ",
@@ -6471,12 +6461,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175020.png",
     "url": "https://yerevan-city.am/shop/product-details/181302",
     "key": "Yerevan City|id:181302|1490|1090"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Էներգ.ըմպելիք «Տոքսիկ ՈՒեյսթ» թթու խնձոր թ/տ 500մլ",
+    "old": 1490,
+    "new": 1290,
+    "pct": 13,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175385.png",
+    "url": "https://yerevan-city.am/shop/product-details/191666",
+    "key": "Yerevan City|id:191666|1490|1290"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-05T00:31:34.477338+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-05T00:45:50.892417+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
