@@ -2080,22 +2080,12 @@
    "Yerevan City|id:12681|1390|1090",
    "Yerevan City|id:14784|1390|1110",
    "Yerevan City|id:159111|1390|90",
-   "Yerevan City|id:103781|1390|1190"
+   "Yerevan City|id:103781|1390|1190",
+   "Yerevan City|id:52030|1390|1240"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սերուցք հարելու համար «Parmalat» 200մլ, յուղայնությունը՝ 35",
-    "old": 1580,
-    "new": 1390,
-    "pct": 12,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/slivki_kokteyl/165304/",
-    "key": "SAS|id:165304|1580|1390"
-   },
    {
     "store": "SAS",
     "title": "Վիսկի «Johnnie Walker 4 Red Label Old» 0.7լ",
@@ -6453,12 +6443,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1138577.png",
     "url": "https://yerevan-city.am/shop/product-details/103781",
     "key": "Yerevan City|id:103781|1390|1190"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ամենօրյա միջադիրներ «Քեյերֆրի» ՖլեքսիՖորմ 30հտ",
+    "old": 1390,
+    "new": 1240,
+    "pct": 11,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1018445.png",
+    "url": "https://yerevan-city.am/shop/product-details/52030",
+    "key": "Yerevan City|id:52030|1390|1240"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-04T22:46:01.413083+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-04T23:01:22.042575+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
