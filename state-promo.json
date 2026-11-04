@@ -2048,7 +2048,8 @@
    "Yerevan City|id:8164|1410|910",
    "Yerevan City|id:113007|1410|1220",
    "Yerevan City|id:113008|1410|1220",
-   "Yerevan City|id:445|1390|1240"
+   "Yerevan City|id:445|1390|1240",
+   "Yerevan City|id:177692|1390|990"
   ]
  },
  "queues": {
@@ -6443,6 +6444,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1033668.png",
     "url": "https://yerevan-city.am/shop/product-details/445",
     "key": "Yerevan City|id:445|1390|1240"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ոսպ կարմիր «Սաննի» 800գր",
+    "old": 1390,
+    "new": 990,
+    "pct": 29,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1171363.png",
+    "url": "https://yerevan-city.am/shop/product-details/177692",
+    "key": "Yerevan City|id:177692|1390|990"
    }
   ]
  },
