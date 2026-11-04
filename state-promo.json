@@ -2046,22 +2046,12 @@
    "Yerevan City|id:191445|1410|1210",
    "Yerevan City|id:8164|1410|910",
    "Yerevan City|id:113007|1410|1220",
-   "Yerevan City|id:113008|1410|1220"
+   "Yerevan City|id:113008|1410|1220",
+   "Yerevan City|id:445|1390|1240"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սուրճ Էսպրեսսո աղացած «Lavazza Espresso» 250գ",
-    "old": 5990,
-    "new": 5150,
-    "pct": 14,
-    "until": "13.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/122/342/3426251420436671.webp",
-    "url": "https://www.sas.am/catalog/molotyy/83082/",
-    "key": "SAS|id:83082|5990|5150"
-   },
    {
     "store": "SAS",
     "title": "Սուրճ էսպրեսսո «Lavazza Dek» 250գ",
@@ -6441,12 +6431,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1143397.png",
     "url": "https://yerevan-city.am/shop/product-details/113008",
     "key": "Yerevan City|id:113008|1410|1220"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ամենօրյա միջադիրներ «Քեյերֆրի» բամբակ 34հտ",
+    "old": 1390,
+    "new": 1240,
+    "pct": 11,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1033668.png",
+    "url": "https://yerevan-city.am/shop/product-details/445",
+    "key": "Yerevan City|id:445|1390|1240"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-04T10:46:30.127922+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-04T11:01:57.837642+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
