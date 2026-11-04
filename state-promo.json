@@ -1020,7 +1020,8 @@
    "SAS|id:62111|4630|4270",
    "SAS|id:62048|12650|11650",
    "SAS|id:62034|5880|5390",
-   "SAS|id:34856|4450|3490"
+   "SAS|id:34856|4450|3490",
+   "SAS|id:34853|3830|3270"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4258,20 +4259,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/vse_dlya_litsa/34856/",
     "key": "SAS|id:34856|4450|3490"
+   },
+   {
+    "store": "SAS",
+    "title": "Դեմքի գել «Garnier Skin Naturals 3 в 1» 150մլ",
+    "old": 3830,
+    "new": 3270,
+    "pct": 15,
+    "until": "27.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/419/057/0577802726396196.webp",
+    "url": "https://www.sas.am/catalog/vse_dlya_litsa/34853/",
+    "key": "SAS|id:34853|3830|3270"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Կաթնային կոկտեյլ «Պարմալատ» սուրճ լատտե 500մլ",
-    "old": 990,
-    "new": 690,
-    "pct": 30,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1099617.png",
-    "url": "https://yerevan-city.am/shop/product-details/18327",
-    "key": "Yerevan City|id:18327|990|690"
-   },
    {
     "store": "Yerevan City",
     "title": "Սննդային փաթեթ շղթայով «Ալյուֆիքս» 1/3/6լ 15հտ",
@@ -6464,8 +6465,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-04T17:31:47.716676+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-04T17:46:29.453401+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
