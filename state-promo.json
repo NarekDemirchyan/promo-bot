@@ -2064,7 +2064,8 @@
    "Yerevan City|id:108695|1390|950",
    "Yerevan City|id:108697|1390|950",
    "Yerevan City|id:108698|1390|950",
-   "Yerevan City|id:27256|1390|695"
+   "Yerevan City|id:27256|1390|695",
+   "Yerevan City|id:130538|1390|890"
   ]
  },
  "queues": {
@@ -6459,6 +6460,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1071928.png",
     "url": "https://yerevan-city.am/shop/product-details/27256",
     "key": "Yerevan City|id:27256|1390|695"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մրգաման «Լանգ Սու» 23սմ ԳՎ001",
+    "old": 1390,
+    "new": 890,
+    "pct": 36,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1150182.png",
+    "url": "https://yerevan-city.am/shop/product-details/130538",
+    "key": "Yerevan City|id:130538|1390|890"
    }
   ]
  },
