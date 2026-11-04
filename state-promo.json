@@ -1962,7 +1962,8 @@
    "Yerevan City|id:7125|1430|1230",
    "Yerevan City|id:18154|1430|1230",
    "Yerevan City|id:174889|1430|1210",
-   "Yerevan City|id:6464|1420|1320"
+   "Yerevan City|id:6464|1420|1320",
+   "Yerevan City|id:191444|1410|1210"
   ]
  },
  "queues": {
@@ -5543,6 +5544,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1052229.png",
     "url": "https://yerevan-city.am/shop/product-details/6464",
     "key": "Yerevan City|id:6464|1420|1320"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ձիթապտուղ կանաչ «Ֆիլիպո Բերիո» առանց կորիզ 300գր",
+    "old": 1410,
+    "new": 1210,
+    "pct": 14,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175161.png",
+    "url": "https://yerevan-city.am/shop/product-details/191444",
+    "key": "Yerevan City|id:191444|1410|1210"
    }
   ]
  },
