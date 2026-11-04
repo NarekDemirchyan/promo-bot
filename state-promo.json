@@ -2084,7 +2084,8 @@
    "Yerevan City|id:14784|1390|1110",
    "Yerevan City|id:159111|1390|90",
    "Yerevan City|id:103781|1390|1190",
-   "Yerevan City|id:52030|1390|1240"
+   "Yerevan City|id:52030|1390|1240",
+   "Yerevan City|id:174769|1380|1130"
   ]
  },
  "queues": {
@@ -6479,6 +6480,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1018445.png",
     "url": "https://yerevan-city.am/shop/product-details/52030",
     "key": "Yerevan City|id:52030|1390|1240"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ձիթապտղի ձեթ «Կոոպոլիվա» Պոմաս ա/տ 250մլ",
+    "old": 1380,
+    "new": 1130,
+    "pct": 18,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168366.png",
+    "url": "https://yerevan-city.am/shop/product-details/174769",
+    "key": "Yerevan City|id:174769|1380|1130"
    }
   ]
  },
