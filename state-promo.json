@@ -4265,17 +4265,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Միանգամյա օգտ.սրբիչ «Սիլկ Սոֆթ» ճանապարհ. 20հտ",
-    "old": 890,
-    "new": 790,
-    "pct": 11,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1164356.png",
-    "url": "https://yerevan-city.am/shop/product-details/170692",
-    "key": "Yerevan City|id:170692|890|790"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Ծամվող մարմելադ «Հարիբո» Գոլդբիրս 150գր",
     "old": 890,
     "new": 770,
@@ -6466,8 +6455,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-05T01:15:54.323280+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-05T01:31:06.454878+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
