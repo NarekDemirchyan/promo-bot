@@ -1961,17 +1961,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Գինի սպիտակ «Կարաս» 0.75լ",
-    "old": 6350,
-    "new": 5890,
-    "pct": 7,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/armyanskoe_vino/292743/",
-    "key": "SAS|id:292743|6350|5890"
-   },
-   {
-    "store": "SAS",
     "title": "Տիկնիկ «Royal ЕnchanTimals»",
     "old": 7930,
     "new": 6050,
@@ -5583,8 +5572,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-04T04:02:52.151501+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-04T04:31:27.970696+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
