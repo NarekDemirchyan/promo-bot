@@ -2072,22 +2072,12 @@
    "Yerevan City|id:130538|1390|890",
    "Yerevan City|id:167483|1390|790",
    "Yerevan City|id:9667|1390|1110",
-   "Yerevan City|id:170799|1390|820"
+   "Yerevan City|id:170799|1390|820",
+   "Yerevan City|id:9671|1390|1110"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Նեկտար նարնջի «Santal» 1լ",
-    "old": 1520,
-    "new": 1160,
-    "pct": 24,
-    "until": "15.01.2027",
-    "img": "",
-    "url": "https://www.sas.am/catalog/sok/167284/",
-    "key": "SAS|id:167284|1520|1160"
-   },
    {
     "store": "SAS",
     "title": "Հյութ խնձորի «Santal» 1լ",
@@ -6467,12 +6457,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1164465.png",
     "url": "https://yerevan-city.am/shop/product-details/170799",
     "key": "Yerevan City|id:170799|1390|820"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հոտազերծիչ «Դեոնիկա» Նեյչր, հալվե 200մլ",
+    "old": 1390,
+    "new": 1110,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1056076.png",
+    "url": "https://yerevan-city.am/shop/product-details/9671",
+    "key": "Yerevan City|id:9671|1390|1110"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-04T20:01:54.633216+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-04T20:16:32.104629+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
