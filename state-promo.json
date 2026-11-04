@@ -2061,17 +2061,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Քարտ ընթերցող սարք և հաբեր «Earldom»",
-    "old": 8350,
-    "new": 4170,
-    "pct": 50,
-    "until": "31.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/598/818/818114808326945.webp",
-    "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/48545/",
-    "key": "SAS|id:48545|8350|4170"
-   },
-   {
-    "store": "SAS",
     "title": "Սարդելկա առանց գլյուտենի «Greisinger Knacker» 450գ",
     "old": 3950,
     "new": 3440,
@@ -6431,8 +6420,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-04T13:31:09.013741+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-04T14:01:19.233508+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
