@@ -2056,17 +2056,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Սուրճ էսպրեսսո «Lavazza Dek» 250գ",
-    "old": 6750,
-    "new": 5850,
-    "pct": 13,
-    "until": "13.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/390/097/0979942558012858.webp",
-    "url": "https://www.sas.am/catalog/molotyy/83080/",
-    "key": "SAS|id:83080|6750|5850"
-   },
-   {
-    "store": "SAS",
     "title": "Թյունոս ձեթի մեջ «Calvo» 160գ",
     "old": 2070,
     "new": 1770,
@@ -6459,8 +6448,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-04T11:18:31.186000+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-04T11:46:30.174468+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
