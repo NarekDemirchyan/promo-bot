@@ -1023,7 +1023,8 @@
    "SAS|id:34856|4450|3490",
    "SAS|id:34853|3830|3270",
    "SAS|id:27332|1470|1190",
-   "SAS|id:27331|1470|1190"
+   "SAS|id:27331|1470|1190",
+   "SAS|id:19212|2540|2190"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4264,6 +4265,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/vafelnyy_tort_vafli/27331/",
     "key": "SAS|id:27331|1470|1190"
+   },
+   {
+    "store": "SAS",
+    "title": "Բալզամ-կոնդիցիոներ «Wella Pro Series» 500մլ",
+    "old": 2540,
+    "new": 2190,
+    "pct": 14,
+    "until": "27.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/242/079/0797044256350223.webp",
+    "url": "https://www.sas.am/catalog/balzam_dlya_volos/19212/",
+    "key": "SAS|id:19212|2540|2190"
    }
   ],
   "Yerevan City": [
