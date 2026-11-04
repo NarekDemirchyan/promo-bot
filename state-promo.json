@@ -1963,22 +1963,12 @@
    "Yerevan City|id:18154|1430|1230",
    "Yerevan City|id:174889|1430|1210",
    "Yerevan City|id:6464|1420|1320",
-   "Yerevan City|id:191444|1410|1210"
+   "Yerevan City|id:191444|1410|1210",
+   "Yerevan City|id:191445|1410|1210"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Վարունգ մարինացված «Ռոյալ» 950գ",
-    "old": 1370,
-    "new": 1290,
-    "pct": 6,
-    "until": "28.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/419/594/5949471123637949.webp",
-    "url": "https://www.sas.am/catalog/ogurtsy/124663/",
-    "key": "SAS|id:124663|1370|1290"
-   },
    {
     "store": "SAS",
     "title": "Շուշան մարինացված «Ռոյալ» 650գ",
@@ -5533,12 +5523,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175161.png",
     "url": "https://yerevan-city.am/shop/product-details/191444",
     "key": "Yerevan City|id:191444|1410|1210"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ձիթապտուղ սև «Ֆիլիպո Բերիո» առանց կորիզ 300գր",
+    "old": 1410,
+    "new": 1210,
+    "pct": 14,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175162.png",
+    "url": "https://yerevan-city.am/shop/product-details/191445",
+    "key": "Yerevan City|id:191445|1410|1210"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-04T08:16:16.333327+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-04T08:31:33.109197+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
