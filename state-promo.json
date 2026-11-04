@@ -1034,7 +1034,8 @@
    "SAS|id:17514|1780|1230",
    "SAS|id:82999|990|790",
    "SAS|id:631510|2690|2550",
-   "SAS|id:631509|1320|1240"
+   "SAS|id:631509|1320|1240",
+   "SAS|id:531639|240|175"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4286,6 +4287,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/226/477/4775932519919510.webp",
     "url": "https://www.sas.am/catalog/drugie_ovoschnye_konservy/631509/",
     "key": "SAS|id:631509|1320|1240"
+   },
+   {
+    "store": "SAS",
+    "title": "Սուրճ լուծվող «Jacobs Milka» 18գ",
+    "old": 240,
+    "new": 175,
+    "pct": 27,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/rastvorimyy_kofe/531639/",
+    "key": "SAS|id:531639|240|175"
    }
   ],
   "Yerevan City": [
