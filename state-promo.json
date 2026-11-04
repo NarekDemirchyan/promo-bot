@@ -1958,7 +1958,8 @@
    "Yerevan City|id:90654|1440|1250",
    "Yerevan City|id:114611|1430|1250",
    "Yerevan City|id:7125|1430|1230",
-   "Yerevan City|id:18154|1430|1230"
+   "Yerevan City|id:18154|1430|1230",
+   "Yerevan City|id:174889|1430|1210"
   ]
  },
  "queues": {
@@ -5539,6 +5540,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1036791.png",
     "url": "https://yerevan-city.am/shop/product-details/18154",
     "key": "Yerevan City|id:18154|1430|1230"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ատամի խոզանակ մանկ. «Սպլատ» Սո Հեփփի 5+ փափուկ",
+    "old": 1430,
+    "new": 1210,
+    "pct": 15,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168501.png",
+    "url": "https://yerevan-city.am/shop/product-details/174889",
+    "key": "Yerevan City|id:174889|1430|1210"
    }
   ]
  },
