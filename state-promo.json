@@ -2098,22 +2098,12 @@
    "Yerevan City|id:66634|1490|890",
    "Yerevan City|id:66644|1490|390",
    "Yerevan City|id:174801|1490|1290",
-   "Yerevan City|id:181301|1490|1090"
+   "Yerevan City|id:181301|1490|1090",
+   "Yerevan City|id:180244|1490|990"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Օղի «Ekiss Օրգանիկ» 0.5լ",
-    "old": 11900,
-    "new": 10900,
-    "pct": 8,
-    "until": "13.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/importnoe/606938/",
-    "key": "SAS|id:606938|11900|10900"
-   },
    {
     "store": "SAS",
     "title": "Նրբերշիկ «Բեկոն Հոթ դոգ» 18հատ",
@@ -6493,12 +6483,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175019.png",
     "url": "https://yerevan-city.am/shop/product-details/181301",
     "key": "Yerevan City|id:181301|1490|1090"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Վաֆլե ձողիկներ «Լագո» Փլեյսիր, անտ.ընկ.կրեմ 100գր",
+    "old": 1490,
+    "new": 990,
+    "pct": 34,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173905.png",
+    "url": "https://yerevan-city.am/shop/product-details/180244",
+    "key": "Yerevan City|id:180244|1490|990"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-05T03:16:00.433130+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-05T03:31:06.276029+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
