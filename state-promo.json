@@ -2088,22 +2088,12 @@
    "Yerevan City|id:52030|1390|1240",
    "Yerevan City|id:174769|1380|1130",
    "Yerevan City|id:181302|1490|1090",
-   "Yerevan City|id:191666|1490|1290"
+   "Yerevan City|id:191666|1490|1290",
+   "Yerevan City|id:66634|1490|890"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Թեյ սև «Althaus Earl Grey Classic Organic» 20*1.75գ",
-    "old": 2690,
-    "new": 2240,
-    "pct": 17,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/v_paketakh/911408/",
-    "key": "SAS|id:911408|2690|2240"
-   },
    {
     "store": "SAS",
     "title": "Փրփրուն գինի «Mondoro Prosecco» 0.75լ",
@@ -6461,12 +6451,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175385.png",
     "url": "https://yerevan-city.am/shop/product-details/191666",
     "key": "Yerevan City|id:191666|1490|1290"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Զեֆիր «Գուանդի» մինի, վանիլային 200գր",
+    "old": 1490,
+    "new": 890,
+    "pct": 40,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1112479.png",
+    "url": "https://yerevan-city.am/shop/product-details/66634",
+    "key": "Yerevan City|id:66634|1490|890"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-05T01:01:14.415122+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-05T01:15:54.323280+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
