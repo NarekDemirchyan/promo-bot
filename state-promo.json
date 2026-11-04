@@ -2062,22 +2062,12 @@
    "Yerevan City|id:108694|1390|950",
    "Yerevan City|id:108695|1390|950",
    "Yerevan City|id:108697|1390|950",
-   "Yerevan City|id:108698|1390|950"
+   "Yerevan City|id:108698|1390|950",
+   "Yerevan City|id:27256|1390|695"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Վիսկի «Johnnie Walker 12 Black Label» 0.5լ",
-    "old": 18300,
-    "new": 16900,
-    "pct": 8,
-    "until": "13.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/220/106/1065861715114328.webp",
-    "url": "https://www.sas.am/catalog/viski/31283/",
-    "key": "SAS|id:31283|18300|16900"
-   },
    {
     "store": "SAS",
     "title": "Կաթ «Parmalat» 1լ, յուղայնությունը` 3.5",
@@ -6457,12 +6447,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1141433.png",
     "url": "https://yerevan-city.am/shop/product-details/108698",
     "key": "Yerevan City|id:108698|1390|950"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հողաթափ տղամարդու, միքս",
+    "old": 1390,
+    "new": 695,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1071928.png",
+    "url": "https://yerevan-city.am/shop/product-details/27256",
+    "key": "Yerevan City|id:27256|1390|695"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-04T16:31:43.094250+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-04T16:46:32.359648+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
