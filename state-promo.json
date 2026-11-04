@@ -2040,7 +2040,8 @@
    "Yerevan City|id:174889|1430|1210",
    "Yerevan City|id:6464|1420|1320",
    "Yerevan City|id:191444|1410|1210",
-   "Yerevan City|id:191445|1410|1210"
+   "Yerevan City|id:191445|1410|1210",
+   "Yerevan City|id:8164|1410|910"
   ]
  },
  "queues": {
@@ -6435,6 +6436,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175162.png",
     "url": "https://yerevan-city.am/shop/product-details/191445",
     "key": "Yerevan City|id:191445|1410|1210"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սպասք լվանալու հեղուկ «Ֆրոշ» կանաչ կիտրոն 1լ",
+    "old": 1410,
+    "new": 910,
+    "pct": 35,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1015155.png",
+    "url": "https://yerevan-city.am/shop/product-details/8164",
+    "key": "Yerevan City|id:8164|1410|910"
    }
   ]
  },
