@@ -2052,22 +2052,12 @@
    "Yerevan City|id:445|1390|1240",
    "Yerevan City|id:177692|1390|990",
    "Yerevan City|id:9660|1390|1110",
-   "Yerevan City|id:108693|1390|950"
+   "Yerevan City|id:108693|1390|950",
+   "Yerevan City|id:108694|1390|950"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Խաղալիք «EnchanTimals»",
-    "old": 7930,
-    "new": 6050,
-    "pct": 24,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/315/213/213389772190888.webp",
-    "url": "https://www.sas.am/catalog/dlya_devochek/53335/",
-    "key": "SAS|id:53335|7930|6050"
-   },
    {
     "store": "SAS",
     "title": "Քարտ ընթերցող սարք և հաբեր «Earldom»",
@@ -6425,12 +6415,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1141428.png",
     "url": "https://yerevan-city.am/shop/product-details/108693",
     "key": "Yerevan City|id:108693|1390|950"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շամպուն «Շաումա» մարակույա յուղ.մ.-չոր ծայր.400մ 400մլ",
+    "old": 1390,
+    "new": 950,
+    "pct": 32,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1141429.png",
+    "url": "https://yerevan-city.am/shop/product-details/108694",
+    "key": "Yerevan City|id:108694|1390|950"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-04T13:01:21.218090+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-04T13:16:00.584880+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
