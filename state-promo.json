@@ -2044,7 +2044,8 @@
    "Yerevan City|id:191444|1410|1210",
    "Yerevan City|id:191445|1410|1210",
    "Yerevan City|id:8164|1410|910",
-   "Yerevan City|id:113007|1410|1220"
+   "Yerevan City|id:113007|1410|1220",
+   "Yerevan City|id:113008|1410|1220"
   ]
  },
  "queues": {
@@ -6439,6 +6440,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1143394.png",
     "url": "https://yerevan-city.am/shop/product-details/113007",
     "key": "Yerevan City|id:113007|1410|1220"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Իշխան «Արտֆուդ» ծիածանափայլ, տոմատում 240գր",
+    "old": 1410,
+    "new": 1220,
+    "pct": 13,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1143397.png",
+    "url": "https://yerevan-city.am/shop/product-details/113008",
+    "key": "Yerevan City|id:113008|1410|1220"
    }
   ]
  },
