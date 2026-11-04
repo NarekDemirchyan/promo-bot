@@ -2068,7 +2068,8 @@
    "Yerevan City|id:108698|1390|950",
    "Yerevan City|id:27256|1390|695",
    "Yerevan City|id:130538|1390|890",
-   "Yerevan City|id:167483|1390|790"
+   "Yerevan City|id:167483|1390|790",
+   "Yerevan City|id:9667|1390|1110"
   ]
  },
  "queues": {
@@ -6463,6 +6464,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1162863.png",
     "url": "https://yerevan-city.am/shop/product-details/167483",
     "key": "Yerevan City|id:167483|1390|790"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հոտազերծիչ «Դեոնիկա» անտեսանելի 200մլ",
+    "old": 1390,
+    "new": 1110,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1056078.png",
+    "url": "https://yerevan-city.am/shop/product-details/9667",
+    "key": "Yerevan City|id:9667|1390|1110"
    }
   ]
  },
