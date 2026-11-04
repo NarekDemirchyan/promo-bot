@@ -1956,22 +1956,12 @@
    "Yerevan City|id:176320|1460|1170",
    "Yerevan City|id:90654|1440|1250",
    "Yerevan City|id:114611|1430|1250",
-   "Yerevan City|id:7125|1430|1230"
+   "Yerevan City|id:7125|1430|1230",
+   "Yerevan City|id:18154|1430|1230"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Լոլիկ սեփական հյութի մեջ «Անտառի» 930գ",
-    "old": 1220,
-    "new": 1090,
-    "pct": 11,
-    "until": "13.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/289/923/92372514109955.webp",
-    "url": "https://www.sas.am/catalog/baklazhan/189026/",
-    "key": "SAS|id:189026|1220|1090"
-   },
    {
     "store": "SAS",
     "title": "Սերուցք սոուսների համար «Parmalat Chef» 200գ, յուղայնությունը՝ 23%:",
@@ -5537,12 +5527,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1000428.png",
     "url": "https://yerevan-city.am/shop/product-details/7125",
     "key": "Yerevan City|id:7125|1430|1230"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շամպուն «Պանտին Պրո-Վ» սնուցում և փայլ 250մլ",
+    "old": 1430,
+    "new": 1230,
+    "pct": 14,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1036791.png",
+    "url": "https://yerevan-city.am/shop/product-details/18154",
+    "key": "Yerevan City|id:18154|1430|1230"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-04T05:46:17.768107+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-04T06:01:39.705933+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
