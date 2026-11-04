@@ -2051,22 +2051,12 @@
    "Yerevan City|id:113008|1410|1220",
    "Yerevan City|id:445|1390|1240",
    "Yerevan City|id:177692|1390|990",
-   "Yerevan City|id:9660|1390|1110"
+   "Yerevan City|id:9660|1390|1110",
+   "Yerevan City|id:108693|1390|950"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Թյունոս ձեթի մեջ «Calvo» 142գ",
-    "old": 1490,
-    "new": 1320,
-    "pct": 11,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/186/465/465629551778892.webp",
-    "url": "https://www.sas.am/catalog/v_masle/76364/",
-    "key": "SAS|id:76364|1490|1320"
-   },
    {
     "store": "SAS",
     "title": "Խաղալիք «EnchanTimals»",
@@ -6435,12 +6425,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1056080.png",
     "url": "https://yerevan-city.am/shop/product-details/9660",
     "key": "Yerevan City|id:9660|1390|1110"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շամպուն «Շաումա» 7խոտաբույս նորմալ-յուղ.մազ.400մ",
+    "old": 1390,
+    "new": 950,
+    "pct": 32,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1141428.png",
+    "url": "https://yerevan-city.am/shop/product-details/108693",
+    "key": "Yerevan City|id:108693|1390|950"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-04T12:31:39.495848+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-04T12:46:07.150412+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
