@@ -1953,7 +1953,8 @@
    "Yerevan City|id:8673|1450|1160",
    "Yerevan City|id:191886|1470|1260",
    "Yerevan City|id:24338|1450|1150",
-   "Yerevan City|id:176320|1460|1170"
+   "Yerevan City|id:176320|1460|1170",
+   "Yerevan City|id:90654|1440|1250"
   ]
  },
  "queues": {
@@ -5567,6 +5568,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169950.png",
     "url": "https://yerevan-city.am/shop/product-details/176320",
     "key": "Yerevan City|id:176320|1460|1170"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մարինացված եգիպտացորեն «Կյուհնե» պատիճով 180գր",
+    "old": 1440,
+    "new": 1250,
+    "pct": 13,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1127638.png",
+    "url": "https://yerevan-city.am/shop/product-details/90654",
+    "key": "Yerevan City|id:90654|1440|1250"
    }
   ]
  },
