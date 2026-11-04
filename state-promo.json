@@ -1011,7 +1011,8 @@
    "SAS|id:142866|4830|3740",
    "SAS|id:131683|2340|2090",
    "SAS|id:131678|2340|2090",
-   "SAS|id:126459|810|750"
+   "SAS|id:126459|810|750",
+   "SAS|id:2457|4850|3930"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4240,20 +4241,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/osvezhiteli/126459/",
     "key": "SAS|id:126459|810|750"
+   },
+   {
+    "store": "SAS",
+    "title": "Լվացքի գել գունավոր «Persil Color Gel» 1.69լ",
+    "old": 4850,
+    "new": 3930,
+    "pct": 19,
+    "until": "13.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/stiralnyy_poroshok/2457/",
+    "key": "SAS|id:2457|4850|3930"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Գարեջուր «Աֆանասիյ» Մարոչնոե, բաց ա/տ 0.5լ",
-    "old": 990,
-    "new": 495,
-    "pct": 50,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1055494.png",
-    "url": "https://yerevan-city.am/shop/product-details/105023",
-    "key": "Yerevan City|id:105023|990|495"
-   },
    {
     "store": "Yerevan City",
     "title": "Գարեջուր «Աֆանասիյ» Մարոչնոե, մուգ ա/տ 0.5լ",
@@ -6446,8 +6447,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-04T11:01:57.837642+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-04T11:18:31.186000+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
