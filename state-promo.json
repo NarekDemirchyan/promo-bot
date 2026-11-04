@@ -1035,7 +1035,8 @@
    "SAS|id:82999|990|790",
    "SAS|id:631510|2690|2550",
    "SAS|id:631509|1320|1240",
-   "SAS|id:531639|240|175"
+   "SAS|id:531639|240|175",
+   "SAS|id:517919|2790|2170"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4288,20 +4289,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/rastvorimyy_kofe/531639/",
     "key": "SAS|id:531639|240|175"
+   },
+   {
+    "store": "SAS",
+    "title": "Պատրաստի նախաճաշ «Kit Kat» 330գ",
+    "old": 2790,
+    "new": 2170,
+    "pct": 22,
+    "until": "20.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/gotovyy_zavtrak/517919/",
+    "key": "SAS|id:517919|2790|2170"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Մաքրող միջ.զուգարանակոնքի «Սանո» Սան.նարդոս 55գր",
-    "old": 890,
-    "new": 520,
-    "pct": 42,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1115011.png",
-    "url": "https://yerevan-city.am/shop/product-details/71575",
-    "key": "Yerevan City|id:71575|890|520"
-   },
    {
     "store": "Yerevan City",
     "title": "Գրաֆին «Իսֆահան» Դորիս 1.1լ 706",
@@ -6494,8 +6495,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-05T02:31:49.353563+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-05T02:46:39.398926+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
