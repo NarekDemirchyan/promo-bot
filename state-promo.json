@@ -2053,7 +2053,8 @@
    "Yerevan City|id:177692|1390|990",
    "Yerevan City|id:9660|1390|1110",
    "Yerevan City|id:108693|1390|950",
-   "Yerevan City|id:108694|1390|950"
+   "Yerevan City|id:108694|1390|950",
+   "Yerevan City|id:108695|1390|950"
   ]
  },
  "queues": {
@@ -6415,6 +6416,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1141429.png",
     "url": "https://yerevan-city.am/shop/product-details/108694",
     "key": "Yerevan City|id:108694|1390|950"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շամպուն «Շաումա» նուռ-դեղձ, նորմալ մազեր400մլ",
+    "old": 1390,
+    "new": 950,
+    "pct": 32,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1141430.png",
+    "url": "https://yerevan-city.am/shop/product-details/108695",
+    "key": "Yerevan City|id:108695|1390|950"
    }
   ]
  },
