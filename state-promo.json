@@ -2070,22 +2070,12 @@
    "Yerevan City|id:27256|1390|695",
    "Yerevan City|id:130538|1390|890",
    "Yerevan City|id:167483|1390|790",
-   "Yerevan City|id:9667|1390|1110"
+   "Yerevan City|id:9667|1390|1110",
+   "Yerevan City|id:170799|1390|820"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Հյութ նռան «Santal» 1լ",
-    "old": 1430,
-    "new": 1160,
-    "pct": 19,
-    "until": "15.01.2027",
-    "img": "",
-    "url": "https://www.sas.am/catalog/sok/167740/",
-    "key": "SAS|id:167740|1430|1160"
-   },
    {
     "store": "SAS",
     "title": "Նեկտար նարնջի «Santal» 1լ",
@@ -6465,12 +6455,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1056078.png",
     "url": "https://yerevan-city.am/shop/product-details/9667",
     "key": "Yerevan City|id:9667|1390|1110"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Դեմքի դիմակ «Ռիվաժ» ածուխ, սպիտակ. 6հտ",
+    "old": 1390,
+    "new": 820,
+    "pct": 41,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1164465.png",
+    "url": "https://yerevan-city.am/shop/product-details/170799",
+    "key": "Yerevan City|id:170799|1390|820"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-04T19:02:21.551617+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-04T19:33:09.062293+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
