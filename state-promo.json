@@ -1955,22 +1955,12 @@
    "Yerevan City|id:24338|1450|1150",
    "Yerevan City|id:176320|1460|1170",
    "Yerevan City|id:90654|1440|1250",
-   "Yerevan City|id:114611|1430|1250"
+   "Yerevan City|id:114611|1430|1250",
+   "Yerevan City|id:7125|1430|1230"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ականջակալների պատյան «Puro Iphone»",
-    "old": 3090,
-    "new": 1540,
-    "pct": 50,
-    "until": "31.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/334/253/2530471088270571.webp",
-    "url": "https://www.sas.am/catalog/telefon_telefonnye_aksessuary/201909/",
-    "key": "SAS|id:201909|3090|1540"
-   },
    {
     "store": "SAS",
     "title": "Լոլիկ սեփական հյութի մեջ «Անտառի» 930գ",
@@ -5547,12 +5537,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1144772.png",
     "url": "https://yerevan-city.am/shop/product-details/114611",
     "key": "Yerevan City|id:114611|1430|1250"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շամպուն «Պանտին Պրո-Վ» ինտենսիվ վերականգնում250մ",
+    "old": 1430,
+    "new": 1230,
+    "pct": 14,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1000428.png",
+    "url": "https://yerevan-city.am/shop/product-details/7125",
+    "key": "Yerevan City|id:7125|1430|1230"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-04T05:17:07.511042+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-04T05:31:34.784914+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
