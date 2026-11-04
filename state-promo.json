@@ -2079,22 +2079,12 @@
    "Yerevan City|id:9671|1390|1110",
    "Yerevan City|id:12681|1390|1090",
    "Yerevan City|id:14784|1390|1110",
-   "Yerevan City|id:159111|1390|90"
+   "Yerevan City|id:159111|1390|90",
+   "Yerevan City|id:103781|1390|1190"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Հյութ կարմիր մրգերի «Santal» 1լ",
-    "old": 1520,
-    "new": 1160,
-    "pct": 24,
-    "until": "15.01.2027",
-    "img": "",
-    "url": "https://www.sas.am/catalog/sok/167237/",
-    "key": "SAS|id:167237|1520|1160"
-   },
    {
     "store": "SAS",
     "title": "Սերուցք հարելու համար «Parmalat» 200մլ, յուղայնությունը՝ 35",
@@ -6463,12 +6453,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156771.png",
     "url": "https://yerevan-city.am/shop/product-details/159111",
     "key": "Yerevan City|id:159111|1390|90"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թխվածքաբլիթ «Լոտուս» Բիսկոֆ 250գր",
+    "old": 1390,
+    "new": 1190,
+    "pct": 14,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1138577.png",
+    "url": "https://yerevan-city.am/shop/product-details/103781",
+    "key": "Yerevan City|id:103781|1390|1190"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-04T22:16:05.645538+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-04T22:31:13.020435+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
