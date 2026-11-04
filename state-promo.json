@@ -2076,17 +2076,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Հյութ կարմիր նարնջի «Santal» 1լ",
-    "old": 1520,
-    "new": 1160,
-    "pct": 24,
-    "until": "15.01.2027",
-    "img": "",
-    "url": "https://www.sas.am/catalog/sok/167747/",
-    "key": "SAS|id:167747|1520|1160"
-   },
-   {
-    "store": "SAS",
     "title": "Հյութ նռան «Santal» 1լ",
     "old": 1430,
     "new": 1160,
@@ -6479,8 +6468,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-04T18:18:42.547116+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-04T18:46:34.062145+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
