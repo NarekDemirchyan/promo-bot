@@ -1013,7 +1013,11 @@
    "SAS|id:131678|2340|2090",
    "SAS|id:126459|810|750",
    "SAS|id:2457|4850|3930",
-   "SAS|id:126453|810|750"
+   "SAS|id:126453|810|750",
+   "SAS|id:97660|790|640",
+   "SAS|id:126442|810|750",
+   "SAS|id:97532|3590|2850",
+   "SAS|id:62111|4630|4270"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2054,22 +2058,12 @@
    "Yerevan City|id:9660|1390|1110",
    "Yerevan City|id:108693|1390|950",
    "Yerevan City|id:108694|1390|950",
-   "Yerevan City|id:108695|1390|950"
+   "Yerevan City|id:108695|1390|950",
+   "Yerevan City|id:108697|1390|950"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սարդելկա առանց գլյուտենի «Greisinger Knacker» 450գ",
-    "old": 3950,
-    "new": 3440,
-    "pct": 13,
-    "until": "13.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/sosiski_sordelki/4038/",
-    "key": "SAS|id:4038|3950|3440"
-   },
    {
     "store": "SAS",
     "title": "Լոլիկ կեղևահան սեփական հյութի մեջ «Ռոյալ» 630գ",
@@ -4214,6 +4208,50 @@
     "img": "",
     "url": "https://www.sas.am/catalog/osvezhiteli/126453/",
     "key": "SAS|id:126453|810|750"
+   },
+   {
+    "store": "SAS",
+    "title": "Դեմքի դիմակ «Garnier Skin Naturals» 32գ",
+    "old": 790,
+    "new": 640,
+    "pct": 19,
+    "until": "27.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/222/195/195269308626079.webp",
+    "url": "https://www.sas.am/catalog/vse_dlya_litsa/97660/",
+    "key": "SAS|id:97660|790|640"
+   },
+   {
+    "store": "SAS",
+    "title": "Օդը թարմացնող միջոց «Chirton Альпийская Свежесть» 300մլ",
+    "old": 810,
+    "new": 750,
+    "pct": 7,
+    "until": "13.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/158/082/0823442700376368.webp",
+    "url": "https://www.sas.am/catalog/osvezhiteli/126442/",
+    "key": "SAS|id:126442|810|750"
+   },
+   {
+    "store": "SAS",
+    "title": "Մազերի դիմակ «Garnier Fructis» 390մլ",
+    "old": 3590,
+    "new": 2850,
+    "pct": 21,
+    "until": "27.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/876/460/4603881146023642.webp",
+    "url": "https://www.sas.am/catalog/maska_konditsioner_dlya_volos/97532/",
+    "key": "SAS|id:97532|3590|2850"
+   },
+   {
+    "store": "SAS",
+    "title": "Սափրող սարքի գլխիկներ «Gillette Venus Breeze» 2հատ",
+    "old": 4630,
+    "new": 4270,
+    "pct": 8,
+    "until": "27.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/385/376/3769261187275852.webp",
+    "url": "https://www.sas.am/catalog/kasseta_dlya_britya/62111/",
+    "key": "SAS|id:62111|4630|4270"
    }
   ],
   "Yerevan City": [
@@ -6405,12 +6443,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1141430.png",
     "url": "https://yerevan-city.am/shop/product-details/108695",
     "key": "Yerevan City|id:108695|1390|950"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շամպուն տղ. «Շաումա» էվկալիպտով 2-ը 1-ում 400մլ",
+    "old": 1390,
+    "new": 950,
+    "pct": 32,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1141432.png",
+    "url": "https://yerevan-city.am/shop/product-details/108697",
+    "key": "Yerevan City|id:108697|1390|950"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-04T14:31:09.282322+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-04T15:31:39.764428+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
