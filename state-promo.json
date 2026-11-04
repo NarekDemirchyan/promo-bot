@@ -1025,7 +1025,8 @@
    "SAS|id:27332|1470|1190",
    "SAS|id:27331|1470|1190",
    "SAS|id:19212|2540|2190",
-   "SAS|id:19139|4190|3290"
+   "SAS|id:19139|4190|3290",
+   "SAS|id:19136|4190|3290"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4268,6 +4269,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/288/278/278599545399705.webp",
     "url": "https://www.sas.am/catalog/balzam_dlya_volos/19139/",
     "key": "SAS|id:19139|4190|3290"
+   },
+   {
+    "store": "SAS",
+    "title": "Մազերի կոնդիցիոներ «OGX» 385մլ",
+    "old": 4190,
+    "new": 3290,
+    "pct": 21,
+    "until": "13.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/483/377/3777044004127331.webp",
+    "url": "https://www.sas.am/catalog/balzam_dlya_volos/19136/",
+    "key": "SAS|id:19136|4190|3290"
    }
   ],
   "Yerevan City": [
