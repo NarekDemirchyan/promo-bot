@@ -2100,22 +2100,12 @@
    "Yerevan City|id:66644|1490|390",
    "Yerevan City|id:174801|1490|1290",
    "Yerevan City|id:181301|1490|1090",
-   "Yerevan City|id:180244|1490|990"
+   "Yerevan City|id:180244|1490|990",
+   "Yerevan City|id:10133|1480|1210"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Նրբերշիկ «Բեկոն Հոթ դոգ» 18հատ",
-    "old": 1170,
-    "new": 990,
-    "pct": 15,
-    "until": "13.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/sosiski_sordelki/168668/",
-    "key": "SAS|id:168668|1170|990"
-   },
    {
     "store": "SAS",
     "title": "Ելակ սառեցված «Планета Витаминов» 300գ",
@@ -6495,12 +6485,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173905.png",
     "url": "https://yerevan-city.am/shop/product-details/180244",
     "key": "Yerevan City|id:180244|1490|990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հոտազերծիչ «Նիվեա» փոշու էֆֆեկտ 150մլ",
+    "old": 1480,
+    "new": 1210,
+    "pct": 18,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1026880.png",
+    "url": "https://yerevan-city.am/shop/product-details/10133",
+    "key": "Yerevan City|id:10133|1480|1210"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-05T03:45:57.628033+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-05T04:02:14.332887+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
