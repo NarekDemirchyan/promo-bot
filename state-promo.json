@@ -4375,17 +4375,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Հնդկաձավար «Մակֆա» 800գր",
-    "old": 870,
-    "new": 790,
-    "pct": 9,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1038536.png",
-    "url": "https://yerevan-city.am/shop/product-details/11591",
-    "key": "Yerevan City|id:11591|870|790"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Սպասք լվանալու հեղուկ «Ֆրոշ» կանաչ կիտրոն 500մլ",
     "old": 870,
     "new": 560,
@@ -6576,8 +6565,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-05T23:32:52.283729+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-06T00:01:49.349035+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
