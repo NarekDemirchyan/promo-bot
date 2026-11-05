@@ -2148,22 +2148,12 @@
    "Yerevan City|id:2839|1290|990",
    "Yerevan City|id:2911|1290|990",
    "Yerevan City|id:177090|1290|770",
-   "Yerevan City|id:195115|1290|890"
+   "Yerevan City|id:195115|1290|890",
+   "Yerevan City|id:194188|1290|1090"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Մարմելադե կոնֆետներ «Mamba Фрумеладки» 70գ",
-    "old": 530,
-    "new": 430,
-    "pct": 19,
-    "until": "13.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/zhele_plastila/2572/",
-    "key": "SAS|id:2572|530|430"
-   },
    {
     "store": "SAS",
     "title": "Լվացքի գել սպիտակ «Persil Power Gel Vernel» 1.69լ",
@@ -6543,12 +6533,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178920.png",
     "url": "https://yerevan-city.am/shop/product-details/195115",
     "key": "Yerevan City|id:195115|1290|890"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Չիպս «Լեյս» Օվն, յոգուրտ կանաչիով 110գր",
+    "old": 1290,
+    "new": 1090,
+    "pct": 16,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177934.png",
+    "url": "https://yerevan-city.am/shop/product-details/194188",
+    "key": "Yerevan City|id:194188|1290|1090"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-05T18:16:26.262805+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-05T18:32:56.195991+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
