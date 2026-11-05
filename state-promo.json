@@ -1070,7 +1070,8 @@
    "SAS|id:62749|1330|990",
    "SAS|id:913222|920|790",
    "SAS|id:927944|180|140",
-   "SAS|id:913224|880|790"
+   "SAS|id:913224|880|790",
+   "SAS|id:82992|3420|2940"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4358,6 +4359,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/yogurt_puding/913224/",
     "key": "SAS|id:913224|880|790"
+   },
+   {
+    "store": "SAS",
+    "title": "Սրճային ըմպելիք լուծվող «Jacobs Cappuccino Choco Milka» 500գ",
+    "old": 3420,
+    "new": 2940,
+    "pct": 14,
+    "until": "27.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/109/080/0807662776862273.webp",
+    "url": "https://www.sas.am/catalog/rastvorimyy_kofe/82992/",
+    "key": "SAS|id:82992|3420|2940"
    }
   ],
   "Yerevan City": [
