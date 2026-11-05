@@ -2118,22 +2118,12 @@
    "Yerevan City|id:23807|1480|1210",
    "Yerevan City|id:92866|1480|1210",
    "Yerevan City|id:170030|1480|1210",
-   "Yerevan City|id:180034|1480|1210"
+   "Yerevan City|id:180034|1480|1210",
+   "Yerevan City|id:106278|1480|1340"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Տերև խաղողի «Ռոյալ» 600գ",
-    "old": 1450,
-    "new": 1370,
-    "pct": 6,
-    "until": "28.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/drugie_ovoschnye_konservy/2360/",
-    "key": "SAS|id:2360|1450|1370"
-   },
    {
     "store": "SAS",
     "title": "Գինի կարմիր «Marani Khvanchkara» 0.75լ",
@@ -6513,12 +6503,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173753.png",
     "url": "https://yerevan-city.am/shop/product-details/180034",
     "key": "Yerevan City|id:180034|1480|1210"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Փրփուր սափրվելու համար «Ժիլետ» օրիգինալ 200մլ",
+    "old": 1480,
+    "new": 1340,
+    "pct": 9,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1139428.png",
+    "url": "https://yerevan-city.am/shop/product-details/106278",
+    "key": "Yerevan City|id:106278|1480|1340"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-05T09:16:29.351952+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-05T09:31:38.190918+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
