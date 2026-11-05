@@ -2170,22 +2170,12 @@
    "Yerevan City|id:6192|1290|990",
    "Yerevan City|id:6625|1290|990",
    "Yerevan City|id:181042|1390|890",
-   "Yerevan City|id:9549|1370|1220"
+   "Yerevan City|id:9549|1370|1220",
+   "Yerevan City|id:180253|1350|1150"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Հակաքրտինքային աէրոզոլային միջոց «Garnier Men Экстремальная Защита» 150մլ",
-    "old": 1780,
-    "new": 1230,
-    "pct": 31,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/antiperspirantt/17532/",
-    "key": "SAS|id:17532|1780|1230"
-   },
    {
     "store": "SAS",
     "title": "Պաչեր ակնեի դեմ «Garnier Pure Active Invisible» 22 հատ",
@@ -6565,12 +6555,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1045043.png",
     "url": "https://yerevan-city.am/shop/product-details/9549",
     "key": "Yerevan City|id:9549|1370|1220"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թխվածքաբլիթ «Լագո» կակաո-անտ.ընկույզ 320գր",
+    "old": 1350,
+    "new": 1150,
+    "pct": 15,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173974.png",
+    "url": "https://yerevan-city.am/shop/product-details/180253",
+    "key": "Yerevan City|id:180253|1350|1150"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-06T01:16:41.960508+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-06T01:31:40.556135+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
@@ -6579,7 +6580,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 41,
+ "city_page": 42,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
