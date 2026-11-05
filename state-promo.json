@@ -2178,7 +2178,8 @@
    "Yerevan City|id:180253|1350|1150",
    "Yerevan City|id:15080|1290|990",
    "Yerevan City|id:179097|1290|645",
-   "Yerevan City|id:15897|1290|990"
+   "Yerevan City|id:15897|1290|990",
+   "Yerevan City|id:16744|1290|990"
   ]
  },
  "queues": {
@@ -6573,6 +6574,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1045971.png",
     "url": "https://yerevan-city.am/shop/product-details/15897",
     "key": "Yerevan City|id:15897|1290|990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հյութ պար.ըմպելիք «Սանտալ» կարմիր նարինջ 1լ",
+    "old": 1290,
+    "new": 990,
+    "pct": 23,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1053115.png",
+    "url": "https://yerevan-city.am/shop/product-details/16744",
+    "key": "Yerevan City|id:16744|1290|990"
    }
   ]
  },
