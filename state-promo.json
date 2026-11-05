@@ -2166,22 +2166,12 @@
    "Yerevan City|id:13955|1290|990",
    "Yerevan City|id:179098|1290|645",
    "Yerevan City|id:6192|1290|990",
-   "Yerevan City|id:6625|1290|990"
+   "Yerevan City|id:6625|1290|990",
+   "Yerevan City|id:181042|1390|890"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Չիպս աղի «Lay's Соль» 140գ",
-    "old": 980,
-    "new": 920,
-    "pct": 6,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/chipsy/399451/",
-    "key": "SAS|id:399451|980|920"
-   },
    {
     "store": "SAS",
     "title": "Ներդիրներ «o.b. Normal» 8հատ",
@@ -6561,12 +6551,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1045601.png",
     "url": "https://yerevan-city.am/shop/product-details/6625",
     "key": "Yerevan City|id:6625|1290|990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հյութի բաժակներ «Նորիթազեհ» Քուին 360մլ 6հտ",
+    "old": 1390,
+    "new": 890,
+    "pct": 36,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174768.png",
+    "url": "https://yerevan-city.am/shop/product-details/181042",
+    "key": "Yerevan City|id:181042|1390|890"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-06T00:01:49.349035+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-06T00:16:36.440487+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
