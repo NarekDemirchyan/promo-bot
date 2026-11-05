@@ -2162,22 +2162,12 @@
    "Yerevan City|id:12445|1290|645",
    "Yerevan City|id:4572|1290|990",
    "Yerevan City|id:13955|1290|990",
-   "Yerevan City|id:179098|1290|645"
+   "Yerevan City|id:179098|1290|645",
+   "Yerevan City|id:6192|1290|990"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Չիպս պապրիկայի «Lay's Papryka» 150գ",
-    "old": 980,
-    "new": 920,
-    "pct": 6,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/chipsy/202208/",
-    "key": "SAS|id:202208|980|920"
-   },
    {
     "store": "SAS",
     "title": "Շոկոլադե բատոն «Bounty» 82.5գ",
@@ -6557,12 +6547,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172803.png",
     "url": "https://yerevan-city.am/shop/product-details/179098",
     "key": "Yerevan City|id:179098|1290|645"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հյութ պար.ըմպելիք «Սանտալ» 10վիտ, կարմիր մրգեր 1",
+    "old": 1290,
+    "new": 990,
+    "pct": 23,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1037659.png",
+    "url": "https://yerevan-city.am/shop/product-details/6192",
+    "key": "Yerevan City|id:6192|1290|990"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-05T22:46:33.166216+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-05T23:01:48.925524+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
