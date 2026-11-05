@@ -1066,7 +1066,8 @@
    "SAS|id:851316|3290|2590",
    "SAS|id:841182|860|760",
    "SAS|id:197936|1420|920",
-   "SAS|id:83006|7190|4550"
+   "SAS|id:83006|7190|4550",
+   "SAS|id:62749|1330|990"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4350,20 +4351,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/rastvorimyy_kofe/83006/",
     "key": "SAS|id:83006|7190|4550"
+   },
+   {
+    "store": "SAS",
+    "title": "Շիլա վարսակի «Nestle Быстров» 240գ",
+    "old": 1330,
+    "new": 990,
+    "pct": 26,
+    "until": "20.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/kasha_myusli/62749/",
+    "key": "SAS|id:62749|1330|990"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Քերիչ «Դեննի Հոմ» 4 կողմանի ներժ ԴՀ3665",
-    "old": 890,
-    "new": 540,
-    "pct": 39,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1166105.png",
-    "url": "https://yerevan-city.am/shop/product-details/172525",
-    "key": "Yerevan City|id:172525|890|540"
-   },
    {
     "store": "Yerevan City",
     "title": "Խոզանակ խմորի համար «Դեննի Հոմ» սիլ.-փայտ ԴՀ0746",
@@ -6556,8 +6557,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-05T21:31:41.252393+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-05T21:46:30.898179+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
