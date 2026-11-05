@@ -2104,22 +2104,12 @@
    "Yerevan City|id:181301|1490|1090",
    "Yerevan City|id:180244|1490|990",
    "Yerevan City|id:10133|1480|1210",
-   "Yerevan City|id:161993|1490|1090"
+   "Yerevan City|id:161993|1490|1090",
+   "Yerevan City|id:15488|1480|1210"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Թեյ սև «Althaus Earl Grey Classic» 15*2.75գ",
-    "old": 4290,
-    "new": 3580,
-    "pct": 17,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/v_paketakh/198062/",
-    "key": "SAS|id:198062|4290|3580"
-   },
    {
     "store": "SAS",
     "title": "Հյութ պարունակող ըմպելիք թուրինջի «Santal» 1լ",
@@ -6499,12 +6489,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1159773.png",
     "url": "https://yerevan-city.am/shop/product-details/161993",
     "key": "Yerevan City|id:161993|1490|1090"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հոտազերծիչ «Նիվեա» նուրբ խնամք, վարդագույն 150մլ",
+    "old": 1480,
+    "new": 1210,
+    "pct": 18,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1014246.png",
+    "url": "https://yerevan-city.am/shop/product-details/15488",
+    "key": "Yerevan City|id:15488|1480|1210"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-05T05:01:18.873998+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-05T05:16:26.026993+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
