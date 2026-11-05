@@ -1046,7 +1046,8 @@
    "SAS|id:631530|2470|2340",
    "SAS|id:20626|390|330",
    "SAS|id:960141|4590|3720",
-   "SAS|id:945967|520|400"
+   "SAS|id:945967|520|400",
+   "SAS|id:195156|2290|1990"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4310,20 +4311,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/vermishel_lapsha2/945967/",
     "key": "SAS|id:945967|520|400"
+   },
+   {
+    "store": "SAS",
+    "title": "Խինկալի «Գյուրջյան Ֆիրմային» 800գ",
+    "old": 2290,
+    "new": 1990,
+    "pct": 13,
+    "until": "13.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/varenik_khinkali/195156/",
+    "key": "SAS|id:195156|2290|1990"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Կոնստրուկտոր-փազլ «Դինոզավր» 6010-4",
-    "old": 990,
-    "new": 590,
-    "pct": 40,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1167065.png",
-    "url": "https://yerevan-city.am/shop/product-details/173470",
-    "key": "Yerevan City|id:173470|990|590"
-   },
    {
     "store": "Yerevan City",
     "title": "Տանկ քանդվող 7654-Ա3",
@@ -6516,8 +6517,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-05T08:47:53.655799+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-05T09:16:29.351952+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
