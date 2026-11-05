@@ -2172,22 +2172,12 @@
    "Yerevan City|id:6625|1290|990",
    "Yerevan City|id:181042|1390|890",
    "Yerevan City|id:9549|1370|1220",
-   "Yerevan City|id:180253|1350|1150"
+   "Yerevan City|id:180253|1350|1150",
+   "Yerevan City|id:15080|1290|990"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Պաչեր ակնեի դեմ «Garnier Pure Active Invisible» 22 հատ",
-    "old": 4750,
-    "new": 4190,
-    "pct": 12,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/vse_dlya_litsa/952960/",
-    "key": "SAS|id:952960|4750|4190"
-   },
    {
     "store": "SAS",
     "title": "Հակաքրտինքային միջոց գնդիկով «Rexona Advanced Protection Bamboo & Aloe» 50մլ",
@@ -6567,12 +6557,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173974.png",
     "url": "https://yerevan-city.am/shop/product-details/180253",
     "key": "Yerevan City|id:180253|1350|1150"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Նեկտար «Սանտալ» մանգո 1լ",
+    "old": 1290,
+    "new": 990,
+    "pct": 23,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1100349.png",
+    "url": "https://yerevan-city.am/shop/product-details/15080",
+    "key": "Yerevan City|id:15080|1290|990"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-06T01:46:39.207287+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-06T02:03:16.309248+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
