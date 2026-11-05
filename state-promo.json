@@ -1052,7 +1052,8 @@
    "SAS|id:927946|180|140",
    "SAS|id:927939|590|450",
    "SAS|id:945969|520|400",
-   "SAS|id:945968|520|400"
+   "SAS|id:945968|520|400",
+   "SAS|id:20625|390|330"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4322,6 +4323,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/vermishel_lapsha2/945968/",
     "key": "SAS|id:945968|520|400"
+   },
+   {
+    "store": "SAS",
+    "title": "Շոկոլադե բատոն «Kit Kat» 40գ",
+    "old": 390,
+    "new": 330,
+    "pct": 15,
+    "until": "20.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/batonchik/20625/",
+    "key": "SAS|id:20625|390|330"
    }
   ],
   "Yerevan City": [
