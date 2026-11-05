@@ -1051,7 +1051,8 @@
    "SAS|id:960140|3650|2870",
    "SAS|id:927946|180|140",
    "SAS|id:927939|590|450",
-   "SAS|id:945969|520|400"
+   "SAS|id:945969|520|400",
+   "SAS|id:945968|520|400"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4320,20 +4321,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/424/650/6501572048353373.webp",
     "url": "https://www.sas.am/catalog/vermishel_lapsha2/945969/",
     "key": "SAS|id:945969|520|400"
+   },
+   {
+    "store": "SAS",
+    "title": "Լապշա կծու կիմչիի «Chibi Kimchi Spicy Kick» 85գ",
+    "old": 520,
+    "new": 400,
+    "pct": 23,
+    "until": "28.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/vermishel_lapsha2/945968/",
+    "key": "SAS|id:945968|520|400"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Սկետչբուք-նոթատետր զսպ․ «Ինքնանկար» Ա4",
-    "old": 990,
-    "new": 590,
-    "pct": 40,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1171430.png",
-    "url": "https://yerevan-city.am/shop/product-details/177753",
-    "key": "Yerevan City|id:177753|990|590"
-   },
    {
     "store": "Yerevan City",
     "title": "Ափսե «Դեննի Հոմ» սպիտակ կլոր 22սմ 1հտ ԲՎ20-136-2",
@@ -6526,8 +6527,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-05T12:01:47.500254+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-05T12:16:39.556485+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
