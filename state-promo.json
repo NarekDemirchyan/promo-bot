@@ -1062,7 +1062,8 @@
    "SAS|id:547804|820|730",
    "SAS|id:442337|2460|1950",
    "SAS|id:426577|720|490",
-   "SAS|id:198014|870|570"
+   "SAS|id:198014|870|570",
+   "SAS|id:851316|3290|2590"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4342,6 +4343,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/v_paketakh/198014/",
     "key": "SAS|id:198014|870|570"
+   },
+   {
+    "store": "SAS",
+    "title": "Պատիճ սուրճի «Lavazza Qualita Oro» 10հատ, 55գ",
+    "old": 3290,
+    "new": 2590,
+    "pct": 21,
+    "until": "13.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/drugoy/851316/",
+    "key": "SAS|id:851316|3290|2590"
    }
   ],
   "Yerevan City": [
