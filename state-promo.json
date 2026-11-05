@@ -2160,7 +2160,8 @@
    "Yerevan City|id:193134|1290|990",
    "Yerevan City|id:12445|1290|645",
    "Yerevan City|id:4572|1290|990",
-   "Yerevan City|id:13955|1290|990"
+   "Yerevan City|id:13955|1290|990",
+   "Yerevan City|id:179098|1290|645"
   ]
  },
  "queues": {
@@ -6555,6 +6556,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1090054.png",
     "url": "https://yerevan-city.am/shop/product-details/13955",
     "key": "Yerevan City|id:13955|1290|990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Օշարակ «Ռոբինսոնս» 20 դեղձ-գարի ա/շ 1լ",
+    "old": 1290,
+    "new": 645,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172803.png",
+    "url": "https://yerevan-city.am/shop/product-details/179098",
+    "key": "Yerevan City|id:179098|1290|645"
    }
   ]
  },
