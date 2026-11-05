@@ -2152,22 +2152,12 @@
    "Yerevan City|id:177090|1290|770",
    "Yerevan City|id:195115|1290|890",
    "Yerevan City|id:194188|1290|1090",
-   "Yerevan City|id:191771|1290|900"
+   "Yerevan City|id:191771|1290|900",
+   "Yerevan City|id:193134|1290|990"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Զովացուցիչ գազավորված ըմպելիք «Coca-Cola» 1լ",
-    "old": 620,
-    "new": 480,
-    "pct": 23,
-    "until": "06.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/osvezhayushchiy_napitok/113579/",
-    "key": "SAS|id:113579|620|480"
-   },
    {
     "store": "SAS",
     "title": "Զովացուցիչ գազավորված ըմպելիք «Coca Cola Zero» 1լ",
@@ -6547,12 +6537,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175497.png",
     "url": "https://yerevan-city.am/shop/product-details/191771",
     "key": "Yerevan City|id:191771|1290|900"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ձեռքի հովացուցիչ «Սպիդա» ՍՊԴ-ՄՆՖ55",
+    "old": 1290,
+    "new": 990,
+    "pct": 23,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176891.png",
+    "url": "https://yerevan-city.am/shop/product-details/193134",
+    "key": "Yerevan City|id:193134|1290|990"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-05T19:31:51.714378+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-05T19:48:20.607358+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
