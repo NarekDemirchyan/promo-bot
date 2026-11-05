@@ -2110,7 +2110,8 @@
    "Yerevan City|id:161993|1490|1090",
    "Yerevan City|id:15488|1480|1210",
    "Yerevan City|id:18142|1480|1210",
-   "Yerevan City|id:18240|1480|1210"
+   "Yerevan City|id:18240|1480|1210",
+   "Yerevan City|id:23807|1480|1210"
   ]
  },
  "queues": {
@@ -6505,6 +6506,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1000095.png",
     "url": "https://yerevan-city.am/shop/product-details/18240",
     "key": "Yerevan City|id:18240|1480|1210"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հոտազերծիչ «Նիվեա» մարգարտե գեղեցկություն 150մլ",
+    "old": 1480,
+    "new": 1210,
+    "pct": 18,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1000171.png",
+    "url": "https://yerevan-city.am/shop/product-details/23807",
+    "key": "Yerevan City|id:23807|1480|1210"
    }
   ]
  },
