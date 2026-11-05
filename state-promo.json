@@ -2168,17 +2168,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Չիպս պանրի «Lay's Сыр» 150գ",
-    "old": 980,
-    "new": 920,
-    "pct": 6,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/chipsy/202245/",
-    "key": "SAS|id:202245|980|920"
-   },
-   {
-    "store": "SAS",
     "title": "Չիպս պապրիկայի «Lay's Papryka» 150գ",
     "old": 980,
     "new": 920,
@@ -6571,8 +6560,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-05T22:17:51.738753+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-05T22:32:23.064387+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
