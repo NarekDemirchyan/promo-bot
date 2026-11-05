@@ -2136,7 +2136,8 @@
    "Yerevan City|id:113642|1380|1210",
    "Yerevan City|id:181112|1375|1090",
    "Yerevan City|id:181113|1375|1090",
-   "Yerevan City|id:181114|1375|1090"
+   "Yerevan City|id:181114|1375|1090",
+   "Yerevan City|id:162545|1370|1300"
   ]
  },
  "queues": {
@@ -6531,6 +6532,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174844.png",
     "url": "https://yerevan-city.am/shop/product-details/181114",
     "key": "Yerevan City|id:181114|1375|1090"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Խորոված բանջարեղեն «Իջևան» 900գր",
+    "old": 1370,
+    "new": 1300,
+    "pct": 5,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1160231.png",
+    "url": "https://yerevan-city.am/shop/product-details/162545",
+    "key": "Yerevan City|id:162545|1370|1300"
    }
   ]
  },
@@ -6545,7 +6557,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 38,
+ "city_page": 39,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
