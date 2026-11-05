@@ -1060,7 +1060,8 @@
    "SAS|id:276548|2550|2280",
    "SAS|id:935013|1000|940",
    "SAS|id:547804|820|730",
-   "SAS|id:442337|2460|1950"
+   "SAS|id:442337|2460|1950",
+   "SAS|id:426577|720|490"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4338,6 +4339,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/204/085/0852011898473395.webp",
     "url": "https://www.sas.am/catalog/gotovyy_zavtrak/442337/",
     "key": "SAS|id:442337|2460|1950"
+   },
+   {
+    "store": "SAS",
+    "title": "Թեյ սև «Curtis Very Berry» 20*1.7գ",
+    "old": 720,
+    "new": 490,
+    "pct": 32,
+    "until": "27.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/289/408/4089603785958678.webp",
+    "url": "https://www.sas.am/catalog/v_paketakh/426577/",
+    "key": "SAS|id:426577|720|490"
    }
   ],
   "Yerevan City": [
