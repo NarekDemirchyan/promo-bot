@@ -2108,22 +2108,12 @@
    "Yerevan City|id:10133|1480|1210",
    "Yerevan City|id:161993|1490|1090",
    "Yerevan City|id:15488|1480|1210",
-   "Yerevan City|id:18142|1480|1210"
+   "Yerevan City|id:18142|1480|1210",
+   "Yerevan City|id:18240|1480|1210"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Նեկտար ելակի և բանանի «Santal Plus» 1լ",
-    "old": 1520,
-    "new": 1160,
-    "pct": 24,
-    "until": "15.01.2027",
-    "img": "",
-    "url": "https://www.sas.am/catalog/sok/167267/",
-    "key": "SAS|id:167267|1520|1160"
-   },
    {
     "store": "SAS",
     "title": "Նեկտար արքայախնձորի և կոկոսի «Santal Plus» 1լ",
@@ -6503,12 +6493,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1089768.png",
     "url": "https://yerevan-city.am/shop/product-details/18142",
     "key": "Yerevan City|id:18142|1480|1210"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հոտազերծիչ «Նիվեա» թարմության էներգիա 150մլ",
+    "old": 1480,
+    "new": 1210,
+    "pct": 18,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1000095.png",
+    "url": "https://yerevan-city.am/shop/product-details/18240",
+    "key": "Yerevan City|id:18240|1480|1210"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-05T06:01:01.656453+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-05T06:15:44.173098+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
