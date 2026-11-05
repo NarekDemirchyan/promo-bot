@@ -2144,17 +2144,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Զուգարանի թուղթ «Էկկա Պրեմիում Դելյուքս» 4 հատ",
-    "old": 970,
-    "new": 770,
-    "pct": 21,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/tualetnaya_bumaga/262440/",
-    "key": "SAS|id:262440|970|770"
-   },
-   {
-    "store": "SAS",
     "title": "Դեմքի դիմակ «Garnier Skin Naturals» 32գ",
     "old": 790,
     "new": 640,
@@ -6547,8 +6536,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-05T14:47:50.239210+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-05T15:16:28.297596+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
