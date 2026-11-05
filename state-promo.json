@@ -1038,7 +1038,8 @@
    "SAS|id:531639|240|175",
    "SAS|id:517919|2790|2170",
    "SAS|id:82959|100|80",
-   "SAS|id:82960|100|80"
+   "SAS|id:82960|100|80",
+   "SAS|id:59963|1130|950"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4294,6 +4295,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/rastvorimyy_kofe/82960/",
     "key": "SAS|id:82960|100|80"
+   },
+   {
+    "store": "SAS",
+    "title": "Կակաոյի փոշի «Россия Российский» 100գ",
+    "old": 1130,
+    "new": 950,
+    "pct": 16,
+    "until": "20.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/166/362/362614819961157.webp",
+    "url": "https://www.sas.am/catalog/kakao/59963/",
+    "key": "SAS|id:59963|1130|950"
    }
   ],
   "Yerevan City": [
