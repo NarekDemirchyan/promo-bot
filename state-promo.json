@@ -2146,22 +2146,12 @@
    "Yerevan City|id:109205|1290|495",
    "Yerevan City|id:2839|1290|990",
    "Yerevan City|id:2911|1290|990",
-   "Yerevan City|id:177090|1290|770"
+   "Yerevan City|id:177090|1290|770",
+   "Yerevan City|id:195115|1290|890"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Աղի ձողիկներ «Croco Sticks Long Sesame» 80գ",
-    "old": 340,
-    "new": 280,
-    "pct": 18,
-    "until": "13.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/krekery_solenye_palochki/3174/",
-    "key": "SAS|id:3174|340|280"
-   },
    {
     "store": "SAS",
     "title": "Մարմելադե կոնֆետներ «Mamba Фрумеладки» 70գ",
@@ -6541,12 +6531,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170735.png",
     "url": "https://yerevan-city.am/shop/product-details/177090",
     "key": "Yerevan City|id:177090|1290|770"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Նկարչական տախտակ 3661/3652",
+    "old": 1290,
+    "new": 890,
+    "pct": 31,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178920.png",
+    "url": "https://yerevan-city.am/shop/product-details/195115",
+    "key": "Yerevan City|id:195115|1290|890"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-05T17:46:41.549663+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-05T18:01:49.204103+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
