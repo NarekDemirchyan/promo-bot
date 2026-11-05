@@ -1040,7 +1040,8 @@
    "SAS|id:82959|100|80",
    "SAS|id:82960|100|80",
    "SAS|id:59963|1130|950",
-   "SAS|id:3383|1520|1390"
+   "SAS|id:3383|1520|1390",
+   "SAS|id:82971|3870|2350"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4298,20 +4299,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/288/666/6663702416040469.webp",
     "url": "https://www.sas.am/catalog/slivochnoe_maslo/3383/",
     "key": "SAS|id:3383|1520|1390"
+   },
+   {
+    "store": "SAS",
+    "title": "Սուրճ լուծվող «Jacobs Gold» 95գ",
+    "old": 3870,
+    "new": 2350,
+    "pct": 39,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/rastvorimyy_kofe/82971/",
+    "key": "SAS|id:82971|3870|2350"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Գազավորված ջուր «Վոսս» լայմ-անանուխ թ/տ 330մլ",
-    "old": 890,
-    "new": 445,
-    "pct": 50,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176570.png",
-    "url": "https://yerevan-city.am/shop/product-details/192832",
-    "key": "Yerevan City|id:192832|890|445"
-   },
    {
     "store": "Yerevan City",
     "title": "Տնտեսական օճառ գլ. «Դալան» Ռոքսի, սպիտակ. 4x125գր",
@@ -6504,8 +6505,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-05T05:16:26.026993+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-05T05:30:55.395445+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
