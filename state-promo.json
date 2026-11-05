@@ -2140,17 +2140,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Միջադիրներ «Always Ultra Extra Night » 6հատ",
-    "old": 1050,
-    "new": 930,
-    "pct": 11,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/dlya_intimnoy_gigieny2/322159/",
-    "key": "SAS|id:322159|1050|930"
-   },
-   {
-    "store": "SAS",
     "title": "Անձեռոցիկ խոնավ հակաբակտերիալ «Էկկա Հակաբակտերիալ» 72 հատ",
     "old": 660,
     "new": 560,
@@ -6543,8 +6532,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-05T13:33:24.492697+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-05T14:01:49.579714+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
