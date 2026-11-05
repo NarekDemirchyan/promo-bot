@@ -4355,17 +4355,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Հուշանվեր-հայելի «Արմենիա» 1հտ",
-    "old": 950,
-    "new": 790,
-    "pct": 17,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1011085.png",
-    "url": "https://yerevan-city.am/shop/product-details/69575",
-    "key": "Yerevan City|id:69575|950|790"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Բանջարեղենի ռագու «Կուբանոչկա» հունգարական 500գր",
     "old": 890,
     "new": 445,
@@ -6556,8 +6545,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-05T17:18:06.078702+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-05T17:46:41.549663+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
