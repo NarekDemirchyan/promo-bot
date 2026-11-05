@@ -2102,22 +2102,12 @@
    "Yerevan City|id:174801|1490|1290",
    "Yerevan City|id:181301|1490|1090",
    "Yerevan City|id:180244|1490|990",
-   "Yerevan City|id:10133|1480|1210"
+   "Yerevan City|id:10133|1480|1210",
+   "Yerevan City|id:161993|1490|1090"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ելակ սառեցված «Планета Витаминов» 300գ",
-    "old": 1120,
-    "new": 930,
-    "pct": 17,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/frukty_ovoshchi_yagody/325166/",
-    "key": "SAS|id:325166|1120|930"
-   },
    {
     "store": "SAS",
     "title": "Թեյ սև «Althaus Earl Grey Classic» 15*2.75գ",
@@ -6497,12 +6487,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1026880.png",
     "url": "https://yerevan-city.am/shop/product-details/10133",
     "key": "Yerevan City|id:10133|1480|1210"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գազավորված ըմպելիք «Ֆանտա» սպիտակ դեղձ ալ/տ 300մլ",
+    "old": 1490,
+    "new": 1090,
+    "pct": 27,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1159773.png",
+    "url": "https://yerevan-city.am/shop/product-details/161993",
+    "key": "Yerevan City|id:161993|1490|1090"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-05T04:31:02.614516+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-05T04:45:56.455209+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
