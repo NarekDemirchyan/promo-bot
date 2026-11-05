@@ -1076,7 +1076,8 @@
    "SAS|id:3083|4050|3090",
    "SAS|id:927945|180|140",
    "SAS|id:145217|900|820",
-   "SAS|id:193109|850|690"
+   "SAS|id:193109|850|690",
+   "SAS|id:89218|820|670"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4370,6 +4371,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/goroshek/193109/",
     "key": "SAS|id:193109|850|690"
+   },
+   {
+    "store": "SAS",
+    "title": "Եգիպտացորեն «Bonduelle» 340գ",
+    "old": 820,
+    "new": 670,
+    "pct": 18,
+    "until": "31.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/365/455/4555301805338135.webp",
+    "url": "https://www.sas.am/catalog/goroshek/89218/",
+    "key": "SAS|id:89218|820|670"
    }
   ],
   "Yerevan City": [
