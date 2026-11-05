@@ -2140,22 +2140,12 @@
    "Yerevan City|id:181113|1375|1090",
    "Yerevan City|id:181114|1375|1090",
    "Yerevan City|id:162545|1370|1300",
-   "Yerevan City|id:109205|1290|495"
+   "Yerevan City|id:109205|1290|495",
+   "Yerevan City|id:2839|1290|990"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Դոնդողե կոնֆետներ «Mamba» 72գ",
-    "old": 530,
-    "new": 430,
-    "pct": 19,
-    "until": "13.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/zhele_plastila/97030/",
-    "key": "SAS|id:97030|530|430"
-   },
    {
     "store": "SAS",
     "title": "Դոնդողե կոնֆետներ «Mamba» 70գ",
@@ -6535,12 +6525,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1008787.png",
     "url": "https://yerevan-city.am/shop/product-details/109205",
     "key": "Yerevan City|id:109205|1290|495"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Նեկտար «Սանտալ» Պլյուս, դեղձ-մանգո 1լ",
+    "old": 1290,
+    "new": 990,
+    "pct": 23,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1044544.png",
+    "url": "https://yerevan-city.am/shop/product-details/2839",
+    "key": "Yerevan City|id:2839|1290|990"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-05T16:02:24.064967+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-05T16:16:32.823502+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
