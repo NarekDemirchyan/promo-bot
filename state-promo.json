@@ -2114,22 +2114,12 @@
    "Yerevan City|id:18142|1480|1210",
    "Yerevan City|id:18240|1480|1210",
    "Yerevan City|id:23807|1480|1210",
-   "Yerevan City|id:92866|1480|1210"
+   "Yerevan City|id:92866|1480|1210",
+   "Yerevan City|id:170030|1480|1210"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կոնյակ «Hennessy VSOP» 0.5լ",
-    "old": 31500,
-    "new": 29500,
-    "pct": 6,
-    "until": "13.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/importnyy_konyak_brendi/81125/",
-    "key": "SAS|id:81125|31500|29500"
-   },
    {
     "store": "SAS",
     "title": "Հյութ դեղձի և մանգոյի «Santal» 1լ",
@@ -6509,12 +6499,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1129763.png",
     "url": "https://yerevan-city.am/shop/product-details/92866",
     "key": "Yerevan City|id:92866|1480|1210"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հոտազերծիչ «Նիվեա» թարմ.զգացում 150մլ",
+    "old": 1480,
+    "new": 1210,
+    "pct": 18,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1163759.png",
+    "url": "https://yerevan-city.am/shop/product-details/170030",
+    "key": "Yerevan City|id:170030|1480|1210"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-05T08:01:42.797714+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-05T08:16:25.179045+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
