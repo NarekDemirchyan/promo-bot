@@ -1048,7 +1048,8 @@
    "SAS|id:960141|4590|3720",
    "SAS|id:945967|520|400",
    "SAS|id:195156|2290|1990",
-   "SAS|id:960140|3650|2870"
+   "SAS|id:960140|3650|2870",
+   "SAS|id:927946|180|140"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4314,6 +4315,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/245/281/2814791248329333.webp",
     "url": "https://www.sas.am/catalog/rastvorimyy_kofe/960140/",
     "key": "SAS|id:960140|3650|2870"
+   },
+   {
+    "store": "SAS",
+    "title": "Լապշա հավի կծու «Chibi Chicken» 60գ",
+    "old": 180,
+    "new": 140,
+    "pct": 22,
+    "until": "28.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/vermishel_lapsha2/927946/",
+    "key": "SAS|id:927946|180|140"
    }
   ],
   "Yerevan City": [
