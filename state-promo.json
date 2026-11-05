@@ -2132,7 +2132,8 @@
    "Yerevan City|id:5122|1380|1220",
    "Yerevan City|id:13360|1380|1220",
    "Yerevan City|id:113642|1380|1210",
-   "Yerevan City|id:181112|1375|1090"
+   "Yerevan City|id:181112|1375|1090",
+   "Yerevan City|id:181113|1375|1090"
   ]
  },
  "queues": {
@@ -6527,6 +6528,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174842.png",
     "url": "https://yerevan-city.am/shop/product-details/181112",
     "key": "Yerevan City|id:181112|1375|1090"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Պրոտ.կոկտեյլ «Բոմբբար» վանիլ.պաղպաղակ ա/շ 350մլ",
+    "old": 1375,
+    "new": 1090,
+    "pct": 21,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174843.png",
+    "url": "https://yerevan-city.am/shop/product-details/181113",
+    "key": "Yerevan City|id:181113|1375|1090"
    }
   ]
  },
