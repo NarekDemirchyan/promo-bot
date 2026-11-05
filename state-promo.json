@@ -2124,22 +2124,12 @@
    "Yerevan City|id:180034|1480|1210",
    "Yerevan City|id:106278|1480|1340",
    "Yerevan City|id:3760|1480|1180",
-   "Yerevan City|id:4837|1380|1220"
+   "Yerevan City|id:4837|1380|1220",
+   "Yerevan City|id:5122|1380|1220"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կարամելային կոնֆետներ պնդուկով «Toffifee» 250գ",
-    "old": 2620,
-    "new": 2170,
-    "pct": 17,
-    "until": "13.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/konfety_v_upakovke/3025/",
-    "key": "SAS|id:3025|2620|2170"
-   },
    {
     "store": "SAS",
     "title": "Չիպս թթվասեր և սոխի «Lay's Рифленые Сметана и Лук» 150գ",
@@ -6519,12 +6509,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1022626.png",
     "url": "https://yerevan-city.am/shop/product-details/4837",
     "key": "Yerevan City|id:4837|1380|1220"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շամպուն «Հեդ ընդ Շոլդերս» հիմն.խնամք 2-1 200մլ",
+    "old": 1380,
+    "new": 1220,
+    "pct": 12,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1023035.png",
+    "url": "https://yerevan-city.am/shop/product-details/5122",
+    "key": "Yerevan City|id:5122|1380|1220"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-05T11:01:46.357523+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-05T11:17:45.789474+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
