@@ -2150,22 +2150,12 @@
    "Yerevan City|id:2911|1290|990",
    "Yerevan City|id:177090|1290|770",
    "Yerevan City|id:195115|1290|890",
-   "Yerevan City|id:194188|1290|1090"
+   "Yerevan City|id:194188|1290|1090",
+   "Yerevan City|id:191771|1290|900"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Լվացքի գել սպիտակ «Persil Power Gel Vernel» 1.69լ",
-    "old": 4850,
-    "new": 3930,
-    "pct": 19,
-    "until": "13.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/stiralnyy_poroshok/2460/",
-    "key": "SAS|id:2460|4850|3930"
-   },
    {
     "store": "SAS",
     "title": "Զովացուցիչ գազավորված ըմպելիք «Coca-Cola» 1լ",
@@ -6545,12 +6535,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177934.png",
     "url": "https://yerevan-city.am/shop/product-details/194188",
     "key": "Yerevan City|id:194188|1290|1090"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տրանսֆորմեր 668-1",
+    "old": 1290,
+    "new": 900,
+    "pct": 30,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175497.png",
+    "url": "https://yerevan-city.am/shop/product-details/191771",
+    "key": "Yerevan City|id:191771|1290|900"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-05T19:01:48.858810+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-05T19:16:34.074347+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
