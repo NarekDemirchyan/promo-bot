@@ -2116,22 +2116,12 @@
    "Yerevan City|id:18240|1480|1210",
    "Yerevan City|id:23807|1480|1210",
    "Yerevan City|id:92866|1480|1210",
-   "Yerevan City|id:170030|1480|1210"
+   "Yerevan City|id:170030|1480|1210",
+   "Yerevan City|id:180034|1480|1210"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Հյութ դեղձի և մանգոյի «Santal» 1լ",
-    "old": 1430,
-    "new": 1160,
-    "pct": 19,
-    "until": "15.01.2027",
-    "img": "",
-    "url": "https://www.sas.am/catalog/sok/4281/",
-    "key": "SAS|id:4281|1430|1160"
-   },
    {
     "store": "SAS",
     "title": "Տերև խաղողի «Ռոյալ» 600գ",
@@ -6511,12 +6501,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1163759.png",
     "url": "https://yerevan-city.am/shop/product-details/170030",
     "key": "Yerevan City|id:170030|1480|1210"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հոտազերծիչ «Նիվեա» դերմա հսկողություն 150մլ",
+    "old": 1480,
+    "new": 1210,
+    "pct": 18,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173753.png",
+    "url": "https://yerevan-city.am/shop/product-details/180034",
+    "key": "Yerevan City|id:180034|1480|1210"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-05T08:31:31.604322+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-05T08:47:53.655799+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
