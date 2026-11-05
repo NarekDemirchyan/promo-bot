@@ -2126,22 +2126,12 @@
    "Yerevan City|id:106278|1480|1340",
    "Yerevan City|id:3760|1480|1180",
    "Yerevan City|id:4837|1380|1220",
-   "Yerevan City|id:5122|1380|1220"
+   "Yerevan City|id:5122|1380|1220",
+   "Yerevan City|id:13360|1380|1220"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Չիպս թթվասեր և սոխի «Lay's Рифленые Сметана и Лук» 150գ",
-    "old": 980,
-    "new": 920,
-    "pct": 6,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/chipsy/4736/",
-    "key": "SAS|id:4736|980|920"
-   },
    {
     "store": "SAS",
     "title": "Չիպս կրաբի «Lay's Краб» 150գ",
@@ -6521,12 +6511,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1023035.png",
     "url": "https://yerevan-city.am/shop/product-details/5122",
     "key": "Yerevan City|id:5122|1380|1220"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շամպուն «Հեդ ընդ Շոլդերս» ցիտրուսային թարմ. 200մ",
+    "old": 1380,
+    "new": 1220,
+    "pct": 12,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1036456.png",
+    "url": "https://yerevan-city.am/shop/product-details/13360",
+    "key": "Yerevan City|id:13360|1380|1220"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-05T11:46:27.203862+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-05T12:01:47.500254+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
