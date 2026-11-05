@@ -1043,7 +1043,8 @@
    "SAS|id:3383|1520|1390",
    "SAS|id:82971|3870|2350",
    "SAS|id:935011|1000|940",
-   "SAS|id:631530|2470|2340"
+   "SAS|id:631530|2470|2340",
+   "SAS|id:20626|390|330"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4304,6 +4305,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/203/169/169065280258642.webp",
     "url": "https://www.sas.am/catalog/varene/631530/",
     "key": "SAS|id:631530|2470|2340"
+   },
+   {
+    "store": "SAS",
+    "title": "Շոկոլադե սալիկ վաֆլիով «Kit Kat King Size» 45գ",
+    "old": 390,
+    "new": 330,
+    "pct": 15,
+    "until": "20.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/307/409/4094703972938342.webp",
+    "url": "https://www.sas.am/catalog/batonchik/20626/",
+    "key": "SAS|id:20626|390|330"
    }
   ],
   "Yerevan City": [
