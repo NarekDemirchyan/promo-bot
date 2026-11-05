@@ -4383,17 +4383,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Ձիթապտուղ կանաչ «Բոնդյուել» առանց կորիզ 300գր",
-    "old": 860,
-    "new": 720,
-    "pct": 16,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1118695.png",
-    "url": "https://yerevan-city.am/shop/product-details/75725",
-    "key": "Yerevan City|id:75725|860|720"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Ձիթապտուղ կանաչ «Բոնդյուել» 300գր",
     "old": 860,
     "new": 720,
@@ -6584,8 +6573,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-06T02:03:16.309248+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-06T02:31:47.352049+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
