@@ -1063,7 +1063,8 @@
    "SAS|id:442337|2460|1950",
    "SAS|id:426577|720|490",
    "SAS|id:198014|870|570",
-   "SAS|id:851316|3290|2590"
+   "SAS|id:851316|3290|2590",
+   "SAS|id:841182|860|760"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4344,20 +4345,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/drugoy/851316/",
     "key": "SAS|id:851316|3290|2590"
+   },
+   {
+    "store": "SAS",
+    "title": "Եգիպտացորենի փաթիլներ «Nestle Хрутка» 270գ",
+    "old": 860,
+    "new": 760,
+    "pct": 12,
+    "until": "20.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/khlopya_gerkules/841182/",
+    "key": "SAS|id:841182|860|760"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Թխվածքաբլիթ «Միլկա» շոկոլադի կտորներով 126գր",
-    "old": 890,
-    "new": 760,
-    "pct": 15,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1167284.png",
-    "url": "https://yerevan-city.am/shop/product-details/173683",
-    "key": "Yerevan City|id:173683|890|760"
-   },
    {
     "store": "Yerevan City",
     "title": "Աղցան ծովակաղամբով «Մերիդիան» վիտ-հյութալի 250գր",
@@ -6550,8 +6551,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-05T19:16:34.074347+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-05T19:31:51.714378+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
