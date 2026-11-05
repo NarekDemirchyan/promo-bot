@@ -1072,7 +1072,8 @@
    "SAS|id:927944|180|140",
    "SAS|id:913224|880|790",
    "SAS|id:82992|3420|2940",
-   "SAS|id:466582|1840|1650"
+   "SAS|id:466582|1840|1650",
+   "SAS|id:3083|4050|3090"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4362,6 +4363,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/kakao/466582/",
     "key": "SAS|id:466582|1840|1650"
+   },
+   {
+    "store": "SAS",
+    "title": "Սուրճ լուծվող «Nescafe Gold» 130գ",
+    "old": 4050,
+    "new": 3090,
+    "pct": 24,
+    "until": "20.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/rastvorimyy_kofe/3083/",
+    "key": "SAS|id:3083|4050|3090"
    }
   ],
   "Yerevan City": [
