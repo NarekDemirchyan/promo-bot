@@ -2120,22 +2120,12 @@
    "Yerevan City|id:92866|1480|1210",
    "Yerevan City|id:170030|1480|1210",
    "Yerevan City|id:180034|1480|1210",
-   "Yerevan City|id:106278|1480|1340"
+   "Yerevan City|id:106278|1480|1340",
+   "Yerevan City|id:3760|1480|1180"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Գինի կարմիր «Marani Khvanchkara» 0.75լ",
-    "old": 5890,
-    "new": 5350,
-    "pct": 9,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/import_vino/2334/",
-    "key": "SAS|id:2334|5890|5350"
-   },
    {
     "store": "SAS",
     "title": "Շոկոլադե բատոն «Bounty» 55գ",
@@ -6515,12 +6505,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1139428.png",
     "url": "https://yerevan-city.am/shop/product-details/106278",
     "key": "Yerevan City|id:106278|1480|1340"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շոգեխաշած տավարի միս «Բայազետ» բացիչով 550գր",
+    "old": 1480,
+    "new": 1180,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1083492.png",
+    "url": "https://yerevan-city.am/shop/product-details/3760",
+    "key": "Yerevan City|id:3760|1480|1180"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-05T09:46:25.688050+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-05T10:03:23.688451+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
@@ -6529,7 +6530,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 37,
+ "city_page": 38,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
