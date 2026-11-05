@@ -1054,7 +1054,8 @@
    "SAS|id:945969|520|400",
    "SAS|id:945968|520|400",
    "SAS|id:20625|390|330",
-   "SAS|id:913221|930|790"
+   "SAS|id:913221|930|790",
+   "SAS|id:669525|2470|2340"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4326,20 +4327,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/yogurt_puding/913221/",
     "key": "SAS|id:913221|930|790"
+   },
+   {
+    "store": "SAS",
+    "title": "Մուրաբա ազնվամորու «Իջևան» 600գ",
+    "old": 2470,
+    "new": 2340,
+    "pct": 5,
+    "until": "28.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/331/535/5352183656746324.webp",
+    "url": "https://www.sas.am/catalog/varene/669525/",
+    "key": "SAS|id:669525|2470|2340"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Սափրող սարք «Վուիլկինսոն Սվորդ» Քվատրո 4 Տիտանիում Սենսիթիվ 1հտ",
-    "old": 990,
-    "new": 810,
-    "pct": 18,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1085357.png",
-    "url": "https://yerevan-city.am/shop/product-details/11837",
-    "key": "Yerevan City|id:11837|990|810"
-   },
    {
     "store": "Yerevan City",
     "title": "Դանակ «Դեննի Հոմ» 2կտոր ՀԿ036-1",
@@ -6532,8 +6533,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-05T14:01:49.579714+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-05T14:16:27.395615+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
