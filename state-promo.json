@@ -1074,7 +1074,8 @@
    "SAS|id:82992|3420|2940",
    "SAS|id:466582|1840|1650",
    "SAS|id:3083|4050|3090",
-   "SAS|id:927945|180|140"
+   "SAS|id:927945|180|140",
+   "SAS|id:145217|900|820"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4366,6 +4367,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/149/181/1815793354702323.webp",
     "url": "https://www.sas.am/catalog/vermishel_lapsha2/927945/",
     "key": "SAS|id:927945|180|140"
+   },
+   {
+    "store": "SAS",
+    "title": "Միջադիրներ «Libresse Invisible Goodnight» 10 հատ",
+    "old": 900,
+    "new": 820,
+    "pct": 9,
+    "until": "27.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/225/877/877432991569655.webp",
+    "url": "https://www.sas.am/catalog/dlya_intimnoy_gigieny2/145217/",
+    "key": "SAS|id:145217|900|820"
    }
   ],
   "Yerevan City": [
