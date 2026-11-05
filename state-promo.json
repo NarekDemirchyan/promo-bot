@@ -2118,17 +2118,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Նեկտար արքայախնձորի և կոկոսի «Santal Plus» 1լ",
-    "old": 1520,
-    "new": 1160,
-    "pct": 24,
-    "until": "15.01.2027",
-    "img": "",
-    "url": "https://www.sas.am/catalog/sok/167253/",
-    "key": "SAS|id:167253|1520|1160"
-   },
-   {
-    "store": "SAS",
     "title": "Սուրճ հատիկավոր «Egoiste Espresso» 250գ",
     "old": 5670,
     "new": 5250,
@@ -6521,8 +6510,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-05T06:32:36.878638+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-05T07:01:44.603787+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
