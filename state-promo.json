@@ -2168,22 +2168,12 @@
    "Yerevan City|id:179098|1290|645",
    "Yerevan City|id:6192|1290|990",
    "Yerevan City|id:6625|1290|990",
-   "Yerevan City|id:181042|1390|890"
+   "Yerevan City|id:181042|1390|890",
+   "Yerevan City|id:9549|1370|1220"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ներդիրներ «o.b. Normal» 8հատ",
-    "old": 1160,
-    "new": 1050,
-    "pct": 9,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/dlya_intimnoy_gigieny2/183574/",
-    "key": "SAS|id:183574|1160|1050"
-   },
    {
     "store": "SAS",
     "title": "Հակաքրտինքային աէրոզոլային միջոց «Garnier Men Экстремальная Защита» 150մլ",
@@ -6563,12 +6553,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174768.png",
     "url": "https://yerevan-city.am/shop/product-details/181042",
     "key": "Yerevan City|id:181042|1390|890"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Եգիպտացորեն քաղցր «Բոնդյուել» 850գր",
+    "old": 1370,
+    "new": 1220,
+    "pct": 11,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1045043.png",
+    "url": "https://yerevan-city.am/shop/product-details/9549",
+    "key": "Yerevan City|id:9549|1370|1220"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-06T00:31:51.952878+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-06T00:48:31.942738+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
@@ -6577,7 +6578,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 40,
+ "city_page": 41,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
