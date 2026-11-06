@@ -2200,22 +2200,12 @@
    "Yerevan City|id:178133|1290|1090",
    "Yerevan City|id:178134|1290|890",
    "Yerevan City|id:178322|1290|890",
-   "Yerevan City|id:16979|1290|1190"
+   "Yerevan City|id:16979|1290|1190",
+   "Yerevan City|id:128267|1290|990"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Դոնդողե կոնֆետներ «Mamba» 70գ",
-    "old": 530,
-    "new": 430,
-    "pct": 19,
-    "until": "13.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/zhele_plastila/506429/",
-    "key": "SAS|id:506429|530|430"
-   },
    {
     "store": "SAS",
     "title": "Շամպուն «Schauma» 400մլ",
@@ -6595,12 +6585,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1053044.png",
     "url": "https://yerevan-city.am/shop/product-details/16979",
     "key": "Yerevan City|id:16979|1290|1190"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ձիթապտուղ սև «Դել Մոնթե» ա/տ 460գր",
+    "old": 1290,
+    "new": 990,
+    "pct": 23,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1148116.png",
+    "url": "https://yerevan-city.am/shop/product-details/128267",
+    "key": "Yerevan City|id:128267|1290|990"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-06T10:46:51.736895+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-06T11:02:10.460924+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
