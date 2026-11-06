@@ -2250,17 +2250,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Միջադիրներ «Always Ultra Normal Plus» 10հատ",
-    "old": 1260,
-    "new": 1120,
-    "pct": 11,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/dlya_intimnoy_gigieny2/144978/",
-    "key": "SAS|id:144978|1260|1120"
-   },
-   {
-    "store": "SAS",
     "title": "Միջադիրներ «Always Ultra 7 Night» 7հատ",
     "old": 1250,
     "new": 990,
@@ -6653,8 +6642,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-06T23:48:41.500303+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-07T00:16:46.706573+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
