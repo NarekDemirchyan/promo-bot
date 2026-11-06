@@ -2248,22 +2248,12 @@
    "Yerevan City|id:178912|1250|650",
    "Yerevan City|id:178882|1250|650",
    "Yerevan City|id:161901|1290|990",
-   "Yerevan City|id:178845|1250|750"
+   "Yerevan City|id:178845|1250|750",
+   "Yerevan City|id:195092|1250|890"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Լվացքի փոշի գունավոր «Tide Absolute» 400գ",
-    "old": 620,
-    "new": 570,
-    "pct": 8,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/stiralnyy_poroshok/143211/",
-    "key": "SAS|id:143211|620|570"
-   },
    {
     "store": "SAS",
     "title": "Լվացքի փոշի գունավոր «Ariel» 1.5կգ",
@@ -6643,12 +6633,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172545.png",
     "url": "https://yerevan-city.am/shop/product-details/178845",
     "key": "Yerevan City|id:178845|1250|750"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Նկարչական տախտակ 6.5 գունավոր 65-12",
+    "old": 1250,
+    "new": 890,
+    "pct": 29,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178902.png",
+    "url": "https://yerevan-city.am/shop/product-details/195092",
+    "key": "Yerevan City|id:195092|1250|890"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-07T01:31:55.047878+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-07T01:46:56.168355+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
