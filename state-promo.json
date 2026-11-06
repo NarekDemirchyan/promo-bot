@@ -1093,7 +1093,8 @@
    "SAS|id:83300|6580|4390",
    "SAS|id:971187|2290|1150",
    "SAS|id:934435|2010|1650",
-   "SAS|id:728619|880|730"
+   "SAS|id:728619|880|730",
+   "SAS|id:858436|6990|5930"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4404,6 +4405,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/makaronyy/728619/",
     "key": "SAS|id:728619|880|730"
+   },
+   {
+    "store": "SAS",
+    "title": "Զուգարանի թուղթ «Zewa Deluxe Delicate Care» 32 հատ",
+    "old": 6990,
+    "new": 5930,
+    "pct": 15,
+    "until": "27.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/305/787/7874233061352635.webp",
+    "url": "https://www.sas.am/catalog/tualetnaya_bumaga/858436/",
+    "key": "SAS|id:858436|6990|5930"
    }
   ],
   "Yerevan City": [
