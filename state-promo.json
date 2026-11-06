@@ -2258,17 +2258,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Լվացքի փոշի գունավոր «Ariel» 1.5կգ",
-    "old": 2550,
-    "new": 2100,
-    "pct": 18,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/stiralnyy_poroshok/142855/",
-    "key": "SAS|id:142855|2550|2100"
-   },
-   {
-    "store": "SAS",
     "title": "Լվացքի փոշի գունավոր «Ariel Color & Style» 3կգ",
     "old": 4070,
     "new": 3740,
@@ -6661,8 +6650,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-07T02:03:46.559171+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-07T02:31:58.638809+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
