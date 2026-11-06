@@ -1083,7 +1083,8 @@
    "SAS|id:37039|1520|1390",
    "SAS|id:145227|980|820",
    "SAS|id:499314|6650|5590",
-   "SAS|id:154195|890|770"
+   "SAS|id:154195|890|770",
+   "SAS|id:140567|2390|2050"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4384,6 +4385,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/248/824/8244201907666493.webp",
     "url": "https://www.sas.am/catalog/salfetki/154195/",
     "key": "SAS|id:154195|890|770"
+   },
+   {
+    "store": "SAS",
+    "title": "Թղթե սրբիչ «Zewa Extra Lang» 2 հատ",
+    "old": 2390,
+    "new": 2050,
+    "pct": 14,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/bum_polotentsa/140567/",
+    "key": "SAS|id:140567|2390|2050"
    }
   ],
   "Yerevan City": [
