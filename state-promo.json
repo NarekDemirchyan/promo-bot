@@ -1087,7 +1087,8 @@
    "SAS|id:140567|2390|2050",
    "SAS|id:7109|2890|2150",
    "SAS|id:39931|1680|1420",
-   "SAS|id:37037|640|530"
+   "SAS|id:37037|640|530",
+   "SAS|id:145206|890|770"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4392,6 +4393,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/goroshek/37037/",
     "key": "SAS|id:37037|640|530"
+   },
+   {
+    "store": "SAS",
+    "title": "Միջադիրներ «Libresse Maxi Normal Wing» 10հատ",
+    "old": 890,
+    "new": 770,
+    "pct": 13,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/dlya_intimnoy_gigieny2/145206/",
+    "key": "SAS|id:145206|890|770"
    }
   ],
   "Yerevan City": [
