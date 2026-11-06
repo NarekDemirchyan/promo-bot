@@ -2244,22 +2244,12 @@
    "Yerevan City|id:179677|1250|990",
    "Yerevan City|id:130142|1250|650",
    "Yerevan City|id:178912|1250|650",
-   "Yerevan City|id:178882|1250|650"
+   "Yerevan City|id:178882|1250|650",
+   "Yerevan City|id:161901|1290|990"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Միջադիրներ «Always Ultra 7 Night» 7հատ",
-    "old": 1250,
-    "new": 990,
-    "pct": 21,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/dlya_intimnoy_gigieny2/144975/",
-    "key": "SAS|id:144975|1250|990"
-   },
    {
     "store": "SAS",
     "title": "Միջադիրներ «Always Ultra Night Duo» 14հատ",
@@ -6639,12 +6629,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172588.png",
     "url": "https://yerevan-city.am/shop/product-details/178882",
     "key": "Yerevan City|id:178882|1250|650"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Խաղալիքներ ռետինե 5հտ ԲԼՍ87-30/87-43",
+    "old": 1290,
+    "new": 990,
+    "pct": 23,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1159617.png",
+    "url": "https://yerevan-city.am/shop/product-details/161901",
+    "key": "Yerevan City|id:161901|1290|990"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-07T00:32:02.139264+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-07T00:48:02.886919+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
@@ -6653,7 +6654,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 44,
+ "city_page": 45,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
