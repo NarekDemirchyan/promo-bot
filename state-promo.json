@@ -2228,22 +2228,12 @@
    "Yerevan City|id:7523|1290|990",
    "Yerevan City|id:179210|1280|840",
    "Yerevan City|id:13407|1280|1020",
-   "Yerevan City|id:13969|1280|1020"
+   "Yerevan City|id:13969|1280|1020",
+   "Yerevan City|id:180012|1270|1200"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սափրող սարք «Gillette Blue 3»",
-    "old": 710,
-    "new": 660,
-    "pct": 7,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/stanok_dlya_britya/173704/",
-    "key": "SAS|id:173704|710|660"
-   },
    {
     "store": "SAS",
     "title": "Միցելյար ջուր «Garnier Skin Naturals» 400մլ",
@@ -6623,12 +6613,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1043711.png",
     "url": "https://yerevan-city.am/shop/product-details/13969",
     "key": "Yerevan City|id:13969|1280|1020"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մարինացված լոլիկ «Իջևան» 900գր",
+    "old": 1270,
+    "new": 1200,
+    "pct": 6,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173731.png",
+    "url": "https://yerevan-city.am/shop/product-details/180012",
+    "key": "Yerevan City|id:180012|1270|1200"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-06T19:32:08.259229+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-06T19:46:55.769020+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
