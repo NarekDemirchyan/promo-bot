@@ -2192,17 +2192,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Շամպուն-բալզամ «Head & Shoulders Гладкие и Шелковистые» 360մլ",
-    "old": 2620,
-    "new": 2490,
-    "pct": 5,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/dlya_volos2/913514/",
-    "key": "SAS|id:913514|2620|2490"
-   },
-   {
-    "store": "SAS",
     "title": "Դոնդողե կոնֆետներ «Mamba Фрумеладки» 70գ",
     "old": 530,
     "new": 430,
@@ -6595,8 +6584,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-06T05:33:11.408892+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-06T06:01:52.383303+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
