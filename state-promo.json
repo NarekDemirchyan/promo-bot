@@ -2228,17 +2228,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Շամպուն-բալզամ «Head & Shoulders» 200մլ",
-    "old": 1620,
-    "new": 1430,
-    "pct": 12,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/dlya_volos2/203666/",
-    "key": "SAS|id:203666|1620|1430"
-   },
-   {
-    "store": "SAS",
     "title": "Չիպս խորովածի «Lay's Шашлык» 150գ",
     "old": 980,
     "new": 920,
@@ -6631,8 +6620,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-06T16:57:49.265400+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-06T17:16:44.979315+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
