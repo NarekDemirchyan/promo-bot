@@ -2222,22 +2222,12 @@
    "Yerevan City|id:15268|1290|990",
    "Yerevan City|id:10767|1290|990",
    "Yerevan City|id:8853|1290|990",
-   "Yerevan City|id:7523|1290|990"
+   "Yerevan City|id:7523|1290|990",
+   "Yerevan City|id:179210|1280|840"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Չիպս խորովածի «Lay's Шашлык» 150գ",
-    "old": 980,
-    "new": 920,
-    "pct": 6,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/chipsy/202254/",
-    "key": "SAS|id:202254|980|920"
-   },
    {
     "store": "SAS",
     "title": "Ներդիրներ «o.b. Pro Comfort Silk Touch Super Plus» 16հատ",
@@ -6617,12 +6607,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1052647.png",
     "url": "https://yerevan-city.am/shop/product-details/7523",
     "key": "Yerevan City|id:7523|1290|990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հատակ մաքրող միջոց «Կաթիլ» 1.1լ",
+    "old": 1280,
+    "new": 840,
+    "pct": 34,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172918.png",
+    "url": "https://yerevan-city.am/shop/product-details/179210",
+    "key": "Yerevan City|id:179210|1280|840"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-06T17:32:09.169690+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-06T17:48:23.767740+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
