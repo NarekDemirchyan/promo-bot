@@ -1104,7 +1104,8 @@
    "SAS|id:25326|2620|2080",
    "SAS|id:193042|770|630",
    "SAS|id:46884|2680|2350",
-   "SAS|id:874231|1520|1290"
+   "SAS|id:874231|1520|1290",
+   "SAS|id:98415|1890|1790"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4426,20 +4427,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/sok/874231/",
     "key": "SAS|id:874231|1520|1290"
+   },
+   {
+    "store": "SAS",
+    "title": "Ձեթ արևածաղկի «Luglio» 1լ",
+    "old": 1890,
+    "new": 1790,
+    "pct": 5,
+    "until": "12.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/rastitelnoe/98415/",
+    "key": "SAS|id:98415|1890|1790"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Քացախ «Պոնտի» կարմիր խաղողի 6% 500մլ",
-    "old": 1020,
-    "new": 790,
-    "pct": 23,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1037874.png",
-    "url": "https://yerevan-city.am/shop/product-details/17283",
-    "key": "Yerevan City|id:17283|1020|790"
-   },
    {
     "store": "Yerevan City",
     "title": "Ատամի մածուկ «Քոլգեյթ» Մաքս Փայլ 50մլ",
@@ -6632,8 +6633,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-06T21:02:14.375930+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-06T21:19:20.382743+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
