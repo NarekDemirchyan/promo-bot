@@ -1079,7 +1079,8 @@
    "SAS|id:193109|850|690",
    "SAS|id:89218|820|670",
    "SAS|id:31631|1230|1090",
-   "SAS|id:37038|820|670"
+   "SAS|id:37038|820|670",
+   "SAS|id:37039|1520|1390"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4376,20 +4377,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/goroshek/37038/",
     "key": "SAS|id:37038|820|670"
+   },
+   {
+    "store": "SAS",
+    "title": "Կանաչ ոլոռ «Bonduelle Delicate» 660գ",
+    "old": 1520,
+    "new": 1390,
+    "pct": 9,
+    "until": "31.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/370/028/0280693018171048.webp",
+    "url": "https://www.sas.am/catalog/goroshek/37039/",
+    "key": "SAS|id:37039|1520|1390"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Թխվածքաբլիթ «Բելվիտա» կակաո 225գր",
-    "old": 860,
-    "new": 650,
-    "pct": 24,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1081585.png",
-    "url": "https://yerevan-city.am/shop/product-details/18174",
-    "key": "Yerevan City|id:18174|860|650"
-   },
    {
     "store": "Yerevan City",
     "title": "Թխվածքաբլիթ «Բելվիտա» բազմահատիկային 225գր",
@@ -6582,8 +6583,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-06T05:16:43.375434+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-06T05:33:11.408892+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
