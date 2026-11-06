@@ -1077,7 +1077,8 @@
    "SAS|id:927945|180|140",
    "SAS|id:145217|900|820",
    "SAS|id:193109|850|690",
-   "SAS|id:89218|820|670"
+   "SAS|id:89218|820|670",
+   "SAS|id:31631|1230|1090"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4372,20 +4373,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/365/455/4555301805338135.webp",
     "url": "https://www.sas.am/catalog/goroshek/89218/",
     "key": "SAS|id:89218|820|670"
+   },
+   {
+    "store": "SAS",
+    "title": "Աղբյուրի ջուր «Evian» 1.5լ",
+    "old": 1230,
+    "new": 1090,
+    "pct": 11,
+    "until": "25.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/voda/31631/",
+    "key": "SAS|id:31631|1230|1090"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Լոբի «Բոնդյուել» կարմիր, չիլի տոմատում 425գր",
-    "old": 860,
-    "new": 720,
-    "pct": 16,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1046059.png",
-    "url": "https://yerevan-city.am/shop/product-details/15249",
-    "key": "Yerevan City|id:15249|860|720"
-   },
    {
     "store": "Yerevan City",
     "title": "Թխվածքաբլիթ «Բելվիտա» մեղր և անտ.ընկույզ 225գր",
@@ -6578,8 +6579,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-06T04:02:22.139113+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-06T04:17:04.059706+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
