@@ -2194,22 +2194,12 @@
    "Yerevan City|id:11003|1290|645",
    "Yerevan City|id:27680|1290|770",
    "Yerevan City|id:11580|1290|920",
-   "Yerevan City|id:178133|1290|1090"
+   "Yerevan City|id:178133|1290|1090",
+   "Yerevan City|id:178134|1290|890"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Թխվածքաբլիթ շոկոլադե «Gullon Choc Tablet» 150գ",
-    "old": 1790,
-    "new": 1470,
-    "pct": 18,
-    "until": "13.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/pechene_pryaniki/629342/",
-    "key": "SAS|id:629342|1790|1470"
-   },
    {
     "store": "SAS",
     "title": "Հատակը մաքրելու միջոց «Chirton BIO» 1լ",
@@ -6589,12 +6579,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1171816.png",
     "url": "https://yerevan-city.am/shop/product-details/178133",
     "key": "Yerevan City|id:178133|1290|1090"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Չիպս «Լեյս» Մաքս Դիփ Քաթ, էկս.պանիր և սոխ 120գր",
+    "old": 1290,
+    "new": 890,
+    "pct": 31,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1171817.png",
+    "url": "https://yerevan-city.am/shop/product-details/178134",
+    "key": "Yerevan City|id:178134|1290|890"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-06T08:46:30.230589+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-06T09:04:17.788677+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
