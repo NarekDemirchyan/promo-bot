@@ -1102,7 +1102,8 @@
    "SAS|id:145234|1460|1230",
    "SAS|id:482378|980|490",
    "SAS|id:25326|2620|2080",
-   "SAS|id:193042|770|630"
+   "SAS|id:193042|770|630",
+   "SAS|id:46884|2680|2350"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4422,20 +4423,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/947/847/8477971115335301.webp",
     "url": "https://www.sas.am/catalog/goroshek/193042/",
     "key": "SAS|id:193042|770|630"
+   },
+   {
+    "store": "SAS",
+    "title": "Սպասք լվացող մեքենայի կոնդիցիոներ «Finish Powerball» 450մլ",
+    "old": 2680,
+    "new": 2350,
+    "pct": 12,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/dishwasherdetergent/46884/",
+    "key": "SAS|id:46884|2680|2350"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Ձիթապտուղ կանաչ «Բոնդյուել» կարմիր պղպեղով 300գր",
-    "old": 1030,
-    "new": 870,
-    "pct": 16,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1118686.png",
-    "url": "https://yerevan-city.am/shop/product-details/75719",
-    "key": "Yerevan City|id:75719|1030|870"
-   },
    {
     "store": "Yerevan City",
     "title": "Ձիթապտուղ կանաչ «Բոնդյուել» կապույտ պանրով 300գր",
@@ -6628,8 +6629,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-06T19:46:55.769020+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-06T20:04:22.338512+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
