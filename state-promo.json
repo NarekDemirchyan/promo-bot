@@ -1095,7 +1095,8 @@
    "SAS|id:934435|2010|1650",
    "SAS|id:728619|880|730",
    "SAS|id:858436|6990|5930",
-   "SAS|id:547526|1040|790"
+   "SAS|id:547526|1040|790",
+   "SAS|id:197865|960|790"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4408,6 +4409,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/278/576/5766932193504601.webp",
     "url": "https://www.sas.am/catalog/goroshek/547526/",
     "key": "SAS|id:547526|1040|790"
+   },
+   {
+    "store": "SAS",
+    "title": "Թեյ սև «Richard Royal Ceylon» 25*2գ",
+    "old": 960,
+    "new": 790,
+    "pct": 18,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/v_paketakh/197865/",
+    "key": "SAS|id:197865|960|790"
    }
   ],
   "Yerevan City": [
