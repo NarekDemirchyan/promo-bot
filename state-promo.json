@@ -2184,7 +2184,8 @@
    "Yerevan City|id:15897|1290|990",
    "Yerevan City|id:16744|1290|990",
    "Yerevan City|id:68445|1290|990",
-   "Yerevan City|id:141278|1290|850"
+   "Yerevan City|id:141278|1290|850",
+   "Yerevan City|id:173153|1290|590"
   ]
  },
  "queues": {
@@ -6579,6 +6580,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1057469.png",
     "url": "https://yerevan-city.am/shop/product-details/141278",
     "key": "Yerevan City|id:141278|1290|850"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Աղանդեր պրոտ. «Ֆիթ Կիթ» էսք.պիստակ-կուն.ա/շ 50գր",
+    "old": 1290,
+    "new": 590,
+    "pct": 54,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1166745.png",
+    "url": "https://yerevan-city.am/shop/product-details/173153",
+    "key": "Yerevan City|id:173153|1290|590"
    }
   ]
  },
