@@ -2202,22 +2202,12 @@
    "Yerevan City|id:178134|1290|890",
    "Yerevan City|id:178322|1290|890",
    "Yerevan City|id:16979|1290|1190",
-   "Yerevan City|id:128267|1290|990"
+   "Yerevan City|id:128267|1290|990",
+   "Yerevan City|id:128274|1290|990"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շամպուն «Schauma» 400մլ",
-    "old": 1490,
-    "new": 1120,
-    "pct": 25,
-    "until": "13.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/dlya_volos2/486078/",
-    "key": "SAS|id:486078|1490|1120"
-   },
    {
     "store": "SAS",
     "title": "Անձեռոցիկ խոնավ մանկական «Պամա» 120 հատ",
@@ -6597,12 +6587,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1148116.png",
     "url": "https://yerevan-city.am/shop/product-details/128267",
     "key": "Yerevan City|id:128267|1290|990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ձիթապտուղ կանաչ «Դել Մոնթե» ա/տ 460գր",
+    "old": 1290,
+    "new": 990,
+    "pct": 23,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1148123.png",
+    "url": "https://yerevan-city.am/shop/product-details/128274",
+    "key": "Yerevan City|id:128274|1290|990"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-06T11:16:43.800638+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-06T11:34:17.587787+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
