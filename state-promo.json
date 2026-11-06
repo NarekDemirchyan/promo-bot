@@ -2188,7 +2188,8 @@
    "Yerevan City|id:68445|1290|990",
    "Yerevan City|id:141278|1290|850",
    "Yerevan City|id:173153|1290|590",
-   "Yerevan City|id:11003|1290|645"
+   "Yerevan City|id:11003|1290|645",
+   "Yerevan City|id:27680|1290|770"
   ]
  },
  "queues": {
@@ -6583,6 +6584,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1085440.png",
     "url": "https://yerevan-city.am/shop/product-details/11003",
     "key": "Yerevan City|id:11003|1290|645"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Խաղաքարտեր «Ունո» Ուրախ խաղ 108հտ Վ2087",
+    "old": 1290,
+    "new": 770,
+    "pct": 40,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1013538.png",
+    "url": "https://yerevan-city.am/shop/product-details/27680",
+    "key": "Yerevan City|id:27680|1290|770"
    }
   ]
  },
