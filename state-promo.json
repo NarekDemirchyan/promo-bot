@@ -2190,22 +2190,12 @@
    "Yerevan City|id:141278|1290|850",
    "Yerevan City|id:173153|1290|590",
    "Yerevan City|id:11003|1290|645",
-   "Yerevan City|id:27680|1290|770"
+   "Yerevan City|id:27680|1290|770",
+   "Yerevan City|id:11580|1290|920"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շամպուն և բալզամ «Head & Shoulders» 360մլ",
-    "old": 2620,
-    "new": 2490,
-    "pct": 5,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/dlya_volos2/647532/",
-    "key": "SAS|id:647532|2620|2490"
-   },
    {
     "store": "SAS",
     "title": "Շամպինյոն մարինացված ամբողջական «Lorado» 280գ",
@@ -6585,12 +6575,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1013538.png",
     "url": "https://yerevan-city.am/shop/product-details/27680",
     "key": "Yerevan City|id:27680|1290|770"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թխվածքաբլիթ «Միլկա» ԻքսԼ, շոկոլադի կտորներով 184գր",
+    "old": 1290,
+    "new": 920,
+    "pct": 29,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1075331.png",
+    "url": "https://yerevan-city.am/shop/product-details/11580",
+    "key": "Yerevan City|id:11580|1290|920"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-06T07:31:42.108528+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-06T07:48:30.897278+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
