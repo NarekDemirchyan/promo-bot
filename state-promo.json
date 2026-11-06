@@ -4413,17 +4413,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Ափսե «ՍԴՑ» կաթ. կլոր 26.5սմ 1հտ ՍԴ170-1",
-    "old": 850,
-    "new": 650,
-    "pct": 24,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177628.png",
-    "url": "https://yerevan-city.am/shop/product-details/193879",
-    "key": "Yerevan City|id:193879|850|650"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Ափսե «ԻքսՅՑ» բեժ մոխ. կլոր 26.5սմ 1հտ ՀՖ7-18",
     "old": 850,
     "new": 550,
@@ -6614,8 +6603,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-06T11:34:17.587787+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-06T12:02:02.119392+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
