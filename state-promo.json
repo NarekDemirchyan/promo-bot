@@ -1088,7 +1088,8 @@
    "SAS|id:7109|2890|2150",
    "SAS|id:39931|1680|1420",
    "SAS|id:37037|640|530",
-   "SAS|id:145206|890|770"
+   "SAS|id:145206|890|770",
+   "SAS|id:129310|970|860"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4394,20 +4395,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/dlya_intimnoy_gigieny2/145206/",
     "key": "SAS|id:145206|890|770"
+   },
+   {
+    "store": "SAS",
+    "title": "Աղբի տոպրակներ «Фрекен Бок» 60լ",
+    "old": 970,
+    "new": 860,
+    "pct": 11,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/pakety_dlya_musora/129310/",
+    "key": "SAS|id:129310|970|860"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Ափսե «ՍԴՑ» կանաչ, կլոր 27սմ 1հտ ՍԴ397-1",
-    "old": 850,
-    "new": 550,
-    "pct": 35,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177627.png",
-    "url": "https://yerevan-city.am/shop/product-details/193878",
-    "key": "Yerevan City|id:193878|850|550"
-   },
    {
     "store": "Yerevan City",
     "title": "Ափսե «ՍԴՑ» կաթ. կլոր 26.5սմ 1հտ ՍԴ170-1",
@@ -6600,8 +6601,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-06T11:02:10.460924+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-06T11:16:43.800638+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
