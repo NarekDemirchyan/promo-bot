@@ -1099,7 +1099,8 @@
    "SAS|id:197865|960|790",
    "SAS|id:27318|280|240",
    "SAS|id:400644|3790|3240",
-   "SAS|id:145234|1460|1230"
+   "SAS|id:145234|1460|1230",
+   "SAS|id:482378|980|490"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4416,6 +4417,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/163/579/5795071850786805.webp",
     "url": "https://www.sas.am/catalog/dlya_intimnoy_gigieny2/145234/",
     "key": "SAS|id:145234|1460|1230"
+   },
+   {
+    "store": "SAS",
+    "title": "Զովացուցիչ գազավորված ըմպելիք բալի մաստակի «Chupa Chups» 345մլ",
+    "old": 980,
+    "new": 490,
+    "pct": 50,
+    "until": "16.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/osvezhayushchiy_napitok/482378/",
+    "key": "SAS|id:482378|980|490"
    }
   ],
   "Yerevan City": [
