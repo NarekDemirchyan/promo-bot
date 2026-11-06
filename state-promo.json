@@ -2234,7 +2234,8 @@
    "Yerevan City|id:13969|1280|1020",
    "Yerevan City|id:180012|1270|1200",
    "Yerevan City|id:117218|1260|840",
-   "Yerevan City|id:162541|1250|1180"
+   "Yerevan City|id:162541|1250|1180",
+   "Yerevan City|id:181411|1250|1090"
   ]
  },
  "queues": {
@@ -6629,6 +6630,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1160225.png",
     "url": "https://yerevan-city.am/shop/product-details/162541",
     "key": "Yerevan City|id:162541|1250|1180"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սիգ «Արտֆուդ» Սևանի, տոմատում ա/տ 350գր",
+    "old": 1250,
+    "new": 1090,
+    "pct": 13,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175124.png",
+    "url": "https://yerevan-city.am/shop/product-details/181411",
+    "key": "Yerevan City|id:181411|1250|1090"
    }
   ]
  },
