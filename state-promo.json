@@ -2232,22 +2232,12 @@
    "Yerevan City|id:13407|1280|1020",
    "Yerevan City|id:13969|1280|1020",
    "Yerevan City|id:180012|1270|1200",
-   "Yerevan City|id:117218|1260|840"
+   "Yerevan City|id:117218|1260|840",
+   "Yerevan City|id:162541|1250|1180"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սպասք լվանալու հեղուկ «Fairy» 1լ",
-    "old": 1580,
-    "new": 1430,
-    "pct": 9,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/sredstva_dlya_posudy/170338/",
-    "key": "SAS|id:170338|1580|1430"
-   },
    {
     "store": "SAS",
     "title": "Սպասք լվանալու հեղուկ «Fairy» 1լ",
@@ -6627,12 +6617,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1063686.png",
     "url": "https://yerevan-city.am/shop/product-details/117218",
     "key": "Yerevan City|id:117218|1260|840"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մարինացված կծու պղպեղ «Իջևան» 700գր",
+    "old": 1250,
+    "new": 1180,
+    "pct": 6,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1160225.png",
+    "url": "https://yerevan-city.am/shop/product-details/162541",
+    "key": "Yerevan City|id:162541|1250|1180"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-06T20:46:47.315554+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-06T21:02:14.375930+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
@@ -6641,7 +6642,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 42,
+ "city_page": 43,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
