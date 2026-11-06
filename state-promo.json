@@ -1078,7 +1078,8 @@
    "SAS|id:145217|900|820",
    "SAS|id:193109|850|690",
    "SAS|id:89218|820|670",
-   "SAS|id:31631|1230|1090"
+   "SAS|id:31631|1230|1090",
+   "SAS|id:37038|820|670"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4374,6 +4375,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/voda/31631/",
     "key": "SAS|id:31631|1230|1090"
+   },
+   {
+    "store": "SAS",
+    "title": "Կանաչ ոլոռ «Bonduelle Delicate» 400գ",
+    "old": 820,
+    "new": 670,
+    "pct": 18,
+    "until": "31.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/goroshek/37038/",
+    "key": "SAS|id:37038|820|670"
    }
   ],
   "Yerevan City": [
