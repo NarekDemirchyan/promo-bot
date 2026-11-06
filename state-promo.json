@@ -2182,22 +2182,12 @@
    "Yerevan City|id:179097|1290|645",
    "Yerevan City|id:15897|1290|990",
    "Yerevan City|id:16744|1290|990",
-   "Yerevan City|id:68445|1290|990"
+   "Yerevan City|id:68445|1290|990",
+   "Yerevan City|id:141278|1290|850"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Մազերի մուս «Wella Wellaflex Extra Strong» 200մլ",
-    "old": 2340,
-    "new": 2090,
-    "pct": 11,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/maska_konditsioner_dlya_volos/913519/",
-    "key": "SAS|id:913519|2340|2090"
-   },
    {
     "store": "SAS",
     "title": "Շամպուն-բալզամ «Head & Shoulders Гладкие и Шелковистые» 360մլ",
@@ -6577,12 +6567,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1113381.png",
     "url": "https://yerevan-city.am/shop/product-details/68445",
     "key": "Yerevan City|id:68445|1290|990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կափարիչ մետաղական «Խուտորյանկա» 50հտ",
+    "old": 1290,
+    "new": 850,
+    "pct": 34,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1057469.png",
+    "url": "https://yerevan-city.am/shop/product-details/141278",
+    "key": "Yerevan City|id:141278|1290|850"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-06T05:01:50.320262+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-06T05:16:43.375434+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
