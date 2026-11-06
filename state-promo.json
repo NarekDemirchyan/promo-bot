@@ -2196,17 +2196,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Շամպուն «Head & Shoulders» 300մլ",
-    "old": 2990,
-    "new": 2670,
-    "pct": 11,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/dlya_volos2/661509/",
-    "key": "SAS|id:661509|2990|2670"
-   },
-   {
-    "store": "SAS",
     "title": "Շամպուն և բալզամ «Head & Shoulders» 360մլ",
     "old": 2620,
     "new": 2490,
@@ -6599,8 +6588,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-06T06:47:54.861175+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-06T07:16:43.759579+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
