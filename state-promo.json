@@ -2238,7 +2238,8 @@
    "Yerevan City|id:117218|1260|840",
    "Yerevan City|id:162541|1250|1180",
    "Yerevan City|id:181411|1250|1090",
-   "Yerevan City|id:179677|1250|990"
+   "Yerevan City|id:179677|1250|990",
+   "Yerevan City|id:130142|1250|650"
   ]
  },
  "queues": {
@@ -6633,6 +6634,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173396.png",
     "url": "https://yerevan-city.am/shop/product-details/179677",
     "key": "Yerevan City|id:179677|1250|990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Խոզանակ խմորի համար-բահիկ «Դ․Հոմ» սիլ․ ԴՀ1434",
+    "old": 1250,
+    "new": 650,
+    "pct": 48,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1149912.png",
+    "url": "https://yerevan-city.am/shop/product-details/130142",
+    "key": "Yerevan City|id:130142|1250|650"
    }
   ]
  },
