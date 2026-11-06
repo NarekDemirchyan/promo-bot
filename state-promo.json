@@ -2230,7 +2230,8 @@
    "Yerevan City|id:179210|1280|840",
    "Yerevan City|id:13407|1280|1020",
    "Yerevan City|id:13969|1280|1020",
-   "Yerevan City|id:180012|1270|1200"
+   "Yerevan City|id:180012|1270|1200",
+   "Yerevan City|id:117218|1260|840"
   ]
  },
  "queues": {
@@ -6625,6 +6626,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173731.png",
     "url": "https://yerevan-city.am/shop/product-details/180012",
     "key": "Yerevan City|id:180012|1270|1200"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կոնդիցիոներ «Վատիկա» 200մլ",
+    "old": 1260,
+    "new": 840,
+    "pct": 33,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1063686.png",
+    "url": "https://yerevan-city.am/shop/product-details/117218",
+    "key": "Yerevan City|id:117218|1260|840"
    }
   ]
  },
