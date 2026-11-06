@@ -2242,7 +2242,8 @@
    "Yerevan City|id:181411|1250|1090",
    "Yerevan City|id:179677|1250|990",
    "Yerevan City|id:130142|1250|650",
-   "Yerevan City|id:178912|1250|650"
+   "Yerevan City|id:178912|1250|650",
+   "Yerevan City|id:178882|1250|650"
   ]
  },
  "queues": {
@@ -6637,6 +6638,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172613.png",
     "url": "https://yerevan-city.am/shop/product-details/178912",
     "key": "Yerevan City|id:178912|1250|650"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ափսե խորը «Դեննի Հոմ» կապույտ 21սմ 1հտ 2204-29",
+    "old": 1250,
+    "new": 650,
+    "pct": 48,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172588.png",
+    "url": "https://yerevan-city.am/shop/product-details/178882",
+    "key": "Yerevan City|id:178882|1250|650"
    }
   ]
  },
