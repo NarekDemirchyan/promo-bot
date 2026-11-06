@@ -2204,22 +2204,12 @@
    "Yerevan City|id:178322|1290|890",
    "Yerevan City|id:16979|1290|1190",
    "Yerevan City|id:128267|1290|990",
-   "Yerevan City|id:128274|1290|990"
+   "Yerevan City|id:128274|1290|990",
+   "Yerevan City|id:22643|1290|990"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Անձեռոցիկ խոնավ մանկական «Պամա» 120 հատ",
-    "old": 1270,
-    "new": 1070,
-    "pct": 16,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/podguzniki/384414/",
-    "key": "SAS|id:384414|1270|1070"
-   },
    {
     "store": "SAS",
     "title": "Հակաքրտինքային աէրոզոլային միջոց «Garnier Men Эффект Магния» 150մլ",
@@ -6599,12 +6589,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1148123.png",
     "url": "https://yerevan-city.am/shop/product-details/128274",
     "key": "Yerevan City|id:128274|1290|990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Նեկտար «Սանտալ» կարմիր նարինջ 1լ",
+    "old": 1290,
+    "new": 990,
+    "pct": 23,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1100744.png",
+    "url": "https://yerevan-city.am/shop/product-details/22643",
+    "key": "Yerevan City|id:22643|1290|990"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-06T12:02:02.119392+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-06T12:16:42.950822+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
