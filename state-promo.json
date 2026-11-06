@@ -2186,17 +2186,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Շամպուն-բալզամ «Head & Shoulders Основной Уход» 360մլ",
-    "old": 2620,
-    "new": 2490,
-    "pct": 5,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/dlya_volos2/913525/",
-    "key": "SAS|id:913525|2620|2490"
-   },
-   {
-    "store": "SAS",
     "title": "Միջադիրներ «Always Ultra Platinum Night» 10 հատ",
     "old": 1840,
     "new": 1670,
@@ -6589,8 +6578,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-06T03:46:31.127717+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-06T04:02:22.139113+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
