@@ -1101,7 +1101,8 @@
    "SAS|id:400644|3790|3240",
    "SAS|id:145234|1460|1230",
    "SAS|id:482378|980|490",
-   "SAS|id:25326|2620|2080"
+   "SAS|id:25326|2620|2080",
+   "SAS|id:193042|770|630"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4420,6 +4421,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/tualetnaya_bumaga/25326/",
     "key": "SAS|id:25326|2620|2080"
+   },
+   {
+    "store": "SAS",
+    "title": "Լոբի սպիտակ տոմատի սոուսում «Bonduelle» 400գ",
+    "old": 770,
+    "new": 630,
+    "pct": 18,
+    "until": "31.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/947/847/8477971115335301.webp",
+    "url": "https://www.sas.am/catalog/goroshek/193042/",
+    "key": "SAS|id:193042|770|630"
    }
   ],
   "Yerevan City": [
