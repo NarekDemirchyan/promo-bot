@@ -2224,22 +2224,12 @@
    "Yerevan City|id:10767|1290|990",
    "Yerevan City|id:8853|1290|990",
    "Yerevan City|id:7523|1290|990",
-   "Yerevan City|id:179210|1280|840"
+   "Yerevan City|id:179210|1280|840",
+   "Yerevan City|id:13407|1280|1020"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ներդիրներ «o.b. Pro Comfort Silk Touch Super Plus» 16հատ",
-    "old": 1950,
-    "new": 1740,
-    "pct": 11,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/dlya_intimnoy_gigieny2/183592/",
-    "key": "SAS|id:183592|1950|1740"
-   },
    {
     "store": "SAS",
     "title": "Ներդիրներ «o.b. Normal» 16 հատ",
@@ -6619,12 +6609,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172918.png",
     "url": "https://yerevan-city.am/shop/product-details/179210",
     "key": "Yerevan City|id:179210|1280|840"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Վաֆլի «Գուլլոն» շոկոլադե 180գր",
+    "old": 1280,
+    "new": 1020,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1048055.png",
+    "url": "https://yerevan-city.am/shop/product-details/13407",
+    "key": "Yerevan City|id:13407|1280|1020"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-06T18:16:46.805849+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-06T18:31:53.627818+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
