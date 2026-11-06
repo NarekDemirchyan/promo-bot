@@ -1097,7 +1097,8 @@
    "SAS|id:858436|6990|5930",
    "SAS|id:547526|1040|790",
    "SAS|id:197865|960|790",
-   "SAS|id:27318|280|240"
+   "SAS|id:27318|280|240",
+   "SAS|id:400644|3790|3240"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4412,6 +4413,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/vatnye_izdeliya2/27318/",
     "key": "SAS|id:27318|280|240"
+   },
+   {
+    "store": "SAS",
+    "title": "Զուգարանի թուղթ «Zewa Just 1» 6 հատ",
+    "old": 3790,
+    "new": 3240,
+    "pct": 15,
+    "until": "27.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/258/319/3190771810385260.webp",
+    "url": "https://www.sas.am/catalog/tualetnaya_bumaga/400644/",
+    "key": "SAS|id:400644|3790|3240"
    }
   ],
   "Yerevan City": [
