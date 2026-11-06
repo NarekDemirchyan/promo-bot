@@ -2196,22 +2196,12 @@
    "Yerevan City|id:27680|1290|770",
    "Yerevan City|id:11580|1290|920",
    "Yerevan City|id:178133|1290|1090",
-   "Yerevan City|id:178134|1290|890"
+   "Yerevan City|id:178134|1290|890",
+   "Yerevan City|id:178322|1290|890"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Հատակը մաքրելու միջոց «Chirton BIO» 1լ",
-    "old": 1730,
-    "new": 1370,
-    "pct": 21,
-    "until": "13.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/chistyashchie_sredstva/621788/",
-    "key": "SAS|id:621788|1730|1370"
-   },
    {
     "store": "SAS",
     "title": "Սոուս պապրիկայի «Kuhne Flame Roasted Paprika» 235մլ",
@@ -6591,12 +6581,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1171817.png",
     "url": "https://yerevan-city.am/shop/product-details/178134",
     "key": "Yerevan City|id:178134|1290|890"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Չիպս «Լեյս» Մաքս Կարբովայն, քաղցր պղպեղ 120գր",
+    "old": 1290,
+    "new": 890,
+    "pct": 31,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172014.png",
+    "url": "https://yerevan-city.am/shop/product-details/178322",
+    "key": "Yerevan City|id:178322|1290|890"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-06T09:31:58.326081+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-06T09:46:41.438264+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
