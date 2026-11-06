@@ -2246,17 +2246,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Անձեռոցիկ «Selpak» 70 հատ",
-    "old": 650,
-    "new": 580,
-    "pct": 11,
-    "until": "13.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/salfetki/154078/",
-    "key": "SAS|id:154078|650|580"
-   },
-   {
-    "store": "SAS",
     "title": "Միջադիրներ «Always Ultra Super Plus» 8 հատ",
     "old": 1250,
     "new": 990,
@@ -6649,8 +6638,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-06T22:34:03.484631+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-06T23:02:24.503431+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
