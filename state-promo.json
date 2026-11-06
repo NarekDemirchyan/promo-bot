@@ -1085,7 +1085,8 @@
    "SAS|id:499314|6650|5590",
    "SAS|id:154195|890|770",
    "SAS|id:140567|2390|2050",
-   "SAS|id:7109|2890|2150"
+   "SAS|id:7109|2890|2150",
+   "SAS|id:39931|1680|1420"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4388,6 +4389,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/rastvorimyy_kofe/7109/",
     "key": "SAS|id:7109|2890|2150"
+   },
+   {
+    "store": "SAS",
+    "title": "Հակաքրտինքային աէրոզոլային միջոց «Nivea Эффект пудры» 150մլ",
+    "old": 1680,
+    "new": 1420,
+    "pct": 15,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/antiperspirantt/39931/",
+    "key": "SAS|id:39931|1680|1420"
    }
   ],
   "Yerevan City": [
