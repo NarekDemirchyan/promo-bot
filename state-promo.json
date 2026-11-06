@@ -2238,17 +2238,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Միցելյար ջուր «Garnier Skin Naturals» 400մլ",
-    "old": 2680,
-    "new": 2280,
-    "pct": 15,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/vse_dlya_litsa/170538/",
-    "key": "SAS|id:170538|2680|2280"
-   },
-   {
-    "store": "SAS",
     "title": "Սպասք լվանալու հեղուկ «Fairy» 1լ",
     "old": 1580,
     "new": 1430,
@@ -6641,8 +6630,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-06T20:04:22.338512+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-06T20:31:58.785214+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
