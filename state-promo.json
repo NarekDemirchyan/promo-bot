@@ -2220,7 +2220,8 @@
    "Yerevan City|id:165936|1290|645",
    "Yerevan City|id:15268|1290|990",
    "Yerevan City|id:10767|1290|990",
-   "Yerevan City|id:8853|1290|990"
+   "Yerevan City|id:8853|1290|990",
+   "Yerevan City|id:7523|1290|990"
   ]
  },
  "queues": {
@@ -6615,6 +6616,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1038913.png",
     "url": "https://yerevan-city.am/shop/product-details/8853",
     "key": "Yerevan City|id:8853|1290|990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Նեկտար «Սանտալ» նարինջ, կիտրոն, գազար 1լ",
+    "old": 1290,
+    "new": 990,
+    "pct": 23,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1052647.png",
+    "url": "https://yerevan-city.am/shop/product-details/7523",
+    "key": "Yerevan City|id:7523|1290|990"
    }
   ]
  },
