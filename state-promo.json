@@ -2250,7 +2250,8 @@
    "Yerevan City|id:178882|1250|650",
    "Yerevan City|id:161901|1290|990",
    "Yerevan City|id:178845|1250|750",
-   "Yerevan City|id:195092|1250|890"
+   "Yerevan City|id:195092|1250|890",
+   "Yerevan City|id:2399|1250|990"
   ]
  },
  "queues": {
@@ -6645,6 +6646,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178902.png",
     "url": "https://yerevan-city.am/shop/product-details/195092",
     "key": "Yerevan City|id:195092|1250|890"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կարագ սերուցքային «Պրեզիդենտ» 82% 125գր",
+    "old": 1250,
+    "new": 990,
+    "pct": 21,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1038802.png",
+    "url": "https://yerevan-city.am/shop/product-details/2399",
+    "key": "Yerevan City|id:2399|1250|990"
    }
   ]
  },
