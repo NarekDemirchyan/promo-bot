@@ -2206,22 +2206,12 @@
    "Yerevan City|id:16979|1290|1190",
    "Yerevan City|id:128267|1290|990",
    "Yerevan City|id:128274|1290|990",
-   "Yerevan City|id:22643|1290|990"
+   "Yerevan City|id:22643|1290|990",
+   "Yerevan City|id:161997|1290|990"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Հակաքրտինքային աէրոզոլային միջոց «Garnier Men Эффект Магния» 150մլ",
-    "old": 1780,
-    "new": 1230,
-    "pct": 31,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/antiperspirantt/246948/",
-    "key": "SAS|id:246948|1780|1230"
-   },
    {
     "store": "SAS",
     "title": "Շոկոլադե սալիկ նարնջով «Lindt Hauchdunn - Extra Fin» 125գ",
@@ -6601,12 +6591,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1100744.png",
     "url": "https://yerevan-city.am/shop/product-details/22643",
     "key": "Yerevan City|id:22643|1290|990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գազավորված ըմպելիք «Կոկա Կոլա» Հոկայդո թ/տ 250մլ",
+    "old": 1290,
+    "new": 990,
+    "pct": 23,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1159779.png",
+    "url": "https://yerevan-city.am/shop/product-details/161997",
+    "key": "Yerevan City|id:161997|1290|990"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-06T12:31:51.919482+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-06T12:48:49.721587+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
