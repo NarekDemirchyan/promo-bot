@@ -1091,7 +1091,8 @@
    "SAS|id:145206|890|770",
    "SAS|id:129310|970|860",
    "SAS|id:83300|6580|4390",
-   "SAS|id:971187|2290|1150"
+   "SAS|id:971187|2290|1150",
+   "SAS|id:934435|2010|1650"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4400,6 +4401,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/yogurt_puding/971187/",
     "key": "SAS|id:971187|2290|1150"
+   },
+   {
+    "store": "SAS",
+    "title": "Զուգարանի թուղթ խոնավ «Zewa Sensitive» 80 հատ",
+    "old": 2010,
+    "new": 1650,
+    "pct": 18,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/tualetnaya_bumaga/934435/",
+    "key": "SAS|id:934435|2010|1650"
    }
   ],
   "Yerevan City": [
