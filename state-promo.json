@@ -2242,17 +2242,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Սպասք լվանալու հեղուկ «Fairy» 1լ",
-    "old": 1580,
-    "new": 1430,
-    "pct": 9,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/sredstva_dlya_posudy/170331/",
-    "key": "SAS|id:170331|1580|1430"
-   },
-   {
-    "store": "SAS",
     "title": "Սպասք լվանալու հեղուկ «Fairy Platinum» 500մլ",
     "old": 1250,
     "new": 1140,
@@ -6645,8 +6634,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-06T21:19:20.382743+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-06T21:46:42.578147+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
