@@ -2254,7 +2254,8 @@
    "Yerevan City|id:178845|1250|750",
    "Yerevan City|id:195092|1250|890",
    "Yerevan City|id:2399|1250|990",
-   "Yerevan City|id:48375|1250|990"
+   "Yerevan City|id:48375|1250|990",
+   "Yerevan City|id:15045|1250|1110"
   ]
  },
  "queues": {
@@ -6649,6 +6650,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1105859.png",
     "url": "https://yerevan-city.am/shop/product-details/48375",
     "key": "Yerevan City|id:48375|1250|990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ամենօրյա միջադիրներ «Լիբրես» Նեյչրլ Քեյր 40հտ",
+    "old": 1250,
+    "new": 1110,
+    "pct": 11,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1021668.png",
+    "url": "https://yerevan-city.am/shop/product-details/15045",
+    "key": "Yerevan City|id:15045|1250|1110"
    }
   ]
  },
