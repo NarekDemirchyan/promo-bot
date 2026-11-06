@@ -2212,22 +2212,12 @@
    "Yerevan City|id:22643|1290|990",
    "Yerevan City|id:161997|1290|990",
    "Yerevan City|id:165935|1290|645",
-   "Yerevan City|id:175274|1290|990"
+   "Yerevan City|id:175274|1290|990",
+   "Yerevan City|id:165936|1290|645"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շամպուն «Wella ProSeries Repair» 500մլ",
-    "old": 2540,
-    "new": 2190,
-    "pct": 14,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/dlya_volos2/204646/",
-    "key": "SAS|id:204646|2540|2190"
-   },
    {
     "store": "SAS",
     "title": "Շամպուն «OGX» 385մլ",
@@ -6607,12 +6597,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168904.png",
     "url": "https://yerevan-city.am/shop/product-details/175274",
     "key": "Yerevan City|id:175274|1290|990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Օշարակ «Ռոբինսոնս» 20 ամառային մրգեր ա/շ 1լ",
+    "old": 1290,
+    "new": 645,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1161626.png",
+    "url": "https://yerevan-city.am/shop/product-details/165936",
+    "key": "Yerevan City|id:165936|1290|645"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-06T14:31:46.286506+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-06T14:46:48.225613+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
