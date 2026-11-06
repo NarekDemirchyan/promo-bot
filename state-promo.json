@@ -2252,22 +2252,12 @@
    "Yerevan City|id:161901|1290|990",
    "Yerevan City|id:178845|1250|750",
    "Yerevan City|id:195092|1250|890",
-   "Yerevan City|id:2399|1250|990"
+   "Yerevan City|id:2399|1250|990",
+   "Yerevan City|id:48375|1250|990"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Լվացքի փոշի գունավոր «Ariel Color & Style» 3կգ",
-    "old": 4070,
-    "new": 3740,
-    "pct": 8,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/stiralnyy_poroshok/142839/",
-    "key": "SAS|id:142839|4070|3740"
-   },
    {
     "store": "SAS",
     "title": "Թղթե սրբիչ «Selpak» 2հատ",
@@ -6647,12 +6637,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1038802.png",
     "url": "https://yerevan-city.am/shop/product-details/2399",
     "key": "Yerevan City|id:2399|1250|990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մաստակ «Մենթոս» Փուր, անանուխ 60գր",
+    "old": 1250,
+    "new": 990,
+    "pct": 21,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1105859.png",
+    "url": "https://yerevan-city.am/shop/product-details/48375",
+    "key": "Yerevan City|id:48375|1250|990"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-07T02:46:40.971893+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-07T03:02:09.248480+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
