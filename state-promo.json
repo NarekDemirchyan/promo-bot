@@ -2292,7 +2292,8 @@
    "Yerevan City|id:5069|1240|920",
    "Yerevan City|id:5342|1240|920",
    "Yerevan City|id:6135|1240|1050",
-   "Yerevan City|id:7023|1240|920"
+   "Yerevan City|id:7023|1240|920",
+   "Yerevan City|id:179202|1240|920"
   ]
  },
  "queues": {
@@ -6687,6 +6688,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1009338.png",
     "url": "https://yerevan-city.am/shop/product-details/7023",
     "key": "Yerevan City|id:7023|1240|920"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մազի ներկ «Վելլատոն» 4/5 մուգ մախագոն",
+    "old": 1240,
+    "new": 920,
+    "pct": 26,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172910.png",
+    "url": "https://yerevan-city.am/shop/product-details/179202",
+    "key": "Yerevan City|id:179202|1240|920"
    }
   ]
  },
