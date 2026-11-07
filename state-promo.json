@@ -2272,22 +2272,12 @@
    "Yerevan City|id:133299|1240|620",
    "Yerevan City|id:7362|1240|850",
    "Yerevan City|id:13493|1240|1170",
-   "Yerevan City|id:314|1240|920"
+   "Yerevan City|id:314|1240|920",
+   "Yerevan City|id:319|1240|920"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Հակաքրտինքային միջոց-սթիք «Rexona Men Motion Sense Invisible» 50մլ",
-    "old": 1890,
-    "new": 1690,
-    "pct": 11,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/antiperspirantt/17635/",
-    "key": "SAS|id:17635|1890|1690"
-   },
    {
     "store": "SAS",
     "title": "Հակաքրտինքային աէրոզոլային միջոց «Garnier Mineral Активный Контроль» 150մլ",
@@ -6667,12 +6657,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1022272.png",
     "url": "https://yerevan-city.am/shop/product-details/314",
     "key": "Yerevan City|id:314|1240|920"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ներկ մազերի համար «Վելլատոն» 5/0 մուգ կաղին",
+    "old": 1240,
+    "new": 920,
+    "pct": 26,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1033867.png",
+    "url": "https://yerevan-city.am/shop/product-details/319",
+    "key": "Yerevan City|id:319|1240|920"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-07T09:16:57.111089+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-07T09:32:00.109941+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
