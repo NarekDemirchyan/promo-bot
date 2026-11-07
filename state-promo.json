@@ -1148,7 +1148,8 @@
    "SAS|id:154690|350|300",
    "SAS|id:38876|720|680",
    "SAS|id:198002|1590|1120",
-   "SAS|id:95747|880|730"
+   "SAS|id:95747|880|730",
+   "SAS|id:25342|2620|2080"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4514,20 +4515,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/spagetti_kapelini/95747/",
     "key": "SAS|id:95747|880|730"
+   },
+   {
+    "store": "SAS",
+    "title": "Զուգարանի թուղթ «Zewa Deluxe Pure White» 8 հատ",
+    "old": 2620,
+    "new": 2080,
+    "pct": 21,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/tualetnaya_bumaga/25342/",
+    "key": "SAS|id:25342|2620|2080"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Սոուսաման «Դեննի Հոմ» 3տեղ 22.5x4.5սմ ԲՎ26-88",
-    "old": 1350,
-    "new": 750,
-    "pct": 44,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172581.png",
-    "url": "https://yerevan-city.am/shop/product-details/178880",
-    "key": "Yerevan City|id:178880|1350|750"
-   },
    {
     "store": "Yerevan City",
     "title": "Լուսանկարի շրջանակ մանկական 714",
@@ -6720,8 +6721,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-08T00:16:47.760530+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-08T00:31:57.827855+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
