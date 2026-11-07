@@ -4465,17 +4465,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Փուչիկ բազմերանգ պոմպերով",
-    "old": 1050,
-    "new": 790,
-    "pct": 25,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175851.png",
-    "url": "https://yerevan-city.am/shop/product-details/192126",
-    "key": "Yerevan City|id:192126|1050|790"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Կիտրոն տրորած շաքարով «Կուբանոչկա» 500գր",
     "old": 990,
     "new": 495,
@@ -6666,8 +6655,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-07T03:58:29.184298+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-07T04:16:52.639131+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
