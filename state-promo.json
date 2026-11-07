@@ -2316,22 +2316,12 @@
    "Yerevan City|id:9793|1240|920",
    "Yerevan City|id:167063|1240|920",
    "Yerevan City|id:167060|1240|920",
-   "Yerevan City|id:10446|1240|1050"
+   "Yerevan City|id:10446|1240|1050",
+   "Yerevan City|id:11158|1240|920"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շամպուն-բալզամ «Head & Shoulders Ментол» 360մլ",
-    "old": 2620,
-    "new": 2490,
-    "pct": 5,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/dlya_volos2/913521/",
-    "key": "SAS|id:913521|2620|2490"
-   },
    {
     "store": "SAS",
     "title": "Շամպուն «Head & Shoulders» 360մլ",
@@ -6711,12 +6701,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1021387.png",
     "url": "https://yerevan-city.am/shop/product-details/10446",
     "key": "Yerevan City|id:10446|1240|1050"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ներկ մազերի համար «Վելլատոն» 7/3 անտառաընկույզ",
+    "old": 1240,
+    "new": 920,
+    "pct": 26,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1029860.png",
+    "url": "https://yerevan-city.am/shop/product-details/11158",
+    "key": "Yerevan City|id:11158|1240|920"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-07T22:46:48.622650+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-07T23:02:09.696920+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
