@@ -1119,7 +1119,8 @@
    "SAS|id:960413|870|780",
    "SAS|id:83003|4690|3250",
    "SAS|id:954756|1390|1050",
-   "SAS|id:949217|1990|990"
+   "SAS|id:949217|1990|990",
+   "SAS|id:938671|1450|1220"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4456,20 +4457,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/356/861/861057719769652.webp",
     "url": "https://www.sas.am/catalog/yogurt_puding/949217/",
     "key": "SAS|id:949217|1990|990"
+   },
+   {
+    "store": "SAS",
+    "title": "Հակաքրտինքային միջոց գնդիկով «Nivea Black & White Invisible Authentic» 50մլ",
+    "old": 1450,
+    "new": 1220,
+    "pct": 16,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/antiperspirantt/938671/",
+    "key": "SAS|id:938671|1450|1220"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Բատոնչիկ պրոտ. «Ռեքս» կոկոս ա/շ 50գր",
-    "old": 990,
-    "new": 682,
-    "pct": 31,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176228.png",
-    "url": "https://yerevan-city.am/shop/product-details/192500",
-    "key": "Yerevan City|id:192500|990|682"
-   },
    {
     "store": "Yerevan City",
     "title": "Բրինձ բասմատի «Զիբա» շոգեխաշած 1կգ",
@@ -6662,8 +6663,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-07T06:31:55.117078+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-07T06:48:30.363382+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
