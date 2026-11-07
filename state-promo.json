@@ -1142,7 +1142,8 @@
    "SAS|id:547527|960|790",
    "SAS|id:594488|1250|740",
    "SAS|id:594487|1250|740",
-   "SAS|id:594493|1250|740"
+   "SAS|id:594493|1250|740",
+   "SAS|id:193034|720|590"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4502,20 +4503,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/chipsy/594493/",
     "key": "SAS|id:594493|1250|740"
+   },
+   {
+    "store": "SAS",
+    "title": "Լոբի սպիտակ «Bonduelle» 400գ",
+    "old": 720,
+    "new": 590,
+    "pct": 18,
+    "until": "31.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/goroshek/193034/",
+    "key": "SAS|id:193034|720|590"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Թղթե սրբիչ «Պապիրուս» Դելյուքս, եռաշերտ 2հտ",
-    "old": 1360,
-    "new": 950,
-    "pct": 30,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1097265.png",
-    "url": "https://yerevan-city.am/shop/product-details/11739",
-    "key": "Yerevan City|id:11739|1360|950"
-   },
    {
     "store": "Yerevan City",
     "title": "Ունիվերսալ քսուք «Նիվեա» թ/տ 75մլ",
@@ -6708,8 +6709,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-07T20:46:49.444165+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-07T21:01:08.884272+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
