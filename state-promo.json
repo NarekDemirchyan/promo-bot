@@ -1136,7 +1136,8 @@
    "SAS|id:145219|1490|1220",
    "SAS|id:170354|1640|970",
    "SAS|id:631513|1570|1490",
-   "SAS|id:38870|360|230"
+   "SAS|id:38870|360|230",
+   "SAS|id:170347|1670|990"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4490,20 +4491,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/sredstva_dlya_posudy/38870/",
     "key": "SAS|id:38870|360|230"
+   },
+   {
+    "store": "SAS",
+    "title": "Սպասք լվանալու հեղուկ «Frosch» 1լ",
+    "old": 1670,
+    "new": 990,
+    "pct": 41,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/sredstva_dlya_posudy/170347/",
+    "key": "SAS|id:170347|1670|990"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Ափսե «ԻքսՅՑ» մուգ մոխ. կլոր 26.5սմ 1հտ ՀՖ135-1",
-    "old": 850,
-    "new": 490,
-    "pct": 42,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177655.png",
-    "url": "https://yerevan-city.am/shop/product-details/193894",
-    "key": "Yerevan City|id:193894|850|490"
-   },
    {
     "store": "Yerevan City",
     "title": "Պանիր կաթնաշոռային «Պրեզիդենտ» կանաչիով 140գր",
@@ -6696,8 +6697,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-07T17:02:14.853203+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-07T17:16:53.702692+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
