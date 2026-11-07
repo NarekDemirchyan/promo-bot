@@ -2324,22 +2324,12 @@
    "Yerevan City|id:11158|1240|920",
    "Yerevan City|id:92095|1240|1050",
    "Yerevan City|id:8340|1260|630",
-   "Yerevan City|id:22368|1250|890"
+   "Yerevan City|id:22368|1250|890",
+   "Yerevan City|id:14444|1240|1050"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Օճառ հակաբակտերիալ «Safeguard» 3*90գ",
-    "old": 1170,
-    "new": 990,
-    "pct": 15,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/373/407/4074522399779828.webp",
-    "url": "https://www.sas.am/catalog/mylo_ustarelo/671546/",
-    "key": "SAS|id:671546|1170|990"
-   },
    {
     "store": "SAS",
     "title": "Լոգանքի գել «Dove Nourishing» 500մլ",
@@ -6719,12 +6709,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1092446.png",
     "url": "https://yerevan-city.am/shop/product-details/22368",
     "key": "Yerevan City|id:22368|1250|890"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գնդիկավոր հոտազերծիչ «Նիվեա» սև և սպիտակ, կապույտ 50մլ",
+    "old": 1240,
+    "new": 1050,
+    "pct": 15,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1011115.png",
+    "url": "https://yerevan-city.am/shop/product-details/14444",
+    "key": "Yerevan City|id:14444|1240|1050"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-08T01:16:45.955551+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-08T01:32:01.901347+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
