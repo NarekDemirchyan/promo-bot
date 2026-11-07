@@ -2288,7 +2288,8 @@
    "Yerevan City|id:179203|1240|920",
    "Yerevan City|id:1778|1240|920",
    "Yerevan City|id:5069|1240|920",
-   "Yerevan City|id:5342|1240|920"
+   "Yerevan City|id:5342|1240|920",
+   "Yerevan City|id:6135|1240|1050"
   ]
  },
  "queues": {
@@ -6683,6 +6684,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1033967.png",
     "url": "https://yerevan-city.am/shop/product-details/5342",
     "key": "Yerevan City|id:5342|1240|920"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գնդիկավոր հոտազերծիչ «Նիվեա» փոշու էֆֆեկտ 50մլ",
+    "old": 1240,
+    "new": 1050,
+    "pct": 15,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1037681.png",
+    "url": "https://yerevan-city.am/shop/product-details/6135",
+    "key": "Yerevan City|id:6135|1240|1050"
    }
   ]
  },
