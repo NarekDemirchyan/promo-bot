@@ -2276,7 +2276,8 @@
    "Yerevan City|id:13493|1240|1170",
    "Yerevan City|id:314|1240|920",
    "Yerevan City|id:319|1240|920",
-   "Yerevan City|id:820|1240|1050"
+   "Yerevan City|id:820|1240|1050",
+   "Yerevan City|id:179205|1240|920"
   ]
  },
  "queues": {
@@ -6671,6 +6672,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1012103.png",
     "url": "https://yerevan-city.am/shop/product-details/820",
     "key": "Yerevan City|id:820|1240|1050"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մազի ներկ «Վելլատոն» 9/36 վարդագույն շիկահեր",
+    "old": 1240,
+    "new": 920,
+    "pct": 26,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172913.png",
+    "url": "https://yerevan-city.am/shop/product-details/179205",
+    "key": "Yerevan City|id:179205|1240|920"
    }
   ]
  },
