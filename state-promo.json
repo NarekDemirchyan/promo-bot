@@ -1116,7 +1116,8 @@
    "SAS|id:81170|5750|5250",
    "SAS|id:62750|1330|990",
    "SAS|id:95745|2350|1990",
-   "SAS|id:960413|870|780"
+   "SAS|id:960413|870|780",
+   "SAS|id:83003|4690|3250"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2256,7 +2257,8 @@
    "Yerevan City|id:195092|1250|890",
    "Yerevan City|id:2399|1250|990",
    "Yerevan City|id:48375|1250|990",
-   "Yerevan City|id:15045|1250|1110"
+   "Yerevan City|id:15045|1250|1110",
+   "Yerevan City|id:11316|1250|1050"
   ]
  },
  "queues": {
@@ -4449,6 +4451,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/752/722/7225711246977409.webp",
     "url": "https://www.sas.am/catalog/vetwip_es/960413/",
     "key": "SAS|id:960413|870|780"
+   },
+   {
+    "store": "SAS",
+    "title": "Սուրճ լուծվող «Jacobs Monarch» 130գ",
+    "old": 4690,
+    "new": 3250,
+    "pct": 31,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/rastvorimyy_kofe/83003/",
+    "key": "SAS|id:83003|4690|3250"
    }
   ],
   "Yerevan City": [
@@ -6640,6 +6653,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1021668.png",
     "url": "https://yerevan-city.am/shop/product-details/15045",
     "key": "Yerevan City|id:15045|1250|1110"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ֆունչոզա «Չիմ Չիմ» համեմունքով 160գր",
+    "old": 1250,
+    "new": 1050,
+    "pct": 16,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1087267.png",
+    "url": "https://yerevan-city.am/shop/product-details/11316",
+    "key": "Yerevan City|id:11316|1250|1050"
    }
   ]
  },
