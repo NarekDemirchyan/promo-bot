@@ -2260,7 +2260,8 @@
    "Yerevan City|id:48375|1250|990",
    "Yerevan City|id:15045|1250|1110",
    "Yerevan City|id:11316|1250|1050",
-   "Yerevan City|id:92658|1250|990"
+   "Yerevan City|id:92658|1250|990",
+   "Yerevan City|id:180415|1240|995"
   ]
  },
  "queues": {
@@ -6655,6 +6656,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1129564.png",
     "url": "https://yerevan-city.am/shop/product-details/92658",
     "key": "Yerevan City|id:92658|1250|990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Արևածաղկի ձեթ «Յուժնիյ Պոլյուս» 1.8լ",
+    "old": 1240,
+    "new": 995,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174125.png",
+    "url": "https://yerevan-city.am/shop/product-details/180415",
+    "key": "Yerevan City|id:180415|1240|995"
    }
   ]
  },
