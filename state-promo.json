@@ -2258,22 +2258,12 @@
    "Yerevan City|id:2399|1250|990",
    "Yerevan City|id:48375|1250|990",
    "Yerevan City|id:15045|1250|1110",
-   "Yerevan City|id:11316|1250|1050"
+   "Yerevan City|id:11316|1250|1050",
+   "Yerevan City|id:92658|1250|990"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Թխվածքաբլիթ շոկոլադե միջուկով «Gullon Duo Chocolate» 250գ",
-    "old": 920,
-    "new": 810,
-    "pct": 12,
-    "until": "13.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/pechene_pryaniki/133599/",
-    "key": "SAS|id:133599|920|810"
-   },
    {
     "store": "SAS",
     "title": "Ատամի մածուկ «Sensodyne» 75մլ",
@@ -6653,12 +6643,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1087267.png",
     "url": "https://yerevan-city.am/shop/product-details/11316",
     "key": "Yerevan City|id:11316|1250|1050"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մաստակ «Հուբբա Բուբբա» ելակ 56գր",
+    "old": 1250,
+    "new": 990,
+    "pct": 21,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1129564.png",
+    "url": "https://yerevan-city.am/shop/product-details/92658",
+    "key": "Yerevan City|id:92658|1250|990"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-07T05:02:03.671057+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-07T05:16:51.654828+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
