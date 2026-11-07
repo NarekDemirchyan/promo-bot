@@ -1125,7 +1125,8 @@
    "SAS|id:934434|2010|1650",
    "SAS|id:933886|1250|1050",
    "SAS|id:32084|22600|18200",
-   "SAS|id:968157|1390|1090"
+   "SAS|id:968157|1390|1090",
+   "SAS|id:672199|1320|1090"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4468,20 +4469,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/ris/968157/",
     "key": "SAS|id:968157|1390|1090"
+   },
+   {
+    "store": "SAS",
+    "title": "Շոկոլադե կոնֆետներ «Nestle Kit Kat» 3*29գ",
+    "old": 1320,
+    "new": 1090,
+    "pct": 17,
+    "until": "20.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/konfety_v_upakovke/672199/",
+    "key": "SAS|id:672199|1320|1090"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Շերտավոր խմոր «Տնական» գրտնակած 400գր",
-    "old": 930,
-    "new": 745,
-    "pct": 20,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1040142.png",
-    "url": "https://yerevan-city.am/shop/product-details/171",
-    "key": "Yerevan City|id:171|930|745"
-   },
    {
     "store": "Yerevan City",
     "title": "Նրբերշիկ նախաճաշի «Միթ Ֆուդ» 400գր",
@@ -6674,8 +6675,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-07T10:02:08.129644+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-07T10:19:03.388608+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
