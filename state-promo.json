@@ -2276,17 +2276,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Սափրող սարքի գլխիկներ «Gillette Fusion 5 Proglide» 2 հատ",
-    "old": 6950,
-    "new": 6390,
-    "pct": 8,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/kasseta_dlya_britya/62047/",
-    "key": "SAS|id:62047|6950|6390"
-   },
-   {
-    "store": "SAS",
     "title": "Մազերի կոնդիցիոներ «OGX» 385մլ",
     "old": 4190,
     "new": 3290,
@@ -6679,8 +6668,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-07T08:03:48.555961+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-07T08:31:53.714131+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
