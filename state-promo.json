@@ -2314,22 +2314,12 @@
    "Yerevan City|id:9706|1240|920",
    "Yerevan City|id:9793|1240|920",
    "Yerevan City|id:167063|1240|920",
-   "Yerevan City|id:167060|1240|920"
+   "Yerevan City|id:167060|1240|920",
+   "Yerevan City|id:10446|1240|1050"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Միջադիրներ «Always Ultra Platinum Night» 5 հատ",
-    "old": 1250,
-    "new": 1070,
-    "pct": 14,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/dlya_intimnoy_gigieny2/913524/",
-    "key": "SAS|id:913524|1250|1070"
-   },
    {
     "store": "SAS",
     "title": "Շամպուն-բալզամ «Head & Shoulders Ментол» 360մլ",
@@ -6709,12 +6699,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1162679.png",
     "url": "https://yerevan-city.am/shop/product-details/167060",
     "key": "Yerevan City|id:167060|1240|920"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գնդիկավոր հոտազերծիչ «Նիվեա» մարգարտե գեղեցկություն 50մլ",
+    "old": 1240,
+    "new": 1050,
+    "pct": 15,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1021387.png",
+    "url": "https://yerevan-city.am/shop/product-details/10446",
+    "key": "Yerevan City|id:10446|1240|1050"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-07T22:02:11.279672+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-07T22:18:54.777622+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
