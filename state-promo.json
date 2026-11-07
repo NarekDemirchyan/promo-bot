@@ -1123,7 +1123,8 @@
    "SAS|id:938671|1450|1220",
    "SAS|id:938656|1990|1680",
    "SAS|id:934434|2010|1650",
-   "SAS|id:933886|1250|1050"
+   "SAS|id:933886|1250|1050",
+   "SAS|id:32084|22600|18200"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4464,6 +4465,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/maska_konditsioner_dlya_volos/933886/",
     "key": "SAS|id:933886|1250|1050"
+   },
+   {
+    "store": "SAS",
+    "title": "Օղի «Beluga Transatlantic Racing» 0.5լ",
+    "old": 22600,
+    "new": 18200,
+    "pct": 19,
+    "until": "04.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/importnoe/32084/",
+    "key": "SAS|id:32084|22600|18200"
    }
   ],
   "Yerevan City": [
