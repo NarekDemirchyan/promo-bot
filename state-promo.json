@@ -1133,7 +1133,8 @@
    "SAS|id:774672|160|130",
    "SAS|id:408355|2270|1680",
    "SAS|id:858518|570|520",
-   "SAS|id:145219|1490|1220"
+   "SAS|id:145219|1490|1220",
+   "SAS|id:170354|1640|970"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4484,20 +4485,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/dlya_intimnoy_gigieny2/145219/",
     "key": "SAS|id:145219|1490|1220"
+   },
+   {
+    "store": "SAS",
+    "title": "Սպասք լվանալու հեղուկ «Frosch» 500մլ",
+    "old": 1640,
+    "new": 970,
+    "pct": 41,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/sredstva_dlya_posudy/170354/",
+    "key": "SAS|id:170354|1640|970"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Երշիկ եփած բժշկական դասական «Միթ Ֆուդ» 300գր",
-    "old": 860,
-    "new": 640,
-    "pct": 26,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172610.png",
-    "url": "https://yerevan-city.am/shop/product-details/178909",
-    "key": "Yerevan City|id:178909|860|640"
-   },
    {
     "store": "Yerevan City",
     "title": "Բիսքվիթ «Բարնի» արջուկ, կաթնային միջ. 5հտ 30գր",
@@ -6690,8 +6691,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-07T15:02:08.472453+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-07T15:19:21.196119+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
