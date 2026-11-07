@@ -4503,17 +4503,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Բիսքվիթ «Բարնի» արջուկ, կաթնային միջ. 5հտ 30գր",
-    "old": 860,
-    "new": 590,
-    "pct": 31,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1045052.png",
-    "url": "https://yerevan-city.am/shop/product-details/9656",
-    "key": "Yerevan City|id:9656|860|590"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Ափսե «ԻքսՅՑ» բեժ կլոր 26սմ 1հտ ՀՖ161-1",
     "old": 850,
     "new": 490,
@@ -6704,8 +6693,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-07T15:44:58.352155+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-07T16:02:17.973498+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
