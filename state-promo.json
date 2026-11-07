@@ -2330,22 +2330,12 @@
    "Yerevan City|id:22368|1250|890",
    "Yerevan City|id:14444|1240|1050",
    "Yerevan City|id:14995|1240|920",
-   "Yerevan City|id:15002|1240|920"
+   "Yerevan City|id:15002|1240|920",
+   "Yerevan City|id:15032|1240|920"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շամպուն «Pantene Pro-V Repair» 250մլ",
-    "old": 1670,
-    "new": 1450,
-    "pct": 13,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/dlya_volos2/661511/",
-    "key": "SAS|id:661511|1670|1450"
-   },
    {
     "store": "SAS",
     "title": "Մազերի կոնդիցիոներ «OGX» 385մլ",
@@ -6725,12 +6715,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1086035.png",
     "url": "https://yerevan-city.am/shop/product-details/15002",
     "key": "Yerevan City|id:15002|1240|920"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ներկ մազերի համար «Վելլատոն» 9/1 մարգարիտ",
+    "old": 1240,
+    "new": 920,
+    "pct": 26,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1014072.png",
+    "url": "https://yerevan-city.am/shop/product-details/15032",
+    "key": "Yerevan City|id:15032|1240|920"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-08T03:02:23.733937+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-08T03:18:42.797682+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
