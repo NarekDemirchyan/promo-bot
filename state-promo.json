@@ -2270,22 +2270,12 @@
    "Yerevan City|id:161283|1240|1040",
    "Yerevan City|id:133299|1240|620",
    "Yerevan City|id:7362|1240|850",
-   "Yerevan City|id:13493|1240|1170"
+   "Yerevan City|id:13493|1240|1170",
+   "Yerevan City|id:314|1240|920"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Մազերի կոնդիցիոներ «OGX» 385մլ",
-    "old": 4190,
-    "new": 3290,
-    "pct": 21,
-    "until": "13.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/balzam_dlya_volos/19140/",
-    "key": "SAS|id:19140|4190|3290"
-   },
    {
     "store": "SAS",
     "title": "Հակաքրտինքային միջոց-սթիք «Rexona Men Motion Sense Invisible» 50մլ",
@@ -6665,12 +6655,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1061234.png",
     "url": "https://yerevan-city.am/shop/product-details/13493",
     "key": "Yerevan City|id:13493|1240|1170"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ներկ մազերի համար «Վելլատոն» 8/0 ավազե",
+    "old": 1240,
+    "new": 920,
+    "pct": 26,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1022272.png",
+    "url": "https://yerevan-city.am/shop/product-details/314",
+    "key": "Yerevan City|id:314|1240|920"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-07T08:46:40.417171+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-07T09:02:23.169580+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
