@@ -2268,7 +2268,8 @@
    "Yerevan City|id:180415|1240|995",
    "Yerevan City|id:161283|1240|1040",
    "Yerevan City|id:133299|1240|620",
-   "Yerevan City|id:7362|1240|850"
+   "Yerevan City|id:7362|1240|850",
+   "Yerevan City|id:13493|1240|1170"
   ]
  },
  "queues": {
@@ -6663,6 +6664,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1049348.png",
     "url": "https://yerevan-city.am/shop/product-details/7362",
     "key": "Yerevan City|id:7362|1240|850"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մարինացված վարունգ «Ռոյալ» 950գր",
+    "old": 1240,
+    "new": 1170,
+    "pct": 6,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1061234.png",
+    "url": "https://yerevan-city.am/shop/product-details/13493",
+    "key": "Yerevan City|id:13493|1240|1170"
    }
   ]
  },
