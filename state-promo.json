@@ -2322,22 +2322,12 @@
    "Yerevan City|id:10446|1240|1050",
    "Yerevan City|id:11158|1240|920",
    "Yerevan City|id:92095|1240|1050",
-   "Yerevan City|id:8340|1260|630"
+   "Yerevan City|id:8340|1260|630",
+   "Yerevan City|id:22368|1250|890"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սափրող սարք «Gillette Venus 3» 1հատ",
-    "old": 5880,
-    "new": 5390,
-    "pct": 8,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/255/473/473584296049643.webp",
-    "url": "https://www.sas.am/catalog/stanok_dlya_britya/677546/",
-    "key": "SAS|id:677546|5880|5390"
-   },
    {
     "store": "SAS",
     "title": "Օճառ հակաբակտերիալ «Safeguard» 3*90գ",
@@ -6717,12 +6707,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1070789.png",
     "url": "https://yerevan-city.am/shop/product-details/8340",
     "key": "Yerevan City|id:8340|1260|630"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Վիսկիի բաժակներ «ՕՍԶ» Կրիստալ 6հտ 05Ց1240",
+    "old": 1250,
+    "new": 890,
+    "pct": 29,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1092446.png",
+    "url": "https://yerevan-city.am/shop/product-details/22368",
+    "key": "Yerevan City|id:22368|1250|890"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-08T00:31:57.827855+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-08T00:48:51.057104+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
@@ -6731,7 +6732,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 46,
+ "city_page": 47,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
