@@ -2282,22 +2282,12 @@
    "Yerevan City|id:820|1240|1050",
    "Yerevan City|id:179205|1240|920",
    "Yerevan City|id:179204|1240|920",
-   "Yerevan City|id:179203|1240|920"
+   "Yerevan City|id:179203|1240|920",
+   "Yerevan City|id:1778|1240|920"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շամպուն «Head & Shoulders» 360մլ",
-    "old": 2620,
-    "new": 2490,
-    "pct": 5,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/dlya_volos2/844611/",
-    "key": "SAS|id:844611|2620|2490"
-   },
    {
     "store": "SAS",
     "title": "Անձեռոցիկ «Selpak» 75 հատ",
@@ -6677,12 +6667,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172911.png",
     "url": "https://yerevan-city.am/shop/product-details/179203",
     "key": "Yerevan City|id:179203|1240|920"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ներկ մազերի համար «Վելլատոն» 8/1 խխունջ",
+    "old": 1240,
+    "new": 920,
+    "pct": 26,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1016884.png",
+    "url": "https://yerevan-city.am/shop/product-details/1778",
+    "key": "Yerevan City|id:1778|1240|920"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-07T12:16:50.351292+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-07T12:32:01.118129+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
