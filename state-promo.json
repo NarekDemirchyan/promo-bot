@@ -2290,22 +2290,12 @@
    "Yerevan City|id:1778|1240|920",
    "Yerevan City|id:5069|1240|920",
    "Yerevan City|id:5342|1240|920",
-   "Yerevan City|id:6135|1240|1050"
+   "Yerevan City|id:6135|1240|1050",
+   "Yerevan City|id:7023|1240|920"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սափրող սարքի գլխիկներ «Gillette Fusion 5» 4 հատ",
-    "old": 10890,
-    "new": 9990,
-    "pct": 8,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/kasseta_dlya_britya/62030/",
-    "key": "SAS|id:62030|10890|9990"
-   },
    {
     "store": "SAS",
     "title": "Պաչեր ակնեի դեմ «Garnier Pure Active Ultra» 22 հատ",
@@ -6685,12 +6675,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1037681.png",
     "url": "https://yerevan-city.am/shop/product-details/6135",
     "key": "Yerevan City|id:6135|1240|1050"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ներկ մազերի համար «Վելլատոն» 6/77 դառը շոկոլադ",
+    "old": 1240,
+    "new": 920,
+    "pct": 26,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1009338.png",
+    "url": "https://yerevan-city.am/shop/product-details/7023",
+    "key": "Yerevan City|id:7023|1240|920"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-07T14:46:47.437397+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-07T15:02:08.472453+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
