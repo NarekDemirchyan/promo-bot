@@ -2278,22 +2278,12 @@
    "Yerevan City|id:314|1240|920",
    "Yerevan City|id:319|1240|920",
    "Yerevan City|id:820|1240|1050",
-   "Yerevan City|id:179205|1240|920"
+   "Yerevan City|id:179205|1240|920",
+   "Yerevan City|id:179204|1240|920"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Հակաքրտինքային միջոց-սթիք «Rexona Cotton» 40գ",
-    "old": 1890,
-    "new": 1690,
-    "pct": 11,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/390/412/412651501438326.webp",
-    "url": "https://www.sas.am/catalog/antiperspirantt/17333/",
-    "key": "SAS|id:17333|1890|1690"
-   },
    {
     "store": "SAS",
     "title": "Հակաքրտինքային միջոց-սթիք «Rexona Aloe Vera» 45մլ",
@@ -6673,12 +6663,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172913.png",
     "url": "https://yerevan-city.am/shop/product-details/179205",
     "key": "Yerevan City|id:179205|1240|920"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մազի ներկ «Վելլատոն» 6/45 կարմիր կիրք",
+    "old": 1240,
+    "new": 920,
+    "pct": 26,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172912.png",
+    "url": "https://yerevan-city.am/shop/product-details/179204",
+    "key": "Yerevan City|id:179204|1240|920"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-07T11:02:09.789829+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-07T11:16:46.434896+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
