@@ -1145,7 +1145,8 @@
    "SAS|id:594493|1250|740",
    "SAS|id:193034|720|590",
    "SAS|id:95743|880|730",
-   "SAS|id:154690|350|300"
+   "SAS|id:154690|350|300",
+   "SAS|id:38876|720|680"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4508,6 +4509,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/vetwip_es/154690/",
     "key": "SAS|id:154690|350|300"
+   },
+   {
+    "store": "SAS",
+    "title": "Սպունգ սպասք լվանալու «Vileda» 3հատ",
+    "old": 720,
+    "new": 680,
+    "pct": 6,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/sredstva_dlya_posudy/38876/",
+    "key": "SAS|id:38876|720|680"
    }
   ],
   "Yerevan City": [
