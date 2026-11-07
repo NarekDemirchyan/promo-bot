@@ -2300,7 +2300,8 @@
    "Yerevan City|id:179202|1240|920",
    "Yerevan City|id:179201|1240|920",
    "Yerevan City|id:8014|1240|920",
-   "Yerevan City|id:8024|1240|920"
+   "Yerevan City|id:8024|1240|920",
+   "Yerevan City|id:8676|1240|920"
   ]
  },
  "queues": {
@@ -6695,6 +6696,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1037279.png",
     "url": "https://yerevan-city.am/shop/product-details/8024",
     "key": "Yerevan City|id:8024|1240|920"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ներկ մազերի համար «Վելլատոն» 2/0 սև",
+    "old": 1240,
+    "new": 920,
+    "pct": 26,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1003491.png",
+    "url": "https://yerevan-city.am/shop/product-details/8676",
+    "key": "Yerevan City|id:8676|1240|920"
    }
   ]
  },
