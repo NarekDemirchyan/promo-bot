@@ -1153,7 +1153,8 @@
    "SAS|id:968156|1070|820",
    "SAS|id:968151|1350|1050",
    "SAS|id:947175|920|790",
-   "SAS|id:442343|2230|1950"
+   "SAS|id:442343|2230|1950",
+   "SAS|id:923009|6250|4680"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4524,6 +4525,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/gotovyy_zavtrak/442343/",
     "key": "SAS|id:442343|2230|1950"
+   },
+   {
+    "store": "SAS",
+    "title": "Սափրող սարք «Wilkinson Intuition Complete Mini»",
+    "old": 6250,
+    "new": 4680,
+    "pct": 25,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/stanok_dlya_britya/923009/",
+    "key": "SAS|id:923009|6250|4680"
    }
   ],
   "Yerevan City": [
