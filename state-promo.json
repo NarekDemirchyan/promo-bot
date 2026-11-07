@@ -1150,7 +1150,8 @@
    "SAS|id:198002|1590|1120",
    "SAS|id:95747|880|730",
    "SAS|id:25342|2620|2080",
-   "SAS|id:968156|1070|820"
+   "SAS|id:968156|1070|820",
+   "SAS|id:968151|1350|1050"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4518,20 +4519,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/271/877/8778844286918030.webp",
     "url": "https://www.sas.am/catalog/ris/968156/",
     "key": "SAS|id:968156|1070|820"
+   },
+   {
+    "store": "SAS",
+    "title": "Բրինձ երկարահատիկ «Alishaan Superba Basmati» 1կգ",
+    "old": 1350,
+    "new": 1050,
+    "pct": 22,
+    "until": "25.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/265/281/2813502082597099.webp",
+    "url": "https://www.sas.am/catalog/ris/968151/",
+    "key": "SAS|id:968151|1350|1050"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Երաժշտական հեռախոս 2041/43/45",
-    "old": 1350,
-    "new": 890,
-    "pct": 34,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178868.png",
-    "url": "https://yerevan-city.am/shop/product-details/195068",
-    "key": "Yerevan City|id:195068|1350|890"
-   },
    {
     "store": "Yerevan City",
     "title": "Միջադիրներ «Օլվեյզ» Ուլտրա, նայթ 14հտ",
@@ -6724,8 +6725,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-08T01:32:01.901347+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-08T01:46:47.482381+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
