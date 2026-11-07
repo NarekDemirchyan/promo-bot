@@ -1115,7 +1115,8 @@
    "SAS|id:960418|280|250",
    "SAS|id:81170|5750|5250",
    "SAS|id:62750|1330|990",
-   "SAS|id:95745|2350|1990"
+   "SAS|id:95745|2350|1990",
+   "SAS|id:960413|870|780"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4448,6 +4449,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/lazanya_kannelloni/95745/",
     "key": "SAS|id:95745|2350|1990"
+   },
+   {
+    "store": "SAS",
+    "title": "Անձեռոցիկ խոնավ «Golf Compact Yerevan Cascade» 120 հատ",
+    "old": 870,
+    "new": 780,
+    "pct": 10,
+    "until": "27.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/752/722/7225711246977409.webp",
+    "url": "https://www.sas.am/catalog/vetwip_es/960413/",
+    "key": "SAS|id:960413|870|780"
    }
   ],
   "Yerevan City": [
