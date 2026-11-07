@@ -2264,7 +2264,8 @@
    "Yerevan City|id:11316|1250|1050",
    "Yerevan City|id:92658|1250|990",
    "Yerevan City|id:180415|1240|995",
-   "Yerevan City|id:161283|1240|1040"
+   "Yerevan City|id:161283|1240|1040",
+   "Yerevan City|id:133299|1240|620"
   ]
  },
  "queues": {
@@ -6659,6 +6660,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1158919.png",
     "url": "https://yerevan-city.am/shop/product-details/161283",
     "key": "Yerevan City|id:161283|1240|1040"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կետչուպ «Հայնց» կծու 550գր",
+    "old": 1240,
+    "new": 620,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1152693.png",
+    "url": "https://yerevan-city.am/shop/product-details/133299",
+    "key": "Yerevan City|id:133299|1240|620"
    }
   ]
  },
