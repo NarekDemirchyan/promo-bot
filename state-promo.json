@@ -2326,22 +2326,12 @@
    "Yerevan City|id:92095|1240|1050",
    "Yerevan City|id:8340|1260|630",
    "Yerevan City|id:22368|1250|890",
-   "Yerevan City|id:14444|1240|1050"
+   "Yerevan City|id:14444|1240|1050",
+   "Yerevan City|id:14995|1240|920"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Լոգանքի գել «Dove Nourishing» 500մլ",
-    "old": 2890,
-    "new": 2590,
-    "pct": 10,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/420/839/8394422167477288.webp",
-    "url": "https://www.sas.am/catalog/showergell/671260/",
-    "key": "SAS|id:671260|2890|2590"
-   },
    {
     "store": "SAS",
     "title": "Շամպուն «Pantene Pro-V» 250մլ",
@@ -6721,12 +6711,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1011115.png",
     "url": "https://yerevan-city.am/shop/product-details/14444",
     "key": "Yerevan City|id:14444|1240|1050"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ներկ մազերի համար «Վելլատոն» 10/0 սահարա",
+    "old": 1240,
+    "new": 920,
+    "pct": 26,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1086037.png",
+    "url": "https://yerevan-city.am/shop/product-details/14995",
+    "key": "Yerevan City|id:14995|1240|920"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-08T01:46:47.482381+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-08T02:04:05.904949+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
