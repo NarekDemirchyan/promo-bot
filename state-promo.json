@@ -1134,7 +1134,8 @@
    "SAS|id:408355|2270|1680",
    "SAS|id:858518|570|520",
    "SAS|id:145219|1490|1220",
-   "SAS|id:170354|1640|970"
+   "SAS|id:170354|1640|970",
+   "SAS|id:631513|1570|1490"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4486,6 +4487,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/sredstva_dlya_posudy/170354/",
     "key": "SAS|id:170354|1640|970"
+   },
+   {
+    "store": "SAS",
+    "title": "Բանջարեղեն խորոված «Իջևան» 900գ",
+    "old": 1570,
+    "new": 1490,
+    "pct": 5,
+    "until": "28.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/baklazhan/631513/",
+    "key": "SAS|id:631513|1570|1490"
    }
   ],
   "Yerevan City": [
