@@ -2318,22 +2318,12 @@
    "Yerevan City|id:167063|1240|920",
    "Yerevan City|id:167060|1240|920",
    "Yerevan City|id:10446|1240|1050",
-   "Yerevan City|id:11158|1240|920"
+   "Yerevan City|id:11158|1240|920",
+   "Yerevan City|id:92095|1240|1050"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շամպուն «Head & Shoulders» 360մլ",
-    "old": 2620,
-    "new": 2490,
-    "pct": 5,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/dlya_volos2/844600/",
-    "key": "SAS|id:844600|2620|2490"
-   },
    {
     "store": "SAS",
     "title": "Հակաքրտինքային աէրոզոլային միջոց «Garnier Men Invisible Protection» 150մլ",
@@ -6713,12 +6703,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1029860.png",
     "url": "https://yerevan-city.am/shop/product-details/11158",
     "key": "Yerevan City|id:11158|1240|920"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գնդիկավոր հոտազերծիչ «Նիվեա» մարգարտե գեղեցկություն, պրեմիում 50մլ",
+    "old": 1240,
+    "new": 1050,
+    "pct": 15,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1129013.png",
+    "url": "https://yerevan-city.am/shop/product-details/92095",
+    "key": "Yerevan City|id:92095|1240|1050"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-07T23:16:50.778947+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-07T23:34:09.785143+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
