@@ -2272,17 +2272,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Կրեկերներ պիցցայի համով «Croco Crackers Top Pizza» 150գ",
-    "old": 690,
-    "new": 570,
-    "pct": 17,
-    "until": "13.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/krekery_solenye_palochki/85390/",
-    "key": "SAS|id:85390|690|570"
-   },
-   {
-    "store": "SAS",
     "title": "Կոնֆետներ սերուցքային «Werther's Original» 50գ",
     "old": 390,
     "new": 330,
@@ -6675,8 +6664,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-07T06:48:30.363382+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-07T07:16:43.615006+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
