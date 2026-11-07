@@ -2296,17 +2296,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Հակաքրտինքային աէրոզոլային միջոց «Garnier Invisible Protection» 150մլ",
-    "old": 1780,
-    "new": 1230,
-    "pct": 31,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/antiperspirantt/17517/",
-    "key": "SAS|id:17517|1780|1230"
-   },
-   {
-    "store": "SAS",
     "title": "Սափրող սարքի գլխիկներ «Gillette Fusion 5» 4 հատ",
     "old": 10890,
     "new": 9990,
@@ -6699,8 +6688,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-07T14:04:09.724042+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-07T14:32:00.781901+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
