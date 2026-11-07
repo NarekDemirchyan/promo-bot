@@ -2298,22 +2298,12 @@
    "Yerevan City|id:7023|1240|920",
    "Yerevan City|id:179202|1240|920",
    "Yerevan City|id:179201|1240|920",
-   "Yerevan City|id:8014|1240|920"
+   "Yerevan City|id:8014|1240|920",
+   "Yerevan City|id:8024|1240|920"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Դեմքի կրեմ «Garnier Salicylic Fresh & Pure» 85մլ",
-    "old": 2650,
-    "new": 2330,
-    "pct": 12,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/vse_dlya_litsa/952955/",
-    "key": "SAS|id:952955|2650|2330"
-   },
    {
     "store": "SAS",
     "title": "Մազերի սփրեյ «Garnier Fructis Сияние и Гладкость» 150մլ",
@@ -6693,12 +6683,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1000332.png",
     "url": "https://yerevan-city.am/shop/product-details/8014",
     "key": "Yerevan City|id:8014|1240|920"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ներկ մազերի համար «Վելլատոն» 4/0 մուգ շոկոլադ",
+    "old": 1240,
+    "new": 920,
+    "pct": 26,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1037279.png",
+    "url": "https://yerevan-city.am/shop/product-details/8024",
+    "key": "Yerevan City|id:8024|1240|920"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-07T17:16:53.702692+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-07T17:32:08.560072+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
