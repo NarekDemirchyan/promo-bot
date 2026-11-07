@@ -1147,7 +1147,8 @@
    "SAS|id:95743|880|730",
    "SAS|id:154690|350|300",
    "SAS|id:38876|720|680",
-   "SAS|id:198002|1590|1120"
+   "SAS|id:198002|1590|1120",
+   "SAS|id:95747|880|730"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4512,6 +4513,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/257/891/891914764817335.webp",
     "url": "https://www.sas.am/catalog/v_paketakh/198002/",
     "key": "SAS|id:198002|1590|1120"
+   },
+   {
+    "store": "SAS",
+    "title": "Սպագետտի «Barilla №3» 500գ",
+    "old": 880,
+    "new": 730,
+    "pct": 17,
+    "until": "25.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/spagetti_kapelini/95747/",
+    "key": "SAS|id:95747|880|730"
    }
   ],
   "Yerevan City": [
