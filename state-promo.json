@@ -2280,7 +2280,8 @@
    "Yerevan City|id:319|1240|920",
    "Yerevan City|id:820|1240|1050",
    "Yerevan City|id:179205|1240|920",
-   "Yerevan City|id:179204|1240|920"
+   "Yerevan City|id:179204|1240|920",
+   "Yerevan City|id:179203|1240|920"
   ]
  },
  "queues": {
@@ -6675,6 +6676,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172912.png",
     "url": "https://yerevan-city.am/shop/product-details/179204",
     "key": "Yerevan City|id:179204|1240|920"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մազի ներկ «Վելլատոն» 6/374 շոկոլադե մայրամուտ",
+    "old": 1240,
+    "new": 920,
+    "pct": 26,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172911.png",
+    "url": "https://yerevan-city.am/shop/product-details/179203",
+    "key": "Yerevan City|id:179203|1240|920"
    }
   ]
  },
