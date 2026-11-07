@@ -2284,7 +2284,8 @@
    "Yerevan City|id:179205|1240|920",
    "Yerevan City|id:179204|1240|920",
    "Yerevan City|id:179203|1240|920",
-   "Yerevan City|id:1778|1240|920"
+   "Yerevan City|id:1778|1240|920",
+   "Yerevan City|id:5069|1240|920"
   ]
  },
  "queues": {
@@ -6679,6 +6680,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1016884.png",
     "url": "https://yerevan-city.am/shop/product-details/1778",
     "key": "Yerevan City|id:1778|1240|920"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ներկ մազերի համար «Վելլատոն» 3/0 մուգ շատեն",
+    "old": 1240,
+    "new": 920,
+    "pct": 26,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1022949.png",
+    "url": "https://yerevan-city.am/shop/product-details/5069",
+    "key": "Yerevan City|id:5069|1240|920"
    }
   ]
  },
