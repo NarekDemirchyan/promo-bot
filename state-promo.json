@@ -2266,22 +2266,12 @@
    "Yerevan City|id:92658|1250|990",
    "Yerevan City|id:180415|1240|995",
    "Yerevan City|id:161283|1240|1040",
-   "Yerevan City|id:133299|1240|620"
+   "Yerevan City|id:133299|1240|620",
+   "Yerevan City|id:7362|1240|850"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կոնֆետներ սերուցքային «Werther's Original» 50գ",
-    "old": 390,
-    "new": 330,
-    "pct": 15,
-    "until": "13.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/konfety_v_upakovke/79429/",
-    "key": "SAS|id:79429|390|330"
-   },
    {
     "store": "SAS",
     "title": "Սափրող սարքի գլխիկներ «Gillette Fusion 5 Proglide» 2 հատ",
@@ -6661,12 +6651,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1152693.png",
     "url": "https://yerevan-city.am/shop/product-details/133299",
     "key": "Yerevan City|id:133299|1240|620"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Արքայախնձոր օշարակի մեջ «Լորադո» կտորներ 580մլ",
+    "old": 1240,
+    "new": 850,
+    "pct": 31,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1049348.png",
+    "url": "https://yerevan-city.am/shop/product-details/7362",
+    "key": "Yerevan City|id:7362|1240|850"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-07T07:31:58.535278+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-07T07:46:45.979877+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
