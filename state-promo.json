@@ -2320,22 +2320,12 @@
    "Yerevan City|id:167060|1240|920",
    "Yerevan City|id:10446|1240|1050",
    "Yerevan City|id:11158|1240|920",
-   "Yerevan City|id:92095|1240|1050"
+   "Yerevan City|id:92095|1240|1050",
+   "Yerevan City|id:8340|1260|630"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Հակաքրտինքային աէրոզոլային միջոց «Garnier Men Invisible Protection» 150մլ",
-    "old": 1780,
-    "new": 1230,
-    "pct": 31,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/antiperspirantt/808680/",
-    "key": "SAS|id:808680|1780|1230"
-   },
    {
     "store": "SAS",
     "title": "Սափրող սարք «Gillette Venus 3» 1հատ",
@@ -6715,12 +6705,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1129013.png",
     "url": "https://yerevan-city.am/shop/product-details/92095",
     "key": "Yerevan City|id:92095|1240|1050"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մարտկոց «Էներջայզեր» Լիթիում ՑՌ1616 3Վ 1հտ",
+    "old": 1260,
+    "new": 630,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1070789.png",
+    "url": "https://yerevan-city.am/shop/product-details/8340",
+    "key": "Yerevan City|id:8340|1260|630"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-08T00:02:11.816176+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-08T00:16:47.760530+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
