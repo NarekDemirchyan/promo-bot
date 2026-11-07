@@ -2300,17 +2300,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Պաչեր ակնեի դեմ «Garnier Pure Active Ultra» 22 հատ",
-    "old": 5190,
-    "new": 4650,
-    "pct": 10,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/vse_dlya_litsa/952961/",
-    "key": "SAS|id:952961|5190|4650"
-   },
-   {
-    "store": "SAS",
     "title": "Դեմքի կրեմ «Garnier Vitamin C Fresh & Bright» 85մլ",
     "old": 2650,
     "new": 2330,
@@ -6703,8 +6692,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-07T15:19:21.196119+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-07T15:44:58.352155+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
