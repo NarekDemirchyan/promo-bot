@@ -1151,7 +1151,8 @@
    "SAS|id:95747|880|730",
    "SAS|id:25342|2620|2080",
    "SAS|id:968156|1070|820",
-   "SAS|id:968151|1350|1050"
+   "SAS|id:968151|1350|1050",
+   "SAS|id:947175|920|790"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4520,6 +4521,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/265/281/2813502082597099.webp",
     "url": "https://www.sas.am/catalog/ris/968151/",
     "key": "SAS|id:968151|1350|1050"
+   },
+   {
+    "store": "SAS",
+    "title": "Միցելյար ջուր «Garnier Гипоаллергенный» 100մլ",
+    "old": 920,
+    "new": 790,
+    "pct": 14,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/vse_dlya_litsa/947175/",
+    "key": "SAS|id:947175|920|790"
    }
   ],
   "Yerevan City": [
