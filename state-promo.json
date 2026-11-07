@@ -2304,7 +2304,8 @@
    "Yerevan City|id:8014|1240|920",
    "Yerevan City|id:8024|1240|920",
    "Yerevan City|id:8676|1240|920",
-   "Yerevan City|id:179200|1240|920"
+   "Yerevan City|id:179200|1240|920",
+   "Yerevan City|id:170051|1240|1050"
   ]
  },
  "queues": {
@@ -6699,6 +6700,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172908.png",
     "url": "https://yerevan-city.am/shop/product-details/179200",
     "key": "Yerevan City|id:179200|1240|920"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գնդիկավոր հոտազերծիչ «Նիվեա» թարմ.զգացում 50մլ",
+    "old": 1240,
+    "new": 1050,
+    "pct": 15,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1163779.png",
+    "url": "https://yerevan-city.am/shop/product-details/170051",
+    "key": "Yerevan City|id:170051|1240|1050"
    }
   ]
  },
