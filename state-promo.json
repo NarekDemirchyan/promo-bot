@@ -2304,17 +2304,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Դեմքի կրեմ «Garnier Hyaluron Fresh & Plump» 85մլ",
-    "old": 2650,
-    "new": 2330,
-    "pct": 12,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/vse_dlya_litsa/952956/",
-    "key": "SAS|id:952956|2650|2330"
-   },
-   {
-    "store": "SAS",
     "title": "Դեմքի կրեմ «Garnier Salicylic Fresh & Pure» 85մլ",
     "old": 2650,
     "new": 2330,
@@ -6707,8 +6696,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-07T16:34:04.180909+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-07T17:02:14.853203+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
