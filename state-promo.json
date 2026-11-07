@@ -1141,7 +1141,8 @@
    "SAS|id:4405|980|630",
    "SAS|id:547527|960|790",
    "SAS|id:594488|1250|740",
-   "SAS|id:594487|1250|740"
+   "SAS|id:594487|1250|740",
+   "SAS|id:594493|1250|740"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4500,6 +4501,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/chipsy/594487/",
     "key": "SAS|id:594487|1250|740"
+   },
+   {
+    "store": "SAS",
+    "title": "Չիպս կծու «Jacker» 100գ",
+    "old": 1250,
+    "new": 740,
+    "pct": 41,
+    "until": "29.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/chipsy/594493/",
+    "key": "SAS|id:594493|1250|740"
    }
   ],
   "Yerevan City": [
