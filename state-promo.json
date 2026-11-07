@@ -1146,7 +1146,8 @@
    "SAS|id:193034|720|590",
    "SAS|id:95743|880|730",
    "SAS|id:154690|350|300",
-   "SAS|id:38876|720|680"
+   "SAS|id:38876|720|680",
+   "SAS|id:198002|1590|1120"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4510,20 +4511,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/sredstva_dlya_posudy/38876/",
     "key": "SAS|id:38876|720|680"
+   },
+   {
+    "store": "SAS",
+    "title": "Թեյ սև «Ahmad Peach & Passion Fruit» 25*2գ",
+    "old": 1590,
+    "new": 1120,
+    "pct": 30,
+    "until": "20.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/257/891/891914764817335.webp",
+    "url": "https://www.sas.am/catalog/v_paketakh/198002/",
+    "key": "SAS|id:198002|1590|1120"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Բրինձ ժասմին «Սաննի» 800գր",
-    "old": 1350,
-    "new": 950,
-    "pct": 30,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1171367.png",
-    "url": "https://yerevan-city.am/shop/product-details/177696",
-    "key": "Yerevan City|id:177696|1350|950"
-   },
    {
     "store": "Yerevan City",
     "title": "Նկարչական տախտակ «Գորտ» 8995-13Բ",
@@ -6716,8 +6717,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-07T23:02:09.696920+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-07T23:16:50.778947+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
