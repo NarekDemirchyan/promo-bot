@@ -2263,17 +2263,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Թխվածքաբլիթ առանց գլյուտենի «Gullon Maria» 380գ",
-    "old": 1650,
-    "new": 1380,
-    "pct": 16,
-    "until": "13.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/pechene_pryaniki/133603/",
-    "key": "SAS|id:133603|1650|1380"
-   },
-   {
-    "store": "SAS",
     "title": "Թխվածքաբլիթ շոկոլադե միջուկով «Gullon Duo Chocolate» 250գ",
     "old": 920,
     "new": 810,
@@ -6655,8 +6644,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-07T04:16:52.639131+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-07T04:33:31.984239+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
@@ -6665,7 +6654,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 45,
+ "city_page": 46,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
