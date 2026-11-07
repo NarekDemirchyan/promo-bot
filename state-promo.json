@@ -1120,7 +1120,8 @@
    "SAS|id:83003|4690|3250",
    "SAS|id:954756|1390|1050",
    "SAS|id:949217|1990|990",
-   "SAS|id:938671|1450|1220"
+   "SAS|id:938671|1450|1220",
+   "SAS|id:938656|1990|1680"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4458,20 +4459,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/antiperspirantt/938671/",
     "key": "SAS|id:938671|1450|1220"
+   },
+   {
+    "store": "SAS",
+    "title": "Լոգանքի գել «Nivea Men Fresh Energy 5 in 1» 250մլ",
+    "old": 1990,
+    "new": 1680,
+    "pct": 16,
+    "until": "27.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/395/251/2510681450855209.webp",
+    "url": "https://www.sas.am/catalog/showergell/938656/",
+    "key": "SAS|id:938656|1990|1680"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Բրինձ բասմատի «Զիբա» շոգեխաշած 1կգ",
-    "old": 990,
-    "new": 790,
-    "pct": 20,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1167934.png",
-    "url": "https://yerevan-city.am/shop/product-details/174339",
-    "key": "Yerevan City|id:174339|990|790"
-   },
    {
     "store": "Yerevan City",
     "title": "Խտացրած կաթ «Ալեքսեևսկոյե» 8.5% թ/տ 360գր",
@@ -6664,8 +6665,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-07T07:16:43.615006+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-07T07:31:58.535278+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
