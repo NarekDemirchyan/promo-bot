@@ -1149,7 +1149,8 @@
    "SAS|id:38876|720|680",
    "SAS|id:198002|1590|1120",
    "SAS|id:95747|880|730",
-   "SAS|id:25342|2620|2080"
+   "SAS|id:25342|2620|2080",
+   "SAS|id:968156|1070|820"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4516,6 +4517,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/tualetnaya_bumaga/25342/",
     "key": "SAS|id:25342|2620|2080"
+   },
+   {
+    "store": "SAS",
+    "title": "Բրինձ երկարահատիկ «Alishaan Daily Basmati» 1կգ",
+    "old": 1070,
+    "new": 820,
+    "pct": 23,
+    "until": "25.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/271/877/8778844286918030.webp",
+    "url": "https://www.sas.am/catalog/ris/968156/",
+    "key": "SAS|id:968156|1070|820"
    }
   ],
   "Yerevan City": [
