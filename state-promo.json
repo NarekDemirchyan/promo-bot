@@ -2286,22 +2286,12 @@
    "Yerevan City|id:179204|1240|920",
    "Yerevan City|id:179203|1240|920",
    "Yerevan City|id:1778|1240|920",
-   "Yerevan City|id:5069|1240|920"
+   "Yerevan City|id:5069|1240|920",
+   "Yerevan City|id:5342|1240|920"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Դեմքի դիմակ «Garnier Skin Naturals»",
-    "old": 790,
-    "new": 640,
-    "pct": 19,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/vse_dlya_litsa/3305/",
-    "key": "SAS|id:3305|790|640"
-   },
    {
     "store": "SAS",
     "title": "Հակաքրտինքային աէրոզոլային միջոց «Garnier Invisible Protection» 150մլ",
@@ -6681,12 +6671,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1022949.png",
     "url": "https://yerevan-city.am/shop/product-details/5069",
     "key": "Yerevan City|id:5069|1240|920"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մազի ներկ «Վելլատոն» կարմիր հավաք. 66/46 կար.բա",
+    "old": 1240,
+    "new": 920,
+    "pct": 26,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1033967.png",
+    "url": "https://yerevan-city.am/shop/product-details/5342",
+    "key": "Yerevan City|id:5342|1240|920"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-07T13:31:57.436756+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-07T13:46:49.095564+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
