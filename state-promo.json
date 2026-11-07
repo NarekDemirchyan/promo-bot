@@ -2312,17 +2312,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Արևապաշտպան սփրեյ դեմքի «Garnier Skin Naturals 50 SPF» 75մլ",
-    "old": 4950,
-    "new": 4290,
-    "pct": 13,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/vse_dlya_litsa/935355/",
-    "key": "SAS|id:935355|4950|4290"
-   },
-   {
-    "store": "SAS",
     "title": "Յուղը մաքրող միջոց «Cif Cleanboost Power & Shine» 750մլ",
     "old": 3440,
     "new": 3050,
@@ -6715,8 +6704,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-07T19:04:59.720999+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-07T19:31:57.785178+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
