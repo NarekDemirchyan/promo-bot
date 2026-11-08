@@ -1168,7 +1168,8 @@
    "SAS|id:858517|890|760",
    "SAS|id:858489|390|350",
    "SAS|id:858487|580|520",
-   "SAS|id:198015|870|570"
+   "SAS|id:198015|870|570",
+   "SAS|id:197912|1420|960"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4554,6 +4555,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/v_paketakh/198015/",
     "key": "SAS|id:198015|870|570"
+   },
+   {
+    "store": "SAS",
+    "title": "Թեյ սև «Ahmad Tea Assam» 100գ",
+    "old": 1420,
+    "new": 960,
+    "pct": 32,
+    "until": "20.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/listovoy/197912/",
+    "key": "SAS|id:197912|1420|960"
    }
   ],
   "Yerevan City": [
