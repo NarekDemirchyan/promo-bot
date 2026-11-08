@@ -1156,7 +1156,8 @@
    "SAS|id:442343|2230|1950",
    "SAS|id:923009|6250|4680",
    "SAS|id:889378|1990|990",
-   "SAS|id:881063|3450|2490"
+   "SAS|id:881063|3450|2490",
+   "SAS|id:874218|1520|1290"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4530,20 +4531,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/opalaskivatel_rta/881063/",
     "key": "SAS|id:881063|3450|2490"
+   },
+   {
+    "store": "SAS",
+    "title": "Ըմպելիք խնձորի և կիվիի «Zuegg Intenso Kiwi Mela» 1000մլ",
+    "old": 1520,
+    "new": 1290,
+    "pct": 15,
+    "until": "25.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/265/123/123697127436801.webp",
+    "url": "https://www.sas.am/catalog/sok/874218/",
+    "key": "SAS|id:874218|1520|1290"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Միջադիրներ «Լիբրես» ուլտրա, սուպեր 16հտ",
-    "old": 1350,
-    "new": 1070,
-    "pct": 21,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1012158.png",
-    "url": "https://yerevan-city.am/shop/product-details/644",
-    "key": "Yerevan City|id:644|1350|1070"
-   },
    {
     "store": "Yerevan City",
     "title": "Հյութ պար.ըմպելիք «Զուեգգ» հատապտուղներ ա/շ 1լ",
@@ -6736,8 +6737,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-08T05:17:02.577779+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-08T05:32:14.997340+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
