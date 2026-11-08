@@ -1162,7 +1162,8 @@
    "SAS|id:874211|1520|1290",
    "SAS|id:873106|1680|1420",
    "SAS|id:873097|1450|1220",
-   "SAS|id:867515|11100|10300"
+   "SAS|id:867515|11100|10300",
+   "SAS|id:858538|610|540"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4542,20 +4543,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/276/752/7528133658660072.webp",
     "url": "https://www.sas.am/catalog/podguzniki/867515/",
     "key": "SAS|id:867515|11100|10300"
+   },
+   {
+    "store": "SAS",
+    "title": "Աղբի տոպրակներ «Фрекен Бок» 35լ",
+    "old": 610,
+    "new": 540,
+    "pct": 11,
+    "until": "27.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/383/665/6658883603256009.webp",
+    "url": "https://www.sas.am/catalog/pakety_dlya_musora/858538/",
+    "key": "SAS|id:858538|610|540"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Ատամի մածուկ «Սպլատ» Սպիտակեցում պլյուս 100մլ",
-    "old": 1340,
-    "new": 980,
-    "pct": 27,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1023820.png",
-    "url": "https://yerevan-city.am/shop/product-details/24870",
-    "key": "Yerevan City|id:24870|1340|980"
-   },
    {
     "store": "Yerevan City",
     "title": "Ատամի մածուկ «Սպլատ» Բիոկալցիում 100մլ",
@@ -6748,8 +6749,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-08T08:32:25.495554+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-08T08:46:46.125273+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
