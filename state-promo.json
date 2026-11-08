@@ -2366,22 +2366,12 @@
    "Yerevan City|id:13303|1230|690",
    "Yerevan City|id:18047|1230|690",
    "Yerevan City|id:117240|1220|990",
-   "Yerevan City|id:106347|1220|1140"
+   "Yerevan City|id:106347|1220|1140",
+   "Yerevan City|id:106335|1220|1140"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Դեմքի դիմակ «Garnier Skin Naturals» 22գ",
-    "old": 790,
-    "new": 640,
-    "pct": 19,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/492/120/1205121387055594.webp",
-    "url": "https://www.sas.am/catalog/vse_dlya_litsa/526691/",
-    "key": "SAS|id:526691|790|640"
-   },
    {
     "store": "SAS",
     "title": "Օճառ «Teo Gentle Care» 90գ",
@@ -6761,12 +6751,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1139497.png",
     "url": "https://yerevan-city.am/shop/product-details/106347",
     "key": "Yerevan City|id:106347|1220|1140"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շամպուն տղ. «Փալմոլիվ» թեփի դեմ, եղեսպակ 450մլ",
+    "old": 1220,
+    "new": 1140,
+    "pct": 7,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1139483.png",
+    "url": "https://yerevan-city.am/shop/product-details/106335",
+    "key": "Yerevan City|id:106335|1220|1140"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-08T14:02:12.403073+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-08T14:16:54.018801+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
