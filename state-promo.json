@@ -2348,22 +2348,12 @@
    "Yerevan City|id:66794|1240|1050",
    "Yerevan City|id:18043|1240|1050",
    "Yerevan City|id:18182|1230|1150",
-   "Yerevan City|id:159399|1230|1060"
+   "Yerevan City|id:159399|1230|1060",
+   "Yerevan City|id:159401|1230|1060"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Խտացրած կաթ յուղազերծված «Ичня» 370գ",
-    "old": 820,
-    "new": 690,
-    "pct": 16,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/261/534/534078453590731.webp",
-    "url": "https://www.sas.am/catalog/sgushchennoe_moloko/638339/",
-    "key": "SAS|id:638339|820|690"
-   },
    {
     "store": "SAS",
     "title": "Սպասք լվանալու հեղուկ «AOS Алоэ Вера» 900գ",
@@ -6743,12 +6733,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1157059.png",
     "url": "https://yerevan-city.am/shop/product-details/159399",
     "key": "Yerevan City|id:159399|1230|1060"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սպիտակեղենի ողողիչ «Սավեքս» Սոֆթ, Ռոմանտիկ 800մլ",
+    "old": 1230,
+    "new": 1060,
+    "pct": 14,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1157061.png",
+    "url": "https://yerevan-city.am/shop/product-details/159401",
+    "key": "Yerevan City|id:159401|1230|1060"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-08T08:18:03.254738+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-08T08:32:25.495554+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
