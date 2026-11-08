@@ -1176,7 +1176,8 @@
    "SAS|id:547805|1250|1150",
    "SAS|id:48438|5410|4750",
    "SAS|id:173917|1080|920",
-   "SAS|id:124569|1120|940"
+   "SAS|id:124569|1120|940",
+   "SAS|id:4371|2170|1560"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4570,6 +4571,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/drugie_ovoschnye_konservy/124569/",
     "key": "SAS|id:124569|1120|940"
+   },
+   {
+    "store": "SAS",
+    "title": "Սոուս ռեհանով «Barilla Basilico» 400մլ",
+    "old": 2170,
+    "new": 1560,
+    "pct": 28,
+    "until": "25.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/217/847/8471064028682393.webp",
+    "url": "https://www.sas.am/catalog/sous/4371/",
+    "key": "SAS|id:4371|2170|1560"
    }
   ],
   "Yerevan City": [
