@@ -2376,7 +2376,8 @@
    "Yerevan City|id:106337|1220|1140",
    "Yerevan City|id:106341|1220|1140",
    "Yerevan City|id:106345|1220|1140",
-   "Yerevan City|id:106346|1220|1140"
+   "Yerevan City|id:106346|1220|1140",
+   "Yerevan City|id:6974|1210|810"
   ]
  },
  "queues": {
@@ -6771,6 +6772,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1139496.png",
     "url": "https://yerevan-city.am/shop/product-details/106346",
     "key": "Yerevan City|id:106346|1220|1140"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թղթե սրբիչ «Սելպակ» 2հտ",
+    "old": 1210,
+    "new": 810,
+    "pct": 33,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1000494.png",
+    "url": "https://yerevan-city.am/shop/product-details/6974",
+    "key": "Yerevan City|id:6974|1210|810"
    }
   ]
  },
