@@ -2396,7 +2396,8 @@
    "Yerevan City|id:158826|1190|890",
    "Yerevan City|id:158828|1190|890",
    "Yerevan City|id:178135|1190|220",
-   "Yerevan City|id:178136|1190|220"
+   "Yerevan City|id:178136|1190|220",
+   "Yerevan City|id:178137|1190|220"
   ]
  },
  "queues": {
@@ -6791,6 +6792,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1171819.png",
     "url": "https://yerevan-city.am/shop/product-details/178136",
     "key": "Yerevan City|id:178136|1190|220"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Չորահաց «Լեյս» բանջարեղեն և կանաչ սոխ 80գր",
+    "old": 1190,
+    "new": 220,
+    "pct": 82,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1171820.png",
+    "url": "https://yerevan-city.am/shop/product-details/178137",
+    "key": "Yerevan City|id:178137|1190|220"
    }
   ]
  },
