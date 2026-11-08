@@ -1155,7 +1155,8 @@
    "SAS|id:947175|920|790",
    "SAS|id:442343|2230|1950",
    "SAS|id:923009|6250|4680",
-   "SAS|id:889378|1990|990"
+   "SAS|id:889378|1990|990",
+   "SAS|id:881063|3450|2490"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4528,6 +4529,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/123/566/5667813645114187.webp",
     "url": "https://www.sas.am/catalog/yogurt_puding/889378/",
     "key": "SAS|id:889378|1990|990"
+   },
+   {
+    "store": "SAS",
+    "title": "Բերանի խոռոչի ողողման հեղուկ \"Lacalut White\" 300մլ",
+    "old": 3450,
+    "new": 2490,
+    "pct": 28,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/opalaskivatel_rta/881063/",
+    "key": "SAS|id:881063|3450|2490"
    }
   ],
   "Yerevan City": [
