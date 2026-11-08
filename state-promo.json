@@ -2358,22 +2358,12 @@
    "Yerevan City|id:159403|1230|1060",
    "Yerevan City|id:2622|1230|690",
    "Yerevan City|id:6672|1230|690",
-   "Yerevan City|id:8141|1230|810"
+   "Yerevan City|id:8141|1230|810",
+   "Yerevan City|id:13303|1230|690"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սպասք լվանալու հեղուկ «Exo Hydrobalsam» 400մլ",
-    "old": 790,
-    "new": 690,
-    "pct": 13,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/sredstva_dlya_posudy/589119/",
-    "key": "SAS|id:589119|790|690"
-   },
    {
     "store": "SAS",
     "title": "Սպասք լվանալու հեղուկ «Exo Expert» 400մլ",
@@ -6753,12 +6743,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1064931.png",
     "url": "https://yerevan-city.am/shop/product-details/8141",
     "key": "Yerevan City|id:8141|1230|810"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թեյ սև «Ահմադ» Էրլ Գրեյ 100գր",
+    "old": 1230,
+    "new": 690,
+    "pct": 44,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1051012.png",
+    "url": "https://yerevan-city.am/shop/product-details/13303",
+    "key": "Yerevan City|id:13303|1230|690"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-08T11:17:29.443074+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-08T11:31:55.805927+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
