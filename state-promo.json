@@ -2412,7 +2412,8 @@
    "Yerevan City|id:194743|1190|990",
    "Yerevan City|id:193202|1190|890",
    "Yerevan City|id:11790|1190|940",
-   "Yerevan City|id:173156|1190|590"
+   "Yerevan City|id:173156|1190|590",
+   "Yerevan City|id:166107|1190|690"
   ]
  },
  "queues": {
@@ -6807,6 +6808,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1166748.png",
     "url": "https://yerevan-city.am/shop/product-details/173156",
     "key": "Yerevan City|id:173156|1190|590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Չիպս «Դորիտոս» պապրիկա 110գր",
+    "old": 1190,
+    "new": 690,
+    "pct": 42,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1161799.png",
+    "url": "https://yerevan-city.am/shop/product-details/166107",
+    "key": "Yerevan City|id:166107|1190|690"
    }
   ]
  },
