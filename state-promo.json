@@ -2370,22 +2370,12 @@
    "Yerevan City|id:117240|1220|990",
    "Yerevan City|id:106347|1220|1140",
    "Yerevan City|id:106335|1220|1140",
-   "Yerevan City|id:106337|1220|1140"
+   "Yerevan City|id:106337|1220|1140",
+   "Yerevan City|id:106341|1220|1140"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շամպուն-լոգանքի գել «Schauma» 400մլ",
-    "old": 1490,
-    "new": 1120,
-    "pct": 25,
-    "until": "13.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/showergell/486085/",
-    "key": "SAS|id:486085|1490|1120"
-   },
    {
     "store": "SAS",
     "title": "Շամպուն «Schauma Men» 400մլ",
@@ -6765,12 +6755,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1139486.png",
     "url": "https://yerevan-city.am/shop/product-details/106337",
     "key": "Yerevan City|id:106337|1220|1140"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շամպուն «Փալմոլիվ» մետաքսյա փափկություն նուշ450մ",
+    "old": 1220,
+    "new": 1140,
+    "pct": 7,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1139490.png",
+    "url": "https://yerevan-city.am/shop/product-details/106341",
+    "key": "Yerevan City|id:106341|1220|1140"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-08T15:31:55.855509+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-08T15:48:02.518819+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
