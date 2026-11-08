@@ -1184,7 +1184,8 @@
    "SAS|id:255852|3690|2690",
    "SAS|id:98056|1990|1890",
    "SAS|id:170680|2670|2330",
-   "SAS|id:193114|1040|840"
+   "SAS|id:193114|1040|840",
+   "SAS|id:130178|1670|1190"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4586,6 +4587,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/goroshek/193114/",
     "key": "SAS|id:193114|1040|840"
+   },
+   {
+    "store": "SAS",
+    "title": "Ատամի մածուկ «Lacalut Aktiv» 50մլ",
+    "old": 1670,
+    "new": 1190,
+    "pct": 29,
+    "until": "27.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/337/042/0429853179887885.webp",
+    "url": "https://www.sas.am/catalog/dlya_polosti_rta/130178/",
+    "key": "SAS|id:130178|1670|1190"
    }
   ],
   "Yerevan City": [
