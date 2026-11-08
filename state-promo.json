@@ -1191,7 +1191,8 @@
    "SAS|id:804434|13420|9990",
    "SAS|id:677586|5750|4870",
    "SAS|id:858405|890|790",
-   "SAS|id:846778|1860|1630"
+   "SAS|id:846778|1860|1630",
+   "SAS|id:804473|3760|3130"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4600,20 +4601,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/230/189/1897781530758964.webp",
     "url": "https://www.sas.am/catalog/dlya_polosti_rta/846778/",
     "key": "SAS|id:846778|1860|1630"
+   },
+   {
+    "store": "SAS",
+    "title": "Սպասք լվացող մեքենայի պատիճներ «Finish Powerball Power» 25 հատ",
+    "old": 3760,
+    "new": 3130,
+    "pct": 17,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/dishwasherdetergent/804473/",
+    "key": "SAS|id:804473|3760|3130"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Պարույր սպասքի համար «Վիլեդա» 2հտ",
-    "old": 1290,
-    "new": 980,
-    "pct": 24,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1032997.PNG",
-    "url": "https://yerevan-city.am/shop/product-details/24457",
-    "key": "Yerevan City|id:24457|1290|980"
-   },
    {
     "store": "Yerevan City",
     "title": "Լուսանկարի շրջանակ մանկական",
@@ -6806,8 +6807,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-09T01:47:25.285832+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-09T02:02:10.335716+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
