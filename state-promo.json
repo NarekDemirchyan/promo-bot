@@ -2400,22 +2400,12 @@
    "Yerevan City|id:178135|1190|220",
    "Yerevan City|id:178136|1190|220",
    "Yerevan City|id:178137|1190|220",
-   "Yerevan City|id:180965|1190|595"
+   "Yerevan City|id:180965|1190|595",
+   "Yerevan City|id:12191|1190|1050"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Զուգարանակոնքի մաքրող միջոց «Chirton Альпийское Ультро» 2×50գ",
-    "old": 790,
-    "new": 630,
-    "pct": 20,
-    "until": "13.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/forhebathroom/202482/",
-    "key": "SAS|id:202482|790|630"
-   },
    {
     "store": "SAS",
     "title": "Զուգարանակոնքի մաքրող միջոց «Chirton Морской Прибой» 2×50գ",
@@ -6795,12 +6785,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174696.png",
     "url": "https://yerevan-city.am/shop/product-details/180965",
     "key": "Yerevan City|id:180965|1190|595"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գարեջուր «Բալտիկա» 9 թ/տ 0.9լ",
+    "old": 1190,
+    "new": 1050,
+    "pct": 12,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1068596.png",
+    "url": "https://yerevan-city.am/shop/product-details/12191",
+    "key": "Yerevan City|id:12191|1190|1050"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-09T00:18:16.358966+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-09T00:32:45.765726+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
