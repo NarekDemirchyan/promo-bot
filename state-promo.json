@@ -2378,22 +2378,12 @@
    "Yerevan City|id:106341|1220|1140",
    "Yerevan City|id:106345|1220|1140",
    "Yerevan City|id:106346|1220|1140",
-   "Yerevan City|id:6974|1210|810"
+   "Yerevan City|id:6974|1210|810",
+   "Yerevan City|id:158822|1190|890"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Լվացքի պարկուճներ ունիվերսալ «Savex Premium Crystal Fresh» 18 հատ",
-    "old": 3640,
-    "new": 3090,
-    "pct": 15,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/stiralnyy_poroshok/352630/",
-    "key": "SAS|id:352630|3640|3090"
-   },
    {
     "store": "SAS",
     "title": "Սափրող սարք «Gillette Blue 3 Cool» 3 հատ",
@@ -6773,12 +6763,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1000494.png",
     "url": "https://yerevan-city.am/shop/product-details/6974",
     "key": "Yerevan City|id:6974|1210|810"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Եգիպտացորենի ձողիկներ «Չիտոս» պանիր 130գր",
+    "old": 1190,
+    "new": 890,
+    "pct": 25,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156465.png",
+    "url": "https://yerevan-city.am/shop/product-details/158822",
+    "key": "Yerevan City|id:158822|1190|890"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-08T17:46:50.678240+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-08T18:03:00.818163+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
