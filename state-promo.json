@@ -1154,7 +1154,8 @@
    "SAS|id:968151|1350|1050",
    "SAS|id:947175|920|790",
    "SAS|id:442343|2230|1950",
-   "SAS|id:923009|6250|4680"
+   "SAS|id:923009|6250|4680",
+   "SAS|id:889378|1990|990"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4526,6 +4527,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/stanok_dlya_britya/923009/",
     "key": "SAS|id:923009|6250|4680"
+   },
+   {
+    "store": "SAS",
+    "title": "Աղանդեր սպիտակուցային թխվածքաբլիթով «YoPro Triple Zero Cookies» 130գ",
+    "old": 1990,
+    "new": 990,
+    "pct": 50,
+    "until": "16.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/123/566/5667813645114187.webp",
+    "url": "https://www.sas.am/catalog/yogurt_puding/889378/",
+    "key": "SAS|id:889378|1990|990"
    }
   ],
   "Yerevan City": [
