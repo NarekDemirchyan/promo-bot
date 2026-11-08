@@ -1189,7 +1189,8 @@
    "SAS|id:95749|1670|1390",
    "SAS|id:4375|2690|2190",
    "SAS|id:804434|13420|9990",
-   "SAS|id:677586|5750|4870"
+   "SAS|id:677586|5750|4870",
+   "SAS|id:858405|890|790"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2402,7 +2403,8 @@
    "Yerevan City|id:178136|1190|220",
    "Yerevan City|id:178137|1190|220",
    "Yerevan City|id:180965|1190|595",
-   "Yerevan City|id:12191|1190|1050"
+   "Yerevan City|id:12191|1190|1050",
+   "Yerevan City|id:170886|1190|690"
   ]
  },
  "queues": {
@@ -4595,20 +4597,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/500/620/6204542939586302.webp",
     "url": "https://www.sas.am/catalog/nabory_konfet/677586/",
     "key": "SAS|id:677586|5750|4870"
+   },
+   {
+    "store": "SAS",
+    "title": "Ամենօրյա միջադիրներ «Libresse Classic Regular» 50 հատ",
+    "old": 890,
+    "new": 790,
+    "pct": 11,
+    "until": "27.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/411/369/3696012099534622.webp",
+    "url": "https://www.sas.am/catalog/dlya_intimnoy_gigieny2/858405/",
+    "key": "SAS|id:858405|890|790"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Հյութ պարունակող ըմպելիք «Սանտալ» նուռ 1լ",
-    "old": 1290,
-    "new": 990,
-    "pct": 23,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1046121.png",
-    "url": "https://yerevan-city.am/shop/product-details/407",
-    "key": "Yerevan City|id:407|1290|990"
-   },
    {
     "store": "Yerevan City",
     "title": "Մարինացված վարունգ «Իջևան» 700գր",
@@ -6786,12 +6788,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1068596.png",
     "url": "https://yerevan-city.am/shop/product-details/12191",
     "key": "Yerevan City|id:12191|1190|1050"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Օղու բաժակ «ՕՍԶ» Միստերիա գրաֆիտ 6հտ",
+    "old": 1190,
+    "new": 690,
+    "pct": 42,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1164552.png",
+    "url": "https://yerevan-city.am/shop/product-details/170886",
+    "key": "Yerevan City|id:170886|1190|690"
    }
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-09T00:47:00.703997+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-09T01:02:09.398432+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
