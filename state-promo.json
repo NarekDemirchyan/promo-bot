@@ -2388,7 +2388,8 @@
    "Yerevan City|id:195547|1190|990",
    "Yerevan City|id:158823|1190|890",
    "Yerevan City|id:7120|1190|1060",
-   "Yerevan City|id:158825|1190|890"
+   "Yerevan City|id:158825|1190|890",
+   "Yerevan City|id:158826|1190|890"
   ]
  },
  "queues": {
@@ -6783,6 +6784,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156468.png",
     "url": "https://yerevan-city.am/shop/product-details/158825",
     "key": "Yerevan City|id:158825|1190|890"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Եգիպտացորենի եռանկյունններ «Չիտոս» պիցցա 160գր",
+    "old": 1190,
+    "new": 890,
+    "pct": 25,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156469.png",
+    "url": "https://yerevan-city.am/shop/product-details/158826",
+    "key": "Yerevan City|id:158826|1190|890"
    }
   ]
  },
