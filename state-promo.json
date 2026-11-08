@@ -1164,7 +1164,8 @@
    "SAS|id:873097|1450|1220",
    "SAS|id:867515|11100|10300",
    "SAS|id:858538|610|540",
-   "SAS|id:858537|520|460"
+   "SAS|id:858537|520|460",
+   "SAS|id:858517|890|760"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4546,6 +4547,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/pakety_dlya_musora/858537/",
     "key": "SAS|id:858537|520|460"
+   },
+   {
+    "store": "SAS",
+    "title": "Կտոր ունիվերսալ «Фрекен Бок» 6 հատ",
+    "old": 890,
+    "new": 760,
+    "pct": 15,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/rezinovye_izdeliya/858517/",
+    "key": "SAS|id:858517|890|760"
    }
   ],
   "Yerevan City": [
