@@ -1187,7 +1187,8 @@
    "SAS|id:193114|1040|840",
    "SAS|id:130178|1670|1190",
    "SAS|id:95749|1670|1390",
-   "SAS|id:4375|2690|2190"
+   "SAS|id:4375|2690|2190",
+   "SAS|id:804434|13420|9990"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4592,20 +4593,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/sous/4375/",
     "key": "SAS|id:4375|2690|2190"
+   },
+   {
+    "store": "SAS",
+    "title": "Սպասք լվացող մեքենայի պատիճներ «Finish Powerball Power» 100 հատ",
+    "old": 13420,
+    "new": 9990,
+    "pct": 26,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/dishwasherdetergent/804434/",
+    "key": "SAS|id:804434|13420|9990"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Խաղողի տերև «Ռոյալ» 570գր",
-    "old": 1300,
-    "new": 1230,
-    "pct": 5,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1069571.png",
-    "url": "https://yerevan-city.am/shop/product-details/14660",
-    "key": "Yerevan City|id:14660|1300|1230"
-   },
    {
     "store": "Yerevan City",
     "title": "Հալած բուսայուղային խառ. «Իմպերիա Վկուսա» 650գր",
@@ -6798,8 +6799,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-09T00:02:03.150218+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-09T00:18:16.358966+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
