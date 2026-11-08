@@ -2420,17 +2420,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Ներդիրներ «o.b. Super 5 in 1» 16 հատ",
-    "old": 2470,
-    "new": 2190,
-    "pct": 11,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/dlya_intimnoy_gigieny2/183583/",
-    "key": "SAS|id:183583|2470|2190"
-   },
-   {
-    "store": "SAS",
     "title": "Ներդիրներ «o.b. Mini» 16հատ",
     "old": 2290,
     "new": 1790,
@@ -6823,8 +6812,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-09T03:03:00.520356+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-09T03:31:56.123568+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
