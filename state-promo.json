@@ -2406,22 +2406,12 @@
    "Yerevan City|id:180965|1190|595",
    "Yerevan City|id:12191|1190|1050",
    "Yerevan City|id:170886|1190|690",
-   "Yerevan City|id:194743|1190|990"
+   "Yerevan City|id:194743|1190|990",
+   "Yerevan City|id:193202|1190|890"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ներդիրներ «o.b. Pro Comfort 4 in 1 Super Plus» 16 հատ",
-    "old": 2290,
-    "new": 1790,
-    "pct": 22,
-    "until": "13.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/dlya_intimnoy_gigieny2/183587/",
-    "key": "SAS|id:183587|2290|1790"
-   },
    {
     "store": "SAS",
     "title": "Ներդիրներ «o.b. Pro Comfort Silk Touch Super» 8հատ",
@@ -6801,12 +6791,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178542.png",
     "url": "https://yerevan-city.am/shop/product-details/194743",
     "key": "Yerevan City|id:194743|1190|990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Դինամիկ ավազ 250գր ԴՍ-228",
+    "old": 1190,
+    "new": 890,
+    "pct": 25,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176954.png",
+    "url": "https://yerevan-city.am/shop/product-details/193202",
+    "key": "Yerevan City|id:193202|1190|890"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-09T01:33:22.316989+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-09T01:47:25.285832+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
