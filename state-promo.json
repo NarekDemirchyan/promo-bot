@@ -2390,22 +2390,12 @@
    "Yerevan City|id:158823|1190|890",
    "Yerevan City|id:7120|1190|1060",
    "Yerevan City|id:158825|1190|890",
-   "Yerevan City|id:158826|1190|890"
+   "Yerevan City|id:158826|1190|890",
+   "Yerevan City|id:158828|1190|890"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շոկոլադե կոնֆետներ «Lindt» 125գ",
-    "old": 5750,
-    "new": 4080,
-    "pct": 29,
-    "until": "13.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/plitka/206195/",
-    "key": "SAS|id:206195|5750|4080"
-   },
    {
     "store": "SAS",
     "title": "Շամպուն «OGX» 385մլ",
@@ -6785,12 +6775,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156469.png",
     "url": "https://yerevan-city.am/shop/product-details/158826",
     "key": "Yerevan City|id:158826|1190|890"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Եգիպտացորենի ձող. «Չիտոս» Քրանչ.քաղցր չիլի 165գր",
+    "old": 1190,
+    "new": 890,
+    "pct": 25,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156471.png",
+    "url": "https://yerevan-city.am/shop/product-details/158828",
+    "key": "Yerevan City|id:158828|1190|890"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-08T21:16:54.538534+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-08T21:32:08.451504+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
