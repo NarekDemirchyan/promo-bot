@@ -2352,17 +2352,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Օպյատա մարինացված «Lorado» 280գ",
-    "old": 1080,
-    "new": 930,
-    "pct": 14,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/291/729/7294624216664669.webp",
-    "url": "https://www.sas.am/catalog/gribnye_konservy/638344/",
-    "key": "SAS|id:638344|1080|930"
-   },
-   {
-    "store": "SAS",
     "title": "Սնկերի խառնուրդ մարինացված «Lorado» 280գ",
     "old": 890,
     "new": 790,
@@ -6755,8 +6744,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-08T07:03:40.097216+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-08T07:31:52.236654+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
