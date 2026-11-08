@@ -4571,17 +4571,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Լոգանքի գել «Նիվեա» կոկոսի կրեմ 250մլ",
-    "old": 1330,
-    "new": 890,
-    "pct": 33,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1069012.png",
-    "url": "https://yerevan-city.am/shop/product-details/23626",
-    "key": "Yerevan City|id:23626|1330|890"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Լոգանքի գել «Նիվեա» խոնավեցում և խնամք նուշ 250մլ",
     "old": 1330,
     "new": 890,
@@ -6772,8 +6761,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-08T12:03:40.006592+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-08T12:32:51.305075+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
