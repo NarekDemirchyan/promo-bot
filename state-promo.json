@@ -1166,7 +1166,8 @@
    "SAS|id:858538|610|540",
    "SAS|id:858537|520|460",
    "SAS|id:858517|890|760",
-   "SAS|id:858489|390|350"
+   "SAS|id:858489|390|350",
+   "SAS|id:858487|580|520"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4550,6 +4551,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/168/230/2301941408072882.webp",
     "url": "https://www.sas.am/catalog/sredstva_dlya_posudy/858489/",
     "key": "SAS|id:858489|390|350"
+   },
+   {
+    "store": "SAS",
+    "title": "Հագուստը մաքրող գլանակ «Фрекен Бок»",
+    "old": 580,
+    "new": 520,
+    "pct": 10,
+    "until": "27.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/346/574/5746271854756098.webp",
+    "url": "https://www.sas.am/catalog/dlya_odezhdy_obuvi/858487/",
+    "key": "SAS|id:858487|580|520"
    }
   ],
   "Yerevan City": [
