@@ -2404,22 +2404,12 @@
    "Yerevan City|id:178137|1190|220",
    "Yerevan City|id:180965|1190|595",
    "Yerevan City|id:12191|1190|1050",
-   "Yerevan City|id:170886|1190|690"
+   "Yerevan City|id:170886|1190|690",
+   "Yerevan City|id:194743|1190|990"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Միցելյար ջուր «Garnier Skin Naturals» 400մլ",
-    "old": 2680,
-    "new": 2280,
-    "pct": 15,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/vse_dlya_litsa/189073/",
-    "key": "SAS|id:189073|2680|2280"
-   },
    {
     "store": "SAS",
     "title": "Ներդիրներ «o.b. Pro Comfort 4 in 1 Super Plus» 16 հատ",
@@ -6799,12 +6789,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1164552.png",
     "url": "https://yerevan-city.am/shop/product-details/170886",
     "key": "Yerevan City|id:170886|1190|690"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գազավորված ըմպելիք «Կոկա Կոլա» ելակ 0.5լ",
+    "old": 1190,
+    "new": 990,
+    "pct": 17,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178542.png",
+    "url": "https://yerevan-city.am/shop/product-details/194743",
+    "key": "Yerevan City|id:194743|1190|990"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-09T01:02:09.398432+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-09T01:16:47.708357+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
