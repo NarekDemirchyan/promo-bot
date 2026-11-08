@@ -2384,7 +2384,8 @@
    "Yerevan City|id:6974|1210|810",
    "Yerevan City|id:158822|1190|890",
    "Yerevan City|id:195547|1190|990",
-   "Yerevan City|id:158823|1190|890"
+   "Yerevan City|id:158823|1190|890",
+   "Yerevan City|id:7120|1190|1060"
   ]
  },
  "queues": {
@@ -6779,6 +6780,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156466.png",
     "url": "https://yerevan-city.am/shop/product-details/158823",
     "key": "Yerevan City|id:158823|1190|890"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ամենօրյա միջադիրներ «Լիբրես» Ֆրեշ, երկար 28հտ",
+    "old": 1190,
+    "new": 1060,
+    "pct": 11,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1074074.png",
+    "url": "https://yerevan-city.am/shop/product-details/7120",
+    "key": "Yerevan City|id:7120|1190|1060"
    }
   ]
  },
