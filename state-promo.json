@@ -2410,22 +2410,12 @@
    "Yerevan City|id:170886|1190|690",
    "Yerevan City|id:194743|1190|990",
    "Yerevan City|id:193202|1190|890",
-   "Yerevan City|id:11790|1190|940"
+   "Yerevan City|id:11790|1190|940",
+   "Yerevan City|id:173156|1190|590"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ներդիրներ «o.b. Pro Comfort Silk Touch Super» 16հատ",
-    "old": 2290,
-    "new": 1790,
-    "pct": 22,
-    "until": "13.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/dlya_intimnoy_gigieny2/183584/",
-    "key": "SAS|id:183584|2290|1790"
-   },
    {
     "store": "SAS",
     "title": "Ներդիրներ «o.b. Super 5 in 1» 16 հատ",
@@ -6805,12 +6795,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1048737.png",
     "url": "https://yerevan-city.am/shop/product-details/11790",
     "key": "Yerevan City|id:11790|1190|940"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Աղանդեր պրոտ. «Ֆիթ Կիթ» Քափս, պիստակ-կուն.ա/շ 70գր",
+    "old": 1190,
+    "new": 590,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1166748.png",
+    "url": "https://yerevan-city.am/shop/product-details/173156",
+    "key": "Yerevan City|id:173156|1190|590"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-09T02:32:01.753333+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-09T02:48:42.384916+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
@@ -6819,7 +6820,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 48,
+ "city_page": 49,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
