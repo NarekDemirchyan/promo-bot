@@ -2352,22 +2352,12 @@
    "Yerevan City|id:18182|1230|1150",
    "Yerevan City|id:159399|1230|1060",
    "Yerevan City|id:159401|1230|1060",
-   "Yerevan City|id:159403|1230|1060"
+   "Yerevan City|id:159403|1230|1060",
+   "Yerevan City|id:2622|1230|690"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Լվացքի գել գունավոր «Savex» 1.8լ",
-    "old": 4960,
-    "new": 4050,
-    "pct": 18,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/stiralnyy_poroshok/589142/",
-    "key": "SAS|id:589142|4960|4050"
-   },
    {
     "store": "SAS",
     "title": "Սպասք լվանալու հեղուկ «Exo Expert» 400մլ",
@@ -6747,12 +6737,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1157063.png",
     "url": "https://yerevan-city.am/shop/product-details/159403",
     "key": "Yerevan City|id:159403|1230|1060"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թեյ կանաչ «Ահմադ» 100գր",
+    "old": 1230,
+    "new": 690,
+    "pct": 44,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1049937.png",
+    "url": "https://yerevan-city.am/shop/product-details/2622",
+    "key": "Yerevan City|id:2622|1230|690"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-08T09:16:48.000137+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-08T09:33:23.821260+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
