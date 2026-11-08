@@ -2384,17 +2384,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Միցելյար ջուր «Garnier Skin Naturals» 400մլ",
-    "old": 2990,
-    "new": 2550,
-    "pct": 15,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/vse_dlya_litsa/449124/",
-    "key": "SAS|id:449124|2990|2550"
-   },
-   {
-    "store": "SAS",
     "title": "Լվացքի պարկուճներ ունիվերսալ «Savex Premium Crystal Fresh» 18 հատ",
     "old": 3640,
     "new": 3090,
@@ -6787,8 +6776,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-08T17:03:47.019347+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-08T17:24:44.820113+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
