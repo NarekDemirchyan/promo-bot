@@ -2360,22 +2360,12 @@
    "Yerevan City|id:2622|1230|690",
    "Yerevan City|id:6672|1230|690",
    "Yerevan City|id:8141|1230|810",
-   "Yerevan City|id:13303|1230|690"
+   "Yerevan City|id:13303|1230|690",
+   "Yerevan City|id:18047|1230|690"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սպասք լվանալու հեղուկ «Exo Expert» 400մլ",
-    "old": 790,
-    "new": 690,
-    "pct": 13,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/sredstva_dlya_posudy/589118/",
-    "key": "SAS|id:589118|790|690"
-   },
    {
     "store": "SAS",
     "title": "Դեմքի գել «Garnier Vitamin C» 200մլ",
@@ -6755,12 +6745,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1051012.png",
     "url": "https://yerevan-city.am/shop/product-details/13303",
     "key": "Yerevan City|id:13303|1230|690"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թեյ սև «Ահմադ» Անգլիական նախաճաշ 100գր",
+    "old": 1230,
+    "new": 690,
+    "pct": 44,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1048906.png",
+    "url": "https://yerevan-city.am/shop/product-details/18047",
+    "key": "Yerevan City|id:18047|1230|690"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-08T11:46:49.418450+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-08T12:03:40.006592+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
