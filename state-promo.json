@@ -2344,7 +2344,8 @@
    "Yerevan City|id:15099|1240|920",
    "Yerevan City|id:15580|1240|920",
    "Yerevan City|id:66794|1240|1050",
-   "Yerevan City|id:18043|1240|1050"
+   "Yerevan City|id:18043|1240|1050",
+   "Yerevan City|id:18182|1230|1150"
   ]
  },
  "queues": {
@@ -6739,6 +6740,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1089767.png",
     "url": "https://yerevan-city.am/shop/product-details/18043",
     "key": "Yerevan City|id:18043|1240|1050"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ատամի խոզանակ «Քոլգեյթ» թարմության սենսացիա",
+    "old": 1230,
+    "new": 1150,
+    "pct": 7,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1000069.png",
+    "url": "https://yerevan-city.am/shop/product-details/18182",
+    "key": "Yerevan City|id:18182|1230|1150"
    }
   ]
  },
