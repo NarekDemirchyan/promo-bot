@@ -1163,7 +1163,8 @@
    "SAS|id:873106|1680|1420",
    "SAS|id:873097|1450|1220",
    "SAS|id:867515|11100|10300",
-   "SAS|id:858538|610|540"
+   "SAS|id:858538|610|540",
+   "SAS|id:858537|520|460"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4544,20 +4545,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/383/665/6658883603256009.webp",
     "url": "https://www.sas.am/catalog/pakety_dlya_musora/858538/",
     "key": "SAS|id:858538|610|540"
+   },
+   {
+    "store": "SAS",
+    "title": "Աղբի տոպրակներ «Фрекен Бок» 20լ",
+    "old": 520,
+    "new": 460,
+    "pct": 12,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/pakety_dlya_musora/858537/",
+    "key": "SAS|id:858537|520|460"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Ատամի մածուկ «Սպլատ» Բիոկալցիում 100մլ",
-    "old": 1340,
-    "new": 980,
-    "pct": 27,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1029632.png",
-    "url": "https://yerevan-city.am/shop/product-details/24887",
-    "key": "Yerevan City|id:24887|1340|980"
-   },
    {
     "store": "Yerevan City",
     "title": "Սպասք լվանալու հեղուկ «Ֆերի» կիտրոնի 1լ",
@@ -6750,8 +6751,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-08T09:02:47.693897+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-08T09:16:48.000137+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
