@@ -2398,22 +2398,12 @@
    "Yerevan City|id:158828|1190|890",
    "Yerevan City|id:178135|1190|220",
    "Yerevan City|id:178136|1190|220",
-   "Yerevan City|id:178137|1190|220"
+   "Yerevan City|id:178137|1190|220",
+   "Yerevan City|id:180965|1190|595"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շամպուն և բալզամ «Head & Shoulders Основной Уход» 200մլ",
-    "old": 1620,
-    "new": 1430,
-    "pct": 12,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/dlya_volos2/203613/",
-    "key": "SAS|id:203613|1620|1430"
-   },
    {
     "store": "SAS",
     "title": "Զուգարանակոնքի մաքրող միջոց «Chirton Альпийское Ультро» 2×50գ",
@@ -6793,12 +6783,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1171820.png",
     "url": "https://yerevan-city.am/shop/product-details/178137",
     "key": "Yerevan City|id:178137|1190|220"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Եգիպտացորենի գնդիկներ «Չիտոս» պանիր 130գր",
+    "old": 1190,
+    "new": 595,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174696.png",
+    "url": "https://yerevan-city.am/shop/product-details/180965",
+    "key": "Yerevan City|id:180965|1190|595"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-08T23:46:45.640245+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-09T00:02:03.150218+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
