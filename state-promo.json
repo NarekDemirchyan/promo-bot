@@ -2408,22 +2408,12 @@
    "Yerevan City|id:12191|1190|1050",
    "Yerevan City|id:170886|1190|690",
    "Yerevan City|id:194743|1190|990",
-   "Yerevan City|id:193202|1190|890"
+   "Yerevan City|id:193202|1190|890",
+   "Yerevan City|id:11790|1190|940"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ներդիրներ «o.b. Pro Comfort Silk Touch Super» 8հատ",
-    "old": 1160,
-    "new": 1050,
-    "pct": 9,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/dlya_intimnoy_gigieny2/183586/",
-    "key": "SAS|id:183586|1160|1050"
-   },
    {
     "store": "SAS",
     "title": "Ներդիրներ «o.b. Pro Comfort Silk Touch Super» 16հատ",
@@ -6803,12 +6793,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176954.png",
     "url": "https://yerevan-city.am/shop/product-details/193202",
     "key": "Yerevan City|id:193202|1190|890"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մարինացված վարունգ «Լորադո» մանր 3-6սմ 720մլ",
+    "old": 1190,
+    "new": 940,
+    "pct": 21,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1048737.png",
+    "url": "https://yerevan-city.am/shop/product-details/11790",
+    "key": "Yerevan City|id:11790|1190|940"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-09T02:02:10.335716+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-09T02:16:50.255642+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
