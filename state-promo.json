@@ -2376,17 +2376,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Օճառ «Teo Gentle Care» 90գ",
-    "old": 300,
-    "new": 270,
-    "pct": 10,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/234/904/9045213364406665.webp",
-    "url": "https://www.sas.am/catalog/mylo_ustarelo/526093/",
-    "key": "SAS|id:526093|300|270"
-   },
-   {
-    "store": "SAS",
     "title": "Շամպուն-լոգանքի գել «Schauma» 400մլ",
     "old": 1490,
     "new": 1120,
@@ -6779,8 +6768,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-08T14:33:32.809404+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-08T15:02:52.404831+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
