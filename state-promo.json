@@ -2346,22 +2346,12 @@
    "Yerevan City|id:15580|1240|920",
    "Yerevan City|id:66794|1240|1050",
    "Yerevan City|id:18043|1240|1050",
-   "Yerevan City|id:18182|1230|1150"
+   "Yerevan City|id:18182|1230|1150",
+   "Yerevan City|id:159399|1230|1060"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սնկերի խառնուրդ մարինացված «Lorado» 280գ",
-    "old": 890,
-    "new": 790,
-    "pct": 11,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/358/503/5033962518054349.webp",
-    "url": "https://www.sas.am/catalog/gribnye_konservy/638343/",
-    "key": "SAS|id:638343|890|790"
-   },
    {
     "store": "SAS",
     "title": "Խտացրած կաթ յուղազերծված «Ичня» 370գ",
@@ -6741,12 +6731,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1000069.png",
     "url": "https://yerevan-city.am/shop/product-details/18182",
     "key": "Yerevan City|id:18182|1230|1150"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սպիտակեղենի ողողիչ «Սավեքս» Սոֆթ, Միստիկ 800մլ",
+    "old": 1230,
+    "new": 1060,
+    "pct": 14,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1157059.png",
+    "url": "https://yerevan-city.am/shop/product-details/159399",
+    "key": "Yerevan City|id:159399|1230|1060"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-08T07:47:43.065717+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-08T08:02:04.950121+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
@@ -6755,7 +6756,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 47,
+ "city_page": 48,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
