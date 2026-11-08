@@ -2340,22 +2340,12 @@
    "Yerevan City|id:15054|1240|920",
    "Yerevan City|id:15057|1240|920",
    "Yerevan City|id:15099|1240|920",
-   "Yerevan City|id:15580|1240|920"
+   "Yerevan City|id:15580|1240|920",
+   "Yerevan City|id:66794|1240|1050"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ձիթապտուղ կանաչ կորիզով «Del Monte» 335գ",
-    "old": 1350,
-    "new": 870,
-    "pct": 36,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/265/565/565789533584820.webp",
-    "url": "https://www.sas.am/catalog/s_kostochkoy/638352/",
-    "key": "SAS|id:638352|1350|870"
-   },
    {
     "store": "SAS",
     "title": "Շիտակե մարինացված «Lorado» 280գ",
@@ -6735,12 +6725,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1008184.png",
     "url": "https://yerevan-city.am/shop/product-details/15580",
     "key": "Yerevan City|id:15580|1240|920"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գնդիկավոր հոտազերծիչ «Նիվեա» թարմության էներգիա 50մլ",
+    "old": 1240,
+    "new": 1050,
+    "pct": 15,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1007353.png",
+    "url": "https://yerevan-city.am/shop/product-details/66794",
+    "key": "Yerevan City|id:66794|1240|1050"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-08T06:02:06.995816+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-08T06:16:47.328138+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
