@@ -2368,7 +2368,8 @@
    "Yerevan City|id:18047|1230|690",
    "Yerevan City|id:117240|1220|990",
    "Yerevan City|id:106347|1220|1140",
-   "Yerevan City|id:106335|1220|1140"
+   "Yerevan City|id:106335|1220|1140",
+   "Yerevan City|id:106337|1220|1140"
   ]
  },
  "queues": {
@@ -6763,6 +6764,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1139483.png",
     "url": "https://yerevan-city.am/shop/product-details/106335",
     "key": "Yerevan City|id:106335|1220|1140"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շամպուն տղ. «Փալմոլիվ» մաքրում-թարմ. կիտրոն 450մ",
+    "old": 1220,
+    "new": 1140,
+    "pct": 7,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1139486.png",
+    "url": "https://yerevan-city.am/shop/product-details/106337",
+    "key": "Yerevan City|id:106337|1220|1140"
    }
   ]
  },
