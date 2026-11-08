@@ -1169,7 +1169,8 @@
    "SAS|id:858489|390|350",
    "SAS|id:858487|580|520",
    "SAS|id:198015|870|570",
-   "SAS|id:197912|1420|960"
+   "SAS|id:197912|1420|960",
+   "SAS|id:31578|1050|890"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4556,6 +4557,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/listovoy/197912/",
     "key": "SAS|id:197912|1420|960"
+   },
+   {
+    "store": "SAS",
+    "title": "Զուգարանի թուղթ խոնավ «Zewa Kids» 42 հատ",
+    "old": 1050,
+    "new": 890,
+    "pct": 15,
+    "until": "27.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/323/547/547949128709409.webp",
+    "url": "https://www.sas.am/catalog/tualetnaya_bumaga/31578/",
+    "key": "SAS|id:31578|1050|890"
    }
   ],
   "Yerevan City": [
@@ -4565,7 +4577,7 @@
     "old": 1330,
     "new": 890,
     "pct": 33,
-    "until": "",
+    "until": "20.11.2026",
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1016146.png",
     "url": "https://yerevan-city.am/shop/product-details/66702",
     "key": "Yerevan City|id:66702|1330|890"
