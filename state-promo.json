@@ -1192,7 +1192,8 @@
    "SAS|id:677586|5750|4870",
    "SAS|id:858405|890|790",
    "SAS|id:846778|1860|1630",
-   "SAS|id:804473|3760|3130"
+   "SAS|id:804473|3760|3130",
+   "SAS|id:804435|4090|3690"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4602,6 +4603,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/dishwasherdetergent/804473/",
     "key": "SAS|id:804473|3760|3130"
+   },
+   {
+    "store": "SAS",
+    "title": "Լաքահանող միջոց «Vanish Oxi Action» 2լ",
+    "old": 4090,
+    "new": 3690,
+    "pct": 10,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/opolaskivatel_konditsioner_kontsentrat/804435/",
+    "key": "SAS|id:804435|4090|3690"
    }
   ],
   "Yerevan City": [
