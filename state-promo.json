@@ -2396,17 +2396,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Հակաքրտինքային աէրոզոլային միջոց «Garnier Mineral Эффект Магния» 150մլ",
-    "old": 1780,
-    "new": 1230,
-    "pct": 31,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/antiperspirantt/246943/",
-    "key": "SAS|id:246943|1780|1230"
-   },
-   {
-    "store": "SAS",
     "title": "Շոկոլադե կոնֆետներ «Lindt» 125գ",
     "old": 5750,
     "new": 4080,
@@ -6799,8 +6788,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-08T20:33:10.976590+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-08T21:02:46.103517+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
