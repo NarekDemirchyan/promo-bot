@@ -4545,17 +4545,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Պանիր հալած «Պրեզիդենտ» Մաազդամ 200գր",
-    "old": 1350,
-    "new": 890,
-    "pct": 34,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1043772.png",
-    "url": "https://yerevan-city.am/shop/product-details/14486",
-    "key": "Yerevan City|id:14486|1350|890"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Միջադիրներ «Լիբրես» ուլտրա, սուպեր 16հտ",
     "old": 1350,
     "new": 1070,
@@ -6746,8 +6735,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-08T04:33:32.795403+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-08T05:02:17.744063+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
