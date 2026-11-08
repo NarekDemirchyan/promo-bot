@@ -1181,7 +1181,8 @@
    "SAS|id:6810|1640|1290",
    "SAS|id:3263|2790|2490",
    "SAS|id:432190|990|890",
-   "SAS|id:255852|3690|2690"
+   "SAS|id:255852|3690|2690",
+   "SAS|id:98056|1990|1890"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4580,20 +4581,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/150/301/3011214034757328.webp",
     "url": "https://www.sas.am/catalog/molotyy/255852/",
     "key": "SAS|id:255852|3690|2690"
+   },
+   {
+    "store": "SAS",
+    "title": "Ձեթ եգիպտացորենի «Luglio» 1լ",
+    "old": 1990,
+    "new": 1890,
+    "pct": 5,
+    "until": "12.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/428/327/327023257995451.webp",
+    "url": "https://www.sas.am/catalog/rastitelnoe/98056/",
+    "key": "SAS|id:98056|1990|1890"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Հեղուկ օճառ «Տեո» Փյուր Սենսիթիվ, հալվե 900մլ",
-    "old": 1310,
-    "new": 1130,
-    "pct": 14,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176163.png",
-    "url": "https://yerevan-city.am/shop/product-details/192426",
-    "key": "Yerevan City|id:192426|1310|1130"
-   },
    {
     "store": "Yerevan City",
     "title": "Հեղուկ օճառ «Տեո» Ռիչ Միլկ, նուրբ խնամք 900մլ",
@@ -6786,8 +6787,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-08T20:16:46.903948+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-08T20:33:10.976590+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
