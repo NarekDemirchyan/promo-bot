@@ -2370,17 +2370,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Դեմքի գել «Garnier Vitamin C» 200մլ",
-    "old": 2150,
-    "new": 1850,
-    "pct": 14,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/342/057/057560260525581.webp",
-    "url": "https://www.sas.am/catalog/vse_dlya_litsa/550065/",
-    "key": "SAS|id:550065|2150|1850"
-   },
-   {
-    "store": "SAS",
     "title": "Աղի ձողիկներ «Croco Sticks Long Salt» 80գ",
     "old": 340,
     "new": 280,
@@ -6773,8 +6762,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-08T12:32:51.305075+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-08T13:02:07.881352+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
