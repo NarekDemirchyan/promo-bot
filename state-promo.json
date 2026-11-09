@@ -1205,7 +1205,8 @@
    "SAS|id:653152|1330|990",
    "SAS|id:631531|2080|1920",
    "SAS|id:631529|2470|2340",
-   "SAS|id:631514|1420|1340"
+   "SAS|id:631514|1420|1340",
+   "SAS|id:631480|1520|1430"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4628,6 +4629,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/308/879/879157341998663.webp",
     "url": "https://www.sas.am/catalog/baklazhan/631514/",
     "key": "SAS|id:631514|1420|1340"
+   },
+   {
+    "store": "SAS",
+    "title": "Աջիկա «Իջևան» 500գ",
+    "old": 1520,
+    "new": 1430,
+    "pct": 6,
+    "until": "28.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/360/797/797594400433298.webp",
+    "url": "https://www.sas.am/catalog/baklazhan/631480/",
+    "key": "SAS|id:631480|1520|1430"
    }
   ],
   "Yerevan City": [
