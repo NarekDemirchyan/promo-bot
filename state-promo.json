@@ -2456,22 +2456,12 @@
    "Yerevan City|id:8939|1110|1050",
    "Yerevan City|id:180011|1090|1030",
    "Yerevan City|id:176962|1090|590",
-   "Yerevan City|id:19379|1090|850"
+   "Yerevan City|id:19379|1090|850",
+   "Yerevan City|id:23261|1090|760"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սափրող սարքի գլխիկներ «Gillette Venus Breeze» 2հատ",
-    "old": 4630,
-    "new": 4270,
-    "pct": 8,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/385/376/3769261187275852.webp",
-    "url": "https://www.sas.am/catalog/kasseta_dlya_britya/62111/",
-    "key": "SAS|id:62111|4630|4270"
-   },
    {
     "store": "SAS",
     "title": "Սափրող սարքի գլխիկներ «Gillette Fusion Proglide» 4հատ",
@@ -6851,12 +6841,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1030639.png",
     "url": "https://yerevan-city.am/shop/product-details/19379",
     "key": "Yerevan City|id:19379|1090|850"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Զուգարանի թուղթ «Սիլկ Սոֆթ» Դելյուքս, քառաշերտ 4հտ",
+    "old": 1090,
+    "new": 760,
+    "pct": 30,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1103054.png",
+    "url": "https://yerevan-city.am/shop/product-details/23261",
+    "key": "Yerevan City|id:23261|1090|760"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-09T17:17:19.278726+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-09T17:32:18.905152+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
