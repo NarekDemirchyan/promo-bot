@@ -4637,17 +4637,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Շամպուն «Պանտին Պրո-Վ» ինտենսիվ վերականգնում250մ",
-    "old": 1430,
-    "new": 1230,
-    "pct": 14,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1000428.png",
-    "url": "https://yerevan-city.am/shop/product-details/7125",
-    "key": "Yerevan City|id:7125|1430|1230"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Շամպուն «Պանտին Պրո-Վ» սնուցում և փայլ 250մլ",
     "old": 1430,
     "new": 1230,
@@ -6838,8 +6827,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-09T07:48:56.695730+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-09T08:16:48.818022+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
