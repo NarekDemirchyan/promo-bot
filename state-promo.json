@@ -1208,7 +1208,8 @@
    "SAS|id:631514|1420|1340",
    "SAS|id:631480|1520|1430",
    "SAS|id:624382|11100|10300",
-   "SAS|id:604817|5780|4490"
+   "SAS|id:604817|5780|4490",
+   "SAS|id:601887|1450|1220"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4634,20 +4635,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/216/322/3225102941251287.webp",
     "url": "https://www.sas.am/catalog/balzam_loson_posle_britya/604817/",
     "key": "SAS|id:604817|5780|4490"
+   },
+   {
+    "store": "SAS",
+    "title": "Հակաքրտինքային միջոց գնդիկով «Nivea» 50մլ",
+    "old": 1450,
+    "new": 1220,
+    "pct": 16,
+    "until": "27.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/176/131/1311012469519308.webp",
+    "url": "https://www.sas.am/catalog/antiperspirantt/601887/",
+    "key": "SAS|id:601887|1450|1220"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Իշխան «Արտֆուդ» ծիածանափայլ, հյութում 240գր",
-    "old": 1410,
-    "new": 1220,
-    "pct": 13,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1143394.png",
-    "url": "https://yerevan-city.am/shop/product-details/113007",
-    "key": "Yerevan City|id:113007|1410|1220"
-   },
    {
     "store": "Yerevan City",
     "title": "Իշխան «Արտֆուդ» ծիածանափայլ, տոմատում 240գր",
@@ -6840,8 +6841,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-09T12:16:46.277957+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-09T12:31:54.826208+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
