@@ -2442,22 +2442,12 @@
    "Yerevan City|id:194396|1120|880",
    "Yerevan City|id:162547|1130|1070",
    "Yerevan City|id:194397|1120|880",
-   "Yerevan City|id:4469|1120|950"
+   "Yerevan City|id:4469|1120|950",
+   "Yerevan City|id:154313|1120|960"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Մազերի մուս «Wella Wellaflex» 200մլ",
-    "old": 2340,
-    "new": 2090,
-    "pct": 11,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/maska_konditsioner_dlya_volos/131678/",
-    "key": "SAS|id:131678|2340|2090"
-   },
    {
     "store": "SAS",
     "title": "Օդը թարմացնող միջոց «Chirton Нейтрализатор» 300մլ",
@@ -6837,12 +6827,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1000307.png",
     "url": "https://yerevan-city.am/shop/product-details/4469",
     "key": "Yerevan City|id:4469|1120|950"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թղթե սրբիչ «Սելպակ» Սուպեր, եռաշերտ 1հտ",
+    "old": 1120,
+    "new": 960,
+    "pct": 14,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1154366.png",
+    "url": "https://yerevan-city.am/shop/product-details/154313",
+    "key": "Yerevan City|id:154313|1120|960"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-09T12:31:54.826208+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-09T12:48:44.680023+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
