@@ -2436,22 +2436,12 @@
    "Yerevan City|id:174246|1140|790",
    "Yerevan City|id:91365|1140|960",
    "Yerevan City|id:99571|1140|1020",
-   "Yerevan City|id:194396|1120|880"
+   "Yerevan City|id:194396|1120|880",
+   "Yerevan City|id:162547|1130|1070"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ամենօրյա միջադիրներ «Discreet Normal+Plus» 20հատ",
-    "old": 1050,
-    "new": 960,
-    "pct": 9,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/397/928/9289283164450373.webp",
-    "url": "https://www.sas.am/catalog/dlya_intimnoy_gigieny2/145114/",
-    "key": "SAS|id:145114|1050|960"
-   },
    {
     "store": "SAS",
     "title": "Լվացքի փոշի սպիտակ «Ariel White Roses» 3կգ",
@@ -6831,12 +6821,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178171.png",
     "url": "https://yerevan-city.am/shop/product-details/194396",
     "key": "Yerevan City|id:194396|1120|880"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տոմատի մածուկ «Իջևան» 500գր",
+    "old": 1130,
+    "new": 1070,
+    "pct": 5,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1160233.png",
+    "url": "https://yerevan-city.am/shop/product-details/162547",
+    "key": "Yerevan City|id:162547|1130|1070"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-09T10:46:46.154240+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-09T11:02:07.182758+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
