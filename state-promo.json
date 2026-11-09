@@ -1199,7 +1199,8 @@
    "SAS|id:760319|2550|1760",
    "SAS|id:760310|2550|1760",
    "SAS|id:672236|1680|1420",
-   "SAS|id:672228|1450|1220"
+   "SAS|id:672228|1450|1220",
+   "SAS|id:654230|2470|2190"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4616,6 +4617,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/antiperspirantt/672228/",
     "key": "SAS|id:672228|1450|1220"
+   },
+   {
+    "store": "SAS",
+    "title": "Ներդիրներ «o.b. Organic Mini» 16 հատ",
+    "old": 2470,
+    "new": 2190,
+    "pct": 11,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/dlya_intimnoy_gigieny2/654230/",
+    "key": "SAS|id:654230|2470|2190"
    }
   ],
   "Yerevan City": [
