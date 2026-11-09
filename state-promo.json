@@ -1223,7 +1223,8 @@
    "SAS|id:95739|1280|1050",
    "SAS|id:35678|1990|1680",
    "SAS|id:145236|1290|1050",
-   "SAS|id:479579|960|790"
+   "SAS|id:479579|960|790",
+   "SAS|id:230814|120|90"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4664,6 +4665,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/v_paketakh/479579/",
     "key": "SAS|id:479579|960|790"
+   },
+   {
+    "store": "SAS",
+    "title": "Գրպանի անձեռոցիկ «Zewa Deluxe» 10 հատ",
+    "old": 120,
+    "new": 90,
+    "pct": 25,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/salfetki/230814/",
+    "key": "SAS|id:230814|120|90"
    }
   ],
   "Yerevan City": [
