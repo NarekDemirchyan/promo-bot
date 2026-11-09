@@ -1210,7 +1210,10 @@
    "SAS|id:624382|11100|10300",
    "SAS|id:604817|5780|4490",
    "SAS|id:601887|1450|1220",
-   "SAS|id:31629|570|530"
+   "SAS|id:31629|570|530",
+   "SAS|id:14074|850|690",
+   "SAS|id:584941|1330|890",
+   "SAS|id:145221|1490|1220"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4618,20 +4621,42 @@
     "img": "",
     "url": "https://www.sas.am/catalog/voda/31629/",
     "key": "SAS|id:31629|570|530"
+   },
+   {
+    "store": "SAS",
+    "title": "Դրաժե սերուցքային «Գրանդ Քենդի Ջոյկո» 150գ",
+    "old": 850,
+    "new": 690,
+    "pct": 19,
+    "until": "13.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/drajee/14074/",
+    "key": "SAS|id:14074|850|690"
+   },
+   {
+    "store": "SAS",
+    "title": "Փրեցելներ կապուչինոյի համով «Хлебный Спас» 320գ",
+    "old": 1330,
+    "new": 890,
+    "pct": 33,
+    "until": "29.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/214/399/3991132585631504.webp",
+    "url": "https://www.sas.am/catalog/krekery_solenye_palochki/584941/",
+    "key": "SAS|id:584941|1330|890"
+   },
+   {
+    "store": "SAS",
+    "title": "Միջադիրներ «Libresse Invisible Super» 16հատ",
+    "old": 1490,
+    "new": 1220,
+    "pct": 18,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/dlya_intimnoy_gigieny2/145221/",
+    "key": "SAS|id:145221|1490|1220"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Հոտազերծիչ տղամարդու «Դեոնիկա» Նեյչր 200մլ",
-    "old": 1390,
-    "new": 1110,
-    "pct": 20,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1056080.png",
-    "url": "https://yerevan-city.am/shop/product-details/9660",
-    "key": "Yerevan City|id:9660|1390|1110"
-   },
    {
     "store": "Yerevan City",
     "title": "Շամպուն «Շաումա» 7խոտաբույս նորմալ-յուղ.մազ.400մ",
@@ -6824,8 +6849,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-09T14:45:36.404541+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-09T15:04:12.053454+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
