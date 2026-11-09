@@ -2482,7 +2482,8 @@
    "Yerevan City|id:51068|1090|880",
    "Yerevan City|id:51069|1090|880",
    "Yerevan City|id:9642|1150|690",
-   "Yerevan City|id:47812|1150|920"
+   "Yerevan City|id:47812|1150|920",
+   "Yerevan City|id:47821|1150|920"
   ]
  },
  "queues": {
@@ -6877,6 +6878,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1105406.png",
     "url": "https://yerevan-city.am/shop/product-details/47812",
     "key": "Yerevan City|id:47812|1150|920"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շամպուն «Պրելեստ» Բիո ծավալ-ուժ բոլոր տես.մ.400մ",
+    "old": 1150,
+    "new": 920,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1105416.png",
+    "url": "https://yerevan-city.am/shop/product-details/47821",
+    "key": "Yerevan City|id:47821|1150|920"
    }
   ]
  },
