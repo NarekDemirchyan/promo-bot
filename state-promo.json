@@ -1202,7 +1202,8 @@
    "SAS|id:672228|1450|1220",
    "SAS|id:654230|2470|2190",
    "SAS|id:653153|1330|990",
-   "SAS|id:653152|1330|990"
+   "SAS|id:653152|1330|990",
+   "SAS|id:631531|2080|1920"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4622,20 +4623,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/253/016/0163763437444698.webp",
     "url": "https://www.sas.am/catalog/kasha_myusli/653152/",
     "key": "SAS|id:653152|1330|990"
+   },
+   {
+    "store": "SAS",
+    "title": "Մուրաբա կեռասի «Իջևան» 600գ",
+    "old": 2080,
+    "new": 1920,
+    "pct": 8,
+    "until": "28.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/varene/631531/",
+    "key": "SAS|id:631531|2080|1920"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Շամպուն «Պանտին Պրո-Վ» սնուցում և փայլ 250մլ",
-    "old": 1430,
-    "new": 1230,
-    "pct": 14,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1036791.png",
-    "url": "https://yerevan-city.am/shop/product-details/18154",
-    "key": "Yerevan City|id:18154|1430|1230"
-   },
    {
     "store": "Yerevan City",
     "title": "Ատամի խոզանակ մանկ. «Սպլատ» Սո Հեփփի 5+ փափուկ",
@@ -6828,8 +6829,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-09T08:31:56.990175+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-09T08:46:46.867190+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
