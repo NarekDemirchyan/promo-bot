@@ -2484,22 +2484,12 @@
    "Yerevan City|id:51069|1090|880",
    "Yerevan City|id:9642|1150|690",
    "Yerevan City|id:47812|1150|920",
-   "Yerevan City|id:47821|1150|920"
+   "Yerevan City|id:47821|1150|920",
+   "Yerevan City|id:7074|1150|690"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Հակաքրտինքային աէրոզոլային միջոց «Garnier 6-in-1 Protection» 150մլ",
-    "old": 1780,
-    "new": 1230,
-    "pct": 31,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/254/415/4150314273583618.webp",
-    "url": "https://www.sas.am/catalog/antiperspirantt/17514/",
-    "key": "SAS|id:17514|1780|1230"
-   },
    {
     "store": "SAS",
     "title": "Սուրճ աղացած «Jacobs Monarch» 80գ",
@@ -6879,12 +6869,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1105416.png",
     "url": "https://yerevan-city.am/shop/product-details/47821",
     "key": "Yerevan City|id:47821|1150|920"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Պանիր հալած «Պրեզիդենտ» սերուցքային 150գր",
+    "old": 1150,
+    "new": 690,
+    "pct": 40,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1048650.png",
+    "url": "https://yerevan-city.am/shop/product-details/7074",
+    "key": "Yerevan City|id:7074|1150|690"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-10T02:17:10.445194+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-10T02:32:13.287128+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
