@@ -2472,22 +2472,12 @@
    "Yerevan City|id:51043|1090|880",
    "Yerevan City|id:170774|1090|630",
    "Yerevan City|id:51053|1090|880",
-   "Yerevan City|id:166137|1090|590"
+   "Yerevan City|id:166137|1090|590",
+   "Yerevan City|id:51066|1090|880"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Մազերի կոնդիցիոներ «OGX» 385մլ",
-    "old": 4190,
-    "new": 3290,
-    "pct": 21,
-    "until": "13.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/288/278/278599545399705.webp",
-    "url": "https://www.sas.am/catalog/balzam_dlya_volos/19139/",
-    "key": "SAS|id:19139|4190|3290"
-   },
    {
     "store": "SAS",
     "title": "Մազերի կոնդիցիոներ «OGX» 385մլ",
@@ -6867,12 +6857,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1161829.png",
     "url": "https://yerevan-city.am/shop/product-details/166137",
     "key": "Yerevan City|id:166137|1090|590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մազի ներկ «Լոնդա Քոլոր» 11/1 էք.մոխրագույն բլոնդ",
+    "old": 1090,
+    "new": 880,
+    "pct": 19,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1100582.png",
+    "url": "https://yerevan-city.am/shop/product-details/51066",
+    "key": "Yerevan City|id:51066|1090|880"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-09T22:32:39.765735+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-09T22:47:02.279175+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
