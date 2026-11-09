@@ -2478,7 +2478,8 @@
    "Yerevan City|id:166137|1090|590",
    "Yerevan City|id:51066|1090|880",
    "Yerevan City|id:51068|1090|880",
-   "Yerevan City|id:51069|1090|880"
+   "Yerevan City|id:51069|1090|880",
+   "Yerevan City|id:9642|1150|690"
   ]
  },
  "queues": {
@@ -6873,6 +6874,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1100558.png",
     "url": "https://yerevan-city.am/shop/product-details/51069",
     "key": "Yerevan City|id:51069|1090|880"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Պանիր հալած «Պրեզիդենտ» խոզապուխտով 150գր",
+    "old": 1150,
+    "new": 690,
+    "pct": 40,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1039892.png",
+    "url": "https://yerevan-city.am/shop/product-details/9642",
+    "key": "Yerevan City|id:9642|1150|690"
    }
   ]
  },
