@@ -1201,7 +1201,8 @@
    "SAS|id:672236|1680|1420",
    "SAS|id:672228|1450|1220",
    "SAS|id:654230|2470|2190",
-   "SAS|id:653153|1330|990"
+   "SAS|id:653153|1330|990",
+   "SAS|id:653152|1330|990"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4620,6 +4621,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/kasha_myusli/653153/",
     "key": "SAS|id:653153|1330|990"
+   },
+   {
+    "store": "SAS",
+    "title": "Շիլա վարսակի «Nestle Быстров» 175գ",
+    "old": 1330,
+    "new": 990,
+    "pct": 26,
+    "until": "20.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/253/016/0163763437444698.webp",
+    "url": "https://www.sas.am/catalog/kasha_myusli/653152/",
+    "key": "SAS|id:653152|1330|990"
    }
   ],
   "Yerevan City": [
