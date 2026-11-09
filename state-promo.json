@@ -2487,17 +2487,6 @@
     "new": 3290,
     "pct": 21,
     "until": "13.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/483/377/3777044004127331.webp",
-    "url": "https://www.sas.am/catalog/balzam_dlya_volos/19136/",
-    "key": "SAS|id:19136|4190|3290"
-   },
-   {
-    "store": "SAS",
-    "title": "Մազերի կոնդիցիոներ «OGX» 385մլ",
-    "old": 4190,
-    "new": 3290,
-    "pct": 21,
-    "until": "13.11.2026",
     "img": "",
     "url": "https://www.sas.am/catalog/balzam_dlya_volos/19138/",
     "key": "SAS|id:19138|4190|3290"
@@ -6885,8 +6874,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-09T23:04:32.511473+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-09T23:32:19.090907+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
