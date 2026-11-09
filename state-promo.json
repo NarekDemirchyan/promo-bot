@@ -1195,7 +1195,8 @@
    "SAS|id:804473|3760|3130",
    "SAS|id:804435|4090|3690",
    "SAS|id:39598|1640|1290",
-   "SAS|id:804386|4090|3690"
+   "SAS|id:804386|4090|3690",
+   "SAS|id:760319|2550|1760"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4608,6 +4609,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/244/753/7533814229973922.webp",
     "url": "https://www.sas.am/catalog/opolaskivatel_konditsioner_kontsentrat/804386/",
     "key": "SAS|id:804386|4090|3690"
+   },
+   {
+    "store": "SAS",
+    "title": "Չոր շամպուն «So Well Fresh & Clean» 200մլ",
+    "old": 2550,
+    "new": 1760,
+    "pct": 31,
+    "until": "27.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/386/407/4070933566143946.webp",
+    "url": "https://www.sas.am/catalog/dlya_volos2/760319/",
+    "key": "SAS|id:760319|2550|1760"
    }
   ],
   "Yerevan City": [
