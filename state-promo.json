@@ -2418,22 +2418,12 @@
    "Yerevan City|id:173156|1190|590",
    "Yerevan City|id:166107|1190|690",
    "Yerevan City|id:180006|1150|1090",
-   "Yerevan City|id:192151|1150|890"
+   "Yerevan City|id:192151|1150|890",
+   "Yerevan City|id:2784|1140|570"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ներդիրներ «o.b. Normal» 16հատ",
-    "old": 1950,
-    "new": 1740,
-    "pct": 11,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/dlya_intimnoy_gigieny2/183568/",
-    "key": "SAS|id:183568|1950|1740"
-   },
    {
     "store": "SAS",
     "title": "Սափրող սարք «Gillette Blue II Plus» 5հատ",
@@ -6813,12 +6803,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175882.png",
     "url": "https://yerevan-city.am/shop/product-details/192151",
     "key": "Yerevan City|id:192151|1150|890"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մարտկոց «Էներջայզեր» Լիթիում ՑՌ2032 3Վ 1հտ",
+    "old": 1140,
+    "new": 570,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1023970.png",
+    "url": "https://yerevan-city.am/shop/product-details/2784",
+    "key": "Yerevan City|id:2784|1140|570"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-09T05:02:01.564780+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-09T05:19:23.354424+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
