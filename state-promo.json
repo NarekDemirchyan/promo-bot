@@ -2458,22 +2458,12 @@
    "Yerevan City|id:180011|1090|1030",
    "Yerevan City|id:176962|1090|590",
    "Yerevan City|id:19379|1090|850",
-   "Yerevan City|id:23261|1090|760"
+   "Yerevan City|id:23261|1090|760",
+   "Yerevan City|id:15633|1090|690"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սափրող սարքի գլխիկներ «Gillette Fusion Proglide» 4հատ",
-    "old": 12650,
-    "new": 11650,
-    "pct": 8,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/kasseta_dlya_britya/62048/",
-    "key": "SAS|id:62048|12650|11650"
-   },
    {
     "store": "SAS",
     "title": "Սափրող սարքի գլխիկներ «Gillette Fusion5» 2 հատ",
@@ -6853,12 +6843,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1103054.png",
     "url": "https://yerevan-city.am/shop/product-details/23261",
     "key": "Yerevan City|id:23261|1090|760"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մաքրող միջոց «Ֆրոշ» կիտրոն 500մլ",
+    "old": 1090,
+    "new": 690,
+    "pct": 37,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1032918.png",
+    "url": "https://yerevan-city.am/shop/product-details/15633",
+    "key": "Yerevan City|id:15633|1090|690"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-09T17:47:02.937091+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-09T18:04:29.850398+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
