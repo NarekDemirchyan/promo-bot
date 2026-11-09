@@ -2450,7 +2450,8 @@
    "Yerevan City|id:154313|1120|960",
    "Yerevan City|id:29967|1110|555",
    "Yerevan City|id:29964|1110|555",
-   "Yerevan City|id:8939|1110|1050"
+   "Yerevan City|id:8939|1110|1050",
+   "Yerevan City|id:180011|1090|1030"
   ]
  },
  "queues": {
@@ -6845,6 +6846,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1086618.png",
     "url": "https://yerevan-city.am/shop/product-details/8939",
     "key": "Yerevan City|id:8939|1110|1050"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մարինացված կծու պղպեղ «Իջևան» ձեթով-սխտորով 500գր",
+    "old": 1090,
+    "new": 1030,
+    "pct": 6,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173730.png",
+    "url": "https://yerevan-city.am/shop/product-details/180011",
+    "key": "Yerevan City|id:180011|1090|1030"
    }
   ]
  },
