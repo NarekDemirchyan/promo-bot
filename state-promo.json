@@ -2476,7 +2476,8 @@
    "Yerevan City|id:51053|1090|880",
    "Yerevan City|id:166137|1090|590",
    "Yerevan City|id:51066|1090|880",
-   "Yerevan City|id:51068|1090|880"
+   "Yerevan City|id:51068|1090|880",
+   "Yerevan City|id:51069|1090|880"
   ]
  },
  "queues": {
@@ -6871,6 +6872,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1100557.png",
     "url": "https://yerevan-city.am/shop/product-details/51068",
     "key": "Yerevan City|id:51068|1090|880"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ներկ մազերի համար «Լոնդա Քոլոր» 3/75 մոկկո",
+    "old": 1090,
+    "new": 880,
+    "pct": 19,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1100558.png",
+    "url": "https://yerevan-city.am/shop/product-details/51069",
+    "key": "Yerevan City|id:51069|1090|880"
    }
   ]
  },
