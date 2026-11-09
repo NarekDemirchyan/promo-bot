@@ -1215,7 +1215,8 @@
    "SAS|id:584941|1330|890",
    "SAS|id:145221|1490|1220",
    "SAS|id:145207|890|770",
-   "SAS|id:513168|1630|1390"
+   "SAS|id:513168|1630|1390",
+   "SAS|id:439372|2250|1590"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4648,6 +4649,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/dlya_intimnoy_gigieny2/513168/",
     "key": "SAS|id:513168|1630|1390"
+   },
+   {
+    "store": "SAS",
+    "title": "Լոգանքի փրփուր-գել «Malizia» 1լ",
+    "old": 2250,
+    "new": 1590,
+    "pct": 29,
+    "until": "27.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/296/585/5855222680287923.webp",
+    "url": "https://www.sas.am/catalog/showergell/439372/",
+    "key": "SAS|id:439372|2250|1590"
    }
   ],
   "Yerevan City": [
