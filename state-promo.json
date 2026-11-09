@@ -2422,22 +2422,12 @@
    "Yerevan City|id:180006|1150|1090",
    "Yerevan City|id:192151|1150|890",
    "Yerevan City|id:2784|1140|570",
-   "Yerevan City|id:5818|1140|570"
+   "Yerevan City|id:5818|1140|570",
+   "Yerevan City|id:6783|1140|570"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Զուգարանի մաքրող միջոց «Sanfor WC Special Black» 750գ",
-    "old": 1190,
-    "new": 1100,
-    "pct": 8,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/forhebathroom/170817/",
-    "key": "SAS|id:170817|1190|1100"
-   },
    {
     "store": "SAS",
     "title": "Հատակը մաքրելու միջոց «Chirton BIO» 1լ",
@@ -6817,12 +6807,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1003610.png",
     "url": "https://yerevan-city.am/shop/product-details/5818",
     "key": "Yerevan City|id:5818|1140|570"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մարտկոց «Էներջայզեր» Ալկալայն Ա23 12Վ 1հտ",
+    "old": 1140,
+    "new": 570,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1020557.png",
+    "url": "https://yerevan-city.am/shop/product-details/6783",
+    "key": "Yerevan City|id:6783|1140|570"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-09T06:16:42.689725+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-09T06:34:48.551899+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
