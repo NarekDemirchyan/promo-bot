@@ -2446,22 +2446,12 @@
    "Yerevan City|id:4469|1120|950",
    "Yerevan City|id:154313|1120|960",
    "Yerevan City|id:29967|1110|555",
-   "Yerevan City|id:29964|1110|555"
+   "Yerevan City|id:29964|1110|555",
+   "Yerevan City|id:8939|1110|1050"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Օդը թարմացնող միջոց «Chirton Ландыш» 300մլ",
-    "old": 810,
-    "new": 750,
-    "pct": 7,
-    "until": "13.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/osvezhiteli/126453/",
-    "key": "SAS|id:126453|810|750"
-   },
    {
     "store": "SAS",
     "title": "Դեմքի դիմակ «Garnier Skin Naturals» 32գ",
@@ -6819,12 +6809,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1100758.png",
     "url": "https://yerevan-city.am/shop/product-details/29964",
     "key": "Yerevan City|id:29964|1110|555"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մարինացված կծու պղպեղ «Ռոյալ» 500գր",
+    "old": 1110,
+    "new": 1050,
+    "pct": 5,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1086618.png",
+    "url": "https://yerevan-city.am/shop/product-details/8939",
+    "key": "Yerevan City|id:8939|1110|1050"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-09T14:30:51.495361+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-09T14:45:36.404541+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
