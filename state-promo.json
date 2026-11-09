@@ -2428,17 +2428,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Սափրող սարք «Gillette Blue II Plus» 5հատ",
-    "old": 1530,
-    "new": 1390,
-    "pct": 9,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/stanok_dlya_britya/173668/",
-    "key": "SAS|id:173668|1530|1390"
-   },
-   {
-    "store": "SAS",
     "title": "Զուգարանի մաքրող միջոց «Sanfor WC Special Black» 750գ",
     "old": 1190,
     "new": 1100,
@@ -6831,8 +6820,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-09T05:46:50.690082+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-09T06:02:14.065630+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
