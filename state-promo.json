@@ -2486,7 +2486,8 @@
    "Yerevan City|id:9642|1150|690",
    "Yerevan City|id:47812|1150|920",
    "Yerevan City|id:47821|1150|920",
-   "Yerevan City|id:7074|1150|690"
+   "Yerevan City|id:7074|1150|690",
+   "Yerevan City|id:176355|1150|690"
   ]
  },
  "queues": {
@@ -6881,6 +6882,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1048650.png",
     "url": "https://yerevan-city.am/shop/product-details/7074",
     "key": "Yerevan City|id:7074|1150|690"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տետրիս ՅՄ1931",
+    "old": 1150,
+    "new": 690,
+    "pct": 40,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169986.png",
+    "url": "https://yerevan-city.am/shop/product-details/176355",
+    "key": "Yerevan City|id:176355|1150|690"
    }
   ]
  },
