@@ -1221,7 +1221,8 @@
    "SAS|id:192470|3150|2890",
    "SAS|id:170344|1230|730",
    "SAS|id:95739|1280|1050",
-   "SAS|id:35678|1990|1680"
+   "SAS|id:35678|1990|1680",
+   "SAS|id:145236|1290|1050"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4660,6 +4661,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/382/844/8448582394090821.webp",
     "url": "https://www.sas.am/catalog/showergell/35678/",
     "key": "SAS|id:35678|1990|1680"
+   },
+   {
+    "store": "SAS",
+    "title": "Միջադիրներ «Libresse Natural Care» 20հատ",
+    "old": 1290,
+    "new": 1050,
+    "pct": 19,
+    "until": "27.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/375/742/7429692420009601.webp",
+    "url": "https://www.sas.am/catalog/dlya_intimnoy_gigieny2/145236/",
+    "key": "SAS|id:145236|1290|1050"
    }
   ],
   "Yerevan City": [
