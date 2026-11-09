@@ -2428,22 +2428,12 @@
    "Yerevan City|id:5818|1140|570",
    "Yerevan City|id:6783|1140|570",
    "Yerevan City|id:8364|1140|570",
-   "Yerevan City|id:170330|1140|890"
+   "Yerevan City|id:170330|1140|890",
+   "Yerevan City|id:174246|1140|790"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Դեմքի սկրաբ «Garnier» 150մլ",
-    "old": 4450,
-    "new": 3490,
-    "pct": 22,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/319/103/1039011760429071.webp",
-    "url": "https://www.sas.am/catalog/vse_dlya_litsa/170539/",
-    "key": "SAS|id:170539|4450|3490"
-   },
    {
     "store": "SAS",
     "title": "Անձեռոցիկ «Selpak Deluxe» 20 հատ",
@@ -6823,12 +6813,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1164064.png",
     "url": "https://yerevan-city.am/shop/product-details/170330",
     "key": "Yerevan City|id:170330|1140|890"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կաթնային կոկտեյլ պրոտ. «Պարմալատ» Ս.Ս.վանիլ 500մլ",
+    "old": 1140,
+    "new": 790,
+    "pct": 31,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1167817.png",
+    "url": "https://yerevan-city.am/shop/product-details/174246",
+    "key": "Yerevan City|id:174246|1140|790"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-09T08:16:48.818022+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-09T08:31:56.990175+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
