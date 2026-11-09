@@ -2430,22 +2430,12 @@
    "Yerevan City|id:6783|1140|570",
    "Yerevan City|id:8364|1140|570",
    "Yerevan City|id:170330|1140|890",
-   "Yerevan City|id:174246|1140|790"
+   "Yerevan City|id:174246|1140|790",
+   "Yerevan City|id:91365|1140|960"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Անձեռոցիկ «Selpak Deluxe» 20 հատ",
-    "old": 670,
-    "new": 590,
-    "pct": 12,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/314/110/1108571169846779.webp",
-    "url": "https://www.sas.am/catalog/salfetki/154081/",
-    "key": "SAS|id:154081|670|590"
-   },
    {
     "store": "SAS",
     "title": "Անձեռոցիկ «Selpak» 50հատ",
@@ -6825,12 +6815,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1167817.png",
     "url": "https://yerevan-city.am/shop/product-details/174246",
     "key": "Yerevan City|id:174246|1140|790"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ատամի խոզանակ մանկական «Ֆորամեն» Ֆիշ 2-8 փափուկ",
+    "old": 1140,
+    "new": 960,
+    "pct": 16,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1128329.png",
+    "url": "https://yerevan-city.am/shop/product-details/91365",
+    "key": "Yerevan City|id:91365|1140|960"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-09T08:46:46.867190+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-09T09:04:17.105994+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
