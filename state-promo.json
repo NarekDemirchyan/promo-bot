@@ -2480,22 +2480,12 @@
    "Yerevan City|id:51066|1090|880",
    "Yerevan City|id:51068|1090|880",
    "Yerevan City|id:51069|1090|880",
-   "Yerevan City|id:9642|1150|690"
+   "Yerevan City|id:9642|1150|690",
+   "Yerevan City|id:47812|1150|920"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Մազերի կոնդիցիոներ «OGX Biotin & Collagen» 385մլ",
-    "old": 4190,
-    "new": 3290,
-    "pct": 21,
-    "until": "13.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/balzam_dlya_volos/19133/",
-    "key": "SAS|id:19133|4190|3290"
-   },
    {
     "store": "SAS",
     "title": "Հակաքրտինքային միջոց գնդիկով «Garnier Mineral Весенняя свежесть» 50մլ",
@@ -6875,12 +6865,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1039892.png",
     "url": "https://yerevan-city.am/shop/product-details/9642",
     "key": "Yerevan City|id:9642|1150|690"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շամպուն «Պրելեստ» Բիո վեր.-ամրեց. չոր մազեր 400մ համար 400մլ",
+    "old": 1150,
+    "new": 920,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1105406.png",
+    "url": "https://yerevan-city.am/shop/product-details/47812",
+    "key": "Yerevan City|id:47812|1150|920"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-10T01:02:27.068394+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-10T01:17:01.167991+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
