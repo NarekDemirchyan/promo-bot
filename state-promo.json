@@ -2434,22 +2434,12 @@
    "Yerevan City|id:170330|1140|890",
    "Yerevan City|id:174246|1140|790",
    "Yerevan City|id:91365|1140|960",
-   "Yerevan City|id:99571|1140|1020"
+   "Yerevan City|id:99571|1140|1020",
+   "Yerevan City|id:194396|1120|880"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Անձեռոցիկ «Selpak Premium» 100հատ",
-    "old": 1150,
-    "new": 1050,
-    "pct": 9,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/243/620/6201882213051978.webp",
-    "url": "https://www.sas.am/catalog/salfetki/154076/",
-    "key": "SAS|id:154076|1150|1050"
-   },
    {
     "store": "SAS",
     "title": "Ամենօրյա միջադիրներ «Discreet Normal+Plus» 20հատ",
@@ -6829,12 +6819,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1134996.png",
     "url": "https://yerevan-city.am/shop/product-details/99571",
     "key": "Yerevan City|id:99571|1140|1020"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ատամի մածուկ «Սպլատ» 3-ը 1-ում ամր.սպիտակ. 100գր",
+    "old": 1120,
+    "new": 880,
+    "pct": 21,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178171.png",
+    "url": "https://yerevan-city.am/shop/product-details/194396",
+    "key": "Yerevan City|id:194396|1120|880"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-09T10:02:11.477430+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-09T10:18:49.102878+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
