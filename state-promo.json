@@ -1219,7 +1219,8 @@
    "SAS|id:439372|2250|1590",
    "SAS|id:88529|370|320",
    "SAS|id:192470|3150|2890",
-   "SAS|id:170344|1230|730"
+   "SAS|id:170344|1230|730",
+   "SAS|id:95739|1280|1050"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4656,6 +4657,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/sredstva_dlya_posudy/170344/",
     "key": "SAS|id:170344|1230|730"
+   },
+   {
+    "store": "SAS",
+    "title": "Մակարոն «Barilla Integrale Fusilli» 500գ",
+    "old": 1280,
+    "new": 1050,
+    "pct": 18,
+    "until": "25.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/makaronyy/95739/",
+    "key": "SAS|id:95739|1280|1050"
    }
   ],
   "Yerevan City": [
