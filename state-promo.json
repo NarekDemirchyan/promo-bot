@@ -4651,17 +4651,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Շամպուն «Շաումա» մարակույա յուղ.մ.-չոր ծայր.400մ 400մլ",
-    "old": 1390,
-    "new": 950,
-    "pct": 32,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1141429.png",
-    "url": "https://yerevan-city.am/shop/product-details/108694",
-    "key": "Yerevan City|id:108694|1390|950"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Շամպուն «Շաումա» նուռ-դեղձ, նորմալ մազեր400մլ",
     "old": 1390,
     "new": 950,
@@ -6852,8 +6841,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-09T16:02:38.047306+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-09T16:30:49.630435+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
