@@ -1197,7 +1197,8 @@
    "SAS|id:39598|1640|1290",
    "SAS|id:804386|4090|3690",
    "SAS|id:760319|2550|1760",
-   "SAS|id:760310|2550|1760"
+   "SAS|id:760310|2550|1760",
+   "SAS|id:672236|1680|1420"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4612,6 +4613,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/404/567/5675482469360410.webp",
     "url": "https://www.sas.am/catalog/dlya_volos2/760310/",
     "key": "SAS|id:760310|2550|1760"
+   },
+   {
+    "store": "SAS",
+    "title": "Հակաքրտինքային միջոց «Nivea Fresh» 150մլ",
+    "old": 1680,
+    "new": 1420,
+    "pct": 15,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/antiperspirantt/672236/",
+    "key": "SAS|id:672236|1680|1420"
    }
   ],
   "Yerevan City": [
