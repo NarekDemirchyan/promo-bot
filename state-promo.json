@@ -1218,7 +1218,8 @@
    "SAS|id:513168|1630|1390",
    "SAS|id:439372|2250|1590",
    "SAS|id:88529|370|320",
-   "SAS|id:192470|3150|2890"
+   "SAS|id:192470|3150|2890",
+   "SAS|id:170344|1230|730"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4654,20 +4655,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/uksus/192470/",
     "key": "SAS|id:192470|3150|2890"
+   },
+   {
+    "store": "SAS",
+    "title": "Սպասք լվանալու հեղուկ «Frosch» 500մլ",
+    "old": 1230,
+    "new": 730,
+    "pct": 41,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/sredstva_dlya_posudy/170344/",
+    "key": "SAS|id:170344|1230|730"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Հողաթափ տղամարդու, միքս",
-    "old": 1390,
-    "new": 695,
-    "pct": 50,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1071928.png",
-    "url": "https://yerevan-city.am/shop/product-details/27256",
-    "key": "Yerevan City|id:27256|1390|695"
-   },
    {
     "store": "Yerevan City",
     "title": "Մրգաման «Լանգ Սու» 23սմ ԳՎ001",
@@ -6860,8 +6861,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-09T18:47:13.952001+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-09T19:03:06.432739+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
