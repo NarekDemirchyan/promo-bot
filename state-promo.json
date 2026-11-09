@@ -2420,7 +2420,8 @@
    "Yerevan City|id:166107|1190|690",
    "Yerevan City|id:180006|1150|1090",
    "Yerevan City|id:192151|1150|890",
-   "Yerevan City|id:2784|1140|570"
+   "Yerevan City|id:2784|1140|570",
+   "Yerevan City|id:5818|1140|570"
   ]
  },
  "queues": {
@@ -6815,6 +6816,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1023970.png",
     "url": "https://yerevan-city.am/shop/product-details/2784",
     "key": "Yerevan City|id:2784|1140|570"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մարտկոց «Էներջայզեր» Լիթիում ՑՌ2016 3Վ 1հտ",
+    "old": 1140,
+    "new": 570,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1003610.png",
+    "url": "https://yerevan-city.am/shop/product-details/5818",
+    "key": "Yerevan City|id:5818|1140|570"
    }
   ]
  },
