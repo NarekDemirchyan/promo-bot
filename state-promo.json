@@ -2488,22 +2488,12 @@
    "Yerevan City|id:47812|1150|920",
    "Yerevan City|id:47821|1150|920",
    "Yerevan City|id:7074|1150|690",
-   "Yerevan City|id:176355|1150|690"
+   "Yerevan City|id:176355|1150|690",
+   "Yerevan City|id:162539|1150|1090"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շուշան մարինացված «Իջևան» 700գ",
-    "old": 2690,
-    "new": 2550,
-    "pct": 5,
-    "until": "28.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/213/447/4478322874327590.webp",
-    "url": "https://www.sas.am/catalog/drugie_ovoschnye_konservy/631510/",
-    "key": "SAS|id:631510|2690|2550"
-   },
    {
     "store": "SAS",
     "title": "Բամիա մարինացված «Իջևան» 500գ",
@@ -6883,12 +6873,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169986.png",
     "url": "https://yerevan-city.am/shop/product-details/176355",
     "key": "Yerevan City|id:176355|1150|690"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մարինացված բամիա «Իջևան» 500գր",
+    "old": 1150,
+    "new": 1090,
+    "pct": 5,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1160221.png",
+    "url": "https://yerevan-city.am/shop/product-details/162539",
+    "key": "Yerevan City|id:162539|1150|1090"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-10T03:32:16.824487+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-10T03:46:57.720008+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
