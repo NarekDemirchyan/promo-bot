@@ -2490,17 +2490,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Հակաքրտինքային միջոց գնդիկով «Garnier Mineral Весенняя свежесть» 50մլ",
-    "old": 1420,
-    "new": 1090,
-    "pct": 23,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/antiperspirantt/17650/",
-    "key": "SAS|id:17650|1420|1090"
-   },
-   {
-    "store": "SAS",
     "title": "Հակաքրտինքային աէրոզոլային միջոց «Garnier 6-in-1 Protection» 150մլ",
     "old": 1780,
     "new": 1230,
@@ -6893,8 +6882,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-10T01:34:43.033423+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-10T02:02:23.375459+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
