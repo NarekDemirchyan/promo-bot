@@ -2470,22 +2470,12 @@
    "Yerevan City|id:51042|1090|880",
    "Yerevan City|id:51043|1090|880",
    "Yerevan City|id:170774|1090|630",
-   "Yerevan City|id:51053|1090|880"
+   "Yerevan City|id:51053|1090|880",
+   "Yerevan City|id:166137|1090|590"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Բալզամ-կոնդիցիոներ «Wella Pro Series» 500մլ",
-    "old": 2540,
-    "new": 2190,
-    "pct": 14,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/242/079/0797044256350223.webp",
-    "url": "https://www.sas.am/catalog/balzam_dlya_volos/19212/",
-    "key": "SAS|id:19212|2540|2190"
-   },
    {
     "store": "SAS",
     "title": "Մազերի կոնդիցիոներ «OGX» 385մլ",
@@ -6865,12 +6855,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1100583.png",
     "url": "https://yerevan-city.am/shop/product-details/51053",
     "key": "Yerevan City|id:51053|1090|880"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Դանակ «Դեննի Հոմ» 2կտոր ՀԿ116-1",
+    "old": 1090,
+    "new": 590,
+    "pct": 46,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1161829.png",
+    "url": "https://yerevan-city.am/shop/product-details/166137",
+    "key": "Yerevan City|id:166137|1090|590"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-09T21:32:28.082299+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-09T21:49:35.237446+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
