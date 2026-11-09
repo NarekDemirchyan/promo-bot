@@ -1225,7 +1225,8 @@
    "SAS|id:145236|1290|1050",
    "SAS|id:479579|960|790",
    "SAS|id:230814|120|90",
-   "SAS|id:4216|560|510"
+   "SAS|id:4216|560|510",
+   "SAS|id:169630|240|210"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4668,20 +4669,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/418/380/3803261514182155.webp",
     "url": "https://www.sas.am/catalog/sok/4216/",
     "key": "SAS|id:4216|560|510"
+   },
+   {
+    "store": "SAS",
+    "title": "Գալար սպասք լվանալու «Фрекен Бок» 1 հատ",
+    "old": 240,
+    "new": 210,
+    "pct": 12,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/sredstva_dlya_posudy/169630/",
+    "key": "SAS|id:169630|240|210"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Հոտազերծիչ տղամարդու «Դեոնիկա» անտեսանելի 200մլ",
-    "old": 1390,
-    "new": 1110,
-    "pct": 20,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1069856.png",
-    "url": "https://yerevan-city.am/shop/product-details/14784",
-    "key": "Yerevan City|id:14784|1390|1110"
-   },
    {
     "store": "Yerevan City",
     "title": "Սառնաշաքար փայտ. «Չուպա Չուպս» բաբլ գամ 126գր",
@@ -6874,8 +6875,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-09T23:32:19.090907+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-09T23:47:17.764296+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
