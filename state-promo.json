@@ -1207,7 +1207,8 @@
    "SAS|id:631529|2470|2340",
    "SAS|id:631514|1420|1340",
    "SAS|id:631480|1520|1430",
-   "SAS|id:624382|11100|10300"
+   "SAS|id:624382|11100|10300",
+   "SAS|id:604817|5780|4490"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4632,6 +4633,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/381/970/9709443924303136.webp",
     "url": "https://www.sas.am/catalog/podguzniki/624382/",
     "key": "SAS|id:624382|11100|10300"
+   },
+   {
+    "store": "SAS",
+    "title": "Սափրվելու վրձին «Wilkinson»",
+    "old": 5780,
+    "new": 4490,
+    "pct": 22,
+    "until": "27.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/216/322/3225102941251287.webp",
+    "url": "https://www.sas.am/catalog/balzam_loson_posle_britya/604817/",
+    "key": "SAS|id:604817|5780|4490"
    }
   ],
   "Yerevan City": [
