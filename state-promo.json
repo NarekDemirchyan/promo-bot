@@ -1217,7 +1217,8 @@
    "SAS|id:145207|890|770",
    "SAS|id:513168|1630|1390",
    "SAS|id:439372|2250|1590",
-   "SAS|id:88529|370|320"
+   "SAS|id:88529|370|320",
+   "SAS|id:192470|3150|2890"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4652,6 +4653,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/363/009/0098302414250460.webp",
     "url": "https://www.sas.am/catalog/soapsoap/88529/",
     "key": "SAS|id:88529|370|320"
+   },
+   {
+    "store": "SAS",
+    "title": "Քացախ խնձորի «Ponti Biologico Mele» 0.5լ",
+    "old": 3150,
+    "new": 2890,
+    "pct": 8,
+    "until": "25.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/uksus/192470/",
+    "key": "SAS|id:192470|3150|2890"
    }
   ],
   "Yerevan City": [
