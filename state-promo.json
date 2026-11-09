@@ -2444,7 +2444,8 @@
    "Yerevan City|id:162547|1130|1070",
    "Yerevan City|id:194397|1120|880",
    "Yerevan City|id:4469|1120|950",
-   "Yerevan City|id:154313|1120|960"
+   "Yerevan City|id:154313|1120|960",
+   "Yerevan City|id:29967|1110|555"
   ]
  },
  "queues": {
@@ -6839,6 +6840,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1154366.png",
     "url": "https://yerevan-city.am/shop/product-details/154313",
     "key": "Yerevan City|id:154313|1120|960"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մարտկոց «Էներջայզեր» Մաքս ԱԱ 1.5Վ 2հտ",
+    "old": 1110,
+    "new": 555,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1100757.png",
+    "url": "https://yerevan-city.am/shop/product-details/29967",
+    "key": "Yerevan City|id:29967|1110|555"
    }
   ]
  },
