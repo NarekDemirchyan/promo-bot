@@ -1209,7 +1209,8 @@
    "SAS|id:631480|1520|1430",
    "SAS|id:624382|11100|10300",
    "SAS|id:604817|5780|4490",
-   "SAS|id:601887|1450|1220"
+   "SAS|id:601887|1450|1220",
+   "SAS|id:31629|570|530"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4636,6 +4637,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/176/131/1311012469519308.webp",
     "url": "https://www.sas.am/catalog/antiperspirantt/601887/",
     "key": "SAS|id:601887|1450|1220"
+   },
+   {
+    "store": "SAS",
+    "title": "Հանքային ջուր «Evian» 0.33լ",
+    "old": 570,
+    "new": 530,
+    "pct": 7,
+    "until": "25.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/voda/31629/",
+    "key": "SAS|id:31629|570|530"
    }
   ],
   "Yerevan City": [
