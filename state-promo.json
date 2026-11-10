@@ -2540,22 +2540,12 @@
    "Yerevan City|id:28161|1090|860",
    "Yerevan City|id:7929|1090|620",
    "Yerevan City|id:18462|1090|860",
-   "Yerevan City|id:160113|1080|840"
+   "Yerevan City|id:160113|1080|840",
+   "Yerevan City|id:72929|1080|810"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Տոմատի մածուկ «Իջևան» 200գ",
-    "old": 820,
-    "new": 730,
-    "pct": 11,
-    "until": "28.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/pasta_tomatnaya/547804/",
-    "key": "SAS|id:547804|820|730"
-   },
    {
     "store": "SAS",
     "title": "Պատրաստի նախաճաշ «Nestle Nesquik Mix» 460գ",
@@ -6935,12 +6925,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1157792.png",
     "url": "https://yerevan-city.am/shop/product-details/160113",
     "key": "Yerevan City|id:160113|1080|840"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Պանիր կաթնաշոռային «Սավուշկին» կանաչիով 150գր",
+    "old": 1080,
+    "new": 810,
+    "pct": 25,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1116205.png",
+    "url": "https://yerevan-city.am/shop/product-details/72929",
+    "key": "Yerevan City|id:72929|1080|810"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-10T19:47:20.733312+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-10T20:02:40.252965+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
