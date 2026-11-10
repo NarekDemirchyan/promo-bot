@@ -1251,7 +1251,8 @@
    "SAS|id:31979|8690|7690",
    "SAS|id:6703|7550|6700",
    "SAS|id:31976|8690|7690",
-   "SAS|id:24224|10900|9850"
+   "SAS|id:24224|10900|9850",
+   "SAS|id:24225|5990|5350"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4720,20 +4721,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/201/750/7504662137815441.webp",
     "url": "https://www.sas.am/catalog/armyanskiy_konyak/24224/",
     "key": "SAS|id:24224|10900|9850"
+   },
+   {
+    "store": "SAS",
+    "title": "Բրենդի ծիրանի «Իջևան» 0.5լ",
+    "old": 5990,
+    "new": 5350,
+    "pct": 11,
+    "until": "08.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/armyanskiy_konyak/24225/",
+    "key": "SAS|id:24225|5990|5350"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Ուրոլոգ.միջադիրներ «Տենա Լեդի» Սլիմ, էքստրա 10հտ",
-    "old": 1380,
-    "new": 1210,
-    "pct": 12,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1143999.png",
-    "url": "https://yerevan-city.am/shop/product-details/113642",
-    "key": "Yerevan City|id:113642|1380|1210"
-   },
    {
     "store": "Yerevan City",
     "title": "Պրոտ.կոկտեյլ «Բոմբբար» շոկ.պլոմբիր ա/շ 350մլ",
@@ -6926,8 +6927,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-10T15:47:10.013650+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-10T16:02:50.206319+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
