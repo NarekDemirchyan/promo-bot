@@ -2538,7 +2538,8 @@
    "Yerevan City|id:194736|1090|890",
    "Yerevan City|id:28161|1090|860",
    "Yerevan City|id:7929|1090|620",
-   "Yerevan City|id:18462|1090|860"
+   "Yerevan City|id:18462|1090|860",
+   "Yerevan City|id:160113|1080|840"
   ]
  },
  "queues": {
@@ -6933,6 +6934,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1101562.png",
     "url": "https://yerevan-city.am/shop/product-details/18462",
     "key": "Yerevan City|id:18462|1090|860"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Օճառ «Սեյֆգրդ» դասական 3x90գր",
+    "old": 1080,
+    "new": 840,
+    "pct": 22,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1157792.png",
+    "url": "https://yerevan-city.am/shop/product-details/160113",
+    "key": "Yerevan City|id:160113|1080|840"
    }
   ]
  },
