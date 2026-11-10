@@ -2530,7 +2530,8 @@
    "Yerevan City|id:28152|1090|860",
    "Yerevan City|id:51083|1090|880",
    "Yerevan City|id:194735|1090|890",
-   "Yerevan City|id:50938|1090|720"
+   "Yerevan City|id:50938|1090|720",
+   "Yerevan City|id:194736|1090|890"
   ]
  },
  "queues": {
@@ -6925,6 +6926,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1101560.png",
     "url": "https://yerevan-city.am/shop/product-details/50938",
     "key": "Yerevan City|id:50938|1090|720"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գազ.ըմպելիք «Պեպսի» ա/շ 0.5լ (Չինաստան)",
+    "old": 1090,
+    "new": 890,
+    "pct": 18,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178535.png",
+    "url": "https://yerevan-city.am/shop/product-details/194736",
+    "key": "Yerevan City|id:194736|1090|890"
    }
   ]
  },
