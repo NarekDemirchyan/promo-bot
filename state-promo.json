@@ -2494,7 +2494,8 @@
    "Yerevan City|id:176355|1150|690",
    "Yerevan City|id:162539|1150|1090",
    "Yerevan City|id:85778|1150|650",
-   "Yerevan City|id:192127|1150|800"
+   "Yerevan City|id:192127|1150|800",
+   "Yerevan City|id:8051|1140|990"
   ]
  },
  "queues": {
@@ -6889,6 +6890,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175852.png",
     "url": "https://yerevan-city.am/shop/product-details/192127",
     "key": "Yerevan City|id:192127|1150|800"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ծովաբողկ «Կյուհնե» 250գր",
+    "old": 1140,
+    "new": 990,
+    "pct": 13,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1044793.png",
+    "url": "https://yerevan-city.am/shop/product-details/8051",
+    "key": "Yerevan City|id:8051|1140|990"
    }
   ]
  },
@@ -6903,7 +6915,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 49,
+ "city_page": 50,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
