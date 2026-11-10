@@ -2528,22 +2528,12 @@
    "Yerevan City|id:51081|1090|880",
    "Yerevan City|id:28152|1090|860",
    "Yerevan City|id:51083|1090|880",
-   "Yerevan City|id:194735|1090|890"
+   "Yerevan City|id:194735|1090|890",
+   "Yerevan City|id:50938|1090|720"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շոկոլադե բատոն «Kit Kat» 40գ",
-    "old": 390,
-    "new": 330,
-    "pct": 15,
-    "until": "20.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/batonchik/20625/",
-    "key": "SAS|id:20625|390|330"
-   },
    {
     "store": "SAS",
     "title": "Պուդինգ սպիտակուցային շոկոլադի «Valio Profeel Chocolate» 180գ",
@@ -6923,12 +6913,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178534.png",
     "url": "https://yerevan-city.am/shop/product-details/194735",
     "key": "Yerevan City|id:194735|1090|890"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ջեմ «Մախեև» դեղձի և մանգոյի, ապակե բաժակով 400գր",
+    "old": 1090,
+    "new": 720,
+    "pct": 34,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1101560.png",
+    "url": "https://yerevan-city.am/shop/product-details/50938",
+    "key": "Yerevan City|id:50938|1090|720"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-10T16:02:50.206319+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-10T16:17:05.188036+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
