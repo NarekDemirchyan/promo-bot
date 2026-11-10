@@ -1267,7 +1267,8 @@
    "SAS|id:198226|1090|850",
    "SAS|id:198238|960|750",
    "SAS|id:198236|1090|850",
-   "SAS|id:198218|990|850"
+   "SAS|id:198218|990|850",
+   "SAS|id:2314|3350|2560"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4752,20 +4753,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/listovoy/198218/",
     "key": "SAS|id:198218|990|850"
+   },
+   {
+    "store": "SAS",
+    "title": "Գինի բալի «Իջևան» 0.75լ",
+    "old": 3350,
+    "new": 2560,
+    "pct": 24,
+    "until": "08.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/armyanskoe_vino/2314/",
+    "key": "SAS|id:2314|3350|2560"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Օշարակ «Ռոբինսոնս» 20 դեղձ-գարի ա/շ 1լ",
-    "old": 1290,
-    "new": 645,
-    "pct": 50,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172803.png",
-    "url": "https://yerevan-city.am/shop/product-details/179098",
-    "key": "Yerevan City|id:179098|1290|645"
-   },
    {
     "store": "Yerevan City",
     "title": "Հյութ պար.ըմպելիք «Սանտալ» 10վիտ, կարմիր մրգեր 1",
@@ -6958,8 +6959,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-11T01:47:19.427945+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-11T02:03:07.756843+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
