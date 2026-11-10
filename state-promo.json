@@ -1249,7 +1249,8 @@
    "SAS|id:81390|21400|19200",
    "SAS|id:81440|5490|4890",
    "SAS|id:31979|8690|7690",
-   "SAS|id:6703|7550|6700"
+   "SAS|id:6703|7550|6700",
+   "SAS|id:31976|8690|7690"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4716,6 +4717,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/armyanskoe_vodka/6703/",
     "key": "SAS|id:6703|7550|6700"
+   },
+   {
+    "store": "SAS",
+    "title": "Օղի ծիրանի «Իջևան» 0.5լ",
+    "old": 8690,
+    "new": 7690,
+    "pct": 12,
+    "until": "08.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/armyanskoe_vodka/31976/",
+    "key": "SAS|id:31976|8690|7690"
    }
   ],
   "Yerevan City": [
