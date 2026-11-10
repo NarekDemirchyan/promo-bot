@@ -1237,7 +1237,8 @@
    "SAS|id:6647|5590|4990",
    "SAS|id:2316|2790|2450",
    "SAS|id:29839|8590|7690",
-   "SAS|id:542597|1550|1390"
+   "SAS|id:542597|1550|1390",
+   "SAS|id:80906|14400|12800"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4692,20 +4693,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/liqsoup/542597/",
     "key": "SAS|id:542597|1550|1390"
+   },
+   {
+    "store": "SAS",
+    "title": "Կոնյակ «Հին Իջևան» 0.5լ",
+    "old": 14400,
+    "new": 12800,
+    "pct": 11,
+    "until": "08.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/armyanskiy_konyak/80906/",
+    "key": "SAS|id:80906|14400|12800"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Հոտազերծիչ «Նիվեա» փոշու էֆֆեկտ 150մլ",
-    "old": 1480,
-    "new": 1210,
-    "pct": 18,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1026880.png",
-    "url": "https://yerevan-city.am/shop/product-details/10133",
-    "key": "Yerevan City|id:10133|1480|1210"
-   },
    {
     "store": "Yerevan City",
     "title": "Գազավորված ըմպելիք «Ֆանտա» սպիտակ դեղձ ալ/տ 300մլ",
@@ -6898,8 +6899,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-10T07:02:19.798689+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-10T07:17:09.594463+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
