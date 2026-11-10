@@ -2556,22 +2556,12 @@
    "Yerevan City|id:160115|1080|840",
    "Yerevan City|id:180416|1080|780",
    "Yerevan City|id:192204|1080|790",
-   "Yerevan City|id:166105|1190|890"
+   "Yerevan City|id:166105|1190|890",
+   "Yerevan City|id:75902|1190|650"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շիլա վարսակի «Nestle Быстров» 240գ",
-    "old": 1330,
-    "new": 990,
-    "pct": 26,
-    "until": "20.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/kasha_myusli/62749/",
-    "key": "SAS|id:62749|1330|990"
-   },
    {
     "store": "SAS",
     "title": "Պուդինգ սպիտակուցային վանիլի և բեզեի «Valio Profeel Vanilla & Meringue» 180գ",
@@ -6951,12 +6941,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1161797.png",
     "url": "https://yerevan-city.am/shop/product-details/166105",
     "key": "Yerevan City|id:166105|1190|890"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տակդիր գրտնակելու համար «Դեննի Հոմ» սիլիկոնե 28x38սմ ԴՀ0596",
+    "old": 1190,
+    "new": 650,
+    "pct": 45,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1118867.png",
+    "url": "https://yerevan-city.am/shop/product-details/75902",
+    "key": "Yerevan City|id:75902|1190|650"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-11T00:47:07.374129+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-11T01:02:35.188534+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
