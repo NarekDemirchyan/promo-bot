@@ -2562,17 +2562,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Սուրճ լուծվող «Jacobs Monarch» 190գ",
-    "old": 7190,
-    "new": 4550,
-    "pct": 37,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/rastvorimyy_kofe/83006/",
-    "key": "SAS|id:83006|7190|4550"
-   },
-   {
-    "store": "SAS",
     "title": "Շիլա վարսակի «Nestle Быстров» 240գ",
     "old": 1330,
     "new": 990,
@@ -6965,8 +6954,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-11T00:04:27.823269+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-11T00:32:30.112698+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
