@@ -2570,17 +2570,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Աղանդեր սպիտակուցային վանիլի և մանգոյի համով «Valio Profeel Mango & Vanilla» 175գ",
-    "old": 880,
-    "new": 790,
-    "pct": 10,
-    "until": "13.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/yogurt_puding/913224/",
-    "key": "SAS|id:913224|880|790"
-   },
-   {
-    "store": "SAS",
     "title": "Սրճային ըմպելիք լուծվող «Jacobs Cappuccino Choco Milka» 500գ",
     "old": 3420,
     "new": 2940,
@@ -6973,8 +6962,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-11T03:03:16.498320+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-11T03:20:56.051492+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
