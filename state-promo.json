@@ -2496,22 +2496,12 @@
    "Yerevan City|id:162539|1150|1090",
    "Yerevan City|id:85778|1150|650",
    "Yerevan City|id:192127|1150|800",
-   "Yerevan City|id:8051|1140|990"
+   "Yerevan City|id:8051|1140|990",
+   "Yerevan City|id:92084|1090|860"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սուրճ լուծվող «Jacobs Latte 3 in 1» 13գ",
-    "old": 100,
-    "new": 80,
-    "pct": 20,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/rastvorimyy_kofe/82959/",
-    "key": "SAS|id:82959|100|80"
-   },
    {
     "store": "SAS",
     "title": "Սուրճ լուծվող «Jacobs Orginal 3 in 1» 12գ",
@@ -6891,12 +6881,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1044793.png",
     "url": "https://yerevan-city.am/shop/product-details/8051",
     "key": "Yerevan City|id:8051|1140|990"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ջեմ «Մախեև» հապալասի, ապակե բաժակով 400գր",
+    "old": 1090,
+    "new": 860,
+    "pct": 21,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1129003.png",
+    "url": "https://yerevan-city.am/shop/product-details/92084",
+    "key": "Yerevan City|id:92084|1090|860"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-10T06:02:21.052536+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-10T06:17:00.030820+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
