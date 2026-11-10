@@ -2514,17 +2514,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Ըմպելիք սպիտակուցային ելակի «Valio Profeel Strawberry» 250մլ",
-    "old": 1000,
-    "new": 940,
-    "pct": 6,
-    "until": "13.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/slivki_kokteyl/935011/",
-    "key": "SAS|id:935011|1000|940"
-   },
-   {
-    "store": "SAS",
     "title": "Մուրաբա ընկույզի «Իջևան» 600գ",
     "old": 2470,
     "new": 2340,
@@ -6917,8 +6906,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-10T09:05:15.231759+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-10T09:32:18.081598+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
