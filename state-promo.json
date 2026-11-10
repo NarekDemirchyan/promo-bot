@@ -2542,17 +2542,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Թեյ կանաչ «Curtis Fresh Mojito» 20*1.7գ",
-    "old": 720,
-    "new": 490,
-    "pct": 32,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/v_paketakh/8113/",
-    "key": "SAS|id:8113|720|490"
-   },
-   {
-    "store": "SAS",
     "title": "Կորդոն բլյու խոզապուխտով և պանրով «Միրատորգ» 405գ",
     "old": 2550,
     "new": 2280,
@@ -6945,8 +6934,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-10T17:49:35.382809+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-10T18:17:03.641980+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
