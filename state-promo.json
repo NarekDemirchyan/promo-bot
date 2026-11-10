@@ -1262,7 +1262,8 @@
    "SAS|id:29843|5250|4690",
    "SAS|id:29838|9230|8200",
    "SAS|id:6646|3350|2560",
-   "SAS|id:198225|960|750"
+   "SAS|id:198225|960|750",
+   "SAS|id:198220|960|750"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4742,20 +4743,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/322/147/147076579273341.webp",
     "url": "https://www.sas.am/catalog/v_paketakh/198225/",
     "key": "SAS|id:198225|960|750"
+   },
+   {
+    "store": "SAS",
+    "title": "Թեյ սև «Greenfield Classic Breakfast» 25*1.5գ",
+    "old": 960,
+    "new": 750,
+    "pct": 22,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/v_paketakh/198220/",
+    "key": "SAS|id:198220|960|750"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Տրանսֆորմեր 668-1",
-    "old": 1290,
-    "new": 900,
-    "pct": 30,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175497.png",
-    "url": "https://yerevan-city.am/shop/product-details/191771",
-    "key": "Yerevan City|id:191771|1290|900"
-   },
    {
     "store": "Yerevan City",
     "title": "Ձեռքի հովացուցիչ «Սպիդա» ՍՊԴ-ՄՆՖ55",
@@ -6948,8 +6949,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-10T22:32:17.678153+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-10T22:49:40.855557+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
