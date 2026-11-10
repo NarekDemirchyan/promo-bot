@@ -2522,17 +2522,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Լապշա պանրի և կարբոնարայի «Chibi Carbonara Cheese Splash» 85գ",
-    "old": 520,
-    "new": 400,
-    "pct": 23,
-    "until": "28.01.2027",
-    "img": "",
-    "url": "https://www.sas.am/catalog/vermishel_lapsha2/945967/",
-    "key": "SAS|id:945967|520|400"
-   },
-   {
-    "store": "SAS",
     "title": "Խինկալի «Գյուրջյան Ֆիրմային» 800գ",
     "old": 2290,
     "new": 1990,
@@ -6925,8 +6914,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-10T11:34:41.215712+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-10T12:02:29.181166+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
