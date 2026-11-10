@@ -2560,7 +2560,8 @@
    "Yerevan City|id:192204|1080|790",
    "Yerevan City|id:166105|1190|890",
    "Yerevan City|id:75902|1190|650",
-   "Yerevan City|id:165951|1190|790"
+   "Yerevan City|id:165951|1190|790",
+   "Yerevan City|id:174163|1190|710"
   ]
  },
  "queues": {
@@ -6955,6 +6956,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1161641.png",
     "url": "https://yerevan-city.am/shop/product-details/165951",
     "key": "Yerevan City|id:165951|1190|790"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թևնոց պատրաստելու հավաքածու ԼԴ6516",
+    "old": 1190,
+    "new": 710,
+    "pct": 40,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1167762.png",
+    "url": "https://yerevan-city.am/shop/product-details/174163",
+    "key": "Yerevan City|id:174163|1190|710"
    }
   ]
  },
