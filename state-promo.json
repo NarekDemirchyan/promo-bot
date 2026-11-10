@@ -2562,7 +2562,8 @@
    "Yerevan City|id:166105|1190|890",
    "Yerevan City|id:75902|1190|650",
    "Yerevan City|id:165951|1190|790",
-   "Yerevan City|id:174163|1190|710"
+   "Yerevan City|id:174163|1190|710",
+   "Yerevan City|id:175466|1190|590"
   ]
  },
  "queues": {
@@ -6957,6 +6958,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1167762.png",
     "url": "https://yerevan-city.am/shop/product-details/174163",
     "key": "Yerevan City|id:174163|1190|710"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Պիցցայի դանակ «Դեննի Հոմ» ԴՀ3384",
+    "old": 1190,
+    "new": 590,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169059.png",
+    "url": "https://yerevan-city.am/shop/product-details/175466",
+    "key": "Yerevan City|id:175466|1190|590"
    }
   ]
  },
