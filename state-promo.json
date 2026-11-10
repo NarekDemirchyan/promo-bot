@@ -2554,17 +2554,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Թեյ կանաչ «Ahmad Tea» 25*2գ",
-    "old": 870,
-    "new": 570,
-    "pct": 34,
-    "until": "20.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/v_paketakh/198014/",
-    "key": "SAS|id:198014|870|570"
-   },
-   {
-    "store": "SAS",
     "title": "Պատիճ սուրճի «Lavazza Qualita Oro» 10հատ, 55գ",
     "old": 3290,
     "new": 2590,
@@ -6957,8 +6946,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-10T21:34:40.397427+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-10T22:02:30.797178+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
