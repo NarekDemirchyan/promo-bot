@@ -2516,22 +2516,12 @@
    "Yerevan City|id:51072|1090|880",
    "Yerevan City|id:51075|1090|880",
    "Yerevan City|id:51078|1090|880",
-   "Yerevan City|id:51079|1090|880"
+   "Yerevan City|id:51079|1090|880",
+   "Yerevan City|id:166136|1090|590"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Խինկալի «Գյուրջյան Ֆիրմային» 800գ",
-    "old": 2290,
-    "new": 1990,
-    "pct": 13,
-    "until": "13.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/varenik_khinkali/195156/",
-    "key": "SAS|id:195156|2290|1990"
-   },
    {
     "store": "SAS",
     "title": "Սուրճ լուծվող «Nescafe Classic» 150գ",
@@ -6911,12 +6901,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1100570.png",
     "url": "https://yerevan-city.am/shop/product-details/51079",
     "key": "Yerevan City|id:51079|1090|880"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Դանակ «Դեննի Հոմ» 2կտոր ՀԿ034-1",
+    "old": 1090,
+    "new": 590,
+    "pct": 46,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1161828.png",
+    "url": "https://yerevan-city.am/shop/product-details/166136",
+    "key": "Yerevan City|id:166136|1090|590"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-10T12:17:25.509630+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-10T12:32:19.745392+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
