@@ -1238,7 +1238,8 @@
    "SAS|id:2316|2790|2450",
    "SAS|id:29839|8590|7690",
    "SAS|id:542597|1550|1390",
-   "SAS|id:80906|14400|12800"
+   "SAS|id:80906|14400|12800",
+   "SAS|id:944389|4900|4490"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4694,20 +4695,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/armyanskiy_konyak/80906/",
     "key": "SAS|id:80906|14400|12800"
+   },
+   {
+    "store": "SAS",
+    "title": "Փրփրուն գինի «Լուսարև Սան Դեյ Պետ-Նատ Արենի» 0.75լ",
+    "old": 4900,
+    "new": 4490,
+    "pct": 8,
+    "until": "08.01.2027",
+    "img": "https://www.sas.am/upload/Sh/imageCache/159/328/3285342255973066.webp",
+    "url": "https://www.sas.am/catalog/shampanskoe_igristoe_vino/944389/",
+    "key": "SAS|id:944389|4900|4490"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Գազավորված ըմպելիք «Ֆանտա» սպիտակ դեղձ ալ/տ 300մլ",
-    "old": 1490,
-    "new": 1090,
-    "pct": 27,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1159773.png",
-    "url": "https://yerevan-city.am/shop/product-details/161993",
-    "key": "Yerevan City|id:161993|1490|1090"
-   },
    {
     "store": "Yerevan City",
     "title": "Հոտազերծիչ «Նիվեա» նուրբ խնամք, վարդագույն 150մլ",
@@ -6900,8 +6901,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-10T07:32:10.366429+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-10T07:49:38.381948+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
