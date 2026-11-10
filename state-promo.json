@@ -2542,7 +2542,8 @@
    "Yerevan City|id:7929|1090|620",
    "Yerevan City|id:18462|1090|860",
    "Yerevan City|id:160113|1080|840",
-   "Yerevan City|id:72929|1080|810"
+   "Yerevan City|id:72929|1080|810",
+   "Yerevan City|id:72930|1080|810"
   ]
  },
  "queues": {
@@ -6937,6 +6938,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1116205.png",
     "url": "https://yerevan-city.am/shop/product-details/72929",
     "key": "Yerevan City|id:72929|1080|810"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Պանիր կաթնաշոռային «Սավուշկին» սերուցքային 150գր",
+    "old": 1080,
+    "new": 810,
+    "pct": 25,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1116204.png",
+    "url": "https://yerevan-city.am/shop/product-details/72930",
+    "key": "Yerevan City|id:72930|1080|810"
    }
   ]
  },
