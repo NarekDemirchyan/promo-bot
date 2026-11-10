@@ -1232,7 +1232,8 @@
    "SAS|id:5530|2680|2280",
    "SAS|id:81441|6690|5990",
    "SAS|id:2315|3350|2560",
-   "SAS|id:2317|3090|2790"
+   "SAS|id:2317|3090|2790",
+   "SAS|id:2312|3090|2790"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4682,20 +4683,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/armyanskoe_vino/2317/",
     "key": "SAS|id:2317|3090|2790"
+   },
+   {
+    "store": "SAS",
+    "title": "Գինի սպիտակ «Իջևան» 0.75լ",
+    "old": 3090,
+    "new": 2790,
+    "pct": 10,
+    "until": "08.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/armyanskoe_vino/2312/",
+    "key": "SAS|id:2312|3090|2790"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Զեֆիր «Գուանդի» մինի, վանիլային 200գր",
-    "old": 1490,
-    "new": 890,
-    "pct": 40,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1112479.png",
-    "url": "https://yerevan-city.am/shop/product-details/66634",
-    "key": "Yerevan City|id:66634|1490|890"
-   },
    {
     "store": "Yerevan City",
     "title": "Զեֆիր «Գուանդի» շոկոլադ և վանիլ 200գր",
@@ -6888,8 +6889,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-10T03:46:57.720008+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-10T04:04:26.020393+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
