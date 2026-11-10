@@ -2566,17 +2566,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Պուդինգ սպիտակուցային վանիլի և բեզեի «Valio Profeel Vanilla & Meringue» 180գ",
-    "old": 920,
-    "new": 790,
-    "pct": 14,
-    "until": "13.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/yogurt_puding/913222/",
-    "key": "SAS|id:913222|920|790"
-   },
-   {
-    "store": "SAS",
     "title": "Լապշա տավարի «Chibi Chicken» 60գ",
     "old": 180,
     "new": 140,
@@ -6969,8 +6958,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-11T01:19:39.180313+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-11T01:47:19.427945+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
