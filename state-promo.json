@@ -2498,17 +2498,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Բամիա մարինացված «Իջևան» 500գ",
-    "old": 1320,
-    "new": 1240,
-    "pct": 6,
-    "until": "28.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/226/477/4775932519919510.webp",
-    "url": "https://www.sas.am/catalog/drugie_ovoschnye_konservy/631509/",
-    "key": "SAS|id:631509|1320|1240"
-   },
-   {
-    "store": "SAS",
     "title": "Սուրճ լուծվող «Jacobs Milka» 18գ",
     "old": 240,
     "new": 175,
@@ -6901,8 +6890,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-10T04:04:26.020393+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-10T04:32:11.957120+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
