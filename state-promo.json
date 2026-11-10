@@ -2534,7 +2534,8 @@
    "Yerevan City|id:194735|1090|890",
    "Yerevan City|id:50938|1090|720",
    "Yerevan City|id:194736|1090|890",
-   "Yerevan City|id:28161|1090|860"
+   "Yerevan City|id:28161|1090|860",
+   "Yerevan City|id:7929|1090|620"
   ]
  },
  "queues": {
@@ -6929,6 +6930,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1101558.png",
     "url": "https://yerevan-city.am/shop/product-details/28161",
     "key": "Yerevan City|id:28161|1090|860"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մայոնեզ «Մախեև» պրովանսալ 820մլ",
+    "old": 1090,
+    "new": 620,
+    "pct": 43,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1048556.png",
+    "url": "https://yerevan-city.am/shop/product-details/7929",
+    "key": "Yerevan City|id:7929|1090|620"
    }
   ]
  },
