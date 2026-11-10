@@ -2508,22 +2508,12 @@
    "Yerevan City|id:51070|1090|880",
    "Yerevan City|id:50947|1090|860",
    "Yerevan City|id:87884|1090|550",
-   "Yerevan City|id:51071|1090|880"
+   "Yerevan City|id:51071|1090|880",
+   "Yerevan City|id:51072|1090|880"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Մուրաբա ընկույզի «Իջևան» 600գ",
-    "old": 2470,
-    "new": 2340,
-    "pct": 5,
-    "until": "28.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/203/169/169065280258642.webp",
-    "url": "https://www.sas.am/catalog/varene/631530/",
-    "key": "SAS|id:631530|2470|2340"
-   },
    {
     "store": "SAS",
     "title": "Շոկոլադե սալիկ վաֆլիով «Kit Kat King Size» 45գ",
@@ -6903,12 +6893,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1100561.png",
     "url": "https://yerevan-city.am/shop/product-details/51071",
     "key": "Yerevan City|id:51071|1090|880"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ներկ մազերի համար «Լոնդա Քոլոր» 4/77 ոսկե շագանակ",
+    "old": 1090,
+    "new": 880,
+    "pct": 19,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1100562.png",
+    "url": "https://yerevan-city.am/shop/product-details/51072",
+    "key": "Yerevan City|id:51072|1090|880"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-10T09:47:19.638482+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-10T10:02:24.948704+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
