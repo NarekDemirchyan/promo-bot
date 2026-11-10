@@ -2550,7 +2550,8 @@
    "Yerevan City|id:72930|1080|810",
    "Yerevan City|id:86719|1080|810",
    "Yerevan City|id:108625|1080|860",
-   "Yerevan City|id:160115|1080|840"
+   "Yerevan City|id:160115|1080|840",
+   "Yerevan City|id:180416|1080|780"
   ]
  },
  "queues": {
@@ -6945,6 +6946,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1157793.png",
     "url": "https://yerevan-city.am/shop/product-details/160115",
     "key": "Yerevan City|id:160115|1080|840"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թխվածքաբլիթ «Չոկո Փայ» ձմերուկ 12հտ 360գր",
+    "old": 1080,
+    "new": 780,
+    "pct": 28,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174126.png",
+    "url": "https://yerevan-city.am/shop/product-details/180416",
+    "key": "Yerevan City|id:180416|1080|780"
    }
   ]
  },
