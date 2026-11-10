@@ -1264,7 +1264,8 @@
    "SAS|id:6646|3350|2560",
    "SAS|id:198225|960|750",
    "SAS|id:198220|960|750",
-   "SAS|id:198226|1090|850"
+   "SAS|id:198226|1090|850",
+   "SAS|id:198238|960|750"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4746,20 +4747,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/listovoy/198226/",
     "key": "SAS|id:198226|1090|850"
+   },
+   {
+    "store": "SAS",
+    "title": "Թեյ սև «Greenfield Golden Ceylon» 25*2գ",
+    "old": 960,
+    "new": 750,
+    "pct": 22,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/v_paketakh/198238/",
+    "key": "SAS|id:198238|960|750"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Սայրա «Տրալ Ֆլոտ» յուղով 240գր",
-    "old": 1290,
-    "new": 645,
-    "pct": 50,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1084021.png",
-    "url": "https://yerevan-city.am/shop/product-details/12445",
-    "key": "Yerevan City|id:12445|1290|645"
-   },
    {
     "store": "Yerevan City",
     "title": "Հյութ «Սանտալ» խնձոր 1լ",
@@ -6952,8 +6953,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-10T23:47:05.569447+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-11T00:04:27.823269+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
