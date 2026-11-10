@@ -2490,7 +2490,8 @@
    "Yerevan City|id:47821|1150|920",
    "Yerevan City|id:7074|1150|690",
    "Yerevan City|id:176355|1150|690",
-   "Yerevan City|id:162539|1150|1090"
+   "Yerevan City|id:162539|1150|1090",
+   "Yerevan City|id:85778|1150|650"
   ]
  },
  "queues": {
@@ -6885,6 +6886,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1160221.png",
     "url": "https://yerevan-city.am/shop/product-details/162539",
     "key": "Yerevan City|id:162539|1150|1090"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Աքցան «Դեննի Հոմ» սիլիկոնե ԴՀ2516",
+    "old": 1150,
+    "new": 650,
+    "pct": 43,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1124317.png",
+    "url": "https://yerevan-city.am/shop/product-details/85778",
+    "key": "Yerevan City|id:85778|1150|650"
    }
   ]
  },
