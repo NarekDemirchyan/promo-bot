@@ -2538,17 +2538,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Պուդինգ սպիտակուցային շոկոլադի «Valio Profeel Chocolate» 180գ",
-    "old": 930,
-    "new": 790,
-    "pct": 15,
-    "until": "13.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/yogurt_puding/913221/",
-    "key": "SAS|id:913221|930|790"
-   },
-   {
-    "store": "SAS",
     "title": "Մուրաբա ազնվամորու «Իջևան» 600գ",
     "old": 2470,
     "new": 2340,
@@ -6941,8 +6930,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-10T16:34:21.260375+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-10T17:02:45.381486+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
