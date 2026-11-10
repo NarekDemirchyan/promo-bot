@@ -2502,17 +2502,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Պատրաստի նախաճաշ «Kit Kat» 330գ",
-    "old": 2790,
-    "new": 2170,
-    "pct": 22,
-    "until": "20.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/gotovyy_zavtrak/517919/",
-    "key": "SAS|id:517919|2790|2170"
-   },
-   {
-    "store": "SAS",
     "title": "Սուրճ լուծվող «Jacobs Latte 3 in 1» 13գ",
     "old": 100,
     "new": 80,
@@ -6905,8 +6894,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-10T05:19:59.302537+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-10T05:46:58.145131+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
