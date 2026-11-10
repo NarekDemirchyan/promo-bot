@@ -2530,17 +2530,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Լապշա հավի «Chibi Chicken» 85գ",
-    "old": 590,
-    "new": 450,
-    "pct": 24,
-    "until": "28.01.2027",
-    "img": "",
-    "url": "https://www.sas.am/catalog/vermishel_lapsha2/927939/",
-    "key": "SAS|id:927939|590|450"
-   },
-   {
-    "store": "SAS",
     "title": "Լապշա պանրի «Chibi Mac'n'Cheese» 85գ",
     "old": 520,
     "new": 400,
@@ -6933,8 +6922,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-10T14:04:54.224328+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-10T14:27:57.432707+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
