@@ -2504,22 +2504,12 @@
    "Yerevan City|id:92084|1090|860",
    "Yerevan City|id:91669|1090|590",
    "Yerevan City|id:51070|1090|880",
-   "Yerevan City|id:50947|1090|860"
+   "Yerevan City|id:50947|1090|860",
+   "Yerevan City|id:87884|1090|550"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սուրճ լուծվող «Jacobs Gold» 95գ",
-    "old": 3870,
-    "new": 2350,
-    "pct": 39,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/rastvorimyy_kofe/82971/",
-    "key": "SAS|id:82971|3870|2350"
-   },
    {
     "store": "SAS",
     "title": "Ըմպելիք սպիտակուցային ելակի «Valio Profeel Strawberry» 250մլ",
@@ -6899,12 +6889,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1101566.png",
     "url": "https://yerevan-city.am/shop/product-details/50947",
     "key": "Yerevan City|id:50947|1090|860"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Աքցան «Դեննի Հոմ» պլաստմասե 3հտ ԴՀ2139",
+    "old": 1090,
+    "new": 550,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1125425.png",
+    "url": "https://yerevan-city.am/shop/product-details/87884",
+    "key": "Yerevan City|id:87884|1090|550"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-10T08:32:16.877906+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-10T08:47:00.401254+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
