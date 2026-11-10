@@ -1244,7 +1244,8 @@
    "SAS|id:841350|4900|4490",
    "SAS|id:556059|4390|4050",
    "SAS|id:264308|4890|4490",
-   "SAS|id:264307|4890|4490"
+   "SAS|id:264307|4890|4490",
+   "SAS|id:81468|33600|29900"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4706,20 +4707,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/armyanskoe_vino/264307/",
     "key": "SAS|id:264307|4890|4490"
+   },
+   {
+    "store": "SAS",
+    "title": "Կոնյակ «Իջևան Նեմրութ» 0.5լ",
+    "old": 33600,
+    "new": 29900,
+    "pct": 11,
+    "until": "08.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/armyanskiy_konyak/81468/",
+    "key": "SAS|id:81468|33600|29900"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Հոտազերծիչ «Նիվեա» թարմ.զգացում 150մլ",
-    "old": 1480,
-    "new": 1210,
-    "pct": 18,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1163759.png",
-    "url": "https://yerevan-city.am/shop/product-details/170030",
-    "key": "Yerevan City|id:170030|1480|1210"
-   },
    {
     "store": "Yerevan City",
     "title": "Հոտազերծիչ «Նիվեա» դերմա հսկողություն 150մլ",
@@ -6912,8 +6913,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-10T11:17:03.640741+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-10T11:34:41.215712+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
