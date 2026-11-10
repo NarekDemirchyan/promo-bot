@@ -2558,7 +2558,8 @@
    "Yerevan City|id:180416|1080|780",
    "Yerevan City|id:192204|1080|790",
    "Yerevan City|id:166105|1190|890",
-   "Yerevan City|id:75902|1190|650"
+   "Yerevan City|id:75902|1190|650",
+   "Yerevan City|id:165951|1190|790"
   ]
  },
  "queues": {
@@ -6953,6 +6954,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1118867.png",
     "url": "https://yerevan-city.am/shop/product-details/75902",
     "key": "Yerevan City|id:75902|1190|650"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գրաֆին «Դեննի Հոմ» 1լ 1988-190",
+    "old": 1190,
+    "new": 790,
+    "pct": 34,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1161641.png",
+    "url": "https://yerevan-city.am/shop/product-details/165951",
+    "key": "Yerevan City|id:165951|1190|790"
    }
   ]
  },
