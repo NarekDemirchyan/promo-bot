@@ -2548,22 +2548,12 @@
    "Yerevan City|id:72929|1080|810",
    "Yerevan City|id:72930|1080|810",
    "Yerevan City|id:86719|1080|810",
-   "Yerevan City|id:108625|1080|860"
+   "Yerevan City|id:108625|1080|860",
+   "Yerevan City|id:160115|1080|840"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Պատիճ սուրճի «Lavazza Qualita Oro» 10հատ, 55գ",
-    "old": 3290,
-    "new": 2590,
-    "pct": 21,
-    "until": "13.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/drugoy/851316/",
-    "key": "SAS|id:851316|3290|2590"
-   },
    {
     "store": "SAS",
     "title": "Եգիպտացորենի փաթիլներ «Nestle Хрутка» 270գ",
@@ -6943,12 +6933,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1141361.png",
     "url": "https://yerevan-city.am/shop/product-details/108625",
     "key": "Yerevan City|id:108625|1080|860"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Օճառ «Սեյֆգրդ» հալվե 3x90գր",
+    "old": 1080,
+    "new": 840,
+    "pct": 22,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1157793.png",
+    "url": "https://yerevan-city.am/shop/product-details/160115",
+    "key": "Yerevan City|id:160115|1080|840"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-10T22:17:04.430084+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-10T22:32:17.678153+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
