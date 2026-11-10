@@ -1256,7 +1256,8 @@
    "SAS|id:31977|8690|7690",
    "SAS|id:32264|8590|7690",
    "SAS|id:2318|2970|2690",
-   "SAS|id:2311|2970|2690"
+   "SAS|id:2311|2970|2690",
+   "SAS|id:2313|3350|2560"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4730,20 +4731,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/armyanskoe_vino/2311/",
     "key": "SAS|id:2311|2970|2690"
+   },
+   {
+    "store": "SAS",
+    "title": "Գինի մոշի «Իջևան» 0.75լ",
+    "old": 3350,
+    "new": 2560,
+    "pct": 24,
+    "until": "08.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/armyanskoe_vino/2313/",
+    "key": "SAS|id:2313|3350|2560"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Գլխարկ հովարով միքս",
-    "old": 1290,
-    "new": 495,
-    "pct": 62,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1008787.png",
-    "url": "https://yerevan-city.am/shop/product-details/109205",
-    "key": "Yerevan City|id:109205|1290|495"
-   },
    {
     "store": "Yerevan City",
     "title": "Նեկտար «Սանտալ» Պլյուս, դեղձ-մանգո 1լ",
@@ -6936,8 +6937,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-10T18:47:06.084047+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-10T19:04:59.356202+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
