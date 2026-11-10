@@ -2498,7 +2498,8 @@
    "Yerevan City|id:85778|1150|650",
    "Yerevan City|id:192127|1150|800",
    "Yerevan City|id:8051|1140|990",
-   "Yerevan City|id:92084|1090|860"
+   "Yerevan City|id:92084|1090|860",
+   "Yerevan City|id:91669|1090|590"
   ]
  },
  "queues": {
@@ -6893,6 +6894,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1129003.png",
     "url": "https://yerevan-city.am/shop/product-details/92084",
     "key": "Yerevan City|id:92084|1090|860"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տարա ձեթի «Դ.Հոմ» սիլիկոնե խոզանակով ԴՀ0235",
+    "old": 1090,
+    "new": 590,
+    "pct": 46,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1128612.png",
+    "url": "https://yerevan-city.am/shop/product-details/91669",
+    "key": "Yerevan City|id:91669|1090|590"
    }
   ]
  },
