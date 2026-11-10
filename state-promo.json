@@ -2510,17 +2510,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Կարագ սերուցքային «Valio» 200գ, յուղայնությունը` 82",
-    "old": 1520,
-    "new": 1390,
-    "pct": 9,
-    "until": "13.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/288/666/6663702416040469.webp",
-    "url": "https://www.sas.am/catalog/slivochnoe_maslo/3383/",
-    "key": "SAS|id:3383|1520|1390"
-   },
-   {
-    "store": "SAS",
     "title": "Սուրճ լուծվող «Jacobs Gold» 95գ",
     "old": 3870,
     "new": 2350,
@@ -6913,8 +6902,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-10T07:49:38.381948+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-10T08:17:03.797504+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
