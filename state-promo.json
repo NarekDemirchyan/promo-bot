@@ -1261,7 +1261,8 @@
    "SAS|id:6648|3690|3290",
    "SAS|id:29843|5250|4690",
    "SAS|id:29838|9230|8200",
-   "SAS|id:6646|3350|2560"
+   "SAS|id:6646|3350|2560",
+   "SAS|id:198225|960|750"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4740,6 +4741,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/armyanskoe_vino/6646/",
     "key": "SAS|id:6646|3350|2560"
+   },
+   {
+    "store": "SAS",
+    "title": "Թեյ սև «Greenfield Earl Grey Fantasy» 25*2գ",
+    "old": 960,
+    "new": 750,
+    "pct": 22,
+    "until": "27.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/322/147/147076579273341.webp",
+    "url": "https://www.sas.am/catalog/v_paketakh/198225/",
+    "key": "SAS|id:198225|960|750"
    }
   ],
   "Yerevan City": [
