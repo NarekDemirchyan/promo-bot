@@ -2546,7 +2546,8 @@
    "Yerevan City|id:160113|1080|840",
    "Yerevan City|id:72929|1080|810",
    "Yerevan City|id:72930|1080|810",
-   "Yerevan City|id:86719|1080|810"
+   "Yerevan City|id:86719|1080|810",
+   "Yerevan City|id:108625|1080|860"
   ]
  },
  "queues": {
@@ -6941,6 +6942,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1124561.png",
     "url": "https://yerevan-city.am/shop/product-details/86719",
     "key": "Yerevan City|id:86719|1080|810"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Վաֆլե տորթ «Ստեպ» չամիչ, գետնանուշ-կարամել 200գր",
+    "old": 1080,
+    "new": 860,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1141361.png",
+    "url": "https://yerevan-city.am/shop/product-details/108625",
+    "key": "Yerevan City|id:108625|1080|860"
    }
   ]
  },
