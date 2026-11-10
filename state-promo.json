@@ -2520,22 +2520,12 @@
    "Yerevan City|id:51078|1090|880",
    "Yerevan City|id:51079|1090|880",
    "Yerevan City|id:166136|1090|590",
-   "Yerevan City|id:51080|1090|880"
+   "Yerevan City|id:51080|1090|880",
+   "Yerevan City|id:51081|1090|880"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Լապշա հավի կծու «Chibi Chicken» 60գ",
-    "old": 180,
-    "new": 140,
-    "pct": 22,
-    "until": "28.01.2027",
-    "img": "",
-    "url": "https://www.sas.am/catalog/vermishel_lapsha2/927946/",
-    "key": "SAS|id:927946|180|140"
-   },
    {
     "store": "SAS",
     "title": "Լապշա հավի «Chibi Chicken» 85գ",
@@ -6915,12 +6905,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1100571.png",
     "url": "https://yerevan-city.am/shop/product-details/51080",
     "key": "Yerevan City|id:51080|1090|880"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մազի ներկ «Լոնդա Քոլոր» 8/13 միջին շիկահեր",
+    "old": 1090,
+    "new": 880,
+    "pct": 19,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1100572.png",
+    "url": "https://yerevan-city.am/shop/product-details/51081",
+    "key": "Yerevan City|id:51081|1090|880"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-10T13:32:17.382214+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-10T13:47:04.029374+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
