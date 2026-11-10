@@ -1235,7 +1235,8 @@
    "SAS|id:2317|3090|2790",
    "SAS|id:2312|3090|2790",
    "SAS|id:6647|5590|4990",
-   "SAS|id:2316|2790|2450"
+   "SAS|id:2316|2790|2450",
+   "SAS|id:29839|8590|7690"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4688,20 +4689,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/208/314/3144344135704518.webp",
     "url": "https://www.sas.am/catalog/armyanskoe_vino/2316/",
     "key": "SAS|id:2316|2790|2450"
+   },
+   {
+    "store": "SAS",
+    "title": "Գինի սպիտակ «Իջևան Մխիթար Գոշ» 0.75լ",
+    "old": 8590,
+    "new": 7690,
+    "pct": 10,
+    "until": "08.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/armyanskoe_vino/29839/",
+    "key": "SAS|id:29839|8590|7690"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Շոկ.սալիկ «Մր.Բիսթ» Ֆեսթեյբլս, կաթ.շոկ.-կար 60գր",
-    "old": 1490,
-    "new": 1090,
-    "pct": 27,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175019.png",
-    "url": "https://yerevan-city.am/shop/product-details/181301",
-    "key": "Yerevan City|id:181301|1490|1090"
-   },
    {
     "store": "Yerevan City",
     "title": "Վաֆլե ձողիկներ «Լագո» Փլեյսիր, անտ.ընկ.կրեմ 100գր",
@@ -6894,8 +6895,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-10T05:46:58.145131+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-10T06:02:21.052536+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
