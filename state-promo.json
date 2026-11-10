@@ -1258,7 +1258,8 @@
    "SAS|id:2318|2970|2690",
    "SAS|id:2311|2970|2690",
    "SAS|id:2313|3350|2560",
-   "SAS|id:6648|3690|3290"
+   "SAS|id:6648|3690|3290",
+   "SAS|id:29843|5250|4690"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4734,20 +4735,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/323/893/8938993283855252.webp",
     "url": "https://www.sas.am/catalog/armyanskoe_vino/6648/",
     "key": "SAS|id:6648|3690|3290"
+   },
+   {
+    "store": "SAS",
+    "title": "Գինի սպիտակ «Իջևան Սարգոն» 0.75լ",
+    "old": 5250,
+    "new": 4690,
+    "pct": 11,
+    "until": "08.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/armyanskoe_vino/29843/",
+    "key": "SAS|id:29843|5250|4690"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Նեկտար «Սանտալ» բանան 1լ",
-    "old": 1290,
-    "new": 990,
-    "pct": 23,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1052482.png",
-    "url": "https://yerevan-city.am/shop/product-details/2911",
-    "key": "Yerevan City|id:2911|1290|990"
-   },
    {
     "store": "Yerevan City",
     "title": "Տետրիս ՖՅ03Ա",
@@ -6940,8 +6941,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-10T20:02:40.252965+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-10T20:19:39.271799+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
