@@ -2558,17 +2558,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Եգիպտացորենի փաթիլներ «Nestle Хрутка» 270գ",
-    "old": 860,
-    "new": 760,
-    "pct": 12,
-    "until": "20.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/khlopya_gerkules/841182/",
-    "key": "SAS|id:841182|860|760"
-   },
-   {
-    "store": "SAS",
     "title": "Թեյ սև «Ahmad Earl Grey Tea» 100գ",
     "old": 1420,
     "new": 920,
@@ -6961,8 +6950,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-10T22:49:40.855557+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-10T23:18:16.550814+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
