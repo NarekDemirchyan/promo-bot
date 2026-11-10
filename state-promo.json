@@ -2550,17 +2550,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Պատրաստի նախաճաշ «Nestle Nesquik Mix» 460գ",
-    "old": 2460,
-    "new": 1950,
-    "pct": 21,
-    "until": "20.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/204/085/0852011898473395.webp",
-    "url": "https://www.sas.am/catalog/gotovyy_zavtrak/442337/",
-    "key": "SAS|id:442337|2460|1950"
-   },
-   {
-    "store": "SAS",
     "title": "Թեյ սև «Curtis Very Berry» 20*1.7գ",
     "old": 720,
     "new": 490,
@@ -6953,8 +6942,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-10T20:19:39.271799+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-10T20:47:04.895770+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
