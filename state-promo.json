@@ -1263,7 +1263,8 @@
    "SAS|id:29838|9230|8200",
    "SAS|id:6646|3350|2560",
    "SAS|id:198225|960|750",
-   "SAS|id:198220|960|750"
+   "SAS|id:198220|960|750",
+   "SAS|id:198226|1090|850"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4744,20 +4745,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/v_paketakh/198220/",
     "key": "SAS|id:198220|960|750"
+   },
+   {
+    "store": "SAS",
+    "title": "Թեյ սև «Greenfield Earl Grey Fantasy» 100գ",
+    "old": 1090,
+    "new": 850,
+    "pct": 22,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/listovoy/198226/",
+    "key": "SAS|id:198226|1090|850"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Ձեռքի հովացուցիչ «Սպիդա» ՍՊԴ-ՄՆՖ55",
-    "old": 1290,
-    "new": 990,
-    "pct": 23,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176891.png",
-    "url": "https://yerevan-city.am/shop/product-details/193134",
-    "key": "Yerevan City|id:193134|1290|990"
-   },
    {
     "store": "Yerevan City",
     "title": "Սայրա «Տրալ Ֆլոտ» յուղով 240գր",
@@ -6950,8 +6951,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-10T23:18:16.550814+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-10T23:32:17.561332+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
