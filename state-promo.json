@@ -2506,7 +2506,8 @@
    "Yerevan City|id:91669|1090|590",
    "Yerevan City|id:51070|1090|880",
    "Yerevan City|id:50947|1090|860",
-   "Yerevan City|id:87884|1090|550"
+   "Yerevan City|id:87884|1090|550",
+   "Yerevan City|id:51071|1090|880"
   ]
  },
  "queues": {
@@ -6901,6 +6902,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1125425.png",
     "url": "https://yerevan-city.am/shop/product-details/87884",
     "key": "Yerevan City|id:87884|1090|550"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մազի ներկ «Լոնդա Քոլոր» 4/1 մուգ մոխրագույն",
+    "old": 1090,
+    "new": 880,
+    "pct": 19,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1100561.png",
+    "url": "https://yerevan-city.am/shop/product-details/51071",
+    "key": "Yerevan City|id:51071|1090|880"
    }
   ]
  },
