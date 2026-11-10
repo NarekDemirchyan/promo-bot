@@ -2554,7 +2554,8 @@
    "Yerevan City|id:108625|1080|860",
    "Yerevan City|id:160115|1080|840",
    "Yerevan City|id:180416|1080|780",
-   "Yerevan City|id:192204|1080|790"
+   "Yerevan City|id:192204|1080|790",
+   "Yerevan City|id:166105|1190|890"
   ]
  },
  "queues": {
@@ -6949,6 +6950,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175911.png",
     "url": "https://yerevan-city.am/shop/product-details/192204",
     "key": "Yerevan City|id:192204|1080|790"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Չիպս «Դորիտոս» պանիր նաչո 110գր",
+    "old": 1190,
+    "new": 890,
+    "pct": 25,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1161797.png",
+    "url": "https://yerevan-city.am/shop/product-details/166105",
+    "key": "Yerevan City|id:166105|1190|890"
    }
   ]
  },
