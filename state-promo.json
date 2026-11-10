@@ -2510,7 +2510,8 @@
    "Yerevan City|id:50947|1090|860",
    "Yerevan City|id:87884|1090|550",
    "Yerevan City|id:51071|1090|880",
-   "Yerevan City|id:51072|1090|880"
+   "Yerevan City|id:51072|1090|880",
+   "Yerevan City|id:51075|1090|880"
   ]
  },
  "queues": {
@@ -6905,6 +6906,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1100562.png",
     "url": "https://yerevan-city.am/shop/product-details/51072",
     "key": "Yerevan City|id:51072|1090|880"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ներկ մազերի համար «Լոնդա Քոլոր» 6/03 բաց շատեն",
+    "old": 1090,
+    "new": 880,
+    "pct": 19,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1100566.png",
+    "url": "https://yerevan-city.am/shop/product-details/51075",
+    "key": "Yerevan City|id:51075|1090|880"
    }
   ]
  },
