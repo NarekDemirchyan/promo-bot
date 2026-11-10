@@ -1246,7 +1246,8 @@
    "SAS|id:264308|4890|4490",
    "SAS|id:264307|4890|4490",
    "SAS|id:81468|33600|29900",
-   "SAS|id:81390|21400|19200"
+   "SAS|id:81390|21400|19200",
+   "SAS|id:81440|5490|4890"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4710,20 +4711,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/armyanskiy_konyak/81390/",
     "key": "SAS|id:81390|21400|19200"
+   },
+   {
+    "store": "SAS",
+    "title": "Կոնյակ «Իջևան» 0.5լ",
+    "old": 5490,
+    "new": 4890,
+    "pct": 11,
+    "until": "08.01.2027",
+    "img": "https://www.sas.am/upload/Sh/imageCache/264/472/47264995169265.webp",
+    "url": "https://www.sas.am/catalog/armyanskiy_konyak/81440/",
+    "key": "SAS|id:81440|5490|4890"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Փրփուր սափրվելու համար «Ժիլետ» օրիգինալ 200մլ",
-    "old": 1480,
-    "new": 1340,
-    "pct": 9,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1139428.png",
-    "url": "https://yerevan-city.am/shop/product-details/106278",
-    "key": "Yerevan City|id:106278|1480|1340"
-   },
    {
     "store": "Yerevan City",
     "title": "Շոգեխաշած տավարի միս «Բայազետ» բացիչով 550գր",
@@ -6916,8 +6917,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-10T12:32:19.745392+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-10T12:49:40.133098+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
