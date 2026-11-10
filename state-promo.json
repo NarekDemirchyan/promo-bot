@@ -2502,7 +2502,8 @@
    "Yerevan City|id:8051|1140|990",
    "Yerevan City|id:92084|1090|860",
    "Yerevan City|id:91669|1090|590",
-   "Yerevan City|id:51070|1090|880"
+   "Yerevan City|id:51070|1090|880",
+   "Yerevan City|id:50947|1090|860"
   ]
  },
  "queues": {
@@ -6897,6 +6898,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1100559.png",
     "url": "https://yerevan-city.am/shop/product-details/51070",
     "key": "Yerevan City|id:51070|1090|880"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ջեմ «Մախեև» անտառային հատապտուղների, ա/բ 400գր",
+    "old": 1090,
+    "new": 860,
+    "pct": 21,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1101566.png",
+    "url": "https://yerevan-city.am/shop/product-details/50947",
+    "key": "Yerevan City|id:50947|1090|860"
    }
   ]
  },
