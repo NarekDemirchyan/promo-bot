@@ -2532,22 +2532,12 @@
    "Yerevan City|id:51083|1090|880",
    "Yerevan City|id:194735|1090|890",
    "Yerevan City|id:50938|1090|720",
-   "Yerevan City|id:194736|1090|890"
+   "Yerevan City|id:194736|1090|890",
+   "Yerevan City|id:28161|1090|860"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Մուրաբա ազնվամորու «Իջևան» 600գ",
-    "old": 2470,
-    "new": 2340,
-    "pct": 5,
-    "until": "28.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/331/535/5352183656746324.webp",
-    "url": "https://www.sas.am/catalog/varene/669525/",
-    "key": "SAS|id:669525|2470|2340"
-   },
    {
     "store": "SAS",
     "title": "Թեյ կանաչ «Curtis Fresh Mojito» 20*1.7գ",
@@ -6927,12 +6917,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178535.png",
     "url": "https://yerevan-city.am/shop/product-details/194736",
     "key": "Yerevan City|id:194736|1090|890"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ջեմ «Մախեև» ելակի, ապակե բաժակով 400գր",
+    "old": 1090,
+    "new": 860,
+    "pct": 21,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1101558.png",
+    "url": "https://yerevan-city.am/shop/product-details/28161",
+    "key": "Yerevan City|id:28161|1090|860"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-10T17:17:25.896702+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-10T17:32:20.351617+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
