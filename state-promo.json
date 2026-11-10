@@ -2522,7 +2522,8 @@
    "Yerevan City|id:51079|1090|880",
    "Yerevan City|id:166136|1090|590",
    "Yerevan City|id:51080|1090|880",
-   "Yerevan City|id:51081|1090|880"
+   "Yerevan City|id:51081|1090|880",
+   "Yerevan City|id:28152|1090|860"
   ]
  },
  "queues": {
@@ -6917,6 +6918,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1100572.png",
     "url": "https://yerevan-city.am/shop/product-details/51081",
     "key": "Yerevan City|id:51081|1090|880"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ջեմ «Մախեև» ազնվամորու, ապակե բաժակով 400գր",
+    "old": 1090,
+    "new": 860,
+    "pct": 21,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1101559.png",
+    "url": "https://yerevan-city.am/shop/product-details/28152",
+    "key": "Yerevan City|id:28152|1090|860"
    }
   ]
  },
