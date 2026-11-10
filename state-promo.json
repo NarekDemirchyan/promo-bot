@@ -2552,22 +2552,12 @@
    "Yerevan City|id:86719|1080|810",
    "Yerevan City|id:108625|1080|860",
    "Yerevan City|id:160115|1080|840",
-   "Yerevan City|id:180416|1080|780"
+   "Yerevan City|id:180416|1080|780",
+   "Yerevan City|id:192204|1080|790"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Թեյ սև «Ahmad Earl Grey Tea» 100գ",
-    "old": 1420,
-    "new": 920,
-    "pct": 35,
-    "until": "20.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/120/647/6474111274249955.webp",
-    "url": "https://www.sas.am/catalog/listovoy/197936/",
-    "key": "SAS|id:197936|1420|920"
-   },
    {
     "store": "SAS",
     "title": "Սուրճ լուծվող «Jacobs Monarch» 190գ",
@@ -6947,12 +6937,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174126.png",
     "url": "https://yerevan-city.am/shop/product-details/180416",
     "key": "Yerevan City|id:180416|1080|780"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թխվածքաբլիթ «Չոկո Փայ» մատչա 12հտ 360գր",
+    "old": 1080,
+    "new": 790,
+    "pct": 27,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175911.png",
+    "url": "https://yerevan-city.am/shop/product-details/192204",
+    "key": "Yerevan City|id:192204|1080|790"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-10T23:32:17.561332+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-10T23:47:05.569447+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
