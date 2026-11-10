@@ -1257,7 +1257,8 @@
    "SAS|id:32264|8590|7690",
    "SAS|id:2318|2970|2690",
    "SAS|id:2311|2970|2690",
-   "SAS|id:2313|3350|2560"
+   "SAS|id:2313|3350|2560",
+   "SAS|id:6648|3690|3290"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4732,20 +4733,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/armyanskoe_vino/2313/",
     "key": "SAS|id:2313|3350|2560"
+   },
+   {
+    "store": "SAS",
+    "title": "Գինի վարդագույն «Իջևան Վարդ» 0.75լ",
+    "old": 3690,
+    "new": 3290,
+    "pct": 11,
+    "until": "08.01.2027",
+    "img": "https://www.sas.am/upload/Sh/imageCache/323/893/8938993283855252.webp",
+    "url": "https://www.sas.am/catalog/armyanskoe_vino/6648/",
+    "key": "SAS|id:6648|3690|3290"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Նեկտար «Սանտալ» Պլյուս, դեղձ-մանգո 1լ",
-    "old": 1290,
-    "new": 990,
-    "pct": 23,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1044544.png",
-    "url": "https://yerevan-city.am/shop/product-details/2839",
-    "key": "Yerevan City|id:2839|1290|990"
-   },
    {
     "store": "Yerevan City",
     "title": "Նեկտար «Սանտալ» բանան 1լ",
@@ -6938,8 +6939,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-10T19:32:24.788628+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-10T19:47:20.733312+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
