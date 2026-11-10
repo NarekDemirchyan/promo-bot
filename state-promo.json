@@ -1253,7 +1253,8 @@
    "SAS|id:31976|8690|7690",
    "SAS|id:24224|10900|9850",
    "SAS|id:24225|5990|5350",
-   "SAS|id:31977|8690|7690"
+   "SAS|id:31977|8690|7690",
+   "SAS|id:32264|8590|7690"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4724,20 +4725,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/armyanskoe_vodka/31977/",
     "key": "SAS|id:31977|8690|7690"
+   },
+   {
+    "store": "SAS",
+    "title": "Օղի նռան «Իջևան» 0.5լ",
+    "old": 8590,
+    "new": 7690,
+    "pct": 10,
+    "until": "08.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/armyanskoe_vodka/32264/",
+    "key": "SAS|id:32264|8590|7690"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Պրոտ.կոկտեյլ «Բոմբբար» վանիլ.պաղպաղակ ա/շ 350մլ",
-    "old": 1375,
-    "new": 1090,
-    "pct": 21,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174843.png",
-    "url": "https://yerevan-city.am/shop/product-details/181113",
-    "key": "Yerevan City|id:181113|1375|1090"
-   },
    {
     "store": "Yerevan City",
     "title": "Պրոտ.կոկտեյլ «Բոմբբար» ելակի պաղ. ա/շ 350մլ",
@@ -6930,8 +6931,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-10T17:02:45.381486+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-10T17:17:25.896702+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
