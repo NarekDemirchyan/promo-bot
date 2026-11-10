@@ -2512,22 +2512,12 @@
    "Yerevan City|id:87884|1090|550",
    "Yerevan City|id:51071|1090|880",
    "Yerevan City|id:51072|1090|880",
-   "Yerevan City|id:51075|1090|880"
+   "Yerevan City|id:51075|1090|880",
+   "Yerevan City|id:51078|1090|880"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սուրճ լուծվող «Nescafe Gold» 160գ",
-    "old": 4590,
-    "new": 3720,
-    "pct": 19,
-    "until": "20.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/rastvorimyy_kofe/960141/",
-    "key": "SAS|id:960141|4590|3720"
-   },
    {
     "store": "SAS",
     "title": "Լապշա պանրի և կարբոնարայի «Chibi Carbonara Cheese Splash» 85գ",
@@ -6907,12 +6897,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1100566.png",
     "url": "https://yerevan-city.am/shop/product-details/51075",
     "key": "Yerevan City|id:51075|1090|880"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մազի ներկ «Լոնդա Քոլոր» 6/73 շոկոլադե-դարչնագույն",
+    "old": 1090,
+    "new": 880,
+    "pct": 19,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1100568.png",
+    "url": "https://yerevan-city.am/shop/product-details/51078",
+    "key": "Yerevan City|id:51078|1090|880"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-10T11:02:31.716872+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-10T11:17:03.640741+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
