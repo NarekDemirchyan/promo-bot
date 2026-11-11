@@ -2630,17 +2630,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Զովացուցիչ գազավորված ըմպելիք բալի մաստակի «Chupa Chups» 345մլ",
-    "old": 980,
-    "new": 490,
-    "pct": 50,
-    "until": "16.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/osvezhayushchiy_napitok/482378/",
-    "key": "SAS|id:482378|980|490"
-   },
-   {
-    "store": "SAS",
     "title": "Զուգարանի թուղթ «Zewa cashmere Deluxe» դեղձի բույրով 8 հատ",
     "old": 2620,
     "new": 2080,
@@ -7033,8 +7022,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-11T21:50:07.596112+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-11T22:17:11.009612+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
