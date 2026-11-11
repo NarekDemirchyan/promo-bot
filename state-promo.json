@@ -1304,7 +1304,8 @@
    "SAS|id:208448|1990|1440",
    "SAS|id:35686|1990|1680",
    "SAS|id:676172|15990|12700",
-   "SAS|id:655491|5990|5350"
+   "SAS|id:655491|5990|5350",
+   "SAS|id:956510|3350|2340"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2633,7 +2634,8 @@
    "Yerevan City|id:177654|1050|945",
    "Yerevan City|id:162519|1080|1020",
    "Yerevan City|id:162520|1080|1020",
-   "Yerevan City|id:162521|1080|1020"
+   "Yerevan City|id:162521|1080|1020",
+   "Yerevan City|id:162525|1080|1020"
   ]
  },
  "queues": {
@@ -4826,6 +4828,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/armyanskoe_vino/655491/",
     "key": "SAS|id:655491|5990|5350"
+   },
+   {
+    "store": "SAS",
+    "title": "Ելակ կաթնային շոկոլադով «Schofrulade» 130գ",
+    "old": 3350,
+    "new": 2340,
+    "pct": 30,
+    "until": "30.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/frukty_ovoshchi_yagody/956510/",
+    "key": "SAS|id:956510|3350|2340"
    }
   ],
   "Yerevan City": [
@@ -7017,6 +7030,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1160182.png",
     "url": "https://yerevan-city.am/shop/product-details/162521",
     "key": "Yerevan City|id:162521|1080|1020"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կոմպոտ «Իջևան» խառնուրդ 1լ",
+    "old": 1080,
+    "new": 1020,
+    "pct": 6,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1160188.png",
+    "url": "https://yerevan-city.am/shop/product-details/162525",
+    "key": "Yerevan City|id:162525|1080|1020"
    }
   ]
  },
