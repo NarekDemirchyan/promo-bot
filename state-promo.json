@@ -2590,22 +2590,12 @@
    "Yerevan City|id:128366|1180|1060",
    "Yerevan City|id:11388|1170|585",
    "Yerevan City|id:1037|1170|820",
-   "Yerevan City|id:6314|1170|585"
+   "Yerevan City|id:6314|1170|585",
+   "Yerevan City|id:106618|1160|930"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Թղթե սրբիչ «Zewa Extra Lang» 2 հատ",
-    "old": 2390,
-    "new": 2050,
-    "pct": 14,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/bum_polotentsa/140567/",
-    "key": "SAS|id:140567|2390|2050"
-   },
    {
     "store": "SAS",
     "title": "Սուրճ լուծվող «Nescafe Classic Crema» 100գ",
@@ -6985,12 +6975,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1000705.png",
     "url": "https://yerevan-city.am/shop/product-details/6314",
     "key": "Yerevan City|id:6314|1170|585"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Միջադիրներ «Լիբրես» Նատուրալ, Ռեգուլյար+ 2x10հտ",
+    "old": 1160,
+    "new": 930,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1139607.png",
+    "url": "https://yerevan-city.am/shop/product-details/106618",
+    "key": "Yerevan City|id:106618|1160|930"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-11T12:32:18.761443+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-11T12:47:10.324356+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
