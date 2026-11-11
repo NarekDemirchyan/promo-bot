@@ -2618,17 +2618,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Զուգարանի թուղթ «Zewa Deluxe Delicate Care» 32 հատ",
-    "old": 6990,
-    "new": 5930,
-    "pct": 15,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/305/787/7874233061352635.webp",
-    "url": "https://www.sas.am/catalog/tualetnaya_bumaga/858436/",
-    "key": "SAS|id:858436|6990|5930"
-   },
-   {
-    "store": "SAS",
     "title": "Կանաչ ոլոռ «Bonduelle» 400գ",
     "old": 1040,
     "new": 790,
@@ -7021,8 +7010,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-11T18:02:56.858454+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-11T18:31:28.446289+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
