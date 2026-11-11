@@ -2604,22 +2604,12 @@
    "Yerevan City|id:4369|1150|950",
    "Yerevan City|id:115533|1150|850",
    "Yerevan City|id:8763|1150|690",
-   "Yerevan City|id:23406|1140|1040"
+   "Yerevan City|id:23406|1140|1040",
+   "Yerevan City|id:1314|1090|970"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Յոգուրտ սպիտակուցային «YoPro Plain Triple Zero» 150գ",
-    "old": 2290,
-    "new": 1150,
-    "pct": 50,
-    "until": "16.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/yogurt_puding/971187/",
-    "key": "SAS|id:971187|2290|1150"
-   },
    {
     "store": "SAS",
     "title": "Զուգարանի թուղթ խոնավ «Zewa Sensitive» 80 հատ",
@@ -6999,12 +6989,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1039071.png",
     "url": "https://yerevan-city.am/shop/product-details/23406",
     "key": "Yerevan City|id:23406|1140|1040"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Խաղողի տերև «Արտֆուդ» 640գր",
+    "old": 1090,
+    "new": 970,
+    "pct": 11,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1054211.png",
+    "url": "https://yerevan-city.am/shop/product-details/1314",
+    "key": "Yerevan City|id:1314|1090|970"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-11T16:16:14.582719+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-11T16:31:29.030237+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
