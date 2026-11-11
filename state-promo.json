@@ -1281,7 +1281,8 @@
    "SAS|id:884504|22990|18300",
    "SAS|id:855631|6310|5890",
    "SAS|id:855584|7450|6990",
-   "SAS|id:6684|1050|890"
+   "SAS|id:6684|1050|890",
+   "SAS|id:792716|4370|3570"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4780,20 +4781,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/tualetnaya_bumaga/6684/",
     "key": "SAS|id:6684|1050|890"
+   },
+   {
+    "store": "SAS",
+    "title": "Գինի սպիտակ «Alamos Chardonnay» 0.75լ",
+    "old": 4370,
+    "new": 3570,
+    "pct": 18,
+    "until": "30.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/import_vino/792716/",
+    "key": "SAS|id:792716|4370|3570"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Խաղաքարտեր «Ունո» Ուրախ խաղ 108հտ Վ2087",
-    "old": 1290,
-    "new": 770,
-    "pct": 40,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1013538.png",
-    "url": "https://yerevan-city.am/shop/product-details/27680",
-    "key": "Yerevan City|id:27680|1290|770"
-   },
    {
     "store": "Yerevan City",
     "title": "Թխվածքաբլիթ «Միլկա» ԻքսԼ, շոկոլադի կտորներով 184գր",
@@ -6986,8 +6987,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-11T11:32:11.553207+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-11T11:47:16.446102+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
