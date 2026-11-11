@@ -2582,17 +2582,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Լոբի կարմիր «Bonduelle» 400գ",
-    "old": 850,
-    "new": 690,
-    "pct": 19,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/goroshek/193109/",
-    "key": "SAS|id:193109|850|690"
-   },
-   {
-    "store": "SAS",
     "title": "Եգիպտացորեն «Bonduelle» 340գ",
     "old": 820,
     "new": 670,
@@ -6985,8 +6974,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-11T07:19:01.994749+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-11T07:47:07.740771+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
