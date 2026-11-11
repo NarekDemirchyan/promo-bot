@@ -2634,17 +2634,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Լոբի սպիտակ տոմատի սոուսում «Bonduelle» 400գ",
-    "old": 770,
-    "new": 630,
-    "pct": 18,
-    "until": "31.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/947/847/8477971115335301.webp",
-    "url": "https://www.sas.am/catalog/goroshek/193042/",
-    "key": "SAS|id:193042|770|630"
-   },
-   {
-    "store": "SAS",
     "title": "Սպասք լվացող մեքենայի կոնդիցիոներ «Finish Powerball» 450մլ",
     "old": 2680,
     "new": 2350,
@@ -7037,8 +7026,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-11T23:04:44.122616+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-11T23:32:23.519519+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
