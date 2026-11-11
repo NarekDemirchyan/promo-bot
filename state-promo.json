@@ -1300,7 +1300,8 @@
    "SAS|id:173918|1080|920",
    "SAS|id:98292|4990|3590",
    "SAS|id:513762|990|830",
-   "SAS|id:513761|990|830"
+   "SAS|id:513761|990|830",
+   "SAS|id:208448|1990|1440"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4818,20 +4819,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/644/983/9832431021627331.webp",
     "url": "https://www.sas.am/catalog/showergell/513761/",
     "key": "SAS|id:513761|990|830"
+   },
+   {
+    "store": "SAS",
+    "title": "Ատամի խոզանակ «Lacalut Aktiv»",
+    "old": 1990,
+    "new": 1440,
+    "pct": 28,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/shchetka_zubnaya/208448/",
+    "key": "SAS|id:208448|1990|1440"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Վաֆլի վանիլային «Գուլլոն» առանց շաքար 180գր",
-    "old": 1280,
-    "new": 1020,
-    "pct": 20,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1043711.png",
-    "url": "https://yerevan-city.am/shop/product-details/13969",
-    "key": "Yerevan City|id:13969|1280|1020"
-   },
    {
     "store": "Yerevan City",
     "title": "Մարինացված լոլիկ «Իջևան» 900գր",
@@ -7024,8 +7025,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-11T22:47:05.749553+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-11T23:04:44.122616+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
