@@ -2628,22 +2628,12 @@
    "Yerevan City|id:174911|1060|790",
    "Yerevan City|id:4160|1060|790",
    "Yerevan City|id:4380|1050|690",
-   "Yerevan City|id:177654|1050|945"
+   "Yerevan City|id:177654|1050|945",
+   "Yerevan City|id:162519|1080|1020"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սպասք լվացող մեքենայի կոնդիցիոներ «Finish Powerball» 450մլ",
-    "old": 2680,
-    "new": 2350,
-    "pct": 12,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/dishwasherdetergent/46884/",
-    "key": "SAS|id:46884|2680|2350"
-   },
    {
     "store": "SAS",
     "title": "Ըմպելիք կարմիր նարնջի «Zuegg Intenso Arancia Rossa» 1000մլ",
@@ -7023,12 +7013,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1171325.png",
     "url": "https://yerevan-city.am/shop/product-details/177654",
     "key": "Yerevan City|id:177654|1050|945"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կոմպոտ «Իջևան» հոնի 1լ",
+    "old": 1080,
+    "new": 1020,
+    "pct": 6,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1160179.png",
+    "url": "https://yerevan-city.am/shop/product-details/162519",
+    "key": "Yerevan City|id:162519|1080|1020"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-11T23:47:11.657170+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-12T00:02:30.483122+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
