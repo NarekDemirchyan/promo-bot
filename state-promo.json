@@ -2592,22 +2592,12 @@
    "Yerevan City|id:11388|1170|585",
    "Yerevan City|id:1037|1170|820",
    "Yerevan City|id:6314|1170|585",
-   "Yerevan City|id:106618|1160|930"
+   "Yerevan City|id:106618|1160|930",
+   "Yerevan City|id:14206|1160|1050"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սուրճ լուծվող «Nescafe Classic Crema» 100գ",
-    "old": 2890,
-    "new": 2150,
-    "pct": 26,
-    "until": "20.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/rastvorimyy_kofe/7109/",
-    "key": "SAS|id:7109|2890|2150"
-   },
    {
     "store": "SAS",
     "title": "Հակաքրտինքային աէրոզոլային միջոց «Nivea Эффект пудры» 150մլ",
@@ -6987,12 +6977,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1139607.png",
     "url": "https://yerevan-city.am/shop/product-details/106618",
     "key": "Yerevan City|id:106618|1160|930"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մարինացված բամիա «Արտֆուդ» 650գր",
+    "old": 1160,
+    "new": 1050,
+    "pct": 9,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1051275.png",
+    "url": "https://yerevan-city.am/shop/product-details/14206",
+    "key": "Yerevan City|id:14206|1160|1050"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-11T13:02:24.943564+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-11T13:17:12.646316+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
