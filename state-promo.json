@@ -2568,22 +2568,12 @@
    "Yerevan City|id:174163|1190|710",
    "Yerevan City|id:175466|1190|590",
    "Yerevan City|id:194746|1190|990",
-   "Yerevan City|id:91901|1190|1090"
+   "Yerevan City|id:91901|1190|1090",
+   "Yerevan City|id:191625|1190|690"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սուրճ լուծվող «Nescafe Gold» 130գ",
-    "old": 4050,
-    "new": 3090,
-    "pct": 24,
-    "until": "20.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/rastvorimyy_kofe/3083/",
-    "key": "SAS|id:3083|4050|3090"
-   },
    {
     "store": "SAS",
     "title": "Լապշա հավի «Chibi Chicken» 60գ",
@@ -6963,12 +6953,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1128838.png",
     "url": "https://yerevan-city.am/shop/product-details/91901",
     "key": "Yerevan City|id:91901|1190|1090"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Վիսկիի բաժակներ «Իսֆահան» Քարին 280մլ 6հտ 338",
+    "old": 1190,
+    "new": 690,
+    "pct": 42,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175345.png",
+    "url": "https://yerevan-city.am/shop/product-details/191625",
+    "key": "Yerevan City|id:191625|1190|690"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-11T05:17:08.145032+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-11T05:32:16.758901+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
