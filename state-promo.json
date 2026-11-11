@@ -2614,7 +2614,8 @@
    "Yerevan City|id:175846|1090|930",
    "Yerevan City|id:17353|1090|930",
    "Yerevan City|id:86726|1090|810",
-   "Yerevan City|id:175850|1080|980"
+   "Yerevan City|id:175850|1080|980",
+   "Yerevan City|id:7798|1070|960"
   ]
  },
  "queues": {
@@ -7009,6 +7010,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169480.png",
     "url": "https://yerevan-city.am/shop/product-details/175850",
     "key": "Yerevan City|id:175850|1080|980"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մարինացված բանջարեղեն «Արտֆուդ» աշնանային 1000մլ",
+    "old": 1070,
+    "new": 960,
+    "pct": 10,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1037311.png",
+    "url": "https://yerevan-city.am/shop/product-details/7798",
+    "key": "Yerevan City|id:7798|1070|960"
    }
   ]
  },
