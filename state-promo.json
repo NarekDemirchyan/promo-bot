@@ -1271,7 +1271,8 @@
    "SAS|id:2314|3350|2560",
    "SAS|id:30700|2250|1990",
    "SAS|id:29841|4590|4190",
-   "SAS|id:29837|3350|2990"
+   "SAS|id:29837|3350|2990",
+   "SAS|id:944379|200|170"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4760,6 +4761,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/212/287/2879684194923867.webp",
     "url": "https://www.sas.am/catalog/armyanskoe_vino/29837/",
     "key": "SAS|id:29837|3350|2990"
+   },
+   {
+    "store": "SAS",
+    "title": "Սրճային ըմպելիք լուծվող «Jardin Cappuccino» 18գ",
+    "old": 200,
+    "new": 170,
+    "pct": 15,
+    "until": "27.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/334/933/93393344285794.webp",
+    "url": "https://www.sas.am/catalog/rastvorimyy_kofe/944379/",
+    "key": "SAS|id:944379|200|170"
    }
   ],
   "Yerevan City": [
