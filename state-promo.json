@@ -2594,17 +2594,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Սպասք լվացող մեքենայի պատիճներ «Finish Powerball Quantum All IN 1» 36 հատ",
-    "old": 6650,
-    "new": 5590,
-    "pct": 16,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/dishwasherdetergent/499314/",
-    "key": "SAS|id:499314|6650|5590"
-   },
-   {
-    "store": "SAS",
     "title": "Անձեռոցիկ «Zewa Deluxe Design» 90 հատ",
     "old": 890,
     "new": 770,
@@ -6997,8 +6986,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-11T11:05:03.761849+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-11T11:32:11.553207+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
