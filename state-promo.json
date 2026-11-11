@@ -1278,7 +1278,8 @@
    "SAS|id:731246|9990|8990",
    "SAS|id:681145|115900|105900",
    "SAS|id:884506|17900|14190",
-   "SAS|id:884504|22990|18300"
+   "SAS|id:884504|22990|18300",
+   "SAS|id:855631|6310|5890"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4774,20 +4775,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/importnoe/884504/",
     "key": "SAS|id:884504|22990|18300"
+   },
+   {
+    "store": "SAS",
+    "title": "Օղի «Архангельская Выдержанная» 0.5լ",
+    "old": 6310,
+    "new": 5890,
+    "pct": 7,
+    "until": "30.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/259/845/8451203029153455.webp",
+    "url": "https://www.sas.am/catalog/importnoe/855631/",
+    "key": "SAS|id:855631|6310|5890"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Կափարիչ մետաղական «Խուտորյանկա» 50հտ",
-    "old": 1290,
-    "new": 850,
-    "pct": 34,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1057469.png",
-    "url": "https://yerevan-city.am/shop/product-details/141278",
-    "key": "Yerevan City|id:141278|1290|850"
-   },
    {
     "store": "Yerevan City",
     "title": "Աղանդեր պրոտ. «Ֆիթ Կիթ» էսք.պիստակ-կուն.ա/շ 50գր",
@@ -6980,8 +6981,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-11T09:32:18.205311+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-11T09:49:43.167912+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
