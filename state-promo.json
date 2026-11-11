@@ -2636,22 +2636,12 @@
    "Yerevan City|id:162519|1080|1020",
    "Yerevan City|id:162520|1080|1020",
    "Yerevan City|id:162521|1080|1020",
-   "Yerevan City|id:162525|1080|1020"
+   "Yerevan City|id:162525|1080|1020",
+   "Yerevan City|id:162522|1080|1020"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Զուգարանի թուղթ «Zewa Deluxe Jasmine Blossom» 8 հատ",
-    "old": 2620,
-    "new": 2080,
-    "pct": 21,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/tualetnaya_bumaga/400641/",
-    "key": "SAS|id:400641|2620|2080"
-   },
    {
     "store": "SAS",
     "title": "Զուգարանի թուղթ խոնավ «Zewa Almond Milk» 80 հատ",
@@ -7031,12 +7021,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1160188.png",
     "url": "https://yerevan-city.am/shop/product-details/162525",
     "key": "Yerevan City|id:162525|1080|1020"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կոմպոտ «Իջևան» դեղձի 1լ",
+    "old": 1080,
+    "new": 1020,
+    "pct": 6,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1160183.png",
+    "url": "https://yerevan-city.am/shop/product-details/162522",
+    "key": "Yerevan City|id:162522|1080|1020"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-12T02:17:12.062550+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-12T02:35:32.200427+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
@@ -7045,7 +7046,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 54,
+ "city_page": 55,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
