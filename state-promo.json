@@ -2640,22 +2640,12 @@
    "Yerevan City|id:162521|1080|1020",
    "Yerevan City|id:162525|1080|1020",
    "Yerevan City|id:162522|1080|1020",
-   "Yerevan City|id:17882|1050|690"
+   "Yerevan City|id:17882|1050|690",
+   "Yerevan City|id:176305|1050|790"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Պատրաստի նախաճաշ «Nestle Nesquik» 460գ",
-    "old": 2460,
-    "new": 1950,
-    "pct": 21,
-    "until": "20.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/gotovyy_zavtrak/442340/",
-    "key": "SAS|id:442340|2460|1950"
-   },
    {
     "store": "SAS",
     "title": "Զուգարանի թուղթ «Zewa Deluxe Lavender Dreams» 8 հատ",
@@ -7035,12 +7025,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1041512.png",
     "url": "https://yerevan-city.am/shop/product-details/17882",
     "key": "Yerevan City|id:17882|1050|690"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թխվածքաբլիթ «Բերգեն» Օրիգ.շոկ.կտորներով ա/շ 130գր",
+    "old": 1050,
+    "new": 790,
+    "pct": 25,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169935.png",
+    "url": "https://yerevan-city.am/shop/product-details/176305",
+    "key": "Yerevan City|id:176305|1050|790"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-12T03:32:12.277415+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-12T03:49:06.531357+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
