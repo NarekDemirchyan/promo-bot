@@ -2610,17 +2610,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Սուրճ լուծվող «Nescafe Gold» 190գ",
-    "old": 6580,
-    "new": 4390,
-    "pct": 33,
-    "until": "20.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/rastvorimyy_kofe/83300/",
-    "key": "SAS|id:83300|6580|4390"
-   },
-   {
-    "store": "SAS",
     "title": "Յոգուրտ սպիտակուցային «YoPro Plain Triple Zero» 150գ",
     "old": 2290,
     "new": 1150,
@@ -7013,8 +7002,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-11T15:32:26.187716+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-11T16:01:36.380152+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
