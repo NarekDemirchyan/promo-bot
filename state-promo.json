@@ -2598,22 +2598,12 @@
    "Yerevan City|id:106618|1160|930",
    "Yerevan City|id:14206|1160|1050",
    "Yerevan City|id:91354|1160|960",
-   "Yerevan City|id:4369|1150|950"
+   "Yerevan City|id:4369|1150|950",
+   "Yerevan City|id:115533|1150|850"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Միջադիրներ «Libresse Maxi Normal Wing» 10հատ",
-    "old": 890,
-    "new": 770,
-    "pct": 13,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/dlya_intimnoy_gigieny2/145206/",
-    "key": "SAS|id:145206|890|770"
-   },
    {
     "store": "SAS",
     "title": "Աղբի տոպրակներ «Фрекен Бок» 60լ",
@@ -6993,12 +6983,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1030698.png",
     "url": "https://yerevan-city.am/shop/product-details/4369",
     "key": "Yerevan City|id:4369|1150|950"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Վարսակի շիլա «Բիստրով» տեսականի, նորովի 5x35գր",
+    "old": 1150,
+    "new": 850,
+    "pct": 26,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1145651.png",
+    "url": "https://yerevan-city.am/shop/product-details/115533",
+    "key": "Yerevan City|id:115533|1150|850"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-11T14:32:13.001921+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-11T14:46:58.508770+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
