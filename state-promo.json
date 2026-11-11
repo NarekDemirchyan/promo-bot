@@ -2580,17 +2580,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Միջադիրներ «Libresse Invisible Goodnight» 10 հատ",
-    "old": 900,
-    "new": 820,
-    "pct": 9,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/225/877/877432991569655.webp",
-    "url": "https://www.sas.am/catalog/dlya_intimnoy_gigieny2/145217/",
-    "key": "SAS|id:145217|900|820"
-   },
-   {
-    "store": "SAS",
     "title": "Լոբի կարմիր «Bonduelle» 400գ",
     "old": 850,
     "new": 690,
@@ -6983,8 +6972,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-11T06:32:18.048752+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-11T06:56:20.247917+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
