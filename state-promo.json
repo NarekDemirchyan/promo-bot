@@ -2642,17 +2642,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Եգիպտացորեն «Bonduelle» 670գ",
-    "old": 1640,
-    "new": 1440,
-    "pct": 12,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/goroshek/89235/",
-    "key": "SAS|id:89235|1640|1440"
-   },
-   {
-    "store": "SAS",
     "title": "Զուգարանի թուղթ «Zewa Deluxe Jasmine Blossom» 8 հատ",
     "old": 2620,
     "new": 2080,
@@ -7045,8 +7034,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-12T01:33:51.448976+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-12T02:02:29.685543+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
