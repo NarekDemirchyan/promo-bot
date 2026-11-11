@@ -1284,7 +1284,8 @@
    "SAS|id:6684|1050|890",
    "SAS|id:792716|4370|3570",
    "SAS|id:392365|2690|2190",
-   "SAS|id:677549|8350|7740"
+   "SAS|id:677549|8350|7740",
+   "SAS|id:325716|6490|5990"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4786,20 +4787,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/stanok_dlya_britya/677549/",
     "key": "SAS|id:677549|8350|7740"
+   },
+   {
+    "store": "SAS",
+    "title": "Գինի սպիտակ «Ֆրունզիկ Մկրտչյան Ոսկեհատ» 0.75լ",
+    "old": 6490,
+    "new": 5990,
+    "pct": 8,
+    "until": "08.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/armyanskoe_vino/325716/",
+    "key": "SAS|id:325716|6490|5990"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Չիպս «Լեյս» Մաքս Դիփ Քաթ, էկս.պանիր և սոխ 120գր",
-    "old": 1290,
-    "new": 890,
-    "pct": 31,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1171817.png",
-    "url": "https://yerevan-city.am/shop/product-details/178134",
-    "key": "Yerevan City|id:178134|1290|890"
-   },
    {
     "store": "Yerevan City",
     "title": "Չիպս «Լեյս» Մաքս Կարբովայն, քաղցր պղպեղ 120գր",
@@ -6992,8 +6993,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-11T13:17:12.646316+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-11T13:31:23.890476+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
