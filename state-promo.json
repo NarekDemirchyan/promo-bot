@@ -2618,7 +2618,8 @@
    "Yerevan City|id:86726|1090|810",
    "Yerevan City|id:175850|1080|980",
    "Yerevan City|id:7798|1070|960",
-   "Yerevan City|id:22863|1070|970"
+   "Yerevan City|id:22863|1070|970",
+   "Yerevan City|id:6018|1070|940"
   ]
  },
  "queues": {
@@ -7013,6 +7014,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1100589.png",
     "url": "https://yerevan-city.am/shop/product-details/22863",
     "key": "Yerevan City|id:22863|1070|970"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Խմորիչ «Ֆարիման» 500գր",
+    "old": 1070,
+    "new": 940,
+    "pct": 12,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1082504.png",
+    "url": "https://yerevan-city.am/shop/product-details/6018",
+    "key": "Yerevan City|id:6018|1070|940"
    }
   ]
  },
