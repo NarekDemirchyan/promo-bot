@@ -2606,7 +2606,8 @@
    "Yerevan City|id:115533|1150|850",
    "Yerevan City|id:8763|1150|690",
    "Yerevan City|id:23406|1140|1040",
-   "Yerevan City|id:1314|1090|970"
+   "Yerevan City|id:1314|1090|970",
+   "Yerevan City|id:175846|1090|930"
   ]
  },
  "queues": {
@@ -7001,6 +7002,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1054211.png",
     "url": "https://yerevan-city.am/shop/product-details/1314",
     "key": "Yerevan City|id:1314|1090|970"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մարինացված վարունգ «Արտֆուդ» մանր, չիլի 3-6սմ 700գր",
+    "old": 1090,
+    "new": 930,
+    "pct": 15,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169476.png",
+    "url": "https://yerevan-city.am/shop/product-details/175846",
+    "key": "Yerevan City|id:175846|1090|930"
    }
   ]
  },
