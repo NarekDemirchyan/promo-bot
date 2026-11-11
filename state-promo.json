@@ -1306,7 +1306,8 @@
    "SAS|id:676172|15990|12700",
    "SAS|id:655491|5990|5350",
    "SAS|id:956510|3350|2340",
-   "SAS|id:766166|3450|1720"
+   "SAS|id:766166|3450|1720",
+   "SAS|id:575122|980|490"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4830,6 +4831,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/plitka/766166/",
     "key": "SAS|id:766166|3450|1720"
+   },
+   {
+    "store": "SAS",
+    "title": "Ըմպելիք խնձորի, կիտրոնի և կոճապղպեղի «Pfanner Bio» 150մլ",
+    "old": 980,
+    "new": 490,
+    "pct": 50,
+    "until": "30.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/309/318/3186623119689377.webp",
+    "url": "https://www.sas.am/catalog/osvezhayushchiy_napitok/575122/",
+    "key": "SAS|id:575122|980|490"
    }
   ],
   "Yerevan City": [
