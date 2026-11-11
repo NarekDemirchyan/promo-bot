@@ -2580,22 +2580,12 @@
    "Yerevan City|id:117242|1180|890",
    "Yerevan City|id:193095|1180|1090",
    "Yerevan City|id:193096|1180|1090",
-   "Yerevan City|id:193097|1180|1090"
+   "Yerevan City|id:193097|1180|1090",
+   "Yerevan City|id:192592|1180|840"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կանաչ ոլոռ «Bonduelle Delicate» 400գ",
-    "old": 820,
-    "new": 670,
-    "pct": 18,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/goroshek/37038/",
-    "key": "SAS|id:37038|820|670"
-   },
    {
     "store": "SAS",
     "title": "Կանաչ ոլոռ «Bonduelle Delicate» 660գ",
@@ -6975,12 +6965,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176850.png",
     "url": "https://yerevan-city.am/shop/product-details/193097",
     "key": "Yerevan City|id:193097|1180|1090"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Լոգանքի գել «Վատիկա» 250մլ",
+    "old": 1180,
+    "new": 840,
+    "pct": 29,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176324.png",
+    "url": "https://yerevan-city.am/shop/product-details/192592",
+    "key": "Yerevan City|id:192592|1180|840"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-11T09:17:04.057004+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-11T09:32:18.205311+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
