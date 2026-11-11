@@ -2594,22 +2594,12 @@
    "Yerevan City|id:1037|1170|820",
    "Yerevan City|id:6314|1170|585",
    "Yerevan City|id:106618|1160|930",
-   "Yerevan City|id:14206|1160|1050"
+   "Yerevan City|id:14206|1160|1050",
+   "Yerevan City|id:91354|1160|960"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Հակաքրտինքային աէրոզոլային միջոց «Nivea Эффект пудры» 150մլ",
-    "old": 1680,
-    "new": 1420,
-    "pct": 15,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/antiperspirantt/39931/",
-    "key": "SAS|id:39931|1680|1420"
-   },
    {
     "store": "SAS",
     "title": "Կանաչ ոլոռ «Bonduelle Delicate» 200գ",
@@ -6989,12 +6979,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1051275.png",
     "url": "https://yerevan-city.am/shop/product-details/14206",
     "key": "Yerevan City|id:14206|1160|1050"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ատամի խոզանակ «Ֆորամեն» Դուալ, միջին",
+    "old": 1160,
+    "new": 960,
+    "pct": 17,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1128317.png",
+    "url": "https://yerevan-city.am/shop/product-details/91354",
+    "key": "Yerevan City|id:91354|1160|960"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-11T13:31:23.890476+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-11T13:46:11.611500+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
