@@ -2572,17 +2572,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Սրճային ըմպելիք լուծվող «Jacobs Cappuccino Choco Milka» 500գ",
-    "old": 3420,
-    "new": 2940,
-    "pct": 14,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/109/080/0807662776862273.webp",
-    "url": "https://www.sas.am/catalog/rastvorimyy_kofe/82992/",
-    "key": "SAS|id:82992|3420|2940"
-   },
-   {
-    "store": "SAS",
     "title": "Կակաոյով ըմպելիք լուծվող «Nestle Nesquik» 200գ",
     "old": 1840,
     "new": 1650,
@@ -6975,8 +6964,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-11T03:49:22.111919+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-11T04:17:11.408045+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
