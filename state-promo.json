@@ -1277,7 +1277,8 @@
    "SAS|id:792721|4370|3570",
    "SAS|id:731246|9990|8990",
    "SAS|id:681145|115900|105900",
-   "SAS|id:884506|17900|14190"
+   "SAS|id:884506|17900|14190",
+   "SAS|id:884504|22990|18300"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4772,20 +4773,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/importnoe/884506/",
     "key": "SAS|id:884506|17900|14190"
+   },
+   {
+    "store": "SAS",
+    "title": "Օղի «Mamont Northman Limited Edition» 0.7լ",
+    "old": 22990,
+    "new": 18300,
+    "pct": 20,
+    "until": "30.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/importnoe/884504/",
+    "key": "SAS|id:884504|22990|18300"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Հյութ «Սանտալ» կարմիր խաղող 1լ",
-    "old": 1290,
-    "new": 990,
-    "pct": 23,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1113381.png",
-    "url": "https://yerevan-city.am/shop/product-details/68445",
-    "key": "Yerevan City|id:68445|1290|990"
-   },
    {
     "store": "Yerevan City",
     "title": "Կափարիչ մետաղական «Խուտորյանկա» 50հտ",
@@ -6978,8 +6979,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-11T09:02:20.183059+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-11T09:17:04.057004+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
