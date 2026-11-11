@@ -2586,17 +2586,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Աղբյուրի ջուր «Evian» 1.5լ",
-    "old": 1230,
-    "new": 1090,
-    "pct": 11,
-    "until": "25.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/voda/31631/",
-    "key": "SAS|id:31631|1230|1090"
-   },
-   {
-    "store": "SAS",
     "title": "Կանաչ ոլոռ «Bonduelle Delicate» 400գ",
     "old": 820,
     "new": 670,
@@ -6989,8 +6978,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-11T08:35:08.227933+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-11T09:02:20.183059+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
