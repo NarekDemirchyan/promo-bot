@@ -2582,7 +2582,8 @@
    "Yerevan City|id:193095|1180|1090",
    "Yerevan City|id:193096|1180|1090",
    "Yerevan City|id:193097|1180|1090",
-   "Yerevan City|id:192592|1180|840"
+   "Yerevan City|id:192592|1180|840",
+   "Yerevan City|id:128366|1180|1060"
   ]
  },
  "queues": {
@@ -6977,6 +6978,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176324.png",
     "url": "https://yerevan-city.am/shop/product-details/192592",
     "key": "Yerevan City|id:192592|1180|840"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ամենօրյա միջադիրներ «Լիբրես» պյուր սենսիթիվ 26հտ",
+    "old": 1180,
+    "new": 1060,
+    "pct": 10,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1148167.png",
+    "url": "https://yerevan-city.am/shop/product-details/128366",
+    "key": "Yerevan City|id:128366|1180|1060"
    }
   ]
  },
