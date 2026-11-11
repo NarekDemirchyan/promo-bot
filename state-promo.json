@@ -1274,7 +1274,8 @@
    "SAS|id:29837|3350|2990",
    "SAS|id:944379|200|170",
    "SAS|id:855590|4890|4590",
-   "SAS|id:792721|4370|3570"
+   "SAS|id:792721|4370|3570",
+   "SAS|id:731246|9990|8990"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4766,6 +4767,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/import_vino/792721/",
     "key": "SAS|id:792721|4370|3570"
+   },
+   {
+    "store": "SAS",
+    "title": "Փրփրուն գինի «Իջևան Բրիզ» 0.75լ",
+    "old": 9990,
+    "new": 8990,
+    "pct": 10,
+    "until": "08.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/shampanskoe_igristoe_vino/731246/",
+    "key": "SAS|id:731246|9990|8990"
    }
   ],
   "Yerevan City": [
