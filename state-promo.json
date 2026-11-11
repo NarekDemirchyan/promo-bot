@@ -2578,7 +2578,8 @@
    "Yerevan City|id:14419|1190|960",
    "Yerevan City|id:117242|1180|890",
    "Yerevan City|id:193095|1180|1090",
-   "Yerevan City|id:193096|1180|1090"
+   "Yerevan City|id:193096|1180|1090",
+   "Yerevan City|id:193097|1180|1090"
   ]
  },
  "queues": {
@@ -6973,6 +6974,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176839.png",
     "url": "https://yerevan-city.am/shop/product-details/193096",
     "key": "Yerevan City|id:193096|1180|1090"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ատամի մածուկ «Քոլգեյթ» Մ.Ուայթ, գույնի շտկում75մլ",
+    "old": 1180,
+    "new": 1090,
+    "pct": 8,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176850.png",
+    "url": "https://yerevan-city.am/shop/product-details/193097",
+    "key": "Yerevan City|id:193097|1180|1090"
    }
   ]
  },
