@@ -2602,7 +2602,8 @@
    "Yerevan City|id:91354|1160|960",
    "Yerevan City|id:4369|1150|950",
    "Yerevan City|id:115533|1150|850",
-   "Yerevan City|id:8763|1150|690"
+   "Yerevan City|id:8763|1150|690",
+   "Yerevan City|id:23406|1140|1040"
   ]
  },
  "queues": {
@@ -6997,6 +6998,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1077669.png",
     "url": "https://yerevan-city.am/shop/product-details/8763",
     "key": "Yerevan City|id:8763|1150|690"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Խորոված բանջարեղեն «Արտֆուդ» 960գր",
+    "old": 1140,
+    "new": 1040,
+    "pct": 9,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1039071.png",
+    "url": "https://yerevan-city.am/shop/product-details/23406",
+    "key": "Yerevan City|id:23406|1140|1040"
    }
   ]
  },
@@ -7011,7 +7023,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 51,
+ "city_page": 52,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
