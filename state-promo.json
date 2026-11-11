@@ -1286,7 +1286,8 @@
    "SAS|id:392365|2690|2190",
    "SAS|id:677549|8350|7740",
    "SAS|id:325716|6490|5990",
-   "SAS|id:198010|1590|1120"
+   "SAS|id:198010|1590|1120",
+   "SAS|id:238244|27590|16800"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4790,6 +4791,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/v_paketakh/198010/",
     "key": "SAS|id:198010|1590|1120"
+   },
+   {
+    "store": "SAS",
+    "title": "Հատակի փայտ և դույլ «Vileda Turbo Smart»",
+    "old": 27590,
+    "new": 16800,
+    "pct": 39,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/cleaningagent/238244/",
+    "key": "SAS|id:238244|27590|16800"
    }
   ],
   "Yerevan City": [
