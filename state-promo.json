@@ -1272,7 +1272,8 @@
    "SAS|id:30700|2250|1990",
    "SAS|id:29841|4590|4190",
    "SAS|id:29837|3350|2990",
-   "SAS|id:944379|200|170"
+   "SAS|id:944379|200|170",
+   "SAS|id:855590|4890|4590"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4762,20 +4763,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/334/933/93393344285794.webp",
     "url": "https://www.sas.am/catalog/rastvorimyy_kofe/944379/",
     "key": "SAS|id:944379|200|170"
+   },
+   {
+    "store": "SAS",
+    "title": "Փրփրուն գինի «Zonin Gran Cuvée Extra Dry» 0.75լ",
+    "old": 4890,
+    "new": 4590,
+    "pct": 6,
+    "until": "30.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/117/616/6169881170830608.webp",
+    "url": "https://www.sas.am/catalog/shampanskoe_igristoe_vino/855590/",
+    "key": "SAS|id:855590|4890|4590"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Թխվածքաբլիթ «Լագո» կակաո-անտ.ընկույզ 320գր",
-    "old": 1350,
-    "new": 1150,
-    "pct": 15,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173974.png",
-    "url": "https://yerevan-city.am/shop/product-details/180253",
-    "key": "Yerevan City|id:180253|1350|1150"
-   },
    {
     "store": "Yerevan City",
     "title": "Նեկտար «Սանտալ» մանգո 1լ",
@@ -6968,8 +6969,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-11T05:32:16.758901+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-11T05:47:08.922790+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
