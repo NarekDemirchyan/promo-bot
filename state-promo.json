@@ -2588,22 +2588,12 @@
    "Yerevan City|id:192592|1180|840",
    "Yerevan City|id:128366|1180|1060",
    "Yerevan City|id:11388|1170|585",
-   "Yerevan City|id:1037|1170|820"
+   "Yerevan City|id:1037|1170|820",
+   "Yerevan City|id:6314|1170|585"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Անձեռոցիկ «Zewa Deluxe Design» 90 հատ",
-    "old": 890,
-    "new": 770,
-    "pct": 13,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/248/824/8244201907666493.webp",
-    "url": "https://www.sas.am/catalog/salfetki/154195/",
-    "key": "SAS|id:154195|890|770"
-   },
    {
     "store": "SAS",
     "title": "Թղթե սրբիչ «Zewa Extra Lang» 2 հատ",
@@ -6983,12 +6973,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1057212.png",
     "url": "https://yerevan-city.am/shop/product-details/1037",
     "key": "Yerevan City|id:1037|1170|820"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մարտկոց «Էներջայզեր» Մաքս պլյուս ԱԱ 1.5Վ 2հտ",
+    "old": 1170,
+    "new": 585,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1000705.png",
+    "url": "https://yerevan-city.am/shop/product-details/6314",
+    "key": "Yerevan City|id:6314|1170|585"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-11T11:47:16.446102+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-11T12:06:02.258235+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
