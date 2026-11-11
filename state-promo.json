@@ -2590,17 +2590,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Կանաչ ոլոռ «Bonduelle Delicate» 660գ",
-    "old": 1520,
-    "new": 1390,
-    "pct": 9,
-    "until": "31.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/370/028/0280693018171048.webp",
-    "url": "https://www.sas.am/catalog/goroshek/37039/",
-    "key": "SAS|id:37039|1520|1390"
-   },
-   {
-    "store": "SAS",
     "title": "Միջադիրներ «Libresse Maxi Goodnight» 10հատ",
     "old": 980,
     "new": 820,
@@ -6993,8 +6982,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-11T09:49:43.167912+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-11T10:17:16.988850+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
