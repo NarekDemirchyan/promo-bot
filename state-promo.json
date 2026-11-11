@@ -2586,7 +2586,8 @@
    "Yerevan City|id:193097|1180|1090",
    "Yerevan City|id:192592|1180|840",
    "Yerevan City|id:128366|1180|1060",
-   "Yerevan City|id:11388|1170|585"
+   "Yerevan City|id:11388|1170|585",
+   "Yerevan City|id:1037|1170|820"
   ]
  },
  "queues": {
@@ -6981,6 +6982,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1032578.png",
     "url": "https://yerevan-city.am/shop/product-details/11388",
     "key": "Yerevan City|id:11388|1170|585"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հատակի լաթ 50x100սմ",
+    "old": 1170,
+    "new": 820,
+    "pct": 30,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1057212.png",
+    "url": "https://yerevan-city.am/shop/product-details/1037",
+    "key": "Yerevan City|id:1037|1170|820"
    }
   ]
  },
