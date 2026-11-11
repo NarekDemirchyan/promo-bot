@@ -1289,7 +1289,8 @@
    "SAS|id:198010|1590|1120",
    "SAS|id:238244|27590|16800",
    "SAS|id:145230|820|740",
-   "SAS|id:385898|5070|4790"
+   "SAS|id:385898|5070|4790",
+   "SAS|id:87128|1090|930"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4796,20 +4797,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/import_vino/385898/",
     "key": "SAS|id:385898|5070|4790"
+   },
+   {
+    "store": "SAS",
+    "title": "Ձեռքերի կրեմ «Nivea Moisture Care» 75մլ",
+    "old": 1090,
+    "new": 930,
+    "pct": 15,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/vse_dlya_ukhoda_za_rukami_ustarelo/87128/",
+    "key": "SAS|id:87128|1090|930"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Նեկտար «Սանտալ» կարմիր նարինջ 1լ",
-    "old": 1290,
-    "new": 990,
-    "pct": 23,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1100744.png",
-    "url": "https://yerevan-city.am/shop/product-details/22643",
-    "key": "Yerevan City|id:22643|1290|990"
-   },
    {
     "store": "Yerevan City",
     "title": "Գազավորված ըմպելիք «Կոկա Կոլա» Հոկայդո թ/տ 250մլ",
@@ -7002,8 +7003,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-11T16:01:36.380152+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-11T16:16:14.582719+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
