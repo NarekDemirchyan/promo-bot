@@ -1282,7 +1282,8 @@
    "SAS|id:855631|6310|5890",
    "SAS|id:855584|7450|6990",
    "SAS|id:6684|1050|890",
-   "SAS|id:792716|4370|3570"
+   "SAS|id:792716|4370|3570",
+   "SAS|id:392365|2690|2190"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4782,6 +4783,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/import_vino/792716/",
     "key": "SAS|id:792716|4370|3570"
+   },
+   {
+    "store": "SAS",
+    "title": "Սոուս պեստո «Barilla Pesto Basilico Peperoncino» 195գ",
+    "old": 2690,
+    "new": 2190,
+    "pct": 19,
+    "until": "25.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/192/268/268670726365573.webp",
+    "url": "https://www.sas.am/catalog/sous/392365/",
+    "key": "SAS|id:392365|2690|2190"
    }
   ],
   "Yerevan City": [
