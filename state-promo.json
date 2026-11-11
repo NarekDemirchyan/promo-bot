@@ -1283,7 +1283,8 @@
    "SAS|id:855584|7450|6990",
    "SAS|id:6684|1050|890",
    "SAS|id:792716|4370|3570",
-   "SAS|id:392365|2690|2190"
+   "SAS|id:392365|2690|2190",
+   "SAS|id:677549|8350|7740"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4784,20 +4785,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/192/268/268670726365573.webp",
     "url": "https://www.sas.am/catalog/sous/392365/",
     "key": "SAS|id:392365|2690|2190"
+   },
+   {
+    "store": "SAS",
+    "title": "Սափրիչ «Gillette Venus start» 1հատ",
+    "old": 8350,
+    "new": 7740,
+    "pct": 7,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/stanok_dlya_britya/677549/",
+    "key": "SAS|id:677549|8350|7740"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Չիպս «Լեյս» Մաքա Սթրոնգ, պանիր-կայենյան պղ.120գր",
-    "old": 1290,
-    "new": 1090,
-    "pct": 16,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1171816.png",
-    "url": "https://yerevan-city.am/shop/product-details/178133",
-    "key": "Yerevan City|id:178133|1290|1090"
-   },
    {
     "store": "Yerevan City",
     "title": "Չիպս «Լեյս» Մաքս Դիփ Քաթ, էկս.պանիր և սոխ 120գր",
@@ -6990,8 +6991,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-11T12:47:10.324356+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-11T13:02:24.943564+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
