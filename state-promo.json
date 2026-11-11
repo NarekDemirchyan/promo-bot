@@ -2626,17 +2626,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Զուգարանի թուղթ «Zewa Just 1» 6 հատ",
-    "old": 3790,
-    "new": 3240,
-    "pct": 15,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/258/319/3190771810385260.webp",
-    "url": "https://www.sas.am/catalog/tualetnaya_bumaga/400644/",
-    "key": "SAS|id:400644|3790|3240"
-   },
-   {
-    "store": "SAS",
     "title": "Ամենօրյա միջադիրներ «Libresse Natural Care Normal» 40 հատ",
     "old": 1460,
     "new": 1230,
@@ -7029,8 +7018,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-11T20:33:32.393579+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-11T21:01:57.620997+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
