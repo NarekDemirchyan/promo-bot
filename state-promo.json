@@ -1294,7 +1294,8 @@
    "SAS|id:17513|1780|1230",
    "SAS|id:7604|3090|2570",
    "SAS|id:468859|3630|3150",
-   "SAS|id:431814|3630|3150"
+   "SAS|id:431814|3630|3150",
+   "SAS|id:126366|3630|3150"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4806,20 +4807,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/osvezhiteli/431814/",
     "key": "SAS|id:431814|3630|3150"
+   },
+   {
+    "store": "SAS",
+    "title": "Օդը թարմացնող միջոց և ռաթթան փայտիկներ «Brait Secret Love» 100մլ",
+    "old": 3630,
+    "new": 3150,
+    "pct": 13,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/osvezhiteli/126366/",
+    "key": "SAS|id:126366|3630|3150"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Նեկտար «Սանտալ» Պլյուս, բանան-ելակ 1լ",
-    "old": 1290,
-    "new": 990,
-    "pct": 23,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1046073.png",
-    "url": "https://yerevan-city.am/shop/product-details/15268",
-    "key": "Yerevan City|id:15268|1290|990"
-   },
    {
     "store": "Yerevan City",
     "title": "Հյութ «Սանտալ» արքայախնձոր 1լ",
@@ -7012,8 +7013,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-11T19:01:38.416492+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-11T19:17:49.767424+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
