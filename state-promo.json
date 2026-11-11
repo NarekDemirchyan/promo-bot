@@ -2572,7 +2572,8 @@
    "Yerevan City|id:194746|1190|990",
    "Yerevan City|id:91901|1190|1090",
    "Yerevan City|id:191625|1190|690",
-   "Yerevan City|id:14419|1190|960"
+   "Yerevan City|id:14419|1190|960",
+   "Yerevan City|id:117242|1180|890"
   ]
  },
  "queues": {
@@ -6967,6 +6968,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1040796.png",
     "url": "https://yerevan-city.am/shop/product-details/14419",
     "key": "Yerevan City|id:14419|1190|960"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Արքայախնձոր մրգահյութում «Դել Մոնտե» կտորներ 435գր",
+    "old": 1180,
+    "new": 890,
+    "pct": 25,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1147198.png",
+    "url": "https://yerevan-city.am/shop/product-details/117242",
+    "key": "Yerevan City|id:117242|1180|890"
    }
   ]
  },
