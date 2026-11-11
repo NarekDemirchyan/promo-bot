@@ -2622,7 +2622,8 @@
    "Yerevan City|id:7798|1070|960",
    "Yerevan City|id:22863|1070|970",
    "Yerevan City|id:6018|1070|940",
-   "Yerevan City|id:174911|1060|790"
+   "Yerevan City|id:174911|1060|790",
+   "Yerevan City|id:4160|1060|790"
   ]
  },
  "queues": {
@@ -7017,6 +7018,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168533.png",
     "url": "https://yerevan-city.am/shop/product-details/174911",
     "key": "Yerevan City|id:174911|1060|790"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մաքրող միջոց խոհանոցի համար «Գրասս» Ազելիտ, հակա-յուղ 600մլ",
+    "old": 1060,
+    "new": 790,
+    "pct": 25,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1028350.png",
+    "url": "https://yerevan-city.am/shop/product-details/4160",
+    "key": "Yerevan City|id:4160|1060|790"
    }
   ]
  },
