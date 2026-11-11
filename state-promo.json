@@ -1273,7 +1273,8 @@
    "SAS|id:29841|4590|4190",
    "SAS|id:29837|3350|2990",
    "SAS|id:944379|200|170",
-   "SAS|id:855590|4890|4590"
+   "SAS|id:855590|4890|4590",
+   "SAS|id:792721|4370|3570"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4764,6 +4765,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/117/616/6169881170830608.webp",
     "url": "https://www.sas.am/catalog/shampanskoe_igristoe_vino/855590/",
     "key": "SAS|id:855590|4890|4590"
+   },
+   {
+    "store": "SAS",
+    "title": "Գինի կարմիր «Alamos Malbec» 0.75լ",
+    "old": 4370,
+    "new": 3570,
+    "pct": 18,
+    "until": "30.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/import_vino/792721/",
+    "key": "SAS|id:792721|4370|3570"
    }
   ],
   "Yerevan City": [
