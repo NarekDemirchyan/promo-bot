@@ -2642,7 +2642,8 @@
    "Yerevan City|id:162525|1080|1020",
    "Yerevan City|id:162522|1080|1020",
    "Yerevan City|id:17882|1050|690",
-   "Yerevan City|id:176305|1050|790"
+   "Yerevan City|id:176305|1050|790",
+   "Yerevan City|id:194972|1050|790"
   ]
  },
  "queues": {
@@ -7037,6 +7038,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169935.png",
     "url": "https://yerevan-city.am/shop/product-details/176305",
     "key": "Yerevan City|id:176305|1050|790"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թխվածքաբլիթ «Բերգեն» կար-գետն-կոկ-սպ.ջն.ա/շ 100գր",
+    "old": 1050,
+    "new": 790,
+    "pct": 25,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178780.png",
+    "url": "https://yerevan-city.am/shop/product-details/194972",
+    "key": "Yerevan City|id:194972|1050|790"
    }
   ]
  },
