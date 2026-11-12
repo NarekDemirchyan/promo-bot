@@ -1324,7 +1324,8 @@
    "SAS|id:738905|990|940",
    "SAS|id:966127|1690|1180",
    "SAS|id:528815|1790|1590",
-   "SAS|id:918279|650|320"
+   "SAS|id:918279|650|320",
+   "SAS|id:631493|1250|1150"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4866,6 +4867,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/159/480/4807862353081197.webp",
     "url": "https://www.sas.am/catalog/krekery_solenye_palochki/918279/",
     "key": "SAS|id:918279|650|320"
+   },
+   {
+    "store": "SAS",
+    "title": "Կոմպոտ բալի «Իջևան» 1լ",
+    "old": 1250,
+    "new": 1150,
+    "pct": 8,
+    "until": "07.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/kompot/631493/",
+    "key": "SAS|id:631493|1250|1150"
    }
   ],
   "Yerevan City": [
