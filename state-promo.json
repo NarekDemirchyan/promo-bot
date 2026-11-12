@@ -2674,22 +2674,12 @@
    "Yerevan City|id:181403|1030|890",
    "Yerevan City|id:93574|1030|850",
    "Yerevan City|id:91371|1030|860",
-   "Yerevan City|id:6863|1020|840"
+   "Yerevan City|id:6863|1020|840",
+   "Yerevan City|id:15988|1020|840"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շոկոլադե կոնֆետներ «Nestle Kit Kat» 3*29գ",
-    "old": 1320,
-    "new": 1090,
-    "pct": 17,
-    "until": "20.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/konfety_v_upakovke/672199/",
-    "key": "SAS|id:672199|1320|1090"
-   },
    {
     "store": "SAS",
     "title": "Անձեռոցիկ սպունգանման «Vileda» 3հատ",
@@ -7069,12 +7059,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1029457.png",
     "url": "https://yerevan-city.am/shop/product-details/6863",
     "key": "Yerevan City|id:6863|1020|840"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Միջադիրներ «Օլվեյզ» Ուլտրա, նայթ 7հտ",
+    "old": 1020,
+    "new": 840,
+    "pct": 18,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1021552.png",
+    "url": "https://yerevan-city.am/shop/product-details/15988",
+    "key": "Yerevan City|id:15988|1020|840"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-12T14:17:12.314633+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-12T14:32:19.700182+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
