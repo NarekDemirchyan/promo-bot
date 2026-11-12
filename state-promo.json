@@ -2670,22 +2670,12 @@
    "Yerevan City|id:181405|1030|890",
    "Yerevan City|id:93576|1030|850",
    "Yerevan City|id:181403|1030|890",
-   "Yerevan City|id:93574|1030|850"
+   "Yerevan City|id:93574|1030|850",
+   "Yerevan City|id:91371|1030|860"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Օղի «Beluga Transatlantic Racing» 0.5լ",
-    "old": 22600,
-    "new": 18200,
-    "pct": 19,
-    "until": "04.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/importnoe/32084/",
-    "key": "SAS|id:32084|22600|18200"
-   },
    {
     "store": "SAS",
     "title": "Բրինձ երկարահատիկ «Alishaan XL Sella Basmati» 1կգ",
@@ -7065,12 +7055,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1010595.png",
     "url": "https://yerevan-city.am/shop/product-details/93574",
     "key": "Yerevan City|id:93574|1030|850"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ատամի գել մանկ. «Ֆորամեն» ելակ, ա/գլյուտեն 50մլ",
+    "old": 1030,
+    "new": 860,
+    "pct": 17,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1128335.png",
+    "url": "https://yerevan-city.am/shop/product-details/91371",
+    "key": "Yerevan City|id:91371|1030|860"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-12T13:02:31.474584+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-12T13:17:07.051776+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
@@ -7079,7 +7080,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 55,
+ "city_page": 56,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
