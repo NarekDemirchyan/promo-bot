@@ -1326,7 +1326,8 @@
    "SAS|id:528815|1790|1590",
    "SAS|id:918279|650|320",
    "SAS|id:631493|1250|1150",
-   "SAS|id:560197|1860|1670"
+   "SAS|id:560197|1860|1670",
+   "SAS|id:387947|1950|970"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4870,6 +4871,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/armyanskiy_syr/560197/",
     "key": "SAS|id:560197|1860|1670"
+   },
+   {
+    "store": "SAS",
+    "title": "Պանիր էմենտալ կտրատած «Veldhuyzen» 150գ",
+    "old": 1950,
+    "new": 970,
+    "pct": 50,
+    "until": "30.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/770/187/1875751884470358.webp",
+    "url": "https://www.sas.am/catalog/importnyy_syr/387947/",
+    "key": "SAS|id:387947|1950|970"
    }
   ],
   "Yerevan City": [
