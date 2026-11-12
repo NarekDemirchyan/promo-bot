@@ -4871,17 +4871,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Ատամի խոզանակ «Ֆորամեն» ածուխ, փափուկ",
-    "old": 1240,
-    "new": 1040,
-    "pct": 16,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1158919.png",
-    "url": "https://yerevan-city.am/shop/product-details/161283",
-    "key": "Yerevan City|id:161283|1240|1040"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Կետչուպ «Հայնց» կծու 550գր",
     "old": 1240,
     "new": 620,
@@ -7072,8 +7061,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-12T10:05:49.998328+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-12T10:32:17.363965+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
