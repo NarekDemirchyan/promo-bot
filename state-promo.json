@@ -2696,22 +2696,12 @@
    "Yerevan City|id:105022|990|790",
    "Yerevan City|id:30060|990|880",
    "Yerevan City|id:78422|990|490",
-   "Yerevan City|id:105023|990|790"
+   "Yerevan City|id:105023|990|790",
+   "Yerevan City|id:105024|990|790"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սպասք լվանալու հեղուկ «Frosch» 1լ",
-    "old": 1670,
-    "new": 990,
-    "pct": 41,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/sredstva_dlya_posudy/170347/",
-    "key": "SAS|id:170347|1670|990"
-   },
    {
     "store": "SAS",
     "title": "Սպասք լվանալու հեղուկ «Frosch» 500մլ",
@@ -7091,12 +7081,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1055494.png",
     "url": "https://yerevan-city.am/shop/product-details/105023",
     "key": "Yerevan City|id:105023|990|790"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գարեջուր «Աֆանասիյ» Մարոչնոե, չզտված ա/տ 0.5լ",
+    "old": 990,
+    "new": 790,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1055498.png",
+    "url": "https://yerevan-city.am/shop/product-details/105024",
+    "key": "Yerevan City|id:105024|990|790"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-12T21:02:24.968969+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-12T21:19:25.936058+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
@@ -7105,7 +7106,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 56,
+ "city_page": 57,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
