@@ -2708,7 +2708,8 @@
    "Yerevan City|id:114828|990|790",
    "Yerevan City|id:128704|990|690",
    "Yerevan City|id:128711|990|690",
-   "Yerevan City|id:178702|990|890"
+   "Yerevan City|id:178702|990|890",
+   "Yerevan City|id:178703|990|890"
   ]
  },
  "queues": {
@@ -7103,6 +7104,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172404.png",
     "url": "https://yerevan-city.am/shop/product-details/178702",
     "key": "Yerevan City|id:178702|990|890"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Չիպս «Լեյս» Բյուգլս, քաղցր պղպեղ 75գր",
+    "old": 990,
+    "new": 890,
+    "pct": 10,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172405.png",
+    "url": "https://yerevan-city.am/shop/product-details/178703",
+    "key": "Yerevan City|id:178703|990|890"
    }
   ]
  },
@@ -7117,7 +7129,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 57,
+ "city_page": 58,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
