@@ -2678,22 +2678,12 @@
    "Yerevan City|id:91371|1030|860",
    "Yerevan City|id:6863|1020|840",
    "Yerevan City|id:15988|1020|840",
-   "Yerevan City|id:194249|1020|910"
+   "Yerevan City|id:194249|1020|910",
+   "Yerevan City|id:194250|1020|910"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Մուրաբա ծիրանի «Իջևան» 600գ",
-    "old": 1930,
-    "new": 1790,
-    "pct": 7,
-    "until": "28.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/varene/631528/",
-    "key": "SAS|id:631528|1930|1790"
-   },
    {
     "store": "SAS",
     "title": "Չիպս խորովածի «Jacker» 100գ",
@@ -7073,12 +7063,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178017.png",
     "url": "https://yerevan-city.am/shop/product-details/194249",
     "key": "Yerevan City|id:194249|1020|910"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Միջադիրներ «Օլվեյզ» Պլատինում, նայթ 5հտ",
+    "old": 1020,
+    "new": 910,
+    "pct": 11,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178018.png",
+    "url": "https://yerevan-city.am/shop/product-details/194250",
+    "key": "Yerevan City|id:194250|1020|910"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-12T15:32:22.492883+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-12T15:46:59.753154+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
