@@ -1316,7 +1316,8 @@
    "SAS|id:916551|3350|2340",
    "SAS|id:828268|2390|1190",
    "SAS|id:754964|2930|2050",
-   "SAS|id:628951|1350|940"
+   "SAS|id:628951|1350|940",
+   "SAS|id:493691|29900|20930"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4850,6 +4851,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/pechene_pryaniki/628951/",
     "key": "SAS|id:628951|1350|940"
+   },
+   {
+    "store": "SAS",
+    "title": "Ջին «Tanqueray N.Ten» 1լ",
+    "old": 29900,
+    "new": 20930,
+    "pct": 30,
+    "until": "30.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/dzhin_absent/493691/",
+    "key": "SAS|id:493691|29900|20930"
    }
   ],
   "Yerevan City": [
