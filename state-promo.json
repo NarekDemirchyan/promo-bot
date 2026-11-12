@@ -1310,7 +1310,8 @@
    "SAS|id:575122|980|490",
    "SAS|id:202331|1460|1270",
    "SAS|id:924950|11900|5950",
-   "SAS|id:924495|1320|1220"
+   "SAS|id:924495|1320|1220",
+   "SAS|id:919432|38900|27230"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4838,6 +4839,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/kompot/924495/",
     "key": "SAS|id:924495|1320|1220"
+   },
+   {
+    "store": "SAS",
+    "title": "Ռոմ և խաղաքարտեր «Don Papa» 0.7լ",
+    "old": 38900,
+    "new": 27230,
+    "pct": 30,
+    "until": "30.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/379/422/4222473445659392.webp",
+    "url": "https://www.sas.am/catalog/rom_i_tekilla/919432/",
+    "key": "SAS|id:919432|38900|27230"
    }
   ],
   "Yerevan City": [
