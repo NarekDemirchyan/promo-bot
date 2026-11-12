@@ -2716,17 +2716,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Լոբի սպիտակ «Bonduelle» 400գ",
-    "old": 720,
-    "new": 590,
-    "pct": 18,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/goroshek/193034/",
-    "key": "SAS|id:193034|720|590"
-   },
-   {
-    "store": "SAS",
     "title": "Սպագետտի «Barilla Bavette № 13» 500գ",
     "old": 880,
     "new": 730,
@@ -7119,8 +7108,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-13T00:49:59.119563+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-13T01:17:30.514482+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
