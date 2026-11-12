@@ -2698,22 +2698,12 @@
    "Yerevan City|id:30060|990|880",
    "Yerevan City|id:78422|990|490",
    "Yerevan City|id:105023|990|790",
-   "Yerevan City|id:105024|990|790"
+   "Yerevan City|id:105024|990|790",
+   "Yerevan City|id:114827|990|790"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սպասք լվանալու հեղուկ «Frosch» 500մլ",
-    "old": 980,
-    "new": 630,
-    "pct": 36,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/sredstva_dlya_posudy/4405/",
-    "key": "SAS|id:4405|980|630"
-   },
    {
     "store": "SAS",
     "title": "Եգիպտացորեն «Bonduelle» 340գ",
@@ -7093,12 +7083,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1055498.png",
     "url": "https://yerevan-city.am/shop/product-details/105024",
     "key": "Yerevan City|id:105024|990|790"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գարեջուր ոչ ալկոհոլային «Աֆանասիյ» Մարոչնոե 0.5լ",
+    "old": 990,
+    "new": 790,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1144966.png",
+    "url": "https://yerevan-city.am/shop/product-details/114827",
+    "key": "Yerevan City|id:114827|990|790"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-12T21:47:16.146510+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-12T22:02:32.152205+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
