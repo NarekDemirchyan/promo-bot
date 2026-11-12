@@ -2694,22 +2694,12 @@
    "Yerevan City|id:9878|990|890",
    "Yerevan City|id:105022|990|790",
    "Yerevan City|id:30060|990|880",
-   "Yerevan City|id:78422|990|490"
+   "Yerevan City|id:78422|990|490",
+   "Yerevan City|id:105023|990|790"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սպունգ սպասք լվանալու «Vileda» 1հատ",
-    "old": 360,
-    "new": 230,
-    "pct": 36,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/sredstva_dlya_posudy/38870/",
-    "key": "SAS|id:38870|360|230"
-   },
    {
     "store": "SAS",
     "title": "Սպասք լվանալու հեղուկ «Frosch» 1լ",
@@ -7089,12 +7079,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1120741.png",
     "url": "https://yerevan-city.am/shop/product-details/78422",
     "key": "Yerevan City|id:78422|990|490"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գարեջուր «Աֆանասիյ» Մարոչնոե, բաց ա/տ 0.5լ",
+    "old": 990,
+    "new": 790,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1055494.png",
+    "url": "https://yerevan-city.am/shop/product-details/105023",
+    "key": "Yerevan City|id:105023|990|790"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-12T20:32:21.046554+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-12T20:47:12.236233+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
