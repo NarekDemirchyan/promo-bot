@@ -4911,17 +4911,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Մազի ներկ «Վելլատոն» 10/81 մոխրագույն շիկահեր",
-    "old": 1240,
-    "new": 920,
-    "pct": 26,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172908.png",
-    "url": "https://yerevan-city.am/shop/product-details/179200",
-    "key": "Yerevan City|id:179200|1240|920"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Գնդիկավոր հոտազերծիչ «Նիվեա» թարմ.զգացում 50մլ",
     "old": 1240,
     "new": 1050,
@@ -7112,8 +7101,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-12T22:35:15.844170+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-12T23:02:21.506704+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
