@@ -1334,7 +1334,8 @@
    "SAS|id:918375|320|240",
    "SAS|id:916417|1690|840",
    "SAS|id:956516|3350|2340",
-   "SAS|id:741394|1990|1890"
+   "SAS|id:741394|1990|1890",
+   "SAS|id:851175|1350|670"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4886,6 +4887,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/sok/741394/",
     "key": "SAS|id:741394|1990|1890"
+   },
+   {
+    "store": "SAS",
+    "title": "Վաֆլի կարագով «Jeden Tag» 6*40գ",
+    "old": 1350,
+    "new": 670,
+    "pct": 50,
+    "until": "30.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/243/670/670361456300779.webp",
+    "url": "https://www.sas.am/catalog/vafli_vafelnyy_tort/851175/",
+    "key": "SAS|id:851175|1350|670"
    }
   ],
   "Yerevan City": [
