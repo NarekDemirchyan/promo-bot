@@ -4915,17 +4915,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Ներկ մազերի համար «Վելլատոն» 5/4 շագանակ",
-    "old": 1240,
-    "new": 920,
-    "pct": 26,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1029522.png",
-    "url": "https://yerevan-city.am/shop/product-details/9706",
-    "key": "Yerevan City|id:9706|1240|920"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Ներկ մազերի համար «Վելլատոն» 7/0 աշնանային սաղարթ",
     "old": 1240,
     "new": 920,
@@ -7116,8 +7105,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-12T23:49:20.138355+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-13T00:17:13.921968+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
