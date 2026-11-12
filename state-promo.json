@@ -1315,7 +1315,8 @@
    "SAS|id:918296|1290|640",
    "SAS|id:916551|3350|2340",
    "SAS|id:828268|2390|1190",
-   "SAS|id:754964|2930|2050"
+   "SAS|id:754964|2930|2050",
+   "SAS|id:628951|1350|940"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4848,20 +4849,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/konfety_v_upakovke/754964/",
     "key": "SAS|id:754964|2930|2050"
+   },
+   {
+    "store": "SAS",
+    "title": "Թխվածքաբլիթներ «Vicenzi» 135գ",
+    "old": 1350,
+    "new": 940,
+    "pct": 30,
+    "until": "30.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/pechene_pryaniki/628951/",
+    "key": "SAS|id:628951|1350|940"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Ֆունչոզա «Չիմ Չիմ» համեմունքով 160գր",
-    "old": 1250,
-    "new": 1050,
-    "pct": 16,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1087267.png",
-    "url": "https://yerevan-city.am/shop/product-details/11316",
-    "key": "Yerevan City|id:11316|1250|1050"
-   },
    {
     "store": "Yerevan City",
     "title": "Մաստակ «Հուբբա Բուբբա» ելակ 56գր",
@@ -7054,8 +7055,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-12T08:17:10.485801+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-12T08:32:14.159088+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
