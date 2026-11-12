@@ -1327,7 +1327,8 @@
    "SAS|id:918279|650|320",
    "SAS|id:631493|1250|1150",
    "SAS|id:560197|1860|1670",
-   "SAS|id:387947|1950|970"
+   "SAS|id:387947|1950|970",
+   "SAS|id:356248|3290|1640"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4872,20 +4873,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/770/187/1875751884470358.webp",
     "url": "https://www.sas.am/catalog/importnyy_syr/387947/",
     "key": "SAS|id:387947|1950|970"
+   },
+   {
+    "store": "SAS",
+    "title": "Պիցցա սառեցված «Dr.Oetker Ristorante Pepperoni Salame» 320գ",
+    "old": 3290,
+    "new": 1640,
+    "pct": 50,
+    "until": "30.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/262/920/9202372206254922.webp",
+    "url": "https://www.sas.am/catalog/pitstsa/356248/",
+    "key": "SAS|id:356248|3290|1640"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Մազի ներկ «Վելլատոն» 6/374 շոկոլադե մայրամուտ",
-    "old": 1240,
-    "new": 920,
-    "pct": 26,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172911.png",
-    "url": "https://yerevan-city.am/shop/product-details/179203",
-    "key": "Yerevan City|id:179203|1240|920"
-   },
    {
     "store": "Yerevan City",
     "title": "Ներկ մազերի համար «Վելլատոն» 8/1 խխունջ",
@@ -7078,8 +7079,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-12T15:46:59.753154+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-12T16:02:31.942232+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
