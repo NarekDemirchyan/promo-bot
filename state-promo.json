@@ -1312,7 +1312,8 @@
    "SAS|id:924950|11900|5950",
    "SAS|id:924495|1320|1220",
    "SAS|id:919432|38900|27230",
-   "SAS|id:918296|1290|640"
+   "SAS|id:918296|1290|640",
+   "SAS|id:916551|3350|2340"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4842,6 +4843,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/712/376/376092224084758.webp",
     "url": "https://www.sas.am/catalog/batonchik/918296/",
     "key": "SAS|id:918296|1290|640"
+   },
+   {
+    "store": "SAS",
+    "title": "Բանան կաթնային շոկոլադով «Oswald Schofrulade» 130գ",
+    "old": 3350,
+    "new": 2340,
+    "pct": 30,
+    "until": "30.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/frukty_ovoshchi_yagody/916551/",
+    "key": "SAS|id:916551|3350|2340"
    }
   ],
   "Yerevan City": [
