@@ -2686,22 +2686,12 @@
    "Yerevan City|id:194250|1020|910",
    "Yerevan City|id:153654|1010|860",
    "Yerevan City|id:194751|990|690",
-   "Yerevan City|id:194752|990|690"
+   "Yerevan City|id:194752|990|690",
+   "Yerevan City|id:9878|990|890"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կտոր սպունգանման «Фрекен Бок» 3 հատ",
-    "old": 570,
-    "new": 520,
-    "pct": 9,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/rezinovye_izdeliya/858518/",
-    "key": "SAS|id:858518|570|520"
-   },
    {
     "store": "SAS",
     "title": "Միջադիրներ «Libresse Invisible Normal» 20հատ",
@@ -7081,12 +7071,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178551.png",
     "url": "https://yerevan-city.am/shop/product-details/194752",
     "key": "Yerevan City|id:194752|990|690"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մարինացված վարունգ «Արտֆուդ» 980գր",
+    "old": 990,
+    "new": 890,
+    "pct": 10,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1047347.png",
+    "url": "https://yerevan-city.am/shop/product-details/9878",
+    "key": "Yerevan City|id:9878|990|890"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-12T18:02:28.502951+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-12T18:17:04.546023+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
