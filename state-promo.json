@@ -2716,7 +2716,8 @@
    "Yerevan City|id:178703|990|890",
    "Yerevan City|id:192499|990|590",
    "Yerevan City|id:192500|990|590",
-   "Yerevan City|id:192501|990|590"
+   "Yerevan City|id:192501|990|590",
+   "Yerevan City|id:195045|990|770"
   ]
  },
  "queues": {
@@ -7111,6 +7112,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176229.png",
     "url": "https://yerevan-city.am/shop/product-details/192501",
     "key": "Yerevan City|id:192501|990|590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ախորժակ «Արկաֆա» 750գր",
+    "old": 990,
+    "new": 770,
+    "pct": 22,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178850.png",
+    "url": "https://yerevan-city.am/shop/product-details/195045",
+    "key": "Yerevan City|id:195045|990|770"
    }
   ]
  },
