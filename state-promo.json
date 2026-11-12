@@ -1309,7 +1309,8 @@
    "SAS|id:766166|3450|1720",
    "SAS|id:575122|980|490",
    "SAS|id:202331|1460|1270",
-   "SAS|id:924950|11900|5950"
+   "SAS|id:924950|11900|5950",
+   "SAS|id:924495|1320|1220"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4836,20 +4837,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/296/807/8075121964634668.webp",
     "url": "https://www.sas.am/catalog/importnyy_syr/924950/",
     "key": "SAS|id:924950|11900|5950"
+   },
+   {
+    "store": "SAS",
+    "title": "Կոմպոտ ելակի «Իջևան» 1000մլ",
+    "old": 1320,
+    "new": 1220,
+    "pct": 8,
+    "until": "07.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/kompot/924495/",
+    "key": "SAS|id:924495|1320|1220"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Խաղալիքներ ռետինե 5հտ ԲԼՍ87-30/87-43",
-    "old": 1290,
-    "new": 990,
-    "pct": 23,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1159617.png",
-    "url": "https://yerevan-city.am/shop/product-details/161901",
-    "key": "Yerevan City|id:161901|1290|990"
-   },
    {
     "store": "Yerevan City",
     "title": "Ափսե «Դեննի Հոմ» սպիտակ կլոր 25.5սմ 1հտ ԲՎ26-12",
@@ -7042,8 +7043,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-12T04:32:23.982189+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-12T04:47:07.977774+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
