@@ -2662,22 +2662,12 @@
    "Yerevan City|id:93575|1030|850",
    "Yerevan City|id:93577|1030|850",
    "Yerevan City|id:181407|1030|890",
-   "Yerevan City|id:173904|1030|850"
+   "Yerevan City|id:173904|1030|850",
+   "Yerevan City|id:181405|1030|890"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Հակաքրտինքային միջոց գնդիկով «Nivea Black & White Invisible Authentic» 50մլ",
-    "old": 1450,
-    "new": 1220,
-    "pct": 16,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/antiperspirantt/938671/",
-    "key": "SAS|id:938671|1450|1220"
-   },
    {
     "store": "SAS",
     "title": "Լոգանքի գել «Nivea Men Fresh Energy 5 in 1» 250մլ",
@@ -7057,12 +7047,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1167499.png",
     "url": "https://yerevan-city.am/shop/product-details/173904",
     "key": "Yerevan City|id:173904|1030|850"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ձիթապտուղ կանաչ «Արտֆուդ» ա/տ 480գր",
+    "old": 1030,
+    "new": 890,
+    "pct": 14,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175118.png",
+    "url": "https://yerevan-city.am/shop/product-details/181405",
+    "key": "Yerevan City|id:181405|1030|890"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-12T10:32:17.363965+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-12T10:47:03.535278+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
