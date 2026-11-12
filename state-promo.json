@@ -1320,7 +1320,8 @@
    "SAS|id:493691|29900|20930",
    "SAS|id:477020|39500|27650",
    "SAS|id:443103|19900|13930",
-   "SAS|id:754945|2350|1640"
+   "SAS|id:754945|2350|1640",
+   "SAS|id:738905|990|940"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4858,6 +4859,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/189/552/5528763936478929.webp",
     "url": "https://www.sas.am/catalog/pechene_pryaniki/754945/",
     "key": "SAS|id:754945|2350|1640"
+   },
+   {
+    "store": "SAS",
+    "title": "Հյութ գազարի և դդմի «Իջևան» 1000մլ",
+    "old": 990,
+    "new": 940,
+    "pct": 5,
+    "until": "07.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/sok/738905/",
+    "key": "SAS|id:738905|990|940"
    }
   ],
   "Yerevan City": [
