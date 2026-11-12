@@ -1336,7 +1336,8 @@
    "SAS|id:956516|3350|2340",
    "SAS|id:741394|1990|1890",
    "SAS|id:851175|1350|670",
-   "SAS|id:653200|320|240"
+   "SAS|id:653200|320|240",
+   "SAS|id:582583|570|280"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4890,6 +4891,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/126/544/5447323220695604.webp",
     "url": "https://www.sas.am/catalog/spicess/653200/",
     "key": "SAS|id:653200|320|240"
+   },
+   {
+    "store": "SAS",
+    "title": "Սուֆլե վանիլային «Lafinele» 40գ",
+    "old": 570,
+    "new": 280,
+    "pct": 51,
+    "until": "30.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/konfety_v_upakovke/582583/",
+    "key": "SAS|id:582583|570|280"
    }
   ],
   "Yerevan City": [
