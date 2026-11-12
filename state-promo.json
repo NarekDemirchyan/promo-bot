@@ -2700,22 +2700,12 @@
    "Yerevan City|id:78422|990|490",
    "Yerevan City|id:105023|990|790",
    "Yerevan City|id:105024|990|790",
-   "Yerevan City|id:114827|990|790"
+   "Yerevan City|id:114827|990|790",
+   "Yerevan City|id:114828|990|790"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Եգիպտացորեն «Bonduelle» 340գ",
-    "old": 960,
-    "new": 790,
-    "pct": 18,
-    "until": "31.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/310/769/7699093219001577.webp",
-    "url": "https://www.sas.am/catalog/goroshek/547527/",
-    "key": "SAS|id:547527|960|790"
-   },
    {
     "store": "SAS",
     "title": "Չիպս թթվասերի և սոխի «Jacker» 100գ",
@@ -7095,12 +7085,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1144966.png",
     "url": "https://yerevan-city.am/shop/product-details/114827",
     "key": "Yerevan City|id:114827|990|790"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գարեջուր «Աֆանասիյ» Պորտեր, մուգ ա/տ 0.5լ",
+    "old": 990,
+    "new": 790,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1144967.png",
+    "url": "https://yerevan-city.am/shop/product-details/114828",
+    "key": "Yerevan City|id:114828|990|790"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-12T22:17:04.977610+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-12T22:35:15.844170+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
