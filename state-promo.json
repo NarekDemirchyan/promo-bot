@@ -1323,7 +1323,8 @@
    "SAS|id:754945|2350|1640",
    "SAS|id:738905|990|940",
    "SAS|id:966127|1690|1180",
-   "SAS|id:528815|1790|1590"
+   "SAS|id:528815|1790|1590",
+   "SAS|id:918279|650|320"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4864,20 +4865,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/172/623/6230711774334001.webp",
     "url": "https://www.sas.am/catalog/armyanskiy_syr/528815/",
     "key": "SAS|id:528815|1790|1590"
+   },
+   {
+    "store": "SAS",
+    "title": "Կրեկերներ սերուցքային «Pingo Doce Cream Crackers» 200գ",
+    "old": 650,
+    "new": 320,
+    "pct": 51,
+    "until": "30.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/159/480/4807862353081197.webp",
+    "url": "https://www.sas.am/catalog/krekery_solenye_palochki/918279/",
+    "key": "SAS|id:918279|650|320"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Ներկ մազերի համար «Վելլատոն» 5/0 մուգ կաղին",
-    "old": 1240,
-    "new": 920,
-    "pct": 26,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1033867.png",
-    "url": "https://yerevan-city.am/shop/product-details/319",
-    "key": "Yerevan City|id:319|1240|920"
-   },
    {
     "store": "Yerevan City",
     "title": "Գնդիկավոր հոտազերծիչ «Նիվեա» սև և սպիտակ, վարդագույն 50մլ",
@@ -7070,8 +7071,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-12T13:17:07.051776+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-12T13:32:11.999356+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
