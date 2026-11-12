@@ -2680,22 +2680,12 @@
    "Yerevan City|id:6863|1020|840",
    "Yerevan City|id:15988|1020|840",
    "Yerevan City|id:194249|1020|910",
-   "Yerevan City|id:194250|1020|910"
+   "Yerevan City|id:194250|1020|910",
+   "Yerevan City|id:153654|1010|860"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Չիպս խորովածի «Jacker» 100գ",
-    "old": 1250,
-    "new": 740,
-    "pct": 41,
-    "until": "29.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/chipsy/594492/",
-    "key": "SAS|id:594492|1250|740"
-   },
    {
     "store": "SAS",
     "title": "Սրճային ըմպելիք լուծվող «Nescafe Raf» 17գ",
@@ -7075,12 +7065,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178018.png",
     "url": "https://yerevan-city.am/shop/product-details/194250",
     "key": "Yerevan City|id:194250|1020|910"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Անձեռոցիկներ գրպանի «Սելպակ» լոսյոնով 10x10հտ",
+    "old": 1010,
+    "new": 860,
+    "pct": 15,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1154225.png",
+    "url": "https://yerevan-city.am/shop/product-details/153654",
+    "key": "Yerevan City|id:153654|1010|860"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-12T16:02:31.942232+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-12T16:19:24.033512+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
