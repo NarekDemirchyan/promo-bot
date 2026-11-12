@@ -1340,7 +1340,8 @@
    "SAS|id:582583|570|280",
    "SAS|id:483394|16900|8450",
    "SAS|id:631496|1250|1150",
-   "SAS|id:20357|990|690"
+   "SAS|id:20357|990|690",
+   "SAS|id:528814|1730|1570"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4898,6 +4899,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/235/144/1446043823782982.webp",
     "url": "https://www.sas.am/catalog/batareyka/20357/",
     "key": "SAS|id:20357|990|690"
+   },
+   {
+    "store": "SAS",
+    "title": "Պանիր մոցարելա «Այգ» 300գ",
+    "old": 1730,
+    "new": 1570,
+    "pct": 9,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/armyanskiy_syr/528814/",
+    "key": "SAS|id:528814|1730|1570"
    }
   ],
   "Yerevan City": [
