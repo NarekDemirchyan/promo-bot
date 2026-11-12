@@ -2666,7 +2666,8 @@
    "Yerevan City|id:181407|1030|890",
    "Yerevan City|id:173904|1030|850",
    "Yerevan City|id:181405|1030|890",
-   "Yerevan City|id:93576|1030|850"
+   "Yerevan City|id:93576|1030|850",
+   "Yerevan City|id:181403|1030|890"
   ]
  },
  "queues": {
@@ -7061,6 +7062,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1028182.png",
     "url": "https://yerevan-city.am/shop/product-details/93576",
     "key": "Yerevan City|id:93576|1030|850"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ձիթապտուղ կանաչ «Արտֆուդ» առանց կորիզ ա/տ 480գր",
+    "old": 1030,
+    "new": 890,
+    "pct": 14,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175117.png",
+    "url": "https://yerevan-city.am/shop/product-details/181403",
+    "key": "Yerevan City|id:181403|1030|890"
    }
   ]
  },
