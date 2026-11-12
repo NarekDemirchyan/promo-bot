@@ -1318,7 +1318,8 @@
    "SAS|id:754964|2930|2050",
    "SAS|id:628951|1350|940",
    "SAS|id:493691|29900|20930",
-   "SAS|id:477020|39500|27650"
+   "SAS|id:477020|39500|27650",
+   "SAS|id:443103|19900|13930"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4854,6 +4855,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/dzhin_absent/477020/",
     "key": "SAS|id:477020|39500|27650"
+   },
+   {
+    "store": "SAS",
+    "title": "Ջին «Pircher Botanical Dry» 0.7լ",
+    "old": 19900,
+    "new": 13930,
+    "pct": 30,
+    "until": "30.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/129/685/6855922243148661.webp",
+    "url": "https://www.sas.am/catalog/dzhin_absent/443103/",
+    "key": "SAS|id:443103|19900|13930"
    }
   ],
   "Yerevan City": [
