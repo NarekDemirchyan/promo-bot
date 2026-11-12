@@ -2702,22 +2702,12 @@
    "Yerevan City|id:105023|990|790",
    "Yerevan City|id:105024|990|790",
    "Yerevan City|id:114827|990|790",
-   "Yerevan City|id:114828|990|790"
+   "Yerevan City|id:114828|990|790",
+   "Yerevan City|id:128704|990|690"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Չիպս թթվասերի և սոխի «Jacker» 100գ",
-    "old": 1250,
-    "new": 740,
-    "pct": 41,
-    "until": "29.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/chipsy/594488/",
-    "key": "SAS|id:594488|1250|740"
-   },
    {
     "store": "SAS",
     "title": "Չիպս օրիգինալ «Jacker» 100գ",
@@ -7097,12 +7087,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1144967.png",
     "url": "https://yerevan-city.am/shop/product-details/114828",
     "key": "Yerevan City|id:114828|990|790"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սառնաշաքար «Տոքսիկ Ուեյսթ» թթու, մանուշակ․ 42գր",
+    "old": 990,
+    "new": 690,
+    "pct": 30,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1148508.png",
+    "url": "https://yerevan-city.am/shop/product-details/128704",
+    "key": "Yerevan City|id:128704|990|690"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-12T23:02:21.506704+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-12T23:17:02.058352+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
