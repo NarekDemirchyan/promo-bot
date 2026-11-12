@@ -2658,22 +2658,12 @@
    "Yerevan City|id:113010|1040|920",
    "Yerevan City|id:179147|1040|880",
    "Yerevan City|id:93575|1030|850",
-   "Yerevan City|id:93577|1030|850"
+   "Yerevan City|id:93577|1030|850",
+   "Yerevan City|id:181407|1030|890"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ատամի թել «Lacalut» 35մ",
-    "old": 1390,
-    "new": 1050,
-    "pct": 24,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/118/957/9576351468937426.webp",
-    "url": "https://www.sas.am/catalog/zubachistka_nit_dlya_zubov/954756/",
-    "key": "SAS|id:954756|1390|1050"
-   },
    {
     "store": "SAS",
     "title": "Աղանդեր սպիտակուցային շոկոլադի «YoPro Triple Zero Chocolate» 130գ",
@@ -7053,12 +7043,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1037471.png",
     "url": "https://yerevan-city.am/shop/product-details/93577",
     "key": "Yerevan City|id:93577|1030|850"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ձիթապտուղ սև «Արտֆուդ» ա/տ 480գր",
+    "old": 1030,
+    "new": 890,
+    "pct": 14,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175120.png",
+    "url": "https://yerevan-city.am/shop/product-details/181407",
+    "key": "Yerevan City|id:181407|1030|890"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-12T09:17:14.877596+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-12T09:32:15.358570+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
