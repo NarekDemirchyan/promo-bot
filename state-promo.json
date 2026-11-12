@@ -2690,22 +2690,12 @@
    "Yerevan City|id:194751|990|690",
    "Yerevan City|id:194752|990|690",
    "Yerevan City|id:9878|990|890",
-   "Yerevan City|id:105022|990|790"
+   "Yerevan City|id:105022|990|790",
+   "Yerevan City|id:30060|990|880"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սպասք լվանալու հեղուկ «Frosch» 500մլ",
-    "old": 1640,
-    "new": 970,
-    "pct": 41,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/sredstva_dlya_posudy/170354/",
-    "key": "SAS|id:170354|1640|970"
-   },
    {
     "store": "SAS",
     "title": "Բանջարեղեն խորոված «Իջևան» 900գ",
@@ -7085,12 +7075,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1055497.png",
     "url": "https://yerevan-city.am/shop/product-details/105022",
     "key": "Yerevan City|id:105022|990|790"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մարինացված բամիա «Արտֆուդ» 480գր",
+    "old": 990,
+    "new": 880,
+    "pct": 11,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1103992.png",
+    "url": "https://yerevan-city.am/shop/product-details/30060",
+    "key": "Yerevan City|id:30060|990|880"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-12T19:17:18.023413+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-12T19:32:21.494617+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
