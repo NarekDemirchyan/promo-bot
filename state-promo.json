@@ -2668,22 +2668,12 @@
    "Yerevan City|id:173904|1030|850",
    "Yerevan City|id:181405|1030|890",
    "Yerevan City|id:93576|1030|850",
-   "Yerevan City|id:181403|1030|890"
+   "Yerevan City|id:181403|1030|890",
+   "Yerevan City|id:93574|1030|850"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Մազերի լաք «Прелесть Pro Фиксация и Мерцание» 75մլ",
-    "old": 1250,
-    "new": 1050,
-    "pct": 16,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/maska_konditsioner_dlya_volos/933886/",
-    "key": "SAS|id:933886|1250|1050"
-   },
    {
     "store": "SAS",
     "title": "Օղի «Beluga Transatlantic Racing» 0.5լ",
@@ -7063,12 +7053,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175117.png",
     "url": "https://yerevan-city.am/shop/product-details/181403",
     "key": "Yerevan City|id:181403|1030|890"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Պաշտպանիչ-մաքրող միջ․ «Դոմեստոս» կիտ․թարմ․750մ",
+    "old": 1030,
+    "new": 850,
+    "pct": 17,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1010595.png",
+    "url": "https://yerevan-city.am/shop/product-details/93574",
+    "key": "Yerevan City|id:93574|1030|850"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-12T12:17:07.481333+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-12T12:35:06.583538+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
