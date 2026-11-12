@@ -1338,7 +1338,8 @@
    "SAS|id:851175|1350|670",
    "SAS|id:653200|320|240",
    "SAS|id:582583|570|280",
-   "SAS|id:483394|16900|8450"
+   "SAS|id:483394|16900|8450",
+   "SAS|id:631496|1250|1150"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4894,6 +4895,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/moreprodukt/483394/",
     "key": "SAS|id:483394|16900|8450"
+   },
+   {
+    "store": "SAS",
+    "title": "Կոմպոտ դեղձի «Իջևան» 1լ",
+    "old": 1250,
+    "new": 1150,
+    "pct": 8,
+    "until": "07.01.2027",
+    "img": "https://www.sas.am/upload/Sh/imageCache/381/321/3212111611534723.webp",
+    "url": "https://www.sas.am/catalog/kompot/631496/",
+    "key": "SAS|id:631496|1250|1150"
    }
   ],
   "Yerevan City": [
