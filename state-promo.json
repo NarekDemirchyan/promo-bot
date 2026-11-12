@@ -2684,22 +2684,12 @@
    "Yerevan City|id:194249|1020|910",
    "Yerevan City|id:194250|1020|910",
    "Yerevan City|id:153654|1010|860",
-   "Yerevan City|id:194751|990|690"
+   "Yerevan City|id:194751|990|690",
+   "Yerevan City|id:194752|990|690"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Պատիճ սուրճի «Tonino Lamborghini Espresso Platinum» 10հատ, 50գ",
-    "old": 2270,
-    "new": 1680,
-    "pct": 26,
-    "until": "13.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/148/923/923657332650389.webp",
-    "url": "https://www.sas.am/catalog/drugoy/408355/",
-    "key": "SAS|id:408355|2270|1680"
-   },
    {
     "store": "SAS",
     "title": "Կտոր սպունգանման «Фрекен Бок» 3 հատ",
@@ -7079,12 +7069,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178550.png",
     "url": "https://yerevan-city.am/shop/product-details/194751",
     "key": "Yerevan City|id:194751|990|690"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տաք շոկոլադ «Հերշեյս» բանան 30գր",
+    "old": 990,
+    "new": 690,
+    "pct": 30,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178551.png",
+    "url": "https://yerevan-city.am/shop/product-details/194752",
+    "key": "Yerevan City|id:194752|990|690"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-12T17:17:10.420380+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-12T17:35:06.838779+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
