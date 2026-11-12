@@ -1328,7 +1328,8 @@
    "SAS|id:631493|1250|1150",
    "SAS|id:560197|1860|1670",
    "SAS|id:387947|1950|970",
-   "SAS|id:356248|3290|1640"
+   "SAS|id:356248|3290|1640",
+   "SAS|id:133927|1690|1180"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4874,6 +4875,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/262/920/9202372206254922.webp",
     "url": "https://www.sas.am/catalog/pitstsa/356248/",
     "key": "SAS|id:356248|3290|1640"
+   },
+   {
+    "store": "SAS",
+    "title": "Թխվածքաբլիթ պնդուկի կրեմով «Matilde Vicenzi Mini Snack» 125գ",
+    "old": 1690,
+    "new": 1180,
+    "pct": 30,
+    "until": "30.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/pechene_pryaniki/133927/",
+    "key": "SAS|id:133927|1690|1180"
    }
   ],
   "Yerevan City": [
