@@ -1322,7 +1322,8 @@
    "SAS|id:443103|19900|13930",
    "SAS|id:754945|2350|1640",
    "SAS|id:738905|990|940",
-   "SAS|id:966127|1690|1180"
+   "SAS|id:966127|1690|1180",
+   "SAS|id:528815|1790|1590"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4862,6 +4863,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/pechene_pryaniki/966127/",
     "key": "SAS|id:966127|1690|1180"
+   },
+   {
+    "store": "SAS",
+    "title": "Պանիր սուլուգունի «Այգ» 300գ",
+    "old": 1790,
+    "new": 1590,
+    "pct": 11,
+    "until": "27.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/172/623/6230711774334001.webp",
+    "url": "https://www.sas.am/catalog/armyanskiy_syr/528815/",
+    "key": "SAS|id:528815|1790|1590"
    }
   ],
   "Yerevan City": [
