@@ -2688,22 +2688,12 @@
    "Yerevan City|id:153654|1010|860",
    "Yerevan City|id:194751|990|690",
    "Yerevan City|id:194752|990|690",
-   "Yerevan City|id:9878|990|890"
+   "Yerevan City|id:9878|990|890",
+   "Yerevan City|id:105022|990|790"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Միջադիրներ «Libresse Invisible Normal» 20հատ",
-    "old": 1490,
-    "new": 1220,
-    "pct": 18,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/dlya_intimnoy_gigieny2/145219/",
-    "key": "SAS|id:145219|1490|1220"
-   },
    {
     "store": "SAS",
     "title": "Սպասք լվանալու հեղուկ «Frosch» 500մլ",
@@ -7083,12 +7073,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1047347.png",
     "url": "https://yerevan-city.am/shop/product-details/9878",
     "key": "Yerevan City|id:9878|990|890"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գարեջուր «Աֆանասիյ» Մարոչնոե, մուգ ա/տ 0.5լ",
+    "old": 990,
+    "new": 790,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1055497.png",
+    "url": "https://yerevan-city.am/shop/product-details/105022",
+    "key": "Yerevan City|id:105022|990|790"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-12T18:32:12.806596+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-12T18:49:47.050868+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
