@@ -2714,22 +2714,12 @@
    "Yerevan City|id:178702|990|890",
    "Yerevan City|id:178703|990|890",
    "Yerevan City|id:192499|990|590",
-   "Yerevan City|id:192500|990|590"
+   "Yerevan City|id:192500|990|590",
+   "Yerevan City|id:192501|990|590"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սպունգ սպասք լվանալու «Vileda» 3հատ",
-    "old": 720,
-    "new": 680,
-    "pct": 6,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/sredstva_dlya_posudy/38876/",
-    "key": "SAS|id:38876|720|680"
-   },
    {
     "store": "SAS",
     "title": "Թեյ սև «Ahmad Peach & Passion Fruit» 25*2գ",
@@ -7109,12 +7099,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176228.png",
     "url": "https://yerevan-city.am/shop/product-details/192500",
     "key": "Yerevan City|id:192500|990|590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Բատոնչիկ պրոտ. «Ռեքս» ազնվ-յոգուրտ ա/շ 50գր",
+    "old": 990,
+    "new": 590,
+    "pct": 40,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176229.png",
+    "url": "https://yerevan-city.am/shop/product-details/192501",
+    "key": "Yerevan City|id:192501|990|590"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-13T02:47:08.529194+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-13T03:02:24.523100+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
