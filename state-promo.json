@@ -2672,22 +2672,12 @@
    "Yerevan City|id:93576|1030|850",
    "Yerevan City|id:181403|1030|890",
    "Yerevan City|id:93574|1030|850",
-   "Yerevan City|id:91371|1030|860"
+   "Yerevan City|id:91371|1030|860",
+   "Yerevan City|id:6863|1020|840"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Բրինձ երկարահատիկ «Alishaan XL Sella Basmati» 1կգ",
-    "old": 1390,
-    "new": 1090,
-    "pct": 22,
-    "until": "25.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/ris/968157/",
-    "key": "SAS|id:968157|1390|1090"
-   },
    {
     "store": "SAS",
     "title": "Շոկոլադե կոնֆետներ «Nestle Kit Kat» 3*29գ",
@@ -7067,12 +7057,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1128335.png",
     "url": "https://yerevan-city.am/shop/product-details/91371",
     "key": "Yerevan City|id:91371|1030|860"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Միջադիրներ «Օլվեյզ» Ուլտրա, սուպեր 8հտ",
+    "old": 1020,
+    "new": 840,
+    "pct": 18,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1029457.png",
+    "url": "https://yerevan-city.am/shop/product-details/6863",
+    "key": "Yerevan City|id:6863|1020|840"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-12T13:32:11.999356+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-12T13:49:26.700551+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
