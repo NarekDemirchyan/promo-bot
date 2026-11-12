@@ -2710,22 +2710,12 @@
    "Yerevan City|id:128704|990|690",
    "Yerevan City|id:128711|990|690",
    "Yerevan City|id:178702|990|890",
-   "Yerevan City|id:178703|990|890"
+   "Yerevan City|id:178703|990|890",
+   "Yerevan City|id:192499|990|590"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սպագետտի «Barilla Bavette № 13» 500գ",
-    "old": 880,
-    "new": 730,
-    "pct": 17,
-    "until": "25.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/spagetti_kapelini/95743/",
-    "key": "SAS|id:95743|880|730"
-   },
    {
     "store": "SAS",
     "title": "Դիմահարդարումը մաքրող խոնավ անձեռոցիկներ «Novita» 15 հատ",
@@ -7105,12 +7095,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172405.png",
     "url": "https://yerevan-city.am/shop/product-details/178703",
     "key": "Yerevan City|id:178703|990|890"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Բատոնչիկ պրոտ. «Ռեքս» ելակի դեսերտ ա/շ 50գր",
+    "old": 990,
+    "new": 590,
+    "pct": 40,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176227.png",
+    "url": "https://yerevan-city.am/shop/product-details/192499",
+    "key": "Yerevan City|id:192499|990|590"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-13T01:32:27.869045+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-13T01:47:07.635188+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
