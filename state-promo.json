@@ -1330,7 +1330,8 @@
    "SAS|id:387947|1950|970",
    "SAS|id:356248|3290|1640",
    "SAS|id:133927|1690|1180",
-   "SAS|id:857446|1730|1210"
+   "SAS|id:857446|1730|1210",
+   "SAS|id:918375|320|240"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4878,6 +4879,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/pechene_pryaniki/857446/",
     "key": "SAS|id:857446|1730|1210"
+   },
+   {
+    "store": "SAS",
+    "title": "Արգանակ սնկի «Доширак» 90գ",
+    "old": 320,
+    "new": 240,
+    "pct": 25,
+    "until": "26.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/309/420/4208801369316527.webp",
+    "url": "https://www.sas.am/catalog/spicess/918375/",
+    "key": "SAS|id:918375|320|240"
    }
   ],
   "Yerevan City": [
