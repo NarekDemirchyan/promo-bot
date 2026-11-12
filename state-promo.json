@@ -1332,7 +1332,8 @@
    "SAS|id:133927|1690|1180",
    "SAS|id:857446|1730|1210",
    "SAS|id:918375|320|240",
-   "SAS|id:916417|1690|840"
+   "SAS|id:916417|1690|840",
+   "SAS|id:956516|3350|2340"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4882,6 +4883,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/155/472/4728091244540662.webp",
     "url": "https://www.sas.am/catalog/import_morozenoe/916417/",
     "key": "SAS|id:916417|1690|840"
+   },
+   {
+    "store": "SAS",
+    "title": "Ազնվամորի կաթնային շոկոլադով «Oswald Schofrulade» 130գ",
+    "old": 3350,
+    "new": 2340,
+    "pct": 30,
+    "until": "30.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/frukty_ovoshchi_yagody/956516/",
+    "key": "SAS|id:956516|3350|2340"
    }
   ],
   "Yerevan City": [
