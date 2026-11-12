@@ -1314,7 +1314,8 @@
    "SAS|id:919432|38900|27230",
    "SAS|id:918296|1290|640",
    "SAS|id:916551|3350|2340",
-   "SAS|id:828268|2390|1190"
+   "SAS|id:828268|2390|1190",
+   "SAS|id:754964|2930|2050"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4846,6 +4847,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/pechene_pryaniki/828268/",
     "key": "SAS|id:828268|2390|1190"
+   },
+   {
+    "store": "SAS",
+    "title": "Կոնֆետներ աղի կարամելային «Carabreizh» 120գ",
+    "old": 2930,
+    "new": 2050,
+    "pct": 30,
+    "until": "30.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/konfety_v_upakovke/754964/",
+    "key": "SAS|id:754964|2930|2050"
    }
   ],
   "Yerevan City": [
