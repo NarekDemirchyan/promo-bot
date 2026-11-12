@@ -1308,7 +1308,8 @@
    "SAS|id:956510|3350|2340",
    "SAS|id:766166|3450|1720",
    "SAS|id:575122|980|490",
-   "SAS|id:202331|1460|1270"
+   "SAS|id:202331|1460|1270",
+   "SAS|id:924950|11900|5950"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4834,6 +4835,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/833/481/481782217981796.webp",
     "url": "https://www.sas.am/catalog/chipsy/202331/",
     "key": "SAS|id:202331|1460|1270"
+   },
+   {
+    "store": "SAS",
+    "title": "Պանիրների հավաքածու «Reypenaer Historiche Rijping» 0.390կգ",
+    "old": 11900,
+    "new": 5950,
+    "pct": 50,
+    "until": "30.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/296/807/8075121964634668.webp",
+    "url": "https://www.sas.am/catalog/importnyy_syr/924950/",
+    "key": "SAS|id:924950|11900|5950"
    }
   ],
   "Yerevan City": [
