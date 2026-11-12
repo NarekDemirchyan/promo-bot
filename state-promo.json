@@ -2650,17 +2650,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Զուգարանի թուղթ «Zewa Deluxe Lavender Dreams» 8 հատ",
-    "old": 2620,
-    "new": 2080,
-    "pct": 21,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/tualetnaya_bumaga/400640/",
-    "key": "SAS|id:400640|2620|2080"
-   },
-   {
-    "store": "SAS",
     "title": "Կանաչ ոլոռ «Bonduelle Delicate» 800գ",
     "old": 1640,
     "new": 1440,
@@ -7053,8 +7042,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-12T04:17:04.271666+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-12T04:32:23.982189+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
