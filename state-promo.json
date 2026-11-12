@@ -2650,22 +2650,12 @@
    "Yerevan City|id:194972|1050|790",
    "Yerevan City|id:194973|1050|790",
    "Yerevan City|id:170969|1040|840",
-   "Yerevan City|id:3826|1040|840"
+   "Yerevan City|id:3826|1040|840",
+   "Yerevan City|id:113010|1040|920"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շիլա վարսակի «Nestle Быстров» 240գ",
-    "old": 1330,
-    "new": 990,
-    "pct": 26,
-    "until": "20.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/kasha_myusli/62750/",
-    "key": "SAS|id:62750|1330|990"
-   },
    {
     "store": "SAS",
     "title": "Լազանյա «Barilla Lasagne № 189» 500գ",
@@ -7045,12 +7035,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1084761.png",
     "url": "https://yerevan-city.am/shop/product-details/3826",
     "key": "Yerevan City|id:3826|1040|840"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սիգ «Արտֆուդ» Սևանի, տոմատում 240գր",
+    "old": 1040,
+    "new": 920,
+    "pct": 12,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1143399.png",
+    "url": "https://yerevan-city.am/shop/product-details/113010",
+    "key": "Yerevan City|id:113010|1040|920"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-12T06:47:04.178371+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-12T07:02:31.653450+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
