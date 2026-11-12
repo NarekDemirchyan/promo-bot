@@ -2712,22 +2712,12 @@
    "Yerevan City|id:128711|990|690",
    "Yerevan City|id:178702|990|890",
    "Yerevan City|id:178703|990|890",
-   "Yerevan City|id:192499|990|590"
+   "Yerevan City|id:192499|990|590",
+   "Yerevan City|id:192500|990|590"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Դիմահարդարումը մաքրող խոնավ անձեռոցիկներ «Novita» 15 հատ",
-    "old": 350,
-    "new": 300,
-    "pct": 14,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/vetwip_es/154690/",
-    "key": "SAS|id:154690|350|300"
-   },
    {
     "store": "SAS",
     "title": "Սպունգ սպասք լվանալու «Vileda» 3հատ",
@@ -7107,12 +7097,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176227.png",
     "url": "https://yerevan-city.am/shop/product-details/192499",
     "key": "Yerevan City|id:192499|990|590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Բատոնչիկ պրոտ. «Ռեքս» կոկոս ա/շ 50գր",
+    "old": 990,
+    "new": 590,
+    "pct": 40,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176228.png",
+    "url": "https://yerevan-city.am/shop/product-details/192500",
+    "key": "Yerevan City|id:192500|990|590"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-13T02:09:02.706786+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-13T02:24:48.082244+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
