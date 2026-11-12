@@ -2648,22 +2648,12 @@
    "Yerevan City|id:176305|1050|790",
    "Yerevan City|id:194972|1050|790",
    "Yerevan City|id:194973|1050|790",
-   "Yerevan City|id:170969|1040|840"
+   "Yerevan City|id:170969|1040|840",
+   "Yerevan City|id:3826|1040|840"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կոնյակ «Մանե VSOP» 0.5լ",
-    "old": 5750,
-    "new": 5250,
-    "pct": 9,
-    "until": "08.01.2027",
-    "img": "",
-    "url": "https://www.sas.am/catalog/armyanskiy_konyak/81170/",
-    "key": "SAS|id:81170|5750|5250"
-   },
    {
     "store": "SAS",
     "title": "Շիլա վարսակի «Nestle Быстров» 240գ",
@@ -7043,12 +7033,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1164636.png",
     "url": "https://yerevan-city.am/shop/product-details/170969",
     "key": "Yerevan City|id:170969|1040|840"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թղթե սրբիչ «Կլեոպատրա» եռաշերտ 2հտ",
+    "old": 1040,
+    "new": 840,
+    "pct": 19,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1084761.png",
+    "url": "https://yerevan-city.am/shop/product-details/3826",
+    "key": "Yerevan City|id:3826|1040|840"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-12T06:02:34.582380+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-12T06:19:22.776553+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
