@@ -2676,22 +2676,12 @@
    "Yerevan City|id:93574|1030|850",
    "Yerevan City|id:91371|1030|860",
    "Yerevan City|id:6863|1020|840",
-   "Yerevan City|id:15988|1020|840"
+   "Yerevan City|id:15988|1020|840",
+   "Yerevan City|id:194249|1020|910"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Անձեռոցիկ սպունգանման «Vileda» 3հատ",
-    "old": 1470,
-    "new": 1350,
-    "pct": 8,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/755/085/0858653895985312.webp",
-    "url": "https://www.sas.am/catalog/rezinovye_izdeliya/154905/",
-    "key": "SAS|id:154905|1470|1350"
-   },
    {
     "store": "SAS",
     "title": "Մուրաբա ծիրանի «Իջևան» 600գ",
@@ -7071,12 +7061,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1021552.png",
     "url": "https://yerevan-city.am/shop/product-details/15988",
     "key": "Yerevan City|id:15988|1020|840"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Միջադիրներ «Օլվեյզ» Պլատինում, նայթ 7հտ",
+    "old": 1020,
+    "new": 910,
+    "pct": 11,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178017.png",
+    "url": "https://yerevan-city.am/shop/product-details/194249",
+    "key": "Yerevan City|id:194249|1020|910"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-12T14:47:07.420422+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-12T15:05:09.475389+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
