@@ -2728,22 +2728,12 @@
    "Yerevan City|id:30057|980|880",
    "Yerevan City|id:175848|980|880",
    "Yerevan City|id:175849|980|880",
-   "Yerevan City|id:180468|980|770"
+   "Yerevan City|id:180468|980|770",
+   "Yerevan City|id:180471|980|770"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Պատրաստի նախաճաշ «Nestle Nesquik» 310գ",
-    "old": 2230,
-    "new": 1950,
-    "pct": 13,
-    "until": "20.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/gotovyy_zavtrak/442343/",
-    "key": "SAS|id:442343|2230|1950"
-   },
    {
     "store": "SAS",
     "title": "Սափրող սարք «Wilkinson Intuition Complete Mini»",
@@ -7123,12 +7113,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174195.png",
     "url": "https://yerevan-city.am/shop/product-details/180468",
     "key": "Yerevan City|id:180468|980|770"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սառը սև թեյ «ՕԿՖ» կաթ, սև շաքար թ/տ 390մլ",
+    "old": 980,
+    "new": 770,
+    "pct": 21,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174196.png",
+    "url": "https://yerevan-city.am/shop/product-details/180471",
+    "key": "Yerevan City|id:180471|980|770"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-13T07:17:13.329404+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-13T07:32:30.052064+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
