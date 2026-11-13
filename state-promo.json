@@ -2798,17 +2798,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Լոբի կարմիր չիլի սոուսում «Bonduelle» 400գ",
-    "old": 1040,
-    "new": 840,
-    "pct": 19,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/goroshek/193114/",
-    "key": "SAS|id:193114|1040|840"
-   },
-   {
-    "store": "SAS",
     "title": "Ատամի մածուկ «Lacalut Aktiv» 50մլ",
     "old": 1670,
     "new": 1190,
@@ -7201,8 +7190,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-14T02:19:27.050207+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-14T02:47:14.575581+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
