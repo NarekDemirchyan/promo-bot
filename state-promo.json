@@ -2746,22 +2746,12 @@
    "Yerevan City|id:30058|970|870",
    "Yerevan City|id:30403|970|870",
    "Yerevan City|id:175851|970|870",
-   "Yerevan City|id:78866|950|830"
+   "Yerevan City|id:78866|950|830",
+   "Yerevan City|id:77423|950|790"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Վարտիք-տակդիրներ «Merries XXL» 15-28կգ, 24 հատ",
-    "old": 11100,
-    "new": 10300,
-    "pct": 7,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/276/752/7528133658660072.webp",
-    "url": "https://www.sas.am/catalog/podguzniki/867515/",
-    "key": "SAS|id:867515|11100|10300"
-   },
    {
     "store": "SAS",
     "title": "Աղբի տոպրակներ «Фрекен Бок» 35լ",
@@ -7141,12 +7131,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1121167.png",
     "url": "https://yerevan-city.am/shop/product-details/78866",
     "key": "Yerevan City|id:78866|950|830"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Միջադիրներ «Օլվեյզ» Ուլտրա, էքստրա նայթ 6հտ",
+    "old": 950,
+    "new": 790,
+    "pct": 17,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1119875.png",
+    "url": "https://yerevan-city.am/shop/product-details/77423",
+    "key": "Yerevan City|id:77423|950|790"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-13T12:47:11.293726+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-13T13:05:39.660860+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
