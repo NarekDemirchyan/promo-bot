@@ -2782,17 +2782,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Խառնուրդ բանջարաղենային «Bonduelle Mexico» 340գ",
-    "old": 1120,
-    "new": 940,
-    "pct": 16,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/drugie_ovoschnye_konservy/124569/",
-    "key": "SAS|id:124569|1120|940"
-   },
-   {
-    "store": "SAS",
     "title": "Սոուս ռեհանով «Barilla Basilico» 400մլ",
     "old": 2170,
     "new": 1560,
@@ -7185,8 +7174,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-13T22:02:46.918547+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-13T22:17:08.168561+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
