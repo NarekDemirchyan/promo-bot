@@ -1374,7 +1374,8 @@
    "SAS|id:202805|2290|2070",
    "SAS|id:202667|2810|2650",
    "SAS|id:202668|2810|2650",
-   "SAS|id:4742|5050|4600"
+   "SAS|id:4742|5050|4600",
+   "SAS|id:30689|7290|6750"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4966,6 +4967,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/shampanskoe_igristoe_vino/4742/",
     "key": "SAS|id:4742|5050|4600"
+   },
+   {
+    "store": "SAS",
+    "title": "Փրփրուն գինի «Տակառ Rose» 0.75լ",
+    "old": 7290,
+    "new": 6750,
+    "pct": 7,
+    "until": "08.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/shampanskoe_igristoe_vino/30689/",
+    "key": "SAS|id:30689|7290|6750"
    }
   ],
   "Yerevan City": [
