@@ -2722,22 +2722,12 @@
    "Yerevan City|id:192501|990|590",
    "Yerevan City|id:195045|990|770",
    "Yerevan City|id:13496|980|880",
-   "Yerevan City|id:30057|980|880"
+   "Yerevan City|id:30057|980|880",
+   "Yerevan City|id:175848|980|880"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Բրինձ երկարահատիկ «Alishaan Daily Basmati» 1կգ",
-    "old": 1070,
-    "new": 820,
-    "pct": 23,
-    "until": "25.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/271/877/8778844286918030.webp",
-    "url": "https://www.sas.am/catalog/ris/968156/",
-    "key": "SAS|id:968156|1070|820"
-   },
    {
     "store": "SAS",
     "title": "Բրինձ երկարահատիկ «Alishaan Superba Basmati» 1կգ",
@@ -7117,12 +7107,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1103996.png",
     "url": "https://yerevan-city.am/shop/product-details/30057",
     "key": "Yerevan City|id:30057|980|880"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մարինացված վարունգ «Արտֆուդ» պիկ.չիլի 1-4սմ 520գր",
+    "old": 980,
+    "new": 880,
+    "pct": 10,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169478.png",
+    "url": "https://yerevan-city.am/shop/product-details/175848",
+    "key": "Yerevan City|id:175848|980|880"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-13T05:17:08.649358+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-13T05:32:42.094591+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
