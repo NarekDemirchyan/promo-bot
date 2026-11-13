@@ -1357,7 +1357,8 @@
    "SAS|id:8145|2150|1890",
    "SAS|id:202802|2350|2150",
    "SAS|id:29241|5590|5150",
-   "SAS|id:6642|3540|3350"
+   "SAS|id:6642|3540|3350",
+   "SAS|id:29245|3540|3350"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4932,6 +4933,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/174/405/4059221766188346.webp",
     "url": "https://www.sas.am/catalog/armyanskoe_vino/6642/",
     "key": "SAS|id:6642|3540|3350"
+   },
+   {
+    "store": "SAS",
+    "title": "Գինի կարմիր «Երևան Արենի Կարմրահյութ» 0.75լ",
+    "old": 3540,
+    "new": 3350,
+    "pct": 5,
+    "until": "08.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/armyanskoe_vino/29245/",
+    "key": "SAS|id:29245|3540|3350"
    }
   ],
   "Yerevan City": [
