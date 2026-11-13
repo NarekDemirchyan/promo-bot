@@ -2800,17 +2800,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Ատամի մածուկ «Lacalut Aktiv» 50մլ",
-    "old": 1670,
-    "new": 1190,
-    "pct": 29,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/337/042/0429853179887885.webp",
-    "url": "https://www.sas.am/catalog/dlya_polosti_rta/130178/",
-    "key": "SAS|id:130178|1670|1190"
-   },
-   {
-    "store": "SAS",
     "title": "Մակարոն «Barilla Mezze Penne Tricolore № 170» 500գ",
     "old": 1670,
     "new": 1390,
@@ -7203,8 +7192,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-14T03:06:29.425945+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-14T03:35:12.979910+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
