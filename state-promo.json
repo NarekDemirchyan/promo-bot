@@ -2770,7 +2770,8 @@
    "Yerevan City|id:6762|940|770",
    "Yerevan City|id:8575|930|850",
    "Yerevan City|id:9837|930|850",
-   "Yerevan City|id:15962|930|850"
+   "Yerevan City|id:15962|930|850",
+   "Yerevan City|id:16293|930|850"
   ]
  },
  "queues": {
@@ -7165,6 +7166,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1033297.png",
     "url": "https://yerevan-city.am/shop/product-details/15962",
     "key": "Yerevan City|id:15962|930|850"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Օդի թարմացուցիչ «Գլեյդ» Երկն․ալիք-մագնոլիա 300մլ",
+    "old": 930,
+    "new": 850,
+    "pct": 9,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1099276.png",
+    "url": "https://yerevan-city.am/shop/product-details/16293",
+    "key": "Yerevan City|id:16293|930|850"
    }
   ]
  },
