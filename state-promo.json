@@ -2778,22 +2778,12 @@
    "Yerevan City|id:16293|930|850",
    "Yerevan City|id:54711|930|850",
    "Yerevan City|id:7337|950|790",
-   "Yerevan City|id:71082|930|850"
+   "Yerevan City|id:71082|930|850",
+   "Yerevan City|id:71083|930|850"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Հակաքրտինքային աէրոզոլային միջոց «Deonica No Parfum Гипоаллергенный» 200մլ",
-    "old": 1640,
-    "new": 1290,
-    "pct": 21,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/236/632/6324662523347922.webp",
-    "url": "https://www.sas.am/catalog/antiperspirantt/6810/",
-    "key": "SAS|id:6810|1640|1290"
-   },
    {
     "store": "SAS",
     "title": "Մակարոն «Barilla Fusilli» 400գ",
@@ -7173,12 +7163,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1114902.png",
     "url": "https://yerevan-city.am/shop/product-details/71082",
     "key": "Yerevan City|id:71082|930|850"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Օդի թարմացուցիչ «Գլեյդ» Սպիտակեղենի թարմ․300մլ",
+    "old": 930,
+    "new": 850,
+    "pct": 9,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1114900.png",
+    "url": "https://yerevan-city.am/shop/product-details/71083",
+    "key": "Yerevan City|id:71083|930|850"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-13T23:17:14.559678+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-13T23:32:15.795562+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
