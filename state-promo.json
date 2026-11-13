@@ -2782,22 +2782,12 @@
    "Yerevan City|id:7337|950|790",
    "Yerevan City|id:71082|930|850",
    "Yerevan City|id:71083|930|850",
-   "Yerevan City|id:50706|930|830"
+   "Yerevan City|id:50706|930|830",
+   "Yerevan City|id:50715|930|830"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Միջադիրներ «Libresse Ultra X Large Night» 8 հատ",
-    "old": 990,
-    "new": 890,
-    "pct": 10,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/dlya_intimnoy_gigieny2/432190/",
-    "key": "SAS|id:432190|990|890"
-   },
    {
     "store": "SAS",
     "title": "Սուրճ էսպրեսսո «Tonino Lamborghini Espresso» 200գ",
@@ -7177,12 +7167,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1106824.png",
     "url": "https://yerevan-city.am/shop/product-details/50706",
     "key": "Yerevan City|id:50706|930|830"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սմբուկի խավիար «Արտֆուդ» կծու 520գր",
+    "old": 930,
+    "new": 830,
+    "pct": 11,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1106825.png",
+    "url": "https://yerevan-city.am/shop/product-details/50715",
+    "key": "Yerevan City|id:50715|930|830"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-14T00:32:34.230155+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-14T00:47:17.292078+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
