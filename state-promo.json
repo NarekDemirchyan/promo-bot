@@ -1366,7 +1366,8 @@
    "SAS|id:677841|8990|8050",
    "SAS|id:677840|7930|7100",
    "SAS|id:584893|7290|6790",
-   "SAS|id:584892|6450|5800"
+   "SAS|id:584892|6450|5800",
+   "SAS|id:29226|2290|2070"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4950,20 +4951,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/armyanskoe_vodka/584892/",
     "key": "SAS|id:584892|6450|5800"
+   },
+   {
+    "store": "SAS",
+    "title": "Գինի կարմիր «Արմենիա» 0.75լ",
+    "old": 2290,
+    "new": 2070,
+    "pct": 10,
+    "until": "08.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/armyanskoe_vino/29226/",
+    "key": "SAS|id:29226|2290|2070"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Թեյ սև «Ահմադ» Էրլ Գրեյ 100գր",
-    "old": 1230,
-    "new": 690,
-    "pct": 44,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1051012.png",
-    "url": "https://yerevan-city.am/shop/product-details/13303",
-    "key": "Yerevan City|id:13303|1230|690"
-   },
    {
     "store": "Yerevan City",
     "title": "Թեյ սև «Ահմադ» Անգլիական նախաճաշ 100գր",
@@ -7156,8 +7157,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-13T16:17:13.310040+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-13T16:32:12.757718+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
