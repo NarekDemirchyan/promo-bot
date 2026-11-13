@@ -2744,17 +2744,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Ըմպելիք խնձորի և կիվիի «Zuegg Intenso Kiwi Mela» 1000մլ",
-    "old": 1520,
-    "new": 1290,
-    "pct": 15,
-    "until": "25.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/265/123/123697127436801.webp",
-    "url": "https://www.sas.am/catalog/sok/874218/",
-    "key": "SAS|id:874218|1520|1290"
-   },
-   {
-    "store": "SAS",
     "title": "Ըմպելիք խնձորի և նռան «Zuegg Melograno Zero» 1000մլ",
     "old": 1520,
     "new": 1290,
@@ -7147,8 +7136,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-13T09:34:22.919482+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-13T10:02:25.417806+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
