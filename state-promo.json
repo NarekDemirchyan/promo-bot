@@ -2768,22 +2768,12 @@
    "Yerevan City|id:195136|950|650",
    "Yerevan City|id:6762|940|770",
    "Yerevan City|id:8575|930|850",
-   "Yerevan City|id:9837|930|850"
+   "Yerevan City|id:9837|930|850",
+   "Yerevan City|id:15962|930|850"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Տոմատի մածուկ «Իջևան» 500գ",
-    "old": 1250,
-    "new": 1150,
-    "pct": 8,
-    "until": "28.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/302/016/0163294165418203.webp",
-    "url": "https://www.sas.am/catalog/pasta_tomatnaya/547805/",
-    "key": "SAS|id:547805|1250|1150"
-   },
    {
     "store": "SAS",
     "title": "Հատակի փայտի հավելյալ գլխիկ «Vileda Easy Wring & Clean",
@@ -7163,12 +7153,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1026577.png",
     "url": "https://yerevan-city.am/shop/product-details/9837",
     "key": "Yerevan City|id:9837|930|850"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Օդի թարմացուցիչ «Գլեյդ» անձրևից հետո 300մլ",
+    "old": 930,
+    "new": 850,
+    "pct": 9,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1033297.png",
+    "url": "https://yerevan-city.am/shop/product-details/15962",
+    "key": "Yerevan City|id:15962|930|850"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-13T20:02:52.431177+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-13T20:18:21.149048+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
