@@ -2772,22 +2772,12 @@
    "Yerevan City|id:8575|930|850",
    "Yerevan City|id:9837|930|850",
    "Yerevan City|id:15962|930|850",
-   "Yerevan City|id:16293|930|850"
+   "Yerevan City|id:16293|930|850",
+   "Yerevan City|id:54711|930|850"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սափրող սարք «Wilkinson Sensitive»",
-    "old": 1080,
-    "new": 920,
-    "pct": 15,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/stanok_dlya_britya/173917/",
-    "key": "SAS|id:173917|1080|920"
-   },
    {
     "store": "SAS",
     "title": "Խառնուրդ բանջարաղենային «Bonduelle Mexico» 340գ",
@@ -7167,12 +7157,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1099276.png",
     "url": "https://yerevan-city.am/shop/product-details/16293",
     "key": "Yerevan City|id:16293|930|850"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Օդի թարմացուցիչ «Գլեյդ» պիոն-հյութ․հատապտ․300մլ",
+    "old": 930,
+    "new": 850,
+    "pct": 9,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1108934.png",
+    "url": "https://yerevan-city.am/shop/product-details/54711",
+    "key": "Yerevan City|id:54711|930|850"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-13T21:17:30.194303+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-13T21:34:32.671752+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
