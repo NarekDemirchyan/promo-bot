@@ -1364,7 +1364,8 @@
    "SAS|id:29248|3540|3350",
    "SAS|id:677847|9890|9290",
    "SAS|id:677841|8990|8050",
-   "SAS|id:677840|7930|7100"
+   "SAS|id:677840|7930|7100",
+   "SAS|id:584893|7290|6790"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4946,20 +4947,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/931/442/442552284481583.webp",
     "url": "https://www.sas.am/catalog/armyanskoe_vodka/677840/",
     "key": "SAS|id:677840|7930|7100"
+   },
+   {
+    "store": "SAS",
+    "title": "Օղի «Արմենիա Պլատինում» 0.5լ",
+    "old": 7290,
+    "new": 6790,
+    "pct": 7,
+    "until": "08.01.2027",
+    "img": "https://www.sas.am/upload/Sh/imageCache/415/661/6612782433421910.webp",
+    "url": "https://www.sas.am/catalog/armyanskoe_vodka/584893/",
+    "key": "SAS|id:584893|7290|6790"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Թեյ սև «Ահմադ» №1 100գր",
-    "old": 1230,
-    "new": 690,
-    "pct": 44,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1044940.png",
-    "url": "https://yerevan-city.am/shop/product-details/6672",
-    "key": "Yerevan City|id:6672|1230|690"
-   },
    {
     "store": "Yerevan City",
     "title": "Թեյ սև «Ահմադ» դասական 100գր",
@@ -7152,8 +7153,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-13T15:02:29.646818+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-13T15:17:08.965428+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
