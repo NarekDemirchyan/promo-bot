@@ -2720,7 +2720,8 @@
    "Yerevan City|id:192500|990|590",
    "Yerevan City|id:192501|990|590",
    "Yerevan City|id:195045|990|770",
-   "Yerevan City|id:13496|980|880"
+   "Yerevan City|id:13496|980|880",
+   "Yerevan City|id:30057|980|880"
   ]
  },
  "queues": {
@@ -7115,6 +7116,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1085385.png",
     "url": "https://yerevan-city.am/shop/product-details/13496",
     "key": "Yerevan City|id:13496|980|880"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սմբուկի խավիար «Արտֆուդ» տնական, կծու 470գր",
+    "old": 980,
+    "new": 880,
+    "pct": 10,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1103996.png",
+    "url": "https://yerevan-city.am/shop/product-details/30057",
+    "key": "Yerevan City|id:30057|980|880"
    }
   ]
  },
