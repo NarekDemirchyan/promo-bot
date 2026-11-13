@@ -1370,7 +1370,8 @@
    "SAS|id:29226|2290|2070",
    "SAS|id:81443|6590|5890",
    "SAS|id:81439|5250|4750",
-   "SAS|id:202804|2290|2070"
+   "SAS|id:202804|2290|2070",
+   "SAS|id:202805|2290|2070"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4958,20 +4959,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/428/286/2864802189948983.webp",
     "url": "https://www.sas.am/catalog/shampanskoe_igristoe_vino/202804/",
     "key": "SAS|id:202804|2290|2070"
+   },
+   {
+    "store": "SAS",
+    "title": "Փրփրուն գինի «Արմենիա» 0.75լ",
+    "old": 2290,
+    "new": 2070,
+    "pct": 10,
+    "until": "08.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/shampanskoe_igristoe_vino/202805/",
+    "key": "SAS|id:202805|2290|2070"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Շամպուն տղ. «Փալմոլիվ» թեփի դեմ, եղեսպակ 450մլ",
-    "old": 1220,
-    "new": 1140,
-    "pct": 7,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1139483.png",
-    "url": "https://yerevan-city.am/shop/product-details/106335",
-    "key": "Yerevan City|id:106335|1220|1140"
-   },
    {
     "store": "Yerevan City",
     "title": "Շամպուն տղ. «Փալմոլիվ» մաքրում-թարմ. կիտրոն 450մ",
@@ -7164,8 +7165,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-13T19:02:37.158637+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-13T19:19:24.470856+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
