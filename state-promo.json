@@ -1380,7 +1380,8 @@
    "SAS|id:6529|1920|920",
    "SAS|id:3274|1280|1050",
    "SAS|id:965813|2010|1640",
-   "SAS|id:924954|3350|1670"
+   "SAS|id:924954|3350|1670",
+   "SAS|id:916547|3350|2340"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2785,22 +2786,12 @@
    "Yerevan City|id:71083|930|850",
    "Yerevan City|id:50706|930|830",
    "Yerevan City|id:50715|930|830",
-   "Yerevan City|id:4668|920|790"
+   "Yerevan City|id:4668|920|790",
+   "Yerevan City|id:174530|920|790"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ձեթ եգիպտացորենի «Luglio» 1լ",
-    "old": 1990,
-    "new": 1890,
-    "pct": 5,
-    "until": "12.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/428/327/327023257995451.webp",
-    "url": "https://www.sas.am/catalog/rastitelnoe/98056/",
-    "key": "SAS|id:98056|1990|1890"
-   },
    {
     "store": "SAS",
     "title": "Լվացքի գել մանկական «Ушастый Нянь» 750մլ",
@@ -4978,20 +4969,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/importnyy_syr/924954/",
     "key": "SAS|id:924954|3350|1670"
+   },
+   {
+    "store": "SAS",
+    "title": "Բալ սպիտակ շոկոլադով «Oswald Schofrulade» 130գ",
+    "old": 3350,
+    "new": 2340,
+    "pct": 30,
+    "until": "30.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/234/117/1170422996069639.webp",
+    "url": "https://www.sas.am/catalog/frukty_ovoshchi_yagody/916547/",
+    "key": "SAS|id:916547|3350|2340"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Եգիպտացորենի եռանկյունններ «Չիտոս» պիցցա 160գր",
-    "old": 1190,
-    "new": 890,
-    "pct": 25,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156469.png",
-    "url": "https://yerevan-city.am/shop/product-details/158826",
-    "key": "Yerevan City|id:158826|1190|890"
-   },
    {
     "store": "Yerevan City",
     "title": "Եգիպտացորենի ձող. «Չիտոս» Քրանչ.քաղցր չիլի 165գր",
@@ -7169,12 +7160,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1074326.png",
     "url": "https://yerevan-city.am/shop/product-details/4668",
     "key": "Yerevan City|id:4668|920|790"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Փրփուր սափրվելու համար «Արկո» հանգստ.կանեփ 200մլ",
+    "old": 920,
+    "new": 790,
+    "pct": 14,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168134.png",
+    "url": "https://yerevan-city.am/shop/product-details/174530",
+    "key": "Yerevan City|id:174530|920|790"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-14T01:32:15.145081+04:00",
+ "last_publish": "2026-11-14T01:47:20.598756+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
