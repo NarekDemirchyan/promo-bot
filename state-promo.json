@@ -1377,7 +1377,8 @@
    "SAS|id:4742|5050|4600",
    "SAS|id:30689|7290|6750",
    "SAS|id:197983|1590|1120",
-   "SAS|id:6529|1920|920"
+   "SAS|id:6529|1920|920",
+   "SAS|id:3274|1280|1050"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4972,20 +4973,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/942/241/2415242198784688.webp",
     "url": "https://www.sas.am/catalog/batareyka/6529/",
     "key": "SAS|id:6529|1920|920"
+   },
+   {
+    "store": "SAS",
+    "title": "Մակարոն «Barilla Integrale Pennette Rigate» 500գ",
+    "old": 1280,
+    "new": 1050,
+    "pct": 18,
+    "until": "25.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/makaronyy/3274/",
+    "key": "SAS|id:3274|1280|1050"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Չիպս «Դորիտոս» խորոված 110գր",
-    "old": 1190,
-    "new": 990,
-    "pct": 17,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1179394.png",
-    "url": "https://yerevan-city.am/shop/product-details/195547",
-    "key": "Yerevan City|id:195547|1190|990"
-   },
    {
     "store": "Yerevan City",
     "title": "Եգիպտացորենի գալարներ «Չիտոս» պապրիկա 130գր",
@@ -7178,8 +7179,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-13T23:32:15.795562+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-13T23:49:25.730348+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
