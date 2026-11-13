@@ -1353,7 +1353,8 @@
    "SAS|id:29223|2290|2070",
    "SAS|id:29228|2290|2070",
    "SAS|id:29250|2290|2070",
-   "SAS|id:29251|2290|2070"
+   "SAS|id:29251|2290|2070",
+   "SAS|id:8145|2150|1890"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4924,6 +4925,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/188/445/4451624176258454.webp",
     "url": "https://www.sas.am/catalog/armyanskoe_vino/29251/",
     "key": "SAS|id:29251|2290|2070"
+   },
+   {
+    "store": "SAS",
+    "title": "Փրփրուն գինի «Արմենիա» 0.75լ",
+    "old": 2150,
+    "new": 1890,
+    "pct": 12,
+    "until": "08.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/shampanskoe_igristoe_vino/8145/",
+    "key": "SAS|id:8145|2150|1890"
    }
   ],
   "Yerevan City": [
