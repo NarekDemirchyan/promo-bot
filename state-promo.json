@@ -2736,7 +2736,8 @@
    "Yerevan City|id:180471|980|770",
    "Yerevan City|id:6326|970|485",
    "Yerevan City|id:7479|970|870",
-   "Yerevan City|id:17494|970|485"
+   "Yerevan City|id:17494|970|485",
+   "Yerevan City|id:18209|970|870"
   ]
  },
  "queues": {
@@ -7131,6 +7132,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1023371.png",
     "url": "https://yerevan-city.am/shop/product-details/17494",
     "key": "Yerevan City|id:17494|970|485"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Աջիկա «Արտֆուդ» 520գր",
+    "old": 970,
+    "new": 870,
+    "pct": 10,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1050555.png",
+    "url": "https://yerevan-city.am/shop/product-details/18209",
+    "key": "Yerevan City|id:18209|970|870"
    }
   ]
  },
