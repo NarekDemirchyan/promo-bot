@@ -1363,7 +1363,8 @@
    "SAS|id:29247|3540|3350",
    "SAS|id:29248|3540|3350",
    "SAS|id:677847|9890|9290",
-   "SAS|id:677841|8990|8050"
+   "SAS|id:677841|8990|8050",
+   "SAS|id:677840|7930|7100"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4944,6 +4945,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/armyanskoe_vodka/677841/",
     "key": "SAS|id:677841|8990|8050"
+   },
+   {
+    "store": "SAS",
+    "title": "Օղի «Արմենիա Կլասսիկ» 700մլ",
+    "old": 7930,
+    "new": 7100,
+    "pct": 10,
+    "until": "08.01.2027",
+    "img": "https://www.sas.am/upload/Sh/imageCache/931/442/442552284481583.webp",
+    "url": "https://www.sas.am/catalog/armyanskoe_vodka/677840/",
+    "key": "SAS|id:677840|7930|7100"
    }
   ],
   "Yerevan City": [
