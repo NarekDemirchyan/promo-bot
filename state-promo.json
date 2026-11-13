@@ -2730,22 +2730,12 @@
    "Yerevan City|id:175848|980|880",
    "Yerevan City|id:175849|980|880",
    "Yerevan City|id:180468|980|770",
-   "Yerevan City|id:180471|980|770"
+   "Yerevan City|id:180471|980|770",
+   "Yerevan City|id:6326|970|485"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սափրող սարք «Wilkinson Intuition Complete Mini»",
-    "old": 6250,
-    "new": 4680,
-    "pct": 25,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/stanok_dlya_britya/923009/",
-    "key": "SAS|id:923009|6250|4680"
-   },
    {
     "store": "SAS",
     "title": "Աղանդեր սպիտակուցային թխվածքաբլիթով «YoPro Triple Zero Cookies» 130գ",
@@ -7125,12 +7115,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174196.png",
     "url": "https://yerevan-city.am/shop/product-details/180471",
     "key": "Yerevan City|id:180471|980|770"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մարտկոց «Էներջայզեր» Ալկալայն Փաուեր ԱԱ 1.5Վ 2հտ",
+    "old": 970,
+    "new": 485,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1000724.png",
+    "url": "https://yerevan-city.am/shop/product-details/6326",
+    "key": "Yerevan City|id:6326|970|485"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-13T07:47:27.236485+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-13T08:05:00.044035+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
