@@ -2792,7 +2792,8 @@
    "Yerevan City|id:4668|920|790",
    "Yerevan City|id:174530|920|790",
    "Yerevan City|id:15086|910|710",
-   "Yerevan City|id:57510|910|810"
+   "Yerevan City|id:57510|910|810",
+   "Yerevan City|id:4645|910|790"
   ]
  },
  "queues": {
@@ -7187,6 +7188,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1110523.png",
     "url": "https://yerevan-city.am/shop/product-details/57510",
     "key": "Yerevan City|id:57510|910|810"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կանաչ ոլոռ «Արտֆուդ» ա/տ 720գր",
+    "old": 910,
+    "new": 790,
+    "pct": 13,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1044055.png",
+    "url": "https://yerevan-city.am/shop/product-details/4645",
+    "key": "Yerevan City|id:4645|910|790"
    }
   ]
  },
