@@ -2776,7 +2776,8 @@
    "Yerevan City|id:15962|930|850",
    "Yerevan City|id:16293|930|850",
    "Yerevan City|id:54711|930|850",
-   "Yerevan City|id:7337|950|790"
+   "Yerevan City|id:7337|950|790",
+   "Yerevan City|id:71082|930|850"
   ]
  },
  "queues": {
@@ -7171,6 +7172,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1003231.png",
     "url": "https://yerevan-city.am/shop/product-details/7337",
     "key": "Yerevan City|id:7337|950|790"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Օդի թարմացուցիչ «Գլեյդ» Հանգիստ նարդ-հալվե 300մլ",
+    "old": 930,
+    "new": 850,
+    "pct": 9,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1114902.png",
+    "url": "https://yerevan-city.am/shop/product-details/71082",
+    "key": "Yerevan City|id:71082|930|850"
    }
   ]
  },
