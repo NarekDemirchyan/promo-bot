@@ -2784,7 +2784,8 @@
    "Yerevan City|id:71082|930|850",
    "Yerevan City|id:71083|930|850",
    "Yerevan City|id:50706|930|830",
-   "Yerevan City|id:50715|930|830"
+   "Yerevan City|id:50715|930|830",
+   "Yerevan City|id:4668|920|790"
   ]
  },
  "queues": {
@@ -7179,6 +7180,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1106825.png",
     "url": "https://yerevan-city.am/shop/product-details/50715",
     "key": "Yerevan City|id:50715|930|830"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Փրփուր սափրվելու համար «Արկո» զգայուն մաշկ 200մլ",
+    "old": 920,
+    "new": 790,
+    "pct": 14,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1074326.png",
+    "url": "https://yerevan-city.am/shop/product-details/4668",
+    "key": "Yerevan City|id:4668|920|790"
    }
   ]
  },
