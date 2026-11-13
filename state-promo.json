@@ -1381,7 +1381,8 @@
    "SAS|id:3274|1280|1050",
    "SAS|id:965813|2010|1640",
    "SAS|id:924954|3350|1670",
-   "SAS|id:916547|3350|2340"
+   "SAS|id:916547|3350|2340",
+   "SAS|id:35618|2250|1590"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2787,22 +2788,12 @@
    "Yerevan City|id:50706|930|830",
    "Yerevan City|id:50715|930|830",
    "Yerevan City|id:4668|920|790",
-   "Yerevan City|id:174530|920|790"
+   "Yerevan City|id:174530|920|790",
+   "Yerevan City|id:15086|910|710"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Լվացքի գել մանկական «Ушастый Нянь» 750մլ",
-    "old": 2670,
-    "new": 2330,
-    "pct": 13,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/200/309/3094413917632004.webp",
-    "url": "https://www.sas.am/catalog/forlaundryy/170680/",
-    "key": "SAS|id:170680|2670|2330"
-   },
    {
     "store": "SAS",
     "title": "Լոբի կարմիր չիլի սոուսում «Bonduelle» 400գ",
@@ -4980,6 +4971,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/234/117/1170422996069639.webp",
     "url": "https://www.sas.am/catalog/frukty_ovoshchi_yagody/916547/",
     "key": "SAS|id:916547|3350|2340"
+   },
+   {
+    "store": "SAS",
+    "title": "Լոգանքի փրփուր «Malizia» 1լ",
+    "old": 2250,
+    "new": 1590,
+    "pct": 29,
+    "until": "27.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/488/914/9144861991515466.webp",
+    "url": "https://www.sas.am/catalog/showergell/35618/",
+    "key": "SAS|id:35618|2250|1590"
    }
   ],
   "Yerevan City": [
@@ -7171,12 +7173,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168134.png",
     "url": "https://yerevan-city.am/shop/product-details/174530",
     "key": "Yerevan City|id:174530|920|790"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Միջադիրներ «Լիբրես» ինվիզիբլ, ուլտրա, գիշեր. 10հ",
+    "old": 910,
+    "new": 710,
+    "pct": 22,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1014216.png",
+    "url": "https://yerevan-city.am/shop/product-details/15086",
+    "key": "Yerevan City|id:15086|910|710"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-14T01:47:20.598756+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-14T02:02:21.086709+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
