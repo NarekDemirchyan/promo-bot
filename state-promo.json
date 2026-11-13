@@ -2740,22 +2740,12 @@
    "Yerevan City|id:7479|970|870",
    "Yerevan City|id:17494|970|485",
    "Yerevan City|id:18209|970|870",
-   "Yerevan City|id:30058|970|870"
+   "Yerevan City|id:30058|970|870",
+   "Yerevan City|id:30403|970|870"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ըմպելիք արքայախնձորի «Zuegg Intenso Ananas» 1000մլ",
-    "old": 1520,
-    "new": 1290,
-    "pct": 15,
-    "until": "25.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/sok/874211/",
-    "key": "SAS|id:874211|1520|1290"
-   },
    {
     "store": "SAS",
     "title": "Հակաքրտինքային աէրոզոլային միջոց «Nivea Derma Control Defend» 150մլ",
@@ -7135,12 +7125,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1103994.png",
     "url": "https://yerevan-city.am/shop/product-details/30058",
     "key": "Yerevan City|id:30058|970|870"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Աջիկա «Արտֆուդ» կծու 520գր",
+    "old": 970,
+    "new": 870,
+    "pct": 10,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1103995.png",
+    "url": "https://yerevan-city.am/shop/product-details/30403",
+    "key": "Yerevan City|id:30403|970|870"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-13T11:02:29.195131+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-13T11:17:02.969429+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
