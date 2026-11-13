@@ -2760,17 +2760,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Կտոր ունիվերսալ «Фрекен Бок» 6 հատ",
-    "old": 890,
-    "new": 760,
-    "pct": 15,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/rezinovye_izdeliya/858517/",
-    "key": "SAS|id:858517|890|760"
-   },
-   {
-    "store": "SAS",
     "title": "Սպունգ սպասք լվանալու «Фрекен Бок» 6 հատ",
     "old": 390,
     "new": 350,
@@ -7163,8 +7152,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-13T14:34:04.658209+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-13T15:02:29.646818+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
