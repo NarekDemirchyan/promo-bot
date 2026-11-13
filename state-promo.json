@@ -2778,17 +2778,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Հատակի փայտի հավելյալ գլխիկ «Vileda Easy Wring & Clean",
-    "old": 5410,
-    "new": 4750,
-    "pct": 12,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/277/285/2850973564913397.webp",
-    "url": "https://www.sas.am/catalog/cleaningagent/48438/",
-    "key": "SAS|id:48438|5410|4750"
-   },
-   {
-    "store": "SAS",
     "title": "Սափրող սարք «Wilkinson Sensitive»",
     "old": 1080,
     "new": 920,
@@ -7181,8 +7170,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-13T20:34:02.039532+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-13T21:02:25.083857+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
