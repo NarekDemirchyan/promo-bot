@@ -1373,7 +1373,8 @@
    "SAS|id:202804|2290|2070",
    "SAS|id:202805|2290|2070",
    "SAS|id:202667|2810|2650",
-   "SAS|id:202668|2810|2650"
+   "SAS|id:202668|2810|2650",
+   "SAS|id:4742|5050|4600"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4964,20 +4965,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/163/609/6091452922303167.webp",
     "url": "https://www.sas.am/catalog/shampanskoe_igristoe_vino/202668/",
     "key": "SAS|id:202668|2810|2650"
+   },
+   {
+    "store": "SAS",
+    "title": "Փրփրուն գինի «Տակառ Extra Brut» 0.75լ",
+    "old": 5050,
+    "new": 4600,
+    "pct": 9,
+    "until": "08.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/shampanskoe_igristoe_vino/4742/",
+    "key": "SAS|id:4742|5050|4600"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Շամպուն «Փալմոլիվ» ծավալ, կոկոս 450մլ",
-    "old": 1220,
-    "new": 1140,
-    "pct": 7,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1139495.png",
-    "url": "https://yerevan-city.am/shop/product-details/106345",
-    "key": "Yerevan City|id:106345|1220|1140"
-   },
    {
     "store": "Yerevan City",
     "title": "Շամպուն «Փալմոլիվ» խոնավեցում ձիթապտղի յուղ 450մ",
@@ -7170,8 +7171,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-13T21:02:25.083857+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-13T21:17:30.194303+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
