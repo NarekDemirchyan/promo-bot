@@ -1384,7 +1384,8 @@
    "SAS|id:916547|3350|2340",
    "SAS|id:35618|2250|1590",
    "SAS|id:111519|3280|2350",
-   "SAS|id:80523|3280|2350"
+   "SAS|id:80523|3280|2350",
+   "SAS|id:16113|790|690"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4986,6 +4987,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/234/932/932036903357544.webp",
     "url": "https://www.sas.am/catalog/nabory_konfet/80523/",
     "key": "SAS|id:80523|3280|2350"
+   },
+   {
+    "store": "SAS",
+    "title": "Աջիկա «Արտֆուդ» 260գ",
+    "old": 790,
+    "new": 690,
+    "pct": 13,
+    "until": "31.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/913/209/209293658412664.webp",
+    "url": "https://www.sas.am/catalog/baklazhan/16113/",
+    "key": "SAS|id:16113|790|690"
    }
   ],
   "Yerevan City": [
