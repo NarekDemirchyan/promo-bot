@@ -2762,22 +2762,12 @@
    "Yerevan City|id:193138|950|390",
    "Yerevan City|id:193150|950|390",
    "Yerevan City|id:193151|950|390",
-   "Yerevan City|id:195136|950|650"
+   "Yerevan City|id:195136|950|650",
+   "Yerevan City|id:6762|940|770"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Զուգարանի թուղթ խոնավ «Zewa Kids» 42 հատ",
-    "old": 1050,
-    "new": 890,
-    "pct": 15,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/323/547/547949128709409.webp",
-    "url": "https://www.sas.am/catalog/tualetnaya_bumaga/31578/",
-    "key": "SAS|id:31578|1050|890"
-   },
    {
     "store": "SAS",
     "title": "Քացախ բալզամիկ «Ponti Balsamico» 500մլ",
@@ -7157,12 +7147,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178939.png",
     "url": "https://yerevan-city.am/shop/product-details/195136",
     "key": "Yerevan City|id:195136|950|650"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մարինացված եգիպտացորեն «Լորադո» պատիճով 370մլ",
+    "old": 940,
+    "new": 770,
+    "pct": 18,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1044967.png",
+    "url": "https://yerevan-city.am/shop/product-details/6762",
+    "key": "Yerevan City|id:6762|940|770"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-13T17:47:06.964830+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-13T18:05:19.245313+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
