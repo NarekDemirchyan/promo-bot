@@ -2752,7 +2752,8 @@
    "Yerevan City|id:78866|950|830",
    "Yerevan City|id:77423|950|790",
    "Yerevan City|id:16523|950|790",
-   "Yerevan City|id:193137|950|390"
+   "Yerevan City|id:193137|950|390",
+   "Yerevan City|id:2110|950|840"
   ]
  },
  "queues": {
@@ -7147,6 +7148,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176897.png",
     "url": "https://yerevan-city.am/shop/product-details/193137",
     "key": "Yerevan City|id:193137|950|390"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Եգիպտացորեն քաղցր «Լուտիկ» 850գր",
+    "old": 950,
+    "new": 840,
+    "pct": 12,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1051446.png",
+    "url": "https://yerevan-city.am/shop/product-details/2110",
+    "key": "Yerevan City|id:2110|950|840"
    }
   ]
  },
