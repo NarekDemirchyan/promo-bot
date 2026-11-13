@@ -2792,17 +2792,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Սուրճ էսպրեսսո «Tonino Lamborghini Espresso» 200գ",
-    "old": 3690,
-    "new": 2690,
-    "pct": 27,
-    "until": "13.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/150/301/3011214034757328.webp",
-    "url": "https://www.sas.am/catalog/molotyy/255852/",
-    "key": "SAS|id:255852|3690|2690"
-   },
-   {
-    "store": "SAS",
     "title": "Ձեթ եգիպտացորենի «Luglio» 1լ",
     "old": 1990,
     "new": 1890,
@@ -4992,17 +4981,6 @@
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Եգիպտացորենի օղակներ «Չիտոս» կանաչ սոխ 130գր",
-    "old": 1190,
-    "new": 890,
-    "pct": 25,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156468.png",
-    "url": "https://yerevan-city.am/shop/product-details/158825",
-    "key": "Yerevan City|id:158825|1190|890"
-   },
    {
     "store": "Yerevan City",
     "title": "Եգիպտացորենի եռանկյունններ «Չիտոս» պիցցա 160գր",
@@ -7196,7 +7174,7 @@
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-14T01:05:40.488406+04:00",
+ "last_publish": "2026-11-14T01:32:15.145081+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
