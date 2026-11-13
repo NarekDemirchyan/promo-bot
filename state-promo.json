@@ -1375,7 +1375,8 @@
    "SAS|id:202667|2810|2650",
    "SAS|id:202668|2810|2650",
    "SAS|id:4742|5050|4600",
-   "SAS|id:30689|7290|6750"
+   "SAS|id:30689|7290|6750",
+   "SAS|id:197983|1590|1120"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4968,20 +4969,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/shampanskoe_igristoe_vino/30689/",
     "key": "SAS|id:30689|7290|6750"
+   },
+   {
+    "store": "SAS",
+    "title": "Թեյ սև «Ahmad Tea» 20*2գ",
+    "old": 1590,
+    "new": 1120,
+    "pct": 30,
+    "until": "20.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/v_paketakh/197983/",
+    "key": "SAS|id:197983|1590|1120"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Թղթե սրբիչ «Սելպակ» 2հտ",
-    "old": 1210,
-    "new": 810,
-    "pct": 33,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1000494.png",
-    "url": "https://yerevan-city.am/shop/product-details/6974",
-    "key": "Yerevan City|id:6974|1210|810"
-   },
    {
     "store": "Yerevan City",
     "title": "Եգիպտացորենի ձողիկներ «Չիտոս» պանիր 130գր",
@@ -7174,8 +7175,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-13T22:17:08.168561+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-13T22:36:02.177075+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
