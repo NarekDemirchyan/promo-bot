@@ -1347,7 +1347,8 @@
    "SAS|id:29242|5590|5150",
    "SAS|id:29227|2290|2070",
    "SAS|id:6656|5590|5150",
-   "SAS|id:29230|2290|2070"
+   "SAS|id:29230|2290|2070",
+   "SAS|id:584891|5250|4950"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4912,20 +4913,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/387/702/7029443762337816.webp",
     "url": "https://www.sas.am/catalog/armyanskoe_vino/29230/",
     "key": "SAS|id:29230|2290|2070"
+   },
+   {
+    "store": "SAS",
+    "title": "Օղի «Արմենիա Կլասիկ» 0.5լ",
+    "old": 5250,
+    "new": 4950,
+    "pct": 6,
+    "until": "08.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/armyanskoe_vodka/584891/",
+    "key": "SAS|id:584891|5250|4950"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Մարտկոց «Էներջայզեր» Լիթիում ՑՌ1616 3Վ 1հտ",
-    "old": 1260,
-    "new": 630,
-    "pct": 50,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1070789.png",
-    "url": "https://yerevan-city.am/shop/product-details/8340",
-    "key": "Yerevan City|id:8340|1260|630"
-   },
    {
     "store": "Yerevan City",
     "title": "Վիսկիի բաժակներ «ՕՍԶ» Կրիստալ 6հտ 05Ց1240",
@@ -7118,8 +7119,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-13T04:17:08.430407+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-13T04:34:30.637561+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
