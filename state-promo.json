@@ -2756,22 +2756,12 @@
    "Yerevan City|id:16523|950|790",
    "Yerevan City|id:193137|950|390",
    "Yerevan City|id:2110|950|840",
-   "Yerevan City|id:193138|950|390"
+   "Yerevan City|id:193138|950|390",
+   "Yerevan City|id:193150|950|390"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Հագուստը մաքրող գլանակ «Фрекен Бок»",
-    "old": 580,
-    "new": 520,
-    "pct": 10,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/346/574/5746271854756098.webp",
-    "url": "https://www.sas.am/catalog/dlya_odezhdy_obuvi/858487/",
-    "key": "SAS|id:858487|580|520"
-   },
    {
     "store": "SAS",
     "title": "Թեյ սև «Ahmad Tea» 25*2գ",
@@ -7151,12 +7141,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176898.png",
     "url": "https://yerevan-city.am/shop/product-details/193138",
     "key": "Yerevan City|id:193138|950|390"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գրչատուփ ռետինե «Մարիո» ՅՀ-14",
+    "old": 950,
+    "new": 390,
+    "pct": 59,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176900.png",
+    "url": "https://yerevan-city.am/shop/product-details/193150",
+    "key": "Yerevan City|id:193150|950|390"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-13T16:02:36.095202+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-13T16:17:13.310040+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
