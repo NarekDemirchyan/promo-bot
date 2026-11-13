@@ -2744,22 +2744,12 @@
    "Yerevan City|id:18209|970|870",
    "Yerevan City|id:30058|970|870",
    "Yerevan City|id:30403|970|870",
-   "Yerevan City|id:175851|970|870"
+   "Yerevan City|id:175851|970|870",
+   "Yerevan City|id:78866|950|830"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Հակաքրտինքային միջոց գնդիկով «Nivea Derma Control Defend» 50մլ",
-    "old": 1450,
-    "new": 1220,
-    "pct": 16,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/203/369/3697493973433424.webp",
-    "url": "https://www.sas.am/catalog/antiperspirantt/873097/",
-    "key": "SAS|id:873097|1450|1220"
-   },
    {
     "store": "SAS",
     "title": "Վարտիք-տակդիրներ «Merries XXL» 15-28կգ, 24 հատ",
@@ -7139,12 +7129,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169481.png",
     "url": "https://yerevan-city.am/shop/product-details/175851",
     "key": "Yerevan City|id:175851|970|870"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հնդկաձավար «Յարմարկա» 700գր",
+    "old": 950,
+    "new": 830,
+    "pct": 13,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1121167.png",
+    "url": "https://yerevan-city.am/shop/product-details/78866",
+    "key": "Yerevan City|id:78866|950|830"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-13T12:17:11.387593+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-13T12:32:14.531382+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
@@ -7153,7 +7154,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 58,
+ "city_page": 59,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
