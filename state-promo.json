@@ -2764,7 +2764,8 @@
    "Yerevan City|id:193150|950|390",
    "Yerevan City|id:193151|950|390",
    "Yerevan City|id:195136|950|650",
-   "Yerevan City|id:6762|940|770"
+   "Yerevan City|id:6762|940|770",
+   "Yerevan City|id:8575|930|850"
   ]
  },
  "queues": {
@@ -7159,6 +7160,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1044967.png",
     "url": "https://yerevan-city.am/shop/product-details/6762",
     "key": "Yerevan City|id:6762|940|770"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Օդի թարմացուցիչ «Գլեյդ» Ցիտրուս 300մլ",
+    "old": 930,
+    "new": 850,
+    "pct": 9,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1015222.png",
+    "url": "https://yerevan-city.am/shop/product-details/8575",
+    "key": "Yerevan City|id:8575|930|850"
    }
   ]
  },
