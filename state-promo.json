@@ -2718,22 +2718,12 @@
    "Yerevan City|id:192499|990|590",
    "Yerevan City|id:192500|990|590",
    "Yerevan City|id:192501|990|590",
-   "Yerevan City|id:195045|990|770"
+   "Yerevan City|id:195045|990|770",
+   "Yerevan City|id:13496|980|880"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սպագետտի «Barilla №3» 500գ",
-    "old": 880,
-    "new": 730,
-    "pct": 17,
-    "until": "25.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/spagetti_kapelini/95747/",
-    "key": "SAS|id:95747|880|730"
-   },
    {
     "store": "SAS",
     "title": "Զուգարանի թուղթ «Zewa Deluxe Pure White» 8 հատ",
@@ -7113,12 +7103,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178850.png",
     "url": "https://yerevan-city.am/shop/product-details/195045",
     "key": "Yerevan City|id:195045|990|770"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սմբուկի խավիար «Արտֆուդ» տնական 470գր",
+    "old": 980,
+    "new": 880,
+    "pct": 10,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1085385.png",
+    "url": "https://yerevan-city.am/shop/product-details/13496",
+    "key": "Yerevan City|id:13496|980|880"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-13T04:02:34.543395+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-13T04:17:08.430407+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
