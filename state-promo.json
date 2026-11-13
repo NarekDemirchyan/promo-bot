@@ -2774,7 +2774,8 @@
    "Yerevan City|id:9837|930|850",
    "Yerevan City|id:15962|930|850",
    "Yerevan City|id:16293|930|850",
-   "Yerevan City|id:54711|930|850"
+   "Yerevan City|id:54711|930|850",
+   "Yerevan City|id:7337|950|790"
   ]
  },
  "queues": {
@@ -7169,6 +7170,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1108934.png",
     "url": "https://yerevan-city.am/shop/product-details/54711",
     "key": "Yerevan City|id:54711|930|850"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ձեռքերի քսուք «Նիվեա» մեղվամոմ 75մլ",
+    "old": 950,
+    "new": 790,
+    "pct": 17,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1003231.png",
+    "url": "https://yerevan-city.am/shop/product-details/7337",
+    "key": "Yerevan City|id:7337|950|790"
    }
   ]
  },
