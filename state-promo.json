@@ -2754,22 +2754,12 @@
    "Yerevan City|id:77423|950|790",
    "Yerevan City|id:16523|950|790",
    "Yerevan City|id:193137|950|390",
-   "Yerevan City|id:2110|950|840"
+   "Yerevan City|id:2110|950|840",
+   "Yerevan City|id:193138|950|390"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սպունգ սպասք լվանալու «Фрекен Бок» 6 հատ",
-    "old": 390,
-    "new": 350,
-    "pct": 10,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/168/230/2301941408072882.webp",
-    "url": "https://www.sas.am/catalog/sredstva_dlya_posudy/858489/",
-    "key": "SAS|id:858489|390|350"
-   },
    {
     "store": "SAS",
     "title": "Հագուստը մաքրող գլանակ «Фрекен Бок»",
@@ -7149,12 +7139,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1051446.png",
     "url": "https://yerevan-city.am/shop/product-details/2110",
     "key": "Yerevan City|id:2110|950|840"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գրչատուփ ռետինե «Սթիթչ» ՅՀ-14",
+    "old": 950,
+    "new": 390,
+    "pct": 59,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176898.png",
+    "url": "https://yerevan-city.am/shop/product-details/193138",
+    "key": "Yerevan City|id:193138|950|390"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-13T15:17:08.965428+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-13T15:35:24.100588+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
