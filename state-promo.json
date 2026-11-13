@@ -4983,17 +4983,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Շամպուն «Փալմոլիվ» խոնավեցում ձիթապտղի յուղ 450մ",
-    "old": 1220,
-    "new": 1140,
-    "pct": 7,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1139496.png",
-    "url": "https://yerevan-city.am/shop/product-details/106346",
-    "key": "Yerevan City|id:106346|1220|1140"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Թղթե սրբիչ «Սելպակ» 2հտ",
     "old": 1210,
     "new": 810,
@@ -7184,8 +7173,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-13T21:34:32.671752+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-13T22:02:46.918547+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
