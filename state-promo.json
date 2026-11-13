@@ -2724,7 +2724,8 @@
    "Yerevan City|id:195045|990|770",
    "Yerevan City|id:13496|980|880",
    "Yerevan City|id:30057|980|880",
-   "Yerevan City|id:175848|980|880"
+   "Yerevan City|id:175848|980|880",
+   "Yerevan City|id:175849|980|880"
   ]
  },
  "queues": {
@@ -7119,6 +7120,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169478.png",
     "url": "https://yerevan-city.am/shop/product-details/175848",
     "key": "Yerevan City|id:175848|980|880"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մարինացված վարունգ «Արտֆուդ» պիկ. 1-4սմ 520գր",
+    "old": 980,
+    "new": 880,
+    "pct": 10,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169479.png",
+    "url": "https://yerevan-city.am/shop/product-details/175849",
+    "key": "Yerevan City|id:175849|980|880"
    }
   ]
  },
