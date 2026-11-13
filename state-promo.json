@@ -1348,7 +1348,8 @@
    "SAS|id:29227|2290|2070",
    "SAS|id:6656|5590|5150",
    "SAS|id:29230|2290|2070",
-   "SAS|id:584891|5250|4950"
+   "SAS|id:584891|5250|4950",
+   "SAS|id:29229|2290|2070"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4914,20 +4915,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/armyanskoe_vodka/584891/",
     "key": "SAS|id:584891|5250|4950"
+   },
+   {
+    "store": "SAS",
+    "title": "Գինի սպիտակ «Արմենիա» 0.75լ",
+    "old": 2290,
+    "new": 2070,
+    "pct": 10,
+    "until": "08.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/armyanskoe_vino/29229/",
+    "key": "SAS|id:29229|2290|2070"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Վիսկիի բաժակներ «ՕՍԶ» Կրիստալ 6հտ 05Ց1240",
-    "old": 1250,
-    "new": 890,
-    "pct": 29,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1092446.png",
-    "url": "https://yerevan-city.am/shop/product-details/22368",
-    "key": "Yerevan City|id:22368|1250|890"
-   },
    {
     "store": "Yerevan City",
     "title": "Գնդիկավոր հոտազերծիչ «Նիվեա» սև և սպիտակ, կապույտ 50մլ",
@@ -7120,8 +7121,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-13T05:02:32.355698+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-13T05:17:08.649358+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
