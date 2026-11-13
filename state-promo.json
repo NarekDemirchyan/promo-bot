@@ -2728,17 +2728,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Զուգարանի թուղթ «Zewa Deluxe Pure White» 8 հատ",
-    "old": 2620,
-    "new": 2080,
-    "pct": 21,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/tualetnaya_bumaga/25342/",
-    "key": "SAS|id:25342|2620|2080"
-   },
-   {
-    "store": "SAS",
     "title": "Բրինձ երկարահատիկ «Alishaan Daily Basmati» 1կգ",
     "old": 1070,
     "new": 820,
@@ -7131,8 +7120,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-13T04:34:30.637561+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-13T05:02:32.355698+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
