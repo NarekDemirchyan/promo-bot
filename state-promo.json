@@ -1365,7 +1365,8 @@
    "SAS|id:677847|9890|9290",
    "SAS|id:677841|8990|8050",
    "SAS|id:677840|7930|7100",
-   "SAS|id:584893|7290|6790"
+   "SAS|id:584893|7290|6790",
+   "SAS|id:584892|6450|5800"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4948,6 +4949,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/415/661/6612782433421910.webp",
     "url": "https://www.sas.am/catalog/armyanskoe_vodka/584893/",
     "key": "SAS|id:584893|7290|6790"
+   },
+   {
+    "store": "SAS",
+    "title": "Օղի «Արմենիա Այս» 0.5լ",
+    "old": 6450,
+    "new": 5800,
+    "pct": 10,
+    "until": "08.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/armyanskoe_vodka/584892/",
+    "key": "SAS|id:584892|6450|5800"
    }
   ],
   "Yerevan City": [
