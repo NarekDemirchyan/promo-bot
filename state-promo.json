@@ -2760,22 +2760,12 @@
    "Yerevan City|id:2110|950|840",
    "Yerevan City|id:193138|950|390",
    "Yerevan City|id:193150|950|390",
-   "Yerevan City|id:193151|950|390"
+   "Yerevan City|id:193151|950|390",
+   "Yerevan City|id:195136|950|650"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Թեյ սև «Ahmad Tea Assam» 100գ",
-    "old": 1420,
-    "new": 960,
-    "pct": 32,
-    "until": "20.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/listovoy/197912/",
-    "key": "SAS|id:197912|1420|960"
-   },
    {
     "store": "SAS",
     "title": "Զուգարանի թուղթ խոնավ «Zewa Kids» 42 հատ",
@@ -7155,12 +7145,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176901.png",
     "url": "https://yerevan-city.am/shop/product-details/193151",
     "key": "Yerevan City|id:193151|950|390"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Փափուկ խաղալիք «Գնդակ» 162-Պ22",
+    "old": 950,
+    "new": 650,
+    "pct": 32,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178939.png",
+    "url": "https://yerevan-city.am/shop/product-details/195136",
+    "key": "Yerevan City|id:195136|950|650"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-13T17:17:16.788770+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-13T17:32:25.496882+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
