@@ -2734,22 +2734,12 @@
    "Yerevan City|id:180468|980|770",
    "Yerevan City|id:180471|980|770",
    "Yerevan City|id:6326|970|485",
-   "Yerevan City|id:7479|970|870"
+   "Yerevan City|id:7479|970|870",
+   "Yerevan City|id:17494|970|485"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Բերանի խոռոչի ողողման հեղուկ \"Lacalut White\" 300մլ",
-    "old": 3450,
-    "new": 2490,
-    "pct": 28,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/opalaskivatel_rta/881063/",
-    "key": "SAS|id:881063|3450|2490"
-   },
    {
     "store": "SAS",
     "title": "Ըմպելիք խնձորի և կիվիի «Zuegg Intenso Kiwi Mela» 1000մլ",
@@ -7129,12 +7119,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1049388.png",
     "url": "https://yerevan-city.am/shop/product-details/7479",
     "key": "Yerevan City|id:7479|970|870"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մարտկոց «Էներջայզեր» Ալկալայն Փաուեր ԱԱԱ 1.5Վ 2հտ",
+    "old": 970,
+    "new": 485,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1023371.png",
+    "url": "https://yerevan-city.am/shop/product-details/17494",
+    "key": "Yerevan City|id:17494|970|485"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-13T09:02:29.928358+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-13T09:19:29.343614+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
