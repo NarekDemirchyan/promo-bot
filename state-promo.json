@@ -2790,7 +2790,8 @@
    "Yerevan City|id:50715|930|830",
    "Yerevan City|id:4668|920|790",
    "Yerevan City|id:174530|920|790",
-   "Yerevan City|id:15086|910|710"
+   "Yerevan City|id:15086|910|710",
+   "Yerevan City|id:57510|910|810"
   ]
  },
  "queues": {
@@ -7185,6 +7186,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1014216.png",
     "url": "https://yerevan-city.am/shop/product-details/15086",
     "key": "Yerevan City|id:15086|910|710"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Միջադիրներ «Լիբրես» ուլտրա, էքստրա, գիշերային 8հտ",
+    "old": 910,
+    "new": 810,
+    "pct": 11,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1110523.png",
+    "url": "https://yerevan-city.am/shop/product-details/57510",
+    "key": "Yerevan City|id:57510|910|810"
    }
   ]
  },
