@@ -2862,7 +2862,8 @@
    "Yerevan City|id:23236|850|610",
    "Yerevan City|id:56120|850|660",
    "Yerevan City|id:102440|850|590",
-   "Yerevan City|id:10611|850|710"
+   "Yerevan City|id:10611|850|710",
+   "Yerevan City|id:154223|850|590"
   ]
  },
  "queues": {
@@ -7257,6 +7258,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1021333.png",
     "url": "https://yerevan-city.am/shop/product-details/10611",
     "key": "Yerevan City|id:10611|850|710"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թաս պլաստմասե «Հոբի լայֆ» 7լ",
+    "old": 850,
+    "new": 590,
+    "pct": 31,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1154350.png",
+    "url": "https://yerevan-city.am/shop/product-details/154223",
+    "key": "Yerevan City|id:154223|850|590"
    }
   ]
  },
