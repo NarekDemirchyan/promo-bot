@@ -2858,22 +2858,12 @@
    "Yerevan City|id:63984|860|670",
    "Yerevan City|id:8159|855|770",
    "Yerevan City|id:23236|850|610",
-   "Yerevan City|id:56120|850|660"
+   "Yerevan City|id:56120|850|660",
+   "Yerevan City|id:102440|850|590"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Քացախ խնձորի «Ponti Biologico Mele» 0.5լ",
-    "old": 3150,
-    "new": 2890,
-    "pct": 8,
-    "until": "25.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/uksus/192470/",
-    "key": "SAS|id:192470|3150|2890"
-   },
    {
     "store": "SAS",
     "title": "Սպասք լվանալու հեղուկ «Frosch» 500մլ",
@@ -7253,12 +7243,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1109799.png",
     "url": "https://yerevan-city.am/shop/product-details/56120",
     "key": "Yerevan City|id:56120|850|660"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սփրեյ ջեռոցի և գազօջախի համար «Սավա» հակայուղ 450մլ",
+    "old": 850,
+    "new": 590,
+    "pct": 31,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1137329.png",
+    "url": "https://yerevan-city.am/shop/product-details/102440",
+    "key": "Yerevan City|id:102440|850|590"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-14T23:47:07.058553+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-15T00:02:25.201322+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
