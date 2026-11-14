@@ -2802,22 +2802,12 @@
    "Yerevan City|id:4364|890|650",
    "Yerevan City|id:72712|890|780",
    "Yerevan City|id:162551|890|840",
-   "Yerevan City|id:1626|890|780"
+   "Yerevan City|id:1626|890|780",
+   "Yerevan City|id:99465|890|690"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ամենօրյա միջադիրներ «Libresse Classic Regular» 50 հատ",
-    "old": 890,
-    "new": 790,
-    "pct": 11,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/411/369/3696012099534622.webp",
-    "url": "https://www.sas.am/catalog/dlya_intimnoy_gigieny2/858405/",
-    "key": "SAS|id:858405|890|790"
-   },
    {
     "store": "SAS",
     "title": "Ատամի մածուկ «Sensodyne» 75մլ",
@@ -7197,12 +7187,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1024597.png",
     "url": "https://yerevan-city.am/shop/product-details/1626",
     "key": "Yerevan City|id:1626|890|780"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ականջակալ բարձրախոսով «Կակու» ԿՍՑ-662",
+    "old": 890,
+    "new": 690,
+    "pct": 22,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1134905.png",
+    "url": "https://yerevan-city.am/shop/product-details/99465",
+    "key": "Yerevan City|id:99465|890|690"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-14T06:32:11.468499+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-14T06:46:59.538603+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
