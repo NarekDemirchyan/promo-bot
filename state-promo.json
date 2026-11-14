@@ -2852,17 +2852,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Դրաժե սերուցքային «Գրանդ Քենդի Ջոյկո» 150գ",
-    "old": 850,
-    "new": 690,
-    "pct": 19,
-    "until": "13.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/drajee/14074/",
-    "key": "SAS|id:14074|850|690"
-   },
-   {
-    "store": "SAS",
     "title": "Փրեցելներ կապուչինոյի համով «Хлебный Спас» 320գ",
     "old": 1330,
     "new": 890,
@@ -5052,17 +5041,6 @@
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Մարտկոց «Էներջայզեր» Մաքս ԱԱԱ 1.5Վ 2հտ",
-    "old": 1110,
-    "new": 555,
-    "pct": 50,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1100758.png",
-    "url": "https://yerevan-city.am/shop/product-details/29964",
-    "key": "Yerevan City|id:29964|1110|555"
-   },
    {
     "store": "Yerevan City",
     "title": "Մարինացված կծու պղպեղ «Ռոյալ» 500գր",
@@ -7256,7 +7234,7 @@
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-14T19:34:31.463741+04:00",
+ "last_publish": "2026-11-14T20:02:31.334812+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
