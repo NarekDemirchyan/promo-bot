@@ -2820,7 +2820,8 @@
    "Yerevan City|id:194840|890|560",
    "Yerevan City|id:195069|890|690",
    "Yerevan City|id:2946|890|445",
-   "Yerevan City|id:192187|890|445"
+   "Yerevan City|id:192187|890|445",
+   "Yerevan City|id:11269|890|820"
   ]
  },
  "queues": {
@@ -7215,6 +7216,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175921.png",
     "url": "https://yerevan-city.am/shop/product-details/192187",
     "key": "Yerevan City|id:192187|890|445"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ամենօրյա միջադիրներ «Դիսքրետ» նորմալ 20հտ",
+    "old": 890,
+    "new": 820,
+    "pct": 8,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1021133.png",
+    "url": "https://yerevan-city.am/shop/product-details/11269",
+    "key": "Yerevan City|id:11269|890|820"
    }
   ]
  },
