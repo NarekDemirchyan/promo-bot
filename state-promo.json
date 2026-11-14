@@ -2820,17 +2820,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Լաքահանող և սպիտակեցնող միջոց «Vanish Oxi Action» 2լ",
-    "old": 4090,
-    "new": 3690,
-    "pct": 10,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/244/753/7533814229973922.webp",
-    "url": "https://www.sas.am/catalog/opolaskivatel_konditsioner_kontsentrat/804386/",
-    "key": "SAS|id:804386|4090|3690"
-   },
-   {
-    "store": "SAS",
     "title": "Չոր շամպուն «So Well Fresh & Clean» 200մլ",
     "old": 2550,
     "new": 1760,
@@ -7223,8 +7212,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-14T09:34:09.891704+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-14T10:02:30.384481+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
