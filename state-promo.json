@@ -2852,22 +2852,12 @@
    "Yerevan City|id:6402|860|590",
    "Yerevan City|id:2239|860|730",
    "Yerevan City|id:12146|860|750",
-   "Yerevan City|id:63984|860|670"
+   "Yerevan City|id:63984|860|670",
+   "Yerevan City|id:8159|855|770"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Միջադիրներ ուրոլոգիական «Tena Lady Slim Extra Plus» 8 հատ",
-    "old": 1630,
-    "new": 1390,
-    "pct": 15,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/dlya_intimnoy_gigieny2/513168/",
-    "key": "SAS|id:513168|1630|1390"
-   },
    {
     "store": "SAS",
     "title": "Լոգանքի փրփուր-գել «Malizia» 1լ",
@@ -7247,12 +7237,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1111353.png",
     "url": "https://yerevan-city.am/shop/product-details/63984",
     "key": "Yerevan City|id:63984|860|670"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Պղպեղի մածուկ «Արտֆուդ» կծու 350գր",
+    "old": 855,
+    "new": 770,
+    "pct": 10,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1088449.png",
+    "url": "https://yerevan-city.am/shop/product-details/8159",
+    "key": "Yerevan City|id:8159|855|770"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-14T21:47:10.022867+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-14T22:03:10.925932+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
