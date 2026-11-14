@@ -1411,7 +1411,8 @@
    "SAS|id:19833|1340|1230",
    "SAS|id:807533|2350|2150",
    "SAS|id:39936|1680|1420",
-   "SAS|id:918283|650|320"
+   "SAS|id:918283|650|320",
+   "SAS|id:916148|3290|1640"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5040,20 +5041,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/407/467/4679143356809663.webp",
     "url": "https://www.sas.am/catalog/pechene_pryaniki/918283/",
     "key": "SAS|id:918283|650|320"
+   },
+   {
+    "store": "SAS",
+    "title": "Շոկոլադե կոնֆետներ «Condorelli Lune» 120գ",
+    "old": 3290,
+    "new": 1640,
+    "pct": 50,
+    "until": "30.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/621/439/439882881217317.webp",
+    "url": "https://www.sas.am/catalog/nabory_konfet/916148/",
+    "key": "SAS|id:916148|3290|1640"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Մարինացված կծու պղպեղ «Ռոյալ» 500գր",
-    "old": 1110,
-    "new": 1050,
-    "pct": 5,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1086618.png",
-    "url": "https://yerevan-city.am/shop/product-details/8939",
-    "key": "Yerevan City|id:8939|1110|1050"
-   },
    {
     "store": "Yerevan City",
     "title": "Մարինացված կծու պղպեղ «Իջևան» ձեթով-սխտորով 500գր",
@@ -7246,8 +7247,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-14T20:17:17.593837+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-14T20:32:20.485529+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
