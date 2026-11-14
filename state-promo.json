@@ -2836,7 +2836,8 @@
    "Yerevan City|id:192831|890|350",
    "Yerevan City|id:192832|890|350",
    "Yerevan City|t:մարինացված վարունգ «արտֆուդ» 700գր|880|790",
-   "Yerevan City|id:3854|880|780"
+   "Yerevan City|id:3854|880|780",
+   "Yerevan City|id:13578|870|810"
   ]
  },
  "queues": {
@@ -7231,6 +7232,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1040923.png",
     "url": "https://yerevan-city.am/shop/product-details/3854",
     "key": "Yerevan City|id:3854|880|780"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ատամի խոզանակ «Քոլգեյթ» եռակի գործողություն",
+    "old": 870,
+    "new": 810,
+    "pct": 7,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1015676.png",
+    "url": "https://yerevan-city.am/shop/product-details/13578",
+    "key": "Yerevan City|id:13578|870|810"
    }
   ]
  },
