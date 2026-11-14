@@ -5067,17 +5067,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Մաքրող միջոց «Ֆրոշ» կիտրոն 500մլ",
-    "old": 1090,
-    "new": 690,
-    "pct": 37,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1032918.png",
-    "url": "https://yerevan-city.am/shop/product-details/15633",
-    "key": "Yerevan City|id:15633|1090|690"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Ձեռքերի քսուք «Օնլի» վիտամին Ց 80մլ",
     "old": 1090,
     "new": 630,
@@ -7268,8 +7257,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-14T23:19:29.475931+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-14T23:47:07.058553+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
