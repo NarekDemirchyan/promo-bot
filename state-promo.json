@@ -2824,17 +2824,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Չոր շամպուն «So Well Fresh & Full» 200մլ",
-    "old": 2550,
-    "new": 1760,
-    "pct": 31,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/404/567/5675482469360410.webp",
-    "url": "https://www.sas.am/catalog/dlya_volos2/760310/",
-    "key": "SAS|id:760310|2550|1760"
-   },
-   {
-    "store": "SAS",
     "title": "Հակաքրտինքային միջոց «Nivea Fresh» 150մլ",
     "old": 1680,
     "new": 1420,
@@ -7227,8 +7216,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-14T10:50:47.076496+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-14T11:17:07.133672+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
