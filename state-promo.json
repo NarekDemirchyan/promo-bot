@@ -2832,17 +2832,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Շիլա վարսակի «Nestle Быстров» 210գ",
-    "old": 1330,
-    "new": 990,
-    "pct": 26,
-    "until": "20.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/kasha_myusli/653153/",
-    "key": "SAS|id:653153|1330|990"
-   },
-   {
-    "store": "SAS",
     "title": "Շիլա վարսակի «Nestle Быстров» 175գ",
     "old": 1330,
     "new": 990,
@@ -7235,8 +7224,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-14T13:17:58.906707+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-14T13:46:22.496449+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
