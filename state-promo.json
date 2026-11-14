@@ -2864,22 +2864,12 @@
    "Yerevan City|id:56120|850|660",
    "Yerevan City|id:102440|850|590",
    "Yerevan City|id:10611|850|710",
-   "Yerevan City|id:154223|850|590"
+   "Yerevan City|id:154223|850|590",
+   "Yerevan City|id:8165|850|490"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Լոգանքի գել «Nivea Men Ultra» 250մլ",
-    "old": 1990,
-    "new": 1680,
-    "pct": 16,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/382/844/8448582394090821.webp",
-    "url": "https://www.sas.am/catalog/showergell/35678/",
-    "key": "SAS|id:35678|1990|1680"
-   },
    {
     "store": "SAS",
     "title": "Միջադիրներ «Libresse Natural Care» 20հատ",
@@ -7259,12 +7249,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1154350.png",
     "url": "https://yerevan-city.am/shop/product-details/154223",
     "key": "Yerevan City|id:154223|850|590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ձեռնոց «Ֆինո» Ս 1զույգ",
+    "old": 850,
+    "new": 490,
+    "pct": 42,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1086711.png",
+    "url": "https://yerevan-city.am/shop/product-details/8165",
+    "key": "Yerevan City|id:8165|850|490"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-15T01:31:20.334159+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-15T01:50:03.120473+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
@@ -7273,7 +7274,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 63,
+ "city_page": 64,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
