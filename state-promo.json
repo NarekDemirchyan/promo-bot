@@ -2818,22 +2818,12 @@
    "Yerevan City|id:7722|890|350",
    "Yerevan City|id:194840|890|560",
    "Yerevan City|id:195069|890|690",
-   "Yerevan City|id:2946|890|445"
+   "Yerevan City|id:2946|890|445",
+   "Yerevan City|id:192187|890|445"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Հակաքրտինքային միջոց «Nivea Fresh» 150մլ",
-    "old": 1680,
-    "new": 1420,
-    "pct": 15,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/antiperspirantt/672236/",
-    "key": "SAS|id:672236|1680|1420"
-   },
    {
     "store": "SAS",
     "title": "Հակաքրտինքային միջոց գնդիկով «Nivea Fresh» 50մլ",
@@ -7213,12 +7203,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1093340.png",
     "url": "https://yerevan-city.am/shop/product-details/2946",
     "key": "Yerevan City|id:2946|890|445"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Չիպս «Բրուտո» հյութալի բեկոն 120գր",
+    "old": 890,
+    "new": 445,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175921.png",
+    "url": "https://yerevan-city.am/shop/product-details/192187",
+    "key": "Yerevan City|id:192187|890|445"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-14T11:32:18.763381+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-14T11:47:06.468649+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
