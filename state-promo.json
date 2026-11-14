@@ -2814,17 +2814,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Սպասք լվացող մեքենայի պատիճներ «Finish Powerball Power» 25 հատ",
-    "old": 3760,
-    "new": 3130,
-    "pct": 17,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/dishwasherdetergent/804473/",
-    "key": "SAS|id:804473|3760|3130"
-   },
-   {
-    "store": "SAS",
     "title": "Լաքահանող միջոց «Vanish Oxi Action» 2լ",
     "old": 4090,
     "new": 3690,
@@ -7217,8 +7206,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-14T07:35:43.317835+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-14T08:02:26.547413+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
