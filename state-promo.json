@@ -2850,22 +2850,12 @@
    "Yerevan City|id:44455|860|730",
    "Yerevan City|id:6402|860|590",
    "Yerevan City|id:2239|860|730",
-   "Yerevan City|id:12146|860|750"
+   "Yerevan City|id:12146|860|750",
+   "Yerevan City|id:63984|860|670"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Միջադիրներ «Libresse Maxi Super» 9հատ",
-    "old": 890,
-    "new": 770,
-    "pct": 13,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/113/545/5450462936648392.webp",
-    "url": "https://www.sas.am/catalog/dlya_intimnoy_gigieny2/145207/",
-    "key": "SAS|id:145207|890|770"
-   },
    {
     "store": "SAS",
     "title": "Միջադիրներ ուրոլոգիական «Tena Lady Slim Extra Plus» 8 հատ",
@@ -7245,12 +7235,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1083956.png",
     "url": "https://yerevan-city.am/shop/product-details/12146",
     "key": "Yerevan City|id:12146|860|750"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Զուգարանի թուղթ «Էկկա» Դելյուքս, եռաշերտ 4հտ",
+    "old": 860,
+    "new": 670,
+    "pct": 22,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1111353.png",
+    "url": "https://yerevan-city.am/shop/product-details/63984",
+    "key": "Yerevan City|id:63984|860|670"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-14T21:17:05.012103+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-14T21:32:23.229063+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
@@ -7259,7 +7260,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 62,
+ "city_page": 63,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
