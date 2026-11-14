@@ -2824,7 +2824,8 @@
    "Yerevan City|id:2946|890|445",
    "Yerevan City|id:192187|890|445",
    "Yerevan City|id:11269|890|820",
-   "Yerevan City|id:6084|890|790"
+   "Yerevan City|id:6084|890|790",
+   "Yerevan City|id:11582|890|790"
   ]
  },
  "queues": {
@@ -7219,6 +7220,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1065235.png",
     "url": "https://yerevan-city.am/shop/product-details/6084",
     "key": "Yerevan City|id:6084|890|790"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Խոնավ զուգարանի թուղթ մանկական «Զեվա» 42հտ",
+    "old": 890,
+    "new": 790,
+    "pct": 11,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1088983.png",
+    "url": "https://yerevan-city.am/shop/product-details/11582",
+    "key": "Yerevan City|id:11582|890|790"
    }
   ]
  },
