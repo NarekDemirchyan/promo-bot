@@ -1422,7 +1422,8 @@
    "SAS|id:173911|590|470",
    "SAS|id:956515|3350|2340",
    "SAS|id:956514|3350|2340",
-   "SAS|id:951048|5590|5150"
+   "SAS|id:951048|5590|5150",
+   "SAS|id:951047|5890|5590"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5062,6 +5063,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/339/546/5466382647844960.webp",
     "url": "https://www.sas.am/catalog/armyanskoe_vino/951048/",
     "key": "SAS|id:951048|5590|5150"
+   },
+   {
+    "store": "SAS",
+    "title": "Գինի սպիտակ «Տակառ Օրգանիկ» 0.75լ",
+    "old": 5890,
+    "new": 5590,
+    "pct": 5,
+    "until": "08.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/armyanskoe_vino/951047/",
+    "key": "SAS|id:951047|5890|5590"
    }
   ],
   "Yerevan City": [
