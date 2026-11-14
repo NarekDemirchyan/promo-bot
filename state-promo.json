@@ -2832,7 +2832,8 @@
    "Yerevan City|id:11582|890|790",
    "Yerevan City|id:192830|890|445",
    "Yerevan City|id:192831|890|350",
-   "Yerevan City|id:192832|890|350"
+   "Yerevan City|id:192832|890|350",
+   "Yerevan City|t:մարինացված վարունգ «արտֆուդ» 700գր|880|790"
   ]
  },
  "queues": {
@@ -7227,6 +7228,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176570.png",
     "url": "https://yerevan-city.am/shop/product-details/192832",
     "key": "Yerevan City|id:192832|890|350"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մարինացված վարունգ «Արտֆուդ» 700գր",
+    "old": 880,
+    "new": 790,
+    "pct": 10,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1033548.png",
+    "url": "https://yerevan-city.am/shop/product-details/64",
+    "key": "Yerevan City|t:մարինացված վարունգ «արտֆուդ» 700գր|880|790"
    }
   ]
  },
