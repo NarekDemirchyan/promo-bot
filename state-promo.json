@@ -2822,22 +2822,12 @@
    "Yerevan City|id:195069|890|690",
    "Yerevan City|id:2946|890|445",
    "Yerevan City|id:192187|890|445",
-   "Yerevan City|id:11269|890|820"
+   "Yerevan City|id:11269|890|820",
+   "Yerevan City|id:6084|890|790"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ներդիրներ «o.b. Organic Mini» 16 հատ",
-    "old": 2470,
-    "new": 2190,
-    "pct": 11,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/dlya_intimnoy_gigieny2/654230/",
-    "key": "SAS|id:654230|2470|2190"
-   },
    {
     "store": "SAS",
     "title": "Շիլա վարսակի «Nestle Быстров» 210գ",
@@ -7217,12 +7207,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1021133.png",
     "url": "https://yerevan-city.am/shop/product-details/11269",
     "key": "Yerevan City|id:11269|890|820"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Խոնավ զուգարանի թուղթ «Զեվա» բնական երիցուկ 42հտ",
+    "old": 890,
+    "new": 790,
+    "pct": 11,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1065235.png",
+    "url": "https://yerevan-city.am/shop/product-details/6084",
+    "key": "Yerevan City|id:6084|890|790"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-14T12:47:22.428319+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-14T13:02:32.565671+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
@@ -7231,7 +7232,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 61,
+ "city_page": 62,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
