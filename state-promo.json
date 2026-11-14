@@ -2806,7 +2806,8 @@
    "Yerevan City|id:162551|890|840",
    "Yerevan City|id:1626|890|780",
    "Yerevan City|id:99465|890|690",
-   "Yerevan City|id:172384|890|390"
+   "Yerevan City|id:172384|890|390",
+   "Yerevan City|id:177514|890|590"
   ]
  },
  "queues": {
@@ -7201,6 +7202,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1165961.png",
     "url": "https://yerevan-city.am/shop/product-details/172384",
     "key": "Yerevan City|id:172384|890|390"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ծաղկաման կլոր, պլաստմասե 18х17.5 Պ083-1",
+    "old": 890,
+    "new": 590,
+    "pct": 34,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1171167.png",
+    "url": "https://yerevan-city.am/shop/product-details/177514",
+    "key": "Yerevan City|id:177514|890|590"
    }
   ]
  },
