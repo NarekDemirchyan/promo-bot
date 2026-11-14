@@ -1389,7 +1389,8 @@
    "SAS|id:124632|1150|1040",
    "SAS|id:61695|1250|1090",
    "SAS|id:4738|1460|1270",
-   "SAS|id:711705|810|690"
+   "SAS|id:711705|810|690",
+   "SAS|id:548854|5590|5150"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4996,20 +4997,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/153/366/366360340985785.webp",
     "url": "https://www.sas.am/catalog/ogurtsy/711705/",
     "key": "SAS|id:711705|810|690"
+   },
+   {
+    "store": "SAS",
+    "title": "Գինի կարմիր «Տակառ Արենի Կաբերնե Ֆրան» 0.75լ",
+    "old": 5590,
+    "new": 5150,
+    "pct": 8,
+    "until": "08.01.2027",
+    "img": "https://www.sas.am/upload/Sh/imageCache/339/199/19969470874769.webp",
+    "url": "https://www.sas.am/catalog/armyanskoe_vino/548854/",
+    "key": "SAS|id:548854|5590|5150"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Գազավորված ըմպելիք «Կոկա Կոլա» ելակ 0.5լ",
-    "old": 1190,
-    "new": 990,
-    "pct": 17,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178542.png",
-    "url": "https://yerevan-city.am/shop/product-details/194743",
-    "key": "Yerevan City|id:194743|1190|990"
-   },
    {
     "store": "Yerevan City",
     "title": "Դինամիկ ավազ 250գր ԴՍ-228",
@@ -7202,8 +7203,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-14T06:46:59.538603+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-14T07:02:35.262536+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
