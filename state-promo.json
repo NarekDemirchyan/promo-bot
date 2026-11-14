@@ -2828,17 +2828,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Հակաքրտինքային միջոց գնդիկով «Nivea Fresh» 50մլ",
-    "old": 1450,
-    "new": 1220,
-    "pct": 16,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/antiperspirantt/672228/",
-    "key": "SAS|id:672228|1450|1220"
-   },
-   {
-    "store": "SAS",
     "title": "Ներդիրներ «o.b. Organic Mini» 16 հատ",
     "old": 2470,
     "new": 2190,
@@ -7231,8 +7220,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-14T12:05:53.751136+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-14T12:32:19.885966+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
