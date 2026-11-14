@@ -2828,7 +2828,8 @@
    "Yerevan City|id:11269|890|820",
    "Yerevan City|id:6084|890|790",
    "Yerevan City|id:11582|890|790",
-   "Yerevan City|id:192830|890|445"
+   "Yerevan City|id:192830|890|445",
+   "Yerevan City|id:192831|890|350"
   ]
  },
  "queues": {
@@ -7223,6 +7224,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176568.png",
     "url": "https://yerevan-city.am/shop/product-details/192830",
     "key": "Yerevan City|id:192830|890|445"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գազավորված ջուր «Վոսս» կիտրոն-վարունգ թ/տ 330մլ",
+    "old": 890,
+    "new": 350,
+    "pct": 61,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176569.png",
+    "url": "https://yerevan-city.am/shop/product-details/192831",
+    "key": "Yerevan City|id:192831|890|350"
    }
   ]
  },
