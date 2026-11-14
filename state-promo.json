@@ -2796,22 +2796,12 @@
    "Yerevan City|id:15086|910|710",
    "Yerevan City|id:57510|910|810",
    "Yerevan City|id:4645|910|790",
-   "Yerevan City|id:4364|890|650"
+   "Yerevan City|id:4364|890|650",
+   "Yerevan City|id:72712|890|780"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սոուս ռեհանով և ռուկոլայով «Barilla Pesto Rucola» 190 գ",
-    "old": 2690,
-    "new": 2190,
-    "pct": 19,
-    "until": "25.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/sous/4375/",
-    "key": "SAS|id:4375|2690|2190"
-   },
    {
     "store": "SAS",
     "title": "Սպասք լվացող մեքենայի պատիճներ «Finish Powerball Power» 100 հատ",
@@ -7191,12 +7181,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1082144.png",
     "url": "https://yerevan-city.am/shop/product-details/4364",
     "key": "Yerevan City|id:4364|890|650"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Զուգարանակոնքի թարմաց. «Բրեֆ» նարդոս 50գր",
+    "old": 890,
+    "new": 780,
+    "pct": 12,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1028089.png",
+    "url": "https://yerevan-city.am/shop/product-details/72712",
+    "key": "Yerevan City|id:72712|890|780"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-14T04:32:18.533042+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-14T04:48:55.176507+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
@@ -7205,7 +7206,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 60,
+ "city_page": 61,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
