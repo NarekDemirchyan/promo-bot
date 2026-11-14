@@ -1417,7 +1417,8 @@
    "SAS|id:755070|1670|830",
    "SAS|id:312685|3690|1840",
    "SAS|id:133937|3140|2190",
-   "SAS|id:631495|1730|1590"
+   "SAS|id:631495|1730|1590",
+   "SAS|id:130360|1730|1450"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5052,20 +5053,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/592/476/4766942789384279.webp",
     "url": "https://www.sas.am/catalog/kompot/631495/",
     "key": "SAS|id:631495|1730|1590"
+   },
+   {
+    "store": "SAS",
+    "title": "Ատամի մածուկ «Sensodyne» 75մլ",
+    "old": 1730,
+    "new": 1450,
+    "pct": 16,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/dlya_polosti_rta/130360/",
+    "key": "SAS|id:130360|1730|1450"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Ձեռքերի քսուք «Օնլի» վիտամին Ց 80մլ",
-    "old": 1090,
-    "new": 630,
-    "pct": 42,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1164442.png",
-    "url": "https://yerevan-city.am/shop/product-details/170776",
-    "key": "Yerevan City|id:170776|1090|630"
-   },
    {
     "store": "Yerevan City",
     "title": "Ներկ մազերի համար «Լոնդա Քոլոր» 2/0 սև",
@@ -7258,8 +7259,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-15T00:02:25.201322+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-15T00:17:17.966851+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
