@@ -5015,17 +5015,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Դինամիկ ավազ 250գր ԴՍ-228",
-    "old": 1190,
-    "new": 890,
-    "pct": 25,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176954.png",
-    "url": "https://yerevan-city.am/shop/product-details/193202",
-    "key": "Yerevan City|id:193202|1190|890"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Մարինացված վարունգ «Լորադո» մանր 3-6սմ 720մլ",
     "old": 1190,
     "new": 940,
@@ -7216,8 +7205,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-14T07:19:20.434689+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-14T07:35:43.317835+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
