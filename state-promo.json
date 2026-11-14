@@ -2808,22 +2808,12 @@
    "Yerevan City|id:1626|890|780",
    "Yerevan City|id:99465|890|690",
    "Yerevan City|id:172384|890|390",
-   "Yerevan City|id:177514|890|590"
+   "Yerevan City|id:177514|890|590",
+   "Yerevan City|id:193200|890|690"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Լաքահանող միջոց «Vanish Oxi Action» 2լ",
-    "old": 4090,
-    "new": 3690,
-    "pct": 10,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/opolaskivatel_konditsioner_kontsentrat/804435/",
-    "key": "SAS|id:804435|4090|3690"
-   },
    {
     "store": "SAS",
     "title": "Հակաքրտինքային աէրոզոլային միջոց «Deonica Нежность Шелка» 200մլ",
@@ -7203,12 +7193,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1171167.png",
     "url": "https://yerevan-city.am/shop/product-details/177514",
     "key": "Yerevan City|id:177514|890|590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ավտոմեքենա մանկական «Օֆ ռոադ»",
+    "old": 890,
+    "new": 690,
+    "pct": 22,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176951.png",
+    "url": "https://yerevan-city.am/shop/product-details/193200",
+    "key": "Yerevan City|id:193200|890|690"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-14T08:17:36.967028+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-14T08:34:26.383156+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
