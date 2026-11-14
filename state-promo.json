@@ -2870,22 +2870,12 @@
    "Yerevan City|id:154223|850|590",
    "Yerevan City|id:8165|850|490",
    "Yerevan City|id:7178|850|750",
-   "Yerevan City|id:13449|850|540"
+   "Yerevan City|id:13449|850|540",
+   "Yerevan City|id:16155|850|780"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Գրպանի անձեռոցիկ «Zewa Deluxe» 10 հատ",
-    "old": 120,
-    "new": 90,
-    "pct": 25,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/salfetki/230814/",
-    "key": "SAS|id:230814|120|90"
-   },
    {
     "store": "SAS",
     "title": "Հյութ ալոեի «Fruiting» 238մլ",
@@ -7265,12 +7255,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1048010.png",
     "url": "https://yerevan-city.am/shop/product-details/13449",
     "key": "Yerevan City|id:13449|850|540"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հեղուկ օճառ «Գրասս» Միլանա, մարգարիտ 500մլ",
+    "old": 850,
+    "new": 780,
+    "pct": 8,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1075683.png",
+    "url": "https://yerevan-city.am/shop/product-details/16155",
+    "key": "Yerevan City|id:16155|850|780"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-15T03:32:14.742126+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-15T03:47:04.858434+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
