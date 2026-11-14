@@ -1416,7 +1416,8 @@
    "SAS|id:824602|1130|1030",
    "SAS|id:755070|1670|830",
    "SAS|id:312685|3690|1840",
-   "SAS|id:133937|3140|2190"
+   "SAS|id:133937|3140|2190",
+   "SAS|id:631495|1730|1590"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5050,6 +5051,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/pechene_pryaniki/133937/",
     "key": "SAS|id:133937|3140|2190"
+   },
+   {
+    "store": "SAS",
+    "title": "Կոմպոտ ազնվամորու «Իջևան» 1լ",
+    "old": 1730,
+    "new": 1590,
+    "pct": 8,
+    "until": "07.01.2027",
+    "img": "https://www.sas.am/upload/Sh/imageCache/592/476/4766942789384279.webp",
+    "url": "https://www.sas.am/catalog/kompot/631495/",
+    "key": "SAS|id:631495|1730|1590"
    }
   ],
   "Yerevan City": [
