@@ -1414,7 +1414,8 @@
    "SAS|id:918283|650|320",
    "SAS|id:916148|3290|1640",
    "SAS|id:824602|1130|1030",
-   "SAS|id:755070|1670|830"
+   "SAS|id:755070|1670|830",
+   "SAS|id:312685|3690|1840"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5046,6 +5047,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/228/336/3364792808694746.webp",
     "url": "https://www.sas.am/catalog/kholodnoe_kofe/755070/",
     "key": "SAS|id:755070|1670|830"
+   },
+   {
+    "store": "SAS",
+    "title": "Մյուսլի «Bionova Granola Protein» 280գ",
+    "old": 3690,
+    "new": 1840,
+    "pct": 50,
+    "until": "30.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/kasha_myusli/312685/",
+    "key": "SAS|id:312685|3690|1840"
    }
   ],
   "Yerevan City": [
