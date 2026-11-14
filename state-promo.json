@@ -1388,7 +1388,8 @@
    "SAS|id:16113|790|690",
    "SAS|id:124632|1150|1040",
    "SAS|id:61695|1250|1090",
-   "SAS|id:4738|1460|1270"
+   "SAS|id:4738|1460|1270",
+   "SAS|id:711705|810|690"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4994,6 +4995,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/chipsy/4738/",
     "key": "SAS|id:4738|1460|1270"
+   },
+   {
+    "store": "SAS",
+    "title": "Կորնիշոններ մարինացված կծու «Արտֆուդ» 350գ",
+    "old": 810,
+    "new": 690,
+    "pct": 15,
+    "until": "31.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/153/366/366360340985785.webp",
+    "url": "https://www.sas.am/catalog/ogurtsy/711705/",
+    "key": "SAS|id:711705|810|690"
    }
   ],
   "Yerevan City": [
