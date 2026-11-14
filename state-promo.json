@@ -1408,7 +1408,8 @@
    "SAS|id:848270|3290|1640",
    "SAS|id:940139|1150|1070",
    "SAS|id:838024|4490|2240",
-   "SAS|id:19833|1340|1230"
+   "SAS|id:19833|1340|1230",
+   "SAS|id:807533|2350|2150"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5034,20 +5035,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/drugie_ovoschnye_konservy/19833/",
     "key": "SAS|id:19833|1340|1230"
+   },
+   {
+    "store": "SAS",
+    "title": "Փրփրուն գինի նռան «Արմենիա» 0.75լ",
+    "old": 2350,
+    "new": 2150,
+    "pct": 9,
+    "until": "08.01.2027",
+    "img": "https://www.sas.am/upload/Sh/imageCache/134/187/1872883725430746.webp",
+    "url": "https://www.sas.am/catalog/shampanskoe_igristoe_vino/807533/",
+    "key": "SAS|id:807533|2350|2150"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Թղթե սրբիչ «Սելպակ» Սուպեր, եռաշերտ 1հտ",
-    "old": 1120,
-    "new": 960,
-    "pct": 14,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1154366.png",
-    "url": "https://yerevan-city.am/shop/product-details/154313",
-    "key": "Yerevan City|id:154313|1120|960"
-   },
    {
     "store": "Yerevan City",
     "title": "Մարտկոց «Էներջայզեր» Մաքս ԱԱ 1.5Վ 2հտ",
@@ -7240,8 +7241,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-14T18:47:04.378838+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-14T19:02:19.997108+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
