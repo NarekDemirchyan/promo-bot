@@ -1412,7 +1412,8 @@
    "SAS|id:807533|2350|2150",
    "SAS|id:39936|1680|1420",
    "SAS|id:918283|650|320",
-   "SAS|id:916148|3290|1640"
+   "SAS|id:916148|3290|1640",
+   "SAS|id:824602|1130|1030"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5042,6 +5043,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/621/439/439882881217317.webp",
     "url": "https://www.sas.am/catalog/nabory_konfet/916148/",
     "key": "SAS|id:916148|3290|1640"
+   },
+   {
+    "store": "SAS",
+    "title": "Վարունգ մարինացված կծու «Արտֆուդ» 520գ",
+    "old": 1130,
+    "new": 1030,
+    "pct": 9,
+    "until": "31.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/ogurtsy/824602/",
+    "key": "SAS|id:824602|1130|1030"
    }
   ],
   "Yerevan City": [
