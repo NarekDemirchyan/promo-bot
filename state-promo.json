@@ -2804,22 +2804,12 @@
    "Yerevan City|id:72712|890|780",
    "Yerevan City|id:162551|890|840",
    "Yerevan City|id:1626|890|780",
-   "Yerevan City|id:99465|890|690"
+   "Yerevan City|id:99465|890|690",
+   "Yerevan City|id:172384|890|390"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ատամի մածուկ «Sensodyne» 75մլ",
-    "old": 1860,
-    "new": 1630,
-    "pct": 12,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/230/189/1897781530758964.webp",
-    "url": "https://www.sas.am/catalog/dlya_polosti_rta/846778/",
-    "key": "SAS|id:846778|1860|1630"
-   },
    {
     "store": "SAS",
     "title": "Սպասք լվացող մեքենայի պատիճներ «Finish Powerball Power» 25 հատ",
@@ -7199,12 +7189,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1134905.png",
     "url": "https://yerevan-city.am/shop/product-details/99465",
     "key": "Yerevan City|id:99465|890|690"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գրչատուփ մետաղական գրենական պիտույքներով 529",
+    "old": 890,
+    "new": 390,
+    "pct": 56,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1165961.png",
+    "url": "https://yerevan-city.am/shop/product-details/172384",
+    "key": "Yerevan City|id:172384|890|390"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-14T07:02:35.262536+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-14T07:19:20.434689+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
