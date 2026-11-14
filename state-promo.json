@@ -2816,7 +2816,8 @@
    "Yerevan City|id:193200|890|690",
    "Yerevan City|id:7722|890|350",
    "Yerevan City|id:194840|890|560",
-   "Yerevan City|id:195069|890|690"
+   "Yerevan City|id:195069|890|690",
+   "Yerevan City|id:2946|890|445"
   ]
  },
  "queues": {
@@ -7211,6 +7212,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178869.png",
     "url": "https://yerevan-city.am/shop/product-details/195069",
     "key": "Yerevan City|id:195069|890|690"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կաթ պարունակող մթերք «ՄարիՄոլոկո» 8.5% 450գր",
+    "old": 890,
+    "new": 445,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1093340.png",
+    "url": "https://yerevan-city.am/shop/product-details/2946",
+    "key": "Yerevan City|id:2946|890|445"
    }
   ]
  },
