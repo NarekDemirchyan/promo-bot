@@ -1420,7 +1420,8 @@
    "SAS|id:631495|1730|1590",
    "SAS|id:130360|1730|1450",
    "SAS|id:173911|590|470",
-   "SAS|id:956515|3350|2340"
+   "SAS|id:956515|3350|2340",
+   "SAS|id:956514|3350|2340"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5058,6 +5059,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/frukty_ovoshchi_yagody/956515/",
     "key": "SAS|id:956515|3350|2340"
+   },
+   {
+    "store": "SAS",
+    "title": "Խաղող մուգ շոկոլադով «Schofrulade» 130գ",
+    "old": 3350,
+    "new": 2340,
+    "pct": 30,
+    "until": "30.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/235/779/7793182406206988.webp",
+    "url": "https://www.sas.am/catalog/frukty_ovoshchi_yagody/956514/",
+    "key": "SAS|id:956514|3350|2340"
    }
   ],
   "Yerevan City": [
