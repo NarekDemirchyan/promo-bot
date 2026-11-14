@@ -1390,7 +1390,8 @@
    "SAS|id:61695|1250|1090",
    "SAS|id:4738|1460|1270",
    "SAS|id:711705|810|690",
-   "SAS|id:548854|5590|5150"
+   "SAS|id:548854|5590|5150",
+   "SAS|id:3540|3280|2350"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -4998,6 +4999,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/339/199/19969470874769.webp",
     "url": "https://www.sas.am/catalog/armyanskoe_vino/548854/",
     "key": "SAS|id:548854|5590|5150"
+   },
+   {
+    "store": "SAS",
+    "title": "Շոկոլադե կոնֆետների հավաքածու «Merci» 210գ",
+    "old": 3280,
+    "new": 2350,
+    "pct": 28,
+    "until": "15.01.2027",
+    "img": "https://www.sas.am/upload/Sh/imageCache/176/387/3876502057645939.webp",
+    "url": "https://www.sas.am/catalog/nabory_konfet/3540/",
+    "key": "SAS|id:3540|3280|2350"
    }
   ],
   "Yerevan City": [
