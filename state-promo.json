@@ -1410,7 +1410,8 @@
    "SAS|id:838024|4490|2240",
    "SAS|id:19833|1340|1230",
    "SAS|id:807533|2350|2150",
-   "SAS|id:39936|1680|1420"
+   "SAS|id:39936|1680|1420",
+   "SAS|id:918283|650|320"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2845,22 +2846,12 @@
    "Yerevan City|id:44517|870|730",
    "Yerevan City|id:11891|860|770",
    "Yerevan City|id:44455|860|730",
-   "Yerevan City|id:6402|860|590"
+   "Yerevan City|id:6402|860|590",
+   "Yerevan City|id:2239|860|730"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Փրեցելներ կապուչինոյի համով «Хлебный Спас» 320գ",
-    "old": 1330,
-    "new": 890,
-    "pct": 33,
-    "until": "29.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/214/399/3991132585631504.webp",
-    "url": "https://www.sas.am/catalog/krekery_solenye_palochki/584941/",
-    "key": "SAS|id:584941|1330|890"
-   },
    {
     "store": "SAS",
     "title": "Միջադիրներ «Libresse Invisible Super» 16հատ",
@@ -5038,6 +5029,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/antiperspirantt/39936/",
     "key": "SAS|id:39936|1680|1420"
+   },
+   {
+    "store": "SAS",
+    "title": "Թխվածքաբլիթ վանիլային միջուկով «Pingo Doce Cookies & Cream» 154գ",
+    "old": 650,
+    "new": 320,
+    "pct": 51,
+    "until": "30.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/407/467/4679143356809663.webp",
+    "url": "https://www.sas.am/catalog/pechene_pryaniki/918283/",
+    "key": "SAS|id:918283|650|320"
    }
   ],
   "Yerevan City": [
@@ -7229,12 +7231,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1052149.png",
     "url": "https://yerevan-city.am/shop/product-details/6402",
     "key": "Yerevan City|id:6402|860|590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կանաչ ոլոռ «Տոպ Սան» ա/տ 700գր",
+    "old": 860,
+    "new": 730,
+    "pct": 15,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1062427.png",
+    "url": "https://yerevan-city.am/shop/product-details/2239",
+    "key": "Yerevan City|id:2239|860|730"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-14T20:02:31.334812+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-14T20:17:17.593837+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
