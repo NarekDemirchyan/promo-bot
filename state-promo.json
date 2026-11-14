@@ -2842,22 +2842,12 @@
    "Yerevan City|id:3854|880|780",
    "Yerevan City|id:13578|870|810",
    "Yerevan City|id:44517|870|730",
-   "Yerevan City|id:11891|860|770"
+   "Yerevan City|id:11891|860|770",
+   "Yerevan City|id:44455|860|730"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Հանքային ջուր «Evian» 0.33լ",
-    "old": 570,
-    "new": 530,
-    "pct": 7,
-    "until": "25.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/voda/31629/",
-    "key": "SAS|id:31629|570|530"
-   },
    {
     "store": "SAS",
     "title": "Դրաժե սերուցքային «Գրանդ Քենդի Ջոյկո» 150գ",
@@ -7237,12 +7227,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1036097.png",
     "url": "https://yerevan-city.am/shop/product-details/11891",
     "key": "Yerevan City|id:11891|860|770"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մաքրող գել կոյուղու խողովակ.համար «Սանֆոր» 750գր",
+    "old": 860,
+    "new": 730,
+    "pct": 15,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1079318.png",
+    "url": "https://yerevan-city.am/shop/product-details/44455",
+    "key": "Yerevan City|id:44455|860|730"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-14T19:02:19.997108+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-14T19:16:58.707429+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
