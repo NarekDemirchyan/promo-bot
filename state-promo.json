@@ -1402,7 +1402,8 @@
    "SAS|id:25336|2620|2080",
    "SAS|id:631494|1250|1150",
    "SAS|id:356244|3140|1570",
-   "SAS|id:206698|820|410"
+   "SAS|id:206698|820|410",
+   "SAS|id:37035|870|790"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5022,6 +5023,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/plitka/206698/",
     "key": "SAS|id:206698|820|410"
+   },
+   {
+    "store": "SAS",
+    "title": "Կանաչ ոլոռ «ԱՊԳ» 720գ",
+    "old": 870,
+    "new": 790,
+    "pct": 9,
+    "until": "31.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/goroshek/37035/",
+    "key": "SAS|id:37035|870|790"
    }
   ],
   "Yerevan City": [
