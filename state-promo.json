@@ -2840,7 +2840,8 @@
    "Yerevan City|t:մարինացված վարունգ «արտֆուդ» 700գր|880|790",
    "Yerevan City|id:3854|880|780",
    "Yerevan City|id:13578|870|810",
-   "Yerevan City|id:44517|870|730"
+   "Yerevan City|id:44517|870|730",
+   "Yerevan City|id:11891|860|770"
   ]
  },
  "queues": {
@@ -7235,6 +7236,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1079314.png",
     "url": "https://yerevan-city.am/shop/product-details/44517",
     "key": "Yerevan City|id:44517|870|730"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թղթե սրբիչ «Պապիա» դեկորատիվ 3շերտ 2հտ",
+    "old": 860,
+    "new": 770,
+    "pct": 10,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1036097.png",
+    "url": "https://yerevan-city.am/shop/product-details/11891",
+    "key": "Yerevan City|id:11891|860|770"
    }
   ]
  },
