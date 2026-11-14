@@ -2826,22 +2826,12 @@
    "Yerevan City|id:192187|890|445",
    "Yerevan City|id:11269|890|820",
    "Yerevan City|id:6084|890|790",
-   "Yerevan City|id:11582|890|790"
+   "Yerevan City|id:11582|890|790",
+   "Yerevan City|id:192830|890|445"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շիլա վարսակի «Nestle Быстров» 175գ",
-    "old": 1330,
-    "new": 990,
-    "pct": 26,
-    "until": "20.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/253/016/0163763437444698.webp",
-    "url": "https://www.sas.am/catalog/kasha_myusli/653152/",
-    "key": "SAS|id:653152|1330|990"
-   },
    {
     "store": "SAS",
     "title": "Մուրաբա կեռասի «Իջևան» 600գ",
@@ -7221,12 +7211,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1088983.png",
     "url": "https://yerevan-city.am/shop/product-details/11582",
     "key": "Yerevan City|id:11582|890|790"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գազավորված ջուր «Վոսս» ելակ-կոճապղպեղ թ/տ 330մլ",
+    "old": 890,
+    "new": 445,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176568.png",
+    "url": "https://yerevan-city.am/shop/product-details/192830",
+    "key": "Yerevan City|id:192830|890|445"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-14T14:01:42.286998+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-14T14:16:22.524629+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
