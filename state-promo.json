@@ -2812,7 +2812,8 @@
    "Yerevan City|id:172384|890|390",
    "Yerevan City|id:177514|890|590",
    "Yerevan City|id:193200|890|690",
-   "Yerevan City|id:7722|890|350"
+   "Yerevan City|id:7722|890|350",
+   "Yerevan City|id:194840|890|560"
   ]
  },
  "queues": {
@@ -7207,6 +7208,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1080336.png",
     "url": "https://yerevan-city.am/shop/product-details/7722",
     "key": "Yerevan City|id:7722|890|350"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տորթի աման ոտիկով, պլաստմասե 24սմ 252",
+    "old": 890,
+    "new": 560,
+    "pct": 37,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178642.png",
+    "url": "https://yerevan-city.am/shop/product-details/194840",
+    "key": "Yerevan City|id:194840|890|560"
    }
   ]
  },
