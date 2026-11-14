@@ -2860,22 +2860,12 @@
    "Yerevan City|id:8159|855|770",
    "Yerevan City|id:23236|850|610",
    "Yerevan City|id:56120|850|660",
-   "Yerevan City|id:102440|850|590"
+   "Yerevan City|id:102440|850|590",
+   "Yerevan City|id:10611|850|710"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սպասք լվանալու հեղուկ «Frosch» 500մլ",
-    "old": 1230,
-    "new": 730,
-    "pct": 41,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/sredstva_dlya_posudy/170344/",
-    "key": "SAS|id:170344|1230|730"
-   },
    {
     "store": "SAS",
     "title": "Մակարոն «Barilla Integrale Fusilli» 500գ",
@@ -7255,12 +7245,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1137329.png",
     "url": "https://yerevan-city.am/shop/product-details/102440",
     "key": "Yerevan City|id:102440|850|590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ալյումինե փայլաթիթեղ «Գոսիա» Ալուֆոլիա 10մ",
+    "old": 850,
+    "new": 710,
+    "pct": 16,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1021333.png",
+    "url": "https://yerevan-city.am/shop/product-details/10611",
+    "key": "Yerevan City|id:10611|850|710"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-15T00:17:17.966851+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-15T00:32:52.033999+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
