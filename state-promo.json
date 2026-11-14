@@ -2856,22 +2856,12 @@
    "Yerevan City|id:12146|860|750",
    "Yerevan City|id:63984|860|670",
    "Yerevan City|id:8159|855|770",
-   "Yerevan City|id:23236|850|610"
+   "Yerevan City|id:23236|850|610",
+   "Yerevan City|id:56120|850|660"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կրեմ-օճառ մանկական «Ушастый Нянь» 90գ",
-    "old": 370,
-    "new": 320,
-    "pct": 14,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/363/009/0098302414250460.webp",
-    "url": "https://www.sas.am/catalog/soapsoap/88529/",
-    "key": "SAS|id:88529|370|320"
-   },
    {
     "store": "SAS",
     "title": "Քացախ խնձորի «Ponti Biologico Mele» 0.5լ",
@@ -7251,12 +7241,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1103047.png",
     "url": "https://yerevan-city.am/shop/product-details/23236",
     "key": "Yerevan City|id:23236|850|610"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Անձեռոցիկներ «Էկկա» եռաշերտ 120հտ",
+    "old": 850,
+    "new": 660,
+    "pct": 22,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1109799.png",
+    "url": "https://yerevan-city.am/shop/product-details/56120",
+    "key": "Yerevan City|id:56120|850|660"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-14T23:01:55.193144+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-14T23:19:29.475931+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
