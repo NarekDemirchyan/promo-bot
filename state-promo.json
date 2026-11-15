@@ -1451,7 +1451,8 @@
    "SAS|id:489768|6050|3220",
    "SAS|id:333406|2250|1570",
    "SAS|id:6528|1920|920",
-   "SAS|id:124535|990|920"
+   "SAS|id:124535|990|920",
+   "SAS|id:6901|1120|1030"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5120,6 +5121,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/391/181/1815761085299081.webp",
     "url": "https://www.sas.am/catalog/baklazhan/124535/",
     "key": "SAS|id:124535|990|920"
+   },
+   {
+    "store": "SAS",
+    "title": "Խավիար սմբուկի «Արտֆուդ Տնական» 470գ",
+    "old": 1120,
+    "new": 1030,
+    "pct": 8,
+    "until": "31.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/267/183/1836673404564018.webp",
+    "url": "https://www.sas.am/catalog/baklazhan/6901/",
+    "key": "SAS|id:6901|1120|1030"
    }
   ],
   "Yerevan City": [
