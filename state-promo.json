@@ -1459,7 +1459,8 @@
    "SAS|id:851135|21900|15330",
    "SAS|id:726056|920|710",
    "SAS|id:632710|1420|1350",
-   "SAS|id:20199|2150|1070"
+   "SAS|id:20199|2150|1070",
+   "SAS|id:847978|7090|6700"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2942,22 +2943,12 @@
    "Yerevan City|id:172983|850|490",
    "Yerevan City|id:192697|850|490",
    "Yerevan City|id:56200|850|790",
-   "Yerevan City|id:175426|850|690"
+   "Yerevan City|id:175426|850|690",
+   "Yerevan City|id:175427|850|690"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Գինի սերկևիլի «Իջևան» 0.75լ",
-    "old": 3350,
-    "new": 2560,
-    "pct": 24,
-    "until": "08.01.2027",
-    "img": "",
-    "url": "https://www.sas.am/catalog/armyanskoe_vino/6646/",
-    "key": "SAS|id:6646|3350|2560"
-   },
    {
     "store": "SAS",
     "title": "Թեյ սև «Greenfield Earl Grey Fantasy» 25*2գ",
@@ -5135,20 +5126,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/133/257/257025789081257.webp",
     "url": "https://www.sas.am/catalog/batareyka/20199/",
     "key": "SAS|id:20199|2150|1070"
+   },
+   {
+    "store": "SAS",
+    "title": "Կոնյակ «Օրրան 7*» 0․5լ",
+    "old": 7090,
+    "new": 6700,
+    "pct": 6,
+    "until": "08.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/armyanskiy_konyak/847978/",
+    "key": "SAS|id:847978|7090|6700"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Պանիր կաթնաշոռային «Սավուշկին» սերուցքային, թեթև 150գր",
-    "old": 1080,
-    "new": 810,
-    "pct": 25,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1124561.png",
-    "url": "https://yerevan-city.am/shop/product-details/86719",
-    "key": "Yerevan City|id:86719|1080|810"
-   },
    {
     "store": "Yerevan City",
     "title": "Վաֆլե տորթ «Ստեպ» չամիչ, գետնանուշ-կարամել 200գր",
@@ -7326,12 +7317,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169047.png",
     "url": "https://yerevan-city.am/shop/product-details/175426",
     "key": "Yerevan City|id:175426|850|690"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Պուդինգ պրոտ. «Վալիո» շոկոլադ ա/շ/լ 180գր",
+    "old": 850,
+    "new": 690,
+    "pct": 19,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169048.png",
+    "url": "https://yerevan-city.am/shop/product-details/175427",
+    "key": "Yerevan City|id:175427|850|690"
    }
   ]
  },
  "seeded": true,
  "rr": 1,
- "last_publish": "2026-11-16T02:47:54.523967+04:00",
+ "last_publish": "2026-11-16T03:03:40.314842+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
