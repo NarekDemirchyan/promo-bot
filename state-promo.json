@@ -1446,7 +1446,8 @@
    "SAS|id:177847|550|440",
    "SAS|id:122850|120|90",
    "SAS|id:711706|1250|1090",
-   "SAS|id:653195|320|240"
+   "SAS|id:653195|320|240",
+   "SAS|id:83251|2930|2090"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5110,6 +5111,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/spicess/653195/",
     "key": "SAS|id:653195|320|240"
+   },
+   {
+    "store": "SAS",
+    "title": "Սուրճ լուծվող «Nescafe Classic» 95գ",
+    "old": 2930,
+    "new": 2090,
+    "pct": 29,
+    "until": "20.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/rastvorimyy_kofe/83251/",
+    "key": "SAS|id:83251|2930|2090"
    }
   ],
   "Yerevan City": [
