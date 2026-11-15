@@ -2933,17 +2933,6 @@
    {
     "store": "SAS",
     "title": "Բրենդի ծիրանի «Իջևան» 0.5լ",
-    "old": 10900,
-    "new": 9850,
-    "pct": 10,
-    "until": "08.01.2027",
-    "img": "https://www.sas.am/upload/Sh/imageCache/201/750/7504662137815441.webp",
-    "url": "https://www.sas.am/catalog/armyanskiy_konyak/24224/",
-    "key": "SAS|id:24224|10900|9850"
-   },
-   {
-    "store": "SAS",
-    "title": "Բրենդի ծիրանի «Իջևան» 0.5լ",
     "old": 5990,
     "new": 5350,
     "pct": 11,
@@ -7335,8 +7324,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-15T20:33:41.927547+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-15T21:03:36.808378+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
