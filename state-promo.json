@@ -1449,7 +1449,8 @@
    "SAS|id:653195|320|240",
    "SAS|id:83251|2930|2090",
    "SAS|id:489768|6050|3220",
-   "SAS|id:333406|2250|1570"
+   "SAS|id:333406|2250|1570",
+   "SAS|id:6528|1920|920"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5116,20 +5117,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/305/435/435564850683956.webp",
     "url": "https://www.sas.am/catalog/vafli_vafelnyy_tort/333406/",
     "key": "SAS|id:333406|2250|1570"
+   },
+   {
+    "store": "SAS",
+    "title": "Էլեկտրական մարտկոց «Energizer MAX AA LR6» 4հատ",
+    "old": 1920,
+    "new": 920,
+    "pct": 52,
+    "until": "04.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/batareyka/6528/",
+    "key": "SAS|id:6528|1920|920"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Ներկ մազերի համար «Լոնդա Քոլոր» 8/38 բեժ բլոնդ",
-    "old": 1090,
-    "new": 880,
-    "pct": 19,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1100574.png",
-    "url": "https://yerevan-city.am/shop/product-details/51083",
-    "key": "Yerevan City|id:51083|1090|880"
-   },
    {
     "store": "Yerevan City",
     "title": "Գազ.ըմպելիք «Պեպսի» լայմ ա/շ 0.5լ (Չինաստան)",
@@ -7322,8 +7323,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-15T20:16:04.390122+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-15T20:33:41.927547+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
