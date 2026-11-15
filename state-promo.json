@@ -2944,7 +2944,8 @@
    "Yerevan City|id:192697|850|490",
    "Yerevan City|id:56200|850|790",
    "Yerevan City|id:175426|850|690",
-   "Yerevan City|id:175427|850|690"
+   "Yerevan City|id:175427|850|690",
+   "Yerevan City|id:179391|850|690"
   ]
  },
  "queues": {
@@ -7328,6 +7329,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169048.png",
     "url": "https://yerevan-city.am/shop/product-details/175427",
     "key": "Yerevan City|id:175427|850|690"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Պուդինգ պրոտ. «Վալիո» վանիլ-բեզե ա/շ/լ 180գր",
+    "old": 850,
+    "new": 690,
+    "pct": 19,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173097.png",
+    "url": "https://yerevan-city.am/shop/product-details/179391",
+    "key": "Yerevan City|id:179391|850|690"
    }
   ]
  },
@@ -7342,7 +7354,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 64,
+ "city_page": 65,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
