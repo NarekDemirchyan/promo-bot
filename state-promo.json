@@ -1425,7 +1425,8 @@
    "SAS|id:951048|5590|5150",
    "SAS|id:951047|5890|5590",
    "SAS|id:951044|5590|5150",
-   "SAS|id:947168|9990|4990"
+   "SAS|id:947168|9990|4990",
+   "SAS|id:924955|6990|3490"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5068,20 +5069,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/326/954/9540841174518464.webp",
     "url": "https://www.sas.am/catalog/import_morozenoe/947168/",
     "key": "SAS|id:947168|9990|4990"
+   },
+   {
+    "store": "SAS",
+    "title": "Պանիր պինդ «Reypenaer V.S.O.P» 300գ",
+    "old": 6990,
+    "new": 3490,
+    "pct": 50,
+    "until": "30.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/importnyy_syr/924955/",
+    "key": "SAS|id:924955|6990|3490"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Ներկ մազերի համար «Լոնդա Քոլոր» 3/75 մոկկո",
-    "old": 1090,
-    "new": 880,
-    "pct": 19,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1100558.png",
-    "url": "https://yerevan-city.am/shop/product-details/51069",
-    "key": "Yerevan City|id:51069|1090|880"
-   },
    {
     "store": "Yerevan City",
     "title": "Պանիր հալած «Պրեզիդենտ» խոզապուխտով 150գր",
@@ -7274,8 +7275,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-15T05:02:24.052936+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-15T05:17:02.676251+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
