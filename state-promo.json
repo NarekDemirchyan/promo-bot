@@ -2890,22 +2890,12 @@
    "Yerevan City|id:25408|840|710",
    "Yerevan City|id:5994|840|490",
    "Yerevan City|id:6041|840|490",
-   "Yerevan City|id:89071|830|740"
+   "Yerevan City|id:89071|830|740",
+   "Yerevan City|id:195052|830|560"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Գինի կարմիր «Իջևան Սարգոն» 0.75լ",
-    "old": 5590,
-    "new": 4990,
-    "pct": 11,
-    "until": "08.01.2027",
-    "img": "",
-    "url": "https://www.sas.am/catalog/armyanskoe_vino/6647/",
-    "key": "SAS|id:6647|5590|4990"
-   },
    {
     "store": "SAS",
     "title": "Գինի կարմիր «Իջևան» 0.75լ",
@@ -7285,12 +7275,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1126532.png",
     "url": "https://yerevan-city.am/shop/product-details/89071",
     "key": "Yerevan City|id:89071|830|740"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սմբուկի խավիար «Արկաֆա» կծու 470գր",
+    "old": 830,
+    "new": 560,
+    "pct": 33,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178851.png",
+    "url": "https://yerevan-city.am/shop/product-details/195052",
+    "key": "Yerevan City|id:195052|830|560"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-15T09:47:03.127615+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-15T10:02:29.434203+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
