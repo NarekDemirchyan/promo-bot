@@ -1424,7 +1424,8 @@
    "SAS|id:956514|3350|2340",
    "SAS|id:951048|5590|5150",
    "SAS|id:951047|5890|5590",
-   "SAS|id:951044|5590|5150"
+   "SAS|id:951044|5590|5150",
+   "SAS|id:947168|9990|4990"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5066,6 +5067,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/armyanskoe_vino/951044/",
     "key": "SAS|id:951044|5590|5150"
+   },
+   {
+    "store": "SAS",
+    "title": "Պաղպաղակ մոշի «Pops Blackberry» 140մլ",
+    "old": 9990,
+    "new": 4990,
+    "pct": 50,
+    "until": "30.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/326/954/9540841174518464.webp",
+    "url": "https://www.sas.am/catalog/import_morozenoe/947168/",
+    "key": "SAS|id:947168|9990|4990"
    }
   ],
   "Yerevan City": [
