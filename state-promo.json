@@ -1450,7 +1450,8 @@
    "SAS|id:83251|2930|2090",
    "SAS|id:489768|6050|3220",
    "SAS|id:333406|2250|1570",
-   "SAS|id:6528|1920|920"
+   "SAS|id:6528|1920|920",
+   "SAS|id:124535|990|920"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5118,6 +5119,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/batareyka/6528/",
     "key": "SAS|id:6528|1920|920"
+   },
+   {
+    "store": "SAS",
+    "title": "Բանջարեղեն խորոված «Արտֆուդ» 700գ",
+    "old": 990,
+    "new": 920,
+    "pct": 7,
+    "until": "31.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/391/181/1815761085299081.webp",
+    "url": "https://www.sas.am/catalog/baklazhan/124535/",
+    "key": "SAS|id:124535|990|920"
    }
   ],
   "Yerevan City": [
