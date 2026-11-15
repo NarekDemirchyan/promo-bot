@@ -5099,17 +5099,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Աքցան «Դեննի Հոմ» սիլիկոնե ԴՀ2516",
-    "old": 1150,
-    "new": 650,
-    "pct": 43,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1124317.png",
-    "url": "https://yerevan-city.am/shop/product-details/85778",
-    "key": "Yerevan City|id:85778|1150|650"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Երաժշտական թուր լուսային էֆեկտներով 133-1",
     "old": 1150,
     "new": 800,
@@ -7300,8 +7289,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-15T09:21:44.475852+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-15T09:47:03.127615+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
