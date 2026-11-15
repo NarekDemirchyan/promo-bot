@@ -2892,7 +2892,8 @@
    "Yerevan City|id:5994|840|490",
    "Yerevan City|id:6041|840|490",
    "Yerevan City|id:89071|830|740",
-   "Yerevan City|id:195052|830|560"
+   "Yerevan City|id:195052|830|560",
+   "Yerevan City|id:171957|830|490"
   ]
  },
  "queues": {
@@ -7287,6 +7288,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178851.png",
     "url": "https://yerevan-city.am/shop/product-details/195052",
     "key": "Yerevan City|id:195052|830|560"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տարա պլաստմասե «Հայքսին» քառակուսի 2.8լ",
+    "old": 830,
+    "new": 490,
+    "pct": 41,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1165504.png",
+    "url": "https://yerevan-city.am/shop/product-details/171957",
+    "key": "Yerevan City|id:171957|830|490"
    }
   ]
  },
