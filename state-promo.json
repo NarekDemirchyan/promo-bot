@@ -2902,7 +2902,8 @@
    "Yerevan City|id:154186|830|710",
    "Yerevan City|id:154187|830|710",
    "Yerevan City|id:68770|820|665",
-   "Yerevan City|id:131860|810|680"
+   "Yerevan City|id:131860|810|680",
+   "Yerevan City|id:161443|810|680"
   ]
  },
  "queues": {
@@ -7297,6 +7298,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1151372.png",
     "url": "https://yerevan-city.am/shop/product-details/131860",
     "key": "Yerevan City|id:131860|810|680"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Բրաունի սպ.պրոտ. «ՇՖ» թխվածքաբլիթի կրեմ ա/շ 50գր",
+    "old": 810,
+    "new": 680,
+    "pct": 16,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1159084.png",
+    "url": "https://yerevan-city.am/shop/product-details/161443",
+    "key": "Yerevan City|id:161443|810|680"
    }
   ]
  },
