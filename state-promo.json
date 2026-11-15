@@ -2876,22 +2876,12 @@
    "Yerevan City|id:13449|850|540",
    "Yerevan City|id:16155|850|780",
    "Yerevan City|id:111051|850|590",
-   "Yerevan City|id:175428|850|690"
+   "Yerevan City|id:175428|850|690",
+   "Yerevan City|id:179392|850|690"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Մարմնի կրեմ «Nivea Irresistibly Smooth» 400մլ",
-    "old": 3690,
-    "new": 2990,
-    "pct": 19,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/vse_dlya_ukhoda_za_telom_ustarelo/592539/",
-    "key": "SAS|id:592539|3690|2990"
-   },
    {
     "store": "SAS",
     "title": "Սուրճ աղացած «Carte Noire Cezve Extra Fine Grind» 200գ",
@@ -7271,12 +7261,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169049.png",
     "url": "https://yerevan-city.am/shop/product-details/175428",
     "key": "Yerevan City|id:175428|850|690"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Աղանդեր պրոտ. «Վալիո» հապալաս-վանիլ ա/շ/լ 175գր",
+    "old": 850,
+    "new": 690,
+    "pct": 19,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173098.png",
+    "url": "https://yerevan-city.am/shop/product-details/179392",
+    "key": "Yerevan City|id:179392|850|690"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-15T05:17:02.676251+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-15T05:34:30.331538+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
