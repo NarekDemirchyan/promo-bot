@@ -2938,7 +2938,8 @@
    "Yerevan City|id:406|800|645",
    "Yerevan City|id:99359|800|670",
    "Yerevan City|id:172983|850|490",
-   "Yerevan City|id:192697|850|490"
+   "Yerevan City|id:192697|850|490",
+   "Yerevan City|id:56200|850|790"
   ]
  },
  "queues": {
@@ -7333,6 +7334,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176429.png",
     "url": "https://yerevan-city.am/shop/product-details/192697",
     "key": "Yerevan City|id:192697|850|490"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հեղուկ օճառ «Փալմոլիվ» ձիթապտուղ և կաթ 300մլ",
+    "old": 850,
+    "new": 790,
+    "pct": 7,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1109875.png",
+    "url": "https://yerevan-city.am/shop/product-details/56200",
+    "key": "Yerevan City|id:56200|850|790"
    }
   ]
  },
