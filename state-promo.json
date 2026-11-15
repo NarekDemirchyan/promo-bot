@@ -1426,7 +1426,8 @@
    "SAS|id:951047|5890|5590",
    "SAS|id:951044|5590|5150",
    "SAS|id:947168|9990|4990",
-   "SAS|id:924955|6990|3490"
+   "SAS|id:924955|6990|3490",
+   "SAS|id:918297|1290|640"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5070,6 +5071,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/importnyy_syr/924955/",
     "key": "SAS|id:924955|6990|3490"
+   },
+   {
+    "store": "SAS",
+    "title": "Բատոն սպիտակուցային կակաոյի և գետնանուշի համով «Pingo Doce Go Active Barra Proteica» 3*35գ",
+    "old": 1290,
+    "new": 640,
+    "pct": 50,
+    "until": "30.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/batonchik/918297/",
+    "key": "SAS|id:918297|1290|640"
    }
   ],
   "Yerevan City": [
