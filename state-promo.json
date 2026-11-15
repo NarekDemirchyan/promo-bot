@@ -2922,7 +2922,8 @@
    "Yerevan City|id:87611|810|740",
    "Yerevan City|id:194335|810|680",
    "Yerevan City|id:14858|810|570",
-   "Yerevan City|id:15409|810|710"
+   "Yerevan City|id:15409|810|710",
+   "Yerevan City|id:181320|810|580"
   ]
  },
  "queues": {
@@ -7317,6 +7318,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1082136.png",
     "url": "https://yerevan-city.am/shop/product-details/15409",
     "key": "Yerevan City|id:15409|810|710"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գաթա Գավառի «Նոր-Նար» 350գր",
+    "old": 810,
+    "new": 580,
+    "pct": 28,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175027.png",
+    "url": "https://yerevan-city.am/shop/product-details/181320",
+    "key": "Yerevan City|id:181320|810|580"
    }
   ]
  },
