@@ -1428,7 +1428,8 @@
    "SAS|id:947168|9990|4990",
    "SAS|id:924955|6990|3490",
    "SAS|id:918297|1290|640",
-   "SAS|id:912515|1930|1350"
+   "SAS|id:912515|1930|1350",
+   "SAS|id:890212|95000|66500"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5074,6 +5075,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/desert_biskvit/912515/",
     "key": "SAS|id:912515|1930|1350"
+   },
+   {
+    "store": "SAS",
+    "title": "Օղի «Amnisia Grand Voyage» 1լ",
+    "old": 95000,
+    "new": 66500,
+    "pct": 30,
+    "until": "30.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/338/679/6791652955352564.webp",
+    "url": "https://www.sas.am/catalog/importnoe/890212/",
+    "key": "SAS|id:890212|95000|66500"
    }
   ],
   "Yerevan City": [
