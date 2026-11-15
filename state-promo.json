@@ -2946,17 +2946,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Գինի վարդագույն «Իջևան Վարդ» 0.75լ",
-    "old": 3690,
-    "new": 3290,
-    "pct": 11,
-    "until": "08.01.2027",
-    "img": "https://www.sas.am/upload/Sh/imageCache/323/893/8938993283855252.webp",
-    "url": "https://www.sas.am/catalog/armyanskoe_vino/6648/",
-    "key": "SAS|id:6648|3690|3290"
-   },
-   {
-    "store": "SAS",
     "title": "Գինի սպիտակ «Իջևան Սարգոն» 0.75լ",
     "old": 5250,
     "new": 4690,
@@ -7349,8 +7338,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-16T01:49:33.799986+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-16T02:17:06.941686+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
