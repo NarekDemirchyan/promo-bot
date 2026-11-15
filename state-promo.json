@@ -2932,7 +2932,8 @@
    "Yerevan City|id:49282|810|690",
    "Yerevan City|id:75728|810|670",
    "Yerevan City|id:75729|810|670",
-   "Yerevan City|id:406|800|645"
+   "Yerevan City|id:406|800|645",
+   "Yerevan City|id:99359|800|670"
   ]
  },
  "queues": {
@@ -7327,6 +7328,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1043775.png",
     "url": "https://yerevan-city.am/shop/product-details/406",
     "key": "Yerevan City|id:406|800|645"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Եգիպտացորեն քաղցր «Բոնդյուել» մատղաշ 425մլ",
+    "old": 800,
+    "new": 670,
+    "pct": 16,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1134800.png",
+    "url": "https://yerevan-city.am/shop/product-details/99359",
+    "key": "Yerevan City|id:99359|800|670"
    }
   ]
  },
