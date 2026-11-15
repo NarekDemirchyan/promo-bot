@@ -1460,7 +1460,8 @@
    "SAS|id:726056|920|710",
    "SAS|id:632710|1420|1350",
    "SAS|id:20199|2150|1070",
-   "SAS|id:847978|7090|6700"
+   "SAS|id:847978|7090|6700",
+   "SAS|id:847977|9990|9390"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5138,20 +5139,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/armyanskiy_konyak/847978/",
     "key": "SAS|id:847978|7090|6700"
+   },
+   {
+    "store": "SAS",
+    "title": "Օղի «Արմենիա Գոլդ» 0.7լ",
+    "old": 9990,
+    "new": 9390,
+    "pct": 6,
+    "until": "08.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/armyanskoe_vodka/847977/",
+    "key": "SAS|id:847977|9990|9390"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Վաֆլե տորթ «Ստեպ» չամիչ, գետնանուշ-կարամել 200գր",
-    "old": 1080,
-    "new": 860,
-    "pct": 20,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1141361.png",
-    "url": "https://yerevan-city.am/shop/product-details/108625",
-    "key": "Yerevan City|id:108625|1080|860"
-   },
    {
     "store": "Yerevan City",
     "title": "Օճառ «Սեյֆգրդ» հալվե 3x90գր",
@@ -7344,8 +7345,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-16T03:03:40.314842+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-16T03:32:16.377616+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
