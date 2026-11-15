@@ -1442,7 +1442,8 @@
    "SAS|id:6762|2150|1850",
    "SAS|id:58341|1080|970",
    "SAS|id:884786|64000|44800",
-   "SAS|id:866096|1220|1150"
+   "SAS|id:866096|1220|1150",
+   "SAS|id:177847|550|440"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5102,6 +5103,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/391/779/7792871146695375.webp",
     "url": "https://www.sas.am/catalog/baklazhan/866096/",
     "key": "SAS|id:866096|1220|1150"
+   },
+   {
+    "store": "SAS",
+    "title": "Չորահաց-բրուսկետտա լոլիկի, ձիթապտղի և վայրի սուսամբարի «Maretti» 70գ",
+    "old": 550,
+    "new": 440,
+    "pct": 20,
+    "until": "30.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/226/974/9744712992618124.webp",
+    "url": "https://www.sas.am/catalog/chipsy/177847/",
+    "key": "SAS|id:177847|550|440"
    }
   ],
   "Yerevan City": [
