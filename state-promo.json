@@ -2934,7 +2934,8 @@
    "Yerevan City|id:75728|810|670",
    "Yerevan City|id:75729|810|670",
    "Yerevan City|id:406|800|645",
-   "Yerevan City|id:99359|800|670"
+   "Yerevan City|id:99359|800|670",
+   "Yerevan City|id:172983|850|490"
   ]
  },
  "queues": {
@@ -7329,6 +7330,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1134800.png",
     "url": "https://yerevan-city.am/shop/product-details/99359",
     "key": "Yerevan City|id:99359|800|670"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Լատտեի բաժակ «ՕՍԶ» 290մլ 24Ց2388",
+    "old": 850,
+    "new": 490,
+    "pct": 42,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1166564.png",
+    "url": "https://yerevan-city.am/shop/product-details/172983",
+    "key": "Yerevan City|id:172983|850|490"
    }
   ]
  },
