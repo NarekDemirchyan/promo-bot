@@ -2884,22 +2884,12 @@
    "Yerevan City|id:179392|850|690",
    "Yerevan City|id:193269|850|690",
    "Yerevan City|id:63711|840|760",
-   "Yerevan City|id:25408|840|710"
+   "Yerevan City|id:25408|840|710",
+   "Yerevan City|id:5994|840|490"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Գինի նռան «Իջևան» 0.75լ",
-    "old": 3350,
-    "new": 2560,
-    "pct": 24,
-    "until": "08.01.2027",
-    "img": "https://www.sas.am/upload/Sh/imageCache/315/603/6033252944118397.webp",
-    "url": "https://www.sas.am/catalog/armyanskoe_vino/2315/",
-    "key": "SAS|id:2315|3350|2560"
-   },
    {
     "store": "SAS",
     "title": "Գինի կարմիր «Իջևան» 0.75լ",
@@ -7279,12 +7269,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1103514.png",
     "url": "https://yerevan-city.am/shop/product-details/25408",
     "key": "Yerevan City|id:25408|840|710"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սափրող սարք «Վ.Սվորդ» Դուպլո 2 Բյութի 5հտ",
+    "old": 840,
+    "new": 490,
+    "pct": 42,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1085342.png",
+    "url": "https://yerevan-city.am/shop/product-details/5994",
+    "key": "Yerevan City|id:5994|840|490"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-15T07:47:08.624743+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-15T08:04:44.323386+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
