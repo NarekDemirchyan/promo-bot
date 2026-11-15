@@ -1453,7 +1453,8 @@
    "SAS|id:6528|1920|920",
    "SAS|id:124535|990|920",
    "SAS|id:6901|1120|1030",
-   "SAS|id:824586|1130|1030"
+   "SAS|id:824586|1130|1030",
+   "SAS|id:37036|990|920"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5124,6 +5125,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/260/580/5801162206043278.webp",
     "url": "https://www.sas.am/catalog/ogurtsy/824586/",
     "key": "SAS|id:824586|1130|1030"
+   },
+   {
+    "store": "SAS",
+    "title": "Կանաչ ոլոռ «Արտֆուդ» 750գ",
+    "old": 990,
+    "new": 920,
+    "pct": 7,
+    "until": "31.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/goroshek/37036/",
+    "key": "SAS|id:37036|990|920"
    }
   ],
   "Yerevan City": [
