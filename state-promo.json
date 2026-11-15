@@ -1457,7 +1457,8 @@
    "SAS|id:37036|990|920",
    "SAS|id:866095|1090|1020",
    "SAS|id:851135|21900|15330",
-   "SAS|id:726056|920|710"
+   "SAS|id:726056|920|710",
+   "SAS|id:632710|1420|1350"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2944,17 +2945,6 @@
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Գինի սպիտակ «Իջևան Սարգոն» 0.75լ",
-    "old": 5250,
-    "new": 4690,
-    "pct": 11,
-    "until": "08.01.2027",
-    "img": "",
-    "url": "https://www.sas.am/catalog/armyanskoe_vino/29843/",
-    "key": "SAS|id:29843|5250|4690"
-   },
    {
     "store": "SAS",
     "title": "Գինի կարմիր «Իջևան Մխիթար Գոշ» 0.75լ",
@@ -5132,20 +5122,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/426/174/1742311174470734.webp",
     "url": "https://www.sas.am/catalog/baklazhan/726056/",
     "key": "SAS|id:726056|920|710"
+   },
+   {
+    "store": "SAS",
+    "title": "Հյութ տոմատի «Իջևան» 1000մլ",
+    "old": 1420,
+    "new": 1350,
+    "pct": 5,
+    "until": "07.01.2027",
+    "img": "https://www.sas.am/upload/Sh/imageCache/227/121/1216072233304472.webp",
+    "url": "https://www.sas.am/catalog/sok/632710/",
+    "key": "SAS|id:632710|1420|1350"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Պանիր կաթնաշոռային «Սավուշկին» կանաչիով 150գր",
-    "old": 1080,
-    "new": 810,
-    "pct": 25,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1116205.png",
-    "url": "https://yerevan-city.am/shop/product-details/72929",
-    "key": "Yerevan City|id:72929|1080|810"
-   },
    {
     "store": "Yerevan City",
     "title": "Պանիր կաթնաշոռային «Սավուշկին» սերուցքային 150գր",
@@ -7339,7 +7329,7 @@
  },
  "seeded": true,
  "rr": 1,
- "last_publish": "2026-11-16T02:17:06.941686+04:00",
+ "last_publish": "2026-11-16T02:33:03.288966+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
