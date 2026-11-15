@@ -1430,7 +1430,8 @@
    "SAS|id:918297|1290|640",
    "SAS|id:912515|1930|1350",
    "SAS|id:890212|95000|66500",
-   "SAS|id:890210|95000|66500"
+   "SAS|id:890210|95000|66500",
+   "SAS|id:887986|179000|125300"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5078,6 +5079,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/253/836/836236542499860.webp",
     "url": "https://www.sas.am/catalog/importnoe/890210/",
     "key": "SAS|id:890210|95000|66500"
+   },
+   {
+    "store": "SAS",
+    "title": "Տեկիլա «1800 Milenio Extra Anejo» 750մլ",
+    "old": 179000,
+    "new": 125300,
+    "pct": 30,
+    "until": "30.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/329/312/3129142575932098.webp",
+    "url": "https://www.sas.am/catalog/rom_i_tekilla/887986/",
+    "key": "SAS|id:887986|179000|125300"
    }
   ],
   "Yerevan City": [
