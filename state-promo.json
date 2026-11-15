@@ -1436,7 +1436,8 @@
    "SAS|id:887727|64500|45150",
    "SAS|id:887705|39500|27650",
    "SAS|id:886307|95000|47500",
-   "SAS|id:124631|1570|1450"
+   "SAS|id:124631|1570|1450",
+   "SAS|id:27650|2390|1190"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5090,20 +5091,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/ogurtsy/124631/",
     "key": "SAS|id:124631|1570|1450"
+   },
+   {
+    "store": "SAS",
+    "title": "Վաֆլի պնդուկով «Hanuta» 242գ",
+    "old": 2390,
+    "new": 1190,
+    "pct": 50,
+    "until": "30.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/470/822/8221572880412393.webp",
+    "url": "https://www.sas.am/catalog/vafli_vafelnyy_tort/27650/",
+    "key": "SAS|id:27650|2390|1190"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Տարա ձեթի «Դ.Հոմ» սիլիկոնե խոզանակով ԴՀ0235",
-    "old": 1090,
-    "new": 590,
-    "pct": 46,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1128612.png",
-    "url": "https://yerevan-city.am/shop/product-details/91669",
-    "key": "Yerevan City|id:91669|1090|590"
-   },
    {
     "store": "Yerevan City",
     "title": "Ներկ մազերի համար «Լոնդա Քոլոր» 4/00 մուգ շատեն",
@@ -7296,8 +7297,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-15T12:01:39.550010+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-15T12:16:22.721178+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
