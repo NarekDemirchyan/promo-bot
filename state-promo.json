@@ -1445,7 +1445,8 @@
    "SAS|id:866096|1220|1150",
    "SAS|id:177847|550|440",
    "SAS|id:122850|120|90",
-   "SAS|id:711706|1250|1090"
+   "SAS|id:711706|1250|1090",
+   "SAS|id:653195|320|240"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5108,6 +5109,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/ogurtsy/711706/",
     "key": "SAS|id:711706|1250|1090"
+   },
+   {
+    "store": "SAS",
+    "title": "Արգանակ հավի «Доширак» 90գ",
+    "old": 320,
+    "new": 240,
+    "pct": 25,
+    "until": "26.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/spicess/653195/",
+    "key": "SAS|id:653195|320|240"
    }
   ],
   "Yerevan City": [
