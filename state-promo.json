@@ -2904,17 +2904,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Հեղուկ օճառ «Palmolive Naturals» 650մլ",
-    "old": 1550,
-    "new": 1390,
-    "pct": 10,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/liqsoup/542597/",
-    "key": "SAS|id:542597|1550|1390"
-   },
-   {
-    "store": "SAS",
     "title": "Կոնյակ «Հին Իջևան» 0.5լ",
     "old": 14400,
     "new": 12800,
@@ -7307,8 +7296,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-15T11:47:31.508149+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-15T12:01:39.550010+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
