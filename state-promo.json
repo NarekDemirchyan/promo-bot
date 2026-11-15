@@ -2942,17 +2942,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Գինի սպիտակ «Իջևան» 0.75լ",
-    "old": 2970,
-    "new": 2690,
-    "pct": 9,
-    "until": "08.01.2027",
-    "img": "",
-    "url": "https://www.sas.am/catalog/armyanskoe_vino/2311/",
-    "key": "SAS|id:2311|2970|2690"
-   },
-   {
-    "store": "SAS",
     "title": "Գինի մոշի «Իջևան» 0.75լ",
     "old": 3350,
     "new": 2560,
@@ -7345,8 +7334,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-16T00:17:49.309713+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-16T00:48:08.342672+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
