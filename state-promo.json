@@ -1432,7 +1432,8 @@
    "SAS|id:890212|95000|66500",
    "SAS|id:890210|95000|66500",
    "SAS|id:887986|179000|125300",
-   "SAS|id:887728|74500|52150"
+   "SAS|id:887728|74500|52150",
+   "SAS|id:887727|64500|45150"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5082,6 +5083,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/rom_i_tekilla/887728/",
     "key": "SAS|id:887728|74500|52150"
+   },
+   {
+    "store": "SAS",
+    "title": "Տեկիլա «Grand Love Blanco» 750մլ",
+    "old": 64500,
+    "new": 45150,
+    "pct": 30,
+    "until": "30.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/398/955/955616133702020.webp",
+    "url": "https://www.sas.am/catalog/rom_i_tekilla/887727/",
+    "key": "SAS|id:887727|64500|45150"
    }
   ],
   "Yerevan City": [
