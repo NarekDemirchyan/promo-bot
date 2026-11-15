@@ -2896,7 +2896,8 @@
    "Yerevan City|id:89071|830|740",
    "Yerevan City|id:195052|830|560",
    "Yerevan City|id:171957|830|490",
-   "Yerevan City|id:154186|830|710"
+   "Yerevan City|id:154186|830|710",
+   "Yerevan City|id:154187|830|710"
   ]
  },
  "queues": {
@@ -7291,6 +7292,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1154312.png",
     "url": "https://yerevan-city.am/shop/product-details/154186",
     "key": "Yerevan City|id:154186|830|710"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հատակ մաքրող միջոց «ԷյԲիՍի» Սպիտակ մարգարիտ 900մլ",
+    "old": 830,
+    "new": 710,
+    "pct": 14,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1154313.png",
+    "url": "https://yerevan-city.am/shop/product-details/154187",
+    "key": "Yerevan City|id:154187|830|710"
    }
   ]
  },
