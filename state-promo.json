@@ -2924,7 +2924,8 @@
    "Yerevan City|id:194335|810|680",
    "Yerevan City|id:14858|810|570",
    "Yerevan City|id:15409|810|710",
-   "Yerevan City|id:181320|810|580"
+   "Yerevan City|id:181320|810|580",
+   "Yerevan City|id:49282|810|690"
   ]
  },
  "queues": {
@@ -7319,6 +7320,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175027.png",
     "url": "https://yerevan-city.am/shop/product-details/181320",
     "key": "Yerevan City|id:181320|810|580"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թխվածքաբլիթ «Գուլոն» Դուո, շոկոլադե 250գր",
+    "old": 810,
+    "new": 690,
+    "pct": 15,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1100889.png",
+    "url": "https://yerevan-city.am/shop/product-details/49282",
+    "key": "Yerevan City|id:49282|810|690"
    }
   ]
  },
