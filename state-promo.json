@@ -2904,22 +2904,12 @@
    "Yerevan City|id:154187|830|710",
    "Yerevan City|id:68770|820|665",
    "Yerevan City|id:131860|810|680",
-   "Yerevan City|id:161443|810|680"
+   "Yerevan City|id:161443|810|680",
+   "Yerevan City|id:7267|810|720"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Փրփրուն գինի «Լուսարև Սան Դեյ Պետ-Նատ Ոսկեհատ» 0.75լ",
-    "old": 4900,
-    "new": 4490,
-    "pct": 8,
-    "until": "08.01.2027",
-    "img": "https://www.sas.am/upload/Sh/imageCache/980/484/4844452788039901.webp",
-    "url": "https://www.sas.am/catalog/shampanskoe_igristoe_vino/841350/",
-    "key": "SAS|id:841350|4900|4490"
-   },
    {
     "store": "SAS",
     "title": "Գինի վարդագույն «Լուսարև» 0.75լ",
@@ -7299,12 +7289,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1159084.png",
     "url": "https://yerevan-city.am/shop/product-details/161443",
     "key": "Yerevan City|id:161443|810|680"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ամենօրյա միջադիրներ «Լիբրես» դասական, դեո 50հտ",
+    "old": 810,
+    "new": 720,
+    "pct": 11,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1009579.png",
+    "url": "https://yerevan-city.am/shop/product-details/7267",
+    "key": "Yerevan City|id:7267|810|720"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-15T14:18:01.287634+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-15T14:32:17.024988+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
