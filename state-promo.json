@@ -2928,22 +2928,12 @@
    "Yerevan City|id:15409|810|710",
    "Yerevan City|id:181320|810|580",
    "Yerevan City|id:49282|810|690",
-   "Yerevan City|id:75728|810|670"
+   "Yerevan City|id:75728|810|670",
+   "Yerevan City|id:75729|810|670"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Օղի հոնի «Իջևան» 0.5լ",
-    "old": 8690,
-    "new": 7690,
-    "pct": 12,
-    "until": "08.01.2027",
-    "img": "",
-    "url": "https://www.sas.am/catalog/armyanskoe_vodka/31977/",
-    "key": "SAS|id:31977|8690|7690"
-   },
    {
     "store": "SAS",
     "title": "Օղի նռան «Իջևան» 0.5լ",
@@ -7323,12 +7313,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1118698.png",
     "url": "https://yerevan-city.am/shop/product-details/75728",
     "key": "Yerevan City|id:75728|810|670"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ձիթապտուղ սև «Բոնդյուել» 300գր",
+    "old": 810,
+    "new": 670,
+    "pct": 17,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1118699.png",
+    "url": "https://yerevan-city.am/shop/product-details/75729",
+    "key": "Yerevan City|id:75729|810|670"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-15T22:16:51.679559+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-15T22:31:45.375842+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
