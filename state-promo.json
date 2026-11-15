@@ -2918,7 +2918,8 @@
    "Yerevan City|id:17088|810|740",
    "Yerevan City|id:87610|810|740",
    "Yerevan City|id:87611|810|740",
-   "Yerevan City|id:194335|810|680"
+   "Yerevan City|id:194335|810|680",
+   "Yerevan City|id:14858|810|570"
   ]
  },
  "queues": {
@@ -7313,6 +7314,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178109.png",
     "url": "https://yerevan-city.am/shop/product-details/194335",
     "key": "Yerevan City|id:194335|810|680"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թղթե սրբիչ «Կլեոպատրա» երկշերտ 2հտ",
+    "old": 810,
+    "new": 570,
+    "pct": 30,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1011286.png",
+    "url": "https://yerevan-city.am/shop/product-details/14858",
+    "key": "Yerevan City|id:14858|810|570"
    }
   ]
  },
