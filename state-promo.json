@@ -2980,17 +2980,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Փրփրուն գինի «Իջևան Բրիզ» 0.75լ",
-    "old": 9990,
-    "new": 8990,
-    "pct": 10,
-    "until": "08.01.2027",
-    "img": "",
-    "url": "https://www.sas.am/catalog/shampanskoe_igristoe_vino/731246/",
-    "key": "SAS|id:731246|9990|8990"
-   },
-   {
-    "store": "SAS",
     "title": "Կոնյակ «Իջևան» 0.7լ",
     "old": 115900,
     "new": 105900,
@@ -7383,8 +7372,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-16T11:05:22.841050+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-16T11:32:17.196869+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
