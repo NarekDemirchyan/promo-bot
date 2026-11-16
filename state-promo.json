@@ -1475,7 +1475,8 @@
    "SAS|id:804503|5890|5590",
    "SAS|id:793560|2350|1640",
    "SAS|id:197947|1420|920",
-   "SAS|id:197944|1420|920"
+   "SAS|id:197944|1420|920",
+   "SAS|id:198263|1340|1150"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5168,20 +5169,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/236/165/1659481618272262.webp",
     "url": "https://www.sas.am/catalog/listovoy/197944/",
     "key": "SAS|id:197944|1420|920"
+   },
+   {
+    "store": "SAS",
+    "title": "Թեյ սև «Greenfield Rich Ceylon» 20x2գ",
+    "old": 1340,
+    "new": 1150,
+    "pct": 14,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/v_paketakh/198263/",
+    "key": "SAS|id:198263|1340|1150"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Ատամի մածուկ «Քոլգեյթ» Մ.Ուայթ, թեյ-սուրճ-ծխ.75մլ",
-    "old": 1180,
-    "new": 1090,
-    "pct": 8,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176839.png",
-    "url": "https://yerevan-city.am/shop/product-details/193096",
-    "key": "Yerevan City|id:193096|1180|1090"
-   },
    {
     "store": "Yerevan City",
     "title": "Ատամի մածուկ «Քոլգեյթ» Մ.Ուայթ, գույնի շտկում75մլ",
@@ -7374,8 +7375,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-16T12:02:30.773077+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-16T12:19:44.936470+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
