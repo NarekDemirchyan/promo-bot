@@ -2972,7 +2972,8 @@
    "Yerevan City|id:2467|660|420",
    "Yerevan City|id:4499|660|610",
    "Yerevan City|id:19682|670|490",
-   "Yerevan City|id:94698|670|450"
+   "Yerevan City|id:94698|670|450",
+   "Yerevan City|id:5821|660|610"
   ]
  },
  "queues": {
@@ -7367,6 +7368,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1131312.png",
     "url": "https://yerevan-city.am/shop/product-details/94698",
     "key": "Yerevan City|id:94698|670|450"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ատամի մածուկ մանկական «Քոլգեյթ» բաբլ գամ 2+ 66գր",
+    "old": 660,
+    "new": 610,
+    "pct": 8,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1003613.png",
+    "url": "https://yerevan-city.am/shop/product-details/5821",
+    "key": "Yerevan City|id:5821|660|610"
    }
   ]
  },
