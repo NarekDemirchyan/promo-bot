@@ -3010,22 +3010,12 @@
    "Yerevan City|id:165040|650|540",
    "Yerevan City|id:172389|650|390",
    "Yerevan City|id:173151|650|355",
-   "Yerevan City|id:173538|650|390"
+   "Yerevan City|id:173538|650|390",
+   "Yerevan City|id:179681|740|590"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Օդը թարմացնող միջոց և ռաթթան փայտիկներ «Brait Golden Lake» 100մլ",
-    "old": 3630,
-    "new": 3150,
-    "pct": 13,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/osvezhiteli/431814/",
-    "key": "SAS|id:431814|3630|3150"
-   },
    {
     "store": "SAS",
     "title": "Օդը թարմացնող միջոց և ռաթթան փայտիկներ «Brait Secret Love» 100մլ",
@@ -7405,12 +7395,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1167134.png",
     "url": "https://yerevan-city.am/shop/product-details/173538",
     "key": "Yerevan City|id:173538|650|390"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Անձեռոցիկ խոնավությունը կլանող «Վորտեքս» 3հտ",
+    "old": 740,
+    "new": 590,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173400.png",
+    "url": "https://yerevan-city.am/shop/product-details/179681",
+    "key": "Yerevan City|id:179681|740|590"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-16T23:47:07.595242+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-17T00:05:35.058824+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
