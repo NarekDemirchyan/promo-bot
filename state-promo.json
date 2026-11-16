@@ -2996,17 +2996,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Սոուս պեստո «Barilla Pesto Basilico Peperoncino» 195գ",
-    "old": 2690,
-    "new": 2190,
-    "pct": 19,
-    "until": "25.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/192/268/268670726365573.webp",
-    "url": "https://www.sas.am/catalog/sous/392365/",
-    "key": "SAS|id:392365|2690|2190"
-   },
-   {
-    "store": "SAS",
     "title": "Սափրիչ «Gillette Venus start» 1հատ",
     "old": 8350,
     "new": 7740,
@@ -7399,8 +7388,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-16T17:04:32.031639+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-16T17:32:26.235712+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
