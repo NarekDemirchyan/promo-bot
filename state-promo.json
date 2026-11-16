@@ -1491,7 +1491,8 @@
    "SAS|id:2188|1780|1230",
    "SAS|id:972406|1360|1190",
    "SAS|id:20206|2070|1370",
-   "SAS|id:20205|1690|1100"
+   "SAS|id:20205|1690|1100",
+   "SAS|id:58657|990|880"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5200,6 +5201,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/batareyka/20205/",
     "key": "SAS|id:20205|1690|1100"
+   },
+   {
+    "store": "SAS",
+    "title": "Իմամ բայալդի «Արտֆուդ» 450գ",
+    "old": 990,
+    "new": 880,
+    "pct": 11,
+    "until": "31.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/577/454/4544451449577077.webp",
+    "url": "https://www.sas.am/catalog/baklazhan/58657/",
+    "key": "SAS|id:58657|990|880"
    }
   ],
   "Yerevan City": [
