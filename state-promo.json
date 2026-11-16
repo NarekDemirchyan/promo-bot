@@ -3000,17 +3000,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Գինի սպիտակ «Ֆրունզիկ Մկրտչյան Ոսկեհատ» 0.75լ",
-    "old": 6490,
-    "new": 5990,
-    "pct": 8,
-    "until": "08.01.2027",
-    "img": "",
-    "url": "https://www.sas.am/catalog/armyanskoe_vino/325716/",
-    "key": "SAS|id:325716|6490|5990"
-   },
-   {
-    "store": "SAS",
     "title": "Թեյ սև «Ahmad Tea Strawberry Sensation» 20*2գ",
     "old": 1590,
     "new": 1120,
@@ -7403,8 +7392,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-16T18:19:43.189450+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-16T18:47:17.531895+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
