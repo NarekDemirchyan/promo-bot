@@ -3020,7 +3020,8 @@
    "Yerevan City|id:193100|740|680",
    "Yerevan City|id:193101|740|680",
    "Yerevan City|id:193102|740|680",
-   "Yerevan City|id:132281|740|650"
+   "Yerevan City|id:132281|740|650",
+   "Yerevan City|id:194991|740|700"
   ]
  },
  "queues": {
@@ -7415,6 +7416,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1151786.png",
     "url": "https://yerevan-city.am/shop/product-details/132281",
     "key": "Yerevan City|id:132281|740|650"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մարին.վարունգ «Օտ Գուրմանա» կծու չիլի 1-4սմ 370մլ",
+    "old": 740,
+    "new": 700,
+    "pct": 5,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178799.png",
+    "url": "https://yerevan-city.am/shop/product-details/194991",
+    "key": "Yerevan City|id:194991|740|700"
    }
   ]
  },
