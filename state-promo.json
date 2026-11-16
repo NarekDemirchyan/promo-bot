@@ -3016,22 +3016,12 @@
    "Yerevan City|id:173538|650|390",
    "Yerevan City|id:179681|740|590",
    "Yerevan City|id:193100|740|680",
-   "Yerevan City|id:193101|740|680"
+   "Yerevan City|id:193101|740|680",
+   "Yerevan City|id:193102|740|680"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սափրող սարք «Wilkinson Sensitive»",
-    "old": 1080,
-    "new": 920,
-    "pct": 15,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/193/537/5378692005632958.webp",
-    "url": "https://www.sas.am/catalog/stanok_dlya_britya/173918/",
-    "key": "SAS|id:173918|1080|920"
-   },
    {
     "store": "SAS",
     "title": "Ձեթ ձիթապտղի «Luglio Pomace» 1լ",
@@ -7411,12 +7401,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176854.png",
     "url": "https://yerevan-city.am/shop/product-details/193101",
     "key": "Yerevan City|id:193101|740|680"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շամպուն տղ. «Փալմոլիվ» թեփի դեմ, եղեսպակ 220մլ",
+    "old": 740,
+    "new": 680,
+    "pct": 8,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176855.png",
+    "url": "https://yerevan-city.am/shop/product-details/193102",
+    "key": "Yerevan City|id:193102|740|680"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-17T01:47:10.057955+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-17T02:02:32.112323+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
