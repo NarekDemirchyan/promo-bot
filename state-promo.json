@@ -3002,22 +3002,12 @@
    "Yerevan City|id:64832|650|495",
    "Yerevan City|id:89026|650|550",
    "Yerevan City|id:108163|650|350",
-   "Yerevan City|id:158814|650|290"
+   "Yerevan City|id:158814|650|290",
+   "Yerevan City|id:165040|650|540"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ձեռքերի կրեմ «Nivea Moisture Care» 75մլ",
-    "old": 1090,
-    "new": 930,
-    "pct": 15,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/vse_dlya_ukhoda_za_rukami_ustarelo/87128/",
-    "key": "SAS|id:87128|1090|930"
-   },
    {
     "store": "SAS",
     "title": "Հակաքրտինքային աէրոզոլային միջոց «Garnier Mineral Антибактериальный Эффект» 150մլ",
@@ -7397,12 +7387,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156457.png",
     "url": "https://yerevan-city.am/shop/product-details/158814",
     "key": "Yerevan City|id:158814|650|290"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Խոնավ անձեռոցիկներ «Էկկա» ունիվերսալ 120հտ",
+    "old": 650,
+    "new": 540,
+    "pct": 17,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1160763.png",
+    "url": "https://yerevan-city.am/shop/product-details/165040",
+    "key": "Yerevan City|id:165040|650|540"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-16T21:16:34.151674+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-16T21:35:54.353249+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
