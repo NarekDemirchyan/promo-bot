@@ -2998,7 +2998,8 @@
    "Yerevan City|id:9018|650|580",
    "Yerevan City|id:14221|650|386",
    "Yerevan City|id:64832|650|495",
-   "Yerevan City|id:89026|650|550"
+   "Yerevan City|id:89026|650|550",
+   "Yerevan City|id:108163|650|350"
   ]
  },
  "queues": {
@@ -7393,6 +7394,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1126497.png",
     "url": "https://yerevan-city.am/shop/product-details/89026",
     "key": "Yerevan City|id:89026|650|550"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Աղբաման 1.8լ Ց42-Բ075",
+    "old": 650,
+    "new": 350,
+    "pct": 46,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1140948.png",
+    "url": "https://yerevan-city.am/shop/product-details/108163",
+    "key": "Yerevan City|id:108163|650|350"
    }
   ]
  },
