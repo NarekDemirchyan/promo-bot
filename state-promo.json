@@ -3008,22 +3008,12 @@
    "Yerevan City|id:158814|650|290",
    "Yerevan City|id:165040|650|540",
    "Yerevan City|id:172389|650|390",
-   "Yerevan City|id:173151|650|355"
+   "Yerevan City|id:173151|650|355",
+   "Yerevan City|id:173538|650|390"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Օդը թարմացնող միջոց և ռաթթան փայտիկներ «Brait Green Sensation» 100մլ",
-    "old": 3630,
-    "new": 3150,
-    "pct": 13,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/osvezhiteli/468859/",
-    "key": "SAS|id:468859|3630|3150"
-   },
    {
     "store": "SAS",
     "title": "Օդը թարմացնող միջոց և ռաթթան փայտիկներ «Brait Golden Lake» 100մլ",
@@ -7403,12 +7393,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1166743.png",
     "url": "https://yerevan-city.am/shop/product-details/173151",
     "key": "Yerevan City|id:173151|650|355"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տարա պլաստմասե «Հայքսին» 2.2լ",
+    "old": 650,
+    "new": 390,
+    "pct": 40,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1167134.png",
+    "url": "https://yerevan-city.am/shop/product-details/173538",
+    "key": "Yerevan City|id:173538|650|390"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-16T23:17:15.463170+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-16T23:32:25.317265+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
