@@ -2976,7 +2976,8 @@
    "Yerevan City|id:19682|670|490",
    "Yerevan City|id:94698|670|450",
    "Yerevan City|id:5821|660|610",
-   "Yerevan City|id:11510|660|590"
+   "Yerevan City|id:11510|660|590",
+   "Yerevan City|id:91294|660|430"
   ]
  },
  "queues": {
@@ -7371,6 +7372,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1087208.png",
     "url": "https://yerevan-city.am/shop/product-details/11510",
     "key": "Yerevan City|id:11510|660|590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Բամբակե սկավառակ «Յունիք» 120հտ",
+    "old": 660,
+    "new": 430,
+    "pct": 35,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1128270.png",
+    "url": "https://yerevan-city.am/shop/product-details/91294",
+    "key": "Yerevan City|id:91294|660|430"
    }
   ]
  },
