@@ -2968,7 +2968,8 @@
    "Yerevan City|id:178055|670|540",
    "Yerevan City|id:194737|670|540",
    "Yerevan City|id:2467|660|420",
-   "Yerevan City|id:4499|660|610"
+   "Yerevan City|id:4499|660|610",
+   "Yerevan City|id:19682|670|490"
   ]
  },
  "queues": {
@@ -7363,6 +7364,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1042335.png",
     "url": "https://yerevan-city.am/shop/product-details/4499",
     "key": "Yerevan City|id:4499|660|610"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հաճար «Մալտագլիատի» 500գր",
+    "old": 670,
+    "new": 490,
+    "pct": 27,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1102633.png",
+    "url": "https://yerevan-city.am/shop/product-details/19682",
+    "key": "Yerevan City|id:19682|670|490"
    }
   ]
  },
