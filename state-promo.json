@@ -2956,22 +2956,12 @@
    "Yerevan City|id:99214|670|590",
    "Yerevan City|id:18245|670|590",
    "Yerevan City|id:194738|670|540",
-   "Yerevan City|id:99215|670|590"
+   "Yerevan City|id:99215|670|590",
+   "Yerevan City|id:113999|670|590"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Թեյ սև «Greenfield Classic Breakfast» 100գ",
-    "old": 990,
-    "new": 850,
-    "pct": 14,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/listovoy/198218/",
-    "key": "SAS|id:198218|990|850"
-   },
    {
     "store": "SAS",
     "title": "Գինի բալի «Իջևան» 0.75լ",
@@ -7351,12 +7341,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1134659.png",
     "url": "https://yerevan-city.am/shop/product-details/99215",
     "key": "Yerevan City|id:99215|670|590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Քսուք-օճառ «Դավ» վարունգ և կանաչ թեյ 90գր",
+    "old": 670,
+    "new": 590,
+    "pct": 12,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1144325.png",
+    "url": "https://yerevan-city.am/shop/product-details/113999",
+    "key": "Yerevan City|id:113999|670|590"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-16T06:02:29.343587+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-16T06:20:16.423445+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
