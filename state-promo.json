@@ -2958,22 +2958,12 @@
    "Yerevan City|id:18245|670|590",
    "Yerevan City|id:194738|670|540",
    "Yerevan City|id:99215|670|590",
-   "Yerevan City|id:113999|670|590"
+   "Yerevan City|id:113999|670|590",
+   "Yerevan City|id:136144|670|590"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Գինի բալի «Իջևան» 0.75լ",
-    "old": 3350,
-    "new": 2560,
-    "pct": 24,
-    "until": "08.01.2027",
-    "img": "",
-    "url": "https://www.sas.am/catalog/armyanskoe_vino/2314/",
-    "key": "SAS|id:2314|3350|2560"
-   },
    {
     "store": "SAS",
     "title": "Գինի սպիտակ «Իջևան» 0.75լ",
@@ -7353,12 +7343,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1144325.png",
     "url": "https://yerevan-city.am/shop/product-details/113999",
     "key": "Yerevan City|id:113999|670|590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Քսուք-օճառ «Դավ» զգայուն մաշկի համար 90գր",
+    "old": 670,
+    "new": 590,
+    "pct": 12,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1153700.png",
+    "url": "https://yerevan-city.am/shop/product-details/136144",
+    "key": "Yerevan City|id:136144|670|590"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-16T06:47:01.279600+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-16T07:02:30.376848+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
