@@ -1469,7 +1469,8 @@
    "SAS|id:830926|7550|6800",
    "SAS|id:830890|4660|4350",
    "SAS|id:830889|3370|3190",
-   "SAS|id:830888|10960|10400"
+   "SAS|id:830888|10960|10400",
+   "SAS|id:822800|7790|4290"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5156,20 +5157,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/armyanskiy_konyak/830888/",
     "key": "SAS|id:830888|10960|10400"
+   },
+   {
+    "store": "SAS",
+    "title": "Շոկոլադե կոնֆետների հավաքածու «Delica Dore Dubai» 189գ",
+    "old": 7790,
+    "new": 4290,
+    "pct": 45,
+    "until": "25.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/nabory_konfet/822800/",
+    "key": "SAS|id:822800|7790|4290"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Գազավորված ըմպելիք «Կոկա Կոլա» վանիլ 0.5լ",
-    "old": 1190,
-    "new": 990,
-    "pct": 17,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178545.png",
-    "url": "https://yerevan-city.am/shop/product-details/194746",
-    "key": "Yerevan City|id:194746|1190|990"
-   },
    {
     "store": "Yerevan City",
     "title": "Կոնֆետների հավաքածու «Միլկա» Այ լավ 105գր",
@@ -7362,8 +7363,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-16T08:17:05.605454+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-16T08:32:13.130787+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
