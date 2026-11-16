@@ -2992,17 +2992,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Զուգարանի թուղթ խոնավ «Zewa Natural Camomile» 42 հատ",
-    "old": 1050,
-    "new": 890,
-    "pct": 15,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/tualetnaya_bumaga/6684/",
-    "key": "SAS|id:6684|1050|890"
-   },
-   {
-    "store": "SAS",
     "title": "Գինի սպիտակ «Alamos Chardonnay» 0.75լ",
     "old": 4370,
     "new": 3570,
@@ -7395,8 +7384,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-16T15:03:34.622990+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-16T15:46:05.235001+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
