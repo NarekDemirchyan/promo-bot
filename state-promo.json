@@ -1477,7 +1477,8 @@
    "SAS|id:197947|1420|920",
    "SAS|id:197944|1420|920",
    "SAS|id:198263|1340|1150",
-   "SAS|id:87250|990|870"
+   "SAS|id:87250|990|870",
+   "SAS|id:278840|5990|3790"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -2979,22 +2980,12 @@
    "Yerevan City|id:5821|660|610",
    "Yerevan City|id:11510|660|590",
    "Yerevan City|id:91294|660|430",
-   "Yerevan City|id:12537|660|610"
+   "Yerevan City|id:12537|660|610",
+   "Yerevan City|id:177653|660|590"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Օղի «Архангельская Выдержанная» 0.5լ",
-    "old": 6310,
-    "new": 5890,
-    "pct": 7,
-    "until": "30.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/259/845/8451203029153455.webp",
-    "url": "https://www.sas.am/catalog/importnoe/855631/",
-    "key": "SAS|id:855631|6310|5890"
-   },
    {
     "store": "SAS",
     "title": "Գինի կարմիր «Matsu El Picaro» 750մլ",
@@ -5172,6 +5163,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/167/112/112607199522103.webp",
     "url": "https://www.sas.am/catalog/vse_dlya_ukhoda_za_telom_ustarelo/87250/",
     "key": "SAS|id:87250|990|870"
+   },
+   {
+    "store": "SAS",
+    "title": "Սուրճ լուծվող «Carte Noire Elegant» 95գ",
+    "old": 5990,
+    "new": 3790,
+    "pct": 37,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/rastvorimyy_kofe/278840/",
+    "key": "SAS|id:278840|5990|3790"
    }
   ],
   "Yerevan City": [
@@ -7363,12 +7365,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1007351.png",
     "url": "https://yerevan-city.am/shop/product-details/12537",
     "key": "Yerevan City|id:12537|660|610"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տոմատի մածուկ «Պրիմո» 550գր",
+    "old": 660,
+    "new": 590,
+    "pct": 11,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1171324.png",
+    "url": "https://yerevan-city.am/shop/product-details/177653",
+    "key": "Yerevan City|id:177653|660|590"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-16T13:31:12.851267+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-16T14:04:49.312975+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
