@@ -1467,7 +1467,8 @@
    "SAS|id:830930|6390|5990",
    "SAS|id:830928|4450|4150",
    "SAS|id:830926|7550|6800",
-   "SAS|id:830890|4660|4350"
+   "SAS|id:830890|4660|4350",
+   "SAS|id:830889|3370|3190"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5152,20 +5153,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/325/399/3998503325091131.webp",
     "url": "https://www.sas.am/catalog/armyanskiy_konyak/830890/",
     "key": "SAS|id:830890|4660|4350"
+   },
+   {
+    "store": "SAS",
+    "title": "Կոնյակ «Օրրան 3*» 0․5լ",
+    "old": 3370,
+    "new": 3190,
+    "pct": 5,
+    "until": "08.01.2027",
+    "img": "https://www.sas.am/upload/Sh/imageCache/103/291/2911434216386699.webp",
+    "url": "https://www.sas.am/catalog/armyanskiy_konyak/830889/",
+    "key": "SAS|id:830889|3370|3190"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Թևնոց պատրաստելու հավաքածու ԼԴ6516",
-    "old": 1190,
-    "new": 710,
-    "pct": 40,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1167762.png",
-    "url": "https://yerevan-city.am/shop/product-details/174163",
-    "key": "Yerevan City|id:174163|1190|710"
-   },
    {
     "store": "Yerevan City",
     "title": "Պիցցայի դանակ «Դեննի Հոմ» ԴՀ3384",
@@ -7358,8 +7359,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-16T07:02:30.376848+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-16T07:17:03.182607+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
