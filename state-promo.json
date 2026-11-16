@@ -2970,7 +2970,8 @@
    "Yerevan City|id:194737|670|540",
    "Yerevan City|id:2467|660|420",
    "Yerevan City|id:4499|660|610",
-   "Yerevan City|id:19682|670|490"
+   "Yerevan City|id:19682|670|490",
+   "Yerevan City|id:94698|670|450"
   ]
  },
  "queues": {
@@ -7365,6 +7366,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1102633.png",
     "url": "https://yerevan-city.am/shop/product-details/19682",
     "key": "Yerevan City|id:19682|670|490"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տարա պլաստմասե «Հոբի լայֆ» Թրենդ 1.3լ",
+    "old": 670,
+    "new": 450,
+    "pct": 33,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1131312.png",
+    "url": "https://yerevan-city.am/shop/product-details/94698",
+    "key": "Yerevan City|id:94698|670|450"
    }
   ]
  },
