@@ -1478,7 +1478,8 @@
    "SAS|id:197944|1420|920",
    "SAS|id:198263|1340|1150",
    "SAS|id:87250|990|870",
-   "SAS|id:278840|5990|3790"
+   "SAS|id:278840|5990|3790",
+   "SAS|id:126361|3630|3150"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5174,6 +5175,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/rastvorimyy_kofe/278840/",
     "key": "SAS|id:278840|5990|3790"
+   },
+   {
+    "store": "SAS",
+    "title": "Օդը թարմացնող միջոց և ռաթթան փայտիկներ «Brait Midnight Dream» 100մլ",
+    "old": 3630,
+    "new": 3150,
+    "pct": 13,
+    "until": "27.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/353/309/3091092224616615.webp",
+    "url": "https://www.sas.am/catalog/osvezhiteli/126361/",
+    "key": "SAS|id:126361|3630|3150"
    }
   ],
   "Yerevan City": [
