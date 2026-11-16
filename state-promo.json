@@ -1495,7 +1495,8 @@
    "SAS|id:58657|990|880",
    "SAS|id:20195|2150|1070",
    "SAS|id:972405|1360|1190",
-   "SAS|id:267498|1090|820"
+   "SAS|id:267498|1090|820",
+   "SAS|id:267499|1090|820"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5208,6 +5209,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/yogurt_puding/267498/",
     "key": "SAS|id:267498|1090|820"
+   },
+   {
+    "store": "SAS",
+    "title": "Պուդինգ վանիլային «Ehrmann High Protein» 200գ, յուղայնությունը՝ 1.5",
+    "old": 1090,
+    "new": 820,
+    "pct": 25,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/yogurt_puding/267499/",
+    "key": "SAS|id:267499|1090|820"
    }
   ],
   "Yerevan City": [
