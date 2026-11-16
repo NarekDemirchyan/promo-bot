@@ -3006,22 +3006,12 @@
    "Yerevan City|id:108163|650|350",
    "Yerevan City|id:158814|650|290",
    "Yerevan City|id:165040|650|540",
-   "Yerevan City|id:172389|650|390"
+   "Yerevan City|id:172389|650|390",
+   "Yerevan City|id:173151|650|355"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Լվացքի փոշի ունիվերսալ «Savex Tiara Flowers» 2.25կգ",
-    "old": 3090,
-    "new": 2570,
-    "pct": 17,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/stiralnyy_poroshok/7604/",
-    "key": "SAS|id:7604|3090|2570"
-   },
    {
     "store": "SAS",
     "title": "Օդը թարմացնող միջոց և ռաթթան փայտիկներ «Brait Green Sensation» 100մլ",
@@ -7401,12 +7391,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1165966.png",
     "url": "https://yerevan-city.am/shop/product-details/172389",
     "key": "Yerevan City|id:172389|650|390"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Բատոնչիկ պրոտ. «Ֆիթ Կիթ» Հազլս ա/շ 45գր",
+    "old": 650,
+    "new": 355,
+    "pct": 45,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1166743.png",
+    "url": "https://yerevan-city.am/shop/product-details/173151",
+    "key": "Yerevan City|id:173151|650|355"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-16T22:32:31.019957+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-16T22:50:29.026329+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
