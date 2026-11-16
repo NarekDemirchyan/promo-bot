@@ -1470,7 +1470,8 @@
    "SAS|id:830890|4660|4350",
    "SAS|id:830889|3370|3190",
    "SAS|id:830888|10960|10400",
-   "SAS|id:822800|7790|4290"
+   "SAS|id:822800|7790|4290",
+   "SAS|id:804504|5890|5590"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5158,6 +5159,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/nabory_konfet/822800/",
     "key": "SAS|id:822800|7790|4290"
+   },
+   {
+    "store": "SAS",
+    "title": "Գինի կարմիր «Տակառ Օրգանիկ» 0.75լ",
+    "old": 5890,
+    "new": 5590,
+    "pct": 5,
+    "until": "08.01.2027",
+    "img": "https://www.sas.am/upload/Sh/imageCache/507/687/687023961397934.webp",
+    "url": "https://www.sas.am/catalog/armyanskoe_vino/804504/",
+    "key": "SAS|id:804504|5890|5590"
    }
   ],
   "Yerevan City": [
