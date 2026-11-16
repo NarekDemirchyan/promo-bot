@@ -1494,7 +1494,8 @@
    "SAS|id:20205|1690|1100",
    "SAS|id:58657|990|880",
    "SAS|id:20195|2150|1070",
-   "SAS|id:972405|1360|1190"
+   "SAS|id:972405|1360|1190",
+   "SAS|id:267498|1090|820"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3013,22 +3014,12 @@
    "Yerevan City|id:173151|650|355",
    "Yerevan City|id:173538|650|390",
    "Yerevan City|id:179681|740|590",
-   "Yerevan City|id:193100|740|680"
+   "Yerevan City|id:193100|740|680",
+   "Yerevan City|id:193101|740|680"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ներդիրներ «O.b Super Plus 5 in 1» 16հատ",
-    "old": 2840,
-    "new": 2530,
-    "pct": 11,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/420/130/1301041087063021.webp",
-    "url": "https://www.sas.am/catalog/dlya_intimnoy_gigieny2/6127/",
-    "key": "SAS|id:6127|2840|2530"
-   },
    {
     "store": "SAS",
     "title": "Սափրող սարք «Wilkinson Sensitive»",
@@ -5206,6 +5197,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/361/607/6079513693272460.webp",
     "url": "https://www.sas.am/catalog/antiperspirantt/972405/",
     "key": "SAS|id:972405|1360|1190"
+   },
+   {
+    "store": "SAS",
+    "title": "Պուդինգ շոկոլադե «Ehrmann High Protein» 200գ, յուղայնությունը՝ 1.5",
+    "old": 1090,
+    "new": 820,
+    "pct": 25,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/yogurt_puding/267498/",
+    "key": "SAS|id:267498|1090|820"
    }
   ],
   "Yerevan City": [
@@ -7397,12 +7399,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176853.png",
     "url": "https://yerevan-city.am/shop/product-details/193100",
     "key": "Yerevan City|id:193100|740|680"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շամպուն «Փալմոլիվ» խոնավեցում, ձիթ-յուղ 2-1 220մլ",
+    "old": 740,
+    "new": 680,
+    "pct": 8,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176854.png",
+    "url": "https://yerevan-city.am/shop/product-details/193101",
+    "key": "Yerevan City|id:193101|740|680"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-17T01:01:24.707522+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-17T01:20:13.464175+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
