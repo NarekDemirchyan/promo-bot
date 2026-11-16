@@ -1487,7 +1487,8 @@
    "SAS|id:235848|720|490",
    "SAS|id:27182|570|500",
    "SAS|id:35659|1990|1680",
-   "SAS|id:3716|570|490"
+   "SAS|id:3716|570|490",
+   "SAS|id:2188|1780|1230"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5192,20 +5193,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/244/193/193072845071951.webp",
     "url": "https://www.sas.am/catalog/drugie_ovoschnye_konservy/3716/",
     "key": "SAS|id:3716|570|490"
+   },
+   {
+    "store": "SAS",
+    "title": "Հակաքրտինքային աէրոզոլային միջոց «Garnier Action Control» 150մլ",
+    "old": 1780,
+    "new": 1230,
+    "pct": 31,
+    "until": "27.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/296/283/2834214038572011.webp",
+    "url": "https://www.sas.am/catalog/antiperspirantt/2188/",
+    "key": "SAS|id:2188|1780|1230"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Պանիր հալած «Պրեզիդենտ» չեդդեր 150գր",
-    "old": 1150,
-    "new": 690,
-    "pct": 40,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1077669.png",
-    "url": "https://yerevan-city.am/shop/product-details/8763",
-    "key": "Yerevan City|id:8763|1150|690"
-   },
    {
     "store": "Yerevan City",
     "title": "Խորոված բանջարեղեն «Արտֆուդ» 960գր",
@@ -7398,8 +7399,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-16T20:32:37.808711+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-16T20:46:39.122106+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
