@@ -2994,17 +2994,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Գինի սպիտակ «Alamos Chardonnay» 0.75լ",
-    "old": 4370,
-    "new": 3570,
-    "pct": 18,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/import_vino/792716/",
-    "key": "SAS|id:792716|4370|3570"
-   },
-   {
-    "store": "SAS",
     "title": "Սոուս պեստո «Barilla Pesto Basilico Peperoncino» 195գ",
     "old": 2690,
     "new": 2190,
@@ -7397,8 +7386,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-16T16:05:04.105468+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-16T16:47:20.649265+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
