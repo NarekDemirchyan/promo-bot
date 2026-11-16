@@ -2986,7 +2986,8 @@
    "Yerevan City|id:12537|660|610",
    "Yerevan City|id:177653|660|590",
    "Yerevan City|id:18113|660|610",
-   "Yerevan City|id:191620|660|610"
+   "Yerevan City|id:191620|660|610",
+   "Yerevan City|id:75516|660|610"
   ]
  },
  "queues": {
@@ -7381,6 +7382,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175339.png",
     "url": "https://yerevan-city.am/shop/product-details/191620",
     "key": "Yerevan City|id:191620|660|610"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մայոնեզ «Սլոբոդա» թթվասերային 67% 375գր",
+    "old": 660,
+    "new": 610,
+    "pct": 8,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1118486.png",
+    "url": "https://yerevan-city.am/shop/product-details/75516",
+    "key": "Yerevan City|id:75516|660|610"
    }
   ]
  },
