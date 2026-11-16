@@ -2994,22 +2994,12 @@
    "Yerevan City|id:75516|660|610",
    "Yerevan City|id:7703|650|580",
    "Yerevan City|id:9018|650|580",
-   "Yerevan City|id:14221|650|386"
+   "Yerevan City|id:14221|650|386",
+   "Yerevan City|id:64832|650|495"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Թեյ սև «Ahmad Tea Strawberry Sensation» 20*2գ",
-    "old": 1590,
-    "new": 1120,
-    "pct": 30,
-    "until": "20.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/v_paketakh/198010/",
-    "key": "SAS|id:198010|1590|1120"
-   },
    {
     "store": "SAS",
     "title": "Հատակի փայտ և դույլ «Vileda Turbo Smart»",
@@ -7389,12 +7379,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1079517.png",
     "url": "https://yerevan-city.am/shop/product-details/14221",
     "key": "Yerevan City|id:14221|650|386"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Եգիպտացորենի ձողիկներ «Հելլո Պանդա» դասական 350գր",
+    "old": 650,
+    "new": 495,
+    "pct": 24,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1111584.png",
+    "url": "https://yerevan-city.am/shop/product-details/64832",
+    "key": "Yerevan City|id:64832|650|495"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-16T19:02:41.100147+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-16T19:18:28.803592+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
