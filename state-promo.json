@@ -1493,7 +1493,8 @@
    "SAS|id:20206|2070|1370",
    "SAS|id:20205|1690|1100",
    "SAS|id:58657|990|880",
-   "SAS|id:20195|2150|1070"
+   "SAS|id:20195|2150|1070",
+   "SAS|id:972405|1360|1190"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5204,6 +5205,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/413/458/458662595739730.webp",
     "url": "https://www.sas.am/catalog/batareyka/20195/",
     "key": "SAS|id:20195|2150|1070"
+   },
+   {
+    "store": "SAS",
+    "title": "Հակաքրտինքային միջոց գնդիկով «Rexona Men Xtra Cool» 50մլ",
+    "old": 1360,
+    "new": 1190,
+    "pct": 12,
+    "until": "27.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/361/607/6079513693272460.webp",
+    "url": "https://www.sas.am/catalog/antiperspirantt/972405/",
+    "key": "SAS|id:972405|1360|1190"
    }
   ],
   "Yerevan City": [
