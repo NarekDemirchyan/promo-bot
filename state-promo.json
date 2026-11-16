@@ -2976,17 +2976,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Փրփրուն գինի «Zonin Gran Cuvée Extra Dry» 0.75լ",
-    "old": 4890,
-    "new": 4590,
-    "pct": 6,
-    "until": "30.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/117/616/6169881170830608.webp",
-    "url": "https://www.sas.am/catalog/shampanskoe_igristoe_vino/855590/",
-    "key": "SAS|id:855590|4890|4590"
-   },
-   {
-    "store": "SAS",
     "title": "Գինի կարմիր «Alamos Malbec» 0.75լ",
     "old": 4370,
     "new": 3570,
@@ -7379,8 +7368,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-16T09:49:12.109439+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-16T10:17:06.163296+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
