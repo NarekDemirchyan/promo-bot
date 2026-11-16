@@ -2996,7 +2996,8 @@
    "Yerevan City|id:7703|650|580",
    "Yerevan City|id:9018|650|580",
    "Yerevan City|id:14221|650|386",
-   "Yerevan City|id:64832|650|495"
+   "Yerevan City|id:64832|650|495",
+   "Yerevan City|id:89026|650|550"
   ]
  },
  "queues": {
@@ -7391,6 +7392,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1111584.png",
     "url": "https://yerevan-city.am/shop/product-details/64832",
     "key": "Yerevan City|id:64832|650|495"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Անձեռոցիկներ «Բենտատի» մեծ, երկշերտ 180հտ ԲՏ2030",
+    "old": 650,
+    "new": 550,
+    "pct": 15,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1126497.png",
+    "url": "https://yerevan-city.am/shop/product-details/89026",
+    "key": "Yerevan City|id:89026|650|550"
    }
   ]
  },
