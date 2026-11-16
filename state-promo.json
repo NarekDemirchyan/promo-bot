@@ -3006,17 +3006,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Միջադիրներ «Libresse Natural Care Maxi Normal» 7հատ",
-    "old": 820,
-    "new": 740,
-    "pct": 10,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/372/735/7354741888990762.webp",
-    "url": "https://www.sas.am/catalog/dlya_intimnoy_gigieny2/145230/",
-    "key": "SAS|id:145230|820|740"
-   },
-   {
-    "store": "SAS",
     "title": "Գինի կարմիր «Le Grand Noir Cabernet Sauvignon» 0.75լ",
     "old": 5070,
     "new": 4790,
@@ -7409,8 +7398,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-16T20:17:41.191317+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-16T20:32:37.808711+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
