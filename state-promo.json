@@ -1463,7 +1463,8 @@
    "SAS|id:847978|7090|6700",
    "SAS|id:847977|9990|9390",
    "SAS|id:830934|4990|4690",
-   "SAS|id:830931|8170|7750"
+   "SAS|id:830931|8170|7750",
+   "SAS|id:830930|6390|5990"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5144,20 +5145,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/370/957/9576701025262943.webp",
     "url": "https://www.sas.am/catalog/armyanskiy_konyak/830931/",
     "key": "SAS|id:830931|8170|7750"
+   },
+   {
+    "store": "SAS",
+    "title": "Կոնյակ «Գրանդ Երևան 5*» 0․5լ",
+    "old": 6390,
+    "new": 5990,
+    "pct": 6,
+    "until": "08.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/armyanskiy_konyak/830930/",
+    "key": "SAS|id:830930|6390|5990"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Թխվածքաբլիթ «Չոկո Փայ» մատչա 12հտ 360գր",
-    "old": 1080,
-    "new": 790,
-    "pct": 27,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175911.png",
-    "url": "https://yerevan-city.am/shop/product-details/192204",
-    "key": "Yerevan City|id:192204|1080|790"
-   },
    {
     "store": "Yerevan City",
     "title": "Չիպս «Դորիտոս» պանիր նաչո 110գր",
@@ -7350,8 +7351,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-16T04:47:07.703188+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-16T05:03:25.682841+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
