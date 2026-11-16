@@ -3012,22 +3012,12 @@
    "Yerevan City|id:172389|650|390",
    "Yerevan City|id:173151|650|355",
    "Yerevan City|id:173538|650|390",
-   "Yerevan City|id:179681|740|590"
+   "Yerevan City|id:179681|740|590",
+   "Yerevan City|id:193100|740|680"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Օդը թարմացնող միջոց և ռաթթան փայտիկներ «Brait Secret Love» 100մլ",
-    "old": 3630,
-    "new": 3150,
-    "pct": 13,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/osvezhiteli/126366/",
-    "key": "SAS|id:126366|3630|3150"
-   },
    {
     "store": "SAS",
     "title": "Ներդիրներ «O.b Super Plus 5 in 1» 16հատ",
@@ -7407,12 +7397,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173400.png",
     "url": "https://yerevan-city.am/shop/product-details/179681",
     "key": "Yerevan City|id:179681|740|590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շամպուն «Փալմոլիվ» փայլ և խնամք, նուռ 220մլ",
+    "old": 740,
+    "new": 680,
+    "pct": 8,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176853.png",
+    "url": "https://yerevan-city.am/shop/product-details/193100",
+    "key": "Yerevan City|id:193100|740|680"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-17T00:32:15.340739+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-17T00:47:18.905755+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
