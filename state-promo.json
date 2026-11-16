@@ -2990,22 +2990,12 @@
    "Yerevan City|id:18113|660|610",
    "Yerevan City|id:191620|660|610",
    "Yerevan City|id:75516|660|610",
-   "Yerevan City|id:7703|650|580"
+   "Yerevan City|id:7703|650|580",
+   "Yerevan City|id:9018|650|580"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սափրիչ «Gillette Venus start» 1հատ",
-    "old": 8350,
-    "new": 7740,
-    "pct": 7,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/stanok_dlya_britya/677549/",
-    "key": "SAS|id:677549|8350|7740"
-   },
    {
     "store": "SAS",
     "title": "Գինի սպիտակ «Ֆրունզիկ Մկրտչյան Ոսկեհատ» 0.75լ",
@@ -7385,12 +7375,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1054775.png",
     "url": "https://yerevan-city.am/shop/product-details/7703",
     "key": "Yerevan City|id:7703|650|580"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գարեջուր «Բալտիկա» 7 թ/տ 0.45լ",
+    "old": 650,
+    "new": 580,
+    "pct": 11,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1042492.png",
+    "url": "https://yerevan-city.am/shop/product-details/9018",
+    "key": "Yerevan City|id:9018|650|580"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-16T17:47:17.016729+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-16T18:02:35.566446+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
