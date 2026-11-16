@@ -3004,17 +3004,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Հատակի փայտ և դույլ «Vileda Turbo Smart»",
-    "old": 27590,
-    "new": 16800,
-    "pct": 39,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/cleaningagent/238244/",
-    "key": "SAS|id:238244|27590|16800"
-   },
-   {
-    "store": "SAS",
     "title": "Միջադիրներ «Libresse Natural Care Maxi Normal» 7հատ",
     "old": 820,
     "new": 740,
@@ -7407,8 +7396,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-16T19:34:08.353553+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-16T20:02:24.001675+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
