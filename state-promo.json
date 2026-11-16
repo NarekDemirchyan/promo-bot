@@ -1461,7 +1461,8 @@
    "SAS|id:632710|1420|1350",
    "SAS|id:20199|2150|1070",
    "SAS|id:847978|7090|6700",
-   "SAS|id:847977|9990|9390"
+   "SAS|id:847977|9990|9390",
+   "SAS|id:830934|4990|4690"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5140,20 +5141,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/armyanskoe_vodka/847977/",
     "key": "SAS|id:847977|9990|9390"
+   },
+   {
+    "store": "SAS",
+    "title": "Ըմպելիք ալկոհոլային ծիրանի «Օրրան» 0․5լ",
+    "old": 4990,
+    "new": 4690,
+    "pct": 6,
+    "until": "08.01.2027",
+    "img": "https://www.sas.am/upload/Sh/imageCache/273/234/234569999652685.webp",
+    "url": "https://www.sas.am/catalog/armyanskiy_konyak/830934/",
+    "key": "SAS|id:830934|4990|4690"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Օճառ «Սեյֆգրդ» հալվե 3x90գր",
-    "old": 1080,
-    "new": 840,
-    "pct": 22,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1157793.png",
-    "url": "https://yerevan-city.am/shop/product-details/160115",
-    "key": "Yerevan City|id:160115|1080|840"
-   },
    {
     "store": "Yerevan City",
     "title": "Թխվածքաբլիթ «Չոկո Փայ» ձմերուկ 12հտ 360գր",
@@ -7346,8 +7347,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-16T03:48:17.849497+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-16T04:02:29.478911+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
