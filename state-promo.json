@@ -2984,17 +2984,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Թուրմ ալկոհոլային «Mamont Blood» 0.5լ",
-    "old": 17900,
-    "new": 14190,
-    "pct": 21,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/importnoe/884506/",
-    "key": "SAS|id:884506|17900|14190"
-   },
-   {
-    "store": "SAS",
     "title": "Օղի «Mamont Northman Limited Edition» 0.7լ",
     "old": 22990,
     "new": 18300,
@@ -7387,8 +7376,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-16T12:19:44.936470+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-16T12:47:08.420688+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
