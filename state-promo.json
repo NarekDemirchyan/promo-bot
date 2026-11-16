@@ -2954,22 +2954,12 @@
    "Yerevan City|id:196|795|695",
    "Yerevan City|id:99214|670|590",
    "Yerevan City|id:18245|670|590",
-   "Yerevan City|id:194738|670|540"
+   "Yerevan City|id:194738|670|540",
+   "Yerevan City|id:99215|670|590"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Թեյ սև «Greenfield Golden Ceylon» 100գ",
-    "old": 1090,
-    "new": 850,
-    "pct": 22,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/343/552/5526053333704211.webp",
-    "url": "https://www.sas.am/catalog/listovoy/198236/",
-    "key": "SAS|id:198236|1090|850"
-   },
    {
     "store": "SAS",
     "title": "Թեյ սև «Greenfield Classic Breakfast» 100գ",
@@ -7349,12 +7339,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178537.png",
     "url": "https://yerevan-city.am/shop/product-details/194738",
     "key": "Yerevan City|id:194738|670|540"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Քսուք-օճառ «Դավ» նուրբ շերտազատում 90գր",
+    "old": 670,
+    "new": 590,
+    "pct": 12,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1134659.png",
+    "url": "https://yerevan-city.am/shop/product-details/99215",
+    "key": "Yerevan City|id:99215|670|590"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-16T05:32:22.014962+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-16T05:47:17.317554+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
