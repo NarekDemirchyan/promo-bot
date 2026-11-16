@@ -2974,22 +2974,12 @@
    "Yerevan City|id:4499|660|610",
    "Yerevan City|id:19682|670|490",
    "Yerevan City|id:94698|670|450",
-   "Yerevan City|id:5821|660|610"
+   "Yerevan City|id:5821|660|610",
+   "Yerevan City|id:11510|660|590"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կոնյակ «Իջևան» 0.7լ",
-    "old": 115900,
-    "new": 105900,
-    "pct": 9,
-    "until": "08.01.2027",
-    "img": "https://www.sas.am/upload/Sh/imageCache/401/194/1942731268454332.webp",
-    "url": "https://www.sas.am/catalog/armyanskiy_konyak/681145/",
-    "key": "SAS|id:681145|115900|105900"
-   },
    {
     "store": "SAS",
     "title": "Թուրմ ալկոհոլային «Mamont Blood» 0.5լ",
@@ -7369,12 +7359,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1003613.png",
     "url": "https://yerevan-city.am/shop/product-details/5821",
     "key": "Yerevan City|id:5821|660|610"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մակարոն-զսպանակ «Գրանորո» №100 500գր",
+    "old": 660,
+    "new": 590,
+    "pct": 11,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1087208.png",
+    "url": "https://yerevan-city.am/shop/product-details/11510",
+    "key": "Yerevan City|id:11510|660|590"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-16T11:47:16.694003+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-16T12:02:30.773077+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
