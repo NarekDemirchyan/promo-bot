@@ -2984,7 +2984,8 @@
    "Yerevan City|id:91294|660|430",
    "Yerevan City|id:12537|660|610",
    "Yerevan City|id:177653|660|590",
-   "Yerevan City|id:18113|660|610"
+   "Yerevan City|id:18113|660|610",
+   "Yerevan City|id:191620|660|610"
   ]
  },
  "queues": {
@@ -7379,6 +7380,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1049787.png",
     "url": "https://yerevan-city.am/shop/product-details/18113",
     "key": "Yerevan City|id:18113|660|610"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մայոնեզ «Սլոբոդա» լորի ձվով 67% 400մլ",
+    "old": 660,
+    "new": 610,
+    "pct": 8,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175339.png",
+    "url": "https://yerevan-city.am/shop/product-details/191620",
+    "key": "Yerevan City|id:191620|660|610"
    }
   ]
  },
