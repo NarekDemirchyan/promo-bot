@@ -2992,7 +2992,8 @@
    "Yerevan City|id:191620|660|610",
    "Yerevan City|id:75516|660|610",
    "Yerevan City|id:7703|650|580",
-   "Yerevan City|id:9018|650|580"
+   "Yerevan City|id:9018|650|580",
+   "Yerevan City|id:14221|650|386"
   ]
  },
  "queues": {
@@ -7387,6 +7388,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1042492.png",
     "url": "https://yerevan-city.am/shop/product-details/9018",
     "key": "Yerevan City|id:9018|650|580"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Պայուսակ-տոպրակ «Սիթի Արմենիա» 44х20х40սմ",
+    "old": 650,
+    "new": 386,
+    "pct": 41,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1079517.png",
+    "url": "https://yerevan-city.am/shop/product-details/14221",
+    "key": "Yerevan City|id:14221|650|386"
    }
   ]
  },
