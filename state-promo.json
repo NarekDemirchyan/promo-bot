@@ -2978,22 +2978,12 @@
    "Yerevan City|id:94698|670|450",
    "Yerevan City|id:5821|660|610",
    "Yerevan City|id:11510|660|590",
-   "Yerevan City|id:91294|660|430"
+   "Yerevan City|id:91294|660|430",
+   "Yerevan City|id:12537|660|610"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Օղի «Mamont Northman Limited Edition» 0.7լ",
-    "old": 22990,
-    "new": 18300,
-    "pct": 20,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/importnoe/884504/",
-    "key": "SAS|id:884504|22990|18300"
-   },
    {
     "store": "SAS",
     "title": "Օղի «Архангельская Выдержанная» 0.5լ",
@@ -7373,12 +7363,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1128270.png",
     "url": "https://yerevan-city.am/shop/product-details/91294",
     "key": "Yerevan City|id:91294|660|430"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ատամի մածուկ մանկական «Քոլգեյթ» ելակ 2+ 66գր",
+    "old": 660,
+    "new": 610,
+    "pct": 8,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1007351.png",
+    "url": "https://yerevan-city.am/shop/product-details/12537",
+    "key": "Yerevan City|id:12537|660|610"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-16T13:02:37.094986+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-16T13:17:05.744605+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
