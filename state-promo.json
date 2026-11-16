@@ -2988,7 +2988,8 @@
    "Yerevan City|id:177653|660|590",
    "Yerevan City|id:18113|660|610",
    "Yerevan City|id:191620|660|610",
-   "Yerevan City|id:75516|660|610"
+   "Yerevan City|id:75516|660|610",
+   "Yerevan City|id:7703|650|580"
   ]
  },
  "queues": {
@@ -7383,6 +7384,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1118486.png",
     "url": "https://yerevan-city.am/shop/product-details/75516",
     "key": "Yerevan City|id:75516|660|610"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գարեջուր ոչ ալկոհոլային «Բալտիկա» 0 թ/տ 0.45լ",
+    "old": 650,
+    "new": 580,
+    "pct": 11,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1054775.png",
+    "url": "https://yerevan-city.am/shop/product-details/7703",
+    "key": "Yerevan City|id:7703|650|580"
    }
   ]
  },
