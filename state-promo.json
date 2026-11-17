@@ -3092,7 +3092,8 @@
    "Yerevan City|id:14180|795|695",
    "Yerevan City|id:16791|795|695",
    "Yerevan City|id:195749|795|695",
-   "Yerevan City|id:195750|795|695"
+   "Yerevan City|id:195750|795|695",
+   "Yerevan City|id:1299|790|650"
   ]
  },
  "queues": {
@@ -7487,6 +7488,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1179578.png",
     "url": "https://yerevan-city.am/shop/product-details/195750",
     "key": "Yerevan City|id:195750|795|695"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Բիսքվիթ «7 դեյս» կակաո 5x30գր",
+    "old": 790,
+    "new": 650,
+    "pct": 18,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1045388.png",
+    "url": "https://yerevan-city.am/shop/product-details/1299",
+    "key": "Yerevan City|id:1299|790|650"
    }
   ]
  },
