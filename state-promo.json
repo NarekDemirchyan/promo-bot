@@ -3076,22 +3076,12 @@
    "Yerevan City|id:159335|690|490",
    "Yerevan City|id:12220|690|580",
    "Yerevan City|id:15050|690|560",
-   "Yerevan City|id:16406|690|614"
+   "Yerevan City|id:16406|690|614",
+   "Yerevan City|id:181255|690|450"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Պանիր էմենտալ կտրատած «Veldhuyzen» 150գ",
-    "old": 1950,
-    "new": 970,
-    "pct": 50,
-    "until": "30.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/770/187/1875751884470358.webp",
-    "url": "https://www.sas.am/catalog/importnyy_syr/387947/",
-    "key": "SAS|id:387947|1950|970"
-   },
    {
     "store": "SAS",
     "title": "Պիցցա սառեցված «Dr.Oetker Ristorante Pepperoni Salame» 320գ",
@@ -7471,12 +7461,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1082939.png",
     "url": "https://yerevan-city.am/shop/product-details/16406",
     "key": "Yerevan City|id:16406|690|614"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տարա պլաստմասե «Հոբի լայֆ» Թրենդ 1.75լ",
+    "old": 690,
+    "new": 450,
+    "pct": 35,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174980.png",
+    "url": "https://yerevan-city.am/shop/product-details/181255",
+    "key": "Yerevan City|id:181255|690|450"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-17T21:32:22.113444+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-17T21:49:02.359390+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
