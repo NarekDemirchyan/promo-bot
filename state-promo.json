@@ -3090,22 +3090,12 @@
    "Yerevan City|id:59463|690|490",
    "Yerevan City|id:14180|795|695",
    "Yerevan City|id:16791|795|695",
-   "Yerevan City|id:195749|795|695"
+   "Yerevan City|id:195749|795|695",
+   "Yerevan City|id:195750|795|695"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Նեկտար չիչխանի «Իջևան» 1000մլ",
-    "old": 1990,
-    "new": 1890,
-    "pct": 5,
-    "until": "07.01.2027",
-    "img": "",
-    "url": "https://www.sas.am/catalog/sok/741394/",
-    "key": "SAS|id:741394|1990|1890"
-   },
    {
     "store": "SAS",
     "title": "Վաֆլի կարագով «Jeden Tag» 6*40գ",
@@ -7485,12 +7475,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1179577.png",
     "url": "https://yerevan-city.am/shop/product-details/195749",
     "key": "Yerevan City|id:195749|795|695"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Պանիր կաթնաշոռային «Հոխլանդ» բանջար.գրիլ 140գր",
+    "old": 795,
+    "new": 695,
+    "pct": 13,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1179578.png",
+    "url": "https://yerevan-city.am/shop/product-details/195750",
+    "key": "Yerevan City|id:195750|795|695"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-18T02:02:23.205825+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-18T02:17:02.631322+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
