@@ -1528,7 +1528,8 @@
    "SAS|id:924463|630|480",
    "SAS|id:322472|970|790",
    "SAS|id:964801|690|630",
-   "SAS|id:924459|770|580"
+   "SAS|id:924459|770|580",
+   "SAS|id:631481|1250|1150"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5274,20 +5275,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/132/262/2626321256290219.webp",
     "url": "https://www.sas.am/catalog/importnoe_pivo/924459/",
     "key": "SAS|id:924459|770|580"
+   },
+   {
+    "store": "SAS",
+    "title": "Կոմպոտ մամուխի «Իջևան» 1լ",
+    "old": 1250,
+    "new": 1150,
+    "pct": 8,
+    "until": "07.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/kompot/631481/",
+    "key": "SAS|id:631481|1250|1150"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Տաք շոկոլադ «Հերշեյս» 30գր",
-    "old": 990,
-    "new": 690,
-    "pct": 30,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178550.png",
-    "url": "https://yerevan-city.am/shop/product-details/194751",
-    "key": "Yerevan City|id:194751|990|690"
-   },
    {
     "store": "Yerevan City",
     "title": "Տաք շոկոլադ «Հերշեյս» բանան 30գր",
@@ -7480,8 +7481,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-17T23:16:11.087772+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-17T23:32:16.250989+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
