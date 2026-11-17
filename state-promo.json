@@ -3060,22 +3060,12 @@
    "Yerevan City|id:12826|730|650",
    "Yerevan City|id:113187|730|640",
    "Yerevan City|id:175847|710|595",
-   "Yerevan City|id:18853|735|695"
+   "Yerevan City|id:18853|735|695",
+   "Yerevan City|id:4217|730|590"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ջին «Pircher Botanical Dry» 0.7լ",
-    "old": 19900,
-    "new": 13930,
-    "pct": 30,
-    "until": "30.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/129/685/6855922243148661.webp",
-    "url": "https://www.sas.am/catalog/dzhin_absent/443103/",
-    "key": "SAS|id:443103|19900|13930"
-   },
    {
     "store": "SAS",
     "title": "Թխվածքաբլիթ կարամելով «Carabreizh» 100գ",
@@ -7455,12 +7445,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1045893.png",
     "url": "https://yerevan-city.am/shop/product-details/18853",
     "key": "Yerevan City|id:18853|735|695"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կիլկա «5 Մորեյ» տոմատի սոուսում, բացիչով 240գր",
+    "old": 730,
+    "new": 590,
+    "pct": 19,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1079519.png",
+    "url": "https://yerevan-city.am/shop/product-details/4217",
+    "key": "Yerevan City|id:4217|730|590"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-17T16:32:20.123847+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-17T16:49:31.281633+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
