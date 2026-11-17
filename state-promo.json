@@ -3100,17 +3100,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Վաֆլի կարագով «Jeden Tag» 6*40գ",
-    "old": 1350,
-    "new": 670,
-    "pct": 50,
-    "until": "30.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/243/670/670361456300779.webp",
-    "url": "https://www.sas.am/catalog/vafli_vafelnyy_tort/851175/",
-    "key": "SAS|id:851175|1350|670"
-   },
-   {
-    "store": "SAS",
     "title": "Արգանակ տավարի «Доширак» 90գ",
     "old": 320,
     "new": 240,
@@ -7503,8 +7492,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-18T02:34:26.694764+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-18T03:02:30.380888+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
