@@ -3024,7 +3024,8 @@
    "Yerevan City|id:193102|740|680",
    "Yerevan City|id:132281|740|650",
    "Yerevan City|id:194991|740|700",
-   "Yerevan City|id:13957|720|650"
+   "Yerevan City|id:13957|720|650",
+   "Yerevan City|id:7949|720|680"
   ]
  },
  "queues": {
@@ -7419,6 +7420,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1051173.png",
     "url": "https://yerevan-city.am/shop/product-details/13957",
     "key": "Yerevan City|id:13957|720|650"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մածուն «Արզնի Կաթ» 3.2% 950գր",
+    "old": 720,
+    "new": 680,
+    "pct": 6,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1052728.png",
+    "url": "https://yerevan-city.am/shop/product-details/7949",
+    "key": "Yerevan City|id:7949|720|680"
    }
   ]
  },
