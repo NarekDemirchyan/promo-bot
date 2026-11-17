@@ -3062,17 +3062,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Թխվածքաբլիթներ «Vicenzi» 135գ",
-    "old": 1350,
-    "new": 940,
-    "pct": 30,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/pechene_pryaniki/628951/",
-    "key": "SAS|id:628951|1350|940"
-   },
-   {
-    "store": "SAS",
     "title": "Ջին «Tanqueray N.Ten» 1լ",
     "old": 29900,
     "new": 20930,
@@ -7465,8 +7454,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-17T14:19:31.548906+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-17T14:47:20.164449+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
