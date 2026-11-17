@@ -3058,22 +3058,12 @@
    "Yerevan City|id:162546|710|670",
    "Yerevan City|id:12826|730|650",
    "Yerevan City|id:113187|730|640",
-   "Yerevan City|id:175847|710|595"
+   "Yerevan City|id:175847|710|595",
+   "Yerevan City|id:18853|735|695"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ջին «Glendalough» 0.75լ",
-    "old": 39500,
-    "new": 27650,
-    "pct": 30,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/dzhin_absent/477020/",
-    "key": "SAS|id:477020|39500|27650"
-   },
    {
     "store": "SAS",
     "title": "Ջին «Pircher Botanical Dry» 0.7լ",
@@ -7453,12 +7443,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169477.png",
     "url": "https://yerevan-city.am/shop/product-details/175847",
     "key": "Yerevan City|id:175847|710|595"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թթվասեր «Արզնի կաթ» 20% 400գր",
+    "old": 735,
+    "new": 695,
+    "pct": 5,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1045893.png",
+    "url": "https://yerevan-city.am/shop/product-details/18853",
+    "key": "Yerevan City|id:18853|735|695"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-17T16:02:46.634071+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-17T16:17:05.592676+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
