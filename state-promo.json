@@ -3080,7 +3080,8 @@
    "Yerevan City|id:15050|690|560",
    "Yerevan City|id:16406|690|614",
    "Yerevan City|id:181255|690|450",
-   "Yerevan City|id:17189|690|475"
+   "Yerevan City|id:17189|690|475",
+   "Yerevan City|id:17224|690|580"
   ]
  },
  "queues": {
@@ -7475,6 +7476,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1099172.png",
     "url": "https://yerevan-city.am/shop/product-details/17189",
     "key": "Yerevan City|id:17189|690|475"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կանաչ ոլոռ «Բոնդյուել» Նուրբ 425մլ",
+    "old": 690,
+    "new": 580,
+    "pct": 16,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1053191.png",
+    "url": "https://yerevan-city.am/shop/product-details/17224",
+    "key": "Yerevan City|id:17224|690|580"
    }
   ]
  },
