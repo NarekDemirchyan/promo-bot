@@ -3096,17 +3096,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Ազնվամորի կաթնային շոկոլադով «Oswald Schofrulade» 130գ",
-    "old": 3350,
-    "new": 2340,
-    "pct": 30,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/frukty_ovoshchi_yagody/956516/",
-    "key": "SAS|id:956516|3350|2340"
-   },
-   {
-    "store": "SAS",
     "title": "Նեկտար չիչխանի «Իջևան» 1000մլ",
     "old": 1990,
     "new": 1890,
@@ -7499,8 +7488,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-18T01:20:38.803641+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-18T01:47:09.690242+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
