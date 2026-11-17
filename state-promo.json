@@ -3088,7 +3088,8 @@
    "Yerevan City|id:17224|690|580",
    "Yerevan City|id:59463|690|490",
    "Yerevan City|id:14180|795|695",
-   "Yerevan City|id:16791|795|695"
+   "Yerevan City|id:16791|795|695",
+   "Yerevan City|id:195749|795|695"
   ]
  },
  "queues": {
@@ -7483,6 +7484,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1038580.png",
     "url": "https://yerevan-city.am/shop/product-details/16791",
     "key": "Yerevan City|id:16791|795|695"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Պանիր կաթնաշոռային «Հոխլանդ» պրոտեին+ 140գր",
+    "old": 795,
+    "new": 695,
+    "pct": 13,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1179577.png",
+    "url": "https://yerevan-city.am/shop/product-details/195749",
+    "key": "Yerevan City|id:195749|795|695"
    }
   ]
  },
