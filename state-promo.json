@@ -3044,22 +3044,12 @@
    "Yerevan City|id:5278|710|550",
    "Yerevan City|id:18491|710|595",
    "Yerevan City|id:23256|710|495",
-   "Yerevan City|id:128299|710|605"
+   "Yerevan City|id:128299|710|605",
+   "Yerevan City|id:11224|720|530"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ռոմ և խաղաքարտեր «Don Papa» 0.7լ",
-    "old": 38900,
-    "new": 27230,
-    "pct": 30,
-    "until": "30.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/379/422/4222473445659392.webp",
-    "url": "https://www.sas.am/catalog/rom_i_tekilla/919432/",
-    "key": "SAS|id:919432|38900|27230"
-   },
    {
     "store": "SAS",
     "title": "Բատոն սպիտակուցային բանանի և գետնանուշի համով «Pingo Doce Go Active Barra Proteica» 3*35գ",
@@ -7439,12 +7429,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1148141.png",
     "url": "https://yerevan-city.am/shop/product-details/128299",
     "key": "Yerevan City|id:128299|710|605"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Նեկտար «Սոչնիյ» արքայախնձոր 1լ",
+    "old": 720,
+    "new": 530,
+    "pct": 26,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1085432.png",
+    "url": "https://yerevan-city.am/shop/product-details/11224",
+    "key": "Yerevan City|id:11224|720|530"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-17T11:01:20.482932+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-17T11:17:22.817445+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
