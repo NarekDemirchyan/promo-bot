@@ -1515,7 +1515,8 @@
    "SAS|id:65742|920|790",
    "SAS|id:130574|4620|4340",
    "SAS|id:20192|440|230",
-   "SAS|id:934074|780|680"
+   "SAS|id:934074|780|680",
+   "SAS|id:930131|1140|860"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3055,7 +3056,8 @@
    "Yerevan City|id:154312|710|600",
    "Yerevan City|id:162546|710|670",
    "Yerevan City|id:12826|730|650",
-   "Yerevan City|id:113187|730|640"
+   "Yerevan City|id:113187|730|640",
+   "Yerevan City|id:175847|710|595"
   ]
  },
  "queues": {
@@ -5248,6 +5250,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/361/334/334839451601967.webp",
     "url": "https://www.sas.am/catalog/yogurt_puding/934074/",
     "key": "SAS|id:934074|780|680"
+   },
+   {
+    "store": "SAS",
+    "title": "Կոկտեյլ կաթնային լատտեյի «Ehrmann Hyper Caffe Latte Cocktail» 250գ",
+    "old": 1140,
+    "new": 860,
+    "pct": 25,
+    "until": "27.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/127/631/6310784055633966.webp",
+    "url": "https://www.sas.am/catalog/slivki_kokteyl/930131/",
+    "key": "SAS|id:930131|1140|860"
    }
   ],
   "Yerevan City": [
@@ -7439,6 +7452,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1143624.png",
     "url": "https://yerevan-city.am/shop/product-details/113187",
     "key": "Yerevan City|id:113187|730|640"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մարինացված վարունգ «Արտֆուդ» մանր, չիլի 3-6սմ 350գր",
+    "old": 710,
+    "new": 595,
+    "pct": 16,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169477.png",
+    "url": "https://yerevan-city.am/shop/product-details/175847",
+    "key": "Yerevan City|id:175847|710|595"
    }
   ]
  },
