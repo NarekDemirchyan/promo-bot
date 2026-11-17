@@ -1527,7 +1527,8 @@
    "SAS|id:934067|780|680",
    "SAS|id:924463|630|480",
    "SAS|id:322472|970|790",
-   "SAS|id:964801|690|630"
+   "SAS|id:964801|690|630",
+   "SAS|id:924459|770|580"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5272,20 +5273,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/sgushchennoe_moloko/964801/",
     "key": "SAS|id:964801|690|630"
+   },
+   {
+    "store": "SAS",
+    "title": "Գարեջուր «Cervezas Victoria Malaga» 330մլ",
+    "old": 770,
+    "new": 580,
+    "pct": 25,
+    "until": "07.01.2027",
+    "img": "https://www.sas.am/upload/Sh/imageCache/132/262/2626321256290219.webp",
+    "url": "https://www.sas.am/catalog/importnoe_pivo/924459/",
+    "key": "SAS|id:924459|770|580"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Անձեռոցիկներ գրպանի «Սելպակ» լոսյոնով 10x10հտ",
-    "old": 1010,
-    "new": 860,
-    "pct": 15,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1154225.png",
-    "url": "https://yerevan-city.am/shop/product-details/153654",
-    "key": "Yerevan City|id:153654|1010|860"
-   },
    {
     "store": "Yerevan City",
     "title": "Տաք շոկոլադ «Հերշեյս» 30գր",
@@ -7478,8 +7479,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-17T22:32:19.655066+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-17T22:50:52.176848+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
