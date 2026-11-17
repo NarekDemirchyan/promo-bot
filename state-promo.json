@@ -1532,7 +1532,8 @@
    "SAS|id:631481|1250|1150",
    "SAS|id:972192|2140|1470",
    "SAS|id:972191|2750|1920",
-   "SAS|id:83033|2990|2350"
+   "SAS|id:83033|2990|2350",
+   "SAS|id:972187|2750|1920"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5282,20 +5283,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/154/474/4749731493460213.webp",
     "url": "https://www.sas.am/catalog/rastvorimyy_kofe/83033/",
     "key": "SAS|id:83033|2990|2350"
+   },
+   {
+    "store": "SAS",
+    "title": "Ատամի մածուկ «Sensodyne Мгновенный Эффект» 75մլ",
+    "old": 2750,
+    "new": 1920,
+    "pct": 30,
+    "until": "27.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/117/248/248037454670006.webp",
+    "url": "https://www.sas.am/catalog/dlya_polosti_rta/972187/",
+    "key": "SAS|id:972187|2750|1920"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Մարինացված բամիա «Արտֆուդ» 480գր",
-    "old": 990,
-    "new": 880,
-    "pct": 11,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1103992.png",
-    "url": "https://yerevan-city.am/shop/product-details/30060",
-    "key": "Yerevan City|id:30060|990|880"
-   },
    {
     "store": "Yerevan City",
     "title": "Մաստակ «Լուտտի» տուտտի 35գր",
@@ -7488,8 +7489,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-18T01:47:09.690242+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-18T02:02:23.205825+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
