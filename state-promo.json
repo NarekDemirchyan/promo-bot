@@ -3034,22 +3034,12 @@
    "Yerevan City|id:14740|720|530",
    "Yerevan City|id:41899|720|530",
    "Yerevan City|id:160415|720|320",
-   "Yerevan City|id:2906|710|600"
+   "Yerevan City|id:2906|710|600",
+   "Yerevan City|id:5044|710|645"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շոկոլադե սալիկ պիստակի միջուկով «Palace Gourmet Dubai» 100գ",
-    "old": 3450,
-    "new": 1720,
-    "pct": 50,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/plitka/766166/",
-    "key": "SAS|id:766166|3450|1720"
-   },
    {
     "store": "SAS",
     "title": "Ըմպելիք խնձորի, կիտրոնի և կոճապղպեղի «Pfanner Bio» 150մլ",
@@ -7429,12 +7419,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1052484.png",
     "url": "https://yerevan-city.am/shop/product-details/2906",
     "key": "Yerevan City|id:2906|710|600"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Խտացրած կաթ «Ռոգաչև» 8.5% թ/տ 380գր",
+    "old": 710,
+    "new": 645,
+    "pct": 9,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1044089.png",
+    "url": "https://yerevan-city.am/shop/product-details/5044",
+    "key": "Yerevan City|id:5044|710|645"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-17T07:47:03.420862+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-17T08:02:21.816420+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
