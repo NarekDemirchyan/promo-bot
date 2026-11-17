@@ -3052,22 +3052,12 @@
    "Yerevan City|id:11224|720|530",
    "Yerevan City|id:55124|710|640",
    "Yerevan City|id:154312|710|600",
-   "Yerevan City|id:162546|710|670"
+   "Yerevan City|id:162546|710|670",
+   "Yerevan City|id:12826|730|650"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կոնֆետներ աղի կարամելային «Carabreizh» 120գ",
-    "old": 2930,
-    "new": 2050,
-    "pct": 30,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/konfety_v_upakovke/754964/",
-    "key": "SAS|id:754964|2930|2050"
-   },
    {
     "store": "SAS",
     "title": "Թխվածքաբլիթներ «Vicenzi» 135գ",
@@ -7447,12 +7437,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1160232.png",
     "url": "https://yerevan-city.am/shop/product-details/162546",
     "key": "Yerevan City|id:162546|710|670"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մաքրող գել գազօջախի համար «Սանիտա» 500մլ",
+    "old": 730,
+    "new": 650,
+    "pct": 11,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1016139.png",
+    "url": "https://yerevan-city.am/shop/product-details/12826",
+    "key": "Yerevan City|id:12826|730|650"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-17T13:47:11.468702+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-17T14:01:18.857557+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
