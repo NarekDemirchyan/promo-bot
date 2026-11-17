@@ -1526,7 +1526,8 @@
    "SAS|id:934071|780|680",
    "SAS|id:934067|780|680",
    "SAS|id:924463|630|480",
-   "SAS|id:322472|970|790"
+   "SAS|id:322472|970|790",
+   "SAS|id:964801|690|630"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5270,6 +5271,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/zhele_plastila/322472/",
     "key": "SAS|id:322472|970|790"
+   },
+   {
+    "store": "SAS",
+    "title": "Խտացրած կաթ ազնվամորու «Коровка из Кореновки Пломбир» 270գ, յուղայնությունը` 8.5",
+    "old": 690,
+    "new": 630,
+    "pct": 9,
+    "until": "31.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/sgushchennoe_moloko/964801/",
+    "key": "SAS|id:964801|690|630"
    }
   ],
   "Yerevan City": [
