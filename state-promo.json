@@ -3058,17 +3058,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Թխվածքաբլիթ շոկոլադով «Arnott's TimTam Original» 163գ",
-    "old": 2390,
-    "new": 1190,
-    "pct": 50,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/pechene_pryaniki/828268/",
-    "key": "SAS|id:828268|2390|1190"
-   },
-   {
-    "store": "SAS",
     "title": "Կոնֆետներ աղի կարամելային «Carabreizh» 120գ",
     "old": 2930,
     "new": 2050,
@@ -7461,8 +7450,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-17T13:05:22.401108+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-17T13:32:23.550216+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
