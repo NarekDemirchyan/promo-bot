@@ -3064,17 +3064,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Ջին «Tanqueray N.Ten» 1լ",
-    "old": 29900,
-    "new": 20930,
-    "pct": 30,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/dzhin_absent/493691/",
-    "key": "SAS|id:493691|29900|20930"
-   },
-   {
-    "store": "SAS",
     "title": "Ջին «Glendalough» 0.75լ",
     "old": 39500,
     "new": 27650,
@@ -7467,8 +7456,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-17T15:01:21.474755+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-17T15:35:04.581850+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
