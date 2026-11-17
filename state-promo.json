@@ -1531,7 +1531,8 @@
    "SAS|id:924459|770|580",
    "SAS|id:631481|1250|1150",
    "SAS|id:972192|2140|1470",
-   "SAS|id:972191|2750|1920"
+   "SAS|id:972191|2750|1920",
+   "SAS|id:83033|2990|2350"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5280,20 +5281,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/dlya_polosti_rta/972191/",
     "key": "SAS|id:972191|2750|1920"
+   },
+   {
+    "store": "SAS",
+    "title": "Սուրճ լուծվող «Jardin Kenya Kilimanjaro» 95գ",
+    "old": 2990,
+    "new": 2350,
+    "pct": 21,
+    "until": "27.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/154/474/4749731493460213.webp",
+    "url": "https://www.sas.am/catalog/rastvorimyy_kofe/83033/",
+    "key": "SAS|id:83033|2990|2350"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Գարեջուր «Աֆանասիյ» Մարոչնոե, մուգ ա/տ 0.5լ",
-    "old": 990,
-    "new": 790,
-    "pct": 20,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1055497.png",
-    "url": "https://yerevan-city.am/shop/product-details/105022",
-    "key": "Yerevan City|id:105022|990|790"
-   },
    {
     "store": "Yerevan City",
     "title": "Մարինացված բամիա «Արտֆուդ» 480գր",
@@ -7486,8 +7487,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-18T01:02:44.287303+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-18T01:20:38.803641+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
