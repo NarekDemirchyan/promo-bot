@@ -3070,22 +3070,12 @@
    "Yerevan City|id:15903|700|650",
    "Yerevan City|id:1564|690|560",
    "Yerevan City|id:94734|690|490",
-   "Yerevan City|id:159335|690|490"
+   "Yerevan City|id:159335|690|490",
+   "Yerevan City|id:12220|690|580"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կրեկերներ սերուցքային «Pingo Doce Cream Crackers» 200գ",
-    "old": 650,
-    "new": 320,
-    "pct": 51,
-    "until": "30.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/159/480/4807862353081197.webp",
-    "url": "https://www.sas.am/catalog/krekery_solenye_palochki/918279/",
-    "key": "SAS|id:918279|650|320"
-   },
    {
     "store": "SAS",
     "title": "Կոմպոտ բալի «Իջևան» 1լ",
@@ -7465,12 +7455,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156994.png",
     "url": "https://yerevan-city.am/shop/product-details/159335",
     "key": "Yerevan City|id:159335|690|490"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Եգիպտացորեն քաղցր «Բոնդյուել» 340գր",
+    "old": 690,
+    "new": 580,
+    "pct": 16,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1038400.png",
+    "url": "https://yerevan-city.am/shop/product-details/12220",
+    "key": "Yerevan City|id:12220|690|580"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-17T19:47:19.156631+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-17T20:02:27.586764+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
