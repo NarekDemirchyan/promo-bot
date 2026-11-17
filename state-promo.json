@@ -3084,7 +3084,8 @@
    "Yerevan City|id:181255|690|450",
    "Yerevan City|id:17189|690|475",
    "Yerevan City|id:17224|690|580",
-   "Yerevan City|id:59463|690|490"
+   "Yerevan City|id:59463|690|490",
+   "Yerevan City|id:14180|795|695"
   ]
  },
  "queues": {
@@ -7479,6 +7480,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1110645.png",
     "url": "https://yerevan-city.am/shop/product-details/59463",
     "key": "Yerevan City|id:59463|690|490"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կարմիր պղպեղ «Արտֆուդ» աղացած 450մլ",
+    "old": 795,
+    "new": 695,
+    "pct": 13,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1087568.png",
+    "url": "https://yerevan-city.am/shop/product-details/14180",
+    "key": "Yerevan City|id:14180|795|695"
    }
   ]
  },
