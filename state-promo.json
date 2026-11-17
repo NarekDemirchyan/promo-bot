@@ -1506,7 +1506,8 @@
    "SAS|id:206661|1130|920",
    "SAS|id:972403|1360|1190",
    "SAS|id:972402|1360|1190",
-   "SAS|id:30487|1790|1690"
+   "SAS|id:30487|1790|1690",
+   "SAS|id:972401|1360|1190"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5230,20 +5231,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/armyanskoe_vino/30487/",
     "key": "SAS|id:30487|1790|1690"
+   },
+   {
+    "store": "SAS",
+    "title": "Հակաքրտինքային միջոց գնդիկով «Rexona Cotton Dry» 50մլ",
+    "old": 1360,
+    "new": 1190,
+    "pct": 12,
+    "until": "27.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/321/393/393758761944037.webp",
+    "url": "https://www.sas.am/catalog/antiperspirantt/972401/",
+    "key": "SAS|id:972401|1360|1190"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Պանիր հալած «Պրեզիդենտ» խոզապուխտով 140գր",
-    "old": 1050,
-    "new": 690,
-    "pct": 34,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1041512.png",
-    "url": "https://yerevan-city.am/shop/product-details/17882",
-    "key": "Yerevan City|id:17882|1050|690"
-   },
    {
     "store": "Yerevan City",
     "title": "Թխվածքաբլիթ «Բերգեն» Օրիգ.շոկ.կտորներով ա/շ 130գր",
@@ -7436,8 +7437,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-17T08:47:03.156139+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-17T09:02:20.602429+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
