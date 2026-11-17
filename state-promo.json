@@ -1524,7 +1524,8 @@
    "SAS|id:902935|1290|1180",
    "SAS|id:934072|780|680",
    "SAS|id:934071|780|680",
-   "SAS|id:934067|780|680"
+   "SAS|id:934067|780|680",
+   "SAS|id:924463|630|480"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5266,6 +5267,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/yogurt_puding/934067/",
     "key": "SAS|id:934067|780|680"
+   },
+   {
+    "store": "SAS",
+    "title": "Գարեջուր «Cervezas Victoria Malaga» 330մլ",
+    "old": 630,
+    "new": 480,
+    "pct": 24,
+    "until": "07.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/importnoe_pivo/924463/",
+    "key": "SAS|id:924463|630|480"
    }
   ],
   "Yerevan City": [
