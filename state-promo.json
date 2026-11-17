@@ -3064,22 +3064,12 @@
    "Yerevan City|id:175847|710|595",
    "Yerevan City|id:18853|735|695",
    "Yerevan City|id:4217|730|590",
-   "Yerevan City|id:15903|700|650"
+   "Yerevan City|id:15903|700|650",
+   "Yerevan City|id:1564|690|560"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Հյութ գազարի և դդմի «Իջևան» 1000մլ",
-    "old": 990,
-    "new": 940,
-    "pct": 5,
-    "until": "07.01.2027",
-    "img": "",
-    "url": "https://www.sas.am/catalog/sok/738905/",
-    "key": "SAS|id:738905|990|940"
-   },
    {
     "store": "SAS",
     "title": "Թխվածքաբլիթ պիստակի կրեմով «Matilde Vicenzi Millefoglie» 125գ",
@@ -7459,12 +7449,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1045970.png",
     "url": "https://yerevan-city.am/shop/product-details/15903",
     "key": "Yerevan City|id:15903|700|650"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Արևածաղկի ձեթ «Կուբանսկոե լյուբիմոե» 1լ",
+    "old": 690,
+    "new": 560,
+    "pct": 19,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1082321.png",
+    "url": "https://yerevan-city.am/shop/product-details/1564",
+    "key": "Yerevan City|id:1564|690|560"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-17T17:47:43.803376+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-17T18:05:28.611694+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
