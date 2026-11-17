@@ -3026,7 +3026,8 @@
    "Yerevan City|id:132281|740|650",
    "Yerevan City|id:194991|740|700",
    "Yerevan City|id:13957|720|650",
-   "Yerevan City|id:7949|720|680"
+   "Yerevan City|id:7949|720|680",
+   "Yerevan City|id:14740|720|530"
   ]
  },
  "queues": {
@@ -7421,6 +7422,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1052728.png",
     "url": "https://yerevan-city.am/shop/product-details/7949",
     "key": "Yerevan City|id:7949|720|680"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Նեկտար «Սոչնիյ» մուլտիֆրուտ 1լ",
+    "old": 720,
+    "new": 530,
+    "pct": 26,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1085735.png",
+    "url": "https://yerevan-city.am/shop/product-details/14740",
+    "key": "Yerevan City|id:14740|720|530"
    }
   ]
  },
