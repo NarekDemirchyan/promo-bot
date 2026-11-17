@@ -1520,7 +1520,8 @@
    "SAS|id:964802|690|630",
    "SAS|id:964798|690|630",
    "SAS|id:930130|1140|860",
-   "SAS|id:924464|820|620"
+   "SAS|id:924464|820|620",
+   "SAS|id:902935|1290|1180"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5258,6 +5259,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/381/742/7422724075137228.webp",
     "url": "https://www.sas.am/catalog/importnoe_pivo/924464/",
     "key": "SAS|id:924464|820|620"
+   },
+   {
+    "store": "SAS",
+    "title": "Թխվածքաբլիթ շոկոլադե կտորներով «Gullon Choco Bom» 120գ",
+    "old": 1290,
+    "new": 1180,
+    "pct": 9,
+    "until": "30.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/262/083/0831902752842331.webp",
+    "url": "https://www.sas.am/catalog/pechene_pryaniki/902935/",
+    "key": "SAS|id:902935|1290|1180"
    }
   ],
   "Yerevan City": [
