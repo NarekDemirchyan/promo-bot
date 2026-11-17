@@ -1516,7 +1516,8 @@
    "SAS|id:130574|4620|4340",
    "SAS|id:20192|440|230",
    "SAS|id:934074|780|680",
-   "SAS|id:930131|1140|860"
+   "SAS|id:930131|1140|860",
+   "SAS|id:964802|690|630"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5250,6 +5251,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/127/631/6310784055633966.webp",
     "url": "https://www.sas.am/catalog/slivki_kokteyl/930131/",
     "key": "SAS|id:930131|1140|860"
+   },
+   {
+    "store": "SAS",
+    "title": "Խտացրած կաթ պիստակի «Коровка из Кореновки Пломбир» 270գ, յուղայնությունը` 8.5",
+    "old": 690,
+    "new": 630,
+    "pct": 9,
+    "until": "31.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/sgushchennoe_moloko/964802/",
+    "key": "SAS|id:964802|690|630"
    }
   ],
   "Yerevan City": [
