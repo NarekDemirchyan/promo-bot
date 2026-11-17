@@ -1499,7 +1499,8 @@
    "SAS|id:267499|1090|820",
    "SAS|id:972404|1360|1190",
    "SAS|id:42905|2230|1990",
-   "SAS|id:79197|3450|2950"
+   "SAS|id:79197|3450|2950",
+   "SAS|id:30739|1790|1690"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5216,6 +5217,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/konfety_v_upakovke/79197/",
     "key": "SAS|id:79197|3450|2950"
+   },
+   {
+    "store": "SAS",
+    "title": "Գինի նռան «Մապ» 0.75լ",
+    "old": 1790,
+    "new": 1690,
+    "pct": 6,
+    "until": "08.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/armyanskoe_vino/30739/",
+    "key": "SAS|id:30739|1790|1690"
    }
   ],
   "Yerevan City": [
