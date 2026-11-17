@@ -3054,17 +3054,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Բատոն սպիտակուցային բանանի և գետնանուշի համով «Pingo Doce Go Active Barra Proteica» 3*35գ",
-    "old": 1290,
-    "new": 640,
-    "pct": 50,
-    "until": "30.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/712/376/376092224084758.webp",
-    "url": "https://www.sas.am/catalog/batonchik/918296/",
-    "key": "SAS|id:918296|1290|640"
-   },
-   {
-    "store": "SAS",
     "title": "Բանան կաթնային շոկոլադով «Oswald Schofrulade» 130գ",
     "old": 3350,
     "new": 2340,
@@ -7457,8 +7446,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-17T11:49:47.206956+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-17T12:17:10.552138+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
