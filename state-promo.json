@@ -3040,7 +3040,8 @@
    "Yerevan City|id:2906|710|600",
    "Yerevan City|id:5044|710|645",
    "Yerevan City|id:5278|710|550",
-   "Yerevan City|id:18491|710|595"
+   "Yerevan City|id:18491|710|595",
+   "Yerevan City|id:23256|710|495"
   ]
  },
  "queues": {
@@ -7435,6 +7436,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1100310.png",
     "url": "https://yerevan-city.am/shop/product-details/18491",
     "key": "Yerevan City|id:18491|710|595"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Զուգարանի թուղթ «Էկկա» Պրեմիում, բուրավետ, երկշերտ 4հտ",
+    "old": 710,
+    "new": 495,
+    "pct": 30,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1103069.png",
+    "url": "https://yerevan-city.am/shop/product-details/23256",
+    "key": "Yerevan City|id:23256|710|495"
    }
   ]
  },
