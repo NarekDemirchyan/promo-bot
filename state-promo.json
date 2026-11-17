@@ -1513,7 +1513,8 @@
    "SAS|id:972395|1360|1190",
    "SAS|id:158897|670|620",
    "SAS|id:65742|920|790",
-   "SAS|id:130574|4620|4340"
+   "SAS|id:130574|4620|4340",
+   "SAS|id:20192|440|230"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5244,20 +5245,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/krem/130574/",
     "key": "SAS|id:130574|4620|4340"
+   },
+   {
+    "store": "SAS",
+    "title": "Էլեկտրական մարտկոց «Energizer AA» 1հատ",
+    "old": 440,
+    "new": 230,
+    "pct": 48,
+    "until": "04.01.2027",
+    "img": "https://www.sas.am/upload/Sh/imageCache/352/748/7486942471370130.webp",
+    "url": "https://www.sas.am/catalog/batareyka/20192/",
+    "key": "SAS|id:20192|440|230"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Անձեռոցիկներ «Սելպակ» 33x33 2շերտ 100հտ",
-    "old": 1040,
-    "new": 880,
-    "pct": 15,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172853.png",
-    "url": "https://yerevan-city.am/shop/product-details/179147",
-    "key": "Yerevan City|id:179147|1040|880"
-   },
    {
     "store": "Yerevan City",
     "title": "Պաշտպանիչ և մաքրող միջոց «Դոմեստոս» փշատերևի թարմություն 750մլ",
@@ -7450,8 +7451,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-17T13:32:23.550216+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-17T13:47:11.468702+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
