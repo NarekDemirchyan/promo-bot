@@ -3092,17 +3092,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Արգանակ սնկի «Доширак» 90գ",
-    "old": 320,
-    "new": 240,
-    "pct": 25,
-    "until": "26.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/309/420/4208801369316527.webp",
-    "url": "https://www.sas.am/catalog/spicess/918375/",
-    "key": "SAS|id:918375|320|240"
-   },
-   {
-    "store": "SAS",
     "title": "Պաղպաղակ վանիլային «Haagen Dazs Macadamia Nut Brittle» 70գ",
     "old": 1690,
     "new": 840,
@@ -7495,8 +7484,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-18T00:05:24.112467+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-18T00:32:33.617454+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
