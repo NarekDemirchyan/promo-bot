@@ -3046,7 +3046,8 @@
    "Yerevan City|id:18491|710|595",
    "Yerevan City|id:23256|710|495",
    "Yerevan City|id:128299|710|605",
-   "Yerevan City|id:11224|720|530"
+   "Yerevan City|id:11224|720|530",
+   "Yerevan City|id:55124|710|640"
   ]
  },
  "queues": {
@@ -7441,6 +7442,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1085432.png",
     "url": "https://yerevan-city.am/shop/product-details/11224",
     "key": "Yerevan City|id:11224|720|530"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սպասք լվանալու հեղուկ «Ֆերի» խնձորի 500մլ",
+    "old": 710,
+    "new": 640,
+    "pct": 10,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1018760.png",
+    "url": "https://yerevan-city.am/shop/product-details/55124",
+    "key": "Yerevan City|id:55124|710|640"
    }
   ]
  },
