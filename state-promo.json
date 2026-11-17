@@ -3082,22 +3082,12 @@
    "Yerevan City|id:16406|690|614",
    "Yerevan City|id:181255|690|450",
    "Yerevan City|id:17189|690|475",
-   "Yerevan City|id:17224|690|580"
+   "Yerevan City|id:17224|690|580",
+   "Yerevan City|id:59463|690|490"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Թխվածքաբլիթ տիրամիսուի համար «Matilde Vicenzi Vicenzovo Strawberry» 200գ",
-    "old": 1730,
-    "new": 1210,
-    "pct": 30,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/pechene_pryaniki/857446/",
-    "key": "SAS|id:857446|1730|1210"
-   },
    {
     "store": "SAS",
     "title": "Արգանակ սնկի «Доширак» 90գ",
@@ -7477,12 +7467,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1053191.png",
     "url": "https://yerevan-city.am/shop/product-details/17224",
     "key": "Yerevan City|id:17224|690|580"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մաստակ «Ֆինի» սեխ, առանց գլյուտեն 100գր",
+    "old": 690,
+    "new": 490,
+    "pct": 29,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1110645.png",
+    "url": "https://yerevan-city.am/shop/product-details/59463",
+    "key": "Yerevan City|id:59463|690|490"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-17T23:32:16.250989+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-17T23:47:30.955070+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
