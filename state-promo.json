@@ -3036,22 +3036,12 @@
    "Yerevan City|id:41899|720|530",
    "Yerevan City|id:160415|720|320",
    "Yerevan City|id:2906|710|600",
-   "Yerevan City|id:5044|710|645"
+   "Yerevan City|id:5044|710|645",
+   "Yerevan City|id:5278|710|550"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ըմպելիք խնձորի, կիտրոնի և կոճապղպեղի «Pfanner Bio» 150մլ",
-    "old": 980,
-    "new": 490,
-    "pct": 50,
-    "until": "30.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/309/318/3186623119689377.webp",
-    "url": "https://www.sas.am/catalog/osvezhayushchiy_napitok/575122/",
-    "key": "SAS|id:575122|980|490"
-   },
    {
     "store": "SAS",
     "title": "Չիպս թթվասերի և սոխի «Pringles» 165գ",
@@ -7431,12 +7421,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1044089.png",
     "url": "https://yerevan-city.am/shop/product-details/5044",
     "key": "Yerevan City|id:5044|710|645"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սափրող սարք «Ժիլետ» 2 5հտ",
+    "old": 710,
+    "new": 550,
+    "pct": 23,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1034305.png",
+    "url": "https://yerevan-city.am/shop/product-details/5278",
+    "key": "Yerevan City|id:5278|710|550"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-17T08:19:56.276071+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-17T08:47:03.156139+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
