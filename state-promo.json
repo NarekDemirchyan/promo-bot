@@ -3054,7 +3054,8 @@
    "Yerevan City|id:55124|710|640",
    "Yerevan City|id:154312|710|600",
    "Yerevan City|id:162546|710|670",
-   "Yerevan City|id:12826|730|650"
+   "Yerevan City|id:12826|730|650",
+   "Yerevan City|id:113187|730|640"
   ]
  },
  "queues": {
@@ -7449,6 +7450,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1016139.png",
     "url": "https://yerevan-city.am/shop/product-details/12826",
     "key": "Yerevan City|id:12826|730|650"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Խոնավ անձեռոցիկներ «Սիլկ Սոֆթ» Պրեմիում, հակաբակտերիալ 80հտ",
+    "old": 730,
+    "new": 640,
+    "pct": 12,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1143624.png",
+    "url": "https://yerevan-city.am/shop/product-details/113187",
+    "key": "Yerevan City|id:113187|730|640"
    }
   ]
  },
