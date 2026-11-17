@@ -1518,7 +1518,8 @@
    "SAS|id:934074|780|680",
    "SAS|id:930131|1140|860",
    "SAS|id:964802|690|630",
-   "SAS|id:964798|690|630"
+   "SAS|id:964798|690|630",
+   "SAS|id:930130|1140|860"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5254,6 +5255,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/sgushchennoe_moloko/964798/",
     "key": "SAS|id:964798|690|630"
+   },
+   {
+    "store": "SAS",
+    "title": "Կոկտեյլ կաթնային բանանի «Ehrmann Hyper Banana Cocktail» 250գ",
+    "old": 1140,
+    "new": 860,
+    "pct": 25,
+    "until": "27.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/193/218/2189612533635959.webp",
+    "url": "https://www.sas.am/catalog/slivki_kokteyl/930130/",
+    "key": "SAS|id:930130|1140|860"
    }
   ],
   "Yerevan City": [
