@@ -1512,7 +1512,8 @@
    "SAS|id:29829|1790|1690",
    "SAS|id:972395|1360|1190",
    "SAS|id:158897|670|620",
-   "SAS|id:65742|920|790"
+   "SAS|id:65742|920|790",
+   "SAS|id:130574|4620|4340"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5242,20 +5243,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/291/819/8196612850983044.webp",
     "url": "https://www.sas.am/catalog/kopchenaya_kolbasa/65742/",
     "key": "SAS|id:65742|920|790"
+   },
+   {
+    "store": "SAS",
+    "title": "Շոկոլադե-ընկուզային մածուկ «Nutella» 630գ",
+    "old": 4620,
+    "new": 4340,
+    "pct": 6,
+    "until": "01.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/krem/130574/",
+    "key": "SAS|id:130574|4620|4340"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Սիգ «Արտֆուդ» Սևանի, տոմատում 240գր",
-    "old": 1040,
-    "new": 920,
-    "pct": 12,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1143399.png",
-    "url": "https://yerevan-city.am/shop/product-details/113010",
-    "key": "Yerevan City|id:113010|1040|920"
-   },
    {
     "store": "Yerevan City",
     "title": "Անձեռոցիկներ «Սելպակ» 33x33 2շերտ 100հտ",
@@ -7448,8 +7449,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-17T12:47:02.338576+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-17T13:05:22.401108+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
