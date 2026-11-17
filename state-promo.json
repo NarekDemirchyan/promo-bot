@@ -3094,22 +3094,12 @@
    "Yerevan City|id:16791|795|695",
    "Yerevan City|id:195749|795|695",
    "Yerevan City|id:195750|795|695",
-   "Yerevan City|id:1299|790|650"
+   "Yerevan City|id:1299|790|650",
+   "Yerevan City|id:4427|790|680"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Արգանակ տավարի «Доширак» 90գ",
-    "old": 320,
-    "new": 240,
-    "pct": 25,
-    "until": "26.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/126/544/5447323220695604.webp",
-    "url": "https://www.sas.am/catalog/spicess/653200/",
-    "key": "SAS|id:653200|320|240"
-   },
    {
     "store": "SAS",
     "title": "Սուֆլե վանիլային «Lafinele» 40գ",
@@ -7489,12 +7479,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1045388.png",
     "url": "https://yerevan-city.am/shop/product-details/1299",
     "key": "Yerevan City|id:1299|790|650"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Երշիկ եփած-ապխտած թեյի «Բեկոն» 250գր",
+    "old": 790,
+    "new": 680,
+    "pct": 14,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1043016.png",
+    "url": "https://yerevan-city.am/shop/product-details/4427",
+    "key": "Yerevan City|id:4427|790|680"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-18T03:32:19.237513+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-18T03:50:09.937134+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
