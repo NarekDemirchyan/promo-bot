@@ -3038,22 +3038,12 @@
    "Yerevan City|id:160415|720|320",
    "Yerevan City|id:2906|710|600",
    "Yerevan City|id:5044|710|645",
-   "Yerevan City|id:5278|710|550"
+   "Yerevan City|id:5278|710|550",
+   "Yerevan City|id:18491|710|595"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Չիպս թթվասերի և սոխի «Pringles» 165գ",
-    "old": 1460,
-    "new": 1270,
-    "pct": 13,
-    "until": "30.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/833/481/481782217981796.webp",
-    "url": "https://www.sas.am/catalog/chipsy/202331/",
-    "key": "SAS|id:202331|1460|1270"
-   },
    {
     "store": "SAS",
     "title": "Պանիրների հավաքածու «Reypenaer Historiche Rijping» 0.390կգ",
@@ -7433,12 +7423,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1034305.png",
     "url": "https://yerevan-city.am/shop/product-details/5278",
     "key": "Yerevan City|id:5278|710|550"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մարինացված վարունգ «Արտֆուդ» 3-6սմ 350գր",
+    "old": 710,
+    "new": 595,
+    "pct": 16,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1100310.png",
+    "url": "https://yerevan-city.am/shop/product-details/18491",
+    "key": "Yerevan City|id:18491|710|595"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-17T09:02:20.602429+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-17T09:18:17.183332+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
