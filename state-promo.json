@@ -3074,22 +3074,12 @@
    "Yerevan City|id:94734|690|490",
    "Yerevan City|id:159335|690|490",
    "Yerevan City|id:12220|690|580",
-   "Yerevan City|id:15050|690|560"
+   "Yerevan City|id:15050|690|560",
+   "Yerevan City|id:16406|690|614"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Պանիր մոցարելա «Այգ» 0․3կգ",
-    "old": 1860,
-    "new": 1670,
-    "pct": 10,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/armyanskiy_syr/560197/",
-    "key": "SAS|id:560197|1860|1670"
-   },
    {
     "store": "SAS",
     "title": "Պանիր էմենտալ կտրատած «Veldhuyzen» 150գ",
@@ -7469,12 +7459,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1014096.png",
     "url": "https://yerevan-city.am/shop/product-details/15050",
     "key": "Yerevan City|id:15050|690|560"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սուրճ աղացած «Կաֆֆա» Պապի, արաբիկա 100գր",
+    "old": 690,
+    "new": 614,
+    "pct": 11,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1082939.png",
+    "url": "https://yerevan-city.am/shop/product-details/16406",
+    "key": "Yerevan City|id:16406|690|614"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-17T21:02:24.520047+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-17T21:17:19.424463+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
