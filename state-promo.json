@@ -3050,7 +3050,8 @@
    "Yerevan City|id:128299|710|605",
    "Yerevan City|id:11224|720|530",
    "Yerevan City|id:55124|710|640",
-   "Yerevan City|id:154312|710|600"
+   "Yerevan City|id:154312|710|600",
+   "Yerevan City|id:162546|710|670"
   ]
  },
  "queues": {
@@ -7445,6 +7446,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1154365.png",
     "url": "https://yerevan-city.am/shop/product-details/154312",
     "key": "Yerevan City|id:154312|710|600"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տոմատի մածուկ «Իջևան» 200գր",
+    "old": 710,
+    "new": 670,
+    "pct": 6,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1160232.png",
+    "url": "https://yerevan-city.am/shop/product-details/162546",
+    "key": "Yerevan City|id:162546|710|670"
    }
   ]
  },
