@@ -3030,22 +3030,12 @@
    "Yerevan City|id:13957|720|650",
    "Yerevan City|id:7949|720|680",
    "Yerevan City|id:14740|720|530",
-   "Yerevan City|id:41899|720|530"
+   "Yerevan City|id:41899|720|530",
+   "Yerevan City|id:160415|720|320"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Գինի կարմիր «Իջևան Փյուր Կարբո» 0.75լ",
-    "old": 5990,
-    "new": 5350,
-    "pct": 11,
-    "until": "08.01.2027",
-    "img": "",
-    "url": "https://www.sas.am/catalog/armyanskoe_vino/655491/",
-    "key": "SAS|id:655491|5990|5350"
-   },
    {
     "store": "SAS",
     "title": "Ելակ կաթնային շոկոլադով «Schofrulade» 130գ",
@@ -7425,12 +7415,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1085736.png",
     "url": "https://yerevan-city.am/shop/product-details/41899",
     "key": "Yerevan City|id:41899|720|530"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շերեփ «Դեննի Հոմ» պլաստմասե ԴՀ3561",
+    "old": 720,
+    "new": 320,
+    "pct": 56,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1158033.png",
+    "url": "https://yerevan-city.am/shop/product-details/160415",
+    "key": "Yerevan City|id:160415|720|320"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-17T06:31:15.673840+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-17T06:47:03.864168+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
