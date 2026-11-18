@@ -5341,17 +5341,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Կարմիր պղպեղ մարինացված «Արտֆուդ» դելիկատես.700գր",
-    "old": 970,
-    "new": 870,
-    "pct": 10,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1049388.png",
-    "url": "https://yerevan-city.am/shop/product-details/7479",
-    "key": "Yerevan City|id:7479|970|870"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Մարտկոց «Էներջայզեր» Ալկալայն Փաուեր ԱԱԱ 1.5Վ 2հտ",
     "old": 970,
     "new": 485,
@@ -7542,8 +7531,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-18T15:02:53.811880+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-18T15:32:38.021370+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
