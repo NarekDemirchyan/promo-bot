@@ -1545,7 +1545,8 @@
    "SAS|id:913220|930|790",
    "SAS|id:887555|780|720",
    "SAS|id:918125|8050|7450",
-   "SAS|id:550122|5590|5150"
+   "SAS|id:550122|5590|5150",
+   "SAS|id:179077|1870|1490"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5308,6 +5309,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/armyanskoe_vino/550122/",
     "key": "SAS|id:550122|5590|5150"
+   },
+   {
+    "store": "SAS",
+    "title": "Պանիր դասական «Philadelphia» 175գ",
+    "old": 1870,
+    "new": 1490,
+    "pct": 20,
+    "until": "01.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/importnyy_syr/179077/",
+    "key": "SAS|id:179077|1870|1490"
    }
   ],
   "Yerevan City": [
