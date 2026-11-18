@@ -1541,7 +1541,8 @@
    "SAS|id:100742|2890|2330",
    "SAS|id:934073|780|680",
    "SAS|id:934070|780|680",
-   "SAS|id:930134|1140|860"
+   "SAS|id:930134|1140|860",
+   "SAS|id:913220|930|790"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5300,6 +5301,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/328/361/3618333638555527.webp",
     "url": "https://www.sas.am/catalog/slivki_kokteyl/930134/",
     "key": "SAS|id:930134|1140|860"
+   },
+   {
+    "store": "SAS",
+    "title": "Պուդինգ սպիտակուցային կարամելի «Valio Profeel Caramel» 180գ",
+    "old": 930,
+    "new": 790,
+    "pct": 15,
+    "until": "27.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/180/885/8851662297237059.webp",
+    "url": "https://www.sas.am/catalog/yogurt_puding/913220/",
+    "key": "SAS|id:913220|930|790"
    }
   ],
   "Yerevan City": [
