@@ -1566,7 +1566,8 @@
    "SAS|id:133598|530|480",
    "SAS|id:110016|4550|2980",
    "SAS|id:233030|880|730",
-   "SAS|id:206200|5600|3800"
+   "SAS|id:206200|5600|3800",
+   "SAS|id:265968|1130|920"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5350,6 +5351,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/plitka/206200/",
     "key": "SAS|id:206200|5600|3800"
+   },
+   {
+    "store": "SAS",
+    "title": "Շոկոլադե սալիկ մուգ պնդուկով «Schogetten» 100գ",
+    "old": 1130,
+    "new": 920,
+    "pct": 19,
+    "until": "30.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/374/711/7117571565707816.webp",
+    "url": "https://www.sas.am/catalog/plitka/265968/",
+    "key": "SAS|id:265968|1130|920"
    }
   ],
   "Yerevan City": [
