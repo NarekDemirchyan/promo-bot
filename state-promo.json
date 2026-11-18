@@ -3134,7 +3134,8 @@
    "Yerevan City|id:172211|790|620",
    "Yerevan City|id:9261|790|395",
    "Yerevan City|id:162087|790|395",
-   "Yerevan City|id:162814|790|395"
+   "Yerevan City|id:162814|790|395",
+   "Yerevan City|id:173720|790|450"
   ]
  },
  "queues": {
@@ -7529,6 +7530,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1160452.png",
     "url": "https://yerevan-city.am/shop/product-details/162814",
     "key": "Yerevan City|id:162814|790|395"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հարիչ «Դեննի Հոմ» սիլիկոնե ԴՀ3902",
+    "old": 790,
+    "new": 450,
+    "pct": 43,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1167317.png",
+    "url": "https://yerevan-city.am/shop/product-details/173720",
+    "key": "Yerevan City|id:173720|790|450"
    }
   ]
  },
