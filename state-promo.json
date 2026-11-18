@@ -1564,7 +1564,8 @@
    "SAS|id:206655|1130|920",
    "SAS|id:206648|1130|920",
    "SAS|id:133598|530|480",
-   "SAS|id:110016|4550|2980"
+   "SAS|id:110016|4550|2980",
+   "SAS|id:233030|880|730"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5346,6 +5347,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/nabory_konfet/110016/",
     "key": "SAS|id:110016|4550|2980"
+   },
+   {
+    "store": "SAS",
+    "title": "Մակարոն «Barilla Bavettine №11» 450գ",
+    "old": 880,
+    "new": 730,
+    "pct": 17,
+    "until": "25.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/makaronyy/233030/",
+    "key": "SAS|id:233030|880|730"
    }
   ],
   "Yerevan City": [
