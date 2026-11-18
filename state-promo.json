@@ -3108,22 +3108,12 @@
    "Yerevan City|id:27452|790|395",
    "Yerevan City|id:181206|790|350",
    "Yerevan City|id:36998|790|590",
-   "Yerevan City|id:51011|790|690"
+   "Yerevan City|id:51011|790|690",
+   "Yerevan City|id:84207|790|490"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Չորահաց-բրուսկետտա պիցցայի «Maretti» 70գ",
-    "old": 550,
-    "new": 440,
-    "pct": 20,
-    "until": "30.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/168/248/2482363362930782.webp",
-    "url": "https://www.sas.am/catalog/chipsy/177842/",
-    "key": "SAS|id:177842|550|440"
-   },
    {
     "store": "SAS",
     "title": "Գինի սպիտակ «Տակառ» 0.75լ",
@@ -7503,12 +7493,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1099843.png",
     "url": "https://yerevan-city.am/shop/product-details/51011",
     "key": "Yerevan City|id:51011|790|690"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Խոհանոցային սրբիչ «Յունիք» վաֆլենման 40x60սմ",
+    "old": 790,
+    "new": 490,
+    "pct": 38,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1123749.png",
+    "url": "https://yerevan-city.am/shop/product-details/84207",
+    "key": "Yerevan City|id:84207|790|490"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-18T08:02:29.369073+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-18T08:17:08.817372+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
