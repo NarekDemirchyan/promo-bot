@@ -1572,7 +1572,8 @@
    "SAS|id:754965|4350|3040",
    "SAS|id:782799|3790|2990",
    "SAS|id:931798|3190|2550",
-   "SAS|id:827793|3190|2550"
+   "SAS|id:827793|3190|2550",
+   "SAS|id:900743|2090|1650"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5362,6 +5363,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/221/085/0859761402736264.webp",
     "url": "https://www.sas.am/catalog/frukty_ovoshchi_yagody/827793/",
     "key": "SAS|id:827793|3190|2550"
+   },
+   {
+    "store": "SAS",
+    "title": "Պաղպաղակ ելակի «Yuru Foods Erdbeereis» 90գ",
+    "old": 2090,
+    "new": 1650,
+    "pct": 21,
+    "until": "30.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/328/185/1850672027985925.webp",
+    "url": "https://www.sas.am/catalog/import_morozenoe/900743/",
+    "key": "SAS|id:900743|2090|1650"
    }
   ],
   "Yerevan City": [
