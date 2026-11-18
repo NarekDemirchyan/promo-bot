@@ -1551,7 +1551,8 @@
    "SAS|id:32089|24500|18700",
    "SAS|id:2310|7350|6750",
    "SAS|id:133601|530|480",
-   "SAS|id:913235|160|120"
+   "SAS|id:913235|160|120",
+   "SAS|id:179158|1270|1040"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5320,6 +5321,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/dlya_odezhdy_obuvi/913235/",
     "key": "SAS|id:913235|160|120"
+   },
+   {
+    "store": "SAS",
+    "title": "Պանիր հալած «Valio» 200գ",
+    "old": 1270,
+    "new": 1040,
+    "pct": 18,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/importnyy_syr/179158/",
+    "key": "SAS|id:179158|1270|1040"
    }
   ],
   "Yerevan City": [
