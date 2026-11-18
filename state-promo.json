@@ -3148,7 +3148,8 @@
    "Yerevan City|id:178945|790|390",
    "Yerevan City|id:169513|790|395",
    "Yerevan City|id:180459|790|660",
-   "Yerevan City|id:180460|790|660"
+   "Yerevan City|id:180460|790|660",
+   "Yerevan City|id:180461|790|520"
   ]
  },
  "queues": {
@@ -7543,6 +7544,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174186.png",
     "url": "https://yerevan-city.am/shop/product-details/180460",
     "key": "Yerevan City|id:180460|790|660"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սառը սուրճ «ՕԿՖ» Սաֆարի, սև թ/տ 275մլ",
+    "old": 790,
+    "new": 520,
+    "pct": 34,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174187.png",
+    "url": "https://yerevan-city.am/shop/product-details/180461",
+    "key": "Yerevan City|id:180461|790|520"
    }
   ]
  },
