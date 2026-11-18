@@ -3098,22 +3098,12 @@
    "Yerevan City|id:195750|795|695",
    "Yerevan City|id:1299|790|650",
    "Yerevan City|id:4427|790|680",
-   "Yerevan City|id:8850|790|710"
+   "Yerevan City|id:8850|790|710",
+   "Yerevan City|id:11586|790|690"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ծովախեցգետին թագավորական «Delight» 850գ",
-    "old": 16900,
-    "new": 8450,
-    "pct": 50,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/moreprodukt/483394/",
-    "key": "SAS|id:483394|16900|8450"
-   },
    {
     "store": "SAS",
     "title": "Կոմպոտ դեղձի «Իջևան» 1լ",
@@ -7493,12 +7483,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1050096.png",
     "url": "https://yerevan-city.am/shop/product-details/8850",
     "key": "Yerevan City|id:8850|790|710"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թխվածքաբլիթ «Միլկա» Կովիկ, շոկոլադով 120գր",
+    "old": 790,
+    "new": 690,
+    "pct": 13,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1075332.png",
+    "url": "https://yerevan-city.am/shop/product-details/11586",
+    "key": "Yerevan City|id:11586|790|690"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-18T04:46:57.467451+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-18T05:04:19.516817+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
