@@ -3104,22 +3104,12 @@
    "Yerevan City|id:8850|790|710",
    "Yerevan City|id:11586|790|690",
    "Yerevan City|id:27452|790|395",
-   "Yerevan City|id:181206|790|350"
+   "Yerevan City|id:181206|790|350",
+   "Yerevan City|id:36998|790|590"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Պանիր մոցարելա «Այգ» 300գ",
-    "old": 1730,
-    "new": 1570,
-    "pct": 9,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/armyanskiy_syr/528814/",
-    "key": "SAS|id:528814|1730|1570"
-   },
    {
     "store": "SAS",
     "title": "Ըմպելիք մասուրի «Իջևան» 1000մլ",
@@ -7499,12 +7489,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174932.png",
     "url": "https://yerevan-city.am/shop/product-details/181206",
     "key": "Yerevan City|id:181206|790|350"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ծաղկաման պլաստմասե «ԻնԳրին» Ամստերդամ 1.35լ Դ140",
+    "old": 790,
+    "new": 590,
+    "pct": 25,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1105149.png",
+    "url": "https://yerevan-city.am/shop/product-details/36998",
+    "key": "Yerevan City|id:36998|790|590"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-18T06:46:04.227985+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-18T07:02:40.105634+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
