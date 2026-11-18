@@ -3168,22 +3168,12 @@
    "Yerevan City|id:16178|850|780",
    "Yerevan City|id:16162|850|780",
    "Yerevan City|id:7113|850|795",
-   "Yerevan City|id:2734|850|425"
+   "Yerevan City|id:2734|850|425",
+   "Yerevan City|id:7138|850|795"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Փրփրուն գինի «Երևան» 0.75լ",
-    "old": 2810,
-    "new": 2650,
-    "pct": 6,
-    "until": "08.01.2027",
-    "img": "https://www.sas.am/upload/Sh/imageCache/163/609/6091452922303167.webp",
-    "url": "https://www.sas.am/catalog/shampanskoe_igristoe_vino/202668/",
-    "key": "SAS|id:202668|2810|2650"
-   },
    {
     "store": "SAS",
     "title": "Փրփրուն գինի «Տակառ Extra Brut» 0.75լ",
@@ -7563,12 +7553,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1044576.png",
     "url": "https://yerevan-city.am/shop/product-details/2734",
     "key": "Yerevan City|id:2734|850|425"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Չիպս «Լեյս» պանիր 140գր",
+    "old": 850,
+    "new": 795,
+    "pct": 6,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1048685.png",
+    "url": "https://yerevan-city.am/shop/product-details/7138",
+    "key": "Yerevan City|id:7138|850|795"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-19T03:03:31.932489+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-19T03:18:53.239245+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
