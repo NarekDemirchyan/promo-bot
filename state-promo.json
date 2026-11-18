@@ -3142,22 +3142,12 @@
    "Yerevan City|id:173720|790|450",
    "Yerevan City|id:173964|790|470",
    "Yerevan City|id:176937|790|470",
-   "Yerevan City|id:178945|790|390"
+   "Yerevan City|id:178945|790|390",
+   "Yerevan City|id:169513|790|395"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Գինի սպիտակ «Երևան Կանգուն» 0.75լ",
-    "old": 3540,
-    "new": 3350,
-    "pct": 5,
-    "until": "08.01.2027",
-    "img": "https://www.sas.am/upload/Sh/imageCache/287/840/8404011497116501.webp",
-    "url": "https://www.sas.am/catalog/armyanskoe_vino/29247/",
-    "key": "SAS|id:29247|3540|3350"
-   },
    {
     "store": "SAS",
     "title": "Գինի կարմիր «Երևան» 0.75լ",
@@ -7537,12 +7527,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172646.png",
     "url": "https://yerevan-city.am/shop/product-details/178945",
     "key": "Yerevan City|id:178945|790|390"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սպասք լվ. հեղուկ «Գրունվալդ» խնձոր 800մլ",
+    "old": 790,
+    "new": 395,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1163346.png",
+    "url": "https://yerevan-city.am/shop/product-details/169513",
+    "key": "Yerevan City|id:169513|790|395"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-18T19:02:07.725996+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-18T19:16:43.961699+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
