@@ -3162,7 +3162,8 @@
    "Yerevan City|id:10794|780|700",
    "Yerevan City|id:55836|780|720",
    "Yerevan City|id:6479|850|795",
-   "Yerevan City|id:16178|850|780"
+   "Yerevan City|id:16178|850|780",
+   "Yerevan City|id:16162|850|780"
   ]
  },
  "queues": {
@@ -7557,6 +7558,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1075685.png",
     "url": "https://yerevan-city.am/shop/product-details/16178",
     "key": "Yerevan City|id:16178|850|780"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հեղուկ օճառ «Գրասս» Միլանա, կաթ և մեղր 500մլ",
+    "old": 850,
+    "new": 780,
+    "pct": 8,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1075682.png",
+    "url": "https://yerevan-city.am/shop/product-details/16162",
+    "key": "Yerevan City|id:16162|850|780"
    }
   ]
  },
