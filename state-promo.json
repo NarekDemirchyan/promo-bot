@@ -1547,7 +1547,8 @@
    "SAS|id:918125|8050|7450",
    "SAS|id:550122|5590|5150",
    "SAS|id:179077|1870|1490",
-   "SAS|id:81073|8890|7900"
+   "SAS|id:81073|8890|7900",
+   "SAS|id:32089|24500|18700"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5312,6 +5313,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/armyanskiy_konyak/81073/",
     "key": "SAS|id:81073|8890|7900"
+   },
+   {
+    "store": "SAS",
+    "title": "Օղի «Beluga Export» 0.7լ",
+    "old": 24500,
+    "new": 18700,
+    "pct": 24,
+    "until": "04.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/importnoe/32089/",
+    "key": "SAS|id:32089|24500|18700"
    }
   ],
   "Yerevan City": [
