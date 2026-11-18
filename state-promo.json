@@ -3120,7 +3120,8 @@
    "Yerevan City|id:116658|790|730",
    "Yerevan City|id:130543|790|395",
    "Yerevan City|id:192698|790|550",
-   "Yerevan City|id:133758|790|550"
+   "Yerevan City|id:133758|790|550",
+   "Yerevan City|id:173737|790|490"
   ]
  },
  "queues": {
@@ -7515,6 +7516,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1152994.png",
     "url": "https://yerevan-city.am/shop/product-details/133758",
     "key": "Yerevan City|id:133758|790|550"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Նեկտար «Սադի Պրիդոնյա» Էքս. բանան-ելակ 0.97լ",
+    "old": 790,
+    "new": 490,
+    "pct": 38,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1167340.png",
+    "url": "https://yerevan-city.am/shop/product-details/173737",
+    "key": "Yerevan City|id:173737|790|490"
    }
   ]
  },
