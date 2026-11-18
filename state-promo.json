@@ -1535,7 +1535,8 @@
    "SAS|id:83033|2990|2350",
    "SAS|id:972187|2750|1920",
    "SAS|id:913221|880|790",
-   "SAS|id:935010|930|790"
+   "SAS|id:935010|930|790",
+   "SAS|id:4221|560|510"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5288,6 +5289,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/328/964/9640742048379655.webp",
     "url": "https://www.sas.am/catalog/yogurt_puding/935010/",
     "key": "SAS|id:935010|930|790"
+   },
+   {
+    "store": "SAS",
+    "title": "Հյութ արևադարձային մրգերի «Fruiting» 238մլ",
+    "old": 560,
+    "new": 510,
+    "pct": 9,
+    "until": "25.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/184/166/1666022918701922.webp",
+    "url": "https://www.sas.am/catalog/sok/4221/",
+    "key": "SAS|id:4221|560|510"
    }
   ],
   "Yerevan City": [
