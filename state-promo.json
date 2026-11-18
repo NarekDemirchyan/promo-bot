@@ -1539,7 +1539,8 @@
    "SAS|id:4221|560|510",
    "SAS|id:972186|2950|2050",
    "SAS|id:100742|2890|2330",
-   "SAS|id:934073|780|680"
+   "SAS|id:934073|780|680",
+   "SAS|id:934070|780|680"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5296,6 +5297,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/yogurt_puding/934073/",
     "key": "SAS|id:934073|780|680"
+   },
+   {
+    "store": "SAS",
+    "title": "Աղանդեր կաթնային մեղրով «Elle & Vire Mon Grec Miel» 125գ",
+    "old": 780,
+    "new": 680,
+    "pct": 13,
+    "until": "27.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/731/323/3233223365026602.webp",
+    "url": "https://www.sas.am/catalog/yogurt_puding/934070/",
+    "key": "SAS|id:934070|780|680"
    }
   ],
   "Yerevan City": [
