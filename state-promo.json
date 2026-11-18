@@ -1537,7 +1537,8 @@
    "SAS|id:913221|880|790",
    "SAS|id:935010|930|790",
    "SAS|id:4221|560|510",
-   "SAS|id:972186|2950|2050"
+   "SAS|id:972186|2950|2050",
+   "SAS|id:100742|2890|2330"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3099,22 +3100,12 @@
    "Yerevan City|id:1299|790|650",
    "Yerevan City|id:4427|790|680",
    "Yerevan City|id:8850|790|710",
-   "Yerevan City|id:11586|790|690"
+   "Yerevan City|id:11586|790|690",
+   "Yerevan City|id:27452|790|395"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կոմպոտ դեղձի «Իջևան» 1լ",
-    "old": 1250,
-    "new": 1150,
-    "pct": 8,
-    "until": "07.01.2027",
-    "img": "https://www.sas.am/upload/Sh/imageCache/381/321/3212111611534723.webp",
-    "url": "https://www.sas.am/catalog/kompot/631496/",
-    "key": "SAS|id:631496|1250|1150"
-   },
    {
     "store": "SAS",
     "title": "Էլեկտրական մարտկոց «Energizer AA LR6» 2հատ",
@@ -5292,6 +5283,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/dlya_polosti_rta/972186/",
     "key": "SAS|id:972186|2950|2050"
+   },
+   {
+    "store": "SAS",
+    "title": "Մարմնի կաթ «Nivea Irresistibly Smooth» 250մլ",
+    "old": 2890,
+    "new": 2330,
+    "pct": 19,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/vse_dlya_ukhoda_za_telom_ustarelo/100742/",
+    "key": "SAS|id:100742|2890|2330"
    }
   ],
   "Yerevan City": [
@@ -7483,12 +7485,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1075332.png",
     "url": "https://yerevan-city.am/shop/product-details/11586",
     "key": "Yerevan City|id:11586|790|690"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տոնածառի խաղալիք «Հրեշտակ» 10սմ",
+    "old": 790,
+    "new": 395,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1074506.png",
+    "url": "https://yerevan-city.am/shop/product-details/27452",
+    "key": "Yerevan City|id:27452|790|395"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-18T05:31:15.373312+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-18T05:47:11.492764+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
