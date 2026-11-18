@@ -1553,7 +1553,8 @@
    "SAS|id:133601|530|480",
    "SAS|id:913235|160|120",
    "SAS|id:179158|1270|1040",
-   "SAS|id:828617|610|490"
+   "SAS|id:828617|610|490",
+   "SAS|id:755085|2590|1800"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5324,6 +5325,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/356/391/391148877568579.webp",
     "url": "https://www.sas.am/catalog/chewingcandy/828617/",
     "key": "SAS|id:828617|610|490"
+   },
+   {
+    "store": "SAS",
+    "title": "Կոնֆետներ աղի կարամելային «Carabreizh» 150գ",
+    "old": 2590,
+    "new": 1800,
+    "pct": 31,
+    "until": "30.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/konfety_v_upakovke/755085/",
+    "key": "SAS|id:755085|2590|1800"
    }
   ],
   "Yerevan City": [
