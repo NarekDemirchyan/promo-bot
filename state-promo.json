@@ -3116,22 +3116,12 @@
    "Yerevan City|id:84207|790|490",
    "Yerevan City|id:91705|790|620",
    "Yerevan City|id:116658|790|730",
-   "Yerevan City|id:130543|790|395"
+   "Yerevan City|id:130543|790|395",
+   "Yerevan City|id:192698|790|550"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Գինի սպիտակ «Արմենիա» 0.75լ",
-    "old": 2290,
-    "new": 2070,
-    "pct": 10,
-    "until": "08.01.2027",
-    "img": "https://www.sas.am/upload/Sh/imageCache/387/702/7029443762337816.webp",
-    "url": "https://www.sas.am/catalog/armyanskoe_vino/29230/",
-    "key": "SAS|id:29230|2290|2070"
-   },
    {
     "store": "SAS",
     "title": "Օղի «Արմենիա Կլասիկ» 0.5լ",
@@ -7511,12 +7501,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1150187.png",
     "url": "https://yerevan-city.am/shop/product-details/130543",
     "key": "Yerevan City|id:130543|790|395"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ջրի շիշ «Հերեվին» ապակե 750մլ",
+    "old": 790,
+    "new": 550,
+    "pct": 30,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176430.png",
+    "url": "https://yerevan-city.am/shop/product-details/192698",
+    "key": "Yerevan City|id:192698|790|550"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-18T10:32:24.740698+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-18T10:47:55.289254+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
