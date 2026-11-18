@@ -3132,7 +3132,8 @@
    "Yerevan City|id:180100|790|460",
    "Yerevan City|id:172211|790|620",
    "Yerevan City|id:9261|790|395",
-   "Yerevan City|id:162087|790|395"
+   "Yerevan City|id:162087|790|395",
+   "Yerevan City|id:162814|790|395"
   ]
  },
  "queues": {
@@ -7527,6 +7528,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1159871.png",
     "url": "https://yerevan-city.am/shop/product-details/162087",
     "key": "Yerevan City|id:162087|790|395"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տոնածառի խաղալիք «Ձեռնափայտ»",
+    "old": 790,
+    "new": 395,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1160452.png",
+    "url": "https://yerevan-city.am/shop/product-details/162814",
+    "key": "Yerevan City|id:162814|790|395"
    }
   ]
  },
