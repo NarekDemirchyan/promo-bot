@@ -3136,7 +3136,8 @@
    "Yerevan City|id:9261|790|395",
    "Yerevan City|id:162087|790|395",
    "Yerevan City|id:162814|790|395",
-   "Yerevan City|id:173720|790|450"
+   "Yerevan City|id:173720|790|450",
+   "Yerevan City|id:173964|790|470"
   ]
  },
  "queues": {
@@ -7531,6 +7532,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1167317.png",
     "url": "https://yerevan-city.am/shop/product-details/173720",
     "key": "Yerevan City|id:173720|790|450"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Զենքի հավաքածու «Ատրճանակ» ինքնաթիռներով",
+    "old": 790,
+    "new": 470,
+    "pct": 41,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1167566.png",
+    "url": "https://yerevan-city.am/shop/product-details/173964",
+    "key": "Yerevan City|id:173964|790|470"
    }
   ]
  },
