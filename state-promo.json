@@ -3130,22 +3130,12 @@
    "Yerevan City|id:133857|790|395",
    "Yerevan City|id:180100|790|460",
    "Yerevan City|id:172211|790|620",
-   "Yerevan City|id:9261|790|395"
+   "Yerevan City|id:9261|790|395",
+   "Yerevan City|id:162087|790|395"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Փրփրուն գինի «Արմենիա» 0.75լ",
-    "old": 2150,
-    "new": 1890,
-    "pct": 12,
-    "until": "08.01.2027",
-    "img": "",
-    "url": "https://www.sas.am/catalog/shampanskoe_igristoe_vino/8145/",
-    "key": "SAS|id:8145|2150|1890"
-   },
    {
     "store": "SAS",
     "title": "Փրփրուն գինի «Արմենիա Ռոզ» 0.75լ",
@@ -7525,12 +7515,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1091999.png",
     "url": "https://yerevan-city.am/shop/product-details/9261",
     "key": "Yerevan City|id:9261|790|395"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ըմպելիք «ԲՎ» Լ-Կարն.2000 լոռամիրգ-կիտ. ա/շ 700մլ",
+    "old": 790,
+    "new": 395,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1159871.png",
+    "url": "https://yerevan-city.am/shop/product-details/162087",
+    "key": "Yerevan City|id:162087|790|395"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-18T14:47:01.152527+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-18T15:02:53.811880+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
