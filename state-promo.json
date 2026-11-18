@@ -1570,7 +1570,8 @@
    "SAS|id:265968|1130|920",
    "SAS|id:97773|5190|4550",
    "SAS|id:754965|4350|3040",
-   "SAS|id:782799|3790|2990"
+   "SAS|id:782799|3790|2990",
+   "SAS|id:931798|3190|2550"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5358,6 +5359,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/frukty_ovoshchi_yagody/782799/",
     "key": "SAS|id:782799|3790|2990"
+   },
+   {
+    "store": "SAS",
+    "title": "Ազնվամորի շոկոլադապատ «Franui Pink Raspberries» 150գ",
+    "old": 3190,
+    "new": 2550,
+    "pct": 20,
+    "until": "30.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/420/684/6845282334001083.webp",
+    "url": "https://www.sas.am/catalog/frukty_ovoshchi_yagody/931798/",
+    "key": "SAS|id:931798|3190|2550"
    }
   ],
   "Yerevan City": [
