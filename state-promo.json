@@ -5305,17 +5305,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Գարեջուր «Աֆանասիյ» Մարոչնոե, չզտված ա/տ 0.5լ",
-    "old": 990,
-    "new": 790,
-    "pct": 20,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1055498.png",
-    "url": "https://yerevan-city.am/shop/product-details/105024",
-    "key": "Yerevan City|id:105024|990|790"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Գարեջուր ոչ ալկոհոլային «Աֆանասիյ» Մարոչնոե 0.5լ",
     "old": 990,
     "new": 790,
@@ -7506,8 +7495,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-18T03:50:09.937134+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-18T04:17:08.811750+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
