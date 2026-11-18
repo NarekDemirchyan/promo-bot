@@ -1536,7 +1536,8 @@
    "SAS|id:972187|2750|1920",
    "SAS|id:913221|880|790",
    "SAS|id:935010|930|790",
-   "SAS|id:4221|560|510"
+   "SAS|id:4221|560|510",
+   "SAS|id:972186|2950|2050"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5290,20 +5291,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/184/166/1666022918701922.webp",
     "url": "https://www.sas.am/catalog/sok/4221/",
     "key": "SAS|id:4221|560|510"
+   },
+   {
+    "store": "SAS",
+    "title": "Ատամի մածուկ «Sensodyne Repair & Protect» 75մլ",
+    "old": 2950,
+    "new": 2050,
+    "pct": 31,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/dlya_polosti_rta/972186/",
+    "key": "SAS|id:972186|2950|2050"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Գարեջուր ոչ ալկոհոլային «Աֆանասիյ» Մարոչնոե 0.5լ",
-    "old": 990,
-    "new": 790,
-    "pct": 20,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1144966.png",
-    "url": "https://yerevan-city.am/shop/product-details/114827",
-    "key": "Yerevan City|id:114827|990|790"
-   },
    {
     "store": "Yerevan City",
     "title": "Գարեջուր «Աֆանասիյ» Պորտեր, մուգ ա/տ 0.5լ",
@@ -7496,8 +7497,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-18T04:32:11.458943+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-18T04:46:57.467451+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
