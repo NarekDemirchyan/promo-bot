@@ -1562,7 +1562,8 @@
    "SAS|id:258487|190|170",
    "SAS|id:258486|190|170",
    "SAS|id:206655|1130|920",
-   "SAS|id:206648|1130|920"
+   "SAS|id:206648|1130|920",
+   "SAS|id:133598|530|480"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5342,6 +5343,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/361/339/3398342373368907.webp",
     "url": "https://www.sas.am/catalog/plitka/206648/",
     "key": "SAS|id:206648|1130|920"
+   },
+   {
+    "store": "SAS",
+    "title": "Թխվածքաբլիթ շոկոլադե միջուկով «Gullon Duo» 145գ",
+    "old": 530,
+    "new": 480,
+    "pct": 9,
+    "until": "30.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/pechene_pryaniki/133598/",
+    "key": "SAS|id:133598|530|480"
    }
   ],
   "Yerevan City": [
