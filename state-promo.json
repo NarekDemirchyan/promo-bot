@@ -1556,7 +1556,8 @@
    "SAS|id:828617|610|490",
    "SAS|id:755085|2590|1800",
    "SAS|id:437184|8690|7690",
-   "SAS|id:186779|1330|1150"
+   "SAS|id:186779|1330|1150",
+   "SAS|id:322151|190|120"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5330,6 +5331,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/importnyy_syr/186779/",
     "key": "SAS|id:186779|1330|1150"
+   },
+   {
+    "store": "SAS",
+    "title": "Անձեռոցիկ խոնավ հակաբակտերիալ «Compact Golf» 15 հատ",
+    "old": 190,
+    "new": 120,
+    "pct": 37,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/vetwip_es/322151/",
+    "key": "SAS|id:322151|190|120"
    }
   ],
   "Yerevan City": [
