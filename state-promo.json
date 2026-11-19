@@ -1606,7 +1606,8 @@
    "SAS|id:103540|990|830",
    "SAS|id:61699|1250|1180",
    "SAS|id:906936|2050|1560",
-   "SAS|id:863849|9890|8790"
+   "SAS|id:863849|9890|8790",
+   "SAS|id:20790|490|430"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5430,6 +5431,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/shampanskoe_igristoe_vino/863849/",
     "key": "SAS|id:863849|9890|8790"
+   },
+   {
+    "store": "SAS",
+    "title": "Շոկոլադե բատոն «Snickers King size» 80գ",
+    "old": 490,
+    "new": 430,
+    "pct": 12,
+    "until": "01.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/257/279/2792611805894938.webp",
+    "url": "https://www.sas.am/catalog/batonchik/20790/",
+    "key": "SAS|id:20790|490|430"
    }
   ],
   "Yerevan City": [
