@@ -1599,7 +1599,8 @@
    "SAS|id:906937|2050|1560",
    "SAS|id:206657|1130|920",
    "SAS|id:267725|2760|2550",
-   "SAS|id:133938|1550|1080"
+   "SAS|id:133938|1550|1080",
+   "SAS|id:206203|5600|3800"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5416,6 +5417,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/pechene_pryaniki/133938/",
     "key": "SAS|id:133938|1550|1080"
+   },
+   {
+    "store": "SAS",
+    "title": "Շոկոլադե սալիկ կաթնային «Lindt» 300գ",
+    "old": 5600,
+    "new": 3800,
+    "pct": 32,
+    "until": "30.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/plitka/206203/",
+    "key": "SAS|id:206203|5600|3800"
    }
   ],
   "Yerevan City": [
