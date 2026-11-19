@@ -1600,7 +1600,8 @@
    "SAS|id:206657|1130|920",
    "SAS|id:267725|2760|2550",
    "SAS|id:133938|1550|1080",
-   "SAS|id:206203|5600|3800"
+   "SAS|id:206203|5600|3800",
+   "SAS|id:204455|2050|1560"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5418,20 +5419,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/plitka/206203/",
     "key": "SAS|id:206203|5600|3800"
+   },
+   {
+    "store": "SAS",
+    "title": "Շամպուն «Syoss Professional Power & Strength» 500մլ",
+    "old": 2050,
+    "new": 1560,
+    "pct": 24,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/dlya_volos2/204455/",
+    "key": "SAS|id:204455|2050|1560"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Գազավորված ջուր «Վոսս» ելակ-կոճապղպեղ թ/տ 330մլ",
-    "old": 890,
-    "new": 445,
-    "pct": 50,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176568.png",
-    "url": "https://yerevan-city.am/shop/product-details/192830",
-    "key": "Yerevan City|id:192830|890|445"
-   },
    {
     "store": "Yerevan City",
     "title": "Գազավորված ջուր «Վոսս» կիտրոն-վարունգ թ/տ 330մլ",
@@ -7624,8 +7625,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-19T22:02:35.442832+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-19T22:17:22.091074+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
