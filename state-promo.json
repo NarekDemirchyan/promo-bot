@@ -3236,22 +3236,12 @@
    "Yerevan City|id:96032|750|550",
    "Yerevan City|id:191569|750|560",
    "Yerevan City|id:5824|990|730",
-   "Yerevan City|id:18339|990|690"
+   "Yerevan City|id:18339|990|690",
+   "Yerevan City|id:158801|990|495"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Երշիկ սալյամի տրյուֆելով «Levoni» 0․224գ",
-    "old": 4490,
-    "new": 2240,
-    "pct": 50,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/kopchenaya_kolbasa/838024/",
-    "key": "SAS|id:838024|4490|2240"
-   },
    {
     "store": "SAS",
     "title": "Բամիա մարինացված «Արտֆուդ» 650գ",
@@ -7631,12 +7621,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1099615.png",
     "url": "https://yerevan-city.am/shop/product-details/18339",
     "key": "Yerevan City|id:18339|990|690"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Նրբերշիկ հնդկահավի «Տոլկո» 380գր",
+    "old": 990,
+    "new": 495,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156444.png",
+    "url": "https://yerevan-city.am/shop/product-details/158801",
+    "key": "Yerevan City|id:158801|990|495"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-20T01:32:33.939222+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-20T01:47:09.684525+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
