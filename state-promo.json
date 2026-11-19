@@ -3218,22 +3218,12 @@
    "Yerevan City|id:15246|750|690",
    "Yerevan City|id:15260|750|690",
    "Yerevan City|id:16397|750|590",
-   "Yerevan City|id:17412|750|660"
+   "Yerevan City|id:17412|750|660",
+   "Yerevan City|id:195137|750|580"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Վարունգ մարինացված «Արտֆուդ» 700գ",
-    "old": 980,
-    "new": 920,
-    "pct": 6,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/ogurtsy/124633/",
-    "key": "SAS|id:124633|980|920"
-   },
    {
     "store": "SAS",
     "title": "Զուգարանի թուղթ «Zewa Deluxe Camomile Comfort» 8 հատ",
@@ -7613,12 +7603,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1084250.png",
     "url": "https://yerevan-city.am/shop/product-details/17412",
     "key": "Yerevan City|id:17412|750|660"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Լվացքի փոշի «Արիել» Լեռնային աղբյուր, ձեռքի 400գր",
+    "old": 750,
+    "new": 580,
+    "pct": 23,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178940.png",
+    "url": "https://yerevan-city.am/shop/product-details/195137",
+    "key": "Yerevan City|id:195137|750|580"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-19T19:32:30.083009+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-19T19:47:00.949193+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
