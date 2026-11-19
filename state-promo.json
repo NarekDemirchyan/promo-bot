@@ -5401,17 +5401,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Գրչատուփ մետաղական գրենական պիտույքներով 529",
-    "old": 890,
-    "new": 390,
-    "pct": 56,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1165961.png",
-    "url": "https://yerevan-city.am/shop/product-details/172384",
-    "key": "Yerevan City|id:172384|890|390"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Ծաղկաման կլոր, պլաստմասե 18х17.5 Պ083-1",
     "old": 890,
     "new": 590,
@@ -7602,8 +7591,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-19T14:47:14.303680+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-19T15:01:19.625850+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
