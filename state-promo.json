@@ -3198,17 +3198,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Շոկոլադե կոնֆետների հավաքածու «Merci Petits» 250գ",
-    "old": 3280,
-    "new": 2350,
-    "pct": 28,
-    "until": "15.01.2027",
-    "img": "https://www.sas.am/upload/Sh/imageCache/234/932/932036903357544.webp",
-    "url": "https://www.sas.am/catalog/nabory_konfet/80523/",
-    "key": "SAS|id:80523|3280|2350"
-   },
-   {
-    "store": "SAS",
     "title": "Աջիկա «Արտֆուդ» 260գ",
     "old": 790,
     "new": 690,
@@ -7601,8 +7590,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-19T10:34:25.686383+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-19T11:02:30.466285+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
