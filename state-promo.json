@@ -1609,7 +1609,8 @@
    "SAS|id:863849|9890|8790",
    "SAS|id:20790|490|430",
    "SAS|id:20765|320|290",
-   "SAS|id:3435|1610|1290"
+   "SAS|id:3435|1610|1290",
+   "SAS|id:180068|2390|2120"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3248,17 +3249,6 @@
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Թխվածքաբլիթ վանիլային միջուկով «Pingo Doce Cookies & Cream» 154գ",
-    "old": 650,
-    "new": 320,
-    "pct": 51,
-    "until": "30.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/407/467/4679143356809663.webp",
-    "url": "https://www.sas.am/catalog/pechene_pryaniki/918283/",
-    "key": "SAS|id:918283|650|320"
-   },
    {
     "store": "SAS",
     "title": "Շոկոլադե կոնֆետներ «Condorelli Lune» 120գ",
@@ -5436,20 +5426,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/moloko/3435/",
     "key": "SAS|id:3435|1610|1290"
+   },
+   {
+    "store": "SAS",
+    "title": "Պանիր կամամբեր «President» 125գ",
+    "old": 2390,
+    "new": 2120,
+    "pct": 11,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/importnyy_syr/180068/",
+    "key": "SAS|id:180068|2390|2120"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Բիսքվիթ «Բարնի» արջուկ, շոկոլադե միջ. 5հտ 30գր",
-    "old": 860,
-    "new": 590,
-    "pct": 31,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1052149.png",
-    "url": "https://yerevan-city.am/shop/product-details/6402",
-    "key": "Yerevan City|id:6402|860|590"
-   },
    {
     "store": "Yerevan City",
     "title": "Կանաչ ոլոռ «Տոպ Սան» ա/տ 700գր",
@@ -7643,7 +7633,7 @@
  },
  "seeded": true,
  "rr": 1,
- "last_publish": "2026-11-20T03:31:11.909380+04:00",
+ "last_publish": "2026-11-20T03:47:12.361333+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
