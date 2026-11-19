@@ -1594,7 +1594,8 @@
    "SAS|id:604847|4790|4550",
    "SAS|id:20202|2460|1230",
    "SAS|id:276548|2460|2290",
-   "SAS|id:916549|2090|1650"
+   "SAS|id:916549|2090|1650",
+   "SAS|id:906938|2050|1560"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5406,20 +5407,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/import_morozenoe/916549/",
     "key": "SAS|id:916549|2090|1650"
+   },
+   {
+    "store": "SAS",
+    "title": "Մազերի կոնդիցիոներ «Syoss Intense Repair» 250մլ",
+    "old": 2050,
+    "new": 1560,
+    "pct": 24,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/balzam_dlya_volos/906938/",
+    "key": "SAS|id:906938|2050|1560"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Տիկնիկ ՍՆ777Ա5",
-    "old": 890,
-    "new": 690,
-    "pct": 22,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178869.png",
-    "url": "https://yerevan-city.am/shop/product-details/195069",
-    "key": "Yerevan City|id:195069|890|690"
-   },
    {
     "store": "Yerevan City",
     "title": "Կաթ պարունակող մթերք «ՄարիՄոլոկո» 8.5% 450գր",
@@ -7612,8 +7613,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-19T18:02:31.049668+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-19T18:17:13.606422+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
