@@ -3192,22 +3192,12 @@
    "Yerevan City|id:11379|770|670",
    "Yerevan City|id:179707|770|620",
    "Yerevan City|id:11315|770|385",
-   "Yerevan City|id:170958|760|640"
+   "Yerevan City|id:170958|760|640",
+   "Yerevan City|id:8441|760|620"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Աջիկա «Արտֆուդ» 260գ",
-    "old": 790,
-    "new": 690,
-    "pct": 13,
-    "until": "31.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/913/209/209293658412664.webp",
-    "url": "https://www.sas.am/catalog/baklazhan/16113/",
-    "key": "SAS|id:16113|790|690"
-   },
    {
     "store": "SAS",
     "title": "Վարունգ մարինացված «Արտֆուդ» 980գ",
@@ -7587,12 +7577,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1164625.png",
     "url": "https://yerevan-city.am/shop/product-details/170958",
     "key": "Yerevan City|id:170958|760|640"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սպունգ սպասքի համար «Վիլեդա» տիպ տոպ 3հտ",
+    "old": 760,
+    "new": 620,
+    "pct": 18,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1015558.png",
+    "url": "https://yerevan-city.am/shop/product-details/8441",
+    "key": "Yerevan City|id:8441|760|620"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-19T11:17:05.315854+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-19T11:32:28.746135+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
