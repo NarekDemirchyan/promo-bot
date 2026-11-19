@@ -3194,17 +3194,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Լոգանքի փրփուր «Malizia» 1լ",
-    "old": 2250,
-    "new": 1590,
-    "pct": 29,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/488/914/9144861991515466.webp",
-    "url": "https://www.sas.am/catalog/showergell/35618/",
-    "key": "SAS|id:35618|2250|1590"
-   },
-   {
-    "store": "SAS",
     "title": "Շոկոլադե կոնֆետների հավաքածու «Merci» 250գ",
     "old": 3280,
     "new": 2350,
@@ -7597,8 +7586,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-19T09:20:06.290749+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-19T09:47:01.742817+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
