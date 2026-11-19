@@ -1585,7 +1585,8 @@
    "SAS|id:587325|9890|8790",
    "SAS|id:925527|3550|3150",
    "SAS|id:925502|4050|3580",
-   "SAS|id:204476|2050|1560"
+   "SAS|id:204476|2050|1560",
+   "SAS|id:20207|1690|1100"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5388,20 +5389,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/294/520/5203993859336918.webp",
     "url": "https://www.sas.am/catalog/dlya_volos2/204476/",
     "key": "SAS|id:204476|2050|1560"
+   },
+   {
+    "store": "SAS",
+    "title": "Էլեկտրական մարտկոց «Energizer max plus AAA» 4հատ",
+    "old": 1690,
+    "new": 1100,
+    "pct": 35,
+    "until": "04.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/batareyka/20207/",
+    "key": "SAS|id:20207|1690|1100"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Զուգարանակոնքի թարմաց. «Բրեֆ» նարդոս 50գր",
-    "old": 890,
-    "new": 780,
-    "pct": 12,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1028089.png",
-    "url": "https://yerevan-city.am/shop/product-details/72712",
-    "key": "Yerevan City|id:72712|890|780"
-   },
    {
     "store": "Yerevan City",
     "title": "Հյութ «Իջևան» գազար և դդում ա/տ 1լ",
@@ -7594,8 +7595,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-19T12:17:02.301525+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-19T12:32:16.626229+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
