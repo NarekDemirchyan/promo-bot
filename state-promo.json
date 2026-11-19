@@ -3242,17 +3242,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Մարինադ ասորտի «Արտֆուդ» 700գ",
-    "old": 1150,
-    "new": 1070,
-    "pct": 7,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/baklazhan/940139/",
-    "key": "SAS|id:940139|1150|1070"
-   },
-   {
-    "store": "SAS",
     "title": "Երշիկ սալյամի տրյուֆելով «Levoni» 0․224գ",
     "old": 4490,
     "new": 2240,
@@ -7645,8 +7634,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-20T00:49:31.953945+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-20T01:17:18.089769+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
