@@ -1602,7 +1602,8 @@
    "SAS|id:133938|1550|1080",
    "SAS|id:206203|5600|3800",
    "SAS|id:204455|2050|1560",
-   "SAS|id:541190|980|880"
+   "SAS|id:541190|980|880",
+   "SAS|id:103540|990|830"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5422,20 +5423,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/846/404/4042422974906174.webp",
     "url": "https://www.sas.am/catalog/sgushchennoe_moloko/541190/",
     "key": "SAS|id:541190|980|880"
+   },
+   {
+    "store": "SAS",
+    "title": "Հեղուկ օճառ «Malizia» 300մլ",
+    "old": 990,
+    "new": 830,
+    "pct": 16,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/liqsoup/103540/",
+    "key": "SAS|id:103540|990|830"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Գազավորված ջուր «Վոսս» լայմ-անանուխ թ/տ 330մլ",
-    "old": 890,
-    "new": 350,
-    "pct": 61,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176570.png",
-    "url": "https://yerevan-city.am/shop/product-details/192832",
-    "key": "Yerevan City|id:192832|890|350"
-   },
    {
     "store": "Yerevan City",
     "title": "Մարինացված վարունգ «Արտֆուդ» 700գր",
@@ -7628,8 +7629,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-19T23:17:15.072540+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-19T23:36:33.956166+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
