@@ -3176,7 +3176,8 @@
    "Yerevan City|id:7138|850|795",
    "Yerevan City|id:69485|830|780",
    "Yerevan City|id:6903|790|550",
-   "Yerevan City|id:6415|780|575"
+   "Yerevan City|id:6415|780|575",
+   "Yerevan City|id:14495|780|710"
   ]
  },
  "queues": {
@@ -7571,6 +7572,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1045712.png",
     "url": "https://yerevan-city.am/shop/product-details/6415",
     "key": "Yerevan City|id:6415|780|575"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մարինացված վարունգ «ԱՊԳ» 700գր",
+    "old": 780,
+    "new": 710,
+    "pct": 9,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1063943.png",
+    "url": "https://yerevan-city.am/shop/product-details/14495",
+    "key": "Yerevan City|id:14495|780|710"
    }
   ]
  },
