@@ -3226,22 +3226,12 @@
    "Yerevan City|id:195137|750|580",
    "Yerevan City|id:69322|750|650",
    "Yerevan City|id:70086|750|350",
-   "Yerevan City|id:170157|750|590"
+   "Yerevan City|id:170157|750|590",
+   "Yerevan City|id:173285|750|490"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շոկոլադե սալիկ կաթնային «Milka Noisette» 100գ",
-    "old": 820,
-    "new": 410,
-    "pct": 50,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/plitka/206698/",
-    "key": "SAS|id:206698|820|410"
-   },
    {
     "store": "SAS",
     "title": "Կանաչ ոլոռ «ԱՊԳ» 720գ",
@@ -7621,12 +7611,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1163892.png",
     "url": "https://yerevan-city.am/shop/product-details/170157",
     "key": "Yerevan City|id:170157|750|590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շոկոլադե սալիկ «Միլկա» Նոյսիթ 90գր",
+    "old": 750,
+    "new": 490,
+    "pct": 35,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1166876.png",
+    "url": "https://yerevan-city.am/shop/product-details/173285",
+    "key": "Yerevan City|id:173285|750|490"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-19T22:17:22.091074+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-19T22:34:58.948194+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
