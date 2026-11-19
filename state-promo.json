@@ -3216,7 +3216,8 @@
    "Yerevan City|id:7110|750|660",
    "Yerevan City|id:15246|750|690",
    "Yerevan City|id:15260|750|690",
-   "Yerevan City|id:16397|750|590"
+   "Yerevan City|id:16397|750|590",
+   "Yerevan City|id:17412|750|660"
   ]
  },
  "queues": {
@@ -7611,6 +7612,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1087361.png",
     "url": "https://yerevan-city.am/shop/product-details/16397",
     "key": "Yerevan City|id:16397|750|590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սպիտակեցնող միջոց «Աս» դասական 1լ",
+    "old": 750,
+    "new": 660,
+    "pct": 12,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1084250.png",
+    "url": "https://yerevan-city.am/shop/product-details/17412",
+    "key": "Yerevan City|id:17412|750|660"
    }
   ]
  },
