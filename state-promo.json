@@ -3214,22 +3214,12 @@
    "Yerevan City|id:2789|750|690",
    "Yerevan City|id:7110|750|660",
    "Yerevan City|id:15246|750|690",
-   "Yerevan City|id:15260|750|690"
+   "Yerevan City|id:15260|750|690",
+   "Yerevan City|id:16397|750|590"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Աջիկա «Արտֆուդ» 520գ",
-    "old": 1150,
-    "new": 1020,
-    "pct": 11,
-    "until": "31.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/302/284/284835157090095.webp",
-    "url": "https://www.sas.am/catalog/baklazhan/16115/",
-    "key": "SAS|id:16115|1150|1020"
-   },
    {
     "store": "SAS",
     "title": "Աջիկա «Արտֆուդ» 380գ",
@@ -7609,12 +7599,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1066709.png",
     "url": "https://yerevan-city.am/shop/product-details/15260",
     "key": "Yerevan City|id:15260|750|690"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Դրաժե «Գրանդ Քենդի» Ջոյկո, Կովիկ 150գր",
+    "old": 750,
+    "new": 590,
+    "pct": 21,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1087361.png",
+    "url": "https://yerevan-city.am/shop/product-details/16397",
+    "key": "Yerevan City|id:16397|750|590"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-19T18:17:13.606422+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-19T18:32:36.474252+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
