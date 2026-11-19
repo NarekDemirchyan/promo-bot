@@ -1579,7 +1579,8 @@
    "SAS|id:37980|560|530",
    "SAS|id:827792|3190|2550",
    "SAS|id:782805|3790|2990",
-   "SAS|id:39361|1450|1220"
+   "SAS|id:39361|1450|1220",
+   "SAS|id:782804|3790|2990"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5376,6 +5377,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/antiperspirantt/39361/",
     "key": "SAS|id:39361|1450|1220"
+   },
+   {
+    "store": "SAS",
+    "title": "Ազնվամորի սպիտակ և կաթնային շոկոլադով «Frambini» 130գ",
+    "old": 3790,
+    "new": 2990,
+    "pct": 21,
+    "until": "30.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/frukty_ovoshchi_yagody/782804/",
+    "key": "SAS|id:782804|3790|2990"
    }
   ],
   "Yerevan City": [
