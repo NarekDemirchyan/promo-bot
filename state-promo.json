@@ -3186,7 +3186,8 @@
    "Yerevan City|id:115011|780|680",
    "Yerevan City|id:195058|780|520",
    "Yerevan City|id:1951|770|680",
-   "Yerevan City|id:11379|770|670"
+   "Yerevan City|id:11379|770|670",
+   "Yerevan City|id:179707|770|620"
   ]
  },
  "queues": {
@@ -7581,6 +7582,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1021185.png",
     "url": "https://yerevan-city.am/shop/product-details/11379",
     "key": "Yerevan City|id:11379|770|670"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Աղբի պարկեր «Վորտեքս» ձգաններով, նարդոս 60լ 10հտ",
+    "old": 770,
+    "new": 620,
+    "pct": 19,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173426.png",
+    "url": "https://yerevan-city.am/shop/product-details/179707",
+    "key": "Yerevan City|id:179707|770|620"
    }
   ]
  },
