@@ -3190,17 +3190,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Պանիր պինդ «Reypenaer Natuurlijke» 140գ",
-    "old": 3350,
-    "new": 1670,
-    "pct": 50,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/importnyy_syr/924954/",
-    "key": "SAS|id:924954|3350|1670"
-   },
-   {
-    "store": "SAS",
     "title": "Բալ սպիտակ շոկոլադով «Oswald Schofrulade» 130գ",
     "old": 3350,
     "new": 2340,
@@ -7593,8 +7582,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-19T08:04:51.672136+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-19T08:23:30.050371+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
