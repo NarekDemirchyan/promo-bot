@@ -3180,22 +3180,12 @@
    "Yerevan City|id:6903|790|550",
    "Yerevan City|id:6415|780|575",
    "Yerevan City|id:14495|780|710",
-   "Yerevan City|id:115011|780|680"
+   "Yerevan City|id:115011|780|680",
+   "Yerevan City|id:195058|780|520"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Թխվածքաբլիթ շոկոլադե «Grisbi L’Original Chocolate» 150գ",
-    "old": 2010,
-    "new": 1640,
-    "pct": 18,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/pechene_pryaniki/965813/",
-    "key": "SAS|id:965813|2010|1640"
-   },
    {
     "store": "SAS",
     "title": "Պանիր պինդ «Reypenaer Natuurlijke» 140գ",
@@ -7575,12 +7565,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1145145.png",
     "url": "https://yerevan-city.am/shop/product-details/115011",
     "key": "Yerevan City|id:115011|780|680"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սոուս «Արկաֆա» հայկական սալսա 360գր",
+    "old": 780,
+    "new": 520,
+    "pct": 33,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178857.png",
+    "url": "https://yerevan-city.am/shop/product-details/195058",
+    "key": "Yerevan City|id:195058|780|520"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-19T07:32:17.462522+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-19T07:47:02.526274+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
