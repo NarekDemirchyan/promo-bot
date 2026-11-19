@@ -3182,7 +3182,8 @@
    "Yerevan City|id:6415|780|575",
    "Yerevan City|id:14495|780|710",
    "Yerevan City|id:115011|780|680",
-   "Yerevan City|id:195058|780|520"
+   "Yerevan City|id:195058|780|520",
+   "Yerevan City|id:1951|770|680"
   ]
  },
  "queues": {
@@ -7577,6 +7578,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178857.png",
     "url": "https://yerevan-city.am/shop/product-details/195058",
     "key": "Yerevan City|id:195058|780|520"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Անձեռոցիկներ «Զեվա» Քլին Սոֆթ, եռաշերտ 90հտ",
+    "old": 770,
+    "new": 680,
+    "pct": 12,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1016802.png",
+    "url": "https://yerevan-city.am/shop/product-details/1951",
+    "key": "Yerevan City|id:1951|770|680"
    }
   ]
  },
