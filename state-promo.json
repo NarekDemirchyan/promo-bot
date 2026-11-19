@@ -3220,7 +3220,8 @@
    "Yerevan City|id:15260|750|690",
    "Yerevan City|id:16397|750|590",
    "Yerevan City|id:17412|750|660",
-   "Yerevan City|id:195137|750|580"
+   "Yerevan City|id:195137|750|580",
+   "Yerevan City|id:69322|750|650"
   ]
  },
  "queues": {
@@ -7615,6 +7616,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178940.png",
     "url": "https://yerevan-city.am/shop/product-details/195137",
     "key": "Yerevan City|id:195137|750|580"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շոկ.սալիկ «Միլկա» կաթ.շոկ-յոգուրտ 100գր",
+    "old": 750,
+    "new": 650,
+    "pct": 13,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1113863.png",
+    "url": "https://yerevan-city.am/shop/product-details/69322",
+    "key": "Yerevan City|id:69322|750|650"
    }
   ]
  },
