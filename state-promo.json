@@ -3212,22 +3212,12 @@
    "Yerevan City|id:1036|750|660",
    "Yerevan City|id:2789|750|690",
    "Yerevan City|id:7110|750|660",
-   "Yerevan City|id:15246|750|690"
+   "Yerevan City|id:15246|750|690",
+   "Yerevan City|id:15260|750|690"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Պղպեղ կարմիր մարինացված «Արտֆուդ» 700գ",
-    "old": 1120,
-    "new": 1020,
-    "pct": 9,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/baklazhan/132305/",
-    "key": "SAS|id:132305|1120|1020"
-   },
    {
     "store": "SAS",
     "title": "Աջիկա «Արտֆուդ» 520գ",
@@ -7607,12 +7597,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1066710.png",
     "url": "https://yerevan-city.am/shop/product-details/15246",
     "key": "Yerevan City|id:15246|750|690"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մաքրող միջոց «Նաշ Սադ» կապույտ 750մլ",
+    "old": 750,
+    "new": 690,
+    "pct": 8,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1066709.png",
+    "url": "https://yerevan-city.am/shop/product-details/15260",
+    "key": "Yerevan City|id:15260|750|690"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-19T17:46:36.010110+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-19T18:02:31.049668+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
