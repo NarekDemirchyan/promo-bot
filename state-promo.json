@@ -1575,7 +1575,8 @@
    "SAS|id:827793|3190|2550",
    "SAS|id:900743|2090|1650",
    "SAS|id:900741|2090|1650",
-   "SAS|id:870129|3990|3090"
+   "SAS|id:870129|3990|3090",
+   "SAS|id:37980|560|530"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5368,6 +5369,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/123/538/5385401650573691.webp",
     "url": "https://www.sas.am/catalog/frukty_ovoshchi_yagody/870129/",
     "key": "SAS|id:870129|3990|3090"
+   },
+   {
+    "store": "SAS",
+    "title": "Շամպինյոն մարինացված կտրտած «Coopoliva» 400գ",
+    "old": 560,
+    "new": 530,
+    "pct": 5,
+    "until": "31.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/gribnye_konservy/37980/",
+    "key": "SAS|id:37980|560|530"
    }
   ],
   "Yerevan City": [
