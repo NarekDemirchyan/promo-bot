@@ -3224,22 +3224,12 @@
    "Yerevan City|id:17412|750|660",
    "Yerevan City|id:195137|750|580",
    "Yerevan City|id:69322|750|650",
-   "Yerevan City|id:70086|750|350"
+   "Yerevan City|id:70086|750|350",
+   "Yerevan City|id:170157|750|590"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Պիցցա սառեցված «Dr.Oetker Ristorante Diavola» 350գ",
-    "old": 3140,
-    "new": 1570,
-    "pct": 50,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/pitstsa/356244/",
-    "key": "SAS|id:356244|3140|1570"
-   },
    {
     "store": "SAS",
     "title": "Շոկոլադե սալիկ կաթնային «Milka Noisette» 100գ",
@@ -7619,12 +7609,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1114158.png",
     "url": "https://yerevan-city.am/shop/product-details/70086",
     "key": "Yerevan City|id:70086|750|350"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շոկ.սալիկ «Միլկա» չամիչ և անտառային ընկույզ 90գր",
+    "old": 750,
+    "new": 590,
+    "pct": 21,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1163892.png",
+    "url": "https://yerevan-city.am/shop/product-details/170157",
+    "key": "Yerevan City|id:170157|750|590"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-19T21:47:07.103685+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-19T22:02:35.442832+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
