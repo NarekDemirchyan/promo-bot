@@ -1589,7 +1589,8 @@
    "SAS|id:20207|1690|1100",
    "SAS|id:678646|3250|2650",
    "SAS|id:206654|1130|920",
-   "SAS|id:854746|5990|2995"
+   "SAS|id:854746|5990|2995",
+   "SAS|id:89220|570|530"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3203,22 +3204,12 @@
    "Yerevan City|id:1235|760|590",
    "Yerevan City|id:17399|760|590",
    "Yerevan City|id:50594|760|590",
-   "Yerevan City|id:193495|760|590"
+   "Yerevan City|id:193495|760|590",
+   "Yerevan City|id:1036|750|660"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շոկոլադե կոնֆետների հավաքածու «Merci» 210գ",
-    "old": 3280,
-    "new": 2350,
-    "pct": 28,
-    "until": "15.01.2027",
-    "img": "https://www.sas.am/upload/Sh/imageCache/176/387/3876502057645939.webp",
-    "url": "https://www.sas.am/catalog/nabory_konfet/3540/",
-    "key": "SAS|id:3540|3280|2350"
-   },
    {
     "store": "SAS",
     "title": "Շոկոլադե կոնֆետների հավաքածու «Merci» 250գ",
@@ -5396,6 +5387,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/112/418/4180572418854616.webp",
     "url": "https://www.sas.am/catalog/armyanskoe_vino/854746/",
     "key": "SAS|id:854746|5990|2995"
+   },
+   {
+    "store": "SAS",
+    "title": "Եգիպտացորեն «Coopoliva» 340գ",
+    "old": 570,
+    "new": 530,
+    "pct": 7,
+    "until": "31.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/goroshek/89220/",
+    "key": "SAS|id:89220|570|530"
    }
   ],
   "Yerevan City": [
@@ -7587,12 +7589,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177255.png",
     "url": "https://yerevan-city.am/shop/product-details/193495",
     "key": "Yerevan City|id:193495|760|590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հյութ «Արտֆուդ» լոլիկ ա/տ 1լ",
+    "old": 750,
+    "new": 660,
+    "pct": 12,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1046985.png",
+    "url": "https://yerevan-city.am/shop/product-details/1036",
+    "key": "Yerevan City|id:1036|750|660"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-19T15:01:19.625850+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-19T15:19:25.079733+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
