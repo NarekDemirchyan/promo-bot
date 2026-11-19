@@ -3170,22 +3170,12 @@
    "Yerevan City|id:16162|850|780",
    "Yerevan City|id:7113|850|795",
    "Yerevan City|id:2734|850|425",
-   "Yerevan City|id:7138|850|795"
+   "Yerevan City|id:7138|850|795",
+   "Yerevan City|id:69485|830|780"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Փրփրուն գինի «Տակառ Extra Brut» 0.75լ",
-    "old": 5050,
-    "new": 4600,
-    "pct": 9,
-    "until": "08.01.2027",
-    "img": "",
-    "url": "https://www.sas.am/catalog/shampanskoe_igristoe_vino/4742/",
-    "key": "SAS|id:4742|5050|4600"
-   },
    {
     "store": "SAS",
     "title": "Փրփրուն գինի «Տակառ Rose» 0.75լ",
@@ -7565,12 +7555,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1048685.png",
     "url": "https://yerevan-city.am/shop/product-details/7138",
     "key": "Yerevan City|id:7138|850|795"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մարինացված վարունգ «Օտ Գուրմանա» չիլի 3-6սմ 460գր",
+    "old": 830,
+    "new": 780,
+    "pct": 6,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1113944.png",
+    "url": "https://yerevan-city.am/shop/product-details/69485",
+    "key": "Yerevan City|id:69485|830|780"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-19T04:04:13.284375+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-19T04:20:56.963458+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
@@ -7579,7 +7580,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 65,
+ "city_page": 66,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
