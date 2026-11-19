@@ -3200,22 +3200,12 @@
    "Yerevan City|id:8441|760|620",
    "Yerevan City|id:179710|760|620",
    "Yerevan City|id:1235|760|590",
-   "Yerevan City|id:17399|760|590"
+   "Yerevan City|id:17399|760|590",
+   "Yerevan City|id:50594|760|590"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կորնիշոններ մարինացված կծու «Արտֆուդ» 350գ",
-    "old": 810,
-    "new": 690,
-    "pct": 15,
-    "until": "31.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/153/366/366360340985785.webp",
-    "url": "https://www.sas.am/catalog/ogurtsy/711705/",
-    "key": "SAS|id:711705|810|690"
-   },
    {
     "store": "SAS",
     "title": "Գինի կարմիր «Տակառ Արենի Կաբերնե Ֆրան» 0.75լ",
@@ -7595,12 +7585,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1051700.png",
     "url": "https://yerevan-city.am/shop/product-details/17399",
     "key": "Yerevan City|id:17399|760|590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մակարոն-ժապավեն «Բարիլլա» №65 400գր",
+    "old": 760,
+    "new": 590,
+    "pct": 22,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1099947.png",
+    "url": "https://yerevan-city.am/shop/product-details/50594",
+    "key": "Yerevan City|id:50594|760|590"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-19T13:47:17.564839+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-19T14:05:37.719561+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
