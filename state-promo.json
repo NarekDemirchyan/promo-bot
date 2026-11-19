@@ -3234,7 +3234,8 @@
    "Yerevan City|id:173285|750|490",
    "Yerevan City|id:96032|750|550",
    "Yerevan City|id:191569|750|560",
-   "Yerevan City|id:5824|990|730"
+   "Yerevan City|id:5824|990|730",
+   "Yerevan City|id:18339|990|690"
   ]
  },
  "queues": {
@@ -7629,6 +7630,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1045021.png",
     "url": "https://yerevan-city.am/shop/product-details/5824",
     "key": "Yerevan City|id:5824|990|730"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կաթնային կոկտեյլ «Պարմալատ» Կապուչինո 500մլ",
+    "old": 990,
+    "new": 690,
+    "pct": 30,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1099615.png",
+    "url": "https://yerevan-city.am/shop/product-details/18339",
+    "key": "Yerevan City|id:18339|990|690"
    }
   ]
  },
