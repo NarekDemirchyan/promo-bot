@@ -1582,7 +1582,8 @@
    "SAS|id:39361|1450|1220",
    "SAS|id:782804|3790|2990",
    "SAS|id:587326|11900|10500",
-   "SAS|id:587325|9890|8790"
+   "SAS|id:587325|9890|8790",
+   "SAS|id:925527|3550|3150"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5382,20 +5383,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/shampanskoe_igristoe_vino/587325/",
     "key": "SAS|id:587325|9890|8790"
+   },
+   {
+    "store": "SAS",
+    "title": "Ջեռոցը մաքրող միջոց «Diversey Grill» 750մլ",
+    "old": 3550,
+    "new": 3150,
+    "pct": 11,
+    "until": "10.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/640/272/272647408240519.webp",
+    "url": "https://www.sas.am/catalog/forthekitchen/925527/",
+    "key": "SAS|id:925527|3550|3150"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Միջադիրներ «Լիբրես» ուլտրա, էքստրա, գիշերային 8հտ",
-    "old": 910,
-    "new": 810,
-    "pct": 11,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1110523.png",
-    "url": "https://yerevan-city.am/shop/product-details/57510",
-    "key": "Yerevan City|id:57510|910|810"
-   },
    {
     "store": "Yerevan City",
     "title": "Կանաչ ոլոռ «Արտֆուդ» ա/տ 720գր",
@@ -7588,8 +7589,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-19T10:17:05.270501+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-19T10:34:25.686383+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
