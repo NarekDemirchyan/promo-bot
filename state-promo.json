@@ -1601,7 +1601,8 @@
    "SAS|id:267725|2760|2550",
    "SAS|id:133938|1550|1080",
    "SAS|id:206203|5600|3800",
-   "SAS|id:204455|2050|1560"
+   "SAS|id:204455|2050|1560",
+   "SAS|id:541190|980|880"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5420,6 +5421,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/dlya_volos2/204455/",
     "key": "SAS|id:204455|2050|1560"
+   },
+   {
+    "store": "SAS",
+    "title": "Խտացրած կաթ եփած շաքարով «Коровка из Кореновки» 360գ, յուղայնությունը` 8.5",
+    "old": 980,
+    "new": 880,
+    "pct": 10,
+    "until": "31.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/846/404/4042422974906174.webp",
+    "url": "https://www.sas.am/catalog/sgushchennoe_moloko/541190/",
+    "key": "SAS|id:541190|980|880"
    }
   ],
   "Yerevan City": [
