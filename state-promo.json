@@ -3210,7 +3210,8 @@
    "Yerevan City|id:193495|760|590",
    "Yerevan City|id:1036|750|660",
    "Yerevan City|id:2789|750|690",
-   "Yerevan City|id:7110|750|660"
+   "Yerevan City|id:7110|750|660",
+   "Yerevan City|id:15246|750|690"
   ]
  },
  "queues": {
@@ -7605,6 +7606,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1074028.png",
     "url": "https://yerevan-city.am/shop/product-details/7110",
     "key": "Yerevan City|id:7110|750|660"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մաքրող միջոց «Նաշ Սադ» կանաչ 750մլ",
+    "old": 750,
+    "new": 690,
+    "pct": 8,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1066710.png",
+    "url": "https://yerevan-city.am/shop/product-details/15246",
+    "key": "Yerevan City|id:15246|750|690"
    }
   ]
  },
