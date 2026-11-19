@@ -3230,7 +3230,8 @@
    "Yerevan City|id:70086|750|350",
    "Yerevan City|id:170157|750|590",
    "Yerevan City|id:173285|750|490",
-   "Yerevan City|id:96032|750|550"
+   "Yerevan City|id:96032|750|550",
+   "Yerevan City|id:191569|750|560"
   ]
  },
  "queues": {
@@ -7625,6 +7626,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1132045.png",
     "url": "https://yerevan-city.am/shop/product-details/96032",
     "key": "Yerevan City|id:96032|750|550"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Յոգուրտ հունական «Վեննս» 0.1% 130գր",
+    "old": 750,
+    "new": 560,
+    "pct": 25,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175242.png",
+    "url": "https://yerevan-city.am/shop/product-details/191569",
+    "key": "Yerevan City|id:191569|750|560"
    }
   ]
  },
