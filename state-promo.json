@@ -3190,7 +3190,8 @@
    "Yerevan City|id:1951|770|680",
    "Yerevan City|id:11379|770|670",
    "Yerevan City|id:179707|770|620",
-   "Yerevan City|id:11315|770|385"
+   "Yerevan City|id:11315|770|385",
+   "Yerevan City|id:170958|760|640"
   ]
  },
  "queues": {
@@ -7585,6 +7586,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1084026.png",
     "url": "https://yerevan-city.am/shop/product-details/11315",
     "key": "Yerevan City|id:11315|770|385"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մարինացված սունկ «Լորադո» տեսականի ա/տ 314մլ",
+    "old": 760,
+    "new": 640,
+    "pct": 16,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1164625.png",
+    "url": "https://yerevan-city.am/shop/product-details/170958",
+    "key": "Yerevan City|id:170958|760|640"
    }
   ]
  },
