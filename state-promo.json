@@ -3174,22 +3174,12 @@
    "Yerevan City|id:2734|850|425",
    "Yerevan City|id:7138|850|795",
    "Yerevan City|id:69485|830|780",
-   "Yerevan City|id:6903|790|550"
+   "Yerevan City|id:6903|790|550",
+   "Yerevan City|id:6415|780|575"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Թեյ սև «Ahmad Tea» 20*2գ",
-    "old": 1590,
-    "new": 1120,
-    "pct": 30,
-    "until": "20.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/v_paketakh/197983/",
-    "key": "SAS|id:197983|1590|1120"
-   },
    {
     "store": "SAS",
     "title": "Էլեկտրական մարտկոց «Energizer MAX +Power Seal AAA» 4 հատ",
@@ -7569,12 +7559,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1009674.png",
     "url": "https://yerevan-city.am/shop/product-details/6903",
     "key": "Yerevan City|id:6903|790|550"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կաթ պարունակող մթերք «Իչնյա» 8.5% թ/տ 370գր",
+    "old": 780,
+    "new": 575,
+    "pct": 26,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1045712.png",
+    "url": "https://yerevan-city.am/shop/product-details/6415",
+    "key": "Yerevan City|id:6415|780|575"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-19T05:17:00.764433+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-19T05:34:59.929130+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
@@ -7583,7 +7584,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 66,
+ "city_page": 67,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
