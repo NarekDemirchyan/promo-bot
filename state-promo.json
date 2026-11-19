@@ -3198,7 +3198,8 @@
    "Yerevan City|id:170958|760|640",
    "Yerevan City|id:8441|760|620",
    "Yerevan City|id:179710|760|620",
-   "Yerevan City|id:1235|760|590"
+   "Yerevan City|id:1235|760|590",
+   "Yerevan City|id:17399|760|590"
   ]
  },
  "queues": {
@@ -7593,6 +7594,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1045532.png",
     "url": "https://yerevan-city.am/shop/product-details/1235",
     "key": "Yerevan City|id:1235|760|590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սպագետտի «Բարիլլա» №1 500գր",
+    "old": 760,
+    "new": 590,
+    "pct": 22,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1051700.png",
+    "url": "https://yerevan-city.am/shop/product-details/17399",
+    "key": "Yerevan City|id:17399|760|590"
    }
   ]
  },
