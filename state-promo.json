@@ -1598,7 +1598,8 @@
    "SAS|id:906938|2050|1560",
    "SAS|id:906937|2050|1560",
    "SAS|id:206657|1130|920",
-   "SAS|id:267725|2760|2550"
+   "SAS|id:267725|2760|2550",
+   "SAS|id:133938|1550|1080"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5414,20 +5415,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/armyanskoe_vino/267725/",
     "key": "SAS|id:267725|2760|2550"
+   },
+   {
+    "store": "SAS",
+    "title": "Թխվածքաբլիթ տիրամիսուի համար «Matilde Vicenzi Vicenzovo» 200գ",
+    "old": 1550,
+    "new": 1080,
+    "pct": 30,
+    "until": "30.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/pechene_pryaniki/133938/",
+    "key": "SAS|id:133938|1550|1080"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Խոնավ զուգարանի թուղթ «Զեվա» բնական երիցուկ 42հտ",
-    "old": 890,
-    "new": 790,
-    "pct": 11,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1065235.png",
-    "url": "https://yerevan-city.am/shop/product-details/6084",
-    "key": "Yerevan City|id:6084|890|790"
-   },
    {
     "store": "Yerevan City",
     "title": "Խոնավ զուգարանի թուղթ մանկական «Զեվա» 42հտ",
@@ -7620,8 +7621,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-19T20:32:25.548598+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-19T21:02:24.825095+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
