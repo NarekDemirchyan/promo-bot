@@ -3238,22 +3238,12 @@
    "Yerevan City|id:191569|750|560",
    "Yerevan City|id:5824|990|730",
    "Yerevan City|id:18339|990|690",
-   "Yerevan City|id:158801|990|495"
+   "Yerevan City|id:158801|990|495",
+   "Yerevan City|id:171787|990|445"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Բամիա մարինացված «Արտֆուդ» 650գ",
-    "old": 1340,
-    "new": 1230,
-    "pct": 8,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/drugie_ovoschnye_konservy/19833/",
-    "key": "SAS|id:19833|1340|1230"
-   },
    {
     "store": "SAS",
     "title": "Փրփրուն գինի նռան «Արմենիա» 0.75լ",
@@ -7633,12 +7623,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156444.png",
     "url": "https://yerevan-city.am/shop/product-details/158801",
     "key": "Yerevan City|id:158801|990|495"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կիտրոն տրորած շաքարով «Կուբանոչկա» 500գր",
+    "old": 990,
+    "new": 445,
+    "pct": 55,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1165339.png",
+    "url": "https://yerevan-city.am/shop/product-details/171787",
+    "key": "Yerevan City|id:171787|990|445"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-20T02:02:15.768070+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-20T02:17:10.838225+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
