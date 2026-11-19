@@ -1588,7 +1588,8 @@
    "SAS|id:204476|2050|1560",
    "SAS|id:20207|1690|1100",
    "SAS|id:678646|3250|2650",
-   "SAS|id:206654|1130|920"
+   "SAS|id:206654|1130|920",
+   "SAS|id:854746|5990|2995"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5394,6 +5395,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/plitka/206654/",
     "key": "SAS|id:206654|1130|920"
+   },
+   {
+    "store": "SAS",
+    "title": "Գինի սպիտակ «Ակում Շենին Բլանկ» 750մլ",
+    "old": 5990,
+    "new": 2995,
+    "pct": 50,
+    "until": "08.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/112/418/4180572418854616.webp",
+    "url": "https://www.sas.am/catalog/armyanskoe_vino/854746/",
+    "key": "SAS|id:854746|5990|2995"
    }
   ],
   "Yerevan City": [
