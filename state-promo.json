@@ -3250,17 +3250,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Հակաքրտինքային աէրոզոլային միջոց «Nivea Clear» 150մլ",
-    "old": 1680,
-    "new": 1420,
-    "pct": 15,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/antiperspirantt/39936/",
-    "key": "SAS|id:39936|1680|1420"
-   },
-   {
-    "store": "SAS",
     "title": "Թխվածքաբլիթ վանիլային միջուկով «Pingo Doce Cookies & Cream» 154գ",
     "old": 650,
     "new": 320,
@@ -7653,8 +7642,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-20T03:04:42.512335+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-20T03:31:11.909380+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
