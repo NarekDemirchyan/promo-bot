@@ -3228,22 +3228,12 @@
    "Yerevan City|id:69322|750|650",
    "Yerevan City|id:70086|750|350",
    "Yerevan City|id:170157|750|590",
-   "Yerevan City|id:173285|750|490"
+   "Yerevan City|id:173285|750|490",
+   "Yerevan City|id:96032|750|550"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կանաչ ոլոռ «ԱՊԳ» 720գ",
-    "old": 870,
-    "new": 790,
-    "pct": 9,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/goroshek/37035/",
-    "key": "SAS|id:37035|870|790"
-   },
    {
     "store": "SAS",
     "title": "Մանգո կաթնային շոկոլադով «Oswald Schofrulade» 130գ",
@@ -7623,12 +7613,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1166876.png",
     "url": "https://yerevan-city.am/shop/product-details/173285",
     "key": "Yerevan City|id:173285|750|490"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թխվածքաբլիթ «Լյուբյատովո» եփած կաթ 444գր",
+    "old": 750,
+    "new": 550,
+    "pct": 27,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1132045.png",
+    "url": "https://yerevan-city.am/shop/product-details/96032",
+    "key": "Yerevan City|id:96032|750|550"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-19T23:02:26.981709+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-19T23:17:15.072540+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
