@@ -3178,7 +3178,8 @@
    "Yerevan City|id:69485|830|780",
    "Yerevan City|id:6903|790|550",
    "Yerevan City|id:6415|780|575",
-   "Yerevan City|id:14495|780|710"
+   "Yerevan City|id:14495|780|710",
+   "Yerevan City|id:115011|780|680"
   ]
  },
  "queues": {
@@ -7573,6 +7574,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1063943.png",
     "url": "https://yerevan-city.am/shop/product-details/14495",
     "key": "Yerevan City|id:14495|780|710"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մեքսիկական պղպեղ «Արտֆուդ» 460գր",
+    "old": 780,
+    "new": 680,
+    "pct": 13,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1145145.png",
+    "url": "https://yerevan-city.am/shop/product-details/115011",
+    "key": "Yerevan City|id:115011|780|680"
    }
   ]
  },
