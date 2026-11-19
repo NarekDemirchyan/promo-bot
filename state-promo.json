@@ -3206,17 +3206,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Չիպս պանրի «Pringles» 165գ",
-    "old": 1460,
-    "new": 1270,
-    "pct": 13,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/chipsy/4738/",
-    "key": "SAS|id:4738|1460|1270"
-   },
-   {
-    "store": "SAS",
     "title": "Կորնիշոններ մարինացված կծու «Արտֆուդ» 350գ",
     "old": 810,
     "new": 690,
@@ -7609,8 +7598,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-19T13:04:57.252398+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-19T13:31:18.463138+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
