@@ -3242,7 +3242,8 @@
    "Yerevan City|id:18339|990|690",
    "Yerevan City|id:158801|990|495",
    "Yerevan City|id:171787|990|445",
-   "Yerevan City|id:173744|990|395"
+   "Yerevan City|id:173744|990|395",
+   "Yerevan City|id:175002|990|495"
   ]
  },
  "queues": {
@@ -7637,6 +7638,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1167347.png",
     "url": "https://yerevan-city.am/shop/product-details/173744",
     "key": "Yerevan City|id:173744|990|395"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կարագ քաղցրա-սերուցքային «7 Ուտրա» 82.5% 180գր",
+    "old": 990,
+    "new": 495,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168625.png",
+    "url": "https://yerevan-city.am/shop/product-details/175002",
+    "key": "Yerevan City|id:175002|990|495"
    }
   ]
  },
