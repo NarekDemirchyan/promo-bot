@@ -3196,22 +3196,12 @@
    "Yerevan City|id:11315|770|385",
    "Yerevan City|id:170958|760|640",
    "Yerevan City|id:8441|760|620",
-   "Yerevan City|id:179710|760|620"
+   "Yerevan City|id:179710|760|620",
+   "Yerevan City|id:1235|760|590"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կորնիշոններ մարինացված «Արտֆուդ» 700գ",
-    "old": 1250,
-    "new": 1090,
-    "pct": 13,
-    "until": "31.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/148/657/6577783211750625.webp",
-    "url": "https://www.sas.am/catalog/ogurtsy/61695/",
-    "key": "SAS|id:61695|1250|1090"
-   },
    {
     "store": "SAS",
     "title": "Չիպս պանրի «Pringles» 165գ",
@@ -7591,12 +7581,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173429.png",
     "url": "https://yerevan-city.am/shop/product-details/179710",
     "key": "Yerevan City|id:179710|760|620"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սպագետտի «Բարիլլա» №3 500գր",
+    "old": 760,
+    "new": 590,
+    "pct": 22,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1045532.png",
+    "url": "https://yerevan-city.am/shop/product-details/1235",
+    "key": "Yerevan City|id:1235|760|590"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-19T12:32:16.626229+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-19T12:47:16.710997+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
