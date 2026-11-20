@@ -3298,7 +3298,8 @@
    "Yerevan City|id:178691|790|390",
    "Yerevan City|id:192825|790|490",
    "Yerevan City|id:20896|790|590",
-   "Yerevan City|id:20801|790|590"
+   "Yerevan City|id:20801|790|590",
+   "Yerevan City|id:192826|790|490"
   ]
  },
  "queues": {
@@ -7693,6 +7694,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1084892.png",
     "url": "https://yerevan-city.am/shop/product-details/20801",
     "key": "Yerevan City|id:20801|790|590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ճաշի գդալներ «ՇենՍին» 12կտոր",
+    "old": 790,
+    "new": 490,
+    "pct": 38,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176564.png",
+    "url": "https://yerevan-city.am/shop/product-details/192826",
+    "key": "Yerevan City|id:192826|790|490"
    }
   ]
  },
