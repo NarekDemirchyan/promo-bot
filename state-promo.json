@@ -3288,22 +3288,12 @@
    "Yerevan City|id:179587|790|475",
    "Yerevan City|id:192366|790|395",
    "Yerevan City|id:20898|790|590",
-   "Yerevan City|id:177752|790|390"
+   "Yerevan City|id:177752|790|390",
+   "Yerevan City|id:20897|790|590"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Տեկիլա «Grand Love Blanco» 750մլ",
-    "old": 64500,
-    "new": 45150,
-    "pct": 30,
-    "until": "30.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/398/955/955616133702020.webp",
-    "url": "https://www.sas.am/catalog/rom_i_tekilla/887727/",
-    "key": "SAS|id:887727|64500|45150"
-   },
    {
     "store": "SAS",
     "title": "Տեկիլա «Lalo Blanco» 750մլ",
@@ -7683,12 +7673,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1171429.png",
     "url": "https://yerevan-city.am/shop/product-details/177752",
     "key": "Yerevan City|id:177752|790|390"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հյութ «Ֆոնտանա» սպիտակ գուավա 1լ",
+    "old": 790,
+    "new": 590,
+    "pct": 25,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1085969.png",
+    "url": "https://yerevan-city.am/shop/product-details/20897",
+    "key": "Yerevan City|id:20897|790|590"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-20T17:31:53.984673+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-20T17:46:42.979982+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
