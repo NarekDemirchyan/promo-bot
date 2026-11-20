@@ -1615,7 +1615,8 @@
    "SAS|id:533992|15900|13850",
    "SAS|id:913252|1170|820",
    "SAS|id:854748|5990|2995",
-   "SAS|id:854747|5490|4790"
+   "SAS|id:854747|5490|4790",
+   "SAS|id:830411|4350|3580"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5448,6 +5449,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/243/652/6529273616481601.webp",
     "url": "https://www.sas.am/catalog/armyanskoe_vino/854747/",
     "key": "SAS|id:854747|5490|4790"
+   },
+   {
+    "store": "SAS",
+    "title": "Օդը թարմացնող միջոց «Good Sense» 750մլ",
+    "old": 4350,
+    "new": 3580,
+    "pct": 18,
+    "until": "10.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/158/689/68918275332646.webp",
+    "url": "https://www.sas.am/catalog/osvezhiteli/830411/",
+    "key": "SAS|id:830411|4350|3580"
    }
   ],
   "Yerevan City": [
