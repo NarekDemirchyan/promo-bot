@@ -5501,17 +5501,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Տարա պլաստմասե «Հայքսին» քառակուսի 2.8լ",
-    "old": 830,
-    "new": 490,
-    "pct": 41,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1165504.png",
-    "url": "https://yerevan-city.am/shop/product-details/171957",
-    "key": "Yerevan City|id:171957|830|490"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Հատակ մաքրող միջոց «ԷյԲիՍի» Մանուշակագույն ծաղիկներ 900մլ",
     "old": 830,
     "new": 710,
@@ -7702,8 +7691,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-20T18:19:52.739235+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-20T18:47:09.292742+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
