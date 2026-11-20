@@ -3314,22 +3314,12 @@
    "Yerevan City|id:191743|790|395",
    "Yerevan City|id:91665|890|680",
    "Yerevan City|id:114869|890|780",
-   "Yerevan City|id:175094|890|445"
+   "Yerevan City|id:175094|890|445",
+   "Yerevan City|id:178477|890|490"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Արգանակ հավի «Доширак» 90գ",
-    "old": 320,
-    "new": 240,
-    "pct": 25,
-    "until": "26.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/spicess/653195/",
-    "key": "SAS|id:653195|320|240"
-   },
    {
     "store": "SAS",
     "title": "Սուրճ լուծվող «Nescafe Classic» 95գ",
@@ -7709,12 +7699,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168717.png",
     "url": "https://yerevan-city.am/shop/product-details/175094",
     "key": "Yerevan City|id:175094|890|445"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Նոթատետր կողպեքով",
+    "old": 890,
+    "new": 490,
+    "pct": 45,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172174.png",
+    "url": "https://yerevan-city.am/shop/product-details/178477",
+    "key": "Yerevan City|id:178477|890|490"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-21T01:47:03.660832+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-21T02:02:31.724255+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
