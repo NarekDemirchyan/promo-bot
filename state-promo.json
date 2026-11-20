@@ -3296,22 +3296,12 @@
    "Yerevan City|id:20897|790|590",
    "Yerevan City|id:178691|790|390",
    "Yerevan City|id:192825|790|490",
-   "Yerevan City|id:20896|790|590"
+   "Yerevan City|id:20896|790|590",
+   "Yerevan City|id:20801|790|590"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Վաֆլի պնդուկով «Hanuta» 242գ",
-    "old": 2390,
-    "new": 1190,
-    "pct": 50,
-    "until": "30.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/470/822/8221572880412393.webp",
-    "url": "https://www.sas.am/catalog/vafli_vafelnyy_tort/27650/",
-    "key": "SAS|id:27650|2390|1190"
-   },
    {
     "store": "SAS",
     "title": "Օղի «Amnisia Golden Pear Chocolate» 0․75լ",
@@ -7691,12 +7681,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1085970.png",
     "url": "https://yerevan-city.am/shop/product-details/20896",
     "key": "Yerevan City|id:20896|790|590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հյութ «Ֆոնտանա» Ակտիվ, նարինջ և գազար 1լ",
+    "old": 790,
+    "new": 590,
+    "pct": 25,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1084892.png",
+    "url": "https://yerevan-city.am/shop/product-details/20801",
+    "key": "Yerevan City|id:20801|790|590"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-20T20:16:43.279108+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-20T20:32:24.701746+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
