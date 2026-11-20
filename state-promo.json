@@ -3306,22 +3306,12 @@
    "Yerevan City|id:192826|790|490",
    "Yerevan City|id:20799|790|590",
    "Yerevan City|id:20775|790|590",
-   "Yerevan City|id:192827|790|490"
+   "Yerevan City|id:192827|790|490",
+   "Yerevan City|id:191743|790|395"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Վարունգ և լոլիկ մարինացված «Արտֆուդ» 700գ",
-    "old": 1220,
-    "new": 1150,
-    "pct": 6,
-    "until": "31.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/391/779/7792871146695375.webp",
-    "url": "https://www.sas.am/catalog/baklazhan/866096/",
-    "key": "SAS|id:866096|1220|1150"
-   },
    {
     "store": "SAS",
     "title": "Չորահաց-բրուսկետտա լոլիկի, ձիթապտղի և վայրի սուսամբարի «Maretti» 70գ",
@@ -7701,12 +7691,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176565.png",
     "url": "https://yerevan-city.am/shop/product-details/192827",
     "key": "Yerevan City|id:192827|790|490"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թթվասեր «Սվեժիե Նովոստի» բիֆիդոբակտ.20% 380գր",
+    "old": 790,
+    "new": 395,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175458.png",
+    "url": "https://yerevan-city.am/shop/product-details/191743",
+    "key": "Yerevan City|id:191743|790|395"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-20T23:17:05.636527+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-20T23:31:49.475008+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
