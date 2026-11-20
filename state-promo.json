@@ -3294,7 +3294,8 @@
    "Yerevan City|id:177752|790|390",
    "Yerevan City|id:20897|790|590",
    "Yerevan City|id:178691|790|390",
-   "Yerevan City|id:192825|790|490"
+   "Yerevan City|id:192825|790|490",
+   "Yerevan City|id:20896|790|590"
   ]
  },
  "queues": {
@@ -7689,6 +7690,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176563.png",
     "url": "https://yerevan-city.am/shop/product-details/192825",
     "key": "Yerevan City|id:192825|790|490"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հյութ «Ֆոնտանա» խնձոր 1լ",
+    "old": 790,
+    "new": 590,
+    "pct": 25,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1085970.png",
+    "url": "https://yerevan-city.am/shop/product-details/20896",
+    "key": "Yerevan City|id:20896|790|590"
    }
   ]
  },
