@@ -3250,22 +3250,12 @@
    "Yerevan City|id:175002|990|495",
    "Yerevan City|id:72928|840|635",
    "Yerevan City|id:77373|840|635",
-   "Yerevan City|id:112053|820|615"
+   "Yerevan City|id:112053|820|615",
+   "Yerevan City|id:117142|820|615"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սուրճ սառը «Starbucks Black» 270մլ",
-    "old": 1670,
-    "new": 830,
-    "pct": 50,
-    "until": "30.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/228/336/3364792808694746.webp",
-    "url": "https://www.sas.am/catalog/kholodnoe_kofe/755070/",
-    "key": "SAS|id:755070|1670|830"
-   },
    {
     "store": "SAS",
     "title": "Մյուսլի «Bionova Granola Protein» 280գ",
@@ -7645,12 +7635,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1142909.png",
     "url": "https://yerevan-city.am/shop/product-details/112053",
     "key": "Yerevan City|id:112053|820|615"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սոուս «Հայնց» բարբեքյու 200գր",
+    "old": 820,
+    "new": 615,
+    "pct": 25,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1147142.png",
+    "url": "https://yerevan-city.am/shop/product-details/117142",
+    "key": "Yerevan City|id:117142|820|615"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-20T05:17:05.284820+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-20T05:35:57.655835+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
