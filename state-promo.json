@@ -1610,7 +1610,8 @@
    "SAS|id:20790|490|430",
    "SAS|id:20765|320|290",
    "SAS|id:3435|1610|1290",
-   "SAS|id:180068|2390|2120"
+   "SAS|id:180068|2390|2120",
+   "SAS|id:2573|970|790"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3244,7 +3245,8 @@
    "Yerevan City|id:158801|990|495",
    "Yerevan City|id:171787|990|445",
    "Yerevan City|id:173744|990|395",
-   "Yerevan City|id:175002|990|495"
+   "Yerevan City|id:175002|990|495",
+   "Yerevan City|id:72928|840|635"
   ]
  },
  "queues": {
@@ -5437,20 +5439,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/importnyy_syr/180068/",
     "key": "SAS|id:180068|2390|2120"
+   },
+   {
+    "store": "SAS",
+    "title": "Դոնդողե կոնֆետներ «Mamba» 140գ",
+    "old": 970,
+    "new": 790,
+    "pct": 19,
+    "until": "30.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/zhele_plastila/2573/",
+    "key": "SAS|id:2573|970|790"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Կանաչ ոլոռ «Տոպ Սան» ա/տ 700գր",
-    "old": 860,
-    "new": 730,
-    "pct": 15,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1062427.png",
-    "url": "https://yerevan-city.am/shop/product-details/2239",
-    "key": "Yerevan City|id:2239|860|730"
-   },
    {
     "store": "Yerevan City",
     "title": "Իմամ բայալդի «Արտֆուդ» 450գր",
@@ -7628,12 +7630,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168625.png",
     "url": "https://yerevan-city.am/shop/product-details/175002",
     "key": "Yerevan City|id:175002|990|495"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կետչուպ «Հայնց» տոմատի 320գր",
+    "old": 840,
+    "new": 635,
+    "pct": 24,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1116206.png",
+    "url": "https://yerevan-city.am/shop/product-details/72928",
+    "key": "Yerevan City|id:72928|840|635"
    }
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-20T03:47:12.361333+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-20T04:02:39.983706+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
