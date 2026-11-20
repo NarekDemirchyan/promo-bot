@@ -3278,22 +3278,12 @@
    "Yerevan City|id:20754|790|590",
    "Yerevan City|id:175107|790|470",
    "Yerevan City|id:179586|790|475",
-   "Yerevan City|id:20757|790|590"
+   "Yerevan City|id:20757|790|590",
+   "Yerevan City|id:20758|790|590"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Բիսկվիթ կիթ կաթի կրեմով «Grisbi Kit Kat» 112գ",
-    "old": 1930,
-    "new": 1350,
-    "pct": 30,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/desert_biskvit/912515/",
-    "key": "SAS|id:912515|1930|1350"
-   },
    {
     "store": "SAS",
     "title": "Օղի «Amnisia Grand Voyage» 1լ",
@@ -7673,12 +7663,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1084884.png",
     "url": "https://yerevan-city.am/shop/product-details/20757",
     "key": "Yerevan City|id:20757|790|590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հյութ «Ֆոնտանա» նուռ 1լ",
+    "old": 790,
+    "new": 590,
+    "pct": 25,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1084883.png",
+    "url": "https://yerevan-city.am/shop/product-details/20758",
+    "key": "Yerevan City|id:20758|790|590"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-20T14:16:38.418914+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-20T14:34:47.709893+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
