@@ -1646,7 +1646,8 @@
    "SAS|id:801296|2050|1560",
    "SAS|id:781532|12300|11590",
    "SAS|id:756283|530|460",
-   "SAS|id:75176|1830|1380"
+   "SAS|id:75176|1830|1380",
+   "SAS|id:655813|330|270"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3317,7 +3318,8 @@
    "Yerevan City|id:114869|890|780",
    "Yerevan City|id:175094|890|445",
    "Yerevan City|id:178477|890|490",
-   "Yerevan City|id:194121|890|445"
+   "Yerevan City|id:194121|890|445",
+   "Yerevan City|id:23764|890|750"
   ]
  },
  "queues": {
@@ -5510,6 +5512,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/326/362/3625853436660392.webp",
     "url": "https://www.sas.am/catalog/kompot/75176/",
     "key": "SAS|id:75176|1830|1380"
+   },
+   {
+    "store": "SAS",
+    "title": "Յոգուրտ հունական «Երեմյան Փրոդաքթս» 130գ",
+    "old": 330,
+    "new": 270,
+    "pct": 18,
+    "until": "27.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/420/800/8002182648780090.webp",
+    "url": "https://www.sas.am/catalog/yogurt_puding/655813/",
+    "key": "SAS|id:655813|330|270"
    }
   ],
   "Yerevan City": [
@@ -7701,6 +7714,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177892.png",
     "url": "https://yerevan-city.am/shop/product-details/194121",
     "key": "Yerevan City|id:194121|890|445"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ունիվերսալ քսուք «Նիվեա» թ/տ 30մլ",
+    "old": 890,
+    "new": 750,
+    "pct": 16,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1014279.png",
+    "url": "https://yerevan-city.am/shop/product-details/23764",
+    "key": "Yerevan City|id:23764|890|750"
    }
   ]
  },
