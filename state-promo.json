@@ -3302,22 +3302,12 @@
    "Yerevan City|id:20896|790|590",
    "Yerevan City|id:20801|790|590",
    "Yerevan City|id:192826|790|490",
-   "Yerevan City|id:20799|790|590"
+   "Yerevan City|id:20799|790|590",
+   "Yerevan City|id:20775|790|590"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Խավիար սմբուկի կծու «Արտֆուդ» 520գ",
-    "old": 1080,
-    "new": 970,
-    "pct": 10,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/baklazhan/58341/",
-    "key": "SAS|id:58341|1080|970"
-   },
    {
     "store": "SAS",
     "title": "Օղի «Amnisia» 0․75լ",
@@ -7697,12 +7687,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1084893.png",
     "url": "https://yerevan-city.am/shop/product-details/20799",
     "key": "Yerevan City|id:20799|790|590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հյութ «Ֆոնտանա» արքայախնձոր 1լ",
+    "old": 790,
+    "new": 590,
+    "pct": 25,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1084877.png",
+    "url": "https://yerevan-city.am/shop/product-details/20775",
+    "key": "Yerevan City|id:20775|790|590"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-20T22:17:05.919969+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-20T22:32:31.596796+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
