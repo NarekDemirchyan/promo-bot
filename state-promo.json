@@ -3256,22 +3256,12 @@
    "Yerevan City|id:112053|820|615",
    "Yerevan City|id:117142|820|615",
    "Yerevan City|id:7259|810|650",
-   "Yerevan City|id:15803|810|650"
+   "Yerevan City|id:15803|810|650",
+   "Yerevan City|id:111852|790|630"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կոմպոտ ազնվամորու «Իջևան» 1լ",
-    "old": 1730,
-    "new": 1590,
-    "pct": 8,
-    "until": "07.01.2027",
-    "img": "https://www.sas.am/upload/Sh/imageCache/592/476/4766942789384279.webp",
-    "url": "https://www.sas.am/catalog/kompot/631495/",
-    "key": "SAS|id:631495|1730|1590"
-   },
    {
     "store": "SAS",
     "title": "Ատամի մածուկ «Sensodyne» 75մլ",
@@ -7651,12 +7641,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1008162.png",
     "url": "https://yerevan-city.am/shop/product-details/15803",
     "key": "Yerevan City|id:15803|810|650"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Նրբերշիկ հոթ-դոգ «Մոյա Սեմյա» 470գր",
+    "old": 790,
+    "new": 630,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1142727.png",
+    "url": "https://yerevan-city.am/shop/product-details/111852",
+    "key": "Yerevan City|id:111852|790|630"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-20T07:17:08.035924+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-20T07:32:15.880697+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
