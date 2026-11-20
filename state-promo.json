@@ -3261,22 +3261,12 @@
    "Yerevan City|id:15803|810|650",
    "Yerevan City|id:111852|790|630",
    "Yerevan City|id:8536|790|395",
-   "Yerevan City|id:193535|790|395"
+   "Yerevan City|id:193535|790|395",
+   "Yerevan City|t:սպագետտի «ռեջիա» վերմիչելի №17 500գր|790|560"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ազնվամորի սպիտակ շոկոլադով «Oswald Schofrulade» 130գ",
-    "old": 3350,
-    "new": 2340,
-    "pct": 30,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/frukty_ovoshchi_yagody/956515/",
-    "key": "SAS|id:956515|3350|2340"
-   },
    {
     "store": "SAS",
     "title": "Խաղող մուգ շոկոլադով «Schofrulade» 130գ",
@@ -7645,12 +7635,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177293.png",
     "url": "https://yerevan-city.am/shop/product-details/193535",
     "key": "Yerevan City|id:193535|790|395"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սպագետտի «Ռեջիա» Վերմիչելի №17 500գր",
+    "old": 790,
+    "new": 560,
+    "pct": 29,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1040184.png",
+    "url": "https://yerevan-city.am/shop/product-details/67",
+    "key": "Yerevan City|t:սպագետտի «ռեջիա» վերմիչելի №17 500գր|790|560"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-20T09:01:26.217337+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-20T09:16:01.316016+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
