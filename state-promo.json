@@ -3300,22 +3300,12 @@
    "Yerevan City|id:192825|790|490",
    "Yerevan City|id:20896|790|590",
    "Yerevan City|id:20801|790|590",
-   "Yerevan City|id:192826|790|490"
+   "Yerevan City|id:192826|790|490",
+   "Yerevan City|id:20799|790|590"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Դեմքի գել «Garnier Hyaluronic Aloe» 200մլ",
-    "old": 2150,
-    "new": 1850,
-    "pct": 14,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/822/287/287853924974746.webp",
-    "url": "https://www.sas.am/catalog/vse_dlya_litsa/6762/",
-    "key": "SAS|id:6762|2150|1850"
-   },
    {
     "store": "SAS",
     "title": "Խավիար սմբուկի կծու «Արտֆուդ» 520գ",
@@ -7695,12 +7685,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176564.png",
     "url": "https://yerevan-city.am/shop/product-details/192826",
     "key": "Yerevan City|id:192826|790|490"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հյութ «Ֆոնտանա» Էկզոտիկ, 8 միրգ 1լ",
+    "old": 790,
+    "new": 590,
+    "pct": 25,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1084893.png",
+    "url": "https://yerevan-city.am/shop/product-details/20799",
+    "key": "Yerevan City|id:20799|790|590"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-20T21:32:13.675109+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-20T21:49:28.733382+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
