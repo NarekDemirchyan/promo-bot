@@ -3292,22 +3292,12 @@
    "Yerevan City|id:20898|790|590",
    "Yerevan City|id:177752|790|390",
    "Yerevan City|id:20897|790|590",
-   "Yerevan City|id:178691|790|390"
+   "Yerevan City|id:178691|790|390",
+   "Yerevan City|id:192825|790|490"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շոկոլադե կոնֆետների հավաքածու «Patchi Once Upon A Time» 985գ",
-    "old": 95000,
-    "new": 47500,
-    "pct": 50,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/nabory_konfet/886307/",
-    "key": "SAS|id:886307|95000|47500"
-   },
    {
     "store": "SAS",
     "title": "Վարունգ մարինացված «Արտֆուդ» 1.5կգ",
@@ -7687,12 +7677,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172393.png",
     "url": "https://yerevan-city.am/shop/product-details/178691",
     "key": "Yerevan City|id:178691|790|390"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ճաշի գդալներ «ՇենՍին» 6կտոր",
+    "old": 790,
+    "new": 490,
+    "pct": 38,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176563.png",
+    "url": "https://yerevan-city.am/shop/product-details/192825",
+    "key": "Yerevan City|id:192825|790|490"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-20T18:47:09.292742+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-20T19:02:26.358086+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
