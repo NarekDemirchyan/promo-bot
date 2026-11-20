@@ -1631,7 +1631,8 @@
    "SAS|id:484212|8590|7690",
    "SAS|id:180095|1330|820",
    "SAS|id:165295|1030|920",
-   "SAS|id:4500|1870|1490"
+   "SAS|id:4500|1870|1490",
+   "SAS|id:756208|1350|1050"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5480,20 +5481,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/importnyy_syr/4500/",
     "key": "SAS|id:4500|1870|1490"
+   },
+   {
+    "store": "SAS",
+    "title": "Ըմպելիք սպիտակուցային շոկոլադի համով «Parmalat» 500մլ",
+    "old": 1350,
+    "new": 1050,
+    "pct": 22,
+    "until": "27.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/416/992/992672706990926.webp",
+    "url": "https://www.sas.am/catalog/slivki_kokteyl/756208/",
+    "key": "SAS|id:756208|1350|1050"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Սուրճ աղացած «Կաֆֆա» Կոլումբիա, արաբիկա 100գր",
-    "old": 830,
-    "new": 740,
-    "pct": 11,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1126532.png",
-    "url": "https://yerevan-city.am/shop/product-details/89071",
-    "key": "Yerevan City|id:89071|830|740"
-   },
    {
     "store": "Yerevan City",
     "title": "Սմբուկի խավիար «Արկաֆա» կծու 470գր",
@@ -7686,8 +7687,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-20T17:03:55.142353+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-20T17:31:53.984673+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
