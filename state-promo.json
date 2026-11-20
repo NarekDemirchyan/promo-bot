@@ -3266,22 +3266,12 @@
    "Yerevan City|id:8536|790|395",
    "Yerevan City|id:193535|790|395",
    "Yerevan City|t:սպագետտի «ռեջիա» վերմիչելի №17 500գր|790|560",
-   "Yerevan City|id:57099|790|560"
+   "Yerevan City|id:57099|790|560",
+   "Yerevan City|id:9261|790|350"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Գինի սպիտակ «Տակառ Ոսկեհատ» 0.75լ",
-    "old": 5590,
-    "new": 5150,
-    "pct": 8,
-    "until": "08.01.2027",
-    "img": "https://www.sas.am/upload/Sh/imageCache/339/546/5466382647844960.webp",
-    "url": "https://www.sas.am/catalog/armyanskoe_vino/951048/",
-    "key": "SAS|id:951048|5590|5150"
-   },
    {
     "store": "SAS",
     "title": "Գինի սպիտակ «Տակառ Օրգանիկ» 0.75լ",
@@ -7661,12 +7651,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1049706.png",
     "url": "https://yerevan-city.am/shop/product-details/57099",
     "key": "Yerevan City|id:57099|790|560"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գարեջուր ոչ ալկոհոլային «Կրոմբախեր» Փիլս 0.33լ",
+    "old": 790,
+    "new": 350,
+    "pct": 56,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1091999.png",
+    "url": "https://yerevan-city.am/shop/product-details/9261",
+    "key": "Yerevan City|id:9261|790|350"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-20T10:17:00.077705+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-20T10:32:13.862692+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
