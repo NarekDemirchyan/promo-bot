@@ -3326,17 +3326,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Շոկոլադե ձվիկ «Kinder Surprise Maxi Natoons» 100գ",
-    "old": 6050,
-    "new": 3220,
-    "pct": 47,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/konfety_v_upakovke/489768/",
-    "key": "SAS|id:489768|6050|3220"
-   },
-   {
-    "store": "SAS",
     "title": "Վաֆլի շոկոլադապատ «Lago Plaisir» 190գ",
     "old": 2250,
     "new": 1570,
@@ -7729,8 +7718,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-21T02:34:25.708169+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-21T03:02:35.103949+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
