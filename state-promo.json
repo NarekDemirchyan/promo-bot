@@ -3276,22 +3276,12 @@
    "Yerevan City|id:129767|790|420",
    "Yerevan City|id:20754|790|590",
    "Yerevan City|id:175107|790|470",
-   "Yerevan City|id:179586|790|475"
+   "Yerevan City|id:179586|790|475",
+   "Yerevan City|id:20757|790|590"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Բատոն սպիտակուցային կակաոյի և գետնանուշի համով «Pingo Doce Go Active Barra Proteica» 3*35գ",
-    "old": 1290,
-    "new": 640,
-    "pct": 50,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/batonchik/918297/",
-    "key": "SAS|id:918297|1290|640"
-   },
    {
     "store": "SAS",
     "title": "Բիսկվիթ կիթ կաթի կրեմով «Grisbi Kit Kat» 112գ",
@@ -7671,12 +7661,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173299.png",
     "url": "https://yerevan-city.am/shop/product-details/179586",
     "key": "Yerevan City|id:179586|790|475"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հյութ «Ֆոնտանա» նարինջ 1լ",
+    "old": 790,
+    "new": 590,
+    "pct": 25,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1084884.png",
+    "url": "https://yerevan-city.am/shop/product-details/20757",
+    "key": "Yerevan City|id:20757|790|590"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-20T13:46:36.386404+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-20T14:02:11.215384+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
