@@ -1632,7 +1632,8 @@
    "SAS|id:180095|1330|820",
    "SAS|id:165295|1030|920",
    "SAS|id:4500|1870|1490",
-   "SAS|id:756208|1350|1050"
+   "SAS|id:756208|1350|1050",
+   "SAS|id:536316|2350|1750"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5482,20 +5483,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/416/992/992672706990926.webp",
     "url": "https://www.sas.am/catalog/slivki_kokteyl/756208/",
     "key": "SAS|id:756208|1350|1050"
+   },
+   {
+    "store": "SAS",
+    "title": "Պանիր աղաջրային «President Greco» 250գ",
+    "old": 2350,
+    "new": 1750,
+    "pct": 26,
+    "until": "27.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/265/423/42306943634371.webp",
+    "url": "https://www.sas.am/catalog/importnyy_syr/536316/",
+    "key": "SAS|id:536316|2350|1750"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Սմբուկի խավիար «Արկաֆա» կծու 470գր",
-    "old": 830,
-    "new": 560,
-    "pct": 33,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178851.png",
-    "url": "https://yerevan-city.am/shop/product-details/195052",
-    "key": "Yerevan City|id:195052|830|560"
-   },
    {
     "store": "Yerevan City",
     "title": "Տարա պլաստմասե «Հայքսին» քառակուսի 2.8լ",
@@ -7688,8 +7689,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-20T17:46:42.979982+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-20T18:01:55.416038+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
