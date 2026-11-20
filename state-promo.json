@@ -1614,7 +1614,8 @@
    "SAS|id:2573|970|790",
    "SAS|id:533992|15900|13850",
    "SAS|id:913252|1170|820",
-   "SAS|id:854748|5990|2995"
+   "SAS|id:854748|5990|2995",
+   "SAS|id:854747|5490|4790"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5446,20 +5447,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/360/708/7087143941374392.webp",
     "url": "https://www.sas.am/catalog/armyanskoe_vino/854748/",
     "key": "SAS|id:854748|5990|2995"
+   },
+   {
+    "store": "SAS",
+    "title": "Գինի կարմիր «Ակում Մալբեկ» 750մլ",
+    "old": 5490,
+    "new": 4790,
+    "pct": 13,
+    "until": "08.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/243/652/6529273616481601.webp",
+    "url": "https://www.sas.am/catalog/armyanskoe_vino/854747/",
+    "key": "SAS|id:854747|5490|4790"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Խոնավ անձեռոցիկներ «Պապիրուս» բժշկական 100հտ",
-    "old": 850,
-    "new": 610,
-    "pct": 28,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1103047.png",
-    "url": "https://yerevan-city.am/shop/product-details/23236",
-    "key": "Yerevan City|id:23236|850|610"
-   },
    {
     "store": "Yerevan City",
     "title": "Անձեռոցիկներ «Էկկա» եռաշերտ 120հտ",
@@ -7652,8 +7653,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-20T06:17:03.969845+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-20T06:32:11.197319+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
