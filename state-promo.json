@@ -3246,22 +3246,12 @@
    "Yerevan City|id:171787|990|445",
    "Yerevan City|id:173744|990|395",
    "Yerevan City|id:175002|990|495",
-   "Yerevan City|id:72928|840|635"
+   "Yerevan City|id:72928|840|635",
+   "Yerevan City|id:77373|840|635"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շոկոլադե կոնֆետներ «Condorelli Lune» 120գ",
-    "old": 3290,
-    "new": 1640,
-    "pct": 50,
-    "until": "30.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/621/439/439882881217317.webp",
-    "url": "https://www.sas.am/catalog/nabory_konfet/916148/",
-    "key": "SAS|id:916148|3290|1640"
-   },
    {
     "store": "SAS",
     "title": "Վարունգ մարինացված կծու «Արտֆուդ» 520գ",
@@ -7641,12 +7631,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1116206.png",
     "url": "https://yerevan-city.am/shop/product-details/72928",
     "key": "Yerevan City|id:72928|840|635"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կետչուպ «Հայնց» կծու 320գր",
+    "old": 840,
+    "new": 635,
+    "pct": 24,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1119784.png",
+    "url": "https://yerevan-city.am/shop/product-details/77373",
+    "key": "Yerevan City|id:77373|840|635"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-20T04:02:39.983706+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-20T04:20:13.649479+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
