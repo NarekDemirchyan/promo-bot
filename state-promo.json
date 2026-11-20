@@ -1648,7 +1648,8 @@
    "SAS|id:756283|530|460",
    "SAS|id:75176|1830|1380",
    "SAS|id:655813|330|270",
-   "SAS|id:972662|1550|1150"
+   "SAS|id:972662|1550|1150",
+   "SAS|id:961368|1220|840"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5514,6 +5515,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/273/923/9237964015738131.webp",
     "url": "https://www.sas.am/catalog/ogurtsy/972662/",
     "key": "SAS|id:972662|1550|1150"
+   },
+   {
+    "store": "SAS",
+    "title": "Բամիա մարինացված «Թթու» 710գ",
+    "old": 1220,
+    "new": 840,
+    "pct": 31,
+    "until": "31.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/drugie_ovoschnye_konservy/961368/",
+    "key": "SAS|id:961368|1220|840"
    }
   ],
   "Yerevan City": [
