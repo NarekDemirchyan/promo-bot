@@ -1642,7 +1642,8 @@
    "SAS|id:756209|1350|1050",
    "SAS|id:489908|2990|2490",
    "SAS|id:629343|1790|1630",
-   "SAS|id:375965|23900|16730"
+   "SAS|id:375965|23900|16730",
+   "SAS|id:801296|2050|1560"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5502,6 +5503,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/drugie_alkogolnye_napitki/375965/",
     "key": "SAS|id:375965|23900|16730"
+   },
+   {
+    "store": "SAS",
+    "title": "Շամպուն «Syoss Intense Plex» 440մլ",
+    "old": 2050,
+    "new": 1560,
+    "pct": 24,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/dlya_volos2/801296/",
+    "key": "SAS|id:801296|2050|1560"
    }
   ],
   "Yerevan City": [
