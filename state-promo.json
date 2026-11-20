@@ -1627,7 +1627,8 @@
    "SAS|id:206202|5580|3800",
    "SAS|id:830387|4350|3580",
    "SAS|id:528229|1460|1350",
-   "SAS|id:526499|890|790"
+   "SAS|id:526499|890|790",
+   "SAS|id:484212|8590|7690"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5472,6 +5473,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/126/883/8834653731876767.webp",
     "url": "https://www.sas.am/catalog/baklazhan/526499/",
     "key": "SAS|id:526499|890|790"
+   },
+   {
+    "store": "SAS",
+    "title": "Գինի կարմիր «Սափոր» 0.75լ",
+    "old": 8590,
+    "new": 7690,
+    "pct": 10,
+    "until": "08.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/armyanskoe_vino/484212/",
+    "key": "SAS|id:484212|8590|7690"
    }
   ],
   "Yerevan City": [
