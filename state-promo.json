@@ -3306,17 +3306,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Օղի «Amnisia Golden Pear Chocolate» 0․75լ",
-    "old": 64000,
-    "new": 44800,
-    "pct": 30,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/importnoe/884788/",
-    "key": "SAS|id:884788|64000|44800"
-   },
-   {
-    "store": "SAS",
     "title": "Դեմքի գել «Garnier Hyaluronic Aloe» 200մլ",
     "old": 2150,
     "new": 1850,
@@ -7709,8 +7698,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-20T20:49:12.034364+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-20T21:17:14.881751+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
