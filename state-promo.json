@@ -1625,7 +1625,8 @@
    "SAS|id:100454|1470|1170",
    "SAS|id:3382|4390|3490",
    "SAS|id:206202|5580|3800",
-   "SAS|id:830387|4350|3580"
+   "SAS|id:830387|4350|3580",
+   "SAS|id:528229|1460|1350"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5468,6 +5469,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/412/258/2581783908696727.webp",
     "url": "https://www.sas.am/catalog/forhebathroom/830387/",
     "key": "SAS|id:830387|4350|3580"
+   },
+   {
+    "store": "SAS",
+    "title": "Կրեկերներ աղով «Croco» 400գ",
+    "old": 1460,
+    "new": 1350,
+    "pct": 8,
+    "until": "30.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/226/676/6760271329874671.webp",
+    "url": "https://www.sas.am/catalog/krekery_solenye_palochki/528229/",
+    "key": "SAS|id:528229|1460|1350"
    }
   ],
   "Yerevan City": [
