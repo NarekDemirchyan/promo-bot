@@ -1618,7 +1618,9 @@
    "SAS|id:854747|5490|4790",
    "SAS|id:830411|4350|3580",
    "SAS|id:830410|2190|1790",
-   "SAS|id:830393|4890|4050"
+   "SAS|id:830393|4890|4050",
+   "SAS|id:877529|13900|13200",
+   "SAS|id:834736|1520|1160"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5444,20 +5446,31 @@
     "img": "",
     "url": "https://www.sas.am/catalog/chistyashchie_sredstva/830393/",
     "key": "SAS|id:830393|4890|4050"
+   },
+   {
+    "store": "SAS",
+    "title": "Օղի «Stoli» 0.7լ",
+    "old": 13900,
+    "new": 13200,
+    "pct": 5,
+    "until": "08.01.2027",
+    "img": "https://www.sas.am/upload/Sh/imageCache/383/531/5310323902777876.webp",
+    "url": "https://www.sas.am/catalog/importnoe/877529/",
+    "key": "SAS|id:877529|13900|13200"
+   },
+   {
+    "store": "SAS",
+    "title": "Նեկտար մուլտիմրգային մանկական «Santal» 1լ",
+    "old": 1520,
+    "new": 1160,
+    "pct": 24,
+    "until": "15.01.2027",
+    "img": "https://www.sas.am/upload/Sh/imageCache/428/348/3486664129725948.webp",
+    "url": "https://www.sas.am/catalog/sok/834736/",
+    "key": "SAS|id:834736|1520|1160"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Ձեռնոց «Ֆինո» Ս 1զույգ",
-    "old": 850,
-    "new": 490,
-    "pct": 42,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1086711.png",
-    "url": "https://yerevan-city.am/shop/product-details/8165",
-    "key": "Yerevan City|id:8165|850|490"
-   },
    {
     "store": "Yerevan City",
     "title": "Միջադիրներ «Լիբրես» մաքսի, գուդնայթ 10հտ",
@@ -7650,8 +7663,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-20T09:16:01.316016+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-20T09:35:25.534300+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
