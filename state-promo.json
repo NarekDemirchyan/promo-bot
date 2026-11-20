@@ -3274,22 +3274,12 @@
    "Yerevan City|id:9261|790|350",
    "Yerevan City|id:129767|790|420",
    "Yerevan City|id:20754|790|590",
-   "Yerevan City|id:175107|790|470"
+   "Yerevan City|id:175107|790|470",
+   "Yerevan City|id:179586|790|475"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Պանիր պինդ «Reypenaer V.S.O.P» 300գ",
-    "old": 6990,
-    "new": 3490,
-    "pct": 50,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/importnyy_syr/924955/",
-    "key": "SAS|id:924955|6990|3490"
-   },
    {
     "store": "SAS",
     "title": "Բատոն սպիտակուցային կակաոյի և գետնանուշի համով «Pingo Doce Go Active Barra Proteica» 3*35գ",
@@ -7669,12 +7659,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168730.png",
     "url": "https://yerevan-city.am/shop/product-details/175107",
     "key": "Yerevan City|id:175107|790|470"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Պանիր հալած «Ժավորոնկի» սերուցքային 180գր",
+    "old": 790,
+    "new": 475,
+    "pct": 40,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173299.png",
+    "url": "https://yerevan-city.am/shop/product-details/179586",
+    "key": "Yerevan City|id:179586|790|475"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-20T13:02:30.728095+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-20T13:18:17.606710+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
