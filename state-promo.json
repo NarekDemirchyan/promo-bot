@@ -1612,7 +1612,8 @@
    "SAS|id:3435|1610|1290",
    "SAS|id:180068|2390|2120",
    "SAS|id:2573|970|790",
-   "SAS|id:533992|15900|13850"
+   "SAS|id:533992|15900|13850",
+   "SAS|id:913252|1170|820"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5442,20 +5443,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/159/412/412710763481912.webp",
     "url": "https://www.sas.am/catalog/molotyy/533992/",
     "key": "SAS|id:533992|15900|13850"
+   },
+   {
+    "store": "SAS",
+    "title": "Պանիր հալած սպիտակուցային «President Protein» 150գ",
+    "old": 1170,
+    "new": 820,
+    "pct": 30,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/importnyy_syr/913252/",
+    "key": "SAS|id:913252|1170|820"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Զուգարանի թուղթ «Էկկա» Դելյուքս, եռաշերտ 4հտ",
-    "old": 860,
-    "new": 670,
-    "pct": 22,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1111353.png",
-    "url": "https://yerevan-city.am/shop/product-details/63984",
-    "key": "Yerevan City|id:63984|860|670"
-   },
    {
     "store": "Yerevan City",
     "title": "Պղպեղի մածուկ «Արտֆուդ» կծու 350գր",
@@ -7648,8 +7649,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-20T05:02:20.764276+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-20T05:17:05.284820+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
