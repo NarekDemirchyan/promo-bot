@@ -3312,22 +3312,12 @@
    "Yerevan City|id:192827|790|490",
    "Yerevan City|id:191743|790|395",
    "Yerevan City|id:91665|890|680",
-   "Yerevan City|id:114869|890|780"
+   "Yerevan City|id:114869|890|780",
+   "Yerevan City|id:175094|890|445"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կորնիշոններ մարինացված կծու «Արտֆուդ» 700գ",
-    "old": 1250,
-    "new": 1090,
-    "pct": 13,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/ogurtsy/711706/",
-    "key": "SAS|id:711706|1250|1090"
-   },
    {
     "store": "SAS",
     "title": "Արգանակ հավի «Доширак» 90գ",
@@ -7707,12 +7697,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1097276.png",
     "url": "https://yerevan-city.am/shop/product-details/114869",
     "key": "Yerevan City|id:114869|890|780"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տոնածառի խաղ.ապ. «Գունդ» 8սմ 1հտ",
+    "old": 890,
+    "new": 445,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168717.png",
+    "url": "https://yerevan-city.am/shop/product-details/175094",
+    "key": "Yerevan City|id:175094|890|445"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-21T01:02:52.665564+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-21T01:20:32.841829+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
