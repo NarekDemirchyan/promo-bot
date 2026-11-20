@@ -3312,17 +3312,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Օղի «Amnisia» 0․75լ",
-    "old": 64000,
-    "new": 44800,
-    "pct": 30,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/importnoe/884786/",
-    "key": "SAS|id:884786|64000|44800"
-   },
-   {
-    "store": "SAS",
     "title": "Վարունգ և լոլիկ մարինացված «Արտֆուդ» 700գ",
     "old": 1220,
     "new": 1150,
@@ -7715,8 +7704,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-20T22:47:10.405826+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-20T23:01:19.155102+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
