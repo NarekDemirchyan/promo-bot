@@ -3268,7 +3268,8 @@
    "Yerevan City|id:193535|790|395",
    "Yerevan City|t:սպագետտի «ռեջիա» վերմիչելի №17 500գր|790|560",
    "Yerevan City|id:57099|790|560",
-   "Yerevan City|id:9261|790|350"
+   "Yerevan City|id:9261|790|350",
+   "Yerevan City|id:129767|790|420"
   ]
  },
  "queues": {
@@ -7663,6 +7664,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1091999.png",
     "url": "https://yerevan-city.am/shop/product-details/9261",
     "key": "Yerevan City|id:9261|790|350"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Աղցանաման «Լեմոջիս» ֆինգեր 19սմ 1հտ 132-Ս",
+    "old": 790,
+    "new": 420,
+    "pct": 47,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1149545.png",
+    "url": "https://yerevan-city.am/shop/product-details/129767",
+    "key": "Yerevan City|id:129767|790|420"
    }
   ]
  },
