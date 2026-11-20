@@ -3320,22 +3320,12 @@
    "Yerevan City|id:175094|890|445",
    "Yerevan City|id:178477|890|490",
    "Yerevan City|id:194121|890|445",
-   "Yerevan City|id:23764|890|750"
+   "Yerevan City|id:23764|890|750",
+   "Yerevan City|id:34009|890|680"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Վաֆլի շոկոլադապատ «Lago Plaisir» 190գ",
-    "old": 2250,
-    "new": 1570,
-    "pct": 30,
-    "until": "30.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/305/435/435564850683956.webp",
-    "url": "https://www.sas.am/catalog/vafli_vafelnyy_tort/333406/",
-    "key": "SAS|id:333406|2250|1570"
-   },
    {
     "store": "SAS",
     "title": "Էլեկտրական մարտկոց «Energizer MAX AA LR6» 4հատ",
@@ -7715,12 +7705,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1014279.png",
     "url": "https://yerevan-city.am/shop/product-details/23764",
     "key": "Yerevan City|id:23764|890|750"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ծամվող մարմելադ «Մամբա» մրգեր և յոգուրտ 140գր",
+    "old": 890,
+    "new": 680,
+    "pct": 24,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1105047.png",
+    "url": "https://yerevan-city.am/shop/product-details/34009",
+    "key": "Yerevan City|id:34009|890|680"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-21T03:16:59.458309+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-21T03:34:04.646442+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
