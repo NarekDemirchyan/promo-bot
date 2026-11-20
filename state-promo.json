@@ -1617,7 +1617,8 @@
    "SAS|id:854748|5990|2995",
    "SAS|id:854747|5490|4790",
    "SAS|id:830411|4350|3580",
-   "SAS|id:830410|2190|1790"
+   "SAS|id:830410|2190|1790",
+   "SAS|id:830393|4890|4050"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5452,6 +5453,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/291/062/0620651671641421.webp",
     "url": "https://www.sas.am/catalog/forhebathroom/830410/",
     "key": "SAS|id:830410|2190|1790"
+   },
+   {
+    "store": "SAS",
+    "title": "Կահույքը փայլեցնող միջոց «Diversey Room Care R4» 750մլ",
+    "old": 4890,
+    "new": 4050,
+    "pct": 17,
+    "until": "10.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/chistyashchie_sredstva/830393/",
+    "key": "SAS|id:830393|4890|4050"
    }
   ],
   "Yerevan City": [
