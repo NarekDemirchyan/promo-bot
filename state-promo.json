@@ -1621,7 +1621,8 @@
    "SAS|id:830393|4890|4050",
    "SAS|id:877529|13900|13200",
    "SAS|id:834736|1520|1160",
-   "SAS|id:830392|3250|2690"
+   "SAS|id:830392|3250|2690",
+   "SAS|id:100454|1470|1170"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5460,20 +5461,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/341/375/3756152941878343.webp",
     "url": "https://www.sas.am/catalog/forhebathroom/830392/",
     "key": "SAS|id:830392|3250|2690"
+   },
+   {
+    "store": "SAS",
+    "title": "Կաթ «Parmalat» 1լ, յուղայնությունը`1.8",
+    "old": 1470,
+    "new": 1170,
+    "pct": 20,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/moloko/100454/",
+    "key": "SAS|id:100454|1470|1170"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Թեյ կանաչ «Գրինֆիլդ» Ֆլայինգ Դրագոն 25x2գր",
-    "old": 850,
-    "new": 540,
-    "pct": 36,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1048010.png",
-    "url": "https://yerevan-city.am/shop/product-details/13449",
-    "key": "Yerevan City|id:13449|850|540"
-   },
    {
     "store": "Yerevan City",
     "title": "Հեղուկ օճառ «Գրասս» Միլանա, մարգարիտ 500մլ",
@@ -7666,8 +7667,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-20T10:32:13.862692+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-20T10:49:32.349250+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
