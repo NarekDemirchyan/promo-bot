@@ -3272,17 +3272,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Խաղող մուգ շոկոլադով «Schofrulade» 130գ",
-    "old": 3350,
-    "new": 2340,
-    "pct": 30,
-    "until": "30.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/235/779/7793182406206988.webp",
-    "url": "https://www.sas.am/catalog/frukty_ovoshchi_yagody/956514/",
-    "key": "SAS|id:956514|3350|2340"
-   },
-   {
-    "store": "SAS",
     "title": "Գինի սպիտակ «Տակառ Ոսկեհատ» 0.75լ",
     "old": 5590,
     "new": 5150,
@@ -7675,8 +7664,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-20T09:35:25.534300+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-20T10:02:25.809852+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
