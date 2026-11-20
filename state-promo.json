@@ -3302,17 +3302,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Վարունգ մարինացված «Արտֆուդ» 1.5կգ",
-    "old": 1570,
-    "new": 1450,
-    "pct": 8,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/ogurtsy/124631/",
-    "key": "SAS|id:124631|1570|1450"
-   },
-   {
-    "store": "SAS",
     "title": "Վաֆլի պնդուկով «Hanuta» 242գ",
     "old": 2390,
     "new": 1190,
@@ -7705,8 +7694,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-20T19:33:44.950591+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-20T20:02:11.841466+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
