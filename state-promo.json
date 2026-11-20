@@ -3310,22 +3310,12 @@
    "Yerevan City|id:20775|790|590",
    "Yerevan City|id:192827|790|490",
    "Yerevan City|id:191743|790|395",
-   "Yerevan City|id:91665|890|680"
+   "Yerevan City|id:91665|890|680",
+   "Yerevan City|id:114869|890|780"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Գրպանի անձեռոցիկ «Zewa Deluxe Aroma» 10 հատ",
-    "old": 120,
-    "new": 90,
-    "pct": 25,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/112/878/8780842287657935.webp",
-    "url": "https://www.sas.am/catalog/salfetki/122850/",
-    "key": "SAS|id:122850|120|90"
-   },
    {
     "store": "SAS",
     "title": "Կորնիշոններ մարինացված կծու «Արտֆուդ» 700գ",
@@ -7705,12 +7695,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1128608.png",
     "url": "https://yerevan-city.am/shop/product-details/91665",
     "key": "Yerevan City|id:91665|890|680"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մաքրող միջ. զուգար.համ. «Բրեֆ» օվկիան.զեփ.50գր",
+    "old": 890,
+    "new": 780,
+    "pct": 12,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1097276.png",
+    "url": "https://yerevan-city.am/shop/product-details/114869",
+    "key": "Yerevan City|id:114869|890|780"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-21T00:32:33.226179+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-21T00:47:07.282378+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
