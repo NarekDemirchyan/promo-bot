@@ -3254,22 +3254,12 @@
    "Yerevan City|id:77373|840|635",
    "Yerevan City|id:112053|820|615",
    "Yerevan City|id:117142|820|615",
-   "Yerevan City|id:7259|810|650"
+   "Yerevan City|id:7259|810|650",
+   "Yerevan City|id:15803|810|650"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Թխվածքաբլիթ տիրամիսուի համար «Matilde Vicenzi Vicenzovo» 400գ",
-    "old": 3140,
-    "new": 2190,
-    "pct": 30,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/pechene_pryaniki/133937/",
-    "key": "SAS|id:133937|3140|2190"
-   },
    {
     "store": "SAS",
     "title": "Կոմպոտ ազնվամորու «Իջևան» 1լ",
@@ -7649,12 +7639,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1009565.png",
     "url": "https://yerevan-city.am/shop/product-details/7259",
     "key": "Yerevan City|id:7259|810|650"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Միջադիրներ «Լիբրես» նեյչրալ քեյր, նորմալ 10հտ",
+    "old": 810,
+    "new": 650,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1008162.png",
+    "url": "https://yerevan-city.am/shop/product-details/15803",
+    "key": "Yerevan City|id:15803|810|650"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-20T06:32:11.197319+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-20T06:50:00.648441+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
@@ -7663,7 +7664,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 67,
+ "city_page": 68,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
