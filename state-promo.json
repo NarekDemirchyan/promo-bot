@@ -1638,7 +1638,8 @@
    "SAS|id:514239|990|830",
    "SAS|id:394015|480|400",
    "SAS|id:781531|8790|8290",
-   "SAS|id:686627|2030|1650"
+   "SAS|id:686627|2030|1650",
+   "SAS|id:756209|1350|1050"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5494,6 +5495,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/importnyy_syr/686627/",
     "key": "SAS|id:686627|2030|1650"
+   },
+   {
+    "store": "SAS",
+    "title": "Ըմպելիք սպիտակուցային ելակի համով «Parmalat» 500մլ",
+    "old": 1350,
+    "new": 1050,
+    "pct": 22,
+    "until": "27.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/404/001/0015203135903600.webp",
+    "url": "https://www.sas.am/catalog/slivki_kokteyl/756209/",
+    "key": "SAS|id:756209|1350|1050"
    }
   ],
   "Yerevan City": [
