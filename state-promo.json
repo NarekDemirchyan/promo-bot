@@ -3272,7 +3272,8 @@
    "Yerevan City|id:57099|790|560",
    "Yerevan City|id:9261|790|350",
    "Yerevan City|id:129767|790|420",
-   "Yerevan City|id:20754|790|590"
+   "Yerevan City|id:20754|790|590",
+   "Yerevan City|id:175107|790|470"
   ]
  },
  "queues": {
@@ -7667,6 +7668,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1084887.png",
     "url": "https://yerevan-city.am/shop/product-details/20754",
     "key": "Yerevan City|id:20754|790|590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Պանիր կաթնաշոռային «Պրետտո» խոտաբույսերով 140գր",
+    "old": 790,
+    "new": 470,
+    "pct": 41,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168730.png",
+    "url": "https://yerevan-city.am/shop/product-details/175107",
+    "key": "Yerevan City|id:175107|790|470"
    }
   ]
  },
