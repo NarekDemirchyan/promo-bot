@@ -3252,22 +3252,12 @@
    "Yerevan City|id:72928|840|635",
    "Yerevan City|id:77373|840|635",
    "Yerevan City|id:112053|820|615",
-   "Yerevan City|id:117142|820|615"
+   "Yerevan City|id:117142|820|615",
+   "Yerevan City|id:7259|810|650"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Մյուսլի «Bionova Granola Protein» 280գ",
-    "old": 3690,
-    "new": 1840,
-    "pct": 50,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/kasha_myusli/312685/",
-    "key": "SAS|id:312685|3690|1840"
-   },
    {
     "store": "SAS",
     "title": "Թխվածքաբլիթ տիրամիսուի համար «Matilde Vicenzi Vicenzovo» 400գ",
@@ -7647,12 +7637,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1147142.png",
     "url": "https://yerevan-city.am/shop/product-details/117142",
     "key": "Yerevan City|id:117142|820|615"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Միջադիրներ «Լիբրես» նեյչրալ քեյր, սուպեր 9հտ",
+    "old": 810,
+    "new": 650,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1009565.png",
+    "url": "https://yerevan-city.am/shop/product-details/7259",
+    "key": "Yerevan City|id:7259|810|650"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-20T06:02:39.555610+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-20T06:17:03.969845+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
