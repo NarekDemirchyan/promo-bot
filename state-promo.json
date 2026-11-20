@@ -3290,22 +3290,12 @@
    "Yerevan City|id:192366|790|395",
    "Yerevan City|id:20898|790|590",
    "Yerevan City|id:177752|790|390",
-   "Yerevan City|id:20897|790|590"
+   "Yerevan City|id:20897|790|590",
+   "Yerevan City|id:178691|790|390"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Տեկիլա «Lalo Blanco» 750մլ",
-    "old": 39500,
-    "new": 27650,
-    "pct": 30,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/rom_i_tekilla/887705/",
-    "key": "SAS|id:887705|39500|27650"
-   },
    {
     "store": "SAS",
     "title": "Շոկոլադե կոնֆետների հավաքածու «Patchi Once Upon A Time» 985գ",
@@ -7685,12 +7675,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1085969.png",
     "url": "https://yerevan-city.am/shop/product-details/20897",
     "key": "Yerevan City|id:20897|790|590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տարա ապակյա, քառակուսի 530մլ",
+    "old": 790,
+    "new": 390,
+    "pct": 51,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172393.png",
+    "url": "https://yerevan-city.am/shop/product-details/178691",
+    "key": "Yerevan City|id:178691|790|390"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-20T18:01:55.416038+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-20T18:19:52.739235+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
