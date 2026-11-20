@@ -3260,22 +3260,12 @@
    "Yerevan City|id:7259|810|650",
    "Yerevan City|id:15803|810|650",
    "Yerevan City|id:111852|790|630",
-   "Yerevan City|id:8536|790|395"
+   "Yerevan City|id:8536|790|395",
+   "Yerevan City|id:193535|790|395"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սափրող սարք «Wilkinson Extra 3»",
-    "old": 590,
-    "new": 470,
-    "pct": 20,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/302/179/1791333367713247.webp",
-    "url": "https://www.sas.am/catalog/stanok_dlya_britya/173911/",
-    "key": "SAS|id:173911|590|470"
-   },
    {
     "store": "SAS",
     "title": "Ազնվամորի սպիտակ շոկոլադով «Oswald Schofrulade» 130գ",
@@ -7655,12 +7645,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1047930.png",
     "url": "https://yerevan-city.am/shop/product-details/8536",
     "key": "Yerevan City|id:8536|790|395"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մայոնեզ «Հելլմաննս» Իրական 78% 300գր",
+    "old": 790,
+    "new": 395,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177293.png",
+    "url": "https://yerevan-city.am/shop/product-details/193535",
+    "key": "Yerevan City|id:193535|790|395"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-20T08:32:21.923180+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-20T08:47:06.508776+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
