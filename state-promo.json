@@ -1611,7 +1611,8 @@
    "SAS|id:20765|320|290",
    "SAS|id:3435|1610|1290",
    "SAS|id:180068|2390|2120",
-   "SAS|id:2573|970|790"
+   "SAS|id:2573|970|790",
+   "SAS|id:533992|15900|13850"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5440,6 +5441,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/zhele_plastila/2573/",
     "key": "SAS|id:2573|970|790"
+   },
+   {
+    "store": "SAS",
+    "title": "Սուրճ հատիկավոր «Davidoff Espresso» 1000գ",
+    "old": 15900,
+    "new": 13850,
+    "pct": 13,
+    "until": "31.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/159/412/412710763481912.webp",
+    "url": "https://www.sas.am/catalog/molotyy/533992/",
+    "key": "SAS|id:533992|15900|13850"
    }
   ],
   "Yerevan City": [
