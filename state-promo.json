@@ -1644,7 +1644,8 @@
    "SAS|id:629343|1790|1630",
    "SAS|id:375965|23900|16730",
    "SAS|id:801296|2050|1560",
-   "SAS|id:781532|12300|11590"
+   "SAS|id:781532|12300|11590",
+   "SAS|id:756283|530|460"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5506,6 +5507,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/291/156/1568963780394.webp",
     "url": "https://www.sas.am/catalog/importnoe/781532/",
     "key": "SAS|id:781532|12300|11590"
+   },
+   {
+    "store": "SAS",
+    "title": "Կոկտեյլ կաթնային ելակի համով «Nestle Nesquik» 200մլ",
+    "old": 530,
+    "new": 460,
+    "pct": 13,
+    "until": "27.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/105/376/3764154277547381.webp",
+    "url": "https://www.sas.am/catalog/slivki_kokteyl/756283/",
+    "key": "SAS|id:756283|530|460"
    }
   ],
   "Yerevan City": [
