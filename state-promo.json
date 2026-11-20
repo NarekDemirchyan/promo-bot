@@ -3304,7 +3304,8 @@
    "Yerevan City|id:20801|790|590",
    "Yerevan City|id:192826|790|490",
    "Yerevan City|id:20799|790|590",
-   "Yerevan City|id:20775|790|590"
+   "Yerevan City|id:20775|790|590",
+   "Yerevan City|id:192827|790|490"
   ]
  },
  "queues": {
@@ -7699,6 +7700,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1084877.png",
     "url": "https://yerevan-city.am/shop/product-details/20775",
     "key": "Yerevan City|id:20775|790|590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Պատառաքաղ «ՇենՍին» 6կտոր",
+    "old": 790,
+    "new": 490,
+    "pct": 38,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176565.png",
+    "url": "https://yerevan-city.am/shop/product-details/192827",
+    "key": "Yerevan City|id:192827|790|490"
    }
   ]
  },
