@@ -3264,7 +3264,8 @@
    "Yerevan City|id:111852|790|630",
    "Yerevan City|id:8536|790|395",
    "Yerevan City|id:193535|790|395",
-   "Yerevan City|t:սպագետտի «ռեջիա» վերմիչելի №17 500գր|790|560"
+   "Yerevan City|t:սպագետտի «ռեջիա» վերմիչելի №17 500գր|790|560",
+   "Yerevan City|id:57099|790|560"
   ]
  },
  "queues": {
@@ -7659,6 +7660,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1040184.png",
     "url": "https://yerevan-city.am/shop/product-details/67",
     "key": "Yerevan City|t:սպագետտի «ռեջիա» վերմիչելի №17 500գր|790|560"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սպագետտի «Ռեջիա» Սպագետտինի №20 500գր",
+    "old": 790,
+    "new": 560,
+    "pct": 29,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1049706.png",
+    "url": "https://yerevan-city.am/shop/product-details/57099",
+    "key": "Yerevan City|id:57099|790|560"
    }
   ]
  },
