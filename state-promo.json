@@ -3280,17 +3280,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Պաղպաղակ մոշի «Pops Blackberry» 140մլ",
-    "old": 9990,
-    "new": 4990,
-    "pct": 50,
-    "until": "30.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/326/954/9540841174518464.webp",
-    "url": "https://www.sas.am/catalog/import_morozenoe/947168/",
-    "key": "SAS|id:947168|9990|4990"
-   },
-   {
-    "store": "SAS",
     "title": "Պանիր պինդ «Reypenaer V.S.O.P» 300գ",
     "old": 6990,
     "new": 3490,
@@ -7683,8 +7672,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-20T12:05:26.605049+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-20T12:32:17.702114+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
