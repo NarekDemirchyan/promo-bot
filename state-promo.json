@@ -3308,22 +3308,12 @@
    "Yerevan City|id:20799|790|590",
    "Yerevan City|id:20775|790|590",
    "Yerevan City|id:192827|790|490",
-   "Yerevan City|id:191743|790|395"
+   "Yerevan City|id:191743|790|395",
+   "Yerevan City|id:91665|890|680"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Չորահաց-բրուսկետտա լոլիկի, ձիթապտղի և վայրի սուսամբարի «Maretti» 70գ",
-    "old": 550,
-    "new": 440,
-    "pct": 20,
-    "until": "30.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/226/974/9744712992618124.webp",
-    "url": "https://www.sas.am/catalog/chipsy/177847/",
-    "key": "SAS|id:177847|550|440"
-   },
    {
     "store": "SAS",
     "title": "Գրպանի անձեռոցիկ «Zewa Deluxe Aroma» 10 հատ",
@@ -7703,12 +7693,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175458.png",
     "url": "https://yerevan-city.am/shop/product-details/191743",
     "key": "Yerevan City|id:191743|790|395"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ծամվող մարմելադ «Մամբա» հյութալի կենտրոն 140գր",
+    "old": 890,
+    "new": 680,
+    "pct": 24,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1128608.png",
+    "url": "https://yerevan-city.am/shop/product-details/91665",
+    "key": "Yerevan City|id:91665|890|680"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-20T23:46:40.306091+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-21T00:05:32.472954+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
