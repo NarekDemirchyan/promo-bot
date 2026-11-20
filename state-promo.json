@@ -3316,22 +3316,12 @@
    "Yerevan City|id:91665|890|680",
    "Yerevan City|id:114869|890|780",
    "Yerevan City|id:175094|890|445",
-   "Yerevan City|id:178477|890|490"
+   "Yerevan City|id:178477|890|490",
+   "Yerevan City|id:194121|890|445"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սուրճ լուծվող «Nescafe Classic» 95գ",
-    "old": 2930,
-    "new": 2090,
-    "pct": 29,
-    "until": "20.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/rastvorimyy_kofe/83251/",
-    "key": "SAS|id:83251|2930|2090"
-   },
    {
     "store": "SAS",
     "title": "Շոկոլադե ձվիկ «Kinder Surprise Maxi Natoons» 100գ",
@@ -5525,17 +5515,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Թղթե սրբիչ «Կլեոպատրա» երկշերտ 2հտ",
-    "old": 810,
-    "new": 570,
-    "pct": 30,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1011286.png",
-    "url": "https://yerevan-city.am/shop/product-details/14858",
-    "key": "Yerevan City|id:14858|810|570"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Հալած բուսայուղային խառ. «Իմպերիա Վկուսա» 400գր",
     "old": 810,
     "new": 710,
@@ -7711,12 +7690,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172174.png",
     "url": "https://yerevan-city.am/shop/product-details/178477",
     "key": "Yerevan City|id:178477|890|490"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ատրճանակ սպունգանման փամփուշտներով 2հտ 2255-10",
+    "old": 890,
+    "new": 445,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177892.png",
+    "url": "https://yerevan-city.am/shop/product-details/194121",
+    "key": "Yerevan City|id:194121|890|445"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-21T02:18:14.617670+04:00",
+ "last_publish": "2026-11-21T02:34:25.708169+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
