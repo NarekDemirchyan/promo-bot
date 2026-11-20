@@ -5511,17 +5511,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Բրաունի սպ.պրոտ. «ՇՖ» թխվածքաբլիթի կրեմ ա/շ 50գր",
-    "old": 810,
-    "new": 680,
-    "pct": 16,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1159084.png",
-    "url": "https://yerevan-city.am/shop/product-details/161443",
-    "key": "Yerevan City|id:161443|810|680"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Ամենօրյա միջադիրներ «Լիբրես» դասական, դեո 50հտ",
     "old": 810,
     "new": 720,
@@ -7712,8 +7701,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-20T21:49:28.733382+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-20T22:17:05.919969+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
