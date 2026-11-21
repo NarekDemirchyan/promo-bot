@@ -3326,22 +3326,12 @@
    "Yerevan City|id:23764|890|750",
    "Yerevan City|id:34009|890|680",
    "Yerevan City|id:11604|880|690",
-   "Yerevan City|id:6712|860|790"
+   "Yerevan City|id:6712|860|790",
+   "Yerevan City|id:16904|860|540"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Խավիար սմբուկի «Արտֆուդ Տնական» 470գ",
-    "old": 1120,
-    "new": 1030,
-    "pct": 8,
-    "until": "31.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/267/183/1836673404564018.webp",
-    "url": "https://www.sas.am/catalog/baklazhan/6901/",
-    "key": "SAS|id:6901|1120|1030"
-   },
    {
     "store": "SAS",
     "title": "Վարունգ մարինացված «Արտֆուդ» 520գ",
@@ -7721,12 +7711,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1044977.png",
     "url": "https://yerevan-city.am/shop/product-details/6712",
     "key": "Yerevan City|id:6712|860|790"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սուրճ աղացած «Ժոկեյ» Պրեմիում 100գր",
+    "old": 860,
+    "new": 540,
+    "pct": 37,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1052312.png",
+    "url": "https://yerevan-city.am/shop/product-details/16904",
+    "key": "Yerevan City|id:16904|860|540"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-21T05:02:36.087996+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-21T05:17:05.332331+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
