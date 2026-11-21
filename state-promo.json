@@ -1685,7 +1685,8 @@
    "SAS|id:256498|11900|10290",
    "SAS|id:954695|720|590",
    "SAS|id:847482|6990|5390",
-   "SAS|id:683876|4990|4590"
+   "SAS|id:683876|4990|4590",
+   "SAS|id:678644|3250|2850"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5588,6 +5589,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/107/625/625018936745832.webp",
     "url": "https://www.sas.am/catalog/armyanskiy_konyak/683876/",
     "key": "SAS|id:683876|4990|4590"
+   },
+   {
+    "store": "SAS",
+    "title": "Գինի վարդագույն «Միջնաբերդ» 0.75լ",
+    "old": 3250,
+    "new": 2850,
+    "pct": 12,
+    "until": "08.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/armyanskoe_vino/678644/",
+    "key": "SAS|id:678644|3250|2850"
    }
   ],
   "Yerevan City": [
