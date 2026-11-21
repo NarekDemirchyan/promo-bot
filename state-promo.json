@@ -3386,7 +3386,8 @@
    "Yerevan City|id:172686|780|620",
    "Yerevan City|id:11315|770|490",
    "Yerevan City|id:108591|760|560",
-   "Yerevan City|id:7717|750|650"
+   "Yerevan City|id:7717|750|650",
+   "Yerevan City|id:51193|750|650"
   ]
  },
  "queues": {
@@ -7781,6 +7782,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1080337.png",
     "url": "https://yerevan-city.am/shop/product-details/7717",
     "key": "Yerevan City|id:7717|750|650"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շոկոլադե սալիկ «Միլկա» Օրեո 92գր",
+    "old": 750,
+    "new": 650,
+    "pct": 13,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1100875.png",
+    "url": "https://yerevan-city.am/shop/product-details/51193",
+    "key": "Yerevan City|id:51193|750|650"
    }
   ]
  },
