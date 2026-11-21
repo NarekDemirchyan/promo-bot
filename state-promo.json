@@ -1653,7 +1653,8 @@
    "SAS|id:753309|330|270",
    "SAS|id:714050|13900|9730",
    "SAS|id:711693|1320|1180",
-   "SAS|id:689614|21500|15050"
+   "SAS|id:689614|21500|15050",
+   "SAS|id:683893|8590|7790"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5524,20 +5525,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/rom_i_tekilla/689614/",
     "key": "SAS|id:689614|21500|15050"
+   },
+   {
+    "store": "SAS",
+    "title": "Կոնյակ «Արամե 7*» 0.5լ",
+    "old": 8590,
+    "new": 7790,
+    "pct": 9,
+    "until": "08.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/armyanskiy_konyak/683893/",
+    "key": "SAS|id:683893|8590|7790"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Եգիպտացորեն քաղցր «Բոնդյուել» մատղաշ 425մլ",
-    "old": 800,
-    "new": 670,
-    "pct": 16,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1134800.png",
-    "url": "https://yerevan-city.am/shop/product-details/99359",
-    "key": "Yerevan City|id:99359|800|670"
-   },
    {
     "store": "Yerevan City",
     "title": "Լատտեի բաժակ «ՕՍԶ» 290մլ 24Ց2388",
@@ -7730,8 +7731,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-21T06:32:41.343056+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-21T06:47:07.300732+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
