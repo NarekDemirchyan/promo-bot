@@ -3340,7 +3340,8 @@
    "Yerevan City|id:10355|850|690",
    "Yerevan City|id:16205|850|780",
    "Yerevan City|id:16944|850|795",
-   "Yerevan City|id:20648|850|690"
+   "Yerevan City|id:20648|850|690",
+   "Yerevan City|id:64538|850|785"
   ]
  },
  "queues": {
@@ -7735,6 +7736,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1097618.png",
     "url": "https://yerevan-city.am/shop/product-details/20648",
     "key": "Yerevan City|id:20648|850|690"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Արևածաղկի ձեթ «Մասլովնա» 1լ",
+    "old": 850,
+    "new": 785,
+    "pct": 8,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1111430.png",
+    "url": "https://yerevan-city.am/shop/product-details/64538",
+    "key": "Yerevan City|id:64538|850|785"
    }
   ]
  },
