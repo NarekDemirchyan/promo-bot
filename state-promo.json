@@ -1652,7 +1652,8 @@
    "SAS|id:961368|1220|840",
    "SAS|id:753309|330|270",
    "SAS|id:714050|13900|9730",
-   "SAS|id:711693|1320|1180"
+   "SAS|id:711693|1320|1180",
+   "SAS|id:689614|21500|15050"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5522,6 +5523,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/161/746/7461961855149273.webp",
     "url": "https://www.sas.am/catalog/baklazhan/711693/",
     "key": "SAS|id:711693|1320|1180"
+   },
+   {
+    "store": "SAS",
+    "title": "Ռոմ «Stroh 80» 0.7լ",
+    "old": 21500,
+    "new": 15050,
+    "pct": 30,
+    "until": "30.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/rom_i_tekilla/689614/",
+    "key": "SAS|id:689614|21500|15050"
    }
   ],
   "Yerevan City": [
