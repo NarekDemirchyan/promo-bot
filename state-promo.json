@@ -3368,17 +3368,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Կոնյակ «Գրանդ Երևան 10*» 0․5լ",
-    "old": 10960,
-    "new": 10400,
-    "pct": 5,
-    "until": "08.01.2027",
-    "img": "",
-    "url": "https://www.sas.am/catalog/armyanskiy_konyak/830888/",
-    "key": "SAS|id:830888|10960|10400"
-   },
-   {
-    "store": "SAS",
     "title": "Շոկոլադե կոնֆետների հավաքածու «Delica Dore Dubai» 189գ",
     "old": 7790,
     "new": 4290,
@@ -7771,8 +7760,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-21T16:05:21.306592+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-21T16:31:14.100752+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
