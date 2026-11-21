@@ -3384,22 +3384,12 @@
    "Yerevan City|id:172687|780|620",
    "Yerevan City|id:172686|780|620",
    "Yerevan City|id:11315|770|490",
-   "Yerevan City|id:108591|760|560"
+   "Yerevan City|id:108591|760|560",
+   "Yerevan City|id:7717|750|650"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Էլեկտրական մարտկոց «Energizer AAA Max» 6 հատ",
-    "old": 2650,
-    "new": 1330,
-    "pct": 50,
-    "until": "04.01.2027",
-    "img": "https://www.sas.am/upload/Sh/imageCache/357/555/5559072763300749.webp",
-    "url": "https://www.sas.am/catalog/batareyka/484331/",
-    "key": "SAS|id:484331|2650|1330"
-   },
    {
     "store": "SAS",
     "title": "Էլեկտրական մարտկոց «Energizer AA Max» 6 հատ",
@@ -7779,12 +7769,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1141328.png",
     "url": "https://yerevan-city.am/shop/product-details/108591",
     "key": "Yerevan City|id:108591|760|560"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շոկոլադե սալիկ «Միլկա» Տուկ 87գր",
+    "old": 750,
+    "new": 650,
+    "pct": 13,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1080337.png",
+    "url": "https://yerevan-city.am/shop/product-details/7717",
+    "key": "Yerevan City|id:7717|750|650"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-21T23:17:06.247068+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-21T23:32:11.196555+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
