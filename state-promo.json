@@ -3352,7 +3352,8 @@
    "Yerevan City|id:8046|850|780",
    "Yerevan City|id:96633|850|425",
    "Yerevan City|id:115695|850|795",
-   "Yerevan City|id:115696|850|795"
+   "Yerevan City|id:115696|850|795",
+   "Yerevan City|id:157844|850|795"
   ]
  },
  "queues": {
@@ -7747,6 +7748,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1145814.png",
     "url": "https://yerevan-city.am/shop/product-details/115696",
     "key": "Yerevan City|id:115696|850|795"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Չիպս «Լեյս» ծովախեցգետին 140գր",
+    "old": 850,
+    "new": 795,
+    "pct": 6,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1155508.png",
+    "url": "https://yerevan-city.am/shop/product-details/157844",
+    "key": "Yerevan City|id:157844|850|795"
    }
   ]
  },
