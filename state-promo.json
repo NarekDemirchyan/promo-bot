@@ -1669,7 +1669,8 @@
    "SAS|id:655807|330|270",
    "SAS|id:655806|330|270",
    "SAS|id:31741|540|380",
-   "SAS|id:655808|330|270"
+   "SAS|id:655808|330|270",
+   "SAS|id:31742|510|380"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5556,20 +5557,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/yogurt_puding/655808/",
     "key": "SAS|id:655808|330|270"
+   },
+   {
+    "store": "SAS",
+    "title": "Հանքային ջուր «Nabeghlavi» 1լ",
+    "old": 510,
+    "new": 380,
+    "pct": 25,
+    "until": "05.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/voda/31742/",
+    "key": "SAS|id:31742|510|380"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Ատամի խոզանակ «Դաս Էքսպերտեն» միջին",
-    "old": 660,
-    "new": 420,
-    "pct": 36,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1060005.png",
-    "url": "https://yerevan-city.am/shop/product-details/2467",
-    "key": "Yerevan City|id:2467|660|420"
-   },
    {
     "store": "Yerevan City",
     "title": "Մայոնեզ «Սլոբոդա» Պրովանսալ 67% 400մլ",
@@ -7762,8 +7763,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-21T17:02:24.785156+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-21T17:20:18.973463+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
