@@ -3394,17 +3394,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Էլեկտրական մարտկոց «Energizer AA Max» 6 հատ",
-    "old": 2650,
-    "new": 1330,
-    "pct": 50,
-    "until": "04.01.2027",
-    "img": "https://www.sas.am/upload/Sh/imageCache/191/943/9431213480687558.webp",
-    "url": "https://www.sas.am/catalog/batareyka/484314/",
-    "key": "SAS|id:484314|2650|1330"
-   },
-   {
-    "store": "SAS",
     "title": "Թեյ կանաչ «Ahmad Green Tea» 100գ",
     "old": 1420,
     "new": 920,
@@ -7797,8 +7786,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-21T23:49:17.334698+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-22T00:17:10.435735+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
