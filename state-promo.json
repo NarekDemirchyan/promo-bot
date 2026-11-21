@@ -1679,7 +1679,8 @@
    "SAS|id:528228|1460|1350",
    "SAS|id:513760|930|770",
    "SAS|id:510989|5590|5250",
-   "SAS|id:604834|5490|5090"
+   "SAS|id:604834|5490|5090",
+   "SAS|id:431813|3630|3150"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5576,20 +5577,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/armyanskiy_konyak/604834/",
     "key": "SAS|id:604834|5490|5090"
+   },
+   {
+    "store": "SAS",
+    "title": "Օդը թարմացնող միջոց և ռաթթան փայտիկներ «Brait Golden Valley» 100մլ",
+    "old": 3630,
+    "new": 3150,
+    "pct": 13,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/osvezhiteli/431813/",
+    "key": "SAS|id:431813|3630|3150"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Մայոնեզ «Սլոբոդա» լորի ձվով 67% 400մլ",
-    "old": 660,
-    "new": 610,
-    "pct": 8,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175339.png",
-    "url": "https://yerevan-city.am/shop/product-details/191620",
-    "key": "Yerevan City|id:191620|660|610"
-   },
    {
     "store": "Yerevan City",
     "title": "Մայոնեզ «Սլոբոդա» թթվասերային 67% 375գր",
@@ -7782,8 +7783,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-21T23:01:17.355222+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-21T23:17:06.247068+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
