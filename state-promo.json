@@ -3328,22 +3328,12 @@
    "Yerevan City|id:34009|890|680",
    "Yerevan City|id:11604|880|690",
    "Yerevan City|id:6712|860|790",
-   "Yerevan City|id:16904|860|540"
+   "Yerevan City|id:16904|860|540",
+   "Yerevan City|id:54958|860|590"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Վարունգ մարինացված «Արտֆուդ» 520գ",
-    "old": 1130,
-    "new": 1030,
-    "pct": 9,
-    "until": "31.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/260/580/5801162206043278.webp",
-    "url": "https://www.sas.am/catalog/ogurtsy/824586/",
-    "key": "SAS|id:824586|1130|1030"
-   },
    {
     "store": "SAS",
     "title": "Կանաչ ոլոռ «Արտֆուդ» 750գ",
@@ -7723,12 +7713,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1052312.png",
     "url": "https://yerevan-city.am/shop/product-details/16904",
     "key": "Yerevan City|id:16904|860|540"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թղթե սրբիչ «Կլեոպատրա» երկշերտ 1հտ",
+    "old": 860,
+    "new": 590,
+    "pct": 31,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1109160.png",
+    "url": "https://yerevan-city.am/shop/product-details/54958",
+    "key": "Yerevan City|id:54958|860|590"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-21T05:32:16.600886+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-21T05:48:53.571070+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
