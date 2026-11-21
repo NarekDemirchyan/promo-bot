@@ -5543,17 +5543,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Լատտեի բաժակ «ՕՍԶ» 290մլ 24Ց2388",
-    "old": 850,
-    "new": 490,
-    "pct": 42,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1166564.png",
-    "url": "https://yerevan-city.am/shop/product-details/172983",
-    "key": "Yerevan City|id:172983|850|490"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Գրաֆին «Հերեվին» ապակե 1լ",
     "old": 850,
     "new": 490,
@@ -7744,8 +7733,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-21T07:05:21.837526+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-21T07:31:12.090387+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
