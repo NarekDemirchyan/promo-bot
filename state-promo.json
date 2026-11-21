@@ -1675,7 +1675,8 @@
    "SAS|id:651869|1050|880",
    "SAS|id:4160|460|340",
    "SAS|id:655805|330|270",
-   "SAS|id:678645|2850|2650"
+   "SAS|id:678645|2850|2650",
+   "SAS|id:528228|1460|1350"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5568,6 +5569,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/305/663/6630901434997394.webp",
     "url": "https://www.sas.am/catalog/armyanskoe_vino/678645/",
     "key": "SAS|id:678645|2850|2650"
+   },
+   {
+    "store": "SAS",
+    "title": "Կրեկերներ պանրի համով «Croco Salt» 400գ",
+    "old": 1460,
+    "new": 1350,
+    "pct": 8,
+    "until": "30.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/170/648/6480512161017183.webp",
+    "url": "https://www.sas.am/catalog/krekery_solenye_palochki/528228/",
+    "key": "SAS|id:528228|1460|1350"
    }
   ],
   "Yerevan City": [
