@@ -5539,17 +5539,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Գազավորված ըմպելիք «Պեպսի» 2լ",
-    "old": 800,
-    "new": 645,
-    "pct": 19,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1043775.png",
-    "url": "https://yerevan-city.am/shop/product-details/406",
-    "key": "Yerevan City|id:406|800|645"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Եգիպտացորեն քաղցր «Բոնդյուել» մատղաշ 425մլ",
     "old": 800,
     "new": 670,
@@ -7740,8 +7729,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-21T05:48:53.571070+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-21T06:17:04.713255+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
