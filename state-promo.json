@@ -1674,7 +1674,8 @@
    "SAS|id:3314|2190|1740",
    "SAS|id:651869|1050|880",
    "SAS|id:4160|460|340",
-   "SAS|id:655805|330|270"
+   "SAS|id:655805|330|270",
+   "SAS|id:678645|2850|2650"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3373,22 +3374,12 @@
    "Yerevan City|id:99864|780|590",
    "Yerevan City|id:172689|780|620",
    "Yerevan City|id:172688|780|620",
-   "Yerevan City|id:172684|780|620"
+   "Yerevan City|id:172684|780|620",
+   "Yerevan City|id:172685|780|620"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Թեյ սև «Greenfield Rich Ceylon» 20x2գ",
-    "old": 1340,
-    "new": 1150,
-    "pct": 14,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/v_paketakh/198263/",
-    "key": "SAS|id:198263|1340|1150"
-   },
    {
     "store": "SAS",
     "title": "Մարմնի կրեմ «Nivea Crème» 30մլ",
@@ -5566,6 +5557,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/yogurt_puding/655805/",
     "key": "SAS|id:655805|330|270"
+   },
+   {
+    "store": "SAS",
+    "title": "Գինի կարմիր «Միջնաբերդ Հաղթանակ» 0.75լ",
+    "old": 2850,
+    "new": 2650,
+    "pct": 7,
+    "until": "08.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/305/663/6630901434997394.webp",
+    "url": "https://www.sas.am/catalog/armyanskoe_vino/678645/",
+    "key": "SAS|id:678645|2850|2650"
    }
   ],
   "Yerevan City": [
@@ -7757,12 +7759,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1166272.png",
     "url": "https://yerevan-city.am/shop/product-details/172684",
     "key": "Yerevan City|id:172684|780|620"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հյութ պար.ըմպելիք «Մոջտաբա» խնձոր 950մլ",
+    "old": 780,
+    "new": 620,
+    "pct": 21,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1166273.png",
+    "url": "https://yerevan-city.am/shop/product-details/172685",
+    "key": "Yerevan City|id:172685|780|620"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-21T19:47:19.084665+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-21T20:05:13.481546+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
