@@ -1671,7 +1671,8 @@
    "SAS|id:31741|540|380",
    "SAS|id:655808|330|270",
    "SAS|id:31742|510|380",
-   "SAS|id:3314|2190|1740"
+   "SAS|id:3314|2190|1740",
+   "SAS|id:651869|1050|880"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3367,22 +3368,12 @@
    "Yerevan City|id:14986|780|640",
    "Yerevan City|id:22273|780|590",
    "Yerevan City|id:172690|780|620",
-   "Yerevan City|id:99864|780|590"
+   "Yerevan City|id:99864|780|590",
+   "Yerevan City|id:172689|780|620"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Թխվածքաբլիթ հնդկացորենի «Carabreizh» 100գ",
-    "old": 2350,
-    "new": 1640,
-    "pct": 30,
-    "until": "30.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/696/116/116725679407685.webp",
-    "url": "https://www.sas.am/catalog/pechene_pryaniki/793560/",
-    "key": "SAS|id:793560|2350|1640"
-   },
    {
     "store": "SAS",
     "title": "Թեյ սև «Ahmad English Breakfast» 100գ",
@@ -5560,6 +5551,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/696/401/4017564209092505.webp",
     "url": "https://www.sas.am/catalog/slivochnoe_maslo/3314/",
     "key": "SAS|id:3314|2190|1740"
+   },
+   {
+    "store": "SAS",
+    "title": "Սերուցք «President» 200գ, յուղայնությունը`23",
+    "old": 1050,
+    "new": 880,
+    "pct": 16,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/slivki_kokteyl/651869/",
+    "key": "SAS|id:651869|1050|880"
    }
   ],
   "Yerevan City": [
@@ -7751,12 +7753,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1135264.png",
     "url": "https://yerevan-city.am/shop/product-details/99864",
     "key": "Yerevan City|id:99864|780|590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հյութ պար.ըմպելիք «Մոջտաբա» արքայախնձոր 950մլ",
+    "old": 780,
+    "new": 620,
+    "pct": 21,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1166270.png",
+    "url": "https://yerevan-city.am/shop/product-details/172689",
+    "key": "Yerevan City|id:172689|780|620"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-21T18:31:10.976248+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-21T18:49:27.912389+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
