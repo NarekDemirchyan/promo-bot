@@ -3360,7 +3360,8 @@
    "Yerevan City|id:157844|850|795",
    "Yerevan City|id:117389|850|690",
    "Yerevan City|id:63711|840|570",
-   "Yerevan City|id:20759|790|590"
+   "Yerevan City|id:20759|790|590",
+   "Yerevan City|id:14986|780|640"
   ]
  },
  "queues": {
@@ -7755,6 +7756,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1084882.png",
     "url": "https://yerevan-city.am/shop/product-details/20759",
     "key": "Yerevan City|id:20759|790|590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Աղի ձողիկներ «Կրոկո» երկար 250գր",
+    "old": 780,
+    "new": 640,
+    "pct": 18,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1069726.png",
+    "url": "https://yerevan-city.am/shop/product-details/14986",
+    "key": "Yerevan City|id:14986|780|640"
    }
   ]
  },
