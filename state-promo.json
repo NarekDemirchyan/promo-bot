@@ -1682,7 +1682,8 @@
    "SAS|id:604834|5490|5090",
    "SAS|id:431813|3630|3150",
    "SAS|id:631492|1250|1150",
-   "SAS|id:256498|11900|10290"
+   "SAS|id:256498|11900|10290",
+   "SAS|id:954695|720|590"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3389,22 +3390,12 @@
    "Yerevan City|id:108591|760|560",
    "Yerevan City|id:7717|750|650",
    "Yerevan City|id:51193|750|650",
-   "Yerevan City|id:8915|750|590"
+   "Yerevan City|id:8915|750|590",
+   "Yerevan City|id:68310|750|530"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Թեյ մրգային «Curtis» 20*1.7գ",
-    "old": 720,
-    "new": 490,
-    "pct": 32,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/v_paketakh/235848/",
-    "key": "SAS|id:235848|720|490"
-   },
    {
     "store": "SAS",
     "title": "Բամբակյա բարձիկներ «Lady Cotton» 100 հատ",
@@ -5582,6 +5573,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/386/029/0290403779393949.webp",
     "url": "https://www.sas.am/catalog/armyanskoe_vodka/256498/",
     "key": "SAS|id:256498|11900|10290"
+   },
+   {
+    "store": "SAS",
+    "title": "Ըմպելիք իզոտոնային հատապտուղների և մրգերի «Fitness Shock» 500մլ",
+    "old": 720,
+    "new": 590,
+    "pct": 18,
+    "until": "10.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/253/246/2462763495604656.webp",
+    "url": "https://www.sas.am/catalog/osvezhayushchiy_napitok/954695/",
+    "key": "SAS|id:954695|720|590"
    }
   ],
   "Yerevan City": [
@@ -7773,12 +7775,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1041121.png",
     "url": "https://yerevan-city.am/shop/product-details/8915",
     "key": "Yerevan City|id:8915|750|590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շոկ.սալիկ «Միլկա» կաթ.շոկ-ազնվամորի 100գր",
+    "old": 750,
+    "new": 530,
+    "pct": 29,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1113140.png",
+    "url": "https://yerevan-city.am/shop/product-details/68310",
+    "key": "Yerevan City|id:68310|750|530"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-22T00:47:09.261622+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-22T01:03:35.623164+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
