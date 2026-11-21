@@ -3362,22 +3362,12 @@
    "Yerevan City|id:117389|850|690",
    "Yerevan City|id:63711|840|570",
    "Yerevan City|id:20759|790|590",
-   "Yerevan City|id:14986|780|640"
+   "Yerevan City|id:14986|780|640",
+   "Yerevan City|id:22273|780|590"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շոկոլադե կոնֆետների հավաքածու «Delica Dore Dubai» 189գ",
-    "old": 7790,
-    "new": 4290,
-    "pct": 45,
-    "until": "25.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/nabory_konfet/822800/",
-    "key": "SAS|id:822800|7790|4290"
-   },
    {
     "store": "SAS",
     "title": "Գինի կարմիր «Տակառ Օրգանիկ» 0.75լ",
@@ -7757,12 +7747,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1069726.png",
     "url": "https://yerevan-city.am/shop/product-details/14986",
     "key": "Yerevan City|id:14986|780|640"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Չորահաց «Մարետտի» լոլիկ, ձիթապտուղ-օրիգանո 140գր",
+    "old": 780,
+    "new": 590,
+    "pct": 24,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1102916.png",
+    "url": "https://yerevan-city.am/shop/product-details/22273",
+    "key": "Yerevan City|id:22273|780|590"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-21T16:47:18.672631+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-21T17:02:24.785156+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
