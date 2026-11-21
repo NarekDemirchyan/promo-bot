@@ -1658,7 +1658,8 @@
    "SAS|id:683892|6150|5650",
    "SAS|id:683891|10900|9800",
    "SAS|id:29145|6290|4990",
-   "SAS|id:2301|5990|4490"
+   "SAS|id:2301|5990|4490",
+   "SAS|id:29088|5990|4490"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5534,20 +5535,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/112/268/2687534157549338.webp",
     "url": "https://www.sas.am/catalog/armyanskoe_vino/2301/",
     "key": "SAS|id:2301|5990|4490"
+   },
+   {
+    "store": "SAS",
+    "title": "Գինի վարդագույն «Արյաց» 0.75լ",
+    "old": 5990,
+    "new": 4490,
+    "pct": 25,
+    "until": "08.01.2027",
+    "img": "https://www.sas.am/upload/Sh/imageCache/398/207/2077024263822541.webp",
+    "url": "https://www.sas.am/catalog/armyanskoe_vino/29088/",
+    "key": "SAS|id:29088|5990|4490"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Պուդինգ պրոտ. «Վալիո» շոկոլադ ա/շ/լ 180գր",
-    "old": 850,
-    "new": 690,
-    "pct": 19,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169048.png",
-    "url": "https://yerevan-city.am/shop/product-details/175427",
-    "key": "Yerevan City|id:175427|850|690"
-   },
    {
     "store": "Yerevan City",
     "title": "Պուդինգ պրոտ. «Վալիո» վանիլ-բեզե ա/շ/լ 180գր",
@@ -7740,8 +7741,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-21T10:02:31.565165+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-21T10:17:00.744703+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
