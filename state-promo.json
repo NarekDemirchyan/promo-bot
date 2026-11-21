@@ -3354,17 +3354,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Ըմպելիք ալկոհոլային ծիրանի «Օրրան» 0․5լ",
-    "old": 4990,
-    "new": 4690,
-    "pct": 6,
-    "until": "08.01.2027",
-    "img": "https://www.sas.am/upload/Sh/imageCache/273/234/234569999652685.webp",
-    "url": "https://www.sas.am/catalog/armyanskiy_konyak/830934/",
-    "key": "SAS|id:830934|4990|4690"
-   },
-   {
-    "store": "SAS",
     "title": "Կոնյակ «Գրանդ Երևան 7*» 0․5լ",
     "old": 8170,
     "new": 7750,
@@ -7757,8 +7746,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-21T11:32:16.780858+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-21T11:47:10.749270+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
