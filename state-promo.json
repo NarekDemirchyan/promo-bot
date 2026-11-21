@@ -3356,7 +3356,8 @@
    "Yerevan City|id:115695|850|795",
    "Yerevan City|id:115696|850|795",
    "Yerevan City|id:157844|850|795",
-   "Yerevan City|id:117389|850|690"
+   "Yerevan City|id:117389|850|690",
+   "Yerevan City|id:63711|840|570"
   ]
  },
  "queues": {
@@ -7751,6 +7752,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1147337.png",
     "url": "https://yerevan-city.am/shop/product-details/117389",
     "key": "Yerevan City|id:117389|850|690"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Աղբի պարկեր «Ֆրեկեն Բոկ» բռնակներով 60լ 20հտ",
+    "old": 840,
+    "new": 570,
+    "pct": 32,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1111185.png",
+    "url": "https://yerevan-city.am/shop/product-details/63711",
+    "key": "Yerevan City|id:63711|840|570"
    }
   ]
  },
@@ -7765,7 +7777,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 71,
+ "city_page": 72,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
