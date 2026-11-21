@@ -1672,7 +1672,8 @@
    "SAS|id:655808|330|270",
    "SAS|id:31742|510|380",
    "SAS|id:3314|2190|1740",
-   "SAS|id:651869|1050|880"
+   "SAS|id:651869|1050|880",
+   "SAS|id:4160|460|340"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5562,6 +5563,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/slivki_kokteyl/651869/",
     "key": "SAS|id:651869|1050|880"
+   },
+   {
+    "store": "SAS",
+    "title": "Սերուցք սուրճի «President» 10x10գ, յուղայնությունը`10",
+    "old": 460,
+    "new": 340,
+    "pct": 26,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/slivki_kokteyl/4160/",
+    "key": "SAS|id:4160|460|340"
    }
   ],
   "Yerevan City": [
