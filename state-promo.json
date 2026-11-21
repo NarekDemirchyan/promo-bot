@@ -3342,22 +3342,12 @@
    "Yerevan City|id:16205|850|780",
    "Yerevan City|id:16944|850|795",
    "Yerevan City|id:20648|850|690",
-   "Yerevan City|id:64538|850|785"
+   "Yerevan City|id:64538|850|785",
+   "Yerevan City|id:73905|850|425"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կոնյակ «Օրրան 7*» 0․5լ",
-    "old": 7090,
-    "new": 6700,
-    "pct": 6,
-    "until": "08.01.2027",
-    "img": "",
-    "url": "https://www.sas.am/catalog/armyanskiy_konyak/847978/",
-    "key": "SAS|id:847978|7090|6700"
-   },
    {
     "store": "SAS",
     "title": "Օղի «Արմենիա Գոլդ» 0.7լ",
@@ -7737,12 +7727,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1111430.png",
     "url": "https://yerevan-city.am/shop/product-details/64538",
     "key": "Yerevan City|id:64538|850|785"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թեյ սև «Կուրտիս» մանգո, հատապտուղներ 20x1.7գր",
+    "old": 850,
+    "new": 425,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1116879.png",
+    "url": "https://yerevan-city.am/shop/product-details/73905",
+    "key": "Yerevan City|id:73905|850|425"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-21T10:17:00.744703+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-21T10:32:16.528119+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
