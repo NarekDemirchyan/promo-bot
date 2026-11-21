@@ -3330,22 +3330,12 @@
    "Yerevan City|id:11604|880|690",
    "Yerevan City|id:6712|860|790",
    "Yerevan City|id:16904|860|540",
-   "Yerevan City|id:54958|860|590"
+   "Yerevan City|id:54958|860|590",
+   "Yerevan City|id:69478|860|745"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կանաչ ոլոռ «Արտֆուդ» 750գ",
-    "old": 990,
-    "new": 920,
-    "pct": 7,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/goroshek/37036/",
-    "key": "SAS|id:37036|990|920"
-   },
    {
     "store": "SAS",
     "title": "Լոլիկ մարինացված «Արտֆուդ» 700գ",
@@ -7725,12 +7715,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1109160.png",
     "url": "https://yerevan-city.am/shop/product-details/54958",
     "key": "Yerevan City|id:54958|860|590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կանաչ ոլոռ «Օտ Գուրմանա» ա/տ 690գր",
+    "old": 860,
+    "new": 745,
+    "pct": 13,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1113940.png",
+    "url": "https://yerevan-city.am/shop/product-details/69478",
+    "key": "Yerevan City|id:69478|860|745"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-21T06:17:04.713255+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-21T06:32:41.343056+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
@@ -7739,7 +7740,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 69,
+ "city_page": 70,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
