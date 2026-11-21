@@ -1683,7 +1683,8 @@
    "SAS|id:431813|3630|3150",
    "SAS|id:631492|1250|1150",
    "SAS|id:256498|11900|10290",
-   "SAS|id:954695|720|590"
+   "SAS|id:954695|720|590",
+   "SAS|id:847482|6990|5390"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5584,6 +5585,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/253/246/2462763495604656.webp",
     "url": "https://www.sas.am/catalog/osvezhayushchiy_napitok/954695/",
     "key": "SAS|id:954695|720|590"
+   },
+   {
+    "store": "SAS",
+    "title": "Գինի կարմիր «Գևորգյան Արյաց Կարբոնիկ Հաղթանակ Կարասի» 0.75լ",
+    "old": 6990,
+    "new": 5390,
+    "pct": 23,
+    "until": "08.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/armyanskoe_vino/847482/",
+    "key": "SAS|id:847482|6990|5390"
    }
   ],
   "Yerevan City": [
