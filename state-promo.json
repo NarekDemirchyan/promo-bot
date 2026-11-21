@@ -3348,7 +3348,8 @@
    "Yerevan City|id:64538|850|785",
    "Yerevan City|id:73905|850|425",
    "Yerevan City|id:8046|850|780",
-   "Yerevan City|id:96633|850|425"
+   "Yerevan City|id:96633|850|425",
+   "Yerevan City|id:115695|850|795"
   ]
  },
  "queues": {
@@ -7743,6 +7744,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1132642.png",
     "url": "https://yerevan-city.am/shop/product-details/96633",
     "key": "Yerevan City|id:96633|850|425"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Չիպս «Լեյս» աղով 140գր",
+    "old": 850,
+    "new": 795,
+    "pct": 6,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1145813.png",
+    "url": "https://yerevan-city.am/shop/product-details/115695",
+    "key": "Yerevan City|id:115695|850|795"
    }
   ]
  },
