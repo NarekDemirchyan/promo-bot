@@ -3364,17 +3364,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Կոնյակ «Օրրան 5*» 0․5լ",
-    "old": 4660,
-    "new": 4350,
-    "pct": 7,
-    "until": "08.01.2027",
-    "img": "https://www.sas.am/upload/Sh/imageCache/325/399/3998503325091131.webp",
-    "url": "https://www.sas.am/catalog/armyanskiy_konyak/830890/",
-    "key": "SAS|id:830890|4660|4350"
-   },
-   {
-    "store": "SAS",
     "title": "Կոնյակ «Օրրան 3*» 0․5լ",
     "old": 3370,
     "new": 3190,
@@ -7767,8 +7756,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-21T14:50:16.901081+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-21T15:16:58.670653+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
@@ -7777,7 +7766,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 72,
+ "city_page": 73,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
