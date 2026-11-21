@@ -3386,17 +3386,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Սուրճ լուծվող «Carte Noire Elegant» 95գ",
-    "old": 5990,
-    "new": 3790,
-    "pct": 37,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/rastvorimyy_kofe/278840/",
-    "key": "SAS|id:278840|5990|3790"
-   },
-   {
-    "store": "SAS",
     "title": "Օդը թարմացնող միջոց և ռաթթան փայտիկներ «Brait Midnight Dream» 100մլ",
     "old": 3630,
     "new": 3150,
@@ -7789,8 +7778,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-21T21:19:23.620830+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-21T21:47:13.931445+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
