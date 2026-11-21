@@ -3376,7 +3376,8 @@
    "Yerevan City|id:172689|780|620",
    "Yerevan City|id:172688|780|620",
    "Yerevan City|id:172684|780|620",
-   "Yerevan City|id:172685|780|620"
+   "Yerevan City|id:172685|780|620",
+   "Yerevan City|id:172687|780|620"
   ]
  },
  "queues": {
@@ -7771,6 +7772,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1166273.png",
     "url": "https://yerevan-city.am/shop/product-details/172685",
     "key": "Yerevan City|id:172685|780|620"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հյութ պար.ըմպելիք «Մոջտաբա» բալ 950մլ",
+    "old": 780,
+    "new": 620,
+    "pct": 21,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1166275.png",
+    "url": "https://yerevan-city.am/shop/product-details/172687",
+    "key": "Yerevan City|id:172687|780|620"
    }
   ]
  },
