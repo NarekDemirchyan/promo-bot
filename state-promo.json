@@ -3390,17 +3390,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Լիկյոր «Mozart Chocolate Pumpkin Spice» 500մլ",
-    "old": 16900,
-    "new": 11830,
-    "pct": 30,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/liker/761975/",
-    "key": "SAS|id:761975|16900|11830"
-   },
-   {
-    "store": "SAS",
     "title": "Էլեկտրական մարտկոց «Energizer AAA Max» 6 հատ",
     "old": 2650,
     "new": 1330,
@@ -7793,8 +7782,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-21T22:35:20.838117+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-21T23:01:17.355222+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
@@ -7803,7 +7792,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 74,
+ "city_page": 75,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
