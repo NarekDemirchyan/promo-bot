@@ -3392,22 +3392,12 @@
    "Yerevan City|id:7717|750|650",
    "Yerevan City|id:51193|750|650",
    "Yerevan City|id:8915|750|590",
-   "Yerevan City|id:68310|750|530"
+   "Yerevan City|id:68310|750|530",
+   "Yerevan City|id:68320|750|530"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Բամբակյա բարձիկներ «Lady Cotton» 100 հատ",
-    "old": 570,
-    "new": 500,
-    "pct": 12,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/vatnye_izdeliya2/27182/",
-    "key": "SAS|id:27182|570|500"
-   },
    {
     "store": "SAS",
     "title": "Լոգանքի գել «Nivea Men» 250մլ",
@@ -7787,12 +7777,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1113140.png",
     "url": "https://yerevan-city.am/shop/product-details/68310",
     "key": "Yerevan City|id:68310|750|530"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շոկոլադե սալիկ «Միլկա» շոկոլադե մուսս 100գր",
+    "old": 750,
+    "new": 530,
+    "pct": 29,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1113163.png",
+    "url": "https://yerevan-city.am/shop/product-details/68320",
+    "key": "Yerevan City|id:68320|750|530"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-22T01:32:14.412690+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-22T01:47:09.386559+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
