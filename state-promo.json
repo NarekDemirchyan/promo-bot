@@ -1681,7 +1681,8 @@
    "SAS|id:510989|5590|5250",
    "SAS|id:604834|5490|5090",
    "SAS|id:431813|3630|3150",
-   "SAS|id:631492|1250|1150"
+   "SAS|id:631492|1250|1150",
+   "SAS|id:256498|11900|10290"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5580,20 +5581,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/kompot/631492/",
     "key": "SAS|id:631492|1250|1150"
+   },
+   {
+    "store": "SAS",
+    "title": "Օղի ծիրանի «Միջնաբերդ Ռեզերվ» 0.5լ",
+    "old": 11900,
+    "new": 10290,
+    "pct": 14,
+    "until": "08.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/386/029/0290403779393949.webp",
+    "url": "https://www.sas.am/catalog/armyanskoe_vodka/256498/",
+    "key": "SAS|id:256498|11900|10290"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Գարեջուր ոչ ալկոհոլային «Բալտիկա» 0 թ/տ 0.45լ",
-    "old": 650,
-    "new": 580,
-    "pct": 11,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1054775.png",
-    "url": "https://yerevan-city.am/shop/product-details/7703",
-    "key": "Yerevan City|id:7703|650|580"
-   },
    {
     "store": "Yerevan City",
     "title": "Գարեջուր «Բալտիկա» 7 թ/տ 0.45լ",
@@ -7786,8 +7787,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-22T00:17:10.435735+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-22T00:32:17.052421+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
