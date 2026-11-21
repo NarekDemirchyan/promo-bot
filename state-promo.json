@@ -3344,7 +3344,8 @@
    "Yerevan City|id:16944|850|795",
    "Yerevan City|id:20648|850|690",
    "Yerevan City|id:64538|850|785",
-   "Yerevan City|id:73905|850|425"
+   "Yerevan City|id:73905|850|425",
+   "Yerevan City|id:8046|850|780"
   ]
  },
  "queues": {
@@ -7739,6 +7740,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1116879.png",
     "url": "https://yerevan-city.am/shop/product-details/73905",
     "key": "Yerevan City|id:73905|850|425"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կանաչ ոլոռ «Կոոպոլիվա» 850մլ",
+    "old": 850,
+    "new": 780,
+    "pct": 8,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1048559.png",
+    "url": "https://yerevan-city.am/shop/product-details/8046",
+    "key": "Yerevan City|id:8046|850|780"
    }
   ]
  },
