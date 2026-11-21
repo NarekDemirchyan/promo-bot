@@ -1654,7 +1654,8 @@
    "SAS|id:714050|13900|9730",
    "SAS|id:711693|1320|1180",
    "SAS|id:689614|21500|15050",
-   "SAS|id:683893|8590|7790"
+   "SAS|id:683893|8590|7790",
+   "SAS|id:683892|6150|5650"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5526,6 +5527,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/armyanskiy_konyak/683893/",
     "key": "SAS|id:683893|8590|7790"
+   },
+   {
+    "store": "SAS",
+    "title": "Կոնյակ «Արամե 5*» 0.5լ",
+    "old": 6150,
+    "new": 5650,
+    "pct": 8,
+    "until": "08.01.2027",
+    "img": "https://www.sas.am/upload/Sh/imageCache/405/204/2044581886773688.webp",
+    "url": "https://www.sas.am/catalog/armyanskiy_konyak/683892/",
+    "key": "SAS|id:683892|6150|5650"
    }
   ],
   "Yerevan City": [
