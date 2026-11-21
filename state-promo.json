@@ -3338,22 +3338,12 @@
    "Yerevan City|id:69478|860|745",
    "Yerevan City|id:10355|850|690",
    "Yerevan City|id:16205|850|780",
-   "Yerevan City|id:16944|850|795"
+   "Yerevan City|id:16944|850|795",
+   "Yerevan City|id:20648|850|690"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Հյութ տոմատի «Իջևան» 1000մլ",
-    "old": 1420,
-    "new": 1350,
-    "pct": 5,
-    "until": "07.01.2027",
-    "img": "https://www.sas.am/upload/Sh/imageCache/227/121/1216072233304472.webp",
-    "url": "https://www.sas.am/catalog/sok/632710/",
-    "key": "SAS|id:632710|1420|1350"
-   },
    {
     "store": "SAS",
     "title": "Էլեկտրական մարտկոց «Energizer AAA LR03» 5հատ",
@@ -7733,12 +7723,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1099112.png",
     "url": "https://yerevan-city.am/shop/product-details/16944",
     "key": "Yerevan City|id:16944|850|795"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թեյ կանաչ «Ռիչարդ» Ռոյալ Մելիսսա 25x1.5գր",
+    "old": 850,
+    "new": 690,
+    "pct": 19,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1097618.png",
+    "url": "https://yerevan-city.am/shop/product-details/20648",
+    "key": "Yerevan City|id:20648|850|690"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-21T08:47:01.817986+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-21T09:02:30.631446+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
