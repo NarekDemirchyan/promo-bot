@@ -3324,7 +3324,8 @@
    "Yerevan City|id:194121|890|445",
    "Yerevan City|id:23764|890|750",
    "Yerevan City|id:34009|890|680",
-   "Yerevan City|id:11604|880|690"
+   "Yerevan City|id:11604|880|690",
+   "Yerevan City|id:6712|860|790"
   ]
  },
  "queues": {
@@ -7719,6 +7720,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1049585.png",
     "url": "https://yerevan-city.am/shop/product-details/11604",
     "key": "Yerevan City|id:11604|880|690"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Եգիպտացորեն քաղցր «Կոոպոլիվա» 850գր",
+    "old": 860,
+    "new": 790,
+    "pct": 8,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1044977.png",
+    "url": "https://yerevan-city.am/shop/product-details/6712",
+    "key": "Yerevan City|id:6712|860|790"
    }
   ]
  },
