@@ -3456,22 +3456,12 @@
    "Yerevan City|id:13896|720|460",
    "Yerevan City|id:15903|700|640",
    "Yerevan City|id:50523|695|635",
-   "Yerevan City|id:196864|690|490"
+   "Yerevan City|id:196864|690|490",
+   "Yerevan City|id:67121|690|345"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Խտացրած կաթ պիստակի «Коровка из Кореновки Пломбир» 270գ, յուղայնությունը` 8.5",
-    "old": 690,
-    "new": 630,
-    "pct": 9,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/sgushchennoe_moloko/964802/",
-    "key": "SAS|id:964802|690|630"
-   },
    {
     "store": "SAS",
     "title": "Խտացրած կաթ կրեմ բրյուլեի «Коровка из Кореновки Пломбир» 270գ, յուղայնությունը` 8.5",
@@ -7851,12 +7841,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1182110.png",
     "url": "https://yerevan-city.am/shop/product-details/196864",
     "key": "Yerevan City|id:196864|690|490"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Զեֆիր շոկոլադում «Ուդարնիցա» Շարմէլ, դասական 75գր",
+    "old": 690,
+    "new": 345,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1047082.png",
+    "url": "https://yerevan-city.am/shop/product-details/67121",
+    "key": "Yerevan City|id:67121|690|345"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-22T23:32:16.415753+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-22T23:47:05.084851+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
