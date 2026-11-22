@@ -3448,7 +3448,8 @@
    "Yerevan City|id:169789|720|360",
    "Yerevan City|id:917|720|490",
    "Yerevan City|id:4342|720|460",
-   "Yerevan City|id:5324|720|460"
+   "Yerevan City|id:5324|720|460",
+   "Yerevan City|id:13896|720|460"
   ]
  },
  "queues": {
@@ -7843,6 +7844,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1047114.png",
     "url": "https://yerevan-city.am/shop/product-details/5324",
     "key": "Yerevan City|id:5324|720|460"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թեյ մրգային «Տեսս» ելակ և դեղձ 25x1.5գր",
+    "old": 720,
+    "new": 460,
+    "pct": 36,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1043690.png",
+    "url": "https://yerevan-city.am/shop/product-details/13896",
+    "key": "Yerevan City|id:13896|720|460"
    }
   ]
  },
