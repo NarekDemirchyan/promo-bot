@@ -3408,7 +3408,8 @@
    "Yerevan City|id:193531|740|370",
    "Yerevan City|id:193530|740|370",
    "Yerevan City|id:193528|740|370",
-   "Yerevan City|id:170519|750|595"
+   "Yerevan City|id:170519|750|595",
+   "Yerevan City|id:174154|750|620"
   ]
  },
  "queues": {
@@ -7803,6 +7804,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1164234.png",
     "url": "https://yerevan-city.am/shop/product-details/170519",
     "key": "Yerevan City|id:170519|750|595"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Եգիպտ.փաթիլներ «Նեսթլե» Խրուտկա, մեղրով 270գր",
+    "old": 750,
+    "new": 620,
+    "pct": 17,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1167754.png",
+    "url": "https://yerevan-city.am/shop/product-details/174154",
+    "key": "Yerevan City|id:174154|750|620"
    }
   ]
  },
