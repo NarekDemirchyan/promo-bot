@@ -3466,22 +3466,12 @@
    "Yerevan City|id:195003|690|650",
    "Yerevan City|id:132212|690|360",
    "Yerevan City|id:22547|690|345",
-   "Yerevan City|id:168339|690|490"
+   "Yerevan City|id:168339|690|490",
+   "Yerevan City|id:173157|690|460"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Աղանդեր կաթնային բնական «Elle & Vire Mon Grec Nature» 125գ",
-    "old": 780,
-    "new": 680,
-    "pct": 13,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/yogurt_puding/934072/",
-    "key": "SAS|id:934072|780|680"
-   },
    {
     "store": "SAS",
     "title": "Աղանդեր կաթնային կիտրոնի «Elle & Vire Mon Grec Citron» 125գ",
@@ -7861,12 +7851,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1163087.png",
     "url": "https://yerevan-city.am/shop/product-details/168339",
     "key": "Yerevan City|id:168339|690|490"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Բրաունի պրոտ. «Ֆիթ Կիթ» շոկոլադ-պիստակ ա/շ 50գր",
+    "old": 690,
+    "new": 460,
+    "pct": 33,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1166749.png",
+    "url": "https://yerevan-city.am/shop/product-details/173157",
+    "key": "Yerevan City|id:173157|690|460"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-23T02:47:01.802176+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-23T03:02:19.400278+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
