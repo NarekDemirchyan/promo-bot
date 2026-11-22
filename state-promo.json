@@ -3422,22 +3422,12 @@
    "Yerevan City|id:194718|750|595",
    "Yerevan City|id:193527|740|370",
    "Yerevan City|id:193237|750|450",
-   "Yerevan City|id:131|740|625"
+   "Yerevan City|id:131|740|625",
+   "Yerevan City|id:7610|740|625"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Գինի նռան «Մապ» 0.75լ",
-    "old": 1790,
-    "new": 1690,
-    "pct": 6,
-    "until": "08.01.2027",
-    "img": "",
-    "url": "https://www.sas.am/catalog/armyanskoe_vino/30739/",
-    "key": "SAS|id:30739|1790|1690"
-   },
    {
     "store": "SAS",
     "title": "Բիսկվիթ կակաոյի «Kinder Delice» 39գ",
@@ -7817,12 +7807,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1040214.png",
     "url": "https://yerevan-city.am/shop/product-details/131",
     "key": "Yerevan City|id:131|740|625"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Պանիր հալած «Հոխլանդ» մսի տեսականի 140գր",
+    "old": 740,
+    "new": 625,
+    "pct": 16,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1048519.png",
+    "url": "https://yerevan-city.am/shop/product-details/7610",
+    "key": "Yerevan City|id:7610|740|625"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-22T12:02:34.135278+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-22T12:19:10.991988+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
