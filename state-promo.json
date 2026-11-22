@@ -1708,7 +1708,8 @@
    "SAS|id:208455|2090|1550",
    "SAS|id:158899|980|880",
    "SAS|id:612185|2760|2550",
-   "SAS|id:605619|1840|1570"
+   "SAS|id:605619|1840|1570",
+   "SAS|id:295587|1290|1160"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5634,6 +5635,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/palochki_naggetsy/605619/",
     "key": "SAS|id:605619|1840|1570"
+   },
+   {
+    "store": "SAS",
+    "title": "Ամենօրյա միջադիրներ «Libresse Long Thin» 28հատ",
+    "old": 1290,
+    "new": 1160,
+    "pct": 10,
+    "until": "27.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/392/360/3603214076346935.webp",
+    "url": "https://www.sas.am/catalog/dlya_intimnoy_gigieny2/295587/",
+    "key": "SAS|id:295587|1290|1160"
    }
   ],
   "Yerevan City": [
