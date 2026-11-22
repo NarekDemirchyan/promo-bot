@@ -1691,7 +1691,8 @@
    "SAS|id:658110|4390|3690",
    "SAS|id:652028|27900|24900",
    "SAS|id:645665|98600|69020",
-   "SAS|id:645657|72900|51030"
+   "SAS|id:645657|72900|51030",
+   "SAS|id:631088|8590|7690"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5600,20 +5601,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/rom_i_tekilla/645657/",
     "key": "SAS|id:645657|72900|51030"
+   },
+   {
+    "store": "SAS",
+    "title": "Գինի կարմիր «Սափոր» 0.75լ",
+    "old": 8590,
+    "new": 7690,
+    "pct": 10,
+    "until": "08.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/armyanskoe_vino/631088/",
+    "key": "SAS|id:631088|8590|7690"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Տարա պլաստմասե «Հայքսին» 2.2լ",
-    "old": 650,
-    "new": 390,
-    "pct": 40,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1167134.png",
-    "url": "https://yerevan-city.am/shop/product-details/173538",
-    "key": "Yerevan City|id:173538|650|390"
-   },
    {
     "store": "Yerevan City",
     "title": "Անձեռոցիկ խոնավությունը կլանող «Վորտեքս» 3հտ",
@@ -7806,8 +7807,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-22T07:02:38.242946+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-22T07:19:52.252122+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
