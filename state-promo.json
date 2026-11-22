@@ -3410,7 +3410,8 @@
    "Yerevan City|id:193530|740|370",
    "Yerevan City|id:193528|740|370",
    "Yerevan City|id:170519|750|595",
-   "Yerevan City|id:174154|750|620"
+   "Yerevan City|id:174154|750|620",
+   "Yerevan City|id:69354|750|530"
   ]
  },
  "queues": {
@@ -7805,6 +7806,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1167754.png",
     "url": "https://yerevan-city.am/shop/product-details/174154",
     "key": "Yerevan City|id:174154|750|620"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շոկ.սալիկ «Միլկա» շոկոլադ և թխվածքաբլիթ 100գր",
+    "old": 750,
+    "new": 530,
+    "pct": 29,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1113875.png",
+    "url": "https://yerevan-city.am/shop/product-details/69354",
+    "key": "Yerevan City|id:69354|750|530"
    }
   ]
  },
