@@ -3458,7 +3458,8 @@
    "Yerevan City|id:15903|700|640",
    "Yerevan City|id:50523|695|635",
    "Yerevan City|id:196864|690|490",
-   "Yerevan City|id:67121|690|345"
+   "Yerevan City|id:67121|690|345",
+   "Yerevan City|id:195003|690|650"
   ]
  },
  "queues": {
@@ -7853,6 +7854,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1047082.png",
     "url": "https://yerevan-city.am/shop/product-details/67121",
     "key": "Yerevan City|id:67121|690|345"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մարինացված հալապենյո «Օտ Գուրմանա» կտ. ա/տ 370մլ",
+    "old": 690,
+    "new": 650,
+    "pct": 6,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178810.png",
+    "url": "https://yerevan-city.am/shop/product-details/195003",
+    "key": "Yerevan City|id:195003|690|650"
    }
   ]
  },
