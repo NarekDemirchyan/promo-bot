@@ -3406,22 +3406,12 @@
    "Yerevan City|id:193534|740|370",
    "Yerevan City|id:193531|740|370",
    "Yerevan City|id:193530|740|370",
-   "Yerevan City|id:193528|740|370"
+   "Yerevan City|id:193528|740|370",
+   "Yerevan City|id:170519|750|595"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Իմամ բայալդի «Արտֆուդ» 450գ",
-    "old": 990,
-    "new": 880,
-    "pct": 11,
-    "until": "31.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/577/454/4544451449577077.webp",
-    "url": "https://www.sas.am/catalog/baklazhan/58657/",
-    "key": "SAS|id:58657|990|880"
-   },
    {
     "store": "SAS",
     "title": "Էլեկտրական մարտկոց «Energizer AA LR6» 5հատ",
@@ -7801,12 +7791,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177286.png",
     "url": "https://yerevan-city.am/shop/product-details/193528",
     "key": "Yerevan City|id:193528|740|370"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Նեկտար «Մոյ» մուլտիֆրուտ 1.93լ",
+    "old": 750,
+    "new": 595,
+    "pct": 21,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1164234.png",
+    "url": "https://yerevan-city.am/shop/product-details/170519",
+    "key": "Yerevan City|id:170519|750|595"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-22T06:47:01.590579+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-22T07:02:38.242946+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
