@@ -1699,7 +1699,8 @@
    "SAS|id:629014|16800|13290",
    "SAS|id:627447|9790|4550",
    "SAS|id:2499|1680|1420",
-   "SAS|id:612194|2290|2070"
+   "SAS|id:612194|2290|2070",
+   "SAS|id:612193|2290|2070"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5616,6 +5617,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/armyanskoe_vino/612194/",
     "key": "SAS|id:612194|2290|2070"
+   },
+   {
+    "store": "SAS",
+    "title": "Գինի սպիտակ «Արմենիա» 0.75լ",
+    "old": 2290,
+    "new": 2070,
+    "pct": 10,
+    "until": "08.01.2027",
+    "img": "https://www.sas.am/upload/Sh/imageCache/228/663/663914549758843.webp",
+    "url": "https://www.sas.am/catalog/armyanskoe_vino/612193/",
+    "key": "SAS|id:612193|2290|2070"
    }
   ],
   "Yerevan City": [
