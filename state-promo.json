@@ -3462,17 +3462,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Կոկտեյլ կաթնային լատտեյի «Ehrmann Hyper Caffe Latte Cocktail» 250գ",
-    "old": 1140,
-    "new": 860,
-    "pct": 25,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/127/631/6310784055633966.webp",
-    "url": "https://www.sas.am/catalog/slivki_kokteyl/930131/",
-    "key": "SAS|id:930131|1140|860"
-   },
-   {
-    "store": "SAS",
     "title": "Խտացրած կաթ պիստակի «Коровка из Кореновки Пломбир» 270գ, յուղայնությունը` 8.5",
     "old": 690,
     "new": 630,
@@ -7865,8 +7854,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-22T22:32:20.068165+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-22T23:05:56.460651+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
