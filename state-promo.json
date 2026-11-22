@@ -3430,7 +3430,8 @@
    "Yerevan City|id:7610|740|625",
    "Yerevan City|id:3374|740|625",
    "Yerevan City|id:5584|740|625",
-   "Yerevan City|id:7067|740|660"
+   "Yerevan City|id:7067|740|660",
+   "Yerevan City|id:953|730|650"
   ]
  },
  "queues": {
@@ -7825,6 +7826,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1074079.png",
     "url": "https://yerevan-city.am/shop/product-details/7067",
     "key": "Yerevan City|id:7067|740|660"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Զուգարանի թուղթ «Զեմմա» Պլյուս, օվկիանոսի թարմություն, երկշերտ 4հտ",
+    "old": 730,
+    "new": 650,
+    "pct": 11,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1014731.png",
+    "url": "https://yerevan-city.am/shop/product-details/953",
+    "key": "Yerevan City|id:953|730|650"
    }
   ]
  },
