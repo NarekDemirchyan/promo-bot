@@ -1693,7 +1693,8 @@
    "SAS|id:645665|98600|69020",
    "SAS|id:645657|72900|51030",
    "SAS|id:631088|8590|7690",
-   "SAS|id:629257|4990|3790"
+   "SAS|id:629257|4990|3790",
+   "SAS|id:629256|3950|2990"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5604,6 +5605,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/armyanskiy_mjod/629257/",
     "key": "SAS|id:629257|4990|3790"
+   },
+   {
+    "store": "SAS",
+    "title": "Մեղր բնական «Ալպիան» 320գ",
+    "old": 3950,
+    "new": 2990,
+    "pct": 24,
+    "until": "31.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/243/600/6008711655474272.webp",
+    "url": "https://www.sas.am/catalog/armyanskiy_mjod/629256/",
+    "key": "SAS|id:629256|3950|2990"
    }
   ],
   "Yerevan City": [
