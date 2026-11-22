@@ -1694,7 +1694,8 @@
    "SAS|id:645657|72900|51030",
    "SAS|id:631088|8590|7690",
    "SAS|id:629257|4990|3790",
-   "SAS|id:629256|3950|2990"
+   "SAS|id:629256|3950|2990",
+   "SAS|id:629015|21900|17500"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3413,22 +3414,12 @@
    "Yerevan City|id:170519|750|595",
    "Yerevan City|id:174154|750|620",
    "Yerevan City|id:69354|750|530",
-   "Yerevan City|id:174155|750|620"
+   "Yerevan City|id:174155|750|620",
+   "Yerevan City|id:194718|750|595"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Պուդինգ վանիլային «Ehrmann High Protein» 200գ, յուղայնությունը՝ 1.5",
-    "old": 1090,
-    "new": 820,
-    "pct": 25,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/yogurt_puding/267499/",
-    "key": "SAS|id:267499|1090|820"
-   },
    {
     "store": "SAS",
     "title": "Հակաքրտինքային միջոց գնդիկով «Rexona Men V8» 50մլ",
@@ -5606,6 +5597,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/243/600/6008711655474272.webp",
     "url": "https://www.sas.am/catalog/armyanskiy_mjod/629256/",
     "key": "SAS|id:629256|3950|2990"
+   },
+   {
+    "store": "SAS",
+    "title": "Օղի «Mamont» 0.7լ",
+    "old": 21900,
+    "new": 17500,
+    "pct": 20,
+    "until": "30.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/importnoe/629015/",
+    "key": "SAS|id:629015|21900|17500"
    }
   ],
   "Yerevan City": [
@@ -7797,12 +7799,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1167755.png",
     "url": "https://yerevan-city.am/shop/product-details/174155",
     "key": "Yerevan City|id:174155|750|620"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Նեկտար «Մոյ» արքայախնձոր 1.93լ",
+    "old": 750,
+    "new": 595,
+    "pct": 21,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178519.png",
+    "url": "https://yerevan-city.am/shop/product-details/194718",
+    "key": "Yerevan City|id:194718|750|595"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-22T09:31:13.508616+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-22T09:49:18.330851+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
