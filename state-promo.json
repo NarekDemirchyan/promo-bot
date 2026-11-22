@@ -1689,7 +1689,8 @@
    "SAS|id:678644|3250|2850",
    "SAS|id:658111|4390|3690",
    "SAS|id:658110|4390|3690",
-   "SAS|id:652028|27900|24900"
+   "SAS|id:652028|27900|24900",
+   "SAS|id:645665|98600|69020"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5593,20 +5594,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/267/462/4622503397366083.webp",
     "url": "https://www.sas.am/catalog/rom_i_tekilla/652028/",
     "key": "SAS|id:652028|27900|24900"
+   },
+   {
+    "store": "SAS",
+    "title": "Տեկիլա «Lamborghini Anejo» 0.75լ",
+    "old": 98600,
+    "new": 69020,
+    "pct": 30,
+    "until": "30.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/rom_i_tekilla/645665/",
+    "key": "SAS|id:645665|98600|69020"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Սկետչբուք-նոթատետր զսպ․ Ա4 Ս-45",
-    "old": 650,
-    "new": 390,
-    "pct": 40,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1165966.png",
-    "url": "https://yerevan-city.am/shop/product-details/172389",
-    "key": "Yerevan City|id:172389|650|390"
-   },
    {
     "store": "Yerevan City",
     "title": "Բատոնչիկ պրոտ. «Ֆիթ Կիթ» Հազլս ա/շ 45գր",
@@ -7766,8 +7767,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-22T05:48:26.862579+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-22T06:06:53.119164+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
