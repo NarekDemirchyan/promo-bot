@@ -1704,7 +1704,8 @@
    "SAS|id:5042|1520|1350",
    "SAS|id:612189|6290|5750",
    "SAS|id:166010|850|770",
-   "SAS|id:612186|2760|2550"
+   "SAS|id:612186|2760|2550",
+   "SAS|id:208455|2090|1550"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5626,6 +5627,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/209/630/6309232944684763.webp",
     "url": "https://www.sas.am/catalog/armyanskoe_vino/612186/",
     "key": "SAS|id:612186|2760|2550"
+   },
+   {
+    "store": "SAS",
+    "title": "Ատամի խոզանակ «Lacalut White»",
+    "old": 2090,
+    "new": 1550,
+    "pct": 26,
+    "until": "27.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/425/381/3819982846642302.webp",
+    "url": "https://www.sas.am/catalog/shchetka_zubnaya/208455/",
+    "key": "SAS|id:208455|2090|1550"
    }
   ],
   "Yerevan City": [
