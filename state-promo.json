@@ -3440,22 +3440,12 @@
    "Yerevan City|id:6432|730|650",
    "Yerevan City|id:179129|730|660",
    "Yerevan City|id:179128|730|660",
-   "Yerevan City|id:174965|720|680"
+   "Yerevan City|id:174965|720|680",
+   "Yerevan City|id:169789|720|360"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Գինի կարմիր «Մապ Կախեթ» 0.75լ",
-    "old": 1790,
-    "new": 1690,
-    "pct": 6,
-    "until": "08.01.2027",
-    "img": "https://www.sas.am/upload/Sh/imageCache/256/477/4777101067506523.webp",
-    "url": "https://www.sas.am/catalog/armyanskoe_vino/29829/",
-    "key": "SAS|id:29829|1790|1690"
-   },
    {
     "store": "SAS",
     "title": "Հակաքրտինքային միջոց գնդիկով «Rexona Sexy Bouquet» 50մլ",
@@ -7835,12 +7825,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168590.png",
     "url": "https://yerevan-city.am/shop/product-details/174965",
     "key": "Yerevan City|id:174965|720|680"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Նեկտար «Սոչնիյ» մանգո 1լ",
+    "old": 720,
+    "new": 360,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1163549.png",
+    "url": "https://yerevan-city.am/shop/product-details/169789",
+    "key": "Yerevan City|id:169789|720|360"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-22T18:02:26.663241+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-22T18:20:07.510216+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
