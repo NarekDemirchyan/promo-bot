@@ -3458,17 +3458,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Էլեկտրական մարտկոց «Energizer AA» 1հատ",
-    "old": 440,
-    "new": 230,
-    "pct": 48,
-    "until": "04.01.2027",
-    "img": "https://www.sas.am/upload/Sh/imageCache/352/748/7486942471370130.webp",
-    "url": "https://www.sas.am/catalog/batareyka/20192/",
-    "key": "SAS|id:20192|440|230"
-   },
-   {
-    "store": "SAS",
     "title": "Աղանդեր կաթնային ելակի «Elle & Vire Mon Grec Fraise» 125գ",
     "old": 780,
     "new": 680,
@@ -7861,8 +7850,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-22T21:02:30.925449+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-22T21:32:10.633831+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
