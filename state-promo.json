@@ -1692,7 +1692,8 @@
    "SAS|id:652028|27900|24900",
    "SAS|id:645665|98600|69020",
    "SAS|id:645657|72900|51030",
-   "SAS|id:631088|8590|7690"
+   "SAS|id:631088|8590|7690",
+   "SAS|id:629257|4990|3790"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5602,20 +5603,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/armyanskoe_vino/631088/",
     "key": "SAS|id:631088|8590|7690"
+   },
+   {
+    "store": "SAS",
+    "title": "Մեղր բնական «Ալպիան» 300գ",
+    "old": 4990,
+    "new": 3790,
+    "pct": 24,
+    "until": "31.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/armyanskiy_mjod/629257/",
+    "key": "SAS|id:629257|4990|3790"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Անձեռոցիկ խոնավությունը կլանող «Վորտեքս» 3հտ",
-    "old": 740,
-    "new": 590,
-    "pct": 20,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173400.png",
-    "url": "https://yerevan-city.am/shop/product-details/179681",
-    "key": "Yerevan City|id:179681|740|590"
-   },
    {
     "store": "Yerevan City",
     "title": "Շամպուն «Փալմոլիվ» փայլ և խնամք, նուռ 220մլ",
@@ -7808,8 +7809,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-22T07:47:03.600489+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-22T08:02:21.673667+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
