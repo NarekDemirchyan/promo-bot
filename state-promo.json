@@ -3416,22 +3416,12 @@
    "Yerevan City|id:174154|750|620",
    "Yerevan City|id:69354|750|530",
    "Yerevan City|id:174155|750|620",
-   "Yerevan City|id:194718|750|595"
+   "Yerevan City|id:194718|750|595",
+   "Yerevan City|id:193527|740|370"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Հակաքրտինքային միջոց գնդիկով «Rexona Men V8» 50մլ",
-    "old": 1360,
-    "new": 1190,
-    "pct": 12,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/293/994/994589348014068.webp",
-    "url": "https://www.sas.am/catalog/antiperspirantt/972404/",
-    "key": "SAS|id:972404|1360|1190"
-   },
    {
     "store": "SAS",
     "title": "Կոնֆետներ կոկոսի «Raffaello» 150գ",
@@ -7811,12 +7801,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178519.png",
     "url": "https://yerevan-city.am/shop/product-details/194718",
     "key": "Yerevan City|id:194718|750|595"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սոուս «Հելլմաննս» կծու 200գր",
+    "old": 740,
+    "new": 370,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177284.png",
+    "url": "https://yerevan-city.am/shop/product-details/193527",
+    "key": "Yerevan City|id:193527|740|370"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-22T10:17:20.832248+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-22T10:32:18.309555+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
