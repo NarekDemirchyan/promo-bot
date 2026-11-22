@@ -1718,7 +1718,8 @@
    "SAS|id:166009|850|770",
    "SAS|id:65660|1120|820",
    "SAS|id:4219|560|510",
-   "SAS|id:604849|2790|2490"
+   "SAS|id:604849|2790|2490",
+   "SAS|id:604848|2090|1890"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5654,20 +5655,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/armyanskiy_konyak/604849/",
     "key": "SAS|id:604849|2790|2490"
+   },
+   {
+    "store": "SAS",
+    "title": "Կոնյակ «Արմա 5*» 250մլ",
+    "old": 2090,
+    "new": 1890,
+    "pct": 10,
+    "until": "08.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/armyanskiy_konyak/604848/",
+    "key": "SAS|id:604848|2090|1890"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Գարեջուր «Ստելլա Արտուա» ա/տ 0.44լ",
-    "old": 700,
-    "new": 650,
-    "pct": 7,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1045970.png",
-    "url": "https://yerevan-city.am/shop/product-details/15903",
-    "key": "Yerevan City|id:15903|700|650"
-   },
    {
     "store": "Yerevan City",
     "title": "Արևածաղկի ձեթ «Կուբանսկոե լյուբիմոե» 1լ",
@@ -7860,8 +7861,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-23T01:17:10.924874+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-23T01:32:24.811219+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
