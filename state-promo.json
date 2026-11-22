@@ -3468,7 +3468,8 @@
    "Yerevan City|id:132212|690|360",
    "Yerevan City|id:22547|690|345",
    "Yerevan City|id:168339|690|490",
-   "Yerevan City|id:173157|690|460"
+   "Yerevan City|id:173157|690|460",
+   "Yerevan City|id:173160|690|390"
   ]
  },
  "queues": {
@@ -7863,6 +7864,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1166749.png",
     "url": "https://yerevan-city.am/shop/product-details/173157",
     "key": "Yerevan City|id:173157|690|460"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թխվածք պրոտ. «Տորտիկ» գետնանուշ-քրիսպի ա/շ/գ 55գր",
+    "old": 690,
+    "new": 390,
+    "pct": 43,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1166752.png",
+    "url": "https://yerevan-city.am/shop/product-details/173160",
+    "key": "Yerevan City|id:173160|690|390"
    }
   ]
  },
@@ -7877,7 +7889,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 77,
+ "city_page": 78,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
