@@ -3450,7 +3450,8 @@
    "Yerevan City|id:917|720|490",
    "Yerevan City|id:4342|720|460",
    "Yerevan City|id:5324|720|460",
-   "Yerevan City|id:13896|720|460"
+   "Yerevan City|id:13896|720|460",
+   "Yerevan City|id:15903|700|640"
   ]
  },
  "queues": {
@@ -7845,6 +7846,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1043690.png",
     "url": "https://yerevan-city.am/shop/product-details/13896",
     "key": "Yerevan City|id:13896|720|460"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գարեջուր «Ստելլա Արտուա» ա/տ 0.44լ",
+    "old": 700,
+    "new": 640,
+    "pct": 9,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1045970.png",
+    "url": "https://yerevan-city.am/shop/product-details/15903",
+    "key": "Yerevan City|id:15903|700|640"
    }
   ]
  },
