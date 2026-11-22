@@ -1710,7 +1710,8 @@
    "SAS|id:612185|2760|2550",
    "SAS|id:605619|1840|1570",
    "SAS|id:295587|1290|1160",
-   "SAS|id:3433|1470|1170"
+   "SAS|id:3433|1470|1170",
+   "SAS|id:180047|3490|2350"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5638,6 +5639,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/moloko/3433/",
     "key": "SAS|id:3433|1470|1170"
+   },
+   {
+    "store": "SAS",
+    "title": "Պանիր այծի «President» 200գ",
+    "old": 3490,
+    "new": 2350,
+    "pct": 33,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/importnyy_syr/180047/",
+    "key": "SAS|id:180047|3490|2350"
    }
   ],
   "Yerevan City": [
