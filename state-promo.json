@@ -3476,17 +3476,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Աղանդեր կաթնային կիտրոնի «Elle & Vire Mon Grec Citron» 125գ",
-    "old": 780,
-    "new": 680,
-    "pct": 13,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/yogurt_puding/934071/",
-    "key": "SAS|id:934071|780|680"
-   },
-   {
-    "store": "SAS",
     "title": "Աղանդեր կաթնային հապալասի «Elle & Vire Mon Grec Myrtille» 125գ",
     "old": 780,
     "new": 680,
@@ -7879,8 +7868,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-23T03:19:22.263460+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-23T03:47:10.417012+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
