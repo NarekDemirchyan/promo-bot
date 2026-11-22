@@ -3466,17 +3466,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Խտացրած կաթ կրեմ բրյուլեի «Коровка из Кореновки Пломбир» 270գ, յուղայնությունը` 8.5",
-    "old": 690,
-    "new": 630,
-    "pct": 9,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/sgushchennoe_moloko/964798/",
-    "key": "SAS|id:964798|690|630"
-   },
-   {
-    "store": "SAS",
     "title": "Կոկտեյլ կաթնային բանանի «Ehrmann Hyper Banana Cocktail» 250գ",
     "old": 1140,
     "new": 860,
@@ -7869,8 +7858,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-23T00:02:16.592734+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-23T00:31:11.065682+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
