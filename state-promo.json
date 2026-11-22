@@ -3468,17 +3468,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Կոկտեյլ կաթնային բանանի «Ehrmann Hyper Banana Cocktail» 250գ",
-    "old": 1140,
-    "new": 860,
-    "pct": 25,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/193/218/2189612533635959.webp",
-    "url": "https://www.sas.am/catalog/slivki_kokteyl/930130/",
-    "key": "SAS|id:930130|1140|860"
-   },
-   {
-    "store": "SAS",
     "title": "Գարեջուր «Cervezas Victoria Malaga» 500մլ",
     "old": 820,
     "new": 620,
@@ -7871,8 +7860,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-23T00:49:26.171872+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-23T01:17:10.924874+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
