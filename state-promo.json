@@ -3460,7 +3460,8 @@
    "Yerevan City|id:50523|695|635",
    "Yerevan City|id:196864|690|490",
    "Yerevan City|id:67121|690|345",
-   "Yerevan City|id:195003|690|650"
+   "Yerevan City|id:195003|690|650",
+   "Yerevan City|id:132212|690|360"
   ]
  },
  "queues": {
@@ -7855,6 +7856,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178810.png",
     "url": "https://yerevan-city.am/shop/product-details/195003",
     "key": "Yerevan City|id:195003|690|650"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մայոնեզ «Մախեև» ձիթապտղի 50.5% 400մլ",
+    "old": 690,
+    "new": 360,
+    "pct": 48,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1151718.png",
+    "url": "https://yerevan-city.am/shop/product-details/132212",
+    "key": "Yerevan City|id:132212|690|360"
    }
   ]
  },
