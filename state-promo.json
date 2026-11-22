@@ -3446,22 +3446,12 @@
    "Yerevan City|id:174965|720|680",
    "Yerevan City|id:169789|720|360",
    "Yerevan City|id:917|720|490",
-   "Yerevan City|id:4342|720|460"
+   "Yerevan City|id:4342|720|460",
+   "Yerevan City|id:5324|720|460"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Երշիկ եփած ապխտած «Բեկոն Չայնայա»",
-    "old": 920,
-    "new": 790,
-    "pct": 14,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/291/819/8196612850983044.webp",
-    "url": "https://www.sas.am/catalog/kopchenaya_kolbasa/65742/",
-    "key": "SAS|id:65742|920|790"
-   },
    {
     "store": "SAS",
     "title": "Շոկոլադե-ընկուզային մածուկ «Nutella» 630գ",
@@ -7841,12 +7831,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1050604.png",
     "url": "https://yerevan-city.am/shop/product-details/4342",
     "key": "Yerevan City|id:4342|720|460"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թեյ սև «Տեսս» ցեյլոն 25x1.5գր",
+    "old": 720,
+    "new": 460,
+    "pct": 36,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1047114.png",
+    "url": "https://yerevan-city.am/shop/product-details/5324",
+    "key": "Yerevan City|id:5324|720|460"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-22T20:02:32.593433+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-22T20:17:03.043850+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
