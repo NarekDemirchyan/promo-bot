@@ -3462,22 +3462,12 @@
    "Yerevan City|id:196864|690|490",
    "Yerevan City|id:67121|690|345",
    "Yerevan City|id:195003|690|650",
-   "Yerevan City|id:132212|690|360"
+   "Yerevan City|id:132212|690|360",
+   "Yerevan City|id:22547|690|345"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Գարեջուր «Cervezas Victoria Malaga» 500մլ",
-    "old": 820,
-    "new": 620,
-    "pct": 24,
-    "until": "07.01.2027",
-    "img": "https://www.sas.am/upload/Sh/imageCache/381/742/7422724075137228.webp",
-    "url": "https://www.sas.am/catalog/importnoe_pivo/924464/",
-    "key": "SAS|id:924464|820|620"
-   },
    {
     "store": "SAS",
     "title": "Թխվածքաբլիթ շոկոլադե կտորներով «Gullon Choco Bom» 120գ",
@@ -7857,12 +7847,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1151718.png",
     "url": "https://yerevan-city.am/shop/product-details/132212",
     "key": "Yerevan City|id:132212|690|360"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ամանորյա զարդարանք «Ծաղիկ ճյուղերով» 2հտ",
+    "old": 690,
+    "new": 345,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1004525.png",
+    "url": "https://yerevan-city.am/shop/product-details/22547",
+    "key": "Yerevan City|id:22547|690|345"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-23T01:32:24.811219+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-23T01:47:13.630403+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
