@@ -3404,17 +3404,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Հակաքրտինքային աէրոզոլային միջոց «Garnier Action Control» 150մլ",
-    "old": 1780,
-    "new": 1230,
-    "pct": 31,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/296/283/2834214038572011.webp",
-    "url": "https://www.sas.am/catalog/antiperspirantt/2188/",
-    "key": "SAS|id:2188|1780|1230"
-   },
-   {
-    "store": "SAS",
     "title": "Հակաքրտինքային միջոց գնդիկով «Rexona Shower Fresh» 50մլ",
     "old": 1360,
     "new": 1190,
@@ -7785,8 +7774,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-22T03:35:43.054302+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-22T04:03:02.738829+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
