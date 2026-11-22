@@ -3464,7 +3464,8 @@
    "Yerevan City|id:67121|690|345",
    "Yerevan City|id:195003|690|650",
    "Yerevan City|id:132212|690|360",
-   "Yerevan City|id:22547|690|345"
+   "Yerevan City|id:22547|690|345",
+   "Yerevan City|id:168339|690|490"
   ]
  },
  "queues": {
@@ -7859,6 +7860,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1004525.png",
     "url": "https://yerevan-city.am/shop/product-details/22547",
     "key": "Yerevan City|id:22547|690|345"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մարմելադ «Ուդարնիցա» նար-կիտ-լայմ-թուրինջ 275գր",
+    "old": 690,
+    "new": 490,
+    "pct": 29,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1163087.png",
+    "url": "https://yerevan-city.am/shop/product-details/168339",
+    "key": "Yerevan City|id:168339|690|490"
    }
   ]
  },
