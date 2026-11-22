@@ -3416,17 +3416,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Էլեկտրական մարտկոց «Energizer AA LR6» 5հատ",
-    "old": 2150,
-    "new": 1070,
-    "pct": 50,
-    "until": "04.01.2027",
-    "img": "https://www.sas.am/upload/Sh/imageCache/413/458/458662595739730.webp",
-    "url": "https://www.sas.am/catalog/batareyka/20195/",
-    "key": "SAS|id:20195|2150|1070"
-   },
-   {
-    "store": "SAS",
     "title": "Հակաքրտինքային միջոց գնդիկով «Rexona Men Xtra Cool» 50մլ",
     "old": 1360,
     "new": 1190,
@@ -7819,8 +7808,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-22T07:19:52.252122+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-22T07:47:03.600489+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
