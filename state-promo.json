@@ -3460,17 +3460,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Աղանդեր կաթնային ելակի «Elle & Vire Mon Grec Fraise» 125գ",
-    "old": 780,
-    "new": 680,
-    "pct": 13,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/361/334/334839451601967.webp",
-    "url": "https://www.sas.am/catalog/yogurt_puding/934074/",
-    "key": "SAS|id:934074|780|680"
-   },
-   {
-    "store": "SAS",
     "title": "Կոկտեյլ կաթնային լատտեյի «Ehrmann Hyper Caffe Latte Cocktail» 250գ",
     "old": 1140,
     "new": 860,
@@ -7863,8 +7852,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-22T21:49:11.348748+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-22T22:16:01.998205+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
