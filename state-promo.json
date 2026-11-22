@@ -1715,7 +1715,8 @@
    "SAS|id:134397|2590|1810",
    "SAS|id:593382|6590|5350",
    "SAS|id:2574|970|790",
-   "SAS|id:166009|850|770"
+   "SAS|id:166009|850|770",
+   "SAS|id:65660|1120|820"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5648,6 +5649,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/107/402/4022972173931479.webp",
     "url": "https://www.sas.am/catalog/sok/166009/",
     "key": "SAS|id:166009|850|770"
+   },
+   {
+    "store": "SAS",
+    "title": "Կոկտեյլ կաթնային «Parmalat» 0.5լ յուղայնությունը` 1․9",
+    "old": 1120,
+    "new": 820,
+    "pct": 27,
+    "until": "27.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/113/692/6928682539437854.webp",
+    "url": "https://www.sas.am/catalog/slivki_kokteyl/65660/",
+    "key": "SAS|id:65660|1120|820"
    }
   ],
   "Yerevan City": [
