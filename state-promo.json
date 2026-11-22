@@ -1697,7 +1697,8 @@
    "SAS|id:629256|3950|2990",
    "SAS|id:629015|21900|17500",
    "SAS|id:629014|16800|13290",
-   "SAS|id:627447|9790|4550"
+   "SAS|id:627447|9790|4550",
+   "SAS|id:2499|1680|1420"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5612,6 +5613,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/311/049/049710256240236.webp",
     "url": "https://www.sas.am/catalog/showergell/627447/",
     "key": "SAS|id:627447|9790|4550"
+   },
+   {
+    "store": "SAS",
+    "title": "Հակաքրտինքային աէրոզոլային միջոց «Nivea Невидимый» 150մլ",
+    "old": 1680,
+    "new": 1420,
+    "pct": 15,
+    "until": "27.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/125/416/416247252875270.webp",
+    "url": "https://www.sas.am/catalog/antiperspirantt/2499/",
+    "key": "SAS|id:2499|1680|1420"
    }
   ],
   "Yerevan City": [
