@@ -1721,7 +1721,8 @@
    "SAS|id:604849|2790|2490",
    "SAS|id:604848|2090|1890",
    "SAS|id:604846|1880|1750",
-   "SAS|id:604835|7590|6790"
+   "SAS|id:604835|7590|6790",
+   "SAS|id:604658|5490|4490"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5660,20 +5661,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/344/306/3060241651197242.webp",
     "url": "https://www.sas.am/catalog/armyanskiy_konyak/604835/",
     "key": "SAS|id:604835|7590|6790"
+   },
+   {
+    "store": "SAS",
+    "title": "Գինի սպիտակ «Ակում Կանգուն» 0.375լ",
+    "old": 5490,
+    "new": 4490,
+    "pct": 18,
+    "until": "08.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/armyanskoe_vino/604658/",
+    "key": "SAS|id:604658|5490|4490"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Թաս պլաստմասե «Հոբի լայֆ» Ֆելիքս 4լ",
-    "old": 690,
-    "new": 490,
-    "pct": 29,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156994.png",
-    "url": "https://yerevan-city.am/shop/product-details/159335",
-    "key": "Yerevan City|id:159335|690|490"
-   },
    {
     "store": "Yerevan City",
     "title": "Եգիպտացորեն քաղցր «Բոնդյուել» 340գր",
@@ -7866,8 +7867,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-23T03:02:19.400278+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-23T03:19:22.263460+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
