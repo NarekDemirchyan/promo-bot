@@ -3420,22 +3420,12 @@
    "Yerevan City|id:174155|750|620",
    "Yerevan City|id:194718|750|595",
    "Yerevan City|id:193527|740|370",
-   "Yerevan City|id:193237|750|450"
+   "Yerevan City|id:193237|750|450",
+   "Yerevan City|id:131|740|625"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կոնֆետներ կոկոսի «Raffaello» 240գ",
-    "old": 3450,
-    "new": 2950,
-    "pct": 14,
-    "until": "01.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/konfety_v_upakovke/79197/",
-    "key": "SAS|id:79197|3450|2950"
-   },
    {
     "store": "SAS",
     "title": "Գինի նռան «Մապ» 0.75լ",
@@ -7815,12 +7805,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176991.png",
     "url": "https://yerevan-city.am/shop/product-details/193237",
     "key": "Yerevan City|id:193237|750|450"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Պանիր հալած «Հոխլանդ» դասական եռյակ 140գր",
+    "old": 740,
+    "new": 625,
+    "pct": 16,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1040214.png",
+    "url": "https://yerevan-city.am/shop/product-details/131",
+    "key": "Yerevan City|id:131|740|625"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-22T11:32:22.924689+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-22T11:47:01.237473+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
