@@ -3426,7 +3426,8 @@
    "Yerevan City|id:193237|750|450",
    "Yerevan City|id:131|740|625",
    "Yerevan City|id:7610|740|625",
-   "Yerevan City|id:3374|740|625"
+   "Yerevan City|id:3374|740|625",
+   "Yerevan City|id:5584|740|625"
   ]
  },
  "queues": {
@@ -7821,6 +7822,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1052559.png",
     "url": "https://yerevan-city.am/shop/product-details/3374",
     "key": "Yerevan City|id:3374|740|625"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Պանիր հալած «Հոխլանդ» սերուցքային 140գր",
+    "old": 740,
+    "new": 625,
+    "pct": 16,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1043945.png",
+    "url": "https://yerevan-city.am/shop/product-details/5584",
+    "key": "Yerevan City|id:5584|740|625"
    }
   ]
  },
