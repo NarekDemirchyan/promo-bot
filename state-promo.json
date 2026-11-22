@@ -3454,7 +3454,8 @@
    "Yerevan City|id:5324|720|460",
    "Yerevan City|id:13896|720|460",
    "Yerevan City|id:15903|700|640",
-   "Yerevan City|id:50523|695|635"
+   "Yerevan City|id:50523|695|635",
+   "Yerevan City|id:196864|690|490"
   ]
  },
  "queues": {
@@ -7849,6 +7850,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1101630.png",
     "url": "https://yerevan-city.am/shop/product-details/50523",
     "key": "Yerevan City|id:50523|695|635"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ջրային խաղ օղակներով 2928ՈՒ-13Ա",
+    "old": 690,
+    "new": 490,
+    "pct": 29,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1182110.png",
+    "url": "https://yerevan-city.am/shop/product-details/196864",
+    "key": "Yerevan City|id:196864|690|490"
    }
   ]
  },
