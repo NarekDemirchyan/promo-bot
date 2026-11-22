@@ -1695,7 +1695,8 @@
    "SAS|id:631088|8590|7690",
    "SAS|id:629257|4990|3790",
    "SAS|id:629256|3950|2990",
-   "SAS|id:629015|21900|17500"
+   "SAS|id:629015|21900|17500",
+   "SAS|id:629014|16800|13290"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5608,6 +5609,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/importnoe/629015/",
     "key": "SAS|id:629015|21900|17500"
+   },
+   {
+    "store": "SAS",
+    "title": "Օղի «Mamont» 0.5լ",
+    "old": 16800,
+    "new": 13290,
+    "pct": 21,
+    "until": "30.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/importnoe/629014/",
+    "key": "SAS|id:629014|16800|13290"
    }
   ],
   "Yerevan City": [
