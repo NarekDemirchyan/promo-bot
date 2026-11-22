@@ -3412,22 +3412,12 @@
    "Yerevan City|id:193528|740|370",
    "Yerevan City|id:170519|750|595",
    "Yerevan City|id:174154|750|620",
-   "Yerevan City|id:69354|750|530"
+   "Yerevan City|id:69354|750|530",
+   "Yerevan City|id:174155|750|620"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Պուդինգ շոկոլադե «Ehrmann High Protein» 200գ, յուղայնությունը՝ 1.5",
-    "old": 1090,
-    "new": 820,
-    "pct": 25,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/yogurt_puding/267498/",
-    "key": "SAS|id:267498|1090|820"
-   },
    {
     "store": "SAS",
     "title": "Պուդինգ վանիլային «Ehrmann High Protein» 200գ, յուղայնությունը՝ 1.5",
@@ -7807,12 +7797,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1113875.png",
     "url": "https://yerevan-city.am/shop/product-details/69354",
     "key": "Yerevan City|id:69354|750|530"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Եգիպտացորենի փաթիլներ «Նեսթլե» Խրուտկա 290գր",
+    "old": 750,
+    "new": 620,
+    "pct": 17,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1167755.png",
+    "url": "https://yerevan-city.am/shop/product-details/174155",
+    "key": "Yerevan City|id:174155|750|620"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-22T09:01:18.054811+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-22T09:17:02.438447+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
