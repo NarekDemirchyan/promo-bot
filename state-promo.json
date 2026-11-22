@@ -3444,22 +3444,12 @@
    "Yerevan City|id:179128|730|660",
    "Yerevan City|id:174965|720|680",
    "Yerevan City|id:169789|720|360",
-   "Yerevan City|id:917|720|490"
+   "Yerevan City|id:917|720|490",
+   "Yerevan City|id:4342|720|460"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Խտացրած կաթ «Коровка из Кореновки» 270գ, յուղայնությունը`8.5",
-    "old": 670,
-    "new": 620,
-    "pct": 7,
-    "until": "31.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/418/152/1528354069141541.webp",
-    "url": "https://www.sas.am/catalog/sgushchennoe_moloko/158897/",
-    "key": "SAS|id:158897|670|620"
-   },
    {
     "store": "SAS",
     "title": "Երշիկ եփած ապխտած «Բեկոն Չայնայա»",
@@ -7839,12 +7829,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1094242.png",
     "url": "https://yerevan-city.am/shop/product-details/917",
     "key": "Yerevan City|id:917|720|490"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թեյ մրգային «Տեսս» մասուրով և խնձորով 25x1.5գր",
+    "old": 720,
+    "new": 460,
+    "pct": 36,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1050604.png",
+    "url": "https://yerevan-city.am/shop/product-details/4342",
+    "key": "Yerevan City|id:4342|720|460"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-22T19:16:59.569395+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-22T19:34:25.830572+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
