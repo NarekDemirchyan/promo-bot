@@ -1701,7 +1701,8 @@
    "SAS|id:2499|1680|1420",
    "SAS|id:612194|2290|2070",
    "SAS|id:612193|2290|2070",
-   "SAS|id:5042|1520|1350"
+   "SAS|id:5042|1520|1350",
+   "SAS|id:612189|6290|5750"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5620,20 +5621,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/101/494/494131666711535.webp",
     "url": "https://www.sas.am/catalog/drugie_ovoschnye_konservy/5042/",
     "key": "SAS|id:5042|1520|1350"
+   },
+   {
+    "store": "SAS",
+    "title": "Գինի կարմիր «Օրրան Արենի և Մալբեկ Ռեզերվ» 0.75լ",
+    "old": 6290,
+    "new": 5750,
+    "pct": 9,
+    "until": "08.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/armyanskoe_vino/612189/",
+    "key": "SAS|id:612189|6290|5750"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Նեկտար «Սոչնիյ» խնձոր-սպիտակ խաղող 1լ",
-    "old": 720,
-    "new": 530,
-    "pct": 26,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1085736.png",
-    "url": "https://yerevan-city.am/shop/product-details/41899",
-    "key": "Yerevan City|id:41899|720|530"
-   },
    {
     "store": "Yerevan City",
     "title": "Շերեփ «Դեննի Հոմ» պլաստմասե ԴՀ3561",
@@ -7826,8 +7827,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-22T13:47:01.193375+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-22T14:02:32.932723+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
