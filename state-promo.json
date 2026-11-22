@@ -1690,7 +1690,8 @@
    "SAS|id:658111|4390|3690",
    "SAS|id:658110|4390|3690",
    "SAS|id:652028|27900|24900",
-   "SAS|id:645665|98600|69020"
+   "SAS|id:645665|98600|69020",
+   "SAS|id:645657|72900|51030"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5598,20 +5599,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/rom_i_tekilla/645665/",
     "key": "SAS|id:645665|98600|69020"
+   },
+   {
+    "store": "SAS",
+    "title": "Տեկիլա «Lamborghini Reposado» 0.75լ",
+    "old": 72900,
+    "new": 51030,
+    "pct": 30,
+    "until": "30.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/rom_i_tekilla/645657/",
+    "key": "SAS|id:645657|72900|51030"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Բատոնչիկ պրոտ. «Ֆիթ Կիթ» Հազլս ա/շ 45գր",
-    "old": 650,
-    "new": 355,
-    "pct": 45,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1166743.png",
-    "url": "https://yerevan-city.am/shop/product-details/173151",
-    "key": "Yerevan City|id:173151|650|355"
-   },
    {
     "store": "Yerevan City",
     "title": "Տարա պլաստմասե «Հայքսին» 2.2լ",
@@ -7804,8 +7805,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-22T06:31:14.305808+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-22T06:47:01.590579+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
