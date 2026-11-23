@@ -3508,22 +3508,12 @@
    "Yerevan City|id:175069|690|345",
    "Yerevan City|id:112928|690|345",
    "Yerevan City|id:180227|690|345",
-   "Yerevan City|id:179848|690|330"
+   "Yerevan City|id:179848|690|330",
+   "Yerevan City|id:27411|690|345"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սուրճ աղացած «Արարատ Վերին Բլենդ» 100գ",
-    "old": 780,
-    "new": 720,
-    "pct": 8,
-    "until": "14.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/361/309/3092953958973265.webp",
-    "url": "https://www.sas.am/catalog/rastvorimyy_kofe/887555/",
-    "key": "SAS|id:887555|780|720"
-   },
    {
     "store": "SAS",
     "title": "Սուրճ լուծվող «Bushido Premium Original» 100գ",
@@ -7903,12 +7893,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173567.png",
     "url": "https://yerevan-city.am/shop/product-details/179848",
     "key": "Yerevan City|id:179848|690|330"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տոնածառի խաղալիք «Փերի»",
+    "old": 690,
+    "new": 345,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1074505.png",
+    "url": "https://yerevan-city.am/shop/product-details/27411",
+    "key": "Yerevan City|id:27411|690|345"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-23T17:17:03.921969+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-23T17:32:09.254313+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
