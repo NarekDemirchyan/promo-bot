@@ -3516,22 +3516,12 @@
    "Yerevan City|id:27411|690|345",
    "Yerevan City|id:27449|690|345",
    "Yerevan City|id:180465|690|550",
-   "Yerevan City|id:32332|690|345"
+   "Yerevan City|id:32332|690|345",
+   "Yerevan City|id:114966|690|490"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Բրենդի «Գոլդեն XO» 0.5լ",
-    "old": 8890,
-    "new": 7900,
-    "pct": 11,
-    "until": "08.01.2027",
-    "img": "",
-    "url": "https://www.sas.am/catalog/armyanskiy_konyak/81073/",
-    "key": "SAS|id:81073|8890|7900"
-   },
    {
     "store": "SAS",
     "title": "Օղի «Beluga Export» 0.7լ",
@@ -7911,12 +7901,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1026306.png",
     "url": "https://yerevan-city.am/shop/product-details/32332",
     "key": "Yerevan City|id:32332|690|345"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Խոհանոցային բռնիչ+ձեռնոց «Յու Հենգ»",
+    "old": 690,
+    "new": 490,
+    "pct": 29,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1145100.png",
+    "url": "https://yerevan-city.am/shop/product-details/114966",
+    "key": "Yerevan City|id:114966|690|490"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-23T19:47:11.462897+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-23T20:03:08.772422+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
