@@ -1751,7 +1751,8 @@
    "SAS|id:83530|1210|740",
    "SAS|id:4379|1320|1130",
    "SAS|id:571204|11900|10900",
-   "SAS|id:173913|590|470"
+   "SAS|id:173913|590|470",
+   "SAS|id:553288|11900|10900"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5720,20 +5721,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/136/513/513382223073502.webp",
     "url": "https://www.sas.am/catalog/stanok_dlya_britya/173913/",
     "key": "SAS|id:173913|590|470"
+   },
+   {
+    "store": "SAS",
+    "title": "Գինի սպիտակ «Իջևան Ոսկեհատ» 0.75լ",
+    "old": 11900,
+    "new": 10900,
+    "pct": 8,
+    "until": "08.01.2027",
+    "img": "https://www.sas.am/upload/Sh/imageCache/368/967/9671352833088231.webp",
+    "url": "https://www.sas.am/catalog/armyanskoe_vino/553288/",
+    "key": "SAS|id:553288|11900|10900"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Գարեջուր ոչ ալկոհոլային «Կրոմբախեր» Փիլս 0.33լ",
-    "old": 790,
-    "new": 395,
-    "pct": 50,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1091999.png",
-    "url": "https://yerevan-city.am/shop/product-details/9261",
-    "key": "Yerevan City|id:9261|790|395"
-   },
    {
     "store": "Yerevan City",
     "title": "Ըմպելիք «ԲՎ» Լ-Կարն.2000 լոռամիրգ-կիտ. ա/շ 700մլ",
@@ -7926,8 +7927,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-23T23:32:13.564052+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-24T00:02:31.523235+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
@@ -7936,7 +7937,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 78,
+ "city_page": 79,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
