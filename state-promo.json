@@ -1740,7 +1740,8 @@
    "SAS|id:7915|2890|1680",
    "SAS|id:594239|3250|2950",
    "SAS|id:594238|2390|2190",
-   "SAS|id:594237|2090|1890"
+   "SAS|id:594237|2090|1890",
+   "SAS|id:509420|5990|3050"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3505,22 +3506,12 @@
    "Yerevan City|id:172972|690|350",
    "Yerevan City|id:175069|690|345",
    "Yerevan City|id:112928|690|345",
-   "Yerevan City|id:180227|690|345"
+   "Yerevan City|id:180227|690|345",
+   "Yerevan City|id:179848|690|330"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Պուդինգ սպիտակուցային կարամելի «Valio Profeel Caramel» 180գ",
-    "old": 930,
-    "new": 790,
-    "pct": 15,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/180/885/8851662297237059.webp",
-    "url": "https://www.sas.am/catalog/yogurt_puding/913220/",
-    "key": "SAS|id:913220|930|790"
-   },
    {
     "store": "SAS",
     "title": "Սուրճ աղացած «Արարատ Վերին Բլենդ» 100գ",
@@ -5698,6 +5689,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/armyanskiy_konyak/594237/",
     "key": "SAS|id:594237|2090|1890"
+   },
+   {
+    "store": "SAS",
+    "title": "Շամպուն «Լավ» 475մլ",
+    "old": 5990,
+    "new": 3050,
+    "pct": 49,
+    "until": "29.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/dlya_volos2/509420/",
+    "key": "SAS|id:509420|5990|3050"
    }
   ],
   "Yerevan City": [
@@ -7889,12 +7891,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173956.png",
     "url": "https://yerevan-city.am/shop/product-details/180227",
     "key": "Yerevan City|id:180227|690|345"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Դանակ + բանջարեղեն կտրտելու դանակ",
+    "old": 690,
+    "new": 330,
+    "pct": 52,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173567.png",
+    "url": "https://yerevan-city.am/shop/product-details/179848",
+    "key": "Yerevan City|id:179848|690|330"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-23T16:31:06.625497+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-23T16:49:46.698318+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
