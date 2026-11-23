@@ -3470,7 +3470,8 @@
    "Yerevan City|id:22547|690|345",
    "Yerevan City|id:168339|690|490",
    "Yerevan City|id:173157|690|460",
-   "Yerevan City|id:173160|690|390"
+   "Yerevan City|id:173160|690|390",
+   "Yerevan City|id:130163|690|345"
   ]
  },
  "queues": {
@@ -7865,6 +7866,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1166752.png",
     "url": "https://yerevan-city.am/shop/product-details/173160",
     "key": "Yerevan City|id:173160|690|390"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տոնածառի խաղալիք «Բևեռային աստղ» արծաթագույն, փայլերով",
+    "old": 690,
+    "new": 345,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1149934.png",
+    "url": "https://yerevan-city.am/shop/product-details/130163",
+    "key": "Yerevan City|id:130163|690|345"
    }
   ]
  },
