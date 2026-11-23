@@ -3486,7 +3486,8 @@
    "Yerevan City|id:161893|690|410",
    "Yerevan City|id:161895|690|410",
    "Yerevan City|id:161896|690|410",
-   "Yerevan City|id:162698|690|345"
+   "Yerevan City|id:162698|690|345",
+   "Yerevan City|id:177256|690|390"
   ]
  },
  "queues": {
@@ -7881,6 +7882,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1160338.png",
     "url": "https://yerevan-city.am/shop/product-details/162698",
     "key": "Yerevan City|id:162698|690|345"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մրգաման պլաստմասե 32x22սմ",
+    "old": 690,
+    "new": 390,
+    "pct": 43,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170910.png",
+    "url": "https://yerevan-city.am/shop/product-details/177256",
+    "key": "Yerevan City|id:177256|690|390"
    }
   ]
  },
