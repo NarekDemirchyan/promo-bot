@@ -3502,22 +3502,12 @@
    "Yerevan City|id:174859|690|590",
    "Yerevan City|id:176419|690|460",
    "Yerevan City|id:172972|690|350",
-   "Yerevan City|id:175069|690|345"
+   "Yerevan City|id:175069|690|345",
+   "Yerevan City|id:112928|690|345"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Աղանդեր կաթնային մեղրով «Elle & Vire Mon Grec Miel» 125գ",
-    "old": 780,
-    "new": 680,
-    "pct": 13,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/731/323/3233223365026602.webp",
-    "url": "https://www.sas.am/catalog/yogurt_puding/934070/",
-    "key": "SAS|id:934070|780|680"
-   },
    {
     "store": "SAS",
     "title": "Կոկտեյլ կաթնային շոկոլադի «Ehrmann Hyper Chocolate Cocktail» 250գ",
@@ -7897,12 +7887,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168693.png",
     "url": "https://yerevan-city.am/shop/product-details/175069",
     "key": "Yerevan City|id:175069|690|345"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գուլպա մանկական «Ֆեյշն» 3զույգ",
+    "old": 690,
+    "new": 345,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1143413.png",
+    "url": "https://yerevan-city.am/shop/product-details/112928",
+    "key": "Yerevan City|id:112928|690|345"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-23T15:03:01.788024+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-23T15:18:59.370567+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
