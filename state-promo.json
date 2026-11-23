@@ -3478,17 +3478,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Աղանդեր կաթնային հապալասի «Elle & Vire Mon Grec Myrtille» 125գ",
-    "old": 780,
-    "new": 680,
-    "pct": 13,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/yogurt_puding/934067/",
-    "key": "SAS|id:934067|780|680"
-   },
-   {
-    "store": "SAS",
     "title": "Գարեջուր «Cervezas Victoria Malaga» 330մլ",
     "old": 630,
     "new": 480,
@@ -7881,8 +7870,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-23T04:03:08.392627+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-23T04:34:43.338813+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
