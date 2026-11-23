@@ -3526,17 +3526,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Օղի «Beluga Export» 0.7լ",
-    "old": 24500,
-    "new": 18700,
-    "pct": 24,
-    "until": "04.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/importnoe/32089/",
-    "key": "SAS|id:32089|24500|18700"
-   },
-   {
-    "store": "SAS",
     "title": "Գինի կարմիր «Ֆրունզիկ Մկրտչյան Արենի» 0.75լ",
     "old": 7350,
     "new": 6750,
@@ -7929,8 +7918,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-23T20:18:01.989970+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-23T20:49:16.040403+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
