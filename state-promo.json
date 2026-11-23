@@ -3534,7 +3534,8 @@
    "Yerevan City|id:179296|690|250",
    "Yerevan City|id:180764|720|520",
    "Yerevan City|id:179673|690|560",
-   "Yerevan City|id:180263|690|560"
+   "Yerevan City|id:180263|690|560",
+   "Yerevan City|id:192478|690|449"
   ]
  },
  "queues": {
@@ -7929,6 +7930,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173984.png",
     "url": "https://yerevan-city.am/shop/product-details/180263",
     "key": "Yerevan City|id:180263|690|560"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Բատոնչիկ պրոտ. «Ֆ.Ֆիթ» ՖիթՓՓ, պիստակ-կար.ա/շ 50գր",
+    "old": 690,
+    "new": 449,
+    "pct": 35,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176211.png",
+    "url": "https://yerevan-city.am/shop/product-details/192478",
+    "key": "Yerevan City|id:192478|690|449"
    }
   ]
  },
