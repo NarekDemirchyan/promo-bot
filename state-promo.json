@@ -3484,22 +3484,12 @@
    "Yerevan City|id:130553|690|345",
    "Yerevan City|id:161893|690|410",
    "Yerevan City|id:161895|690|410",
-   "Yerevan City|id:161896|690|410"
+   "Yerevan City|id:161896|690|410",
+   "Yerevan City|id:162698|690|345"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ատամի մածուկ «Sensodyne Complete Protection Advanced Whitening» 75մլ",
-    "old": 2750,
-    "new": 1920,
-    "pct": 30,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/dlya_polosti_rta/972191/",
-    "key": "SAS|id:972191|2750|1920"
-   },
    {
     "store": "SAS",
     "title": "Սուրճ լուծվող «Jardin Kenya Kilimanjaro» 95գ",
@@ -7879,12 +7869,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1159612.png",
     "url": "https://yerevan-city.am/shop/product-details/161896",
     "key": "Yerevan City|id:161896|690|410"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տոնածառի խաղ.ապ. «Գունդ» արծաթ. 2սմx12հտ",
+    "old": 690,
+    "new": 345,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1160338.png",
+    "url": "https://yerevan-city.am/shop/product-details/162698",
+    "key": "Yerevan City|id:162698|690|345"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-23T08:47:04.606287+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-23T09:02:27.269785+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
