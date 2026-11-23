@@ -3488,22 +3488,12 @@
    "Yerevan City|id:161895|690|410",
    "Yerevan City|id:161896|690|410",
    "Yerevan City|id:162698|690|345",
-   "Yerevan City|id:177256|690|390"
+   "Yerevan City|id:177256|690|390",
+   "Yerevan City|id:162806|690|345"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ատամի մածուկ «Sensodyne Мгновенный Эффект» 75մլ",
-    "old": 2750,
-    "new": 1920,
-    "pct": 30,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/117/248/248037454670006.webp",
-    "url": "https://www.sas.am/catalog/dlya_polosti_rta/972187/",
-    "key": "SAS|id:972187|2750|1920"
-   },
    {
     "store": "SAS",
     "title": "Պուդինգ սպիտակուցային շոկոլադի «Valio Profeel Chocolate» 180գ",
@@ -7883,12 +7873,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170910.png",
     "url": "https://yerevan-city.am/shop/product-details/177256",
     "key": "Yerevan City|id:177256|690|390"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տոնածառի խաղալիք «Պատկերներ»",
+    "old": 690,
+    "new": 345,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1160443.png",
+    "url": "https://yerevan-city.am/shop/product-details/162806",
+    "key": "Yerevan City|id:162806|690|345"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-23T10:02:34.144251+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-23T10:17:31.569851+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
