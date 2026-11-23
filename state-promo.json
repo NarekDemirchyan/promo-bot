@@ -1743,7 +1743,8 @@
    "SAS|id:594237|2090|1890",
    "SAS|id:509420|5990|3050",
    "SAS|id:594229|1790|1690",
-   "SAS|id:593545|11400|10600"
+   "SAS|id:593545|11400|10600",
+   "SAS|id:34227|3490|3050"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5704,6 +5705,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/239/786/7866532466206232.webp",
     "url": "https://www.sas.am/catalog/armyanskoe_vino/593545/",
     "key": "SAS|id:593545|11400|10600"
+   },
+   {
+    "store": "SAS",
+    "title": "Սափրվելու գել «Nivea Men Увлажняющий» 200մլ",
+    "old": 3490,
+    "new": 3050,
+    "pct": 13,
+    "until": "27.11.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/183/359/3597192839696428.webp",
+    "url": "https://www.sas.am/catalog/pena_gel_dlya_britya/34227/",
+    "key": "SAS|id:34227|3490|3050"
    }
   ],
   "Yerevan City": [
