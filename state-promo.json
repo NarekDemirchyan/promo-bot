@@ -3530,22 +3530,12 @@
    "Yerevan City|id:175103|690|345",
    "Yerevan City|id:175122|690|345",
    "Yerevan City|id:179296|690|250",
-   "Yerevan City|id:180764|720|520"
+   "Yerevan City|id:180764|720|520",
+   "Yerevan City|id:179673|690|560"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կոնֆետներ աղի կարամելային «Carabreizh» 150գ",
-    "old": 2590,
-    "new": 1800,
-    "pct": 31,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/konfety_v_upakovke/755085/",
-    "key": "SAS|id:755085|2590|1800"
-   },
    {
     "store": "SAS",
     "title": "Կոնյակ «Իջևան 7*» 0.5լ",
@@ -7925,12 +7915,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174498.png",
     "url": "https://yerevan-city.am/shop/product-details/180764",
     "key": "Yerevan City|id:180764|720|520"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գարեջուր «Րյուդիգեր» Փիլսներ, բաց թ/տ 0.45լ",
+    "old": 690,
+    "new": 560,
+    "pct": 19,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173392.png",
+    "url": "https://yerevan-city.am/shop/product-details/179673",
+    "key": "Yerevan City|id:179673|690|560"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-24T00:47:07.146853+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-24T01:02:31.266551+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
