@@ -1746,7 +1746,8 @@
    "SAS|id:593545|11400|10600",
    "SAS|id:34227|3490|3050",
    "SAS|id:593267|38500|26950",
-   "SAS|id:34223|3490|3050"
+   "SAS|id:34223|3490|3050",
+   "SAS|id:588112|4590|4290"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5710,20 +5711,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/268/750/7502151313583806.webp",
     "url": "https://www.sas.am/catalog/pena_gel_dlya_britya/34223/",
     "key": "SAS|id:34223|3490|3050"
+   },
+   {
+    "store": "SAS",
+    "title": "Կոնյակ «Լեռնային Հայաստան» 0.5լ",
+    "old": 4590,
+    "new": 4290,
+    "pct": 7,
+    "until": "08.01.2027",
+    "img": "https://www.sas.am/upload/Sh/imageCache/335/050/0507522341509253.webp",
+    "url": "https://www.sas.am/catalog/armyanskiy_konyak/588112/",
+    "key": "SAS|id:588112|4590|4290"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Նվերի փաթեթ շշի համար «Երևան Սիթի» 12x45x12սմ",
-    "old": 790,
-    "new": 550,
-    "pct": 30,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1152994.png",
-    "url": "https://yerevan-city.am/shop/product-details/133758",
-    "key": "Yerevan City|id:133758|790|550"
-   },
    {
     "store": "Yerevan City",
     "title": "Նեկտար «Սադի Պրիդոնյա» Էքս. բանան-ելակ 0.97լ",
@@ -7916,8 +7917,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-23T20:03:08.772422+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-23T20:18:01.989970+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
