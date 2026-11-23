@@ -3480,22 +3480,12 @@
    "Yerevan City|id:130216|690|345",
    "Yerevan City|id:130540|690|345",
    "Yerevan City|id:130553|690|345",
-   "Yerevan City|id:161893|690|410"
+   "Yerevan City|id:161893|690|410",
+   "Yerevan City|id:161895|690|410"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կոմպոտ մամուխի «Իջևան» 1լ",
-    "old": 1250,
-    "new": 1150,
-    "pct": 8,
-    "until": "07.01.2027",
-    "img": "",
-    "url": "https://www.sas.am/catalog/kompot/631481/",
-    "key": "SAS|id:631481|1250|1150"
-   },
    {
     "store": "SAS",
     "title": "Ատամի մածուկ «Sensodyne Daily Protection» 100մլ",
@@ -7875,12 +7865,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1159609.png",
     "url": "https://yerevan-city.am/shop/product-details/161893",
     "key": "Yerevan City|id:161893|690|410"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Չխկչխկան խաղալիք «Կապիկ» 688-32",
+    "old": 690,
+    "new": 410,
+    "pct": 41,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1159611.png",
+    "url": "https://yerevan-city.am/shop/product-details/161895",
+    "key": "Yerevan City|id:161895|690|410"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-23T07:32:20.969711+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-23T07:47:08.018395+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
