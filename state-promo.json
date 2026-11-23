@@ -3512,22 +3512,12 @@
    "Yerevan City|id:180227|690|345",
    "Yerevan City|id:179848|690|330",
    "Yerevan City|id:27411|690|345",
-   "Yerevan City|id:27449|690|345"
+   "Yerevan City|id:27449|690|345",
+   "Yerevan City|id:180465|690|550"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Գինի կարմիր «Տակառ Արենի Մերլո» 0.75լ",
-    "old": 5590,
-    "new": 5150,
-    "pct": 8,
-    "until": "08.01.2027",
-    "img": "",
-    "url": "https://www.sas.am/catalog/armyanskoe_vino/550122/",
-    "key": "SAS|id:550122|5590|5150"
-   },
    {
     "store": "SAS",
     "title": "Պանիր դասական «Philadelphia» 175գ",
@@ -7907,12 +7897,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1084037.png",
     "url": "https://yerevan-city.am/shop/product-details/27449",
     "key": "Yerevan City|id:27449|690|345"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սառը սուրճ «ՕԿՖ» Սաֆարի, կարամել-մակիատո թ/տ 340մլ",
+    "old": 690,
+    "new": 550,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174191.png",
+    "url": "https://yerevan-city.am/shop/product-details/180465",
+    "key": "Yerevan City|id:180465|690|550"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-23T18:31:09.094283+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-23T18:47:15.813960+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
