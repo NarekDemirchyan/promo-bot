@@ -3536,22 +3536,12 @@
    "Yerevan City|id:180764|720|520",
    "Yerevan City|id:179673|690|560",
    "Yerevan City|id:180263|690|560",
-   "Yerevan City|id:192478|690|449"
+   "Yerevan City|id:192478|690|449",
+   "Yerevan City|id:192479|690|449"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Անձեռոցիկ խոնավ հակաբակտերիալ «Compact Golf» 15 հատ",
-    "old": 190,
-    "new": 120,
-    "pct": 37,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/vetwip_es/322151/",
-    "key": "SAS|id:322151|190|120"
-   },
    {
     "store": "SAS",
     "title": "Կրեկերներ պիցցայի համով «Croco Pizza» 400գ",
@@ -7931,12 +7921,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176211.png",
     "url": "https://yerevan-city.am/shop/product-details/192478",
     "key": "Yerevan City|id:192478|690|449"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Բատոնչիկ պրոտ. «Ֆ.Ֆիթ» ՖիթՓՓ, գետնշ-կար.ա/շ 50գր",
+    "old": 690,
+    "new": 449,
+    "pct": 35,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176212.png",
+    "url": "https://yerevan-city.am/shop/product-details/192479",
+    "key": "Yerevan City|id:192479|690|449"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-24T02:32:15.758519+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-24T02:47:07.665621+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
