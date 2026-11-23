@@ -1756,7 +1756,8 @@
    "SAS|id:552181|9590|9100",
    "SAS|id:552180|7010|6550",
    "SAS|id:571808|100|50",
-   "SAS|id:571807|100|50"
+   "SAS|id:571807|100|50",
+   "SAS|id:209408|16500|11550"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5730,6 +5731,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/105/682/6825622895607265.webp",
     "url": "https://www.sas.am/catalog/vetwip_es/571807/",
     "key": "SAS|id:571807|100|50"
+   },
+   {
+    "store": "SAS",
+    "title": "Ձվիկ անակնկալով «Kinder 7 Eggs Surprises» 140գ",
+    "old": 16500,
+    "new": 11550,
+    "pct": 30,
+    "until": "01.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/konfety_v_upakovke/209408/",
+    "key": "SAS|id:209408|16500|11550"
    }
   ],
   "Yerevan City": [
