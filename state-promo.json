@@ -1723,7 +1723,8 @@
    "SAS|id:604846|1880|1750",
    "SAS|id:604835|7590|6790",
    "SAS|id:604658|5490|4490",
-   "SAS|id:602181|5930|5250"
+   "SAS|id:602181|5930|5250",
+   "SAS|id:602164|8690|7690"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5664,6 +5665,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/958/201/201769605703573.webp",
     "url": "https://www.sas.am/catalog/armyanskoe_vino/602181/",
     "key": "SAS|id:602181|5930|5250"
+   },
+   {
+    "store": "SAS",
+    "title": "Բրենդի բալի «Իջևան» 0.5լ",
+    "old": 8690,
+    "new": 7690,
+    "pct": 12,
+    "until": "08.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/armyanskoe_vino/602164/",
+    "key": "SAS|id:602164|8690|7690"
    }
   ],
   "Yerevan City": [
