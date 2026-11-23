@@ -3538,22 +3538,12 @@
    "Yerevan City|id:179673|690|560",
    "Yerevan City|id:180263|690|560",
    "Yerevan City|id:192478|690|449",
-   "Yerevan City|id:192479|690|449"
+   "Yerevan City|id:192479|690|449",
+   "Yerevan City|id:192480|690|449"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կրեկերներ պիցցայի համով «Croco Pizza» 400գ",
-    "old": 1460,
-    "new": 1350,
-    "pct": 8,
-    "until": "30.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/356/237/2378773247316715.webp",
-    "url": "https://www.sas.am/catalog/krekery_solenye_palochki/85391/",
-    "key": "SAS|id:85391|1460|1350"
-   },
    {
     "store": "SAS",
     "title": "Սուրճ լուծվող «Jardin Cappuccino» 18գ",
@@ -7933,12 +7923,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176212.png",
     "url": "https://yerevan-city.am/shop/product-details/192479",
     "key": "Yerevan City|id:192479|690|449"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Բատոնչիկ պրոտ. «Ֆ.Ֆիթ» ՖիթՓՓ, կոկոս ա/շ 50գր",
+    "old": 690,
+    "new": 449,
+    "pct": 35,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176213.png",
+    "url": "https://yerevan-city.am/shop/product-details/192480",
+    "key": "Yerevan City|id:192480|690|449"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-24T03:02:24.901837+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-24T03:17:05.784764+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
