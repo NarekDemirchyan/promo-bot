@@ -1739,7 +1739,8 @@
    "SAS|id:31740|390|290",
    "SAS|id:7915|2890|1680",
    "SAS|id:594239|3250|2950",
-   "SAS|id:594238|2390|2190"
+   "SAS|id:594238|2390|2190",
+   "SAS|id:594237|2090|1890"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5696,6 +5697,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/armyanskiy_konyak/594238/",
     "key": "SAS|id:594238|2390|2190"
+   },
+   {
+    "store": "SAS",
+    "title": "Կոնյակ «Երևան 3*» 0.25լ",
+    "old": 2090,
+    "new": 1890,
+    "pct": 10,
+    "until": "08.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/armyanskiy_konyak/594237/",
+    "key": "SAS|id:594237|2090|1890"
    }
   ],
   "Yerevan City": [
