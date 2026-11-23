@@ -3490,7 +3490,8 @@
    "Yerevan City|id:161896|690|410",
    "Yerevan City|id:162698|690|345",
    "Yerevan City|id:177256|690|390",
-   "Yerevan City|id:162806|690|345"
+   "Yerevan City|id:162806|690|345",
+   "Yerevan City|id:174858|690|590"
   ]
  },
  "queues": {
@@ -7885,6 +7886,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1160443.png",
     "url": "https://yerevan-city.am/shop/product-details/162806",
     "key": "Yerevan City|id:162806|690|345"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Պանիր հալած «Ռոկլեր» դասական 130գր",
+    "old": 690,
+    "new": 590,
+    "pct": 14,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168472.png",
+    "url": "https://yerevan-city.am/shop/product-details/174858",
+    "key": "Yerevan City|id:174858|690|590"
    }
   ]
  },
