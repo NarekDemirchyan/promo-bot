@@ -3494,17 +3494,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Սուրճ լուծվող «Jardin Kenya Kilimanjaro» 95գ",
-    "old": 2990,
-    "new": 2350,
-    "pct": 21,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/154/474/4749731493460213.webp",
-    "url": "https://www.sas.am/catalog/rastvorimyy_kofe/83033/",
-    "key": "SAS|id:83033|2990|2350"
-   },
-   {
-    "store": "SAS",
     "title": "Ատամի մածուկ «Sensodyne Мгновенный Эффект» 75մլ",
     "old": 2750,
     "new": 1920,
@@ -7897,8 +7886,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-23T09:19:41.093596+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-23T09:47:06.834021+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
