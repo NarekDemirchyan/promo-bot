@@ -1728,7 +1728,8 @@
    "SAS|id:601078|6790|3240",
    "SAS|id:598143|5450|4950",
    "SAS|id:598142|3990|3690",
-   "SAS|id:598141|3350|3190"
+   "SAS|id:598141|3350|3190",
+   "SAS|id:132341|920|820"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5674,20 +5675,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/armyanskiy_konyak/598141/",
     "key": "SAS|id:598141|3350|3190"
+   },
+   {
+    "store": "SAS",
+    "title": "Պղպեղ կարմիր աղացած «Արտֆուդ» 460գ",
+    "old": 920,
+    "new": 820,
+    "pct": 11,
+    "until": "31.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/baklazhan/132341/",
+    "key": "SAS|id:132341|920|820"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Մաստակ «Ֆինի» սեխ, առանց գլյուտեն 100գր",
-    "old": 690,
-    "new": 490,
-    "pct": 29,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1110645.png",
-    "url": "https://yerevan-city.am/shop/product-details/59463",
-    "key": "Yerevan City|id:59463|690|490"
-   },
    {
     "store": "Yerevan City",
     "title": "Կարմիր պղպեղ «Արտֆուդ» աղացած 450մլ",
@@ -7880,8 +7881,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-23T07:47:08.018395+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-23T08:04:42.900851+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
