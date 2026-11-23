@@ -1738,7 +1738,8 @@
    "SAS|id:267724|2760|2550",
    "SAS|id:31740|390|290",
    "SAS|id:7915|2890|1680",
-   "SAS|id:594239|3250|2950"
+   "SAS|id:594239|3250|2950",
+   "SAS|id:594238|2390|2190"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5694,20 +5695,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/armyanskiy_konyak/594239/",
     "key": "SAS|id:594239|3250|2950"
+   },
+   {
+    "store": "SAS",
+    "title": "Կոնյակ «Երևան 5*» 0.25լ",
+    "old": 2390,
+    "new": 2190,
+    "pct": 8,
+    "until": "08.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/armyanskiy_konyak/594238/",
+    "key": "SAS|id:594238|2390|2190"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Իրերի պահ.արկղ «Հերեվին» 3.5լ",
-    "old": 790,
-    "new": 350,
-    "pct": 56,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174932.png",
-    "url": "https://yerevan-city.am/shop/product-details/181206",
-    "key": "Yerevan City|id:181206|790|350"
-   },
    {
     "store": "Yerevan City",
     "title": "Ծաղկաման պլաստմասե «ԻնԳրին» Ամստերդամ 1.35լ Դ140",
@@ -7900,8 +7901,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-23T14:47:06.810335+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-23T15:03:01.788024+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
