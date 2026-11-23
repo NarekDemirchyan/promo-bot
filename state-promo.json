@@ -1737,7 +1737,8 @@
    "SAS|id:594243|2090|1890",
    "SAS|id:267724|2760|2550",
    "SAS|id:31740|390|290",
-   "SAS|id:7915|2890|1680"
+   "SAS|id:7915|2890|1680",
+   "SAS|id:594239|3250|2950"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5692,6 +5693,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/importnyy_syr/7915/",
     "key": "SAS|id:7915|2890|1680"
+   },
+   {
+    "store": "SAS",
+    "title": "Կոնյակ «Երևան 7*» 0.25լ",
+    "old": 3250,
+    "new": 2950,
+    "pct": 9,
+    "until": "08.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/armyanskiy_konyak/594239/",
+    "key": "SAS|id:594239|3250|2950"
    }
   ],
   "Yerevan City": [
