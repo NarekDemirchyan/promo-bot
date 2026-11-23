@@ -1736,7 +1736,8 @@
    "SAS|id:594244|2390|2190",
    "SAS|id:594243|2090|1890",
    "SAS|id:267724|2760|2550",
-   "SAS|id:31740|390|290"
+   "SAS|id:31740|390|290",
+   "SAS|id:7915|2890|1680"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3497,22 +3498,12 @@
    "Yerevan City|id:174858|690|590",
    "Yerevan City|id:175138|690|345",
    "Yerevan City|id:174859|690|590",
-   "Yerevan City|id:176419|690|460"
+   "Yerevan City|id:176419|690|460",
+   "Yerevan City|id:172972|690|350"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Մարմնի կաթ «Nivea Irresistibly Smooth» 250մլ",
-    "old": 2890,
-    "new": 2330,
-    "pct": 19,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/vse_dlya_ukhoda_za_telom_ustarelo/100742/",
-    "key": "SAS|id:100742|2890|2330"
-   },
    {
     "store": "SAS",
     "title": "Աղանդեր կաթնային ազնվամորու «Elle & Vire Mon Grec Framboise» 125գ",
@@ -5690,6 +5681,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/voda/31740/",
     "key": "SAS|id:31740|390|290"
+   },
+   {
+    "store": "SAS",
+    "title": "Պանիր հալած «President» 400գ, յուղայնությունը` 45",
+    "old": 2890,
+    "new": 1680,
+    "pct": 42,
+    "until": "27.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/importnyy_syr/7915/",
+    "key": "SAS|id:7915|2890|1680"
    }
   ],
   "Yerevan City": [
@@ -7881,12 +7883,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170050.png",
     "url": "https://yerevan-city.am/shop/product-details/176419",
     "key": "Yerevan City|id:176419|690|460"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Խոզանակ խմորի համար «Դեննի Հոմ» սիլիկոնե ԴՀ3898",
+    "old": 690,
+    "new": 350,
+    "pct": 49,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1166558.png",
+    "url": "https://yerevan-city.am/shop/product-details/172972",
+    "key": "Yerevan City|id:172972|690|350"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-23T13:46:18.798011+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-23T14:04:51.771474+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
