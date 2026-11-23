@@ -3524,22 +3524,12 @@
    "Yerevan City|id:114966|690|490",
    "Yerevan City|id:180464|690|550",
    "Yerevan City|id:173161|690|390",
-   "Yerevan City|id:175103|690|345"
+   "Yerevan City|id:175103|690|345",
+   "Yerevan City|id:175122|690|345"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Անձեռոցիկ խոնավ կոշիկների համար «Naturelle For Shoes» 15 հատ",
-    "old": 160,
-    "new": 120,
-    "pct": 25,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/dlya_odezhdy_obuvi/913235/",
-    "key": "SAS|id:913235|160|120"
-   },
    {
     "store": "SAS",
     "title": "Պանիր հալած «Valio» 200գ",
@@ -7919,12 +7909,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168726.png",
     "url": "https://yerevan-city.am/shop/product-details/175103",
     "key": "Yerevan City|id:175103|690|345"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տոնածառի խաղ. «Պատկերներ» կարմիր",
+    "old": 690,
+    "new": 345,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168745.png",
+    "url": "https://yerevan-city.am/shop/product-details/175122",
+    "key": "Yerevan City|id:175122|690|345"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-23T22:32:28.303949+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-23T22:47:03.700588+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
