@@ -3542,17 +3542,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Պանիր կաթնաշոռային «Valio Natural» 180գ",
-    "old": 1330,
-    "new": 1150,
-    "pct": 14,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/importnyy_syr/186779/",
-    "key": "SAS|id:186779|1330|1150"
-   },
-   {
-    "store": "SAS",
     "title": "Անձեռոցիկ խոնավ հակաբակտերիալ «Compact Golf» 15 հատ",
     "old": 190,
     "new": 120,
@@ -7945,8 +7934,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-24T01:49:45.435746+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-24T02:17:10.047351+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
