@@ -3482,7 +3482,8 @@
    "Yerevan City|id:130540|690|345",
    "Yerevan City|id:130553|690|345",
    "Yerevan City|id:161893|690|410",
-   "Yerevan City|id:161895|690|410"
+   "Yerevan City|id:161895|690|410",
+   "Yerevan City|id:161896|690|410"
   ]
  },
  "queues": {
@@ -7877,6 +7878,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1159611.png",
     "url": "https://yerevan-city.am/shop/product-details/161895",
     "key": "Yerevan City|id:161895|690|410"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Չխկչխկան խաղալիք «Ծաղիկ» 688-19",
+    "old": 690,
+    "new": 410,
+    "pct": 41,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1159612.png",
+    "url": "https://yerevan-city.am/shop/product-details/161896",
+    "key": "Yerevan City|id:161896|690|410"
    }
   ]
  },
