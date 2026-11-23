@@ -1742,7 +1742,8 @@
    "SAS|id:594238|2390|2190",
    "SAS|id:594237|2090|1890",
    "SAS|id:509420|5990|3050",
-   "SAS|id:594229|1790|1690"
+   "SAS|id:594229|1790|1690",
+   "SAS|id:593545|11400|10600"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5702,20 +5703,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/274/256/2564742495196983.webp",
     "url": "https://www.sas.am/catalog/armyanskoe_vino/594229/",
     "key": "SAS|id:594229|1790|1690"
+   },
+   {
+    "store": "SAS",
+    "title": "Գինի կարմիր «Լուսարև Ռեզերվ» 0․75լ",
+    "old": 11400,
+    "new": 10600,
+    "pct": 7,
+    "until": "08.01.2027",
+    "img": "https://www.sas.am/upload/Sh/imageCache/239/786/7866532466206232.webp",
+    "url": "https://www.sas.am/catalog/armyanskoe_vino/593545/",
+    "key": "SAS|id:593545|11400|10600"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Թխվածքաբլիթ «Յուբիլեյնոյե» ավանդական 403գր",
-    "old": 790,
-    "new": 620,
-    "pct": 22,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1128648.png",
-    "url": "https://yerevan-city.am/shop/product-details/91705",
-    "key": "Yerevan City|id:91705|790|620"
-   },
    {
     "store": "Yerevan City",
     "title": "Ատամի մածուկ մանկական «Քոլգեյթ» մաստակ 6+ 80գր",
@@ -7908,8 +7909,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-23T17:32:09.254313+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-23T17:47:12.055270+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
