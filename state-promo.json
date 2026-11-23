@@ -3474,22 +3474,12 @@
    "Yerevan City|id:173157|690|460",
    "Yerevan City|id:173160|690|390",
    "Yerevan City|id:130163|690|345",
-   "Yerevan City|id:130216|690|345"
+   "Yerevan City|id:130216|690|345",
+   "Yerevan City|id:130540|690|345"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Դոնդողե կոնֆետներ «Mamba» 140գ",
-    "old": 970,
-    "new": 790,
-    "pct": 19,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/zhele_plastila/322472/",
-    "key": "SAS|id:322472|970|790"
-   },
    {
     "store": "SAS",
     "title": "Խտացրած կաթ ազնվամորու «Коровка из Кореновки Пломбир» 270գ, յուղայնությունը` 8.5",
@@ -7869,12 +7859,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1149993.png",
     "url": "https://yerevan-city.am/shop/product-details/130216",
     "key": "Yerevan City|id:130216|690|345"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տոնածառի խաղ. «Ճտքակոշիկ» վարդագույն 12սմ",
+    "old": 690,
+    "new": 345,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1150184.png",
+    "url": "https://yerevan-city.am/shop/product-details/130540",
+    "key": "Yerevan City|id:130540|690|345"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-23T05:32:13.607183+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-23T05:49:40.012317+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
