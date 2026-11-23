@@ -3530,17 +3530,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Թխվածքաբլիթ շոկոլադե «Gullon Duo Double Temptation» 165գ",
-    "old": 530,
-    "new": 480,
-    "pct": 9,
-    "until": "30.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/827/865/8650192496227530.webp",
-    "url": "https://www.sas.am/catalog/pechene_pryaniki/133601/",
-    "key": "SAS|id:133601|530|480"
-   },
-   {
-    "store": "SAS",
     "title": "Անձեռոցիկ խոնավ կոշիկների համար «Naturelle For Shoes» 15 հատ",
     "old": 160,
     "new": 120,
@@ -7933,8 +7922,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-23T21:50:07.472753+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-23T22:17:48.053874+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
