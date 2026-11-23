@@ -3520,7 +3520,8 @@
    "Yerevan City|id:180465|690|550",
    "Yerevan City|id:32332|690|345",
    "Yerevan City|id:114966|690|490",
-   "Yerevan City|id:180464|690|550"
+   "Yerevan City|id:180464|690|550",
+   "Yerevan City|id:173161|690|390"
   ]
  },
  "queues": {
@@ -7915,6 +7916,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174190.png",
     "url": "https://yerevan-city.am/shop/product-details/180464",
     "key": "Yerevan City|id:180464|690|550"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թխվածք պրոտ. «Տորտիկ» պիստակ-բալ ա/շ/գ 55գր",
+    "old": 690,
+    "new": 390,
+    "pct": 43,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1166753.png",
+    "url": "https://yerevan-city.am/shop/product-details/173161",
+    "key": "Yerevan City|id:173161|690|390"
    }
   ]
  },
