@@ -3526,7 +3526,8 @@
    "Yerevan City|id:180464|690|550",
    "Yerevan City|id:173161|690|390",
    "Yerevan City|id:175103|690|345",
-   "Yerevan City|id:175122|690|345"
+   "Yerevan City|id:175122|690|345",
+   "Yerevan City|id:179296|690|250"
   ]
  },
  "queues": {
@@ -7921,6 +7922,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168745.png",
     "url": "https://yerevan-city.am/shop/product-details/175122",
     "key": "Yerevan City|id:175122|690|345"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մոմ բուրավետ «Սիրտ» 7սմ",
+    "old": 690,
+    "new": 250,
+    "pct": 64,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173001.png",
+    "url": "https://yerevan-city.am/shop/product-details/179296",
+    "key": "Yerevan City|id:179296|690|250"
    }
   ]
  },
