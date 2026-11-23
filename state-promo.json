@@ -1752,7 +1752,8 @@
    "SAS|id:4379|1320|1130",
    "SAS|id:571204|11900|10900",
    "SAS|id:173913|590|470",
-   "SAS|id:553288|11900|10900"
+   "SAS|id:553288|11900|10900",
+   "SAS|id:552181|9590|9100"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5722,6 +5723,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/368/967/9671352833088231.webp",
     "url": "https://www.sas.am/catalog/armyanskoe_vino/553288/",
     "key": "SAS|id:553288|11900|10900"
+   },
+   {
+    "store": "SAS",
+    "title": "Կոնյակ «Վի Ընդ Էմ 7*» 0․5լ",
+    "old": 9590,
+    "new": 9100,
+    "pct": 5,
+    "until": "08.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/armyanskiy_konyak/552181/",
+    "key": "SAS|id:552181|9590|9100"
    }
   ],
   "Yerevan City": [
