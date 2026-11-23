@@ -3540,22 +3540,12 @@
    "Yerevan City|id:180263|690|560",
    "Yerevan City|id:192478|690|449",
    "Yerevan City|id:192479|690|449",
-   "Yerevan City|id:192480|690|449"
+   "Yerevan City|id:192480|690|449",
+   "Yerevan City|id:192481|690|449"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սուրճ լուծվող «Jardin Cappuccino» 18գ",
-    "old": 190,
-    "new": 170,
-    "pct": 11,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/rastvorimyy_kofe/258487/",
-    "key": "SAS|id:258487|190|170"
-   },
    {
     "store": "SAS",
     "title": "Սուրճ լուծվող «Jardin Latte» 18գ",
@@ -7935,12 +7925,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176213.png",
     "url": "https://yerevan-city.am/shop/product-details/192480",
     "key": "Yerevan City|id:192480|690|449"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Բատոնչիկ պրոտ. «Ֆ.Ֆիթ» ՖիթՓՓ, գետնշ-կար.ա/շ 50գր",
+    "old": 690,
+    "new": 449,
+    "pct": 35,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176214.png",
+    "url": "https://yerevan-city.am/shop/product-details/192481",
+    "key": "Yerevan City|id:192481|690|449"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-24T03:32:14.214305+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-24T03:47:09.455314+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
