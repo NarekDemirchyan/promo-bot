@@ -1725,7 +1725,8 @@
    "SAS|id:604658|5490|4490",
    "SAS|id:602181|5930|5250",
    "SAS|id:602164|8690|7690",
-   "SAS|id:601078|6790|3240"
+   "SAS|id:601078|6790|3240",
+   "SAS|id:598143|5450|4950"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5668,6 +5669,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/vse_dlya_ukhoda_za_telom_ustarelo/601078/",
     "key": "SAS|id:601078|6790|3240"
+   },
+   {
+    "store": "SAS",
+    "title": "Կոնյակ «Արմա 7*» 0.5լ",
+    "old": 5450,
+    "new": 4950,
+    "pct": 9,
+    "until": "08.01.2027",
+    "img": "https://www.sas.am/upload/Sh/imageCache/159/844/8446411651197242.webp",
+    "url": "https://www.sas.am/catalog/armyanskiy_konyak/598143/",
+    "key": "SAS|id:598143|5450|4950"
    }
   ],
   "Yerevan City": [
