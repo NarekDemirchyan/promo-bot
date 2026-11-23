@@ -3534,17 +3534,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Պանիր հալած «Valio» 200գ",
-    "old": 1270,
-    "new": 1040,
-    "pct": 18,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/importnyy_syr/179158/",
-    "key": "SAS|id:179158|1270|1040"
-   },
-   {
-    "store": "SAS",
     "title": "Մաստակ-կոնֆետ հատապտղային «Mamba» 79.5գ",
     "old": 610,
     "new": 490,
@@ -7937,8 +7926,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-23T23:05:27.669759+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-23T23:32:13.564052+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
