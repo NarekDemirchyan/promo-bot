@@ -3528,22 +3528,12 @@
    "Yerevan City|id:173161|690|390",
    "Yerevan City|id:175103|690|345",
    "Yerevan City|id:175122|690|345",
-   "Yerevan City|id:179296|690|250"
+   "Yerevan City|id:179296|690|250",
+   "Yerevan City|id:180764|720|520"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Մաստակ-կոնֆետ հատապտղային «Mamba» 79.5գ",
-    "old": 610,
-    "new": 490,
-    "pct": 20,
-    "until": "30.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/356/391/391148877568579.webp",
-    "url": "https://www.sas.am/catalog/chewingcandy/828617/",
-    "key": "SAS|id:828617|610|490"
-   },
    {
     "store": "SAS",
     "title": "Կոնֆետներ աղի կարամելային «Carabreizh» 150գ",
@@ -7923,12 +7913,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173001.png",
     "url": "https://yerevan-city.am/shop/product-details/179296",
     "key": "Yerevan City|id:179296|690|250"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գարեջուր «Վիկտորյա Մալագա» բաց ա/տ 0.33լ",
+    "old": 720,
+    "new": 520,
+    "pct": 28,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174498.png",
+    "url": "https://yerevan-city.am/shop/product-details/180764",
+    "key": "Yerevan City|id:180764|720|520"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-24T00:02:31.523235+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-24T00:20:04.926237+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
