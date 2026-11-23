@@ -3496,7 +3496,8 @@
    "Yerevan City|id:162806|690|345",
    "Yerevan City|id:174858|690|590",
    "Yerevan City|id:175138|690|345",
-   "Yerevan City|id:174859|690|590"
+   "Yerevan City|id:174859|690|590",
+   "Yerevan City|id:176419|690|460"
   ]
  },
  "queues": {
@@ -7891,6 +7892,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168473.png",
     "url": "https://yerevan-city.am/shop/product-details/174859",
     "key": "Yerevan City|id:174859|690|590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սպունգ սպասքի համար «Ֆրեկեն Բոկ» մետաղ. 2հտ",
+    "old": 690,
+    "new": 460,
+    "pct": 33,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1170050.png",
+    "url": "https://yerevan-city.am/shop/product-details/176419",
+    "key": "Yerevan City|id:176419|690|460"
    }
   ]
  },
