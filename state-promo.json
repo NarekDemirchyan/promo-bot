@@ -1744,7 +1744,8 @@
    "SAS|id:509420|5990|3050",
    "SAS|id:594229|1790|1690",
    "SAS|id:593545|11400|10600",
-   "SAS|id:34227|3490|3050"
+   "SAS|id:34227|3490|3050",
+   "SAS|id:593267|38500|26950"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5706,20 +5707,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/183/359/3597192839696428.webp",
     "url": "https://www.sas.am/catalog/pena_gel_dlya_britya/34227/",
     "key": "SAS|id:34227|3490|3050"
+   },
+   {
+    "store": "SAS",
+    "title": "Վիսկի «Kamiki Sakura Wood» 0.7լ",
+    "old": 38500,
+    "new": 26950,
+    "pct": 30,
+    "until": "30.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/viski/593267/",
+    "key": "SAS|id:593267|38500|26950"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Տոնածառի խաղ. «Չմուշկ» սպիտակ 9սմ",
-    "old": 790,
-    "new": 395,
-    "pct": 50,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1150187.png",
-    "url": "https://yerevan-city.am/shop/product-details/130543",
-    "key": "Yerevan City|id:130543|790|395"
-   },
    {
     "store": "Yerevan City",
     "title": "Ջրի շիշ «Հերեվին» ապակե 750մլ",
@@ -7912,8 +7913,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-23T18:47:15.813960+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-23T19:02:34.254043+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
