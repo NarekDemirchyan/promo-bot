@@ -3514,22 +3514,12 @@
    "Yerevan City|id:179848|690|330",
    "Yerevan City|id:27411|690|345",
    "Yerevan City|id:27449|690|345",
-   "Yerevan City|id:180465|690|550"
+   "Yerevan City|id:180465|690|550",
+   "Yerevan City|id:32332|690|345"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Պանիր դասական «Philadelphia» 175գ",
-    "old": 1870,
-    "new": 1490,
-    "pct": 20,
-    "until": "01.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/importnyy_syr/179077/",
-    "key": "SAS|id:179077|1870|1490"
-   },
    {
     "store": "SAS",
     "title": "Բրենդի «Գոլդեն XO» 0.5լ",
@@ -7909,12 +7899,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174191.png",
     "url": "https://yerevan-city.am/shop/product-details/180465",
     "key": "Yerevan City|id:180465|690|550"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տոնածառի խաղալիք «Ձի ճոճաթոռով» փայլերով 1հտ",
+    "old": 690,
+    "new": 345,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1026306.png",
+    "url": "https://yerevan-city.am/shop/product-details/32332",
+    "key": "Yerevan City|id:32332|690|345"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-23T19:02:34.254043+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-23T19:19:47.430727+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
