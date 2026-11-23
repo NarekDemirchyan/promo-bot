@@ -3492,22 +3492,12 @@
    "Yerevan City|id:162698|690|345",
    "Yerevan City|id:177256|690|390",
    "Yerevan City|id:162806|690|345",
-   "Yerevan City|id:174858|690|590"
+   "Yerevan City|id:174858|690|590",
+   "Yerevan City|id:175138|690|345"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Պուդինգ սպիտակուցային ելակի և սպիտակ շոկոլադի «Valio Profeel Strawberry & White Chocolate» 180գ",
-    "old": 930,
-    "new": 790,
-    "pct": 15,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/328/964/9640742048379655.webp",
-    "url": "https://www.sas.am/catalog/yogurt_puding/935010/",
-    "key": "SAS|id:935010|930|790"
-   },
    {
     "store": "SAS",
     "title": "Հյութ արևադարձային մրգերի «Fruiting» 238մլ",
@@ -7887,12 +7877,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168472.png",
     "url": "https://yerevan-city.am/shop/product-details/174858",
     "key": "Yerevan City|id:174858|690|590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տոնածառի խաղ. «Պատկերներ»",
+    "old": 690,
+    "new": 345,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168765.png",
+    "url": "https://yerevan-city.am/shop/product-details/175138",
+    "key": "Yerevan City|id:175138|690|345"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-23T11:32:32.503169+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-23T11:49:33.917170+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
