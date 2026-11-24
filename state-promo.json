@@ -3544,22 +3544,12 @@
    "Yerevan City|id:192479|690|449",
    "Yerevan City|id:192480|690|449",
    "Yerevan City|id:192481|690|449",
-   "Yerevan City|id:180463|690|550"
+   "Yerevan City|id:180463|690|550",
+   "Yerevan City|id:180466|690|550"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շոկոլադե սալիկ կաթնային «Schogetten» 100գ",
-    "old": 1130,
-    "new": 920,
-    "pct": 19,
-    "until": "30.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/354/296/2965964210370031.webp",
-    "url": "https://www.sas.am/catalog/plitka/206655/",
-    "key": "SAS|id:206655|1130|920"
-   },
    {
     "store": "SAS",
     "title": "Շոկոլադե սալիկ վանիլային միջուկով և թխվածքաբլիթով «Schogetten Black & White» 100գ",
@@ -7939,12 +7929,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174189.png",
     "url": "https://yerevan-city.am/shop/product-details/180463",
     "key": "Yerevan City|id:180463|690|550"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սառը սուրճ «ՕԿՖ» Սաֆարի, սև թ/տ 340մլ",
+    "old": 690,
+    "new": 550,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174192.png",
+    "url": "https://yerevan-city.am/shop/product-details/180466",
+    "key": "Yerevan City|id:180466|690|550"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-24T04:47:04.128021+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-24T05:02:32.063875+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
