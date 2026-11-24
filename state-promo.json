@@ -3588,22 +3588,12 @@
    "Yerevan City|id:174945|680|420",
    "Yerevan City|id:174942|680|420",
    "Yerevan City|id:174941|680|420",
-   "Yerevan City|id:169297|680|570"
+   "Yerevan City|id:169297|680|570",
+   "Yerevan City|id:173542|680|420"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ջեռոցը մաքրող միջոց «Diversey Grill» 750մլ",
-    "old": 3550,
-    "new": 3150,
-    "pct": 11,
-    "until": "10.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/640/272/272647408240519.webp",
-    "url": "https://www.sas.am/catalog/forthekitchen/925527/",
-    "key": "SAS|id:925527|3550|3150"
-   },
    {
     "store": "SAS",
     "title": "Մաքրող միջոց «Diversey Room Care R2» 750մլ",
@@ -7983,12 +7973,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1163184.png",
     "url": "https://yerevan-city.am/shop/product-details/169297",
     "key": "Yerevan City|id:169297|680|570"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շոկ.սալիկ «Ռոսսիյա» Ռոսսիյսկիյ, մուգ շոկոլադ 75գր",
+    "old": 680,
+    "new": 420,
+    "pct": 38,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1167140.png",
+    "url": "https://yerevan-city.am/shop/product-details/173542",
+    "key": "Yerevan City|id:173542|680|420"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-24T18:32:17.144481+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-24T18:47:14.473611+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
