@@ -3602,7 +3602,8 @@
    "Yerevan City|id:173544|680|420",
    "Yerevan City|id:173545|680|420",
    "Yerevan City|id:5560|660|560",
-   "Yerevan City|id:6564|660|620"
+   "Yerevan City|id:6564|660|620",
+   "Yerevan City|id:14033|660|620"
   ]
  },
  "queues": {
@@ -7997,6 +7998,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1052119.png",
     "url": "https://yerevan-city.am/shop/product-details/6564",
     "key": "Yerevan City|id:6564|660|620"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կաթ պարուն․մթերք «Սովետսկայա» եփած 8.5% 360գր",
+    "old": 660,
+    "new": 620,
+    "pct": 6,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1051099.png",
+    "url": "https://yerevan-city.am/shop/product-details/14033",
+    "key": "Yerevan City|id:14033|660|620"
    }
   ]
  },
