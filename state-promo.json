@@ -1782,7 +1782,8 @@
    "SAS|id:2300|2520|2250",
    "SAS|id:6641|3480|3050",
    "SAS|id:6653|3150|2550",
-   "SAS|id:203002|2990|1490"
+   "SAS|id:203002|2990|1490",
+   "SAS|id:203000|2990|1490"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5782,20 +5783,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/130/607/6071323785343911.webp",
     "url": "https://www.sas.am/catalog/dlya_volos2/203002/",
     "key": "SAS|id:203002|2990|1490"
+   },
+   {
+    "store": "SAS",
+    "title": "Չոր շամպուն «Batiste Light & Blonde» 200մլ",
+    "old": 2990,
+    "new": 1490,
+    "pct": 50,
+    "until": "01.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/374/421/4216391423267703.webp",
+    "url": "https://www.sas.am/catalog/dlya_volos2/203000/",
+    "key": "SAS|id:203000|2990|1490"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Մարինացված սունկ «Լորադո» տեսականի ա/տ 314մլ",
-    "old": 760,
-    "new": 640,
-    "pct": 16,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1164625.png",
-    "url": "https://yerevan-city.am/shop/product-details/170958",
-    "key": "Yerevan City|id:170958|760|640"
-   },
    {
     "store": "Yerevan City",
     "title": "Սպունգ սպասքի համար «Վիլեդա» տիպ տոպ 3հտ",
@@ -7988,8 +7989,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-24T18:47:14.473611+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-24T19:02:57.303667+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
