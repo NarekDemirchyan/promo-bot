@@ -1774,7 +1774,8 @@
    "SAS|id:631369|8350|4170",
    "SAS|id:622893|5690|2840",
    "SAS|id:525045|6550|3270",
-   "SAS|id:439077|8690|4340"
+   "SAS|id:439077|8690|4340",
+   "SAS|id:439076|8690|4340"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5766,20 +5767,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/vse_dlya_ukhoda_za_telom_ustarelo/439077/",
     "key": "SAS|id:439077|8690|4340"
+   },
+   {
+    "store": "SAS",
+    "title": "Մարմնի լոսյոն «Aphrodite Mango & Papaya» 200մլ",
+    "old": 8690,
+    "new": 4340,
+    "pct": 50,
+    "until": "01.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/vse_dlya_ukhoda_za_telom_ustarelo/439076/",
+    "key": "SAS|id:439076|8690|4340"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Կաթ պարունակող մթերք «Իչնյա» 8.5% թ/տ 370գր",
-    "old": 780,
-    "new": 575,
-    "pct": 26,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1045712.png",
-    "url": "https://yerevan-city.am/shop/product-details/6415",
-    "key": "Yerevan City|id:6415|780|575"
-   },
    {
     "store": "Yerevan City",
     "title": "Մարինացված վարունգ «ԱՊԳ» 700գր",
@@ -7972,8 +7973,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-24T13:47:06.336249+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-24T14:02:31.433005+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
