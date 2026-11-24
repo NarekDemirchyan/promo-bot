@@ -3564,22 +3564,12 @@
    "Yerevan City|id:192705|690|590",
    "Yerevan City|id:92874|690|630",
    "Yerevan City|id:192737|690|550",
-   "Yerevan City|id:180136|680|420"
+   "Yerevan City|id:180136|680|420",
+   "Yerevan City|id:180135|680|420"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ազնվամորի շոկոլադապատ «Franui Pink Raspberries» 150գ",
-    "old": 3190,
-    "new": 2550,
-    "pct": 20,
-    "until": "30.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/420/684/6845282334001083.webp",
-    "url": "https://www.sas.am/catalog/frukty_ovoshchi_yagody/931798/",
-    "key": "SAS|id:931798|3190|2550"
-   },
    {
     "store": "SAS",
     "title": "Ազնվամորի շոկոլադապատ «Franui Raspberries» 150գ",
@@ -7959,12 +7949,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173855.png",
     "url": "https://yerevan-city.am/shop/product-details/180136",
     "key": "Yerevan City|id:180136|680|420"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շոկ.սալիկ «Նեսթլե» կաթ.շոկոլադ-ազնվամորի 75գր",
+    "old": 680,
+    "new": 420,
+    "pct": 38,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173854.png",
+    "url": "https://yerevan-city.am/shop/product-details/180135",
+    "key": "Yerevan City|id:180135|680|420"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-24T11:02:47.748336+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-24T11:17:03.239308+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
