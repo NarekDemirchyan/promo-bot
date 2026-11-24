@@ -3574,22 +3574,12 @@
    "Yerevan City|id:174949|680|420",
    "Yerevan City|id:174948|680|420",
    "Yerevan City|id:5064|680|590",
-   "Yerevan City|id:174947|680|420"
+   "Yerevan City|id:174947|680|420",
+   "Yerevan City|id:174946|680|420"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շամպինյոն մարինացված կտրտած «Coopoliva» 400գ",
-    "old": 560,
-    "new": 530,
-    "pct": 5,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/gribnye_konservy/37980/",
-    "key": "SAS|id:37980|560|530"
-   },
    {
     "store": "SAS",
     "title": "Ազնվամորի շոկոլադապատ «Franui Raspberries» 150գ",
@@ -7969,12 +7959,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168572.png",
     "url": "https://yerevan-city.am/shop/product-details/174947",
     "key": "Yerevan City|id:174947|680|420"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շոկ.սալիկ «Նեսթլե» կաթ-սպիտակ շոկ.կոկոս-վաֆլի75գր",
+    "old": 680,
+    "new": 420,
+    "pct": 38,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168571.png",
+    "url": "https://yerevan-city.am/shop/product-details/174946",
+    "key": "Yerevan City|id:174946|680|420"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-24T14:02:31.433005+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-24T14:19:55.818431+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
