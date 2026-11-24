@@ -1775,7 +1775,8 @@
    "SAS|id:622893|5690|2840",
    "SAS|id:525045|6550|3270",
    "SAS|id:439077|8690|4340",
-   "SAS|id:439076|8690|4340"
+   "SAS|id:439076|8690|4340",
+   "SAS|id:363178|870|590"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5768,6 +5769,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/vse_dlya_ukhoda_za_telom_ustarelo/439076/",
     "key": "SAS|id:439076|8690|4340"
+   },
+   {
+    "store": "SAS",
+    "title": "Սանհանգույցը մաքրող միջոց «Jeden Tag» 1լ",
+    "old": 870,
+    "new": 590,
+    "pct": 32,
+    "until": "01.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/dlya_santekhniki/363178/",
+    "key": "SAS|id:363178|870|590"
    }
   ],
   "Yerevan City": [
