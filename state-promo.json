@@ -3546,7 +3546,8 @@
    "Yerevan City|id:192480|690|449",
    "Yerevan City|id:192481|690|449",
    "Yerevan City|id:180463|690|550",
-   "Yerevan City|id:180466|690|550"
+   "Yerevan City|id:180466|690|550",
+   "Yerevan City|id:180467|690|550"
   ]
  },
  "queues": {
@@ -7941,6 +7942,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174192.png",
     "url": "https://yerevan-city.am/shop/product-details/180466",
     "key": "Yerevan City|id:180466|690|550"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սառը սուրճ «ՕԿՖ» Սաֆարի, լատտե մոկկա թ/տ 340մլ",
+    "old": 690,
+    "new": 550,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174193.png",
+    "url": "https://yerevan-city.am/shop/product-details/180467",
+    "key": "Yerevan City|id:180467|690|550"
    }
   ]
  },
