@@ -3608,22 +3608,12 @@
    "Yerevan City|id:6564|660|620",
    "Yerevan City|id:14033|660|620",
    "Yerevan City|id:195919|650|490",
-   "Yerevan City|id:165965|660|575"
+   "Yerevan City|id:165965|660|575",
+   "Yerevan City|id:178623|650|390"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կորդոն բլյու խոզապուխտով և պանրով «Միրատորգ» 405գ",
-    "old": 2460,
-    "new": 2290,
-    "pct": 7,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/856/169/169651141195573.webp",
-    "url": "https://www.sas.am/catalog/kotlety/276548/",
-    "key": "SAS|id:276548|2460|2290"
-   },
    {
     "store": "SAS",
     "title": "Պաղպաղակ խաղողի «Friends of Asia Rote Traube» 75գ",
@@ -8003,12 +7993,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1161654.png",
     "url": "https://yerevan-city.am/shop/product-details/165965",
     "key": "Yerevan City|id:165965|660|575"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տետր զսպանակով «Ջոյդու» Ա4 վանդակավոր 80թ",
+    "old": 650,
+    "new": 390,
+    "pct": 40,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172322.png",
+    "url": "https://yerevan-city.am/shop/product-details/178623",
+    "key": "Yerevan City|id:178623|650|390"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-25T00:47:06.253321+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-25T01:04:53.442812+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
