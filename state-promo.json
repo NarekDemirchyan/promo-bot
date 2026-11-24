@@ -1759,7 +1759,8 @@
    "SAS|id:571807|100|50",
    "SAS|id:209408|16500|11550",
    "SAS|id:957869|5990|4190",
-   "SAS|id:907558|1490|740"
+   "SAS|id:907558|1490|740",
+   "SAS|id:571798|100|50"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5736,20 +5737,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/dlya_odezhdy_obuvi/907558/",
     "key": "SAS|id:907558|1490|740"
+   },
+   {
+    "store": "SAS",
+    "title": "Անձեռոցիկ խոնավ «Vinda» 12 հատ",
+    "old": 100,
+    "new": 50,
+    "pct": 50,
+    "until": "01.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/vetwip_es/571798/",
+    "key": "SAS|id:571798|100|50"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Սառը սուրճ «ՕԿՖ» Սաֆարի, լատտե թ/տ 275մլ",
-    "old": 790,
-    "new": 660,
-    "pct": 16,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174185.png",
-    "url": "https://yerevan-city.am/shop/product-details/180459",
-    "key": "Yerevan City|id:180459|790|660"
-   },
    {
     "store": "Yerevan City",
     "title": "Սառը սուրճ «ՕԿՖ» Սաֆարի, կապուչինո թ/տ 275մլ",
@@ -7942,8 +7943,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-24T04:32:19.193462+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-24T04:47:04.128021+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
