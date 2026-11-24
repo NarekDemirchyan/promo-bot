@@ -3598,7 +3598,8 @@
    "Yerevan City|id:174940|680|420",
    "Yerevan City|id:173543|680|420",
    "Yerevan City|id:173544|680|420",
-   "Yerevan City|id:173545|680|420"
+   "Yerevan City|id:173545|680|420",
+   "Yerevan City|id:5560|660|560"
   ]
  },
  "queues": {
@@ -7993,6 +7994,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1167143.png",
     "url": "https://yerevan-city.am/shop/product-details/173545",
     "key": "Yerevan City|id:173545|680|420"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շամպինիոն «Տոպ Սան» ամբողջական 425մլ",
+    "old": 660,
+    "new": 560,
+    "pct": 15,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1067986.png",
+    "url": "https://yerevan-city.am/shop/product-details/5560",
+    "key": "Yerevan City|id:5560|660|560"
    }
   ]
  },
