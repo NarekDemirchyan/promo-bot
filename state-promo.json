@@ -1767,7 +1767,8 @@
    "SAS|id:952128|3470|1730",
    "SAS|id:384744|2550|1780",
    "SAS|id:948375|2590|1790",
-   "SAS|id:948374|2590|1790"
+   "SAS|id:948374|2590|1790",
+   "SAS|id:876476|390|190"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5752,6 +5753,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/293/768/7680241638149615.webp",
     "url": "https://www.sas.am/catalog/antiperspirantt/948374/",
     "key": "SAS|id:948374|2590|1790"
+   },
+   {
+    "store": "SAS",
+    "title": "Սրբիչ բամբակյա «Coton Pasha» 1 հատ",
+    "old": 390,
+    "new": 190,
+    "pct": 51,
+    "until": "01.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/233/126/126034543543860.webp",
+    "url": "https://www.sas.am/catalog/vetwip_es/876476/",
+    "key": "SAS|id:876476|390|190"
    }
   ],
   "Yerevan City": [
