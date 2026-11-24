@@ -1765,7 +1765,8 @@
    "SAS|id:957864|2990|2090",
    "SAS|id:954734|1290|640",
    "SAS|id:952128|3470|1730",
-   "SAS|id:384744|2550|1780"
+   "SAS|id:384744|2550|1780",
+   "SAS|id:948375|2590|1790"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5748,6 +5749,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/showergell/384744/",
     "key": "SAS|id:384744|2550|1780"
+   },
+   {
+    "store": "SAS",
+    "title": "Հակաքրտինքային աէրոզոլային միջոց «Old Spice Power Start» 150մլ",
+    "old": 2590,
+    "new": 1790,
+    "pct": 31,
+    "until": "01.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/246/477/4779532191280381.webp",
+    "url": "https://www.sas.am/catalog/antiperspirantt/948375/",
+    "key": "SAS|id:948375|2590|1790"
    }
   ],
   "Yerevan City": [
