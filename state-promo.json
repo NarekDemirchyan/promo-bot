@@ -1772,7 +1772,8 @@
    "SAS|id:866665|9990|5870",
    "SAS|id:801661|9990|5870",
    "SAS|id:631369|8350|4170",
-   "SAS|id:622893|5690|2840"
+   "SAS|id:622893|5690|2840",
+   "SAS|id:525045|6550|3270"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3569,22 +3570,12 @@
    "Yerevan City|id:180136|680|420",
    "Yerevan City|id:180135|680|420",
    "Yerevan City|id:174949|680|420",
-   "Yerevan City|id:174948|680|420"
+   "Yerevan City|id:174948|680|420",
+   "Yerevan City|id:5064|680|590"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Պաղպաղակ մանգոյի «Yuru Foods Mango» 75գ",
-    "old": 2090,
-    "new": 1650,
-    "pct": 21,
-    "until": "30.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/import_morozenoe/900741/",
-    "key": "SAS|id:900741|2090|1650"
-   },
    {
     "store": "SAS",
     "title": "Բանան շոկոլադապատ «Frambini Premium» 130գ",
@@ -5762,6 +5753,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/315/551/5518271510459109.webp",
     "url": "https://www.sas.am/catalog/stakany_chashki_kruzhki/622893/",
     "key": "SAS|id:622893|5690|2840"
+   },
+   {
+    "store": "SAS",
+    "title": "Ակնոց արևային մանկական «Martinelia»",
+    "old": 6550,
+    "new": 3270,
+    "pct": 50,
+    "until": "01.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/hairaccessory/525045/",
+    "key": "SAS|id:525045|6550|3270"
    }
   ],
   "Yerevan City": [
@@ -7953,12 +7955,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168573.png",
     "url": "https://yerevan-city.am/shop/product-details/174948",
     "key": "Yerevan City|id:174948|680|420"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Աջիկա «Արտֆուդ» 260գր",
+    "old": 680,
+    "new": 590,
+    "pct": 13,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1074948.png",
+    "url": "https://yerevan-city.am/shop/product-details/5064",
+    "key": "Yerevan City|id:5064|680|590"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-24T12:46:06.628863+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-24T13:05:28.649542+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
