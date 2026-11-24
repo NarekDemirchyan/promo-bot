@@ -3616,7 +3616,8 @@
    "Yerevan City|id:178623|650|390",
    "Yerevan City|id:194302|650|390",
    "Yerevan City|id:192008|650|450",
-   "Yerevan City|id:193896|650|450"
+   "Yerevan City|id:193896|650|450",
+   "Yerevan City|id:193903|650|450"
   ]
  },
  "queues": {
@@ -8011,6 +8012,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177657.png",
     "url": "https://yerevan-city.am/shop/product-details/193896",
     "key": "Yerevan City|id:193896|650|450"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ափսե «ՍԴՑ» կանաչ, կլոր 18.5սմ 1հտ ՍԴ397-2",
+    "old": 650,
+    "new": 450,
+    "pct": 31,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177672.png",
+    "url": "https://yerevan-city.am/shop/product-details/193903",
+    "key": "Yerevan City|id:193903|650|450"
    }
   ]
  },
