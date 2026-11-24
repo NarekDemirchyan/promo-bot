@@ -3560,22 +3560,12 @@
    "Yerevan City|id:191500|690|390",
    "Yerevan City|id:193181|690|490",
    "Yerevan City|id:192705|690|590",
-   "Yerevan City|id:92874|690|630"
+   "Yerevan City|id:92874|690|630",
+   "Yerevan City|id:192737|690|550"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կարամելային կրեմ «Carabreizh» 220գ",
-    "old": 4350,
-    "new": 3040,
-    "pct": 30,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/krem/754965/",
-    "key": "SAS|id:754965|4350|3040"
-   },
    {
     "store": "SAS",
     "title": "Ազնվամորի սպիտակ և կաթնային շոկոլադով «Frambini» 130գ",
@@ -7955,12 +7945,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1129771.png",
     "url": "https://yerevan-city.am/shop/product-details/92874",
     "key": "Yerevan City|id:92874|690|630"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Բատոնչիկ «ԿիտԿատ» 4 Ֆինգր, թխվածքաբլիթ 41.5գր",
+    "old": 690,
+    "new": 550,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176464.png",
+    "url": "https://yerevan-city.am/shop/product-details/192737",
+    "key": "Yerevan City|id:192737|690|550"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-24T09:47:18.811115+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-24T10:02:22.131913+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
