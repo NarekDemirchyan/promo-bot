@@ -1792,7 +1792,8 @@
    "SAS|id:204454|2050|1560",
    "SAS|id:397050|650|450",
    "SAS|id:970101|890|620",
-   "SAS|id:969831|3990|2790"
+   "SAS|id:969831|3990|2790",
+   "SAS|id:927895|1040|720"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5802,6 +5803,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/konfety_v_upakovke/969831/",
     "key": "SAS|id:969831|3990|2790"
+   },
+   {
+    "store": "SAS",
+    "title": "Շոկոլադ կաթնային միջուկով «Mr. Chicko Crazy Chocolate» 50գ",
+    "old": 1040,
+    "new": 720,
+    "pct": 31,
+    "until": "01.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/228/771/7718203951022972.webp",
+    "url": "https://www.sas.am/catalog/konfety_v_upakovke/927895/",
+    "key": "SAS|id:927895|1040|720"
    }
   ],
   "Yerevan City": [
