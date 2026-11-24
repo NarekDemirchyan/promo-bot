@@ -3548,22 +3548,12 @@
    "Yerevan City|id:192481|690|449",
    "Yerevan City|id:180463|690|550",
    "Yerevan City|id:180466|690|550",
-   "Yerevan City|id:180467|690|550"
+   "Yerevan City|id:180467|690|550",
+   "Yerevan City|id:180868|690|470"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Թխվածքաբլիթ շոկոլադե միջուկով «Gullon Duo» 145գ",
-    "old": 530,
-    "new": 480,
-    "pct": 9,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/pechene_pryaniki/133598/",
-    "key": "SAS|id:133598|530|480"
-   },
    {
     "store": "SAS",
     "title": "Շոկոլադե կոնֆետների հավաքածու «Lindt Lindor» 200գ",
@@ -7943,12 +7933,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174193.png",
     "url": "https://yerevan-city.am/shop/product-details/180467",
     "key": "Yerevan City|id:180467|690|550"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Բաժակ «Կերամիկա»",
+    "old": 690,
+    "new": 470,
+    "pct": 32,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174598.png",
+    "url": "https://yerevan-city.am/shop/product-details/180868",
+    "key": "Yerevan City|id:180868|690|470"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-24T06:02:26.141303+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-24T06:17:10.580486+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
