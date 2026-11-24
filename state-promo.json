@@ -1785,7 +1785,8 @@
    "SAS|id:203002|2990|1490",
    "SAS|id:203000|2990|1490",
    "SAS|id:969832|1990|1390",
-   "SAS|id:946703|1750|1220"
+   "SAS|id:946703|1750|1220",
+   "SAS|id:678195|1970|1370"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5788,6 +5789,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/276/750/750845988866727.webp",
     "url": "https://www.sas.am/catalog/dlya_volos2/946703/",
     "key": "SAS|id:946703|1750|1220"
+   },
+   {
+    "store": "SAS",
+    "title": "Հյութ նարնջի «Jeden Tag» 1լ",
+    "old": 1970,
+    "new": 1370,
+    "pct": 30,
+    "until": "01.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/251/161/1616272973259154.webp",
+    "url": "https://www.sas.am/catalog/sok/678195/",
+    "key": "SAS|id:678195|1970|1370"
    }
   ],
   "Yerevan City": [
