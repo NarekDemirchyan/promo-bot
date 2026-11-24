@@ -3590,22 +3590,12 @@
    "Yerevan City|id:174942|680|420",
    "Yerevan City|id:174941|680|420",
    "Yerevan City|id:169297|680|570",
-   "Yerevan City|id:173542|680|420"
+   "Yerevan City|id:173542|680|420",
+   "Yerevan City|id:174940|680|420"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Մաքրող միջոց «Diversey Room Care R2» 750մլ",
-    "old": 4050,
-    "new": 3580,
-    "pct": 12,
-    "until": "10.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/151/372/3728312571458435.webp",
-    "url": "https://www.sas.am/catalog/dlya_santekhniki/925502/",
-    "key": "SAS|id:925502|4050|3580"
-   },
    {
     "store": "SAS",
     "title": "Շամպուն «Syoss Professional Volume Lift» 500մլ",
@@ -7985,12 +7975,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1167140.png",
     "url": "https://yerevan-city.am/shop/product-details/173542",
     "key": "Yerevan City|id:173542|680|420"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շոկ.սալիկ «Նեսթլե» ծակոտկեն, սպիտակ շոկ. 70գր",
+    "old": 680,
+    "new": 420,
+    "pct": 38,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168566.png",
+    "url": "https://yerevan-city.am/shop/product-details/174940",
+    "key": "Yerevan City|id:174940|680|420"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-24T19:02:57.303667+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-24T19:20:12.810683+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
