@@ -1773,7 +1773,8 @@
    "SAS|id:801661|9990|5870",
    "SAS|id:631369|8350|4170",
    "SAS|id:622893|5690|2840",
-   "SAS|id:525045|6550|3270"
+   "SAS|id:525045|6550|3270",
+   "SAS|id:439077|8690|4340"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5764,6 +5765,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/hairaccessory/525045/",
     "key": "SAS|id:525045|6550|3270"
+   },
+   {
+    "store": "SAS",
+    "title": "Մարմնի սկրաբ «Aphrodite Exfoliating» 200մլ",
+    "old": 8690,
+    "new": 4340,
+    "pct": 50,
+    "until": "01.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/vse_dlya_ukhoda_za_telom_ustarelo/439077/",
+    "key": "SAS|id:439077|8690|4340"
    }
   ],
   "Yerevan City": [
