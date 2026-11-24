@@ -1777,7 +1777,8 @@
    "SAS|id:439077|8690|4340",
    "SAS|id:439076|8690|4340",
    "SAS|id:363178|870|590",
-   "SAS|id:325462|390|190"
+   "SAS|id:325462|390|190",
+   "SAS|id:633753|16500|8250"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5772,6 +5773,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/showergell/325462/",
     "key": "SAS|id:325462|390|190"
+   },
+   {
+    "store": "SAS",
+    "title": "Սփռոց «Pip»",
+    "old": 16500,
+    "new": 8250,
+    "pct": 50,
+    "until": "01.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/256/508/5083841307151507.webp",
+    "url": "https://www.sas.am/catalog/skatert_polotentse_platok/633753/",
+    "key": "SAS|id:633753|16500|8250"
    }
   ],
   "Yerevan City": [
