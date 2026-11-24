@@ -3586,7 +3586,8 @@
    "Yerevan City|id:83147|680|590",
    "Yerevan City|id:174945|680|420",
    "Yerevan City|id:174942|680|420",
-   "Yerevan City|id:174941|680|420"
+   "Yerevan City|id:174941|680|420",
+   "Yerevan City|id:169297|680|570"
   ]
  },
  "queues": {
@@ -7981,6 +7982,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168567.png",
     "url": "https://yerevan-city.am/shop/product-details/174941",
     "key": "Yerevan City|id:174941|680|420"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Բատոնչիկ պրոտ. «ՇՖ» կիտրոն-չիա ա/շ 40գր",
+    "old": 680,
+    "new": 570,
+    "pct": 16,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1163184.png",
+    "url": "https://yerevan-city.am/shop/product-details/169297",
+    "key": "Yerevan City|id:169297|680|570"
    }
   ]
  },
