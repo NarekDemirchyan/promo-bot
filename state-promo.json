@@ -3572,22 +3572,12 @@
    "Yerevan City|id:180135|680|420",
    "Yerevan City|id:174949|680|420",
    "Yerevan City|id:174948|680|420",
-   "Yerevan City|id:5064|680|590"
+   "Yerevan City|id:5064|680|590",
+   "Yerevan City|id:174947|680|420"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Բանան շոկոլադապատ «Frambini Premium» 130գ",
-    "old": 3990,
-    "new": 3090,
-    "pct": 23,
-    "until": "30.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/123/538/5385401650573691.webp",
-    "url": "https://www.sas.am/catalog/frukty_ovoshchi_yagody/870129/",
-    "key": "SAS|id:870129|3990|3090"
-   },
    {
     "store": "SAS",
     "title": "Շամպինյոն մարինացված կտրտած «Coopoliva» 400գ",
@@ -7967,12 +7957,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1074948.png",
     "url": "https://yerevan-city.am/shop/product-details/5064",
     "key": "Yerevan City|id:5064|680|590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շոկ.սալիկ «Նեսթլե» կաթ.շոկ-անտ.ընկույզ 75գր",
+    "old": 680,
+    "new": 420,
+    "pct": 38,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168572.png",
+    "url": "https://yerevan-city.am/shop/product-details/174947",
+    "key": "Yerevan City|id:174947|680|420"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-24T13:32:18.574386+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-24T13:47:06.336249+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
