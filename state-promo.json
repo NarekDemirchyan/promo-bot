@@ -3580,22 +3580,12 @@
    "Yerevan City|id:174947|680|420",
    "Yerevan City|id:174946|680|420",
    "Yerevan City|id:83144|680|590",
-   "Yerevan City|id:83147|680|590"
+   "Yerevan City|id:83147|680|590",
+   "Yerevan City|id:174945|680|420"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Հակաքրտինքային միջոց գնդիկով «Nivea Pure» 50մլ",
-    "old": 1450,
-    "new": 1220,
-    "pct": 16,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/antiperspirantt/39361/",
-    "key": "SAS|id:39361|1450|1220"
-   },
    {
     "store": "SAS",
     "title": "Ազնվամորի սպիտակ և կաթնային շոկոլադով «Frambini» 130գ",
@@ -7975,12 +7965,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1123230.png",
     "url": "https://yerevan-city.am/shop/product-details/83147",
     "key": "Yerevan City|id:83147|680|590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շոկ.սալիկ «Նեսթլե» կաթնային շոկոլադ 75գր",
+    "old": 680,
+    "new": 420,
+    "pct": 38,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168570.png",
+    "url": "https://yerevan-city.am/shop/product-details/174945",
+    "key": "Yerevan City|id:174945|680|420"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-24T16:01:18.402809+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-24T16:17:16.921127+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
