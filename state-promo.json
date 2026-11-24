@@ -3610,17 +3610,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Եգիպտացորեն «Coopoliva» 340գ",
-    "old": 570,
-    "new": 530,
-    "pct": 7,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/goroshek/89220/",
-    "key": "SAS|id:89220|570|530"
-   },
-   {
-    "store": "SAS",
     "title": "Կոնյակ «Արմա 3*» 0.7լ",
     "old": 4790,
     "new": 4550,
@@ -8013,8 +8002,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-24T22:50:00.587328+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-24T23:17:07.078720+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
