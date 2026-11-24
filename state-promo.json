@@ -3612,22 +3612,12 @@
    "Yerevan City|id:195919|650|490",
    "Yerevan City|id:165965|660|575",
    "Yerevan City|id:178623|650|390",
-   "Yerevan City|id:194302|650|390"
+   "Yerevan City|id:194302|650|390",
+   "Yerevan City|id:192008|650|450"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Մազերի կոնդիցիոներ «Syoss Intense Repair» 250մլ",
-    "old": 2050,
-    "new": 1560,
-    "pct": 24,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/balzam_dlya_volos/906938/",
-    "key": "SAS|id:906938|2050|1560"
-   },
    {
     "store": "SAS",
     "title": "Մազերի կոնդիցիոներ «Syoss Intense Color» 250մլ",
@@ -8007,12 +7997,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178070.png",
     "url": "https://yerevan-city.am/shop/product-details/194302",
     "key": "Yerevan City|id:194302|650|390"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Խաղալիք զենք",
+    "old": 650,
+    "new": 450,
+    "pct": 31,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175731.png",
+    "url": "https://yerevan-city.am/shop/product-details/192008",
+    "key": "Yerevan City|id:192008|650|450"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-25T02:02:40.166621+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-25T02:19:44.940505+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
