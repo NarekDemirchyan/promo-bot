@@ -3550,7 +3550,8 @@
    "Yerevan City|id:180463|690|550",
    "Yerevan City|id:180466|690|550",
    "Yerevan City|id:180467|690|550",
-   "Yerevan City|id:180868|690|470"
+   "Yerevan City|id:180868|690|470",
+   "Yerevan City|id:181125|690|390"
   ]
  },
  "queues": {
@@ -7945,6 +7946,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174598.png",
     "url": "https://yerevan-city.am/shop/product-details/180868",
     "key": "Yerevan City|id:180868|690|470"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ապուրաման խորը կեր. սպիտակ 19.5սմ 1հտ 57-25",
+    "old": 690,
+    "new": 390,
+    "pct": 43,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174855.png",
+    "url": "https://yerevan-city.am/shop/product-details/181125",
+    "key": "Yerevan City|id:181125|690|390"
    }
   ]
  },
