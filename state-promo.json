@@ -3556,22 +3556,12 @@
    "Yerevan City|id:180868|690|470",
    "Yerevan City|id:181125|690|390",
    "Yerevan City|id:191500|690|390",
-   "Yerevan City|id:193181|690|490"
+   "Yerevan City|id:193181|690|490",
+   "Yerevan City|id:192705|690|590"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շոկոլադե սալիկ մուգ պնդուկով «Schogetten» 100գ",
-    "old": 1130,
-    "new": 920,
-    "pct": 19,
-    "until": "30.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/374/711/7117571565707816.webp",
-    "url": "https://www.sas.am/catalog/plitka/265968/",
-    "key": "SAS|id:265968|1130|920"
-   },
    {
     "store": "SAS",
     "title": "Կարագ սերուցքային «Elle & Vire» 500գ, յուղայնությունը` 82",
@@ -7951,12 +7941,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176931.png",
     "url": "https://yerevan-city.am/shop/product-details/193181",
     "key": "Yerevan City|id:193181|690|490"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գազավորված ըմպելիք «Ռիո» արևադարձային թ/տ 330մլ",
+    "old": 690,
+    "new": 590,
+    "pct": 14,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176389.png",
+    "url": "https://yerevan-city.am/shop/product-details/192705",
+    "key": "Yerevan City|id:192705|690|590"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-24T08:32:09.512426+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-24T08:47:57.622318+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
