@@ -3606,7 +3606,8 @@
    "Yerevan City|id:5560|660|560",
    "Yerevan City|id:6564|660|620",
    "Yerevan City|id:14033|660|620",
-   "Yerevan City|id:195919|650|490"
+   "Yerevan City|id:195919|650|490",
+   "Yerevan City|id:165965|660|575"
   ]
  },
  "queues": {
@@ -8001,6 +8002,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1180715.png",
     "url": "https://yerevan-city.am/shop/product-details/195919",
     "key": "Yerevan City|id:195919|650|490"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ձիթապտուղ սև «Լոռաս» 181/200 430գր",
+    "old": 660,
+    "new": 575,
+    "pct": 13,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1161654.png",
+    "url": "https://yerevan-city.am/shop/product-details/165965",
+    "key": "Yerevan City|id:165965|660|575"
    }
   ]
  },
