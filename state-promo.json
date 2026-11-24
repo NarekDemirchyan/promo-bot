@@ -5767,17 +5767,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Մարինացված վարունգ «Օտ Գուրմանա» չիլի 3-6սմ 460գր",
-    "old": 830,
-    "new": 780,
-    "pct": 6,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1113944.png",
-    "url": "https://yerevan-city.am/shop/product-details/69485",
-    "key": "Yerevan City|id:69485|830|780"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Աղբի պարկեր «Գոսիա» ձգաններով 60լ 10հտ",
     "old": 790,
     "new": 550,
@@ -7968,8 +7957,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-24T12:31:12.362255+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-24T12:46:06.628863+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
