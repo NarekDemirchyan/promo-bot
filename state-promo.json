@@ -3576,22 +3576,12 @@
    "Yerevan City|id:174948|680|420",
    "Yerevan City|id:5064|680|590",
    "Yerevan City|id:174947|680|420",
-   "Yerevan City|id:174946|680|420"
+   "Yerevan City|id:174946|680|420",
+   "Yerevan City|id:83144|680|590"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ազնվամորի շոկոլադապատ «Franui Raspberries» 150գ",
-    "old": 3190,
-    "new": 2550,
-    "pct": 20,
-    "until": "30.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/frukty_ovoshchi_yagody/827792/",
-    "key": "SAS|id:827792|3190|2550"
-   },
    {
     "store": "SAS",
     "title": "Ազնվամորի սպիտակ և մուգ շոկոլադով «Frambini» 130գ",
@@ -7971,12 +7961,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168571.png",
     "url": "https://yerevan-city.am/shop/product-details/174946",
     "key": "Yerevan City|id:174946|680|420"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Աջիկա «Արտֆուդ» ռեհանով 260գր",
+    "old": 680,
+    "new": 590,
+    "pct": 13,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1123228.png",
+    "url": "https://yerevan-city.am/shop/product-details/83144",
+    "key": "Yerevan City|id:83144|680|590"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-24T14:47:09.276754+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-24T15:02:22.362792+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
