@@ -3558,22 +3558,12 @@
    "Yerevan City|id:181125|690|390",
    "Yerevan City|id:191500|690|390",
    "Yerevan City|id:193181|690|490",
-   "Yerevan City|id:192705|690|590"
+   "Yerevan City|id:192705|690|590",
+   "Yerevan City|id:92874|690|630"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կարագ սերուցքային «Elle & Vire» 500գ, յուղայնությունը` 82",
-    "old": 5190,
-    "new": 4550,
-    "pct": 12,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/311/321/3211414177666624.webp",
-    "url": "https://www.sas.am/catalog/slivochnoe_maslo/97773/",
-    "key": "SAS|id:97773|5190|4550"
-   },
    {
     "store": "SAS",
     "title": "Կարամելային կրեմ «Carabreizh» 220գ",
@@ -7953,12 +7943,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176389.png",
     "url": "https://yerevan-city.am/shop/product-details/192705",
     "key": "Yerevan City|id:192705|690|590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Զուգարանի թուղթ «Սիլկ Սոֆթ» եռաշերտ 4հտ",
+    "old": 690,
+    "new": 630,
+    "pct": 9,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1129771.png",
+    "url": "https://yerevan-city.am/shop/product-details/92874",
+    "key": "Yerevan City|id:92874|690|630"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-24T09:02:38.298358+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-24T09:19:56.412833+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
@@ -7967,7 +7968,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 80,
+ "city_page": 81,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
