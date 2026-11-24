@@ -1783,7 +1783,8 @@
    "SAS|id:6641|3480|3050",
    "SAS|id:6653|3150|2550",
    "SAS|id:203002|2990|1490",
-   "SAS|id:203000|2990|1490"
+   "SAS|id:203000|2990|1490",
+   "SAS|id:969832|1990|1390"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5784,6 +5785,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/374/421/4216391423267703.webp",
     "url": "https://www.sas.am/catalog/dlya_volos2/203000/",
     "key": "SAS|id:203000|2990|1490"
+   },
+   {
+    "store": "SAS",
+    "title": "Չիպս բանանի «Waitrose & Partners» 200գ",
+    "old": 1990,
+    "new": 1390,
+    "pct": 30,
+    "until": "01.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/driedfruitsraisin/969832/",
+    "key": "SAS|id:969832|1990|1390"
    }
   ],
   "Yerevan City": [
