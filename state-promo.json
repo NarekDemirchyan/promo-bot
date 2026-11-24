@@ -1779,7 +1779,8 @@
    "SAS|id:363178|870|590",
    "SAS|id:325462|390|190",
    "SAS|id:633753|16500|8250",
-   "SAS|id:2300|2520|2250"
+   "SAS|id:2300|2520|2250",
+   "SAS|id:6641|3480|3050"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5776,6 +5777,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/import_vino/2300/",
     "key": "SAS|id:2300|2520|2250"
+   },
+   {
+    "store": "SAS",
+    "title": "Գինի կարմիր «Marani Kindzmarauli 0.75լ",
+    "old": 3480,
+    "new": 3050,
+    "pct": 12,
+    "until": "08.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/import_vino/6641/",
+    "key": "SAS|id:6641|3480|3050"
    }
   ],
   "Yerevan City": [
