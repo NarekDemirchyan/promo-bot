@@ -3604,22 +3604,12 @@
    "Yerevan City|id:173545|680|420",
    "Yerevan City|id:5560|660|560",
    "Yerevan City|id:6564|660|620",
-   "Yerevan City|id:14033|660|620"
+   "Yerevan City|id:14033|660|620",
+   "Yerevan City|id:195919|650|490"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կոնյակ «Արմա 3*» 0.7լ",
-    "old": 4790,
-    "new": 4550,
-    "pct": 5,
-    "until": "08.01.2027",
-    "img": "https://www.sas.am/upload/Sh/imageCache/359/787/787510431564498.webp",
-    "url": "https://www.sas.am/catalog/armyanskiy_konyak/604847/",
-    "key": "SAS|id:604847|4790|4550"
-   },
    {
     "store": "SAS",
     "title": "Լիթումային մարտկոց «Energizer max plus CR2032» 2հատ",
@@ -7999,12 +7989,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1051099.png",
     "url": "https://yerevan-city.am/shop/product-details/14033",
     "key": "Yerevan City|id:14033|660|620"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տոնածառի խաղալիք «Գունդ» շագան.10սմ 1հտ0226205-1",
+    "old": 650,
+    "new": 490,
+    "pct": 25,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1180715.png",
+    "url": "https://yerevan-city.am/shop/product-details/195919",
+    "key": "Yerevan City|id:195919|650|490"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-24T23:32:19.280934+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-24T23:47:16.604382+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
