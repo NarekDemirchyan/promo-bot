@@ -5823,17 +5823,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Դրաժե «Գրանդ Քենդի» Ջոյկո, Կովիկ 150գր",
-    "old": 750,
-    "new": 590,
-    "pct": 21,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1087361.png",
-    "url": "https://yerevan-city.am/shop/product-details/16397",
-    "key": "Yerevan City|id:16397|750|590"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Սպիտակեցնող միջոց «Աս» դասական 1լ",
     "old": 750,
     "new": 660,
@@ -8024,8 +8013,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-25T02:19:44.940505+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-25T02:47:22.486866+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
