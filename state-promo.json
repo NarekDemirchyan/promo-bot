@@ -3568,22 +3568,12 @@
    "Yerevan City|id:192737|690|550",
    "Yerevan City|id:180136|680|420",
    "Yerevan City|id:180135|680|420",
-   "Yerevan City|id:174949|680|420"
+   "Yerevan City|id:174949|680|420",
+   "Yerevan City|id:174948|680|420"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Պաղպաղակ ելակի «Yuru Foods Erdbeereis» 90գ",
-    "old": 2090,
-    "new": 1650,
-    "pct": 21,
-    "until": "30.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/328/185/1850672027985925.webp",
-    "url": "https://www.sas.am/catalog/import_morozenoe/900743/",
-    "key": "SAS|id:900743|2090|1650"
-   },
    {
     "store": "SAS",
     "title": "Պաղպաղակ մանգոյի «Yuru Foods Mango» 75գ",
@@ -7963,12 +7953,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168574.png",
     "url": "https://yerevan-city.am/shop/product-details/174949",
     "key": "Yerevan City|id:174949|680|420"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շոկ.սալիկ «Նեսթլե» կաթ.շոկ-նուշ-չամիչ 75գր",
+    "old": 680,
+    "new": 420,
+    "pct": 38,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168573.png",
+    "url": "https://yerevan-city.am/shop/product-details/174948",
+    "key": "Yerevan City|id:174948|680|420"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-24T12:17:06.375381+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-24T12:31:12.362255+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
