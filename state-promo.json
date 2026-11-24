@@ -3558,17 +3558,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Շոկոլադե կոնֆետների հավաքածու «Lindt Lindor» 200գ",
-    "old": 4550,
-    "new": 2980,
-    "pct": 35,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/nabory_konfet/110016/",
-    "key": "SAS|id:110016|4550|2980"
-   },
-   {
-    "store": "SAS",
     "title": "Մակարոն «Barilla Bavettine №11» 450գ",
     "old": 880,
     "new": 730,
@@ -7961,8 +7950,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-24T06:36:19.706493+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-24T07:02:30.402011+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
