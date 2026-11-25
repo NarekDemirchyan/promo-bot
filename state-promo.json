@@ -3634,17 +3634,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Խտացրած կաթ եփած շաքարով «Коровка из Кореновки» 360գ, յուղայնությունը` 8.5",
-    "old": 980,
-    "new": 880,
-    "pct": 10,
-    "until": "31.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/846/404/4042422974906174.webp",
-    "url": "https://www.sas.am/catalog/sgushchennoe_moloko/541190/",
-    "key": "SAS|id:541190|980|880"
-   },
-   {
-    "store": "SAS",
     "title": "Հեղուկ օճառ «Malizia» 300մլ",
     "old": 990,
     "new": 830,
@@ -8037,8 +8026,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-25T06:32:24.581672+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-25T06:47:08.824813+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
