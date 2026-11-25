@@ -1813,7 +1813,8 @@
    "SAS|id:892646|8950|4470",
    "SAS|id:707113|2190|1530",
    "SAS|id:271441|5190|3630",
-   "SAS|id:170275|1990|1390"
+   "SAS|id:170275|1990|1390",
+   "SAS|id:940389|1750|1220"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5844,20 +5845,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/124/974/9745503600880260.webp",
     "url": "https://www.sas.am/catalog/sredstva_dlya_posudy/170275/",
     "key": "SAS|id:170275|1990|1390"
+   },
+   {
+    "store": "SAS",
+    "title": "Մեկանգամյա օգտագործման մոխրամաններ 25 հատ",
+    "old": 1750,
+    "new": 1220,
+    "pct": 30,
+    "until": "01.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/odnorazovaya/940389/",
+    "key": "SAS|id:940389|1750|1220"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Միջադիրներ «Լիբրես» նեյչրալ քեյր, սուպեր 9հտ",
-    "old": 810,
-    "new": 650,
-    "pct": 20,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1009565.png",
-    "url": "https://yerevan-city.am/shop/product-details/7259",
-    "key": "Yerevan City|id:7259|810|650"
-   },
    {
     "store": "Yerevan City",
     "title": "Միջադիրներ «Լիբրես» նեյչրալ քեյր, նորմալ 10հտ",
@@ -8050,8 +8051,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-25T14:17:15.625596+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-25T14:35:21.273485+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
