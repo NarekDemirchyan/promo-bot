@@ -3676,17 +3676,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Կարագ սերուցքային «President» 400գ, յուղայնությունը` 82",
-    "old": 4390,
-    "new": 3490,
-    "pct": 21,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/slivochnoe_maslo/3382/",
-    "key": "SAS|id:3382|4390|3490"
-   },
-   {
-    "store": "SAS",
     "title": "Շոկոլադե սալիկ նուշով «Lindt» 300գ",
     "old": 5580,
     "new": 3800,
@@ -8079,8 +8068,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-25T20:32:25.313957+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-25T21:02:28.090129+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
