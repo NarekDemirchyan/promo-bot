@@ -3674,7 +3674,8 @@
    "Yerevan City|id:191430|630|570",
    "Yerevan City|id:191431|630|570",
    "Yerevan City|id:191432|630|570",
-   "Yerevan City|id:7132|630|580"
+   "Yerevan City|id:7132|630|580",
+   "Yerevan City|id:128974|630|550"
   ]
  },
  "queues": {
@@ -8069,6 +8070,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1037416.png",
     "url": "https://yerevan-city.am/shop/product-details/7132",
     "key": "Yerevan City|id:7132|630|580"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թթվասեր «Պետա Ֆարմ» 20% 400գր",
+    "old": 630,
+    "new": 550,
+    "pct": 13,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1148785.png",
+    "url": "https://yerevan-city.am/shop/product-details/128974",
+    "key": "Yerevan City|id:128974|630|550"
    }
   ]
  },
