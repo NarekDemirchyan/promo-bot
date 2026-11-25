@@ -3662,22 +3662,12 @@
    "Yerevan City|id:56442|640|490",
    "Yerevan City|id:10730|640|470",
    "Yerevan City|id:191439|630|570",
-   "Yerevan City|id:2817|630|584"
+   "Yerevan City|id:2817|630|584",
+   "Yerevan City|id:5839|630|540"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Նեկտար մուլտիմրգային մանկական «Santal» 1լ",
-    "old": 1520,
-    "new": 1160,
-    "pct": 24,
-    "until": "15.01.2027",
-    "img": "https://www.sas.am/upload/Sh/imageCache/428/348/3486664129725948.webp",
-    "url": "https://www.sas.am/catalog/sok/834736/",
-    "key": "SAS|id:834736|1520|1160"
-   },
    {
     "store": "SAS",
     "title": "Սանհանգույցը մաքրող միջոց «Diversey Room Care R6» 750մլ",
@@ -8057,12 +8047,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1044541.png",
     "url": "https://yerevan-city.am/shop/product-details/2817",
     "key": "Yerevan City|id:2817|630|584"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Լոբի «Բոնդյուել» սպիտակ, տոմատի սոուսում 425գր",
+    "old": 630,
+    "new": 540,
+    "pct": 14,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1045034.png",
+    "url": "https://yerevan-city.am/shop/product-details/5839",
+    "key": "Yerevan City|id:5839|630|540"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-25T17:47:03.835756+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-25T18:02:48.977976+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
