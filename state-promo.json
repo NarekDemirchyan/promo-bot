@@ -3640,22 +3640,12 @@
    "Yerevan City|id:88352|650|520",
    "Yerevan City|id:88353|650|520",
    "Yerevan City|id:176357|650|585",
-   "Yerevan City|id:193934|650|450"
+   "Yerevan City|id:193934|650|450",
+   "Yerevan City|id:176358|650|585"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կաթ «Parmalat» 1լ, յուղայնությունը՝ 1.8",
-    "old": 1610,
-    "new": 1290,
-    "pct": 20,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/moloko/3435/",
-    "key": "SAS|id:3435|1610|1290"
-   },
    {
     "store": "SAS",
     "title": "Պանիր կամամբեր «President» 125գ",
@@ -8035,12 +8025,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177702.png",
     "url": "https://yerevan-city.am/shop/product-details/193934",
     "key": "Yerevan City|id:193934|650|450"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կոմպոտ «Անուշ» կեռասի 750մլ",
+    "old": 650,
+    "new": 585,
+    "pct": 10,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169991.png",
+    "url": "https://yerevan-city.am/shop/product-details/176358",
+    "key": "Yerevan City|id:176358|650|585"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-25T10:49:50.120596+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-25T11:17:10.477737+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
