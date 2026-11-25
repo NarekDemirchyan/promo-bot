@@ -3656,17 +3656,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Պանիր հալած սպիտակուցային «President Protein» 150գ",
-    "old": 1170,
-    "new": 820,
-    "pct": 30,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/importnyy_syr/913252/",
-    "key": "SAS|id:913252|1170|820"
-   },
-   {
-    "store": "SAS",
     "title": "Գինի վարդագույն «Ակում Մալբեկ» 750մլ",
     "old": 5990,
     "new": 2995,
@@ -8059,8 +8048,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-25T13:20:10.921324+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-25T13:47:20.364775+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
