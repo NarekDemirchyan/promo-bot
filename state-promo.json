@@ -3624,7 +3624,8 @@
    "Yerevan City|id:193903|650|450",
    "Yerevan City|id:4768|650|590",
    "Yerevan City|id:8952|650|580",
-   "Yerevan City|id:193904|650|450"
+   "Yerevan City|id:193904|650|450",
+   "Yerevan City|id:12433|650|580"
   ]
  },
  "queues": {
@@ -8019,6 +8020,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177673.png",
     "url": "https://yerevan-city.am/shop/product-details/193904",
     "key": "Yerevan City|id:193904|650|450"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գարեջուր «Բալտիկա» 7 ա/տ 0.45լ",
+    "old": 650,
+    "new": 580,
+    "pct": 11,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1048698.png",
+    "url": "https://yerevan-city.am/shop/product-details/12433",
+    "key": "Yerevan City|id:12433|650|580"
    }
   ]
  },
