@@ -3644,17 +3644,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Շոկոլադե բատոն «Snickers King size» 80գ",
-    "old": 490,
-    "new": 430,
-    "pct": 12,
-    "until": "01.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/257/279/2792611805894938.webp",
-    "url": "https://www.sas.am/catalog/batonchik/20790/",
-    "key": "SAS|id:20790|490|430"
-   },
-   {
-    "store": "SAS",
     "title": "Շոկոլադե բատոն «Snickers» 50.5գ",
     "old": 320,
     "new": 290,
@@ -8047,8 +8036,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-25T09:35:10.201444+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-25T10:02:22.241040+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
