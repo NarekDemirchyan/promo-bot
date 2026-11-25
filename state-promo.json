@@ -3678,22 +3678,12 @@
    "Yerevan City|id:191432|630|570",
    "Yerevan City|id:7132|630|580",
    "Yerevan City|id:128974|630|550",
-   "Yerevan City|id:13902|630|490"
+   "Yerevan City|id:13902|630|490",
+   "Yerevan City|id:128382|660|520"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Գինի կարմիր «Սափոր» 0.75լ",
-    "old": 8590,
-    "new": 7690,
-    "pct": 10,
-    "until": "08.01.2027",
-    "img": "",
-    "url": "https://www.sas.am/catalog/armyanskoe_vino/484212/",
-    "key": "SAS|id:484212|8590|7690"
-   },
    {
     "store": "SAS",
     "title": "Պանիր հալած «President Cheeseburger» 150գ",
@@ -8073,12 +8063,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1083065.png",
     "url": "https://yerevan-city.am/shop/product-details/13902",
     "key": "Yerevan City|id:13902|630|490"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գել զուգարանակոնքի և սանտեխնիկայի համար «Սավա» 750մլ",
+    "old": 660,
+    "new": 520,
+    "pct": 21,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1148183.png",
+    "url": "https://yerevan-city.am/shop/product-details/128382",
+    "key": "Yerevan City|id:128382|660|520"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-26T00:17:01.596900+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-26T00:32:16.768052+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
@@ -8087,7 +8088,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 84,
+ "city_page": 85,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
