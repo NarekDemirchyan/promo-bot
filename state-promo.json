@@ -3664,17 +3664,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Մաքրող կրեմ ունիվերսալ «Diversey» 500մլ",
-    "old": 2190,
-    "new": 1790,
-    "pct": 18,
-    "until": "10.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/291/062/0620651671641421.webp",
-    "url": "https://www.sas.am/catalog/forhebathroom/830410/",
-    "key": "SAS|id:830410|2190|1790"
-   },
-   {
-    "store": "SAS",
     "title": "Կահույքը փայլեցնող միջոց «Diversey Room Care R4» 750մլ",
     "old": 4890,
     "new": 4050,
@@ -8067,8 +8056,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-25T15:50:20.391430+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-25T16:16:08.225870+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
