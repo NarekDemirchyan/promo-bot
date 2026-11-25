@@ -3686,22 +3686,12 @@
    "Yerevan City|id:128382|660|520",
    "Yerevan City|id:193916|650|390",
    "Yerevan City|id:193918|650|390",
-   "Yerevan City|id:16430|630|564"
+   "Yerevan City|id:16430|630|564",
+   "Yerevan City|id:69482|620|590"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ըմպելիք սպիտակուցային շոկոլադի համով «Parmalat» 500մլ",
-    "old": 1350,
-    "new": 1050,
-    "pct": 22,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/416/992/992672706990926.webp",
-    "url": "https://www.sas.am/catalog/slivki_kokteyl/756208/",
-    "key": "SAS|id:756208|1350|1050"
-   },
    {
     "store": "SAS",
     "title": "Պանիր աղաջրային «President Greco» 250գ",
@@ -8081,12 +8071,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1082941.png",
     "url": "https://yerevan-city.am/shop/product-details/16430",
     "key": "Yerevan City|id:16430|630|564"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Եգիպտացորեն քաղցր «Օտ Գուրմանա» 425մլ",
+    "old": 620,
+    "new": 590,
+    "pct": 5,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1113937.png",
+    "url": "https://yerevan-city.am/shop/product-details/69482",
+    "key": "Yerevan City|id:69482|620|590"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-26T03:02:25.856546+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-26T03:17:04.325963+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
