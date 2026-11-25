@@ -3646,22 +3646,12 @@
    "Yerevan City|id:193934|650|450",
    "Yerevan City|id:176358|650|585",
    "Yerevan City|id:181210|650|390",
-   "Yerevan City|id:176361|650|585"
+   "Yerevan City|id:176361|650|585",
+   "Yerevan City|id:176363|650|585"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սուրճ հատիկավոր «Davidoff Espresso» 1000գ",
-    "old": 15900,
-    "new": 13850,
-    "pct": 13,
-    "until": "31.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/159/412/412710763481912.webp",
-    "url": "https://www.sas.am/catalog/molotyy/533992/",
-    "key": "SAS|id:533992|15900|13850"
-   },
    {
     "store": "SAS",
     "title": "Պանիր հալած սպիտակուցային «President Protein» 150գ",
@@ -8041,12 +8031,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169992.png",
     "url": "https://yerevan-city.am/shop/product-details/176361",
     "key": "Yerevan City|id:176361|650|585"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Նեկտար «Անուշ» դեղձ 750մլ",
+    "old": 650,
+    "new": 585,
+    "pct": 10,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169994.png",
+    "url": "https://yerevan-city.am/shop/product-details/176363",
+    "key": "Yerevan City|id:176363|650|585"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-25T12:47:11.709654+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-25T13:02:36.985345+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
