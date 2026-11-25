@@ -3660,17 +3660,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Գինի կարմիր «Ակում Մալբեկ» 750մլ",
-    "old": 5490,
-    "new": 4790,
-    "pct": 13,
-    "until": "08.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/243/652/6529273616481601.webp",
-    "url": "https://www.sas.am/catalog/armyanskoe_vino/854747/",
-    "key": "SAS|id:854747|5490|4790"
-   },
-   {
-    "store": "SAS",
     "title": "Օդը թարմացնող միջոց «Good Sense» 750մլ",
     "old": 4350,
     "new": 3580,
@@ -8063,8 +8052,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-25T14:35:21.273485+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-25T15:02:30.869024+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
