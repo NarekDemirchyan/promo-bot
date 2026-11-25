@@ -3632,7 +3632,8 @@
    "Yerevan City|id:12433|650|580",
    "Yerevan City|id:88351|650|520",
    "Yerevan City|id:193914|650|450",
-   "Yerevan City|id:193915|650|390"
+   "Yerevan City|id:193915|650|390",
+   "Yerevan City|id:88352|650|520"
   ]
  },
  "queues": {
@@ -8027,6 +8028,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177677.png",
     "url": "https://yerevan-city.am/shop/product-details/193915",
     "key": "Yerevan City|id:193915|650|390"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Օճառ «Փիարս» բնական յուղեր 125գր",
+    "old": 650,
+    "new": 520,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1125861.png",
+    "url": "https://yerevan-city.am/shop/product-details/88352",
+    "key": "Yerevan City|id:88352|650|520"
    }
   ]
  },
