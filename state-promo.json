@@ -3664,7 +3664,8 @@
    "Yerevan City|id:10730|640|470",
    "Yerevan City|id:191439|630|570",
    "Yerevan City|id:2817|630|584",
-   "Yerevan City|id:5839|630|540"
+   "Yerevan City|id:5839|630|540",
+   "Yerevan City|id:191429|630|570"
   ]
  },
  "queues": {
@@ -8059,6 +8060,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1045034.png",
     "url": "https://yerevan-city.am/shop/product-details/5839",
     "key": "Yerevan City|id:5839|630|540"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Խտ.կաթ «Կորովկա իզ Կորենովկի» շոկ.8.5% փաթ.270գր",
+    "old": 630,
+    "new": 570,
+    "pct": 10,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175152.png",
+    "url": "https://yerevan-city.am/shop/product-details/191429",
+    "key": "Yerevan City|id:191429|630|570"
    }
   ]
  },
