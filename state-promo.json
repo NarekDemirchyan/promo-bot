@@ -3684,7 +3684,8 @@
    "Yerevan City|id:13902|630|490",
    "Yerevan City|id:128382|660|520",
    "Yerevan City|id:193916|650|390",
-   "Yerevan City|id:193918|650|390"
+   "Yerevan City|id:193918|650|390",
+   "Yerevan City|id:16430|630|564"
   ]
  },
  "queues": {
@@ -8079,6 +8080,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177680.png",
     "url": "https://yerevan-city.am/shop/product-details/193918",
     "key": "Yerevan City|id:193918|650|390"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սուրճ աղացած «Կաֆֆա» Տատի, ռոբուստա 100գր",
+    "old": 630,
+    "new": 564,
+    "pct": 10,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1082941.png",
+    "url": "https://yerevan-city.am/shop/product-details/16430",
+    "key": "Yerevan City|id:16430|630|564"
    }
   ]
  },
