@@ -3672,7 +3672,8 @@
    "Yerevan City|id:191429|630|570",
    "Yerevan City|id:191430|630|570",
    "Yerevan City|id:191431|630|570",
-   "Yerevan City|id:191432|630|570"
+   "Yerevan City|id:191432|630|570",
+   "Yerevan City|id:7132|630|580"
   ]
  },
  "queues": {
@@ -8067,6 +8068,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175155.png",
     "url": "https://yerevan-city.am/shop/product-details/191432",
     "key": "Yerevan City|id:191432|630|570"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ատամի խոզանակ մանկական «Քոլգեյթ» 2+",
+    "old": 630,
+    "new": 580,
+    "pct": 8,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1037416.png",
+    "url": "https://yerevan-city.am/shop/product-details/7132",
+    "key": "Yerevan City|id:7132|630|580"
    }
   ]
  },
