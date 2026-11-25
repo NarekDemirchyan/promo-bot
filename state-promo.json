@@ -1811,7 +1811,8 @@
    "SAS|id:948366|1550|990",
    "SAS|id:916340|590|410",
    "SAS|id:892646|8950|4470",
-   "SAS|id:707113|2190|1530"
+   "SAS|id:707113|2190|1530",
+   "SAS|id:271441|5190|3630"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5840,20 +5841,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/263/161/1616012554831944.webp",
     "url": "https://www.sas.am/catalog/dlya_volos2/707113/",
     "key": "SAS|id:707113|2190|1530"
+   },
+   {
+    "store": "SAS",
+    "title": "Լվացքի գել գունավոր «Felce Azzurra Active» 1595մլ",
+    "old": 5190,
+    "new": 3630,
+    "pct": 30,
+    "until": "30.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/stiralnyy_poroshok/271441/",
+    "key": "SAS|id:271441|5190|3630"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Սոուս «Հայնց» պանրի 200գր",
-    "old": 820,
-    "new": 615,
-    "pct": 25,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1142909.png",
-    "url": "https://yerevan-city.am/shop/product-details/112053",
-    "key": "Yerevan City|id:112053|820|615"
-   },
    {
     "store": "Yerevan City",
     "title": "Սոուս «Հայնց» բարբեքյու 200գր",
@@ -8046,8 +8047,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-25T13:02:36.985345+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-25T13:20:10.921324+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
