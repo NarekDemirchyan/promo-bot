@@ -1796,7 +1796,8 @@
    "SAS|id:927895|1040|720",
    "SAS|id:969830|2950|2060",
    "SAS|id:426421|650|320",
-   "SAS|id:611914|9190|6430"
+   "SAS|id:611914|9190|6430",
+   "SAS|id:479949|2950|1470"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5810,20 +5811,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/stakany_chashki_kruzhki/611914/",
     "key": "SAS|id:611914|9190|6430"
+   },
+   {
+    "store": "SAS",
+    "title": "Բացիչ էլեկտրական",
+    "old": 2950,
+    "new": 1470,
+    "pct": 50,
+    "until": "01.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/308/929/9294011630199392.webp",
+    "url": "https://www.sas.am/catalog/tara_polovnik/479949/",
+    "key": "SAS|id:479949|2950|1470"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Լվացքի փոշի «Արիել» Լեռնային աղբյուր, ձեռքի 400գր",
-    "old": 750,
-    "new": 580,
-    "pct": 23,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1178940.png",
-    "url": "https://yerevan-city.am/shop/product-details/195137",
-    "key": "Yerevan City|id:195137|750|580"
-   },
    {
     "store": "Yerevan City",
     "title": "Շոկ.սալիկ «Միլկա» կաթ.շոկ-յոգուրտ 100գր",
@@ -8016,8 +8017,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-25T03:46:05.193099+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-25T04:02:26.037748+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
