@@ -1826,7 +1826,8 @@
    "SAS|id:202998|2990|1490",
    "SAS|id:729088|2090|1460",
    "SAS|id:203004|2990|1490",
-   "SAS|id:325747|350|170"
+   "SAS|id:325747|350|170",
+   "SAS|id:933632|1750|1220"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5870,6 +5871,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/594/802/802471994129962.webp",
     "url": "https://www.sas.am/catalog/showergell/325747/",
     "key": "SAS|id:325747|350|170"
+   },
+   {
+    "store": "SAS",
+    "title": "Հակաքրտինքային աէրոզոլային միջոց «Dove Advanced Care Go fresh» 150մլ",
+    "old": 1750,
+    "new": 1220,
+    "pct": 30,
+    "until": "01.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/125/396/3961312132621848.webp",
+    "url": "https://www.sas.am/catalog/antiperspirantt/933632/",
+    "key": "SAS|id:933632|1750|1220"
    }
   ],
   "Yerevan City": [
