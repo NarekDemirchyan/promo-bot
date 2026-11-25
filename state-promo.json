@@ -1815,7 +1815,8 @@
    "SAS|id:271441|5190|3630",
    "SAS|id:170275|1990|1390",
    "SAS|id:940389|1750|1220",
-   "SAS|id:935744|8990|6290"
+   "SAS|id:935744|8990|6290",
+   "SAS|id:5713|590|410"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5848,20 +5849,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/konfety_v_upakovke/935744/",
     "key": "SAS|id:935744|8990|6290"
+   },
+   {
+    "store": "SAS",
+    "title": "Մեկանգամյա օգտագործման պատառաքաղներ 20հատ",
+    "old": 590,
+    "new": 410,
+    "pct": 31,
+    "until": "01.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/odnorazovaya/5713/",
+    "key": "SAS|id:5713|590|410"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Նրբերշիկ հոթ-դոգ «Մոյա Սեմյա» 470գր",
-    "old": 790,
-    "new": 630,
-    "pct": 20,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1142727.png",
-    "url": "https://yerevan-city.am/shop/product-details/111852",
-    "key": "Yerevan City|id:111852|790|630"
-   },
    {
     "store": "Yerevan City",
     "title": "Կանաչ ոլոռ «Լորադո» 420գր",
@@ -8054,8 +8055,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-25T15:31:13.741817+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-25T15:50:20.391430+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
