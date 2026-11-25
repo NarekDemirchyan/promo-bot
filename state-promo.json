@@ -3638,22 +3638,12 @@
    "Yerevan City|id:193915|650|390",
    "Yerevan City|id:88352|650|520",
    "Yerevan City|id:88353|650|520",
-   "Yerevan City|id:176357|650|585"
+   "Yerevan City|id:176357|650|585",
+   "Yerevan City|id:193934|650|450"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շոկոլադե բատոն «Snickers» 50.5գ",
-    "old": 320,
-    "new": 290,
-    "pct": 9,
-    "until": "01.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/413/024/024739199475525.webp",
-    "url": "https://www.sas.am/catalog/batonchik/20765/",
-    "key": "SAS|id:20765|320|290"
-   },
    {
     "store": "SAS",
     "title": "Կաթ «Parmalat» 1լ, յուղայնությունը՝ 1.8",
@@ -8033,12 +8023,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169990.png",
     "url": "https://yerevan-city.am/shop/product-details/176357",
     "key": "Yerevan City|id:176357|650|585"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Պիալա «ՍԴՑ» կանաչ, կլոր 14.5սմ 1հտ ՍԴ397-3",
+    "old": 650,
+    "new": 450,
+    "pct": 31,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177702.png",
+    "url": "https://yerevan-city.am/shop/product-details/193934",
+    "key": "Yerevan City|id:193934|650|450"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-25T10:17:10.023997+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-25T10:32:22.275074+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
