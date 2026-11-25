@@ -3642,22 +3642,12 @@
    "Yerevan City|id:88353|650|520",
    "Yerevan City|id:176357|650|585",
    "Yerevan City|id:193934|650|450",
-   "Yerevan City|id:176358|650|585"
+   "Yerevan City|id:176358|650|585",
+   "Yerevan City|id:181210|650|390"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Պանիր կամամբեր «President» 125գ",
-    "old": 2390,
-    "new": 2120,
-    "pct": 11,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/importnyy_syr/180068/",
-    "key": "SAS|id:180068|2390|2120"
-   },
    {
     "store": "SAS",
     "title": "Դոնդողե կոնֆետներ «Mamba» 140գ",
@@ -8037,12 +8027,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169991.png",
     "url": "https://yerevan-city.am/shop/product-details/176358",
     "key": "Yerevan City|id:176358|650|585"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տարա ձեթի և քացախի համար «Հերեվին» 275մլ",
+    "old": 650,
+    "new": 390,
+    "pct": 40,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174936.png",
+    "url": "https://yerevan-city.am/shop/product-details/181210",
+    "key": "Yerevan City|id:181210|650|390"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-25T11:32:20.944384+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-25T11:47:10.376420+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
