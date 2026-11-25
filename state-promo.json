@@ -3688,17 +3688,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Պանիր հալած «President Cheeseburger» 150գ",
-    "old": 1330,
-    "new": 820,
-    "pct": 38,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/273/889/889506222660501.webp",
-    "url": "https://www.sas.am/catalog/importnyy_syr/180095/",
-    "key": "SAS|id:180095|1330|820"
-   },
-   {
-    "store": "SAS",
     "title": "Սերուցք սոուսների համար «Parmalat Chef» 200գ, յուղայնությունը՝ 23%:",
     "old": 1030,
     "new": 920,
@@ -8091,8 +8080,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-26T01:04:42.198154+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-26T01:32:17.950757+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
