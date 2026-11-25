@@ -3644,7 +3644,8 @@
    "Yerevan City|id:176357|650|585",
    "Yerevan City|id:193934|650|450",
    "Yerevan City|id:176358|650|585",
-   "Yerevan City|id:181210|650|390"
+   "Yerevan City|id:181210|650|390",
+   "Yerevan City|id:176361|650|585"
   ]
  },
  "queues": {
@@ -8039,6 +8040,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174936.png",
     "url": "https://yerevan-city.am/shop/product-details/181210",
     "key": "Yerevan City|id:181210|650|390"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կոմպոտ «Անուշ» մոշի 750մլ",
+    "old": 650,
+    "new": 585,
+    "pct": 10,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169992.png",
+    "url": "https://yerevan-city.am/shop/product-details/176361",
+    "key": "Yerevan City|id:176361|650|585"
    }
   ]
  },
