@@ -1814,7 +1814,8 @@
    "SAS|id:707113|2190|1530",
    "SAS|id:271441|5190|3630",
    "SAS|id:170275|1990|1390",
-   "SAS|id:940389|1750|1220"
+   "SAS|id:940389|1750|1220",
+   "SAS|id:935744|8990|6290"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5846,20 +5847,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/odnorazovaya/940389/",
     "key": "SAS|id:940389|1750|1220"
+   },
+   {
+    "store": "SAS",
+    "title": "Շոկոլադե կոնֆետներ «Toblerone Tiny Milk» 240գ",
+    "old": 8990,
+    "new": 6290,
+    "pct": 30,
+    "until": "01.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/konfety_v_upakovke/935744/",
+    "key": "SAS|id:935744|8990|6290"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Միջադիրներ «Լիբրես» նեյչրալ քեյր, նորմալ 10հտ",
-    "old": 810,
-    "new": 650,
-    "pct": 20,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1008162.png",
-    "url": "https://yerevan-city.am/shop/product-details/15803",
-    "key": "Yerevan City|id:15803|810|650"
-   },
    {
     "store": "Yerevan City",
     "title": "Նրբերշիկ հոթ-դոգ «Մոյա Սեմյա» 470գր",
@@ -8052,8 +8053,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-25T15:02:30.869024+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-25T15:17:08.812781+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
