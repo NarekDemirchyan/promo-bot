@@ -3660,7 +3660,8 @@
    "Yerevan City|id:177652|640|575",
    "Yerevan City|id:56442|640|490",
    "Yerevan City|id:10730|640|470",
-   "Yerevan City|id:191439|630|570"
+   "Yerevan City|id:191439|630|570",
+   "Yerevan City|id:2817|630|584"
   ]
  },
  "queues": {
@@ -8055,6 +8056,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175156.png",
     "url": "https://yerevan-city.am/shop/product-details/191439",
     "key": "Yerevan City|id:191439|630|570"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Խտացրած կաթ «Ալեքսեևսկոյե» 8.5% փաթեթ 270գր",
+    "old": 630,
+    "new": 584,
+    "pct": 7,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1044541.png",
+    "url": "https://yerevan-city.am/shop/product-details/2817",
+    "key": "Yerevan City|id:2817|630|584"
    }
   ]
  },
