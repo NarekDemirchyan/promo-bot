@@ -1801,7 +1801,8 @@
    "SAS|id:99901|1250|870",
    "SAS|id:969820|2390|1670",
    "SAS|id:969814|450|310",
-   "SAS|id:969813|450|310"
+   "SAS|id:969813|450|310",
+   "SAS|id:918313|1090|760"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5820,20 +5821,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/283/862/8621093166957869.webp",
     "url": "https://www.sas.am/catalog/osvezhayushchiy_napitok/969813/",
     "key": "SAS|id:969813|450|310"
+   },
+   {
+    "store": "SAS",
+    "title": "Բատոն սպիտակուցային սերուցքի և թխվածքաբլիթի համով «Pingo Doce Go Active Barra Proteica» 50գ",
+    "old": 1090,
+    "new": 760,
+    "pct": 30,
+    "until": "01.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/batonchik/918313/",
+    "key": "SAS|id:918313|1090|760"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Թխվածքաբլիթ «Լյուբյատովո» եփած կաթ 444գր",
-    "old": 750,
-    "new": 550,
-    "pct": 27,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1132045.png",
-    "url": "https://yerevan-city.am/shop/product-details/96032",
-    "key": "Yerevan City|id:96032|750|550"
-   },
    {
     "store": "Yerevan City",
     "title": "Յոգուրտ հունական «Վեննս» 0.1% 130գր",
@@ -8026,8 +8027,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-25T06:47:08.824813+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-25T07:04:54.416956+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
