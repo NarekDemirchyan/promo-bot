@@ -3656,7 +3656,8 @@
    "Yerevan City|id:177579|650|440",
    "Yerevan City|id:193924|650|450",
    "Yerevan City|id:177652|640|575",
-   "Yerevan City|id:56442|640|490"
+   "Yerevan City|id:56442|640|490",
+   "Yerevan City|id:10730|640|470"
   ]
  },
  "queues": {
@@ -8051,6 +8052,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1110090.png",
     "url": "https://yerevan-city.am/shop/product-details/56442",
     "key": "Yerevan City|id:56442|640|490"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թխվածքաբլիթ-մյուսլի «Լյուբյատովո» լոռ-չամիչ 120գ",
+    "old": 640,
+    "new": 470,
+    "pct": 27,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1099079.png",
+    "url": "https://yerevan-city.am/shop/product-details/10730",
+    "key": "Yerevan City|id:10730|640|470"
    }
   ]
  },
