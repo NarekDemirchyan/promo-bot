@@ -1810,7 +1810,8 @@
    "SAS|id:952127|11500|5750",
    "SAS|id:948366|1550|990",
    "SAS|id:916340|590|410",
-   "SAS|id:892646|8950|4470"
+   "SAS|id:892646|8950|4470",
+   "SAS|id:707113|2190|1530"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5838,20 +5839,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/stiralnyy_poroshok/892646/",
     "key": "SAS|id:892646|8950|4470"
+   },
+   {
+    "store": "SAS",
+    "title": "Շամպուն «Syoss Keratin» 440մլ",
+    "old": 2190,
+    "new": 1530,
+    "pct": 30,
+    "until": "01.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/263/161/1616012554831944.webp",
+    "url": "https://www.sas.am/catalog/dlya_volos2/707113/",
+    "key": "SAS|id:707113|2190|1530"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Կետչուպ «Հայնց» կծու 320գր",
-    "old": 840,
-    "new": 635,
-    "pct": 24,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1119784.png",
-    "url": "https://yerevan-city.am/shop/product-details/77373",
-    "key": "Yerevan City|id:77373|840|635"
-   },
    {
     "store": "Yerevan City",
     "title": "Սոուս «Հայնց» պանրի 200գր",
@@ -8044,8 +8045,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-25T12:32:17.093602+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-25T12:47:11.709654+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
