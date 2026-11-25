@@ -3628,17 +3628,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Թխվածքաբլիթ տիրամիսուի համար «Matilde Vicenzi Vicenzovo» 200գ",
-    "old": 1550,
-    "new": 1080,
-    "pct": 30,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/pechene_pryaniki/133938/",
-    "key": "SAS|id:133938|1550|1080"
-   },
-   {
-    "store": "SAS",
     "title": "Շոկոլադե սալիկ կաթնային «Lindt» 300գ",
     "old": 5600,
     "new": 3800,
@@ -8031,8 +8020,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-25T04:35:41.918253+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-25T05:02:30.772159+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
