@@ -3626,7 +3626,8 @@
    "Yerevan City|id:4768|650|590",
    "Yerevan City|id:8952|650|580",
    "Yerevan City|id:193904|650|450",
-   "Yerevan City|id:12433|650|580"
+   "Yerevan City|id:12433|650|580",
+   "Yerevan City|id:88351|650|520"
   ]
  },
  "queues": {
@@ -8021,6 +8022,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1048698.png",
     "url": "https://yerevan-city.am/shop/product-details/12433",
     "key": "Yerevan City|id:12433|650|580"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Օճառ «Փիարս» անանուխի մզվածք 125գր",
+    "old": 650,
+    "new": 520,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1125860.png",
+    "url": "https://yerevan-city.am/shop/product-details/88351",
+    "key": "Yerevan City|id:88351|650|520"
    }
   ]
  },
