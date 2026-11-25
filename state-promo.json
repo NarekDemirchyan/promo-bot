@@ -3628,7 +3628,8 @@
    "Yerevan City|id:8952|650|580",
    "Yerevan City|id:193904|650|450",
    "Yerevan City|id:12433|650|580",
-   "Yerevan City|id:88351|650|520"
+   "Yerevan City|id:88351|650|520",
+   "Yerevan City|id:193914|650|450"
   ]
  },
  "queues": {
@@ -8023,6 +8024,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1125860.png",
     "url": "https://yerevan-city.am/shop/product-details/88351",
     "key": "Yerevan City|id:88351|650|520"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ափսե «ԻքսՅՑ» բեժ մոխ. կլոր 21սմ 1հտ ՀՖ7-19",
+    "old": 650,
+    "new": 450,
+    "pct": 31,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177676.png",
+    "url": "https://yerevan-city.am/shop/product-details/193914",
+    "key": "Yerevan City|id:193914|650|450"
    }
   ]
  },
