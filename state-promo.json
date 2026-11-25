@@ -1812,7 +1812,8 @@
    "SAS|id:916340|590|410",
    "SAS|id:892646|8950|4470",
    "SAS|id:707113|2190|1530",
-   "SAS|id:271441|5190|3630"
+   "SAS|id:271441|5190|3630",
+   "SAS|id:170275|1990|1390"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3649,22 +3650,12 @@
    "Yerevan City|id:181210|650|390",
    "Yerevan City|id:176361|650|585",
    "Yerevan City|id:176363|650|585",
-   "Yerevan City|id:177579|650|440"
+   "Yerevan City|id:177579|650|440",
+   "Yerevan City|id:193924|650|450"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Գինի վարդագույն «Ակում Մալբեկ» 750մլ",
-    "old": 5990,
-    "new": 2995,
-    "pct": 50,
-    "until": "08.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/360/708/7087143941374392.webp",
-    "url": "https://www.sas.am/catalog/armyanskoe_vino/854748/",
-    "key": "SAS|id:854748|5990|2995"
-   },
    {
     "store": "SAS",
     "title": "Գինի կարմիր «Ակում Մալբեկ» 750մլ",
@@ -5842,6 +5833,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/stiralnyy_poroshok/271441/",
     "key": "SAS|id:271441|5190|3630"
+   },
+   {
+    "store": "SAS",
+    "title": "Սպասք լվանալու հեղուկ «Fairy» 900մլ",
+    "old": 1990,
+    "new": 1390,
+    "pct": 30,
+    "until": "01.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/124/974/9745503600880260.webp",
+    "url": "https://www.sas.am/catalog/sredstva_dlya_posudy/170275/",
+    "key": "SAS|id:170275|1990|1390"
    }
   ],
   "Yerevan City": [
@@ -8033,12 +8035,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1171218.png",
     "url": "https://yerevan-city.am/shop/product-details/177579",
     "key": "Yerevan City|id:177579|650|440"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Պիալա «ՍԴՑ» բեժ, կլոր 14.5սմ 1հտ ՍԴՑ-26-6",
+    "old": 650,
+    "new": 450,
+    "pct": 31,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177687.png",
+    "url": "https://yerevan-city.am/shop/product-details/193924",
+    "key": "Yerevan City|id:193924|650|450"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-25T14:01:23.536304+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-25T14:17:15.625596+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
