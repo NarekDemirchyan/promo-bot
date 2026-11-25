@@ -3640,17 +3640,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Մազերի կոնդիցիոներ «Syoss Intense Keratin» 250մլ",
-    "old": 2050,
-    "new": 1560,
-    "pct": 24,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/balzam_dlya_volos/906936/",
-    "key": "SAS|id:906936|2050|1560"
-   },
-   {
-    "store": "SAS",
     "title": "Փրփրուն գինի «Mionetto Prosecco Rose DOC Extra Dry» 0.75լ",
     "old": 9890,
     "new": 8790,
@@ -8043,8 +8032,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-25T08:19:56.782037+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-25T08:47:03.034248+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
