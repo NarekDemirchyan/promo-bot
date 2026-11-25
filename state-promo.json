@@ -1805,7 +1805,8 @@
    "SAS|id:918313|1090|760",
    "SAS|id:962883|1450|1010",
    "SAS|id:954683|2350|1640",
-   "SAS|id:954659|2350|1640"
+   "SAS|id:954659|2350|1640",
+   "SAS|id:954656|2350|1640"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5828,20 +5829,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/348/599/5992303868469037.webp",
     "url": "https://www.sas.am/catalog/dlya_volos2/954659/",
     "key": "SAS|id:954659|2350|1640"
+   },
+   {
+    "store": "SAS",
+    "title": "Շամպուն-բալզամ «Head & Shoulders Apple Fresh 2 In 1» 250մլ",
+    "old": 2350,
+    "new": 1640,
+    "pct": 30,
+    "until": "01.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/dlya_volos2/954656/",
+    "key": "SAS|id:954656|2350|1640"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Նրբերշիկ հնդկահավի «Տոլկո» 380գր",
-    "old": 990,
-    "new": 495,
-    "pct": 50,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1156444.png",
-    "url": "https://yerevan-city.am/shop/product-details/158801",
-    "key": "Yerevan City|id:158801|990|495"
-   },
    {
     "store": "Yerevan City",
     "title": "Կիտրոն տրորած շաքարով «Կուբանոչկա» 500գր",
@@ -8034,8 +8035,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-25T09:17:15.755514+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-25T09:35:10.201444+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
