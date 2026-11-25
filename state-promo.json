@@ -3670,22 +3670,12 @@
    "Yerevan City|id:5839|630|540",
    "Yerevan City|id:191429|630|570",
    "Yerevan City|id:191430|630|570",
-   "Yerevan City|id:191431|630|570"
+   "Yerevan City|id:191431|630|570",
+   "Yerevan City|id:191432|630|570"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շոկոլադե սալիկ նուշով «Lindt» 300գ",
-    "old": 5580,
-    "new": 3800,
-    "pct": 32,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/plitka/206202/",
-    "key": "SAS|id:206202|5580|3800"
-   },
    {
     "store": "SAS",
     "title": "Սանհանգույցը մաքրող միջոց «Diversey Clonet Extra» 750մլ",
@@ -8065,12 +8055,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175154.png",
     "url": "https://yerevan-city.am/shop/product-details/191431",
     "key": "Yerevan City|id:191431|630|570"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Խտ.կաթ «Կորովկա իզ Կորենովկի» կր-բր.8.5% փաթ.270գր",
+    "old": 630,
+    "new": 570,
+    "pct": 10,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175155.png",
+    "url": "https://yerevan-city.am/shop/product-details/191432",
+    "key": "Yerevan City|id:191432|630|570"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-25T21:17:11.228593+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-25T21:34:52.143443+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
