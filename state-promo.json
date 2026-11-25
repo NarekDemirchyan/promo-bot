@@ -1823,7 +1823,8 @@
    "SAS|id:479960|1950|970",
    "SAS|id:947170|1250|870",
    "SAS|id:876554|770|380",
-   "SAS|id:202998|2990|1490"
+   "SAS|id:202998|2990|1490",
+   "SAS|id:729088|2090|1460"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5864,6 +5865,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/dlya_volos2/202998/",
     "key": "SAS|id:202998|2990|1490"
+   },
+   {
+    "store": "SAS",
+    "title": "Լվացքի կոնդիցիոներ «Felce Azzurra Argan & Vanilla» 900մլ",
+    "old": 2090,
+    "new": 1460,
+    "pct": 30,
+    "until": "30.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/opolaskivatel_konditsioner_kontsentrat/729088/",
+    "key": "SAS|id:729088|2090|1460"
    }
   ],
   "Yerevan City": [
