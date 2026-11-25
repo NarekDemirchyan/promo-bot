@@ -3652,7 +3652,8 @@
    "Yerevan City|id:176361|650|585",
    "Yerevan City|id:176363|650|585",
    "Yerevan City|id:177579|650|440",
-   "Yerevan City|id:193924|650|450"
+   "Yerevan City|id:193924|650|450",
+   "Yerevan City|id:177652|640|575"
   ]
  },
  "queues": {
@@ -8047,6 +8048,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177687.png",
     "url": "https://yerevan-city.am/shop/product-details/193924",
     "key": "Yerevan City|id:193924|650|450"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տոմատի մածուկ «Պրիմո» 500գր",
+    "old": 640,
+    "new": 575,
+    "pct": 10,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1171323.png",
+    "url": "https://yerevan-city.am/shop/product-details/177652",
+    "key": "Yerevan City|id:177652|640|575"
    }
   ]
  },
