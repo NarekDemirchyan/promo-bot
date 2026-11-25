@@ -3688,7 +3688,8 @@
    "Yerevan City|id:193916|650|390",
    "Yerevan City|id:193918|650|390",
    "Yerevan City|id:16430|630|564",
-   "Yerevan City|id:69482|620|590"
+   "Yerevan City|id:69482|620|590",
+   "Yerevan City|id:180470|620|485"
   ]
  },
  "queues": {
@@ -8083,6 +8084,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1113937.png",
     "url": "https://yerevan-city.am/shop/product-details/69482",
     "key": "Yerevan City|id:69482|620|590"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հյութ պար.ըմպելիք «ՕԿՖ» Ֆերմ.հալվե-արք. 500մլ",
+    "old": 620,
+    "new": 485,
+    "pct": 22,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174203.png",
+    "url": "https://yerevan-city.am/shop/product-details/180470",
+    "key": "Yerevan City|id:180470|620|485"
    }
   ]
  },
