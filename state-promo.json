@@ -3622,22 +3622,12 @@
    "Yerevan City|id:193896|650|450",
    "Yerevan City|id:193903|650|450",
    "Yerevan City|id:4768|650|590",
-   "Yerevan City|id:8952|650|580"
+   "Yerevan City|id:8952|650|580",
+   "Yerevan City|id:193904|650|450"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շոկոլադե սալիկ կաթնային «Lindt» 300գ",
-    "old": 5600,
-    "new": 3800,
-    "pct": 32,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/plitka/206203/",
-    "key": "SAS|id:206203|5600|3800"
-   },
    {
     "store": "SAS",
     "title": "Շամպուն «Syoss Professional Power & Strength» 500մլ",
@@ -8017,12 +8007,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1050826.png",
     "url": "https://yerevan-city.am/shop/product-details/8952",
     "key": "Yerevan City|id:8952|650|580"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ափսե «ՍԴՑ» կաթ. կլոր 20.5սմ 1հտ ՍԴ170-2",
+    "old": 650,
+    "new": 450,
+    "pct": 31,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177673.png",
+    "url": "https://yerevan-city.am/shop/product-details/193904",
+    "key": "Yerevan City|id:193904|650|450"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-25T05:17:10.001454+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-25T05:32:19.599154+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
