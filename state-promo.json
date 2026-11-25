@@ -1818,7 +1818,8 @@
    "SAS|id:935744|8990|6290",
    "SAS|id:5713|590|410",
    "SAS|id:836256|980|680",
-   "SAS|id:495065|2150|1490"
+   "SAS|id:495065|2150|1490",
+   "SAS|id:900990|2190|990"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5854,20 +5855,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/opalaskivatel_rta/495065/",
     "key": "SAS|id:495065|2150|1490"
+   },
+   {
+    "store": "SAS",
+    "title": "Լոգանքի գել «Reebok Activate Your Senses» 400մլ",
+    "old": 2190,
+    "new": 990,
+    "pct": 55,
+    "until": "01.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/showergell/900990/",
+    "key": "SAS|id:900990|2190|990"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Սպագետտի «Ռեջիա» Վերմիչելի №17 500գր",
-    "old": 790,
-    "new": 560,
-    "pct": 29,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1040184.png",
-    "url": "https://yerevan-city.am/shop/product-details/67",
-    "key": "Yerevan City|t:սպագետտի «ռեջիա» վերմիչելի №17 500գր|790|560"
-   },
    {
     "store": "Yerevan City",
     "title": "Սպագետտի «Ռեջիա» Սպագետտինի №20 500գր",
@@ -8060,8 +8061,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-25T17:32:24.085397+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-25T17:47:03.835756+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
