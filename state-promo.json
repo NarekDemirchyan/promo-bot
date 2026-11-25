@@ -1831,7 +1831,8 @@
    "SAS|id:936542|3290|2290",
    "SAS|id:427693|870|430",
    "SAS|id:278507|390|190",
-   "SAS|id:167221|990|940"
+   "SAS|id:167221|990|940",
+   "SAS|id:829139|100|50"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5880,20 +5881,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/sok/167221/",
     "key": "SAS|id:167221|990|940"
+   },
+   {
+    "store": "SAS",
+    "title": "Նվերի տոպրակ մանկական «Top Model»",
+    "old": 100,
+    "new": 50,
+    "pct": 50,
+    "until": "01.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/300/476/4769191875173930.webp",
+    "url": "https://www.sas.am/catalog/_gift_accessories/829139/",
+    "key": "SAS|id:829139|100|50"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Հյութ «Ֆոնտանա» սպիտակ գուավա 1լ",
-    "old": 790,
-    "new": 590,
-    "pct": 25,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1085969.png",
-    "url": "https://yerevan-city.am/shop/product-details/20897",
-    "key": "Yerevan City|id:20897|790|590"
-   },
    {
     "store": "Yerevan City",
     "title": "Տարա ապակյա, քառակուսի 530մլ",
@@ -8086,8 +8087,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-26T03:17:04.325963+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-26T03:34:50.344490+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
