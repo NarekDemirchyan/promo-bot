@@ -3692,17 +3692,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Պանիր կանաչիներով «Philadelphia» 175գ",
-    "old": 1870,
-    "new": 1490,
-    "pct": 20,
-    "until": "01.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/importnyy_syr/4500/",
-    "key": "SAS|id:4500|1870|1490"
-   },
-   {
-    "store": "SAS",
     "title": "Ըմպելիք սպիտակուցային շոկոլադի համով «Parmalat» 500մլ",
     "old": 1350,
     "new": 1050,
@@ -8095,8 +8084,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-26T02:20:14.596511+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-26T02:47:07.898166+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
