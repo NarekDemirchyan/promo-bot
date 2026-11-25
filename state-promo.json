@@ -1828,7 +1828,8 @@
    "SAS|id:203004|2990|1490",
    "SAS|id:325747|350|170",
    "SAS|id:933632|1750|1220",
-   "SAS|id:936542|3290|2290"
+   "SAS|id:936542|3290|2290",
+   "SAS|id:427693|870|430"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5874,20 +5875,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/727/583/583795623490569.webp",
     "url": "https://www.sas.am/catalog/maska_konditsioner_dlya_volos/936542/",
     "key": "SAS|id:936542|3290|2290"
+   },
+   {
+    "store": "SAS",
+    "title": "Խցանահան",
+    "old": 870,
+    "new": 430,
+    "pct": 51,
+    "until": "01.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/279/473/4736312739990933.webp",
+    "url": "https://www.sas.am/catalog/tara_polovnik/427693/",
+    "key": "SAS|id:427693|870|430"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Բաժակ մաղ պլաստմասե «Կարալի» ԿՊ-140",
-    "old": 790,
-    "new": 395,
-    "pct": 50,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176094.png",
-    "url": "https://yerevan-city.am/shop/product-details/192366",
-    "key": "Yerevan City|id:192366|790|395"
-   },
    {
     "store": "Yerevan City",
     "title": "Հյութ «Ֆոնտանա» լիմոնադ 1լ",
@@ -8080,8 +8081,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-26T01:32:17.950757+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-26T01:47:10.923930+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
