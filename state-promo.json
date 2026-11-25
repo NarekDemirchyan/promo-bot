@@ -3672,17 +3672,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Սանհանգույցը մաքրող միջոց «Diversey Room Care R6» 750մլ",
-    "old": 3250,
-    "new": 2690,
-    "pct": 17,
-    "until": "10.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/341/375/3756152941878343.webp",
-    "url": "https://www.sas.am/catalog/forhebathroom/830392/",
-    "key": "SAS|id:830392|3250|2690"
-   },
-   {
-    "store": "SAS",
     "title": "Կաթ «Parmalat» 1լ, յուղայնությունը`1.8",
     "old": 1470,
     "new": 1170,
@@ -8075,8 +8064,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-25T18:35:10.720618+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-25T19:02:41.509695+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
