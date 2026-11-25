@@ -3654,22 +3654,12 @@
    "Yerevan City|id:176363|650|585",
    "Yerevan City|id:177579|650|440",
    "Yerevan City|id:193924|650|450",
-   "Yerevan City|id:177652|640|575"
+   "Yerevan City|id:177652|640|575",
+   "Yerevan City|id:56442|640|490"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Օդը թարմացնող միջոց «Good Sense» 750մլ",
-    "old": 4350,
-    "new": 3580,
-    "pct": 18,
-    "until": "10.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/158/689/68918275332646.webp",
-    "url": "https://www.sas.am/catalog/osvezhiteli/830411/",
-    "key": "SAS|id:830411|4350|3580"
-   },
    {
     "store": "SAS",
     "title": "Մաքրող կրեմ ունիվերսալ «Diversey» 500մլ",
@@ -8049,12 +8039,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1171323.png",
     "url": "https://yerevan-city.am/shop/product-details/177652",
     "key": "Yerevan City|id:177652|640|575"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սերուցք «Պարմալատ» 11% 200գր",
+    "old": 640,
+    "new": 490,
+    "pct": 23,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1110090.png",
+    "url": "https://yerevan-city.am/shop/product-details/56442",
+    "key": "Yerevan City|id:56442|640|490"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-25T15:17:08.812781+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-25T15:31:13.741817+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
