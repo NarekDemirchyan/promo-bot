@@ -3658,22 +3658,12 @@
    "Yerevan City|id:193924|650|450",
    "Yerevan City|id:177652|640|575",
    "Yerevan City|id:56442|640|490",
-   "Yerevan City|id:10730|640|470"
+   "Yerevan City|id:10730|640|470",
+   "Yerevan City|id:191439|630|570"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կահույքը փայլեցնող միջոց «Diversey Room Care R4» 750մլ",
-    "old": 4890,
-    "new": 4050,
-    "pct": 17,
-    "until": "10.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/chistyashchie_sredstva/830393/",
-    "key": "SAS|id:830393|4890|4050"
-   },
    {
     "store": "SAS",
     "title": "Օղի «Stoli» 0.7լ",
@@ -8053,12 +8043,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1099079.png",
     "url": "https://yerevan-city.am/shop/product-details/10730",
     "key": "Yerevan City|id:10730|640|470"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Խտ.կաթ «Կորովկա իզ Կորենովկի» վան.8.5% փաթ.270գր",
+    "old": 630,
+    "new": 570,
+    "pct": 10,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175156.png",
+    "url": "https://yerevan-city.am/shop/product-details/191439",
+    "key": "Yerevan City|id:191439|630|570"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-25T16:32:18.992671+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-25T16:47:09.592924+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
