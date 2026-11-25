@@ -3682,22 +3682,12 @@
    "Yerevan City|id:128974|630|550",
    "Yerevan City|id:13902|630|490",
    "Yerevan City|id:128382|660|520",
-   "Yerevan City|id:193916|650|390"
+   "Yerevan City|id:193916|650|390",
+   "Yerevan City|id:193918|650|390"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սերուցք սոուսների համար «Parmalat Chef» 200գ, յուղայնությունը՝ 23%:",
-    "old": 1030,
-    "new": 920,
-    "pct": 11,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/slivki_kokteyl/165295/",
-    "key": "SAS|id:165295|1030|920"
-   },
    {
     "store": "SAS",
     "title": "Պանիր կանաչիներով «Philadelphia» 175գ",
@@ -8077,12 +8067,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177678.png",
     "url": "https://yerevan-city.am/shop/product-details/193916",
     "key": "Yerevan City|id:193916|650|390"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ափսե «ԻքսՅՑ» մուգ մոխ. կլոր 20.5սմ 1հտ ՀՖ135-2",
+    "old": 650,
+    "new": 390,
+    "pct": 40,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177680.png",
+    "url": "https://yerevan-city.am/shop/product-details/193918",
+    "key": "Yerevan City|id:193918|650|390"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-26T01:47:10.923930+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-26T02:01:21.610958+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
@@ -8091,7 +8092,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 85,
+ "city_page": 86,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
