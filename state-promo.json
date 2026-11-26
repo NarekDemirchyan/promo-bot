@@ -3698,22 +3698,12 @@
    "Yerevan City|id:96171|620|520",
    "Yerevan City|id:179051|620|420",
    "Yerevan City|id:180477|620|485",
-   "Yerevan City|id:180478|620|485"
+   "Yerevan City|id:180478|620|485",
+   "Yerevan City|id:180479|620|485"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Պանիր կտրատած «Leerdammer Original Maxi» 160գ",
-    "old": 2030,
-    "new": 1650,
-    "pct": 19,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/importnyy_syr/686627/",
-    "key": "SAS|id:686627|2030|1650"
-   },
    {
     "store": "SAS",
     "title": "Ըմպելիք սպիտակուցային ելակի համով «Parmalat» 500մլ",
@@ -8093,12 +8083,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174205.png",
     "url": "https://yerevan-city.am/shop/product-details/180478",
     "key": "Yerevan City|id:180478|620|485"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հյութ պար.ըմպելիք «ՕԿՖ» Ֆերմ.հալվե-մրգ.պունշ500մլ",
+    "old": 620,
+    "new": 485,
+    "pct": 22,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174206.png",
+    "url": "https://yerevan-city.am/shop/product-details/180479",
+    "key": "Yerevan City|id:180479|620|485"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-26T06:47:05.758557+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-26T07:01:21.438133+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
