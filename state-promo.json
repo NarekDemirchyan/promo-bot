@@ -1836,7 +1836,8 @@
    "SAS|id:167197|1210|1050",
    "SAS|id:919208|2190|1530",
    "SAS|id:919207|2190|1530",
-   "SAS|id:135712|810|740"
+   "SAS|id:135712|810|740",
+   "SAS|id:954468|5950|4150"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5890,20 +5891,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/221/750/7503481784244648.webp",
     "url": "https://www.sas.am/catalog/importnoe_pivo/135712/",
     "key": "SAS|id:135712|810|740"
+   },
+   {
+    "store": "SAS",
+    "title": "Լվացքի գել ունիվերսալ «Ariel Ultra+ » 1035մլ",
+    "old": 5950,
+    "new": 4150,
+    "pct": 30,
+    "until": "01.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/stiralnyy_poroshok/954468/",
+    "key": "SAS|id:954468|5950|4150"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Ճաշի գդալներ «ՇենՍին» 12կտոր",
-    "old": 790,
-    "new": 490,
-    "pct": 38,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176564.png",
-    "url": "https://yerevan-city.am/shop/product-details/192826",
-    "key": "Yerevan City|id:192826|790|490"
-   },
    {
     "store": "Yerevan City",
     "title": "Հյութ «Ֆոնտանա» Էկզոտիկ, 8 միրգ 1լ",
@@ -8096,8 +8097,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-26T06:32:19.476137+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-26T06:47:05.758557+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
