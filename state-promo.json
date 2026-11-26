@@ -1851,7 +1851,8 @@
    "SAS|id:830603|3250|1620",
    "SAS|id:611947|1590|790",
    "SAS|id:167193|1210|1050",
-   "SAS|id:946723|2250|1120"
+   "SAS|id:946723|2250|1120",
+   "SAS|id:711492|3950|2750"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5920,6 +5921,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/vse_dlya_ukhoda_za_telom_ustarelo/946723/",
     "key": "SAS|id:946723|2250|1120"
+   },
+   {
+    "store": "SAS",
+    "title": "Մազերի կոնդիցիոներ \"Luxliss Volumizing Hair Care\" 500մլ",
+    "old": 3950,
+    "new": 2750,
+    "pct": 30,
+    "until": "01.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/414/247/2479471008046302.webp",
+    "url": "https://www.sas.am/catalog/balzam_dlya_volos/711492/",
+    "key": "SAS|id:711492|3950|2750"
    }
   ],
   "Yerevan City": [
