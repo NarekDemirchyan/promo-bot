@@ -3724,22 +3724,12 @@
    "Yerevan City|id:4006|600|560",
    "Yerevan City|id:180469|600|485",
    "Yerevan City|id:16619|600|490",
-   "Yerevan City|id:1934|595|495"
+   "Yerevan City|id:1934|595|495",
+   "Yerevan City|id:687|590|530"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Թխվածքաբլիթների տեսականի «Matilde Vicenzi Millefoglie» 390գ",
-    "old": 13900,
-    "new": 9730,
-    "pct": 30,
-    "until": "30.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/149/841/8410362767266508.webp",
-    "url": "https://www.sas.am/catalog/pechene_pryaniki/714050/",
-    "key": "SAS|id:714050|13900|9730"
-   },
    {
     "store": "SAS",
     "title": "Մարինադ աշնանային «Արտֆուդ» 960գ",
@@ -8119,12 +8109,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1046199.png",
     "url": "https://yerevan-city.am/shop/product-details/1934",
     "key": "Yerevan City|id:1934|595|495"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մակարոն-փետուր «Մակֆա» սիրողական 400գր",
+    "old": 590,
+    "new": 530,
+    "pct": 10,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1047714.png",
+    "url": "https://yerevan-city.am/shop/product-details/687",
+    "key": "Yerevan City|id:687|590|530"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-26T15:17:07.340295+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-26T15:32:18.278564+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
