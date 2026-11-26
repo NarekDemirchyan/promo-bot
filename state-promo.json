@@ -1835,7 +1835,8 @@
    "SAS|id:829139|100|50",
    "SAS|id:167197|1210|1050",
    "SAS|id:919208|2190|1530",
-   "SAS|id:919207|2190|1530"
+   "SAS|id:919207|2190|1530",
+   "SAS|id:135712|810|740"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5888,6 +5889,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/kholodnyy_/919207/",
     "key": "SAS|id:919207|2190|1530"
+   },
+   {
+    "store": "SAS",
+    "title": "Գարեջուր «Stella Artois» 0.44լ",
+    "old": 810,
+    "new": 740,
+    "pct": 9,
+    "until": "05.01.2027",
+    "img": "https://www.sas.am/upload/Sh/imageCache/221/750/7503481784244648.webp",
+    "url": "https://www.sas.am/catalog/importnoe_pivo/135712/",
+    "key": "SAS|id:135712|810|740"
    }
   ],
   "Yerevan City": [
