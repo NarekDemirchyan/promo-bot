@@ -3722,22 +3722,12 @@
    "Yerevan City|id:30730|610|560",
    "Yerevan City|id:4006|600|560",
    "Yerevan City|id:180469|600|485",
-   "Yerevan City|id:16619|600|490"
+   "Yerevan City|id:16619|600|490",
+   "Yerevan City|id:1934|595|495"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Յոգուրտ չիչխանի «Երեմյան Փրոդաքթս» 130գ, յուղայնությունը՝ 2",
-    "old": 330,
-    "new": 270,
-    "pct": 18,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/yogurt_puding/753309/",
-    "key": "SAS|id:753309|330|270"
-   },
    {
     "store": "SAS",
     "title": "Թխվածքաբլիթների տեսականի «Matilde Vicenzi Millefoglie» 390գ",
@@ -8117,12 +8107,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1071707.png",
     "url": "https://yerevan-city.am/shop/product-details/16619",
     "key": "Yerevan City|id:16619|600|490"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ծովախեցգետնի ձողիկներ «Վիչի» 220գր",
+    "old": 595,
+    "new": 495,
+    "pct": 17,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1046199.png",
+    "url": "https://yerevan-city.am/shop/product-details/1934",
+    "key": "Yerevan City|id:1934|595|495"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-26T14:32:16.283852+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-26T14:50:55.439281+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
