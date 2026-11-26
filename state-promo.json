@@ -3728,22 +3728,12 @@
    "Yerevan City|id:16619|600|490",
    "Yerevan City|id:1934|595|495",
    "Yerevan City|id:687|590|530",
-   "Yerevan City|id:1860|590|530"
+   "Yerevan City|id:1860|590|530",
+   "Yerevan City|id:2834|590|530"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ռոմ «Stroh 80» 0.7լ",
-    "old": 21500,
-    "new": 15050,
-    "pct": 30,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/rom_i_tekilla/689614/",
-    "key": "SAS|id:689614|21500|15050"
-   },
    {
     "store": "SAS",
     "title": "Կոնյակ «Արամե 7*» 0.5լ",
@@ -8123,12 +8113,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1058410.png",
     "url": "https://yerevan-city.am/shop/product-details/1860",
     "key": "Yerevan City|id:1860|590|530"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սպագետտի «Մակֆա» 400գր",
+    "old": 590,
+    "new": 530,
+    "pct": 10,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1041530.png",
+    "url": "https://yerevan-city.am/shop/product-details/2834",
+    "key": "Yerevan City|id:2834|590|530"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-26T16:32:22.246495+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-26T16:47:06.848776+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
