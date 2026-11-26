@@ -1838,7 +1838,8 @@
    "SAS|id:919207|2190|1530",
    "SAS|id:135712|810|740",
    "SAS|id:954468|5950|4150",
-   "SAS|id:952121|4250|2120"
+   "SAS|id:952121|4250|2120",
+   "SAS|id:952120|3970|1980"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5894,6 +5895,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/vse_dlya_chercheniya/952121/",
     "key": "SAS|id:952121|4250|2120"
+   },
+   {
+    "store": "SAS",
+    "title": "Ֆլոմաստերներ գունավոր «Top Model» 6 հատ",
+    "old": 3970,
+    "new": 1980,
+    "pct": 50,
+    "until": "01.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/419/114/1142123021513056.webp",
+    "url": "https://www.sas.am/catalog/vse_dlya_chercheniya/952120/",
+    "key": "SAS|id:952120|3970|1980"
    }
   ],
   "Yerevan City": [
