@@ -1854,7 +1854,8 @@
    "SAS|id:946723|2250|1120",
    "SAS|id:711492|3950|2750",
    "SAS|id:936589|3990|2790",
-   "SAS|id:946717|2250|1120"
+   "SAS|id:946717|2250|1120",
+   "SAS|id:839193|2990|2090"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5926,20 +5927,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/366/628/628969522600427.webp",
     "url": "https://www.sas.am/catalog/vse_dlya_ukhoda_za_telom_ustarelo/946717/",
     "key": "SAS|id:946717|2250|1120"
+   },
+   {
+    "store": "SAS",
+    "title": "Լվացքի կոնդիցիոներ «Felce Azzurra Lavander and Iris» 2լ",
+    "old": 2990,
+    "new": 2090,
+    "pct": 30,
+    "until": "30.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/opolaskivatel_konditsioner_kontsentrat/839193/",
+    "key": "SAS|id:839193|2990|2090"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Հեղուկ օճառ «Գրասս» Միլանա, հալվե 500մլ",
-    "old": 850,
-    "new": 780,
-    "pct": 8,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1075681.png",
-    "url": "https://yerevan-city.am/shop/product-details/16205",
-    "key": "Yerevan City|id:16205|850|780"
-   },
    {
     "store": "Yerevan City",
     "title": "Չիպս «Լեյս» Ալիքաձև, թթվասեր և սոխ 140գր",
@@ -8132,8 +8133,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-26T18:02:31.336657+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-26T18:19:58.411319+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
