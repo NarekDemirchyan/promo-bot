@@ -3694,22 +3694,12 @@
    "Yerevan City|id:69482|620|590",
    "Yerevan City|id:180470|620|485",
    "Yerevan City|id:96171|620|520",
-   "Yerevan City|id:179051|620|420"
+   "Yerevan City|id:179051|620|420",
+   "Yerevan City|id:180477|620|485"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Լաքահանող միջոց «Vanish Oxi Advance» 100մլ",
-    "old": 480,
-    "new": 400,
-    "pct": 17,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/421/403/4037162003768052.webp",
-    "url": "https://www.sas.am/catalog/opolaskivatel_konditsioner_kontsentrat/394015/",
-    "key": "SAS|id:394015|480|400"
-   },
    {
     "store": "SAS",
     "title": "Օղի «Stoli Original» 0.5լ",
@@ -8089,12 +8079,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172748.png",
     "url": "https://yerevan-city.am/shop/product-details/179051",
     "key": "Yerevan City|id:179051|620|420"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հյութ պար.ըմպելիք «ՕԿՖ» Ֆերմ.հալվե-ելակ 500մլ",
+    "old": 620,
+    "new": 485,
+    "pct": 22,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174204.png",
+    "url": "https://yerevan-city.am/shop/product-details/180477",
+    "key": "Yerevan City|id:180477|620|485"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-26T05:32:20.046303+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-26T05:49:34.029799+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
