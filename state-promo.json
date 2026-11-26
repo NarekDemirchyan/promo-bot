@@ -3746,7 +3746,8 @@
    "Yerevan City|id:3630|590|530",
    "Yerevan City|id:6441|590|530",
    "Yerevan City|id:195914|590|450",
-   "Yerevan City|id:195913|590|450"
+   "Yerevan City|id:195913|590|450",
+   "Yerevan City|id:7173|590|530"
   ]
  },
  "queues": {
@@ -8141,6 +8142,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1180707.png",
     "url": "https://yerevan-city.am/shop/product-details/195913",
     "key": "Yerevan City|id:195913|590|450"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մակարոն-ժապավեն «Մակֆա» 400գր",
+    "old": 590,
+    "new": 530,
+    "pct": 10,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1038276.png",
+    "url": "https://yerevan-city.am/shop/product-details/7173",
+    "key": "Yerevan City|id:7173|590|530"
    }
   ]
  },
