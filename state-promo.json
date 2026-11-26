@@ -3726,17 +3726,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Վարունգ մարինացված «Kuhne Sweet & Sour» 330գ",
-    "old": 1550,
-    "new": 1150,
-    "pct": 26,
-    "until": "31.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/273/923/9237964015738131.webp",
-    "url": "https://www.sas.am/catalog/ogurtsy/972662/",
-    "key": "SAS|id:972662|1550|1150"
-   },
-   {
-    "store": "SAS",
     "title": "Բամիա մարինացված «Թթու» 710գ",
     "old": 1220,
     "new": 840,
@@ -8129,8 +8118,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-26T13:03:51.980199+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-26T13:36:45.290968+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
