@@ -3716,17 +3716,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Շամպուն «Syoss Intense Plex» 440մլ",
-    "old": 2050,
-    "new": 1560,
-    "pct": 24,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/dlya_volos2/801296/",
-    "key": "SAS|id:801296|2050|1560"
-   },
-   {
-    "store": "SAS",
     "title": "Օղի «Stoli Original» 0.7լ",
     "old": 12300,
     "new": 11590,
@@ -8119,8 +8108,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-26T09:50:44.957529+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-26T10:17:12.179754+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
