@@ -1847,7 +1847,8 @@
    "SAS|id:384788|5190|3630",
    "SAS|id:937086|1950|970",
    "SAS|id:936547|1050|520",
-   "SAS|id:918657|2550|1780"
+   "SAS|id:918657|2550|1780",
+   "SAS|id:830603|3250|1620"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5912,6 +5913,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/showergell/918657/",
     "key": "SAS|id:918657|2550|1780"
+   },
+   {
+    "store": "SAS",
+    "title": "Հեղուկ օճառ «Method Waterfall» 354մլ",
+    "old": 3250,
+    "new": 1620,
+    "pct": 50,
+    "until": "01.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/liqsoup/830603/",
+    "key": "SAS|id:830603|3250|1620"
    }
   ],
   "Yerevan City": [
