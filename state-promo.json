@@ -3738,17 +3738,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Կոնյակ «Արամե 7*» 0.5լ",
-    "old": 8590,
-    "new": 7790,
-    "pct": 9,
-    "until": "08.01.2027",
-    "img": "",
-    "url": "https://www.sas.am/catalog/armyanskiy_konyak/683893/",
-    "key": "SAS|id:683893|8590|7790"
-   },
-   {
-    "store": "SAS",
     "title": "Կոնյակ «Արամե 5*» 0.5լ",
     "old": 6150,
     "new": 5650,
@@ -8141,8 +8130,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-26T17:02:39.698018+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-26T17:17:54.031818+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
