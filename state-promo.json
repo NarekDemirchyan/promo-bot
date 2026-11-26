@@ -1845,7 +1845,8 @@
    "SAS|id:167203|1210|1050",
    "SAS|id:952119|5480|2740",
    "SAS|id:384788|5190|3630",
-   "SAS|id:937086|1950|970"
+   "SAS|id:937086|1950|970",
+   "SAS|id:936547|1050|520"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5908,20 +5909,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/350/362/3629693169699376.webp",
     "url": "https://www.sas.am/catalog/pena_gel_dlya_britya/937086/",
     "key": "SAS|id:937086|1950|970"
+   },
+   {
+    "store": "SAS",
+    "title": "Բերանի խոռոչի ողողման հեղուկ «Colgate Plax Fresh & Protect» 100մլ",
+    "old": 1050,
+    "new": 520,
+    "pct": 50,
+    "until": "01.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/opalaskivatel_rta/936547/",
+    "key": "SAS|id:936547|1050|520"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Ատրճանակ սպունգանման փամփուշտներով 2հտ 2255-10",
-    "old": 890,
-    "new": 445,
-    "pct": 50,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177892.png",
-    "url": "https://yerevan-city.am/shop/product-details/194121",
-    "key": "Yerevan City|id:194121|890|445"
-   },
    {
     "store": "Yerevan City",
     "title": "Ունիվերսալ քսուք «Նիվեա» թ/տ 30մլ",
@@ -8114,8 +8115,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-26T12:02:29.126121+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-26T12:19:53.418553+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
