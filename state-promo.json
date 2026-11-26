@@ -3744,22 +3744,12 @@
    "Yerevan City|id:16265|590|530",
    "Yerevan City|id:3630|590|530",
    "Yerevan City|id:6441|590|530",
-   "Yerevan City|id:195914|590|450"
+   "Yerevan City|id:195914|590|450",
+   "Yerevan City|id:195913|590|450"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Գինի նռան «365 հուշանվերային» 0.75լ",
-    "old": 5390,
-    "new": 4790,
-    "pct": 11,
-    "until": "08.01.2027",
-    "img": "",
-    "url": "https://www.sas.am/catalog/armyanskoe_vino/30553/",
-    "key": "SAS|id:30553|5390|4790"
-   },
    {
     "store": "SAS",
     "title": "Գինի նռան «365 0.75լ",
@@ -8139,12 +8129,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1180708.png",
     "url": "https://yerevan-city.am/shop/product-details/195914",
     "key": "Yerevan City|id:195914|590|450"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տոնածառի խաղալիք «Գունդ» բուրգ.8սմ 1հտ",
+    "old": 590,
+    "new": 450,
+    "pct": 24,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1180707.png",
+    "url": "https://yerevan-city.am/shop/product-details/195913",
+    "key": "Yerevan City|id:195913|590|450"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-26T21:47:05.019360+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-26T22:02:28.084111+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
