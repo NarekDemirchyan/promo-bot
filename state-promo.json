@@ -1840,7 +1840,8 @@
    "SAS|id:954468|5950|4150",
    "SAS|id:952121|4250|2120",
    "SAS|id:952120|3970|1980",
-   "SAS|id:711518|590|410"
+   "SAS|id:711518|590|410",
+   "SAS|id:5714|590|410"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5898,6 +5899,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/378/853/8530922122712592.webp",
     "url": "https://www.sas.am/catalog/odnorazovaya/711518/",
     "key": "SAS|id:711518|590|410"
+   },
+   {
+    "store": "SAS",
+    "title": "Մեկանգամյա օգտագործման դանակներ 20 հատ",
+    "old": 590,
+    "new": 410,
+    "pct": 31,
+    "until": "01.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/424/968/968358101929305.webp",
+    "url": "https://www.sas.am/catalog/odnorazovaya/5714/",
+    "key": "SAS|id:5714|590|410"
    }
   ],
   "Yerevan City": [
