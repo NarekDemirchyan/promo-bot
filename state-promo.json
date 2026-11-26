@@ -3696,17 +3696,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Պանիր աղաջրային «President Greco» 250գ",
-    "old": 2350,
-    "new": 1750,
-    "pct": 26,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/265/423/42306943634371.webp",
-    "url": "https://www.sas.am/catalog/importnyy_syr/536316/",
-    "key": "SAS|id:536316|2350|1750"
-   },
-   {
-    "store": "SAS",
     "title": "Սերուցք «President» 200գ, յուղայնությունը`11",
     "old": 690,
     "new": 520,
@@ -8099,8 +8088,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-26T03:34:50.344490+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-26T04:02:37.684416+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
