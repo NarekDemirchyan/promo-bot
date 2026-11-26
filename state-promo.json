@@ -3726,22 +3726,12 @@
    "Yerevan City|id:180469|600|485",
    "Yerevan City|id:16619|600|490",
    "Yerevan City|id:1934|595|495",
-   "Yerevan City|id:687|590|530"
+   "Yerevan City|id:687|590|530",
+   "Yerevan City|id:1860|590|530"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Մարինադ աշնանային «Արտֆուդ» 960գ",
-    "old": 1320,
-    "new": 1180,
-    "pct": 11,
-    "until": "31.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/161/746/7461961855149273.webp",
-    "url": "https://www.sas.am/catalog/baklazhan/711693/",
-    "key": "SAS|id:711693|1320|1180"
-   },
    {
     "store": "SAS",
     "title": "Ռոմ «Stroh 80» 0.7լ",
@@ -8121,12 +8111,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1047714.png",
     "url": "https://yerevan-city.am/shop/product-details/687",
     "key": "Yerevan City|id:687|590|530"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մակարոն-ռոժկի «Մակֆա» 400գր",
+    "old": 590,
+    "new": 530,
+    "pct": 10,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1058410.png",
+    "url": "https://yerevan-city.am/shop/product-details/1860",
+    "key": "Yerevan City|id:1860|590|530"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-26T15:47:05.623995+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-26T16:05:59.691118+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
