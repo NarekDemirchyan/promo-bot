@@ -1868,7 +1868,8 @@
    "SAS|id:830610|3250|1620",
    "SAS|id:711580|870|600",
    "SAS|id:952118|5270|2630",
-   "SAS|id:748602|1990|1650"
+   "SAS|id:748602|1990|1650",
+   "SAS|id:952117|7450|3720"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3761,7 +3762,8 @@
    "Yerevan City|id:10071|590|530",
    "Yerevan City|id:12452|590|535",
    "Yerevan City|id:195909|590|450",
-   "Yerevan City|id:14208|590|530"
+   "Yerevan City|id:14208|590|530",
+   "Yerevan City|id:6583|590|390"
   ]
  },
  "queues": {
@@ -5954,6 +5956,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/ketchup_tomatnyy_sous/748602/",
     "key": "SAS|id:748602|1990|1650"
+   },
+   {
+    "store": "SAS",
+    "title": "Ֆլոմաստերներ գունավոր «Top Model Candy» 10 հատ",
+    "old": 7450,
+    "new": 3720,
+    "pct": 50,
+    "until": "01.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/429/395/3951983045009144.webp",
+    "url": "https://www.sas.am/catalog/vse_dlya_chercheniya/952117/",
+    "key": "SAS|id:952117|7450|3720"
    }
   ],
   "Yerevan City": [
@@ -8145,6 +8158,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1046827.png",
     "url": "https://yerevan-city.am/shop/product-details/14208",
     "key": "Yerevan City|id:14208|590|530"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գրչատուփ պլաստմասե երկտեղանի, սրիչով 807",
+    "old": 590,
+    "new": 390,
+    "pct": 34,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1090839.png",
+    "url": "https://yerevan-city.am/shop/product-details/6583",
+    "key": "Yerevan City|id:6583|590|390"
    }
   ]
  },
