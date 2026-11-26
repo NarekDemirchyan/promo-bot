@@ -1859,7 +1859,8 @@
    "SAS|id:624646|3250|1620",
    "SAS|id:384787|2990|2090",
    "SAS|id:167210|990|940",
-   "SAS|id:167230|990|940"
+   "SAS|id:167230|990|940",
+   "SAS|id:946655|750|520"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5936,20 +5937,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/202/909/9096912576994585.webp",
     "url": "https://www.sas.am/catalog/sok/167230/",
     "key": "SAS|id:167230|990|940"
+   },
+   {
+    "store": "SAS",
+    "title": "Զովացուցիչ գազավորված ըմպելիք «Galvanina Organic Bellini» 200մլ",
+    "old": 750,
+    "new": 520,
+    "pct": 31,
+    "until": "01.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/osvezhayushchiy_napitok/946655/",
+    "key": "SAS|id:946655|750|520"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Կանաչ ոլոռ «Կոոպոլիվա» 850մլ",
-    "old": 850,
-    "new": 780,
-    "pct": 8,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1048559.png",
-    "url": "https://yerevan-city.am/shop/product-details/8046",
-    "key": "Yerevan City|id:8046|850|780"
-   },
    {
     "store": "Yerevan City",
     "title": "Թեյ սև «Կուրտիս» շատ հատապտուղներ 20x1.7գր",
@@ -8142,8 +8143,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-26T21:32:17.466566+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-26T21:47:05.019360+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
