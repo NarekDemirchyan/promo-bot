@@ -1849,7 +1849,8 @@
    "SAS|id:936547|1050|520",
    "SAS|id:918657|2550|1780",
    "SAS|id:830603|3250|1620",
-   "SAS|id:611947|1590|790"
+   "SAS|id:611947|1590|790",
+   "SAS|id:167193|1210|1050"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5916,6 +5917,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/showergell/611947/",
     "key": "SAS|id:611947|1590|790"
+   },
+   {
+    "store": "SAS",
+    "title": "Հյութ արքայախնձորի «Sandora» 0.97լ",
+    "old": 1210,
+    "new": 1050,
+    "pct": 13,
+    "until": "05.01.2027",
+    "img": "",
+    "url": "https://www.sas.am/catalog/sok/167193/",
+    "key": "SAS|id:167193|1210|1050"
    }
   ],
   "Yerevan City": [
