@@ -1866,7 +1866,8 @@
    "SAS|id:363174|1100|770",
    "SAS|id:919272|3290|2300",
    "SAS|id:830610|3250|1620",
-   "SAS|id:711580|870|600"
+   "SAS|id:711580|870|600",
+   "SAS|id:952118|5270|2630"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3757,22 +3758,12 @@
    "Yerevan City|id:195912|590|450",
    "Yerevan City|id:8841|590|530",
    "Yerevan City|id:10071|590|530",
-   "Yerevan City|id:12452|590|535"
+   "Yerevan City|id:12452|590|535",
+   "Yerevan City|id:195909|590|450"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Հանքային ջուր «Nabeghlavi» 0.5լ",
-    "old": 540,
-    "new": 380,
-    "pct": 30,
-    "until": "05.01.2027",
-    "img": "",
-    "url": "https://www.sas.am/catalog/voda/31741/",
-    "key": "SAS|id:31741|540|380"
-   },
    {
     "store": "SAS",
     "title": "Յոգուրտ ազնվամորու «Երեմյան Փրոդաքթս» 130գ, յուղայնությունը՝ 2",
@@ -5950,6 +5941,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/789/346/3462851046398314.webp",
     "url": "https://www.sas.am/catalog/odnorazovaya/711580/",
     "key": "SAS|id:711580|870|600"
+   },
+   {
+    "store": "SAS",
+    "title": "Գրիչ գունավոր «Top Model Rainbow Glitter» 8 հատ",
+    "old": 5270,
+    "new": 2630,
+    "pct": 50,
+    "until": "01.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/374/872/8722393926752248.webp",
+    "url": "https://www.sas.am/catalog/ruchka_karandash/952118/",
+    "key": "SAS|id:952118|5270|2630"
    }
   ],
   "Yerevan City": [
@@ -8141,12 +8143,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1049475.png",
     "url": "https://yerevan-city.am/shop/product-details/12452",
     "key": "Yerevan City|id:12452|590|535"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տոնածառի խաղալիք «Գունդ» կանաչ 8սմ 1հտ",
+    "old": 590,
+    "new": 450,
+    "pct": 24,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1180704.png",
+    "url": "https://yerevan-city.am/shop/product-details/195909",
+    "key": "Yerevan City|id:195909|590|450"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-27T01:32:10.974751+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-27T01:47:00.628785+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
