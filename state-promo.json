@@ -1837,7 +1837,8 @@
    "SAS|id:919208|2190|1530",
    "SAS|id:919207|2190|1530",
    "SAS|id:135712|810|740",
-   "SAS|id:954468|5950|4150"
+   "SAS|id:954468|5950|4150",
+   "SAS|id:952121|4250|2120"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5892,20 +5893,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/stiralnyy_poroshok/954468/",
     "key": "SAS|id:954468|5950|4150"
+   },
+   {
+    "store": "SAS",
+    "title": "Մատիտներ գունավոր «Ylvi Flox» 6 հատ",
+    "old": 4250,
+    "new": 2120,
+    "pct": 50,
+    "until": "01.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/vse_dlya_chercheniya/952121/",
+    "key": "SAS|id:952121|4250|2120"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Հյութ «Ֆոնտանա» Էկզոտիկ, 8 միրգ 1լ",
-    "old": 790,
-    "new": 590,
-    "pct": 25,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1084893.png",
-    "url": "https://yerevan-city.am/shop/product-details/20799",
-    "key": "Yerevan City|id:20799|790|590"
-   },
    {
     "store": "Yerevan City",
     "title": "Հյութ «Ֆոնտանա» արքայախնձոր 1լ",
@@ -8098,8 +8099,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-26T07:01:21.438133+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-26T07:20:16.928290+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
