@@ -3708,7 +3708,8 @@
    "Yerevan City|id:180480|620|485",
    "Yerevan City|id:13296|615|540",
    "Yerevan City|id:4655|610|520",
-   "Yerevan City|id:96059|610|570"
+   "Yerevan City|id:96059|610|570",
+   "Yerevan City|id:1903|610|480"
   ]
  },
  "queues": {
@@ -8103,6 +8104,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1132071.png",
     "url": "https://yerevan-city.am/shop/product-details/96059",
     "key": "Yerevan City|id:96059|610|570"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կանաչ ոլոռ «Վերնետ» 425մլ",
+    "old": 610,
+    "new": 480,
+    "pct": 21,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1043873.png",
+    "url": "https://yerevan-city.am/shop/product-details/1903",
+    "key": "Yerevan City|id:1903|610|480"
    }
   ]
  },
