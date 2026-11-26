@@ -3730,7 +3730,8 @@
    "Yerevan City|id:1934|595|495",
    "Yerevan City|id:687|590|530",
    "Yerevan City|id:1860|590|530",
-   "Yerevan City|id:2834|590|530"
+   "Yerevan City|id:2834|590|530",
+   "Yerevan City|id:3463|590|530"
   ]
  },
  "queues": {
@@ -8125,6 +8126,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1041530.png",
     "url": "https://yerevan-city.am/shop/product-details/2834",
     "key": "Yerevan City|id:2834|590|530"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մակարոն-զսպանակ «Մակֆա» 400գր",
+    "old": 590,
+    "new": 530,
+    "pct": 10,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1050712.png",
+    "url": "https://yerevan-city.am/shop/product-details/3463",
+    "key": "Yerevan City|id:3463|590|530"
    }
   ]
  },
