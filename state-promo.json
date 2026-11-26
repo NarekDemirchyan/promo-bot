@@ -3754,7 +3754,8 @@
    "Yerevan City|id:7173|590|530",
    "Yerevan City|id:7674|590|530",
    "Yerevan City|id:195912|590|450",
-   "Yerevan City|id:8841|590|530"
+   "Yerevan City|id:8841|590|530",
+   "Yerevan City|id:10071|590|530"
   ]
  },
  "queues": {
@@ -8149,6 +8150,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1041096.png",
     "url": "https://yerevan-city.am/shop/product-details/8841",
     "key": "Yerevan City|id:8841|590|530"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մակարոն-կատար «Մակֆա» 400գր",
+    "old": 590,
+    "new": 530,
+    "pct": 10,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1039152.png",
+    "url": "https://yerevan-city.am/shop/product-details/10071",
+    "key": "Yerevan City|id:10071|590|530"
    }
   ]
  },
