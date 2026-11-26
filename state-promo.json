@@ -3720,17 +3720,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Կոկտեյլ կաթնային ելակի համով «Nestle Nesquik» 200մլ",
-    "old": 530,
-    "new": 460,
-    "pct": 13,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/105/376/3764154277547381.webp",
-    "url": "https://www.sas.am/catalog/slivki_kokteyl/756283/",
-    "key": "SAS|id:756283|530|460"
-   },
-   {
-    "store": "SAS",
     "title": "Արքայախնձորի շերտեր «Dole» 567գ",
     "old": 1830,
     "new": 1380,
@@ -8123,8 +8112,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-26T11:05:23.828571+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-26T11:32:21.917596+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
