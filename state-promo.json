@@ -3734,7 +3734,8 @@
    "Yerevan City|id:1860|590|530",
    "Yerevan City|id:2834|590|530",
    "Yerevan City|id:3463|590|530",
-   "Yerevan City|id:195915|590|450"
+   "Yerevan City|id:195915|590|450",
+   "Yerevan City|id:178139|590|340"
   ]
  },
  "queues": {
@@ -8129,6 +8130,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1180710.png",
     "url": "https://yerevan-city.am/shop/product-details/195915",
     "key": "Yerevan City|id:195915|590|450"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հացաման բամբուկ, կլոր 25х8սմ",
+    "old": 590,
+    "new": 340,
+    "pct": 42,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1171794.png",
+    "url": "https://yerevan-city.am/shop/product-details/178139",
+    "key": "Yerevan City|id:178139|590|340"
    }
   ]
  },
