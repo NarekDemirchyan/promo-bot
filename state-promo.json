@@ -3732,7 +3732,8 @@
    "Yerevan City|id:687|590|530",
    "Yerevan City|id:1860|590|530",
    "Yerevan City|id:2834|590|530",
-   "Yerevan City|id:3463|590|530"
+   "Yerevan City|id:3463|590|530",
+   "Yerevan City|id:195915|590|450"
   ]
  },
  "queues": {
@@ -8127,6 +8128,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1050712.png",
     "url": "https://yerevan-city.am/shop/product-details/3463",
     "key": "Yerevan City|id:3463|590|530"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տոնածառի խաղալիք «Գունդ» բուրգ.8սմ 1հտ",
+    "old": 590,
+    "new": 450,
+    "pct": 24,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1180710.png",
+    "url": "https://yerevan-city.am/shop/product-details/195915",
+    "key": "Yerevan City|id:195915|590|450"
    }
   ]
  },
