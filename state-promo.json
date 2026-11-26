@@ -3724,17 +3724,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Յոգուրտ հունական «Երեմյան Փրոդաքթս» 130գ",
-    "old": 330,
-    "new": 270,
-    "pct": 18,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/420/800/8002182648780090.webp",
-    "url": "https://www.sas.am/catalog/yogurt_puding/655813/",
-    "key": "SAS|id:655813|330|270"
-   },
-   {
-    "store": "SAS",
     "title": "Վարունգ մարինացված «Kuhne Sweet & Sour» 330գ",
     "old": 1550,
     "new": 1150,
@@ -8127,8 +8116,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-26T12:19:53.418553+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-26T12:46:05.235522+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
