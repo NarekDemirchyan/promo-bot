@@ -3696,22 +3696,12 @@
    "Yerevan City|id:180470|620|485",
    "Yerevan City|id:96171|620|520",
    "Yerevan City|id:179051|620|420",
-   "Yerevan City|id:180477|620|485"
+   "Yerevan City|id:180477|620|485",
+   "Yerevan City|id:180478|620|485"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Օղի «Stoli Original» 0.5լ",
-    "old": 8790,
-    "new": 8290,
-    "pct": 6,
-    "until": "08.01.2027",
-    "img": "",
-    "url": "https://www.sas.am/catalog/importnoe/781531/",
-    "key": "SAS|id:781531|8790|8290"
-   },
    {
     "store": "SAS",
     "title": "Պանիր կտրատած «Leerdammer Original Maxi» 160գ",
@@ -8091,12 +8081,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174204.png",
     "url": "https://yerevan-city.am/shop/product-details/180477",
     "key": "Yerevan City|id:180477|620|485"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հյութ պար.ըմպելիք «ՕԿՖ» Ֆերմ.հալվե-նուռ 500մլ",
+    "old": 620,
+    "new": 485,
+    "pct": 22,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174205.png",
+    "url": "https://yerevan-city.am/shop/product-details/180478",
+    "key": "Yerevan City|id:180478|620|485"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-26T06:17:06.273265+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-26T06:32:19.476137+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
