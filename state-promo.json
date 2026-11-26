@@ -1833,7 +1833,8 @@
    "SAS|id:278507|390|190",
    "SAS|id:167221|990|940",
    "SAS|id:829139|100|50",
-   "SAS|id:167197|1210|1050"
+   "SAS|id:167197|1210|1050",
+   "SAS|id:919208|2190|1530"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5884,6 +5885,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/835/165/1653962480381015.webp",
     "url": "https://www.sas.am/catalog/sok/167197/",
     "key": "SAS|id:167197|1210|1050"
+   },
+   {
+    "store": "SAS",
+    "title": "Սառը թեյ ձմերուկի «Bobba Bubble Tea Watermelon» 355մլ",
+    "old": 2190,
+    "new": 1530,
+    "pct": 30,
+    "until": "01.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/kholodnyy_/919208/",
+    "key": "SAS|id:919208|2190|1530"
    }
   ],
   "Yerevan City": [
