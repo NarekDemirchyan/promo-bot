@@ -3752,22 +3752,12 @@
    "Yerevan City|id:195913|590|450",
    "Yerevan City|id:7173|590|530",
    "Yerevan City|id:7674|590|530",
-   "Yerevan City|id:195912|590|450"
+   "Yerevan City|id:195912|590|450",
+   "Yerevan City|id:8841|590|530"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Արքայախնձորի կտորներ «Dole» 567գ",
-    "old": 1830,
-    "new": 1380,
-    "pct": 25,
-    "until": "05.01.2027",
-    "img": "",
-    "url": "https://www.sas.am/catalog/kompot/75169/",
-    "key": "SAS|id:75169|1830|1380"
-   },
    {
     "store": "SAS",
     "title": "Յոգուրտ ելակի «Երեմյան Փրոդաքթս» 130գ, յուղայնությունը՝ 2",
@@ -8147,12 +8137,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1180705.png",
     "url": "https://yerevan-city.am/shop/product-details/195912",
     "key": "Yerevan City|id:195912|590|450"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մակարոն-խխունջ «Մակֆա» 400գր",
+    "old": 590,
+    "new": 530,
+    "pct": 10,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1041096.png",
+    "url": "https://yerevan-city.am/shop/product-details/8841",
+    "key": "Yerevan City|id:8841|590|530"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-27T00:17:15.999068+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-27T00:32:19.981385+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
