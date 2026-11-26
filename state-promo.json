@@ -3706,22 +3706,12 @@
    "Yerevan City|id:180479|620|485",
    "Yerevan City|id:180480|620|485",
    "Yerevan City|id:13296|615|540",
-   "Yerevan City|id:4655|610|520"
+   "Yerevan City|id:4655|610|520",
+   "Yerevan City|id:96059|610|570"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Շնապս «Pircher Williams» 0.7լ",
-    "old": 23900,
-    "new": 16730,
-    "pct": 30,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/drugie_alkogolnye_napitki/375965/",
-    "key": "SAS|id:375965|23900|16730"
-   },
    {
     "store": "SAS",
     "title": "Շամպուն «Syoss Intense Plex» 440մլ",
@@ -8101,12 +8091,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1068428.png",
     "url": "https://yerevan-city.am/shop/product-details/4655",
     "key": "Yerevan City|id:4655|610|520"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Խտացրած կաթ «Գուստիյար» 0.2% թ/տ 370գր",
+    "old": 610,
+    "new": 570,
+    "pct": 7,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1132071.png",
+    "url": "https://yerevan-city.am/shop/product-details/96059",
+    "key": "Yerevan City|id:96059|610|570"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-26T09:17:05.692750+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-26T09:32:21.657088+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
