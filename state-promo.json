@@ -1857,7 +1857,8 @@
    "SAS|id:946717|2250|1120",
    "SAS|id:839193|2990|2090",
    "SAS|id:624646|3250|1620",
-   "SAS|id:384787|2990|2090"
+   "SAS|id:384787|2990|2090",
+   "SAS|id:167210|990|940"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5932,20 +5933,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/169/809/8095363577340508.webp",
     "url": "https://www.sas.am/catalog/opolaskivatel_konditsioner_kontsentrat/384787/",
     "key": "SAS|id:384787|2990|2090"
+   },
+   {
+    "store": "SAS",
+    "title": "Հյութ խնձորի «Sandora» 0.97լ",
+    "old": 990,
+    "new": 940,
+    "pct": 5,
+    "until": "05.01.2027",
+    "img": "https://www.sas.am/upload/Sh/imageCache/399/177/1775221022521599.webp",
+    "url": "https://www.sas.am/catalog/sok/167210/",
+    "key": "SAS|id:167210|990|940"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Արևածաղկի ձեթ «Մասլովնա» 1լ",
-    "old": 850,
-    "new": 785,
-    "pct": 8,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1111430.png",
-    "url": "https://yerevan-city.am/shop/product-details/64538",
-    "key": "Yerevan City|id:64538|850|785"
-   },
    {
     "store": "Yerevan City",
     "title": "Թեյ սև «Կուրտիս» մանգո, հատապտուղներ 20x1.7գր",
@@ -8138,8 +8139,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-26T20:17:04.046785+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-26T20:32:16.837777+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
