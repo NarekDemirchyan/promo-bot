@@ -3702,22 +3702,12 @@
    "Yerevan City|id:180477|620|485",
    "Yerevan City|id:180478|620|485",
    "Yerevan City|id:180479|620|485",
-   "Yerevan City|id:180480|620|485"
+   "Yerevan City|id:180480|620|485",
+   "Yerevan City|id:13296|615|540"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Փրփրուն գինի «Mionetto Prosecco Brut» 0.2լ",
-    "old": 2990,
-    "new": 2490,
-    "pct": 17,
-    "until": "08.01.2027",
-    "img": "",
-    "url": "https://www.sas.am/catalog/shampanskoe_igristoe_vino/489908/",
-    "key": "SAS|id:489908|2990|2490"
-   },
    {
     "store": "SAS",
     "title": "Թխվածքաբլիթ շոկոլադե «Gullon Ronditas» 186գ",
@@ -8097,12 +8087,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174207.png",
     "url": "https://yerevan-city.am/shop/product-details/180480",
     "key": "Yerevan City|id:180480|620|485"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հանքային ջուր «Բորժոմի» պ/տ 1լ",
+    "old": 615,
+    "new": 540,
+    "pct": 12,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1048081.png",
+    "url": "https://yerevan-city.am/shop/product-details/13296",
+    "key": "Yerevan City|id:13296|615|540"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-26T08:02:29.877891+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-26T08:17:09.625724+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
