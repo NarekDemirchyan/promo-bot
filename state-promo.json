@@ -3738,7 +3738,8 @@
    "Yerevan City|id:3463|590|530",
    "Yerevan City|id:195915|590|450",
    "Yerevan City|id:178139|590|340",
-   "Yerevan City|id:16265|590|530"
+   "Yerevan City|id:16265|590|530",
+   "Yerevan City|id:3630|590|530"
   ]
  },
  "queues": {
@@ -8133,6 +8134,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1042078.png",
     "url": "https://yerevan-city.am/shop/product-details/16265",
     "key": "Yerevan City|id:16265|590|530"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մակարոն-ձողիկներ «Մակֆա» 400գր",
+    "old": 590,
+    "new": 530,
+    "pct": 10,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1073026.png",
+    "url": "https://yerevan-city.am/shop/product-details/3630",
+    "key": "Yerevan City|id:3630|590|530"
    }
   ]
  },
