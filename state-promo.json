@@ -3708,17 +3708,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Ըմպելիք սպիտակուցային ելակի համով «Parmalat» 500մլ",
-    "old": 1350,
-    "new": 1050,
-    "pct": 22,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/404/001/0015203135903600.webp",
-    "url": "https://www.sas.am/catalog/slivki_kokteyl/756209/",
-    "key": "SAS|id:756209|1350|1050"
-   },
-   {
-    "store": "SAS",
     "title": "Փրփրուն գինի «Mionetto Prosecco Brut» 0.2լ",
     "old": 2990,
     "new": 2490,
@@ -8111,8 +8100,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-26T07:20:16.928290+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-26T07:34:51.063489+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
