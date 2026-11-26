@@ -1844,7 +1844,8 @@
    "SAS|id:5714|590|410",
    "SAS|id:167203|1210|1050",
    "SAS|id:952119|5480|2740",
-   "SAS|id:384788|5190|3630"
+   "SAS|id:384788|5190|3630",
+   "SAS|id:937086|1950|970"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5906,20 +5907,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/stiralnyy_poroshok/384788/",
     "key": "SAS|id:384788|5190|3630"
+   },
+   {
+    "store": "SAS",
+    "title": "Սափրվելու փրփուր «Gillette XL Original Sensitive» 300մլ",
+    "old": 1950,
+    "new": 970,
+    "pct": 50,
+    "until": "01.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/350/362/3629693169699376.webp",
+    "url": "https://www.sas.am/catalog/pena_gel_dlya_britya/937086/",
+    "key": "SAS|id:937086|1950|970"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Նոթատետր կողպեքով",
-    "old": 890,
-    "new": 490,
-    "pct": 45,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1172174.png",
-    "url": "https://yerevan-city.am/shop/product-details/178477",
-    "key": "Yerevan City|id:178477|890|490"
-   },
    {
     "store": "Yerevan City",
     "title": "Ատրճանակ սպունգանման փամփուշտներով 2հտ 2255-10",
@@ -8112,8 +8113,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-26T11:32:21.917596+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-26T11:47:12.314468+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
