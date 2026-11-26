@@ -1839,7 +1839,8 @@
    "SAS|id:135712|810|740",
    "SAS|id:954468|5950|4150",
    "SAS|id:952121|4250|2120",
-   "SAS|id:952120|3970|1980"
+   "SAS|id:952120|3970|1980",
+   "SAS|id:711518|590|410"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3703,22 +3704,12 @@
    "Yerevan City|id:180478|620|485",
    "Yerevan City|id:180479|620|485",
    "Yerevan City|id:180480|620|485",
-   "Yerevan City|id:13296|615|540"
+   "Yerevan City|id:13296|615|540",
+   "Yerevan City|id:4655|610|520"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Թխվածքաբլիթ շոկոլադե «Gullon Ronditas» 186գ",
-    "old": 1790,
-    "new": 1630,
-    "pct": 9,
-    "until": "30.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/223/657/6577523786181636.webp",
-    "url": "https://www.sas.am/catalog/pechene_pryaniki/629343/",
-    "key": "SAS|id:629343|1790|1630"
-   },
    {
     "store": "SAS",
     "title": "Շնապս «Pircher Williams» 0.7լ",
@@ -5896,6 +5887,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/419/114/1142123021513056.webp",
     "url": "https://www.sas.am/catalog/vse_dlya_chercheniya/952120/",
     "key": "SAS|id:952120|3970|1980"
+   },
+   {
+    "store": "SAS",
+    "title": "Մեկանգամյա օգտագործման պատառաքաղներ 18 հատ",
+    "old": 590,
+    "new": 410,
+    "pct": 31,
+    "until": "01.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/378/853/8530922122712592.webp",
+    "url": "https://www.sas.am/catalog/odnorazovaya/711518/",
+    "key": "SAS|id:711518|590|410"
    }
   ],
   "Yerevan City": [
@@ -8087,12 +8089,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1048081.png",
     "url": "https://yerevan-city.am/shop/product-details/13296",
     "key": "Yerevan City|id:13296|615|540"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Անձեռոցիկներ «Սիլկ Սոֆթ» եռաշերտ 150հտ",
+    "old": 610,
+    "new": 520,
+    "pct": 15,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1068428.png",
+    "url": "https://yerevan-city.am/shop/product-details/4655",
+    "key": "Yerevan City|id:4655|610|520"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-26T08:31:14.670050+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-26T08:49:29.859123+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
