@@ -3758,17 +3758,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Շոկոլադե սալիկ դառը «Schogetten» 100գ",
-    "old": 1130,
-    "new": 920,
-    "pct": 19,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/plitka/206652/",
-    "key": "SAS|id:206652|1130|920"
-   },
-   {
-    "store": "SAS",
     "title": "Արքայախնձորի կտորներ «Dole» 567գ",
     "old": 1830,
     "new": 1380,
@@ -8161,8 +8150,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-26T23:34:59.847401+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-27T00:02:45.021777+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
@@ -8171,7 +8160,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 86,
+ "city_page": 87,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
