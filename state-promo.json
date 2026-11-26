@@ -3690,22 +3690,12 @@
    "Yerevan City|id:193918|650|390",
    "Yerevan City|id:16430|630|564",
    "Yerevan City|id:69482|620|590",
-   "Yerevan City|id:180470|620|485"
+   "Yerevan City|id:180470|620|485",
+   "Yerevan City|id:96171|620|520"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Սերուցք «President» 200գ, յուղայնությունը`11",
-    "old": 690,
-    "new": 520,
-    "pct": 25,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/slivki_kokteyl/651870/",
-    "key": "SAS|id:651870|690|520"
-   },
    {
     "store": "SAS",
     "title": "Հեղուկ օճառ հակաբակտերիալ «Malizia» 300մլ",
@@ -8085,12 +8075,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174203.png",
     "url": "https://yerevan-city.am/shop/product-details/180470",
     "key": "Yerevan City|id:180470|620|485"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Բատոնչիկ պրոտեինային «Շոկ Ֆիթնես» կոկոս, ա/շ 50գ",
+    "old": 620,
+    "new": 520,
+    "pct": 16,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1132181.png",
+    "url": "https://yerevan-city.am/shop/product-details/96171",
+    "key": "Yerevan City|id:96171|620|520"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-26T04:17:14.513092+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-26T04:35:03.219388+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
