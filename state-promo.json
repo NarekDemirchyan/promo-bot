@@ -3712,7 +3712,8 @@
    "Yerevan City|id:4655|610|520",
    "Yerevan City|id:96059|610|570",
    "Yerevan City|id:1903|610|480",
-   "Yerevan City|id:5327|610|480"
+   "Yerevan City|id:5327|610|480",
+   "Yerevan City|id:9953|610|510"
   ]
  },
  "queues": {
@@ -8107,6 +8108,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1040448.png",
     "url": "https://yerevan-city.am/shop/product-details/5327",
     "key": "Yerevan City|id:5327|610|480"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Լոբի «Բոնդյուել» սպիտակ, դասական 425մլ",
+    "old": 610,
+    "new": 510,
+    "pct": 16,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1040635.png",
+    "url": "https://yerevan-city.am/shop/product-details/9953",
+    "key": "Yerevan City|id:9953|610|510"
    }
   ]
  },
