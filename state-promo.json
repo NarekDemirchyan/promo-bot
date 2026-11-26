@@ -1853,7 +1853,8 @@
    "SAS|id:167193|1210|1050",
    "SAS|id:946723|2250|1120",
    "SAS|id:711492|3950|2750",
-   "SAS|id:936589|3990|2790"
+   "SAS|id:936589|3990|2790",
+   "SAS|id:946717|2250|1120"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5924,20 +5925,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/kotlety/936589/",
     "key": "SAS|id:936589|3990|2790"
+   },
+   {
+    "store": "SAS",
+    "title": "Մարմնի լոսյոն «Vaseline Cocoa Radiant» 295մլ",
+    "old": 2250,
+    "new": 1120,
+    "pct": 50,
+    "until": "01.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/366/628/628969522600427.webp",
+    "url": "https://www.sas.am/catalog/vse_dlya_ukhoda_za_telom_ustarelo/946717/",
+    "key": "SAS|id:946717|2250|1120"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Թեյ սև «Ռիչարդ» Ռոյալ ցեյլոն 25x2գր",
-    "old": 850,
-    "new": 690,
-    "pct": 19,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1065756.png",
-    "url": "https://yerevan-city.am/shop/product-details/10355",
-    "key": "Yerevan City|id:10355|850|690"
-   },
    {
     "store": "Yerevan City",
     "title": "Հեղուկ օճառ «Գրասս» Միլանա, հալվե 500մլ",
@@ -8130,8 +8131,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-26T17:17:54.031818+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-26T17:32:18.048364+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
