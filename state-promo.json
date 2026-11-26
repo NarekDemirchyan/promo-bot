@@ -3740,22 +3740,12 @@
    "Yerevan City|id:195915|590|450",
    "Yerevan City|id:178139|590|340",
    "Yerevan City|id:16265|590|530",
-   "Yerevan City|id:3630|590|530"
+   "Yerevan City|id:3630|590|530",
+   "Yerevan City|id:6441|590|530"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Գինի վարդագույն «Արյաց» 0.75լ",
-    "old": 5990,
-    "new": 4490,
-    "pct": 25,
-    "until": "08.01.2027",
-    "img": "https://www.sas.am/upload/Sh/imageCache/398/207/2077024263822541.webp",
-    "url": "https://www.sas.am/catalog/armyanskoe_vino/29088/",
-    "key": "SAS|id:29088|5990|4490"
-   },
    {
     "store": "SAS",
     "title": "Գինի նռան «365 Դասական» 0.75լ",
@@ -8135,12 +8125,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1073026.png",
     "url": "https://yerevan-city.am/shop/product-details/3630",
     "key": "Yerevan City|id:3630|590|530"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Վերմիշել «Մակֆա» 400գր",
+    "old": 590,
+    "new": 530,
+    "pct": 10,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1052268.png",
+    "url": "https://yerevan-city.am/shop/product-details/6441",
+    "key": "Yerevan City|id:6441|590|530"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-26T20:32:16.837777+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-26T20:47:07.862206+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
