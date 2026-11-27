@@ -1908,7 +1908,8 @@
    "SAS|id:541189|390|350",
    "SAS|id:135517|750|680",
    "SAS|id:37048|570|530",
-   "SAS|id:832204|550|370"
+   "SAS|id:832204|550|370",
+   "SAS|id:828240|4950|2470"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3841,7 +3842,8 @@
    "Yerevan City|id:130566|590|295",
    "Yerevan City|id:191526|590|390",
    "Yerevan City|id:161381|590|295",
-   "Yerevan City|id:175366|590|295"
+   "Yerevan City|id:175366|590|295",
+   "Yerevan City|id:176353|590|350"
   ]
  },
  "queues": {
@@ -6034,6 +6036,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/244/938/938004499676756.webp",
     "url": "https://www.sas.am/catalog/slivki_kokteyl/832204/",
     "key": "SAS|id:832204|550|370"
+   },
+   {
+    "store": "SAS",
+    "title": "Բերանի խոռոչի ողողման հեղուկ «Colgate» 10*20մլ",
+    "old": 4950,
+    "new": 2470,
+    "pct": 50,
+    "until": "01.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/757/450/450178714192312.webp",
+    "url": "https://www.sas.am/catalog/opalaskivatel_rta/828240/",
+    "key": "SAS|id:828240|4950|2470"
    }
   ],
   "Yerevan City": [
@@ -8225,6 +8238,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168995.png",
     "url": "https://yerevan-city.am/shop/product-details/175366",
     "key": "Yerevan City|id:175366|590|295"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Չխկչխկան խաղալիք-ձող, գնդերով Հ9001-5Ց",
+    "old": 590,
+    "new": 350,
+    "pct": 41,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1169984.png",
+    "url": "https://yerevan-city.am/shop/product-details/176353",
+    "key": "Yerevan City|id:176353|590|350"
    }
   ]
  },
