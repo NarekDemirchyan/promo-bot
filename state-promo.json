@@ -3776,7 +3776,8 @@
    "Yerevan City|id:195904|590|450",
    "Yerevan City|id:16312|590|530",
    "Yerevan City|id:36821|590|440",
-   "Yerevan City|id:195903|590|450"
+   "Yerevan City|id:195903|590|450",
+   "Yerevan City|id:24782|590|390"
   ]
  },
  "queues": {
@@ -8171,6 +8172,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1180695.png",
     "url": "https://yerevan-city.am/shop/product-details/195903",
     "key": "Yerevan City|id:195903|590|450"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կոշիկի միջատակ ՑՈւայ-445",
+    "old": 590,
+    "new": 390,
+    "pct": 34,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1092933.png",
+    "url": "https://yerevan-city.am/shop/product-details/24782",
+    "key": "Yerevan City|id:24782|590|390"
    }
   ]
  },
