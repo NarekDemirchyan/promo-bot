@@ -3786,22 +3786,12 @@
    "Yerevan City|id:51971|590|470",
    "Yerevan City|id:25410|590|510",
    "Yerevan City|id:114314|590|440",
-   "Yerevan City|id:173164|590|470"
+   "Yerevan City|id:173164|590|470",
+   "Yerevan City|id:173165|590|470"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Օղի ծիրանի «Միջնաբերդ Ռեզերվ» 0.5լ",
-    "old": 11900,
-    "new": 10290,
-    "pct": 14,
-    "until": "08.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/386/029/0290403779393949.webp",
-    "url": "https://www.sas.am/catalog/armyanskoe_vodka/256498/",
-    "key": "SAS|id:256498|11900|10290"
-   },
    {
     "store": "SAS",
     "title": "Ըմպելիք իզոտոնային հատապտուղների և մրգերի «Fitness Shock» 500մլ",
@@ -8181,12 +8171,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1166756.png",
     "url": "https://yerevan-city.am/shop/product-details/173164",
     "key": "Yerevan City|id:173164|590|470"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Բատոնչիկ պրոտ. «Փաուեր Պրո» Թվինս, շոկ.թխ.ա/շ/գ40գր",
+    "old": 590,
+    "new": 470,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1166757.png",
+    "url": "https://yerevan-city.am/shop/product-details/173165",
+    "key": "Yerevan City|id:173165|590|470"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-27T07:50:21.103751+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-27T08:04:48.667000+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
