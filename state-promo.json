@@ -3774,22 +3774,12 @@
    "Yerevan City|id:195906|590|450",
    "Yerevan City|id:195904|590|450",
    "Yerevan City|id:16312|590|530",
-   "Yerevan City|id:36821|590|440"
+   "Yerevan City|id:36821|590|440",
+   "Yerevan City|id:195903|590|450"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կրեկերներ պանրի համով «Croco Salt» 400գ",
-    "old": 1460,
-    "new": 1350,
-    "pct": 8,
-    "until": "30.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/170/648/6480512161017183.webp",
-    "url": "https://www.sas.am/catalog/krekery_solenye_palochki/528228/",
-    "key": "SAS|id:528228|1460|1350"
-   },
    {
     "store": "SAS",
     "title": "Լոգանքի փրփուր «Malizia» 300մլ",
@@ -8169,12 +8159,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1082518.png",
     "url": "https://yerevan-city.am/shop/product-details/36821",
     "key": "Yerevan City|id:36821|590|440"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տոնածառի խաղալիք «Գունդ» շագանակ.8սմ 1հտ",
+    "old": 590,
+    "new": 450,
+    "pct": 24,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1180695.png",
+    "url": "https://yerevan-city.am/shop/product-details/195903",
+    "key": "Yerevan City|id:195903|590|450"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-27T04:47:07.909375+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-27T05:01:18.792518+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
