@@ -1892,7 +1892,8 @@
    "SAS|id:711491|3950|2750",
    "SAS|id:748604|1990|1650",
    "SAS|id:565312|3690|1840",
-   "SAS|id:624702|3250|1620"
+   "SAS|id:624702|3250|1620",
+   "SAS|id:557675|3280|2350"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -6002,6 +6003,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/forthekitchen/624702/",
     "key": "SAS|id:624702|3250|1620"
+   },
+   {
+    "store": "SAS",
+    "title": "Շոկոլադե կոնֆետների հավաքածու «Merci» 250գ",
+    "old": 3280,
+    "new": 2350,
+    "pct": 28,
+    "until": "15.01.2027",
+    "img": "https://www.sas.am/upload/Sh/imageCache/274/054/054419596138317.webp",
+    "url": "https://www.sas.am/catalog/nabory_konfet/557675/",
+    "key": "SAS|id:557675|3280|2350"
    }
   ],
   "Yerevan City": [
