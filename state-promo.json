@@ -1888,7 +1888,8 @@
    "SAS|id:924703|3290|2290",
    "SAS|id:63513|950|830",
    "SAS|id:903989|2190|990",
-   "SAS|id:886806|2250|1570"
+   "SAS|id:886806|2250|1570",
+   "SAS|id:711491|3950|2750"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5994,20 +5995,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/khlebtsy/886806/",
     "key": "SAS|id:886806|2250|1570"
+   },
+   {
+    "store": "SAS",
+    "title": "Մազերի կոնդիցիոներ \"Luxliss Brightening Hair Care\" 500մլ",
+    "old": 3950,
+    "new": 2750,
+    "pct": 30,
+    "until": "01.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/275/109/1092941060088857.webp",
+    "url": "https://www.sas.am/catalog/balzam_dlya_volos/711491/",
+    "key": "SAS|id:711491|3950|2750"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Սոուս «Հելլմաննս» Խորոված 200գր",
-    "old": 740,
-    "new": 370,
-    "pct": 50,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177288.png",
-    "url": "https://yerevan-city.am/shop/product-details/193530",
-    "key": "Yerevan City|id:193530|740|370"
-   },
    {
     "store": "Yerevan City",
     "title": "Սոուս «Հելլմաննս» Կեսար 200գր",
@@ -8200,8 +8201,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-27T12:32:55.800400+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-27T12:49:12.126190+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
