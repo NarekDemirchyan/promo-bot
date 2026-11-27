@@ -3800,22 +3800,12 @@
    "Yerevan City|id:195902|590|450",
    "Yerevan City|id:194034|590|360",
    "Yerevan City|id:192939|590|440",
-   "Yerevan City|id:192477|590|408"
+   "Yerevan City|id:192477|590|408",
+   "Yerevan City|id:192462|590|380"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Տեկիլա «Lokita Blanco» 0.7լ",
-    "old": 27900,
-    "new": 24900,
-    "pct": 11,
-    "until": "08.01.2027",
-    "img": "https://www.sas.am/upload/Sh/imageCache/267/462/4622503397366083.webp",
-    "url": "https://www.sas.am/catalog/rom_i_tekilla/652028/",
-    "key": "SAS|id:652028|27900|24900"
-   },
    {
     "store": "SAS",
     "title": "Տեկիլա «Lamborghini Anejo» 0.75լ",
@@ -8195,12 +8185,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176210.png",
     "url": "https://yerevan-city.am/shop/product-details/192477",
     "key": "Yerevan City|id:192477|590|408"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թխվածք պրոտեինային «Ռեքս-Պայ» վանիլային ա/շ 30գր",
+    "old": 590,
+    "new": 380,
+    "pct": 36,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176155.png",
+    "url": "https://yerevan-city.am/shop/product-details/192462",
+    "key": "Yerevan City|id:192462|590|380"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-27T12:17:12.587673+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-27T12:32:55.800400+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
