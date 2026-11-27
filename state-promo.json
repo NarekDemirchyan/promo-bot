@@ -1901,7 +1901,8 @@
    "SAS|id:169027|950|790",
    "SAS|id:930227|8950|4470",
    "SAS|id:786264|1950|970",
-   "SAS|id:624714|3250|1620"
+   "SAS|id:624714|3250|1620",
+   "SAS|id:169043|950|790"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -6020,20 +6021,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/230/800/8002253961104919.webp",
     "url": "https://www.sas.am/catalog/dlya_santekhniki/624714/",
     "key": "SAS|id:624714|3250|1620"
+   },
+   {
+    "store": "SAS",
+    "title": "Սոուս տերիյակի «Heinz Терияки» 200գ",
+    "old": 950,
+    "new": 790,
+    "pct": 17,
+    "until": "31.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/sous/169043/",
+    "key": "SAS|id:169043|950|790"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Միջադիրներ «Լիբրես» նեյչրալ քեյր, գիշերային 7հտ",
-    "old": 740,
-    "new": 660,
-    "pct": 11,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1074079.png",
-    "url": "https://yerevan-city.am/shop/product-details/7067",
-    "key": "Yerevan City|id:7067|740|660"
-   },
    {
     "store": "Yerevan City",
     "title": "Զուգարանի թուղթ «Զեմմա» Պլյուս, օվկիանոսի թարմություն, երկշերտ 4հտ",
@@ -8226,8 +8227,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-27T21:17:24.981625+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-27T21:34:14.900095+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
