@@ -3784,17 +3784,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Լոգանքի փրփուր «Malizia» 300մլ",
-    "old": 930,
-    "new": 770,
-    "pct": 17,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/showergell/513760/",
-    "key": "SAS|id:513760|930|770"
-   },
-   {
-    "store": "SAS",
     "title": "Սուրճ հատիկավոր «Egoiste Truffle» 250գ",
     "old": 5590,
     "new": 5250,
@@ -5984,17 +5973,6 @@
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Հյութ պար.ըմպելիք «Մոջտաբա» նուռ 950մլ",
-    "old": 780,
-    "new": 620,
-    "pct": 21,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1166274.png",
-    "url": "https://yerevan-city.am/shop/product-details/172686",
-    "key": "Yerevan City|id:172686|780|620"
-   },
    {
     "store": "Yerevan City",
     "title": "Շպրոտ «Տրալ Ֆլոտ» ձեթի մեջ 160գր",
@@ -8188,7 +8166,7 @@
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-27T05:20:11.590723+04:00",
+ "last_publish": "2026-11-27T05:50:50.637819+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
