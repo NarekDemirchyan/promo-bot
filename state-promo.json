@@ -3843,17 +3843,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Գինի վարդագույն «Օրրան Արենի և Մալբեկ» 0.75լ",
-    "old": 2760,
-    "new": 2550,
-    "pct": 8,
-    "until": "08.01.2027",
-    "img": "",
-    "url": "https://www.sas.am/catalog/armyanskoe_vino/612185/",
-    "key": "SAS|id:612185|2760|2550"
-   },
-   {
-    "store": "SAS",
     "title": "Նագեթներ հավի պանրով «Բեկոն» 350գ",
     "old": 1840,
     "new": 1570,
@@ -8235,8 +8224,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-27T23:49:09.786083+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-28T00:17:15.582892+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
@@ -8245,7 +8234,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 90,
+ "city_page": 91,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
