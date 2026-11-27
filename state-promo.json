@@ -1904,7 +1904,8 @@
    "SAS|id:624714|3250|1620",
    "SAS|id:169043|950|790",
    "SAS|id:624640|3250|1620",
-   "SAS|id:946726|2250|1120"
+   "SAS|id:946726|2250|1120",
+   "SAS|id:541189|390|350"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3833,22 +3834,12 @@
    "Yerevan City|id:75783|590|295",
    "Yerevan City|id:174709|590|295",
    "Yerevan City|id:173917|590|350",
-   "Yerevan City|id:128887|590|295"
+   "Yerevan City|id:128887|590|295",
+   "Yerevan City|id:130566|590|295"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Խտացրած կաթ «Коровка из Кореновки» 360գ, յուղայնությունը` 8.5",
-    "old": 980,
-    "new": 880,
-    "pct": 10,
-    "until": "31.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/109/862/8629853488220565.webp",
-    "url": "https://www.sas.am/catalog/sgushchennoe_moloko/158899/",
-    "key": "SAS|id:158899|980|880"
-   },
    {
     "store": "SAS",
     "title": "Գինի վարդագույն «Օրրան Արենի և Մալբեկ» 0.75լ",
@@ -6026,6 +6017,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/133/301/3018503277456657.webp",
     "url": "https://www.sas.am/catalog/vse_dlya_ukhoda_za_telom_ustarelo/946726/",
     "key": "SAS|id:946726|2250|1120"
+   },
+   {
+    "store": "SAS",
+    "title": "Խտացրած կաթ «Алексеевское» 100գ, յուղայնությունը` 8.5",
+    "old": 390,
+    "new": 350,
+    "pct": 10,
+    "until": "31.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/sgushchennoe_moloko/541189/",
+    "key": "SAS|id:541189|390|350"
    }
   ],
   "Yerevan City": [
@@ -8217,12 +8219,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1148702.png",
     "url": "https://yerevan-city.am/shop/product-details/128887",
     "key": "Yerevan City|id:128887|590|295"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տոնածառի խաղ. «Հրեշտակ» 14սմ",
+    "old": 590,
+    "new": 295,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1150211.png",
+    "url": "https://yerevan-city.am/shop/product-details/130566",
+    "key": "Yerevan City|id:130566|590|295"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-27T23:17:09.687673+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-27T23:32:42.873913+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
