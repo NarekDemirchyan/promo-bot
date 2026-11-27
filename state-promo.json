@@ -3783,7 +3783,8 @@
    "Yerevan City|id:24782|590|390",
    "Yerevan City|id:51971|590|470",
    "Yerevan City|id:25410|590|510",
-   "Yerevan City|id:114314|590|440"
+   "Yerevan City|id:114314|590|440",
+   "Yerevan City|id:173164|590|470"
   ]
  },
  "queues": {
@@ -8167,6 +8168,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1099493.png",
     "url": "https://yerevan-city.am/shop/product-details/114314",
     "key": "Yerevan City|id:114314|590|440"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Բատոնչիկ պրոտ. «Փաուեր Պրո» Թվինս, վան.թխ.ա/շ/գ40գր",
+    "old": 590,
+    "new": 470,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1166756.png",
+    "url": "https://yerevan-city.am/shop/product-details/173164",
+    "key": "Yerevan City|id:173164|590|470"
    }
   ]
  },
