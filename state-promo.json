@@ -3850,22 +3850,12 @@
    "Yerevan City|id:176353|590|350",
    "Yerevan City|id:178062|590|350",
    "Yerevan City|id:180762|590|450",
-   "Yerevan City|id:113183|590|510"
+   "Yerevan City|id:113183|590|510",
+   "Yerevan City|id:92628|590|350"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Մարմելադե կոնֆետներ «Mamba Фрумеладки» 140գ",
-    "old": 970,
-    "new": 790,
-    "pct": 19,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/zhele_plastila/2574/",
-    "key": "SAS|id:2574|970|790"
-   },
    {
     "store": "SAS",
     "title": "Հյութ լոլիկի «Արտֆուդ» 1լ",
@@ -8245,12 +8235,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1143620.png",
     "url": "https://yerevan-city.am/shop/product-details/113183",
     "key": "Yerevan City|id:113183|590|510"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սառնաշաքար «Հոլլս» Սութերս, սև հաղարջ 45գր",
+    "old": 590,
+    "new": 350,
+    "pct": 41,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1129533.png",
+    "url": "https://yerevan-city.am/shop/product-details/92628",
+    "key": "Yerevan City|id:92628|590|350"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-28T03:02:38.801510+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-28T03:17:42.446496+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
