@@ -3808,22 +3808,12 @@
    "Yerevan City|id:192462|590|380",
    "Yerevan City|id:192414|590|390",
    "Yerevan City|id:191593|590|295",
-   "Yerevan City|id:191734|590|360"
+   "Yerevan City|id:191734|590|360",
+   "Yerevan City|id:169507|590|310"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Մեղր բնական «Ալպիան» 300գ",
-    "old": 4990,
-    "new": 3790,
-    "pct": 24,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/armyanskiy_mjod/629257/",
-    "key": "SAS|id:629257|4990|3790"
-   },
    {
     "store": "SAS",
     "title": "Մեղր բնական «Ալպիան» 320գ",
@@ -8203,12 +8193,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175456.png",
     "url": "https://yerevan-city.am/shop/product-details/191734",
     "key": "Yerevan City|id:191734|590|360"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մաքրող փոշի «Գրանվալդ» կիտրոն 500գր",
+    "old": 590,
+    "new": 310,
+    "pct": 47,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1163347.png",
+    "url": "https://yerevan-city.am/shop/product-details/169507",
+    "key": "Yerevan City|id:169507|590|310"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-27T14:48:21.945939+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-27T15:04:35.296155+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
