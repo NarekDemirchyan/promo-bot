@@ -3812,7 +3812,8 @@
    "Yerevan City|id:191593|590|295",
    "Yerevan City|id:191734|590|360",
    "Yerevan City|id:169507|590|310",
-   "Yerevan City|id:154311|590|500"
+   "Yerevan City|id:154311|590|500",
+   "Yerevan City|id:161386|590|295"
   ]
  },
  "queues": {
@@ -8207,6 +8208,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1154364.png",
     "url": "https://yerevan-city.am/shop/product-details/154311",
     "key": "Yerevan City|id:154311|590|500"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տոնածառի խաղ. «Եղնիկ» մարգ.մորթի ոսկ. 1հտ 639",
+    "old": 590,
+    "new": 295,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1159020.png",
+    "url": "https://yerevan-city.am/shop/product-details/161386",
+    "key": "Yerevan City|id:161386|590|295"
    }
   ]
  },
