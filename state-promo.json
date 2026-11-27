@@ -1902,7 +1902,8 @@
    "SAS|id:930227|8950|4470",
    "SAS|id:786264|1950|970",
    "SAS|id:624714|3250|1620",
-   "SAS|id:169043|950|790"
+   "SAS|id:169043|950|790",
+   "SAS|id:624640|3250|1620"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -6022,20 +6023,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/sous/169043/",
     "key": "SAS|id:169043|950|790"
+   },
+   {
+    "store": "SAS",
+    "title": "Հեղուկ օճառ «Method» 354մլ",
+    "old": 3250,
+    "new": 1620,
+    "pct": 50,
+    "until": "01.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/liqsoup/624640/",
+    "key": "SAS|id:624640|3250|1620"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Զուգարանի թուղթ «Զեմմա» Պլյուս, օվկիանոսի թարմություն, երկշերտ 4հտ",
-    "old": 730,
-    "new": 650,
-    "pct": 11,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1014731.png",
-    "url": "https://yerevan-city.am/shop/product-details/953",
-    "key": "Yerevan City|id:953|730|650"
-   },
    {
     "store": "Yerevan City",
     "title": "Զուգարանի թուղթ «Զեմմա» Պլյուս, երկշերտ 4հտ",
@@ -8228,8 +8229,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-27T22:02:45.988841+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-27T22:17:50.014478+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
