@@ -1889,7 +1889,8 @@
    "SAS|id:63513|950|830",
    "SAS|id:903989|2190|990",
    "SAS|id:886806|2250|1570",
-   "SAS|id:711491|3950|2750"
+   "SAS|id:711491|3950|2750",
+   "SAS|id:748604|1990|1650"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5996,20 +5997,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/275/109/1092941060088857.webp",
     "url": "https://www.sas.am/catalog/balzam_dlya_volos/711491/",
     "key": "SAS|id:711491|3950|2750"
+   },
+   {
+    "store": "SAS",
+    "title": "Կետչուպ տոմատի «Heinz Томатный» 800գ",
+    "old": 1990,
+    "new": 1650,
+    "pct": 17,
+    "until": "31.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/384/879/8790282187642214.webp",
+    "url": "https://www.sas.am/catalog/ketchup_tomatnyy_sous/748604/",
+    "key": "SAS|id:748604|1990|1650"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Սոուս «Հելլմաննս» Կեսար 200գր",
-    "old": 740,
-    "new": 370,
-    "pct": 50,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177286.png",
-    "url": "https://yerevan-city.am/shop/product-details/193528",
-    "key": "Yerevan City|id:193528|740|370"
-   },
    {
     "store": "Yerevan City",
     "title": "Նեկտար «Մոյ» մուլտիֆրուտ 1.93լ",
@@ -8202,8 +8203,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-27T13:17:10.494020+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-27T13:32:22.583861+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
