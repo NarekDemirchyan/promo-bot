@@ -1907,7 +1907,8 @@
    "SAS|id:946726|2250|1120",
    "SAS|id:541189|390|350",
    "SAS|id:135517|750|680",
-   "SAS|id:37048|570|530"
+   "SAS|id:37048|570|530",
+   "SAS|id:832204|550|370"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3839,22 +3840,12 @@
    "Yerevan City|id:128887|590|295",
    "Yerevan City|id:130566|590|295",
    "Yerevan City|id:191526|590|390",
-   "Yerevan City|id:161381|590|295"
+   "Yerevan City|id:161381|590|295",
+   "Yerevan City|id:175366|590|295"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Ամենօրյա միջադիրներ «Libresse Long Thin» 28հատ",
-    "old": 1290,
-    "new": 1160,
-    "pct": 10,
-    "until": "27.11.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/392/360/3603214076346935.webp",
-    "url": "https://www.sas.am/catalog/dlya_intimnoy_gigieny2/295587/",
-    "key": "SAS|id:295587|1290|1160"
-   },
    {
     "store": "SAS",
     "title": "Կաթ «Lactel» 1լ, յուղայնությունը` 3.2",
@@ -6032,20 +6023,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/goroshek/37048/",
     "key": "SAS|id:37048|570|530"
+   },
+   {
+    "store": "SAS",
+    "title": "Կոկտեյլ կաթնային «Danone Растишка» 210գ, յուղայնությունը՝ 2",
+    "old": 550,
+    "new": 370,
+    "pct": 33,
+    "until": "28.01.2027",
+    "img": "https://www.sas.am/upload/Sh/imageCache/244/938/938004499676756.webp",
+    "url": "https://www.sas.am/catalog/slivki_kokteyl/832204/",
+    "key": "SAS|id:832204|550|370"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Չորահաց հնդկաձավարի «Դր.Քորներ» 90գր",
-    "old": 720,
-    "new": 490,
-    "pct": 32,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1094242.png",
-    "url": "https://yerevan-city.am/shop/product-details/917",
-    "key": "Yerevan City|id:917|720|490"
-   },
    {
     "store": "Yerevan City",
     "title": "Թեյ մրգային «Տեսս» մասուրով և խնձորով 25x1.5գր",
@@ -8223,12 +8214,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1159015.png",
     "url": "https://yerevan-city.am/shop/product-details/161381",
     "key": "Yerevan City|id:161381|590|295"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տոնածառի խաղ. «Աստղ» ճյուղով",
+    "old": 590,
+    "new": 295,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168995.png",
+    "url": "https://yerevan-city.am/shop/product-details/175366",
+    "key": "Yerevan City|id:175366|590|295"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-28T00:47:36.653446+04:00",
+ "last_publish": "2026-11-28T01:04:54.483259+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
