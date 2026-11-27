@@ -1898,7 +1898,8 @@
    "SAS|id:935909|11500|8050",
    "SAS|id:624715|3250|1620",
    "SAS|id:282104|1720|1390",
-   "SAS|id:169027|950|790"
+   "SAS|id:169027|950|790",
+   "SAS|id:930227|8950|4470"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -6014,6 +6015,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/sous/169027/",
     "key": "SAS|id:169027|950|790"
+   },
+   {
+    "store": "SAS",
+    "title": "Լվացքի գել ունիվերսալ «Persil Universal Kraft Gel» 2.925լ",
+    "old": 8950,
+    "new": 4470,
+    "pct": 50,
+    "until": "01.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/stiralnyy_poroshok/930227/",
+    "key": "SAS|id:930227|8950|4470"
    }
   ],
   "Yerevan City": [
