@@ -6005,17 +6005,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Շոկոլադե սալիկ «Միլկա» Օրեո 100գր",
-    "old": 750,
-    "new": 530,
-    "pct": 29,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1075336.png",
-    "url": "https://yerevan-city.am/shop/product-details/47267",
-    "key": "Yerevan City|id:47267|750|530"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Մայոնեզ «Հելլմաննս» Ձիթապտղի 67% 300գր",
     "old": 740,
     "new": 370,
@@ -8206,8 +8195,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-27T10:33:46.891013+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-27T11:02:27.152558+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
