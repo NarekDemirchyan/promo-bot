@@ -3806,7 +3806,8 @@
    "Yerevan City|id:192477|590|408",
    "Yerevan City|id:192462|590|380",
    "Yerevan City|id:192414|590|390",
-   "Yerevan City|id:191593|590|295"
+   "Yerevan City|id:191593|590|295",
+   "Yerevan City|id:191734|590|360"
   ]
  },
  "queues": {
@@ -8201,6 +8202,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175299.png",
     "url": "https://yerevan-city.am/shop/product-details/191593",
     "key": "Yerevan City|id:191593|590|295"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տարա ձեթի և քացախի համար «Ջահան Բոլոր»",
+    "old": 590,
+    "new": 360,
+    "pct": 39,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175456.png",
+    "url": "https://yerevan-city.am/shop/product-details/191734",
+    "key": "Yerevan City|id:191734|590|360"
    }
   ]
  },
