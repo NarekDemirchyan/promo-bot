@@ -1893,7 +1893,8 @@
    "SAS|id:748604|1990|1650",
    "SAS|id:565312|3690|1840",
    "SAS|id:624702|3250|1620",
-   "SAS|id:557675|3280|2350"
+   "SAS|id:557675|3280|2350",
+   "SAS|id:384785|2990|2090"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -6004,20 +6005,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/274/054/054419596138317.webp",
     "url": "https://www.sas.am/catalog/nabory_konfet/557675/",
     "key": "SAS|id:557675|3280|2350"
+   },
+   {
+    "store": "SAS",
+    "title": "Լվացքի կոնդիցիոներ «Felce Azzurra Rose e Lotus» 2լ",
+    "old": 2990,
+    "new": 2090,
+    "pct": 30,
+    "until": "30.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/opolaskivatel_konditsioner_kontsentrat/384785/",
+    "key": "SAS|id:384785|2990|2090"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Եգիպտացորենի փաթիլներ «Նեսթլե» Խրուտկա 290գր",
-    "old": 750,
-    "new": 620,
-    "pct": 17,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1167755.png",
-    "url": "https://yerevan-city.am/shop/product-details/174155",
-    "key": "Yerevan City|id:174155|750|620"
-   },
    {
     "store": "Yerevan City",
     "title": "Նեկտար «Մոյ» արքայախնձոր 1.93լ",
@@ -8210,8 +8211,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-27T16:02:54.731814+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-27T16:34:15.907940+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
