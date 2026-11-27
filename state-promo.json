@@ -3802,7 +3802,8 @@
    "Yerevan City|id:194034|590|360",
    "Yerevan City|id:192939|590|440",
    "Yerevan City|id:192477|590|408",
-   "Yerevan City|id:192462|590|380"
+   "Yerevan City|id:192462|590|380",
+   "Yerevan City|id:192414|590|390"
   ]
  },
  "queues": {
@@ -8197,6 +8198,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176155.png",
     "url": "https://yerevan-city.am/shop/product-details/192462",
     "key": "Yerevan City|id:192462|590|380"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Թեյի բաժակ «ԼաՕպալա» Ցիլին. 320մլ 1հտ",
+    "old": 590,
+    "new": 390,
+    "pct": 34,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176145.png",
+    "url": "https://yerevan-city.am/shop/product-details/192414",
+    "key": "Yerevan City|id:192414|590|390"
    }
   ]
  },
