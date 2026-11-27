@@ -1873,7 +1873,8 @@
    "SAS|id:952115|7450|3720",
    "SAS|id:325775|180|90",
    "SAS|id:63496|950|830",
-   "SAS|id:952114|3470|1730"
+   "SAS|id:952114|3470|1730",
+   "SAS|id:952109|3480|1740"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3771,7 +3772,8 @@
    "Yerevan City|id:195908|590|450",
    "Yerevan City|id:195906|590|450",
    "Yerevan City|id:195904|590|450",
-   "Yerevan City|id:16312|590|530"
+   "Yerevan City|id:16312|590|530",
+   "Yerevan City|id:36821|590|440"
   ]
  },
  "queues": {
@@ -5964,6 +5966,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/vse_dlya_chercheniya/952114/",
     "key": "SAS|id:952114|3470|1730"
+   },
+   {
+    "store": "SAS",
+    "title": "Գրիչ գունավոր «Ylvi Flox» 5 հատ",
+    "old": 3480,
+    "new": 1740,
+    "pct": 50,
+    "until": "01.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/414/017/0172821065627059.webp",
+    "url": "https://www.sas.am/catalog/ruchka_karandash/952109/",
+    "key": "SAS|id:952109|3480|1740"
    }
   ],
   "Yerevan City": [
@@ -8155,6 +8168,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1048127.png",
     "url": "https://yerevan-city.am/shop/product-details/16312",
     "key": "Yerevan City|id:16312|590|530"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մայոնեզ «Մախեև» լորի ձվով 400մլ",
+    "old": 590,
+    "new": 440,
+    "pct": 25,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1082518.png",
+    "url": "https://yerevan-city.am/shop/product-details/36821",
+    "key": "Yerevan City|id:36821|590|440"
    }
   ]
  },
