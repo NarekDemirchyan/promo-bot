@@ -1885,7 +1885,8 @@
    "SAS|id:952096|2770|1380",
    "SAS|id:968199|1790|1590",
    "SAS|id:968198|1990|1750",
-   "SAS|id:924703|3290|2290"
+   "SAS|id:924703|3290|2290",
+   "SAS|id:63513|950|830"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5988,6 +5989,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/dlya_polosti_rta/924703/",
     "key": "SAS|id:924703|3290|2290"
+   },
+   {
+    "store": "SAS",
+    "title": "Կետչուպ տոմատի «Heinz Томатный» 320գ",
+    "old": 950,
+    "new": 830,
+    "pct": 13,
+    "until": "31.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/130/437/4378671990197009.webp",
+    "url": "https://www.sas.am/catalog/ketchup_tomatnyy_sous/63513/",
+    "key": "SAS|id:63513|950|830"
    }
   ],
   "Yerevan City": [
