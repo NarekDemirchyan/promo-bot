@@ -1879,7 +1879,8 @@
    "SAS|id:952107|2770|1380",
    "SAS|id:952106|1970|980",
    "SAS|id:952105|2970|1480",
-   "SAS|id:952104|2480|1240"
+   "SAS|id:952104|2480|1240",
+   "SAS|id:952103|2750|1370"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3789,17 +3790,6 @@
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կոմպոտ տեսականի «Իջևան» 1լ",
-    "old": 1250,
-    "new": 1150,
-    "pct": 8,
-    "until": "07.01.2027",
-    "img": "",
-    "url": "https://www.sas.am/catalog/kompot/631492/",
-    "key": "SAS|id:631492|1250|1150"
-   },
    {
     "store": "SAS",
     "title": "Օղի ծիրանի «Միջնաբերդ Ռեզերվ» 0.5լ",
@@ -5977,6 +5967,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/vse_dlya_chercheniya/952104/",
     "key": "SAS|id:952104|2480|1240"
+   },
+   {
+    "store": "SAS",
+    "title": "Մատիտ «Dino World»",
+    "old": 2750,
+    "new": 1370,
+    "pct": 50,
+    "until": "01.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/vse_dlya_chercheniya/952103/",
+    "key": "SAS|id:952103|2750|1370"
    }
   ],
   "Yerevan City": [
@@ -8183,8 +8184,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-27T07:05:58.507755+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-27T07:35:32.818955+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
