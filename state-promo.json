@@ -3848,7 +3848,8 @@
    "Yerevan City|id:175366|590|295",
    "Yerevan City|id:176353|590|350",
    "Yerevan City|id:178062|590|350",
-   "Yerevan City|id:180762|590|450"
+   "Yerevan City|id:180762|590|450",
+   "Yerevan City|id:113183|590|510"
   ]
  },
  "queues": {
@@ -8243,6 +8244,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174496.png",
     "url": "https://yerevan-city.am/shop/product-details/180762",
     "key": "Yerevan City|id:180762|590|450"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Անձեռոցիկներ «Սիլկ Սոֆթ» եռաշերտ 33x33 50հտ",
+    "old": 590,
+    "new": 510,
+    "pct": 14,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1143620.png",
+    "url": "https://yerevan-city.am/shop/product-details/113183",
+    "key": "Yerevan City|id:113183|590|510"
    }
   ]
  },
