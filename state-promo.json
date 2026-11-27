@@ -3804,22 +3804,12 @@
    "Yerevan City|id:192939|590|440",
    "Yerevan City|id:192477|590|408",
    "Yerevan City|id:192462|590|380",
-   "Yerevan City|id:192414|590|390"
+   "Yerevan City|id:192414|590|390",
+   "Yerevan City|id:191593|590|295"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Տեկիլա «Lamborghini Reposado» 0.75լ",
-    "old": 72900,
-    "new": 51030,
-    "pct": 30,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/rom_i_tekilla/645657/",
-    "key": "SAS|id:645657|72900|51030"
-   },
    {
     "store": "SAS",
     "title": "Գինի կարմիր «Սափոր» 0.75լ",
@@ -8199,12 +8189,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176145.png",
     "url": "https://yerevan-city.am/shop/product-details/192414",
     "key": "Yerevan City|id:192414|590|390"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ալյուր «Արուսկավկազ» բարձր կարգ 1կգ",
+    "old": 590,
+    "new": 295,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175299.png",
+    "url": "https://yerevan-city.am/shop/product-details/191593",
+    "key": "Yerevan City|id:191593|590|295"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-27T13:32:22.583861+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-27T13:47:30.534127+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
