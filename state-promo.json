@@ -3822,22 +3822,12 @@
    "Yerevan City|id:92630|590|350",
    "Yerevan City|id:175365|590|295",
    "Yerevan City|id:43490|590|320",
-   "Yerevan City|id:175367|590|295"
+   "Yerevan City|id:175367|590|295",
+   "Yerevan City|id:26206|590|540"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Գինի սպիտակ «Արմենիա» 0.75լ",
-    "old": 2290,
-    "new": 2070,
-    "pct": 10,
-    "until": "08.01.2027",
-    "img": "https://www.sas.am/upload/Sh/imageCache/228/663/663914549758843.webp",
-    "url": "https://www.sas.am/catalog/armyanskoe_vino/612193/",
-    "key": "SAS|id:612193|2290|2070"
-   },
    {
     "store": "SAS",
     "title": "Տերև խաղողի «Արտֆուդ» 900գ",
@@ -8217,12 +8207,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168996.png",
     "url": "https://yerevan-city.am/shop/product-details/175367",
     "key": "Yerevan City|id:175367|590|295"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Լավաշ «Հայկական ազգային» չոր 400գր±3",
+    "old": 590,
+    "new": 540,
+    "pct": 8,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1037124.png",
+    "url": "https://yerevan-city.am/shop/product-details/26206",
+    "key": "Yerevan City|id:26206|590|540"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-27T19:47:46.225953+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-27T20:02:29.256745+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
