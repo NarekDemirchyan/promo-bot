@@ -1910,7 +1910,8 @@
    "SAS|id:37048|570|530",
    "SAS|id:832204|550|370",
    "SAS|id:828240|4950|2470",
-   "SAS|id:707565|2590|1290"
+   "SAS|id:707565|2590|1290",
+   "SAS|id:101800|550|480"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3845,22 +3846,12 @@
    "Yerevan City|id:161381|590|295",
    "Yerevan City|id:175366|590|295",
    "Yerevan City|id:176353|590|350",
-   "Yerevan City|id:178062|590|350"
+   "Yerevan City|id:178062|590|350",
+   "Yerevan City|id:180762|590|450"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Թխվածքաբիթ «Matilde Vicenzi Cantuccini» 225գ",
-    "old": 2590,
-    "new": 1810,
-    "pct": 30,
-    "until": "30.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/pechene_pryaniki/134397/",
-    "key": "SAS|id:134397|2590|1810"
-   },
    {
     "store": "SAS",
     "title": "Գինի նռան «Ակում» 0․75լ",
@@ -6038,6 +6029,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/136/851/8510501673681904.webp",
     "url": "https://www.sas.am/catalog/deodorantbodyspray/707565/",
     "key": "SAS|id:707565|2590|1290"
+   },
+   {
+    "store": "SAS",
+    "title": "Պաղպաղակ շոկոլադե «Из Кореновки Пломбир» 100գ",
+    "old": 550,
+    "new": 480,
+    "pct": 13,
+    "until": "31.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/import_morozenoe/101800/",
+    "key": "SAS|id:101800|550|480"
    }
   ],
   "Yerevan City": [
@@ -8229,12 +8231,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1171738.png",
     "url": "https://yerevan-city.am/shop/product-details/178062",
     "key": "Yerevan City|id:178062|590|350"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գարեջուր «Վիկտորյա Մալագա» բաց թ/տ 0.33լ",
+    "old": 590,
+    "new": 450,
+    "pct": 24,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174496.png",
+    "url": "https://yerevan-city.am/shop/product-details/180762",
+    "key": "Yerevan City|id:180762|590|450"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-28T01:47:00.716678+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-28T02:03:05.492488+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
