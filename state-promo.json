@@ -3788,7 +3788,8 @@
    "Yerevan City|id:25410|590|510",
    "Yerevan City|id:114314|590|440",
    "Yerevan City|id:173164|590|470",
-   "Yerevan City|id:173165|590|470"
+   "Yerevan City|id:173165|590|470",
+   "Yerevan City|id:173957|590|430"
   ]
  },
  "queues": {
@@ -8183,6 +8184,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1166757.png",
     "url": "https://yerevan-city.am/shop/product-details/173165",
     "key": "Yerevan City|id:173165|590|470"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ջուր իզոտոնիկ «Ֆարենհեյթ» կիվի 0.5լ",
+    "old": 590,
+    "new": 430,
+    "pct": 27,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1167552.png",
+    "url": "https://yerevan-city.am/shop/product-details/173957",
+    "key": "Yerevan City|id:173957|590|430"
    }
   ]
  },
