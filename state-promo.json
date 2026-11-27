@@ -3814,17 +3814,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Գինի կարմիր «Սափոր» 0.75լ",
-    "old": 8590,
-    "new": 7690,
-    "pct": 10,
-    "until": "08.01.2027",
-    "img": "",
-    "url": "https://www.sas.am/catalog/armyanskoe_vino/631088/",
-    "key": "SAS|id:631088|8590|7690"
-   },
-   {
-    "store": "SAS",
     "title": "Մեղր բնական «Ալպիան» 300գ",
     "old": 4990,
     "new": 3790,
@@ -8217,8 +8206,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-27T14:04:08.553156+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-27T14:32:22.509583+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
