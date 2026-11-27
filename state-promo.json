@@ -3837,22 +3837,13 @@
    "Yerevan City|id:174709|590|295",
    "Yerevan City|id:173917|590|350",
    "Yerevan City|id:128887|590|295",
-   "Yerevan City|id:130566|590|295"
+   "Yerevan City|id:130566|590|295",
+   "Yerevan City|id:191526|590|390",
+   "Yerevan City|id:161381|590|295"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Նագեթներ հավի պանրով «Բեկոն» 350գ",
-    "old": 1840,
-    "new": 1570,
-    "pct": 15,
-    "until": "27.11.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/palochki_naggetsy/605619/",
-    "key": "SAS|id:605619|1840|1570"
-   },
    {
     "store": "SAS",
     "title": "Ամենօրյա միջադիրներ «Libresse Long Thin» 28հատ",
@@ -6046,17 +6037,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Նեկտար «Սոչնիյ» մանգո 1լ",
-    "old": 720,
-    "new": 360,
-    "pct": 50,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1163549.png",
-    "url": "https://yerevan-city.am/shop/product-details/169789",
-    "key": "Yerevan City|id:169789|720|360"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Չորահաց հնդկաձավարի «Դր.Քորներ» 90գր",
     "old": 720,
     "new": 490,
@@ -8221,12 +8201,34 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1150211.png",
     "url": "https://yerevan-city.am/shop/product-details/130566",
     "key": "Yerevan City|id:130566|590|295"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Չափաբաժակ «Բագեր» Ակվա 1000մլ ԲԳ-672",
+    "old": 590,
+    "new": 390,
+    "pct": 34,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1175253.png",
+    "url": "https://yerevan-city.am/shop/product-details/191526",
+    "key": "Yerevan City|id:191526|590|390"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տոնածառի խաղ. «Սիրտ» մարգ.մորթի արծ. 1հտ 638",
+    "old": 590,
+    "new": 295,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1159015.png",
+    "url": "https://yerevan-city.am/shop/product-details/161381",
+    "key": "Yerevan City|id:161381|590|295"
    }
   ]
  },
  "seeded": true,
  "rr": 0,
- "last_publish": "2026-11-28T00:32:24.792153+04:00",
+ "last_publish": "2026-11-28T00:47:36.653446+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
@@ -8235,7 +8237,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 92,
+ "city_page": 93,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
