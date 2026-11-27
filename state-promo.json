@@ -3810,7 +3810,8 @@
    "Yerevan City|id:192414|590|390",
    "Yerevan City|id:191593|590|295",
    "Yerevan City|id:191734|590|360",
-   "Yerevan City|id:169507|590|310"
+   "Yerevan City|id:169507|590|310",
+   "Yerevan City|id:154311|590|500"
   ]
  },
  "queues": {
@@ -8205,6 +8206,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1163347.png",
     "url": "https://yerevan-city.am/shop/product-details/169507",
     "key": "Yerevan City|id:169507|590|310"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Անձեռոցիկներ «Սելպակ» Էքստրա Էլեգանտ, երկշերտ 20հտ",
+    "old": 590,
+    "new": 500,
+    "pct": 15,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1154364.png",
+    "url": "https://yerevan-city.am/shop/product-details/154311",
+    "key": "Yerevan City|id:154311|590|500"
    }
   ]
  },
@@ -8219,7 +8231,7 @@
  "reset_done": true,
  "junk_cleaned": true,
  "flowers_cleaned": true,
- "city_page": 88,
+ "city_page": 89,
  "city_key_migrated": true,
  "city_price_migrated": true
 }
