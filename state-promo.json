@@ -3828,7 +3828,8 @@
    "Yerevan City|id:175367|590|295",
    "Yerevan City|id:26206|590|540",
    "Yerevan City|id:50653|590|190",
-   "Yerevan City|id:75783|590|295"
+   "Yerevan City|id:75783|590|295",
+   "Yerevan City|id:174709|590|295"
   ]
  },
  "queues": {
@@ -8223,6 +8224,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1118762.png",
     "url": "https://yerevan-city.am/shop/product-details/75783",
     "key": "Yerevan City|id:75783|590|295"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տոնածառ պլաստմասե, լույսով, սպիտակ 15սմ25-21",
+    "old": 590,
+    "new": 295,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168312.png",
+    "url": "https://yerevan-city.am/shop/product-details/174709",
+    "key": "Yerevan City|id:174709|590|295"
    }
   ]
  },
