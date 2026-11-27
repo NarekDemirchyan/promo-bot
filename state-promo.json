@@ -1903,7 +1903,8 @@
    "SAS|id:786264|1950|970",
    "SAS|id:624714|3250|1620",
    "SAS|id:169043|950|790",
-   "SAS|id:624640|3250|1620"
+   "SAS|id:624640|3250|1620",
+   "SAS|id:946726|2250|1120"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -6024,6 +6025,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/liqsoup/624640/",
     "key": "SAS|id:624640|3250|1620"
+   },
+   {
+    "store": "SAS",
+    "title": "Մարմնի լոսյոն «Vaseline Intensive Care Sensitive Skin Relief» 295մլ",
+    "old": 2250,
+    "new": 1120,
+    "pct": 50,
+    "until": "01.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/133/301/3018503277456657.webp",
+    "url": "https://www.sas.am/catalog/vse_dlya_ukhoda_za_telom_ustarelo/946726/",
+    "key": "SAS|id:946726|2250|1120"
    }
   ],
   "Yerevan City": [
