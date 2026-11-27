@@ -1911,7 +1911,8 @@
    "SAS|id:832204|550|370",
    "SAS|id:828240|4950|2470",
    "SAS|id:707565|2590|1290",
-   "SAS|id:101800|550|480"
+   "SAS|id:101800|550|480",
+   "SAS|id:101794|550|480"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -6040,20 +6041,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/import_morozenoe/101800/",
     "key": "SAS|id:101800|550|480"
+   },
+   {
+    "store": "SAS",
+    "title": "Պաղպաղակ կրեմ-բրյուլե «Из Кореновки Пломбир» 100գ",
+    "old": 550,
+    "new": 480,
+    "pct": 13,
+    "until": "31.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/198/965/9657433885420133.webp",
+    "url": "https://www.sas.am/catalog/import_morozenoe/101794/",
+    "key": "SAS|id:101794|550|480"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Թեյ մրգային «Տեսս» ելակ և դեղձ 25x1.5գր",
-    "old": 720,
-    "new": 460,
-    "pct": 36,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1043690.png",
-    "url": "https://yerevan-city.am/shop/product-details/13896",
-    "key": "Yerevan City|id:13896|720|460"
-   },
    {
     "store": "Yerevan City",
     "title": "Գարեջուր «Ստելլա Արտուա» ա/տ 0.44լ",
@@ -8246,8 +8247,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-28T02:03:05.492488+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-28T02:19:09.462939+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
