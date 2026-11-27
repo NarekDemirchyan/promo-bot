@@ -3824,7 +3824,8 @@
    "Yerevan City|id:175365|590|295",
    "Yerevan City|id:43490|590|320",
    "Yerevan City|id:175367|590|295",
-   "Yerevan City|id:26206|590|540"
+   "Yerevan City|id:26206|590|540",
+   "Yerevan City|id:50653|590|190"
   ]
  },
  "queues": {
@@ -8219,6 +8220,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1037124.png",
     "url": "https://yerevan-city.am/shop/product-details/26206",
     "key": "Yerevan City|id:26206|590|540"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Գրչատուփ պլաստմասե «Դիսնեյ» երկտեղանի",
+    "old": 590,
+    "new": 190,
+    "pct": 68,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1055664.png",
+    "url": "https://yerevan-city.am/shop/product-details/50653",
+    "key": "Yerevan City|id:50653|590|190"
    }
   ]
  },
