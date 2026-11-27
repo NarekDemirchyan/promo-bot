@@ -3856,17 +3856,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Գինի նռան «Ակում» 0․75լ",
-    "old": 6590,
-    "new": 5350,
-    "pct": 19,
-    "until": "08.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/235/809/8095702596455943.webp",
-    "url": "https://www.sas.am/catalog/armyanskoe_vino/593382/",
-    "key": "SAS|id:593382|6590|5350"
-   },
-   {
-    "store": "SAS",
     "title": "Մարմելադե կոնֆետներ «Mamba Фрумеладки» 140գ",
     "old": 970,
     "new": 790,
@@ -8259,8 +8248,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-28T02:19:09.462939+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-28T02:43:29.860732+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
