@@ -1887,7 +1887,8 @@
    "SAS|id:968198|1990|1750",
    "SAS|id:924703|3290|2290",
    "SAS|id:63513|950|830",
-   "SAS|id:903989|2190|990"
+   "SAS|id:903989|2190|990",
+   "SAS|id:886806|2250|1570"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -5992,20 +5993,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/chistyashchie_sredstva/903989/",
     "key": "SAS|id:903989|2190|990"
+   },
+   {
+    "store": "SAS",
+    "title": "Հացուտիկ «3 Toques Mini Sweet» 12 հատ, 72գ",
+    "old": 2250,
+    "new": 1570,
+    "pct": 30,
+    "until": "01.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/khlebtsy/886806/",
+    "key": "SAS|id:886806|2250|1570"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Սոուս «Հելլմաննս» Մեղր-մանանեխ 200գր",
-    "old": 740,
-    "new": 370,
-    "pct": 50,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177289.png",
-    "url": "https://yerevan-city.am/shop/product-details/193531",
-    "key": "Yerevan City|id:193531|740|370"
-   },
    {
     "store": "Yerevan City",
     "title": "Սոուս «Հելլմաննս» Խորոված 200գր",
@@ -8198,8 +8199,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-27T11:48:49.442237+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-27T12:17:12.587673+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
