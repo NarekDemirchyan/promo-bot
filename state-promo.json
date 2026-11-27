@@ -3818,17 +3818,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Մեղր բնական «Ալպիան» 320գ",
-    "old": 3950,
-    "new": 2990,
-    "pct": 24,
-    "until": "31.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/243/600/6008711655474272.webp",
-    "url": "https://www.sas.am/catalog/armyanskiy_mjod/629256/",
-    "key": "SAS|id:629256|3950|2990"
-   },
-   {
-    "store": "SAS",
     "title": "Օղի «Mamont» 0.7լ",
     "old": 21900,
     "new": 17500,
@@ -8221,8 +8210,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-27T15:32:42.010773+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-27T16:02:54.731814+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
