@@ -3852,7 +3852,8 @@
    "Yerevan City|id:178062|590|350",
    "Yerevan City|id:180762|590|450",
    "Yerevan City|id:113183|590|510",
-   "Yerevan City|id:92628|590|350"
+   "Yerevan City|id:92628|590|350",
+   "Yerevan City|id:92629|590|350"
   ]
  },
  "queues": {
@@ -8247,6 +8248,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1129533.png",
     "url": "https://yerevan-city.am/shop/product-details/92628",
     "key": "Yerevan City|id:92628|590|350"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Սառնաշաքար «Հոլլս» Սութերս, բալ 45գր",
+    "old": 590,
+    "new": 350,
+    "pct": 41,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1129534.png",
+    "url": "https://yerevan-city.am/shop/product-details/92629",
+    "key": "Yerevan City|id:92629|590|350"
    }
   ]
  },
