@@ -3780,17 +3780,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Գինի կարմիր «Միջնաբերդ Հաղթանակ» 0.75լ",
-    "old": 2850,
-    "new": 2650,
-    "pct": 7,
-    "until": "08.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/305/663/6630901434997394.webp",
-    "url": "https://www.sas.am/catalog/armyanskoe_vino/678645/",
-    "key": "SAS|id:678645|2850|2650"
-   },
-   {
-    "store": "SAS",
     "title": "Կրեկերներ պանրի համով «Croco Salt» 400գ",
     "old": 1460,
     "new": 1350,
@@ -8183,8 +8172,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-27T04:05:19.416436+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-27T04:32:16.379607+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
