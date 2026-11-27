@@ -3794,22 +3794,12 @@
    "Yerevan City|id:173165|590|470",
    "Yerevan City|id:173957|590|430",
    "Yerevan City|id:180094|590|290",
-   "Yerevan City|id:195902|590|450"
+   "Yerevan City|id:195902|590|450",
+   "Yerevan City|id:194034|590|360"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Գինի վարդագույն «Միջնաբերդ» 0.75լ",
-    "old": 3250,
-    "new": 2850,
-    "pct": 12,
-    "until": "08.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/armyanskoe_vino/678644/",
-    "key": "SAS|id:678644|3250|2850"
-   },
    {
     "store": "SAS",
     "title": "Փրփրուն գինի «Oror White Brut» 0.75լ",
@@ -8189,12 +8179,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1180693.png",
     "url": "https://yerevan-city.am/shop/product-details/195902",
     "key": "Yerevan City|id:195902|590|450"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Զամբյուղ մանրուք.համար «Մեջիք Վիզ» 25x19 ՄՑԼ008",
+    "old": 590,
+    "new": 360,
+    "pct": 39,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177804.png",
+    "url": "https://yerevan-city.am/shop/product-details/194034",
+    "key": "Yerevan City|id:194034|590|360"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-27T10:18:34.952287+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-27T10:33:46.891013+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
