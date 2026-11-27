@@ -3796,22 +3796,12 @@
    "Yerevan City|id:173957|590|430",
    "Yerevan City|id:180094|590|290",
    "Yerevan City|id:195902|590|450",
-   "Yerevan City|id:194034|590|360"
+   "Yerevan City|id:194034|590|360",
+   "Yerevan City|id:192939|590|440"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Փրփրուն գինի «Oror White Brut» 0.75լ",
-    "old": 4390,
-    "new": 3690,
-    "pct": 16,
-    "until": "08.01.2027",
-    "img": "",
-    "url": "https://www.sas.am/catalog/shampanskoe_igristoe_vino/658111/",
-    "key": "SAS|id:658111|4390|3690"
-   },
    {
     "store": "SAS",
     "title": "Փրփրուն գինի «Oror Rose Brut» 0.75լ",
@@ -8191,12 +8181,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177804.png",
     "url": "https://yerevan-city.am/shop/product-details/194034",
     "key": "Yerevan City|id:194034|590|360"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Քսուք կոշիկի համար «Սմարտ» սև 50մլ",
+    "old": 590,
+    "new": 440,
+    "pct": 25,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1176686.png",
+    "url": "https://yerevan-city.am/shop/product-details/192939",
+    "key": "Yerevan City|id:192939|590|440"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-27T11:02:27.152558+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-27T11:17:38.928235+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
