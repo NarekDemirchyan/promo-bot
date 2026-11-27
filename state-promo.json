@@ -3832,17 +3832,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Տերև խաղողի «Արտֆուդ» 900գ",
-    "old": 1520,
-    "new": 1350,
-    "pct": 11,
-    "until": "31.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/101/494/494131666711535.webp",
-    "url": "https://www.sas.am/catalog/drugie_ovoschnye_konservy/5042/",
-    "key": "SAS|id:5042|1520|1350"
-   },
-   {
-    "store": "SAS",
     "title": "Գինի կարմիր «Օրրան Արենի և Մալբեկ Ռեզերվ» 0.75լ",
     "old": 6290,
     "new": 5750,
@@ -8235,8 +8224,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-27T20:19:36.273360+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-27T20:47:16.409379+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
