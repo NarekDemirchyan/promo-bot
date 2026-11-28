@@ -1920,7 +1920,8 @@
    "SAS|id:599035|2550|1780",
    "SAS|id:362986|620|430",
    "SAS|id:256495|7010|6650",
-   "SAS|id:206854|1570|1190"
+   "SAS|id:206854|1570|1190",
+   "SAS|id:167182|990|940"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -6058,6 +6059,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/244/598/5988633894004216.webp",
     "url": "https://www.sas.am/catalog/plitka/206854/",
     "key": "SAS|id:206854|1570|1190"
+   },
+   {
+    "store": "SAS",
+    "title": "Հյութ պարունակող ըմպելիք բանանի, խնձորի և ելակի «Sandora» 0.95լ",
+    "old": 990,
+    "new": 940,
+    "pct": 5,
+    "until": "05.01.2027",
+    "img": "https://www.sas.am/upload/Sh/imageCache/162/357/3579272109850323.webp",
+    "url": "https://www.sas.am/catalog/sok/167182/",
+    "key": "SAS|id:167182|990|940"
    }
   ],
   "Yerevan City": [
