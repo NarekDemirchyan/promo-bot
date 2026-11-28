@@ -3890,22 +3890,12 @@
    "Yerevan City|id:180197|570|440",
    "Yerevan City|id:170905|570|490",
    "Yerevan City|id:116460|570|430",
-   "Yerevan City|id:110956|570|440"
+   "Yerevan City|id:110956|570|440",
+   "Yerevan City|id:110953|570|440"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կոնյակ «Այվազովսկի» 0.25լ",
-    "old": 2090,
-    "new": 1890,
-    "pct": 10,
-    "until": "08.01.2027",
-    "img": "https://www.sas.am/upload/Sh/imageCache/229/144/1441352641176633.webp",
-    "url": "https://www.sas.am/catalog/armyanskiy_konyak/594243/",
-    "key": "SAS|id:594243|2090|1890"
-   },
    {
     "store": "SAS",
     "title": "Գինի սպիտակ «Օրրան Կանգուն & Վիոնիե» 0․75լ",
@@ -8285,12 +8275,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1141944.png",
     "url": "https://yerevan-city.am/shop/product-details/110956",
     "key": "Yerevan City|id:110956|570|440"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Եգիպտացորենի ձողիկներ «ՖՆ» խնձոր-բանան ա/շ12 20գ 20գր",
+    "old": 570,
+    "new": 440,
+    "pct": 23,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1141941.png",
+    "url": "https://yerevan-city.am/shop/product-details/110953",
+    "key": "Yerevan City|id:110953|570|440"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-28T15:17:17.788896+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-28T15:32:24.500521+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
