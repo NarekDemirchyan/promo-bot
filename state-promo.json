@@ -1928,7 +1928,8 @@
    "SAS|id:4273|990|940",
    "SAS|id:976629|930|460",
    "SAS|id:930199|2190|1530",
-   "SAS|id:916337|590|410"
+   "SAS|id:916337|590|410",
+   "SAS|id:158854|710|650"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -6074,6 +6075,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/416/818/8183313329381447.webp",
     "url": "https://www.sas.am/catalog/vilki_lozhki_nozh/916337/",
     "key": "SAS|id:916337|590|410"
+   },
+   {
+    "store": "SAS",
+    "title": "Խտացրած կաթ «Алексеевское» 270գ, յուղայնությունը` 8,5",
+    "old": 710,
+    "new": 650,
+    "pct": 8,
+    "until": "31.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/sgushchennoe_moloko/158854/",
+    "key": "SAS|id:158854|710|650"
    }
   ],
   "Yerevan City": [
