@@ -3886,22 +3886,12 @@
    "Yerevan City|id:2681|570|490",
    "Yerevan City|id:16626|570|480",
    "Yerevan City|id:180197|570|440",
-   "Yerevan City|id:170905|570|490"
+   "Yerevan City|id:170905|570|490",
+   "Yerevan City|id:116460|570|430"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կոնյակ «Այվազովսկի» 0.25լ",
-    "old": 3150,
-    "new": 2950,
-    "pct": 6,
-    "until": "08.01.2027",
-    "img": "",
-    "url": "https://www.sas.am/catalog/armyanskiy_konyak/594245/",
-    "key": "SAS|id:594245|3150|2950"
-   },
    {
     "store": "SAS",
     "title": "Կոնյակ «Այվազովսկի» 0.25լ",
@@ -8281,12 +8271,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1164571.png",
     "url": "https://yerevan-city.am/shop/product-details/170905",
     "key": "Yerevan City|id:170905|570|490"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Համեմունք «Մագգի» ունիվերսալ 200գր",
+    "old": 570,
+    "new": 430,
+    "pct": 25,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1146595.png",
+    "url": "https://yerevan-city.am/shop/product-details/116460",
+    "key": "Yerevan City|id:116460|570|430"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-28T13:47:12.441964+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-28T14:02:20.867176+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
