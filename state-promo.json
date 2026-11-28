@@ -3860,17 +3860,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Հյութ լոլիկի «Արտֆուդ» 1լ",
-    "old": 850,
-    "new": 770,
-    "pct": 9,
-    "until": "28.12.2026",
-    "img": "https://www.sas.am/upload/Sh/imageCache/107/402/4022972173931479.webp",
-    "url": "https://www.sas.am/catalog/sok/166009/",
-    "key": "SAS|id:166009|850|770"
-   },
-   {
-    "store": "SAS",
     "title": "Կոկտեյլ կաթնային «Parmalat» 0.5լ յուղայնությունը` 1․9",
     "old": 1120,
     "new": 820,
@@ -8263,8 +8252,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-28T03:34:27.542285+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-28T04:02:36.794067+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
