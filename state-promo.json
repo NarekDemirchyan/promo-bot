@@ -1936,7 +1936,8 @@
    "SAS|id:416963|1670|1160",
    "SAS|id:166107|1340|1050",
    "SAS|id:363180|870|590",
-   "SAS|id:646639|2470|1720"
+   "SAS|id:646639|2470|1720",
+   "SAS|id:646638|2470|1720"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3903,17 +3904,6 @@
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կոնյակ «Երևան 7*» 0.25լ",
-    "old": 3250,
-    "new": 2950,
-    "pct": 9,
-    "until": "08.01.2027",
-    "img": "",
-    "url": "https://www.sas.am/catalog/armyanskiy_konyak/594239/",
-    "key": "SAS|id:594239|3250|2950"
-   },
    {
     "store": "SAS",
     "title": "Կոնյակ «Երևան 5*» 0.25լ",
@@ -6091,6 +6081,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/liqsoup/646639/",
     "key": "SAS|id:646639|2470|1720"
+   },
+   {
+    "store": "SAS",
+    "title": "Հեղուկ օճառ հակաբակտերիալ «Safeguard Aloe Vera» 420գ",
+    "old": 2470,
+    "new": 1720,
+    "pct": 30,
+    "until": "01.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/liqsoup/646638/",
+    "key": "SAS|id:646638|2470|1720"
    }
   ],
   "Yerevan City": [
@@ -8297,8 +8298,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-28T17:27:29.284285+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-28T17:47:05.164469+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
