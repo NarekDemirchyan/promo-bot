@@ -1916,7 +1916,8 @@
    "SAS|id:711454|3950|2750",
    "SAS|id:636683|2290|1600",
    "SAS|id:631036|19900|13930",
-   "SAS|id:624701|3250|1620"
+   "SAS|id:624701|3250|1620",
+   "SAS|id:599035|2550|1780"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3857,7 +3858,8 @@
    "Yerevan City|id:92628|590|350",
    "Yerevan City|id:92629|590|350",
    "Yerevan City|id:180240|590|290",
-   "Yerevan City|id:180976|590|290"
+   "Yerevan City|id:180976|590|290",
+   "Yerevan City|id:111136|590|490"
   ]
  },
  "queues": {
@@ -6050,6 +6052,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/forhebathroom/624701/",
     "key": "SAS|id:624701|3250|1620"
+   },
+   {
+    "store": "SAS",
+    "title": "Լոգանքի գել «Felce Azzurra» 650մլ",
+    "old": 2550,
+    "new": 1780,
+    "pct": 30,
+    "until": "30.11.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/showergell/599035/",
+    "key": "SAS|id:599035|2550|1780"
    }
   ],
   "Yerevan City": [
@@ -8241,6 +8254,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1174705.png",
     "url": "https://yerevan-city.am/shop/product-details/180976",
     "key": "Yerevan City|id:180976|590|290"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Կաղամբ գազարով թթվեցրած «Ֆուդյան» 400գր",
+    "old": 590,
+    "new": 490,
+    "pct": 17,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1142093.png",
+    "url": "https://yerevan-city.am/shop/product-details/111136",
+    "key": "Yerevan City|id:111136|590|490"
    }
   ]
  },
