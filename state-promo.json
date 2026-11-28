@@ -1933,7 +1933,8 @@
    "SAS|id:93884|1530|990",
    "SAS|id:946702|2950|1470",
    "SAS|id:31817|710|590",
-   "SAS|id:416963|1670|1160"
+   "SAS|id:416963|1670|1160",
+   "SAS|id:166107|1340|1050"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -6084,20 +6085,20 @@
     "img": "",
     "url": "https://www.sas.am/catalog/liqsoup/416963/",
     "key": "SAS|id:416963|1670|1160"
+   },
+   {
+    "store": "SAS",
+    "title": "Հյութ նարնջի «Rauch Bravo» 1լ",
+    "old": 1340,
+    "new": 1050,
+    "pct": 22,
+    "until": "31.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/sok/166107/",
+    "key": "SAS|id:166107|1340|1050"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Տոնածառի խաղ. «Պատկերներ»",
-    "old": 690,
-    "new": 345,
-    "pct": 50,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1168765.png",
-    "url": "https://yerevan-city.am/shop/product-details/175138",
-    "key": "Yerevan City|id:175138|690|345"
-   },
    {
     "store": "Yerevan City",
     "title": "Պանիր հալած «Ռոկլեր» չիզբուրգեր 130գր",
@@ -8290,8 +8291,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-28T15:32:24.500521+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-28T15:51:10.688122+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
