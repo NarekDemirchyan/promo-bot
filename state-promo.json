@@ -3906,22 +3906,12 @@
    "Yerevan City|id:25765|560|530",
    "Yerevan City|id:153583|560|410",
    "Yerevan City|id:48659|560|490",
-   "Yerevan City|id:100042|560|530"
+   "Yerevan City|id:100042|560|530",
+   "Yerevan City|id:98893|560|530"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Գինի կարմիր «Արենի» 0․75լ",
-    "old": 1790,
-    "new": 1690,
-    "pct": 6,
-    "until": "08.01.2027",
-    "img": "https://www.sas.am/upload/Sh/imageCache/274/256/2564742495196983.webp",
-    "url": "https://www.sas.am/catalog/armyanskoe_vino/594229/",
-    "key": "SAS|id:594229|1790|1690"
-   },
    {
     "store": "SAS",
     "title": "Գինի կարմիր «Լուսարև Ռեզերվ» 0․75լ",
@@ -8301,12 +8291,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1135328.png",
     "url": "https://yerevan-city.am/shop/product-details/100042",
     "key": "Yerevan City|id:100042|560|530"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ըմպելի յոգուրտ «Չուդո» բալ-կեռաս 1.9% 260գր",
+    "old": 560,
+    "new": 530,
+    "pct": 5,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1134344.png",
+    "url": "https://yerevan-city.am/shop/product-details/98893",
+    "key": "Yerevan City|id:98893|560|530"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-28T20:02:40.979008+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-28T20:17:09.580313+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
