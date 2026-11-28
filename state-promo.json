@@ -3866,17 +3866,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Կոնյակ «Արմա 7*» 250մլ",
-    "old": 2790,
-    "new": 2490,
-    "pct": 11,
-    "until": "08.01.2027",
-    "img": "",
-    "url": "https://www.sas.am/catalog/armyanskiy_konyak/604849/",
-    "key": "SAS|id:604849|2790|2490"
-   },
-   {
-    "store": "SAS",
     "title": "Կոնյակ «Արմա 5*» 250մլ",
     "old": 2090,
     "new": 1890,
@@ -8269,8 +8258,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-28T04:48:58.999915+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-28T05:17:13.423015+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
