@@ -3866,22 +3866,12 @@
    "Yerevan City|id:111136|590|490",
    "Yerevan City|id:179680|580|470",
    "Yerevan City|id:165982|590|295",
-   "Yerevan City|id:534|580|490"
+   "Yerevan City|id:534|580|490",
+   "Yerevan City|id:5567|580|465"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Գինի սպիտակ «Ակում Կանգուն» 0.375լ",
-    "old": 5490,
-    "new": 4490,
-    "pct": 18,
-    "until": "08.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/armyanskoe_vino/604658/",
-    "key": "SAS|id:604658|5490|4490"
-   },
    {
     "store": "SAS",
     "title": "Գինի վարդագույն «Իջևան Սարգոն» 0.75մլ",
@@ -8261,12 +8251,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1057474.png",
     "url": "https://yerevan-city.am/shop/product-details/534",
     "key": "Yerevan City|id:534|580|490"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Շամպինիոն «Տոպ Սան» կտրատած 425մլ",
+    "old": 580,
+    "new": 465,
+    "pct": 20,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1067987.png",
+    "url": "https://yerevan-city.am/shop/product-details/5567",
+    "key": "Yerevan City|id:5567|580|465"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-28T07:32:25.611714+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-28T07:47:07.098373+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
