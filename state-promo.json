@@ -3868,22 +3868,12 @@
    "Yerevan City|id:179680|580|470",
    "Yerevan City|id:165982|590|295",
    "Yerevan City|id:534|580|490",
-   "Yerevan City|id:5567|580|465"
+   "Yerevan City|id:5567|580|465",
+   "Yerevan City|id:5983|580|470"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Գինի վարդագույն «Իջևան Սարգոն» 0.75մլ",
-    "old": 5930,
-    "new": 5250,
-    "pct": 11,
-    "until": "08.01.2027",
-    "img": "https://www.sas.am/upload/Sh/imageCache/958/201/201769605703573.webp",
-    "url": "https://www.sas.am/catalog/armyanskoe_vino/602181/",
-    "key": "SAS|id:602181|5930|5250"
-   },
    {
     "store": "SAS",
     "title": "Բրենդի բալի «Իջևան» 0.5լ",
@@ -8263,12 +8253,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1067987.png",
     "url": "https://yerevan-city.am/shop/product-details/5567",
     "key": "Yerevan City|id:5567|580|465"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ածելի «Վուիլկինսոն Սվորդ» Դասական 5հտ",
+    "old": 580,
+    "new": 470,
+    "pct": 19,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1085338.png",
+    "url": "https://yerevan-city.am/shop/product-details/5983",
+    "key": "Yerevan City|id:5983|580|470"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-28T08:02:26.584573+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-28T08:19:41.426212+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
