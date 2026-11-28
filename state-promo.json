@@ -3892,7 +3892,8 @@
    "Yerevan City|id:170905|570|490",
    "Yerevan City|id:116460|570|430",
    "Yerevan City|id:110956|570|440",
-   "Yerevan City|id:110953|570|440"
+   "Yerevan City|id:110953|570|440",
+   "Yerevan City|id:10362|570|470"
   ]
  },
  "queues": {
@@ -8287,6 +8288,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1141941.png",
     "url": "https://yerevan-city.am/shop/product-details/110953",
     "key": "Yerevan City|id:110953|570|440"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Փաթիլներ 6 հացահատիկ «Կրուպնո» 400գր",
+    "old": 570,
+    "new": 470,
+    "pct": 18,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1047395.png",
+    "url": "https://yerevan-city.am/shop/product-details/10362",
+    "key": "Yerevan City|id:10362|570|470"
    }
   ]
  },
