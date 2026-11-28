@@ -3878,22 +3878,12 @@
    "Yerevan City|id:29914|580|510",
    "Yerevan City|id:57501|580|470",
    "Yerevan City|id:51208|580|390",
-   "Yerevan City|id:17213|575|430"
+   "Yerevan City|id:17213|575|430",
+   "Yerevan City|id:2681|570|490"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կոնյակ «Արմա 3*» 0.5լ",
-    "old": 3350,
-    "new": 3190,
-    "pct": 5,
-    "until": "08.01.2027",
-    "img": "",
-    "url": "https://www.sas.am/catalog/armyanskiy_konyak/598141/",
-    "key": "SAS|id:598141|3350|3190"
-   },
    {
     "store": "SAS",
     "title": "Պղպեղ կարմիր աղացած «Արտֆուդ» 460գ",
@@ -8273,12 +8263,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1099171.png",
     "url": "https://yerevan-city.am/shop/product-details/17213",
     "key": "Yerevan City|id:17213|575|430"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Հանքային ջուր «Բորժոմի» ա/տ 0.5լ",
+    "old": 570,
+    "new": 490,
+    "pct": 14,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1037152.png",
+    "url": "https://yerevan-city.am/shop/product-details/2681",
+    "key": "Yerevan City|id:2681|570|490"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-28T11:17:12.572447+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-28T11:32:22.028372+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
