@@ -6073,17 +6073,6 @@
   "Yerevan City": [
    {
     "store": "Yerevan City",
-    "title": "Մարմելադ «Ուդարնիցա» նար-կիտ-լայմ-թուրինջ 275գր",
-    "old": 690,
-    "new": 490,
-    "pct": 29,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1163087.png",
-    "url": "https://yerevan-city.am/shop/product-details/168339",
-    "key": "Yerevan City|id:168339|690|490"
-   },
-   {
-    "store": "Yerevan City",
     "title": "Բրաունի պրոտ. «Ֆիթ Կիթ» շոկոլադ-պիստակ ա/շ 50գր",
     "old": 690,
     "new": 460,
@@ -8274,8 +8263,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-28T06:04:35.794250+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-28T06:32:20.870759+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
