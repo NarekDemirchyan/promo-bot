@@ -1937,7 +1937,8 @@
    "SAS|id:166107|1340|1050",
    "SAS|id:363180|870|590",
    "SAS|id:646639|2470|1720",
-   "SAS|id:646638|2470|1720"
+   "SAS|id:646638|2470|1720",
+   "SAS|id:646617|2470|1720"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3899,22 +3900,12 @@
    "Yerevan City|id:10362|570|470",
    "Yerevan City|id:193532|565|282",
    "Yerevan City|id:193533|565|282",
-   "Yerevan City|id:25765|560|530"
+   "Yerevan City|id:25765|560|530",
+   "Yerevan City|id:153583|560|410"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Կոնյակ «Երևան 5*» 0.25լ",
-    "old": 2390,
-    "new": 2190,
-    "pct": 8,
-    "until": "08.01.2027",
-    "img": "",
-    "url": "https://www.sas.am/catalog/armyanskiy_konyak/594238/",
-    "key": "SAS|id:594238|2390|2190"
-   },
    {
     "store": "SAS",
     "title": "Կոնյակ «Երևան 3*» 0.25լ",
@@ -6092,6 +6083,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/liqsoup/646638/",
     "key": "SAS|id:646638|2470|1720"
+   },
+   {
+    "store": "SAS",
+    "title": "Հեղուկ օճառ հակաբակտերիալ «Safeguard» 420գ",
+    "old": 2470,
+    "new": 1720,
+    "pct": 30,
+    "until": "01.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/liqsoup/646617/",
+    "key": "SAS|id:646617|2470|1720"
    }
   ],
   "Yerevan City": [
@@ -8283,12 +8285,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1072944.png",
     "url": "https://yerevan-city.am/shop/product-details/25765",
     "key": "Yerevan City|id:25765|560|530"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Ալյումինե փայլաթիթեղ «Հոմ Կոմֆորտ» 8մ",
+    "old": 560,
+    "new": 410,
+    "pct": 27,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1154194.png",
+    "url": "https://yerevan-city.am/shop/product-details/153583",
+    "key": "Yerevan City|id:153583|560|410"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-28T18:01:23.186206+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-28T18:19:57.748597+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
