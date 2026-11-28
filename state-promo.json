@@ -1914,7 +1914,8 @@
    "SAS|id:101800|550|480",
    "SAS|id:101794|550|480",
    "SAS|id:711454|3950|2750",
-   "SAS|id:636683|2290|1600"
+   "SAS|id:636683|2290|1600",
+   "SAS|id:631036|19900|13930"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -6046,20 +6047,20 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/279/902/9028823503525244.webp",
     "url": "https://www.sas.am/catalog/desert_biskvit/636683/",
     "key": "SAS|id:636683|2290|1600"
+   },
+   {
+    "store": "SAS",
+    "title": "Հնդկական ընկույզ աղով «Kirkland Signature» 1.13կգ",
+    "old": 19900,
+    "new": 13930,
+    "pct": 30,
+    "until": "01.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/312/141/1416752869913645.webp",
+    "url": "https://www.sas.am/catalog/orekhi/631036/",
+    "key": "SAS|id:631036|19900|13930"
    }
   ],
   "Yerevan City": [
-   {
-    "store": "Yerevan City",
-    "title": "Ջրային խաղ օղակներով 2928ՈՒ-13Ա",
-    "old": 690,
-    "new": 490,
-    "pct": 29,
-    "until": "",
-    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1182110.png",
-    "url": "https://yerevan-city.am/shop/product-details/196864",
-    "key": "Yerevan City|id:196864|690|490"
-   },
    {
     "store": "Yerevan City",
     "title": "Զեֆիր շոկոլադում «Ուդարնիցա» Շարմէլ, դասական 75գր",
@@ -8252,8 +8253,8 @@
   ]
  },
  "seeded": true,
- "rr": 1,
- "last_publish": "2026-11-28T04:02:36.794067+04:00",
+ "rr": 0,
+ "last_publish": "2026-11-28T04:17:16.651354+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
