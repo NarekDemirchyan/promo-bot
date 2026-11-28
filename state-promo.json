@@ -1938,7 +1938,8 @@
    "SAS|id:363180|870|590",
    "SAS|id:646639|2470|1720",
    "SAS|id:646638|2470|1720",
-   "SAS|id:646617|2470|1720"
+   "SAS|id:646617|2470|1720",
+   "SAS|id:946727|2250|1120"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -6094,6 +6095,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/liqsoup/646617/",
     "key": "SAS|id:646617|2470|1720"
+   },
+   {
+    "store": "SAS",
+    "title": "Մարմնի լոսյոն «Vaseline Almond Smooth» 295մլ",
+    "old": 2250,
+    "new": 1120,
+    "pct": 50,
+    "until": "01.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/vse_dlya_ukhoda_za_telom_ustarelo/946727/",
+    "key": "SAS|id:946727|2250|1120"
    }
   ],
   "Yerevan City": [
