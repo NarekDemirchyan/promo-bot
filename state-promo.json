@@ -3888,7 +3888,8 @@
    "Yerevan City|id:16626|570|480",
    "Yerevan City|id:180197|570|440",
    "Yerevan City|id:170905|570|490",
-   "Yerevan City|id:116460|570|430"
+   "Yerevan City|id:116460|570|430",
+   "Yerevan City|id:110956|570|440"
   ]
  },
  "queues": {
@@ -8283,6 +8284,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1146595.png",
     "url": "https://yerevan-city.am/shop/product-details/116460",
     "key": "Yerevan City|id:116460|570|430"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Եգիպտացորենի ձողիկներ «ՖՆ» խնձոր-ելակ ա/շ 12 20գ 20գր",
+    "old": 570,
+    "new": 440,
+    "pct": 23,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1141944.png",
+    "url": "https://yerevan-city.am/shop/product-details/110956",
+    "key": "Yerevan City|id:110956|570|440"
    }
   ]
  },
