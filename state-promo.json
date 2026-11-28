@@ -3872,17 +3872,6 @@
   "SAS": [
    {
     "store": "SAS",
-    "title": "Կոնյակ «Արմա 7*» 0,7լ",
-    "old": 7590,
-    "new": 6790,
-    "pct": 11,
-    "until": "08.01.2027",
-    "img": "https://www.sas.am/upload/Sh/imageCache/344/306/3060241651197242.webp",
-    "url": "https://www.sas.am/catalog/armyanskiy_konyak/604835/",
-    "key": "SAS|id:604835|7590|6790"
-   },
-   {
-    "store": "SAS",
     "title": "Գինի սպիտակ «Ակում Կանգուն» 0.375լ",
     "old": 5490,
     "new": 4490,
@@ -8275,8 +8264,8 @@
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-28T06:32:20.870759+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-28T07:06:07.559114+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
