@@ -1924,7 +1924,8 @@
    "SAS|id:167182|990|940",
    "SAS|id:99945|13500|9450",
    "SAS|id:130624|390|350",
-   "SAS|id:110011|5690|3750"
+   "SAS|id:110011|5690|3750",
+   "SAS|id:4273|990|940"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -6066,6 +6067,17 @@
     "img": "",
     "url": "https://www.sas.am/catalog/nabory_konfet/110011/",
     "key": "SAS|id:110011|5690|3750"
+   },
+   {
+    "store": "SAS",
+    "title": "Նեկտար թուրինջի «Sandora» 0.95լ",
+    "old": 990,
+    "new": 940,
+    "pct": 5,
+    "until": "05.01.2027",
+    "img": "https://www.sas.am/upload/Sh/imageCache/229/218/21850526368335.webp",
+    "url": "https://www.sas.am/catalog/sok/4273/",
+    "key": "SAS|id:4273|990|940"
    }
   ],
   "Yerevan City": [
