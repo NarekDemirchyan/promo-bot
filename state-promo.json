@@ -3897,7 +3897,8 @@
    "Yerevan City|id:110953|570|440",
    "Yerevan City|id:10362|570|470",
    "Yerevan City|id:193532|565|282",
-   "Yerevan City|id:193533|565|282"
+   "Yerevan City|id:193533|565|282",
+   "Yerevan City|id:25765|560|530"
   ]
  },
  "queues": {
@@ -8281,6 +8282,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177291.png",
     "url": "https://yerevan-city.am/shop/product-details/193533",
     "key": "Yerevan City|id:193533|565|282"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Լավաշ «Սևանի» չոր 4հտ 400գր±3",
+    "old": 560,
+    "new": 530,
+    "pct": 5,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1072944.png",
+    "url": "https://yerevan-city.am/shop/product-details/25765",
+    "key": "Yerevan City|id:25765|560|530"
    }
   ]
  },
