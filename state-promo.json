@@ -1919,7 +1919,8 @@
    "SAS|id:624701|3250|1620",
    "SAS|id:599035|2550|1780",
    "SAS|id:362986|620|430",
-   "SAS|id:256495|7010|6650"
+   "SAS|id:256495|7010|6650",
+   "SAS|id:206854|1570|1190"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -6056,6 +6057,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/419/219/2194052758071511.webp",
     "url": "https://www.sas.am/catalog/armyanskoe_vino/256495/",
     "key": "SAS|id:256495|7010|6650"
+   },
+   {
+    "store": "SAS",
+    "title": "Շոկոլադե սալիկ սպիտակ, պնդուկով և փաթիլներով «Ritter Sport Цельный Лесной Орех и Хлопья» 100գ",
+    "old": 1570,
+    "new": 1190,
+    "pct": 24,
+    "until": "15.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/244/598/5988633894004216.webp",
+    "url": "https://www.sas.am/catalog/plitka/206854/",
+    "key": "SAS|id:206854|1570|1190"
    }
   ],
   "Yerevan City": [
