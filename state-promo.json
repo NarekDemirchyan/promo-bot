@@ -1935,7 +1935,8 @@
    "SAS|id:31817|710|590",
    "SAS|id:416963|1670|1160",
    "SAS|id:166107|1340|1050",
-   "SAS|id:363180|870|590"
+   "SAS|id:363180|870|590",
+   "SAS|id:646639|2470|1720"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -3895,7 +3896,8 @@
    "Yerevan City|id:110956|570|440",
    "Yerevan City|id:110953|570|440",
    "Yerevan City|id:10362|570|470",
-   "Yerevan City|id:193532|565|282"
+   "Yerevan City|id:193532|565|282",
+   "Yerevan City|id:193533|565|282"
   ]
  },
  "queues": {
@@ -6088,6 +6090,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/174/576/576100493470502.webp",
     "url": "https://www.sas.am/catalog/chistyashchie_sredstva/363180/",
     "key": "SAS|id:363180|870|590"
+   },
+   {
+    "store": "SAS",
+    "title": "Հեղուկ օճառ հակաբակտերիալ «Safeguard Lemon Fresh» 420գ",
+    "old": 2470,
+    "new": 1720,
+    "pct": 30,
+    "until": "01.12.2026",
+    "img": "",
+    "url": "https://www.sas.am/catalog/liqsoup/646639/",
+    "key": "SAS|id:646639|2470|1720"
    }
   ],
   "Yerevan City": [
@@ -8279,6 +8292,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177290.png",
     "url": "https://yerevan-city.am/shop/product-details/193532",
     "key": "Yerevan City|id:193532|565|282"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Մայոնեզ «Հելլմաննս» Թեթև 20% 300գր",
+    "old": 565,
+    "new": 282,
+    "pct": 50,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1177291.png",
+    "url": "https://yerevan-city.am/shop/product-details/193533",
+    "key": "Yerevan City|id:193533|565|282"
    }
   ]
  },
