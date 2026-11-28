@@ -1926,7 +1926,8 @@
    "SAS|id:130624|390|350",
    "SAS|id:110011|5690|3750",
    "SAS|id:4273|990|940",
-   "SAS|id:976629|930|460"
+   "SAS|id:976629|930|460",
+   "SAS|id:930199|2190|1530"
   ],
   "Yerevan City": [
    "Yerevan City|id:52485|89990|59987",
@@ -6070,6 +6071,17 @@
     "img": "https://www.sas.am/upload/Sh/imageCache/155/215/2150792139673967.webp",
     "url": "https://www.sas.am/catalog/batonchik/976629/",
     "key": "SAS|id:976629|930|460"
+   },
+   {
+    "store": "SAS",
+    "title": "Շամպուն «Syoss Intense Rizos» 440մլ",
+    "old": 2190,
+    "new": 1530,
+    "pct": 30,
+    "until": "01.12.2026",
+    "img": "https://www.sas.am/upload/Sh/imageCache/348/242/242765451234807.webp",
+    "url": "https://www.sas.am/catalog/dlya_volos2/930199/",
+    "key": "SAS|id:930199|2190|1530"
    }
   ],
   "Yerevan City": [
