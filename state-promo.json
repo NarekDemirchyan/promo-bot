@@ -3884,22 +3884,12 @@
    "Yerevan City|id:17213|575|430",
    "Yerevan City|id:2681|570|490",
    "Yerevan City|id:16626|570|480",
-   "Yerevan City|id:180197|570|440"
+   "Yerevan City|id:180197|570|440",
+   "Yerevan City|id:170905|570|490"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Լիկյոր սերկևիլի «Ակում» 0,5լ",
-    "old": 7990,
-    "new": 7390,
-    "pct": 8,
-    "until": "08.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/liker/594266/",
-    "key": "SAS|id:594266|7990|7390"
-   },
    {
     "store": "SAS",
     "title": "Կոնյակ «Այվազովսկի» 0.25լ",
@@ -8279,12 +8269,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1173926.png",
     "url": "https://yerevan-city.am/shop/product-details/180197",
     "key": "Yerevan City|id:180197|570|440"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Վաֆլի «Կինդեր» Քրիսփի 34գր",
+    "old": 570,
+    "new": 490,
+    "pct": 14,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1164571.png",
+    "url": "https://yerevan-city.am/shop/product-details/170905",
+    "key": "Yerevan City|id:170905|570|490"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-28T13:06:31.383214+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-28T13:32:15.825346+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
