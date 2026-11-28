@@ -3880,22 +3880,12 @@
    "Yerevan City|id:57501|580|470",
    "Yerevan City|id:51208|580|390",
    "Yerevan City|id:17213|575|430",
-   "Yerevan City|id:2681|570|490"
+   "Yerevan City|id:2681|570|490",
+   "Yerevan City|id:16626|570|480"
   ]
  },
  "queues": {
   "SAS": [
-   {
-    "store": "SAS",
-    "title": "Պղպեղ կարմիր աղացած «Արտֆուդ» 460գ",
-    "old": 920,
-    "new": 820,
-    "pct": 11,
-    "until": "31.12.2026",
-    "img": "",
-    "url": "https://www.sas.am/catalog/baklazhan/132341/",
-    "key": "SAS|id:132341|920|820"
-   },
    {
     "store": "SAS",
     "title": "Լիկյոր նռան «Ակում» 0,5լ",
@@ -8275,12 +8265,23 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1037152.png",
     "url": "https://yerevan-city.am/shop/product-details/2681",
     "key": "Yerevan City|id:2681|570|490"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Խոնավ անձեռոցիկներ «Էկկա» հակաբակտերիալ, լայմ 72հտ",
+    "old": 570,
+    "new": 480,
+    "pct": 16,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1099362.png",
+    "url": "https://yerevan-city.am/shop/product-details/16626",
+    "key": "Yerevan City|id:16626|570|480"
    }
   ]
  },
  "seeded": true,
- "rr": 0,
- "last_publish": "2026-11-28T11:47:04.619958+04:00",
+ "rr": 1,
+ "last_publish": "2026-11-28T12:04:25.922206+04:00",
  "version": 6,
  "cursor": {
   "SAS": 15,
