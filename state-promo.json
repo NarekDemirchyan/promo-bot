@@ -3864,7 +3864,8 @@
    "Yerevan City|id:180976|590|290",
    "Yerevan City|id:111136|590|490",
    "Yerevan City|id:179680|580|470",
-   "Yerevan City|id:165982|590|295"
+   "Yerevan City|id:165982|590|295",
+   "Yerevan City|id:534|580|490"
   ]
  },
  "queues": {
@@ -8259,6 +8260,17 @@
     "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1161671.png",
     "url": "https://yerevan-city.am/shop/product-details/165982",
     "key": "Yerevan City|id:165982|590|295"
+   },
+   {
+    "store": "Yerevan City",
+    "title": "Տոմատի մածուկ «ԱՊԳ» 570գր",
+    "old": 580,
+    "new": 490,
+    "pct": 16,
+    "until": "",
+    "img": "https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1057474.png",
+    "url": "https://yerevan-city.am/shop/product-details/534",
+    "key": "Yerevan City|id:534|580|490"
    }
   ]
  },
